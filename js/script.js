@@ -53,6 +53,7 @@ btn.addEventListener("click", function() {
             if(request.status == 200) {
                 var json = JSON.parse(request.responseText);
                 addlist_course(json);
+                console.log(json);
             }
             function addlist_course(json) {
                 var html = "";
