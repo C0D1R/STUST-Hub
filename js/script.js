@@ -80,13 +80,13 @@ btn.addEventListener("click", function() {
             addlist_course_th();
         }
         if(courtyValue[i] != "general_elective_subject") {
-            var url = "http://localhost/newsite2/json/" + semValue + "-" + deptValue + "_" + courtyValue[i] + ".json";
+            var url = "https://github.com/C0D1R/STUST-timetable/tree/master/json/" + semValue + "-" + deptValue + "_" + courtyValue[i] + ".json";
             getJson(url);
         }
         else {
             general_course_list = judge_academy();
             for(var j = 0, len_general_course_list = general_course_list.length; j < len_general_course_list; j++) {
-                var url = "http://localhost/newsite2/json/" + semValue + "-" + general_course_list[j] + ".json";
+                var url = "https://github.com/C0D1R/STUST-timetable/tree/master/json/" + semValue + "-" + general_course_list[j] + ".json";
                 getJson(url);
             }
         }
