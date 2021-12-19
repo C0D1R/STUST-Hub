@@ -39,11 +39,14 @@
 .setwidth60 {
     width: 60%;
 }
-.setwidthpx {
+.setwidthpx1 {
     width: 912px;
 }
 .setwidth82 {
     width: 82%;
+}
+.setwidthpx2 {
+    width: 1245px;
 }
 .setwidth100 {
     width: 100%;
