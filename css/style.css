@@ -39,6 +39,9 @@
 .setwidth60 {
     width: 60%;
 }
+.setwidthpx {
+    width: 912px;
+}
 .setwidth82 {
     width: 82%;
 }
@@ -216,10 +219,4 @@
 .datalistli {
     border-top: 1px solid rgba(0,0,0,0.1);
     color: #333;
-}
-.posoutside {
-    position: relative;
-}
-.posinside {
-    position: absolute;
 }
