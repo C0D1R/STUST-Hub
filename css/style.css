@@ -8,7 +8,7 @@
 }
 .headingoutside,
 .footer {
-    background-color: #f7f7f7;
+    background-color: #f5f9f9;
 }
 .headingoutside {
     height: 106px;
@@ -39,13 +39,13 @@
 .setwidth60 {
     width: 60%;
 }
-.setwidthpx1 {
+.setwidthpx912 {
     width: 912px;
 }
 .setwidth82 {
     width: 82%;
 }
-.setwidthpx2 {
+.setwidthpx1245 {
     width: 1245px;
 }
 .setwidth100 {
