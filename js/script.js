@@ -1,10 +1,10 @@
-var lang = document.getElementsByName("language");
-var sem = document.getElementsByName("semester");
-var dept = document.getElementsByName("department");
-var courty = document.getElementsByName("course_type");
+const lang = document.getElementsByName("language");
+const sem = document.getElementsByName("semester");
+const dept = document.getElementsByName("department");
+const courty = document.getElementsByName("course_type");
 
-var btn = document.getElementById("btn");
-var list = document.getElementById("list");
+const btn = document.getElementById("btn");
+const list = document.getElementById("list");
 
 var langValue = "";
 var semValue = "";
@@ -52,19 +52,18 @@ btn.addEventListener("click", function() {
             if(request.status == 200) {
                 var json = JSON.parse(request.responseText);
                 addlist_course(json);
-                console.log(json);
             }
             function addlist_course(json) {
-                var html = "";
-                for(var k = 0, len_json = json.length; k < len_json; k++) {
+                let html = "";
+                for(let i = 0, len = json.length; i < len; i++) {
                     html += `
                             <div>
-                                <div style="width: 30%; padding-left: 5%;" class="float datalistli">${json[k].list_name}</div>
-                                <div style="width: 7%;" class="float datalistli">${json[k].list_credit}</div>
-                                <div style="width: 18%;" class="float datalistli textsetmid">${json[k].list_lecturer}</div>
-                                <div style="width: 13%;" class="float datalistli textsetmid">${json[k].list_type}</div>
-                                <div style="width: 17%;" class="float datalistli textsetmid">${json[k].list_field_class}</div>
-                                <div style="width: 10%;" class="float datalistli">${json[k].list_time}</div>
+                                <div style="width: 30%; padding-left: 5%;" class="float datalistli">${json[i].list_name}</div>
+                                <div style="width: 7%;" class="float datalistli">${json[i].list_credit}</div>
+                                <div style="width: 18%;" class="float datalistli textsetmid">${json[i].list_lecturer}</div>
+                                <div style="width: 13%;" class="float datalistli textsetmid">${json[i].list_type}</div>
+                                <div style="width: 17%;" class="float datalistli textsetmid">${json[i].list_field_class}</div>
+                                <div style="width: 10%;" class="float datalistli">${json[i].list_time}</div>
                                 <div style="clear: both;"></div>
                             </div>
                             `;
@@ -77,13 +76,13 @@ btn.addEventListener("click", function() {
     addlist_course_th();
     for(let i = 0, len = courtyValue.length; i < len; i++) {
         if(courtyValue[i] != "general_elective_subject") {
-            var url = "./data/" + semValue + "-" + deptValue + "_" + courtyValue[i] + ".json";
+            let url = "./data/" + semValue + "-" + deptValue + "_" + courtyValue[i] + ".json";
             getJson(url);
         }
         else {
             general_course_list = judge_academy();
             for(let j = 0, len = general_course_list.length; j < len; j++) {
-                var url = "./data/" + semValue + "-" + general_course_list[j] + ".json";
+                let url = "./data/" + semValue + "-" + general_course_list[j] + ".json";
                 getJson(url);
             }
         }
