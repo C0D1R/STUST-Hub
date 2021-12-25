@@ -51,25 +51,24 @@ btn.addEventListener("click", function() {
         request.onload = function() {
             if(request.status == 200) {
                 let json = JSON.parse(request.responseText);
-                addlist_course(json);
-            }
-            function addlist_course(json) {
-                let html = "";
-                for(let i = 0, len = json.length; i < len; i++) {
-                    html += `
-                            <div>
-                                <div style="width: 30%; padding-left: 5%;" class="float datalistli">${json[i].list_name}</div>
-                                <div style="width: 7%;" class="float datalistli">${json[i].list_credit}</div>
-                                <div style="width: 18%;" class="float datalistli textsetmid">${json[i].list_lecturer}</div>
-                                <div style="width: 13%;" class="float datalistli textsetmid">${json[i].list_type}</div>
-                                <div style="width: 17%;" class="float datalistli textsetmid">${json[i].list_field_class}</div>
-                                <div style="width: 10%;" class="float datalistli">${json[i].list_time}</div>
-                                <div style="clear: both;"></div>
-                            </div>
-                            `;
-                }
-                list.innerHTML += html;
-                sessionStorage.setItem("listHTML", list.innerHTML);
+                (function() {
+                    let html = "";
+                    for(let i = 0, len = json.length; i < len; i++) {
+                        html += `
+                                <div>
+                                    <div style="width: 30%; padding-left: 5%;" class="float datalistli">${json[i].list_name}</div>
+                                    <div style="width: 7%;" class="float datalistli">${json[i].list_credit}</div>
+                                    <div style="width: 18%;" class="float datalistli textsetmid">${json[i].list_lecturer}</div>
+                                    <div style="width: 13%;" class="float datalistli textsetmid">${json[i].list_type}</div>
+                                    <div style="width: 17%;" class="float datalistli textsetmid">${json[i].list_field_class}</div>
+                                    <div style="width: 10%;" class="float datalistli">${json[i].list_time}</div>
+                                    <div style="clear: both;"></div>
+                                </div>
+                                `;
+                    }
+                    list.innerHTML += html;
+                    sessionStorage.setItem("listHTML", list.innerHTML);
+                }());
             }
         }
     }
