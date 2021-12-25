@@ -12,21 +12,21 @@ var deptValue = "";
 var courtyValue = [];
 
 function getRadioBoxValue(RadioBoxValue) {
-    for(var i = 0, len = RadioBoxValue.length; i < len; i++) {
+    for(let i = 0, len = RadioBoxValue.length; i < len; i++) {
         if(RadioBoxValue[i].checked) {
             return RadioBoxValue[i].value;
         }
     }
 }
-function getRadioBoxValue_coursetype(courty) {
-    var j = 0;
-    for(var i = 0, len = courty.length; i < len; i++) {
-        if(courty[i].checked) {
-            courtyValue[j] = courty[i].value;
+function getCheckBoxValue(CheckBoxValue) {
+    let CheckedValue = [];
+    for(let i = 0, j = 0, len = CheckBoxValue.length; i < len; i++) {
+        if(CheckBoxValue[i].checked) {
+            CheckedValue[j] = CheckBoxValue[i].value;
             j++;
         }
     }
-    return courtyValue;
+    return CheckedValue;
 }
 
 window.onload = function() {
@@ -43,7 +43,7 @@ btn.addEventListener("click", function() {
     langValue = getRadioBoxValue(lang);
     semValue = getRadioBoxValue(sem);
     deptValue = getRadioBoxValue(dept);
-    getRadioBoxValue_coursetype(courty);
+    courtyValue = getCheckBoxValue(courty);
 
     function getJson(url) {
         var request = new XMLHttpRequest();
