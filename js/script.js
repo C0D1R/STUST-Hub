@@ -45,12 +45,12 @@ btn.addEventListener("click", function() {
     courtyValue = getCheckBoxValue(courty);
 
     function getJson(url) {
-        var request = new XMLHttpRequest();
+        let request = new XMLHttpRequest();
         request.open("GET", url);
         request.send(null);
         request.onload = function() {
             if(request.status == 200) {
-                var json = JSON.parse(request.responseText);
+                let json = JSON.parse(request.responseText);
                 addlist_course(json);
             }
             function addlist_course(json) {
