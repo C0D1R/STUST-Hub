@@ -38,7 +38,6 @@ window.onload = function() {
 btn.addEventListener("click", function() {
     sessionStorage.clear();
     list.innerHTML = "";
-    courtyValue = [];
 
     langValue = getRadioBoxValue(lang);
     semValue = getRadioBoxValue(sem);
@@ -75,18 +74,15 @@ btn.addEventListener("click", function() {
             }
         }
     }
-    for(var i = 0, len_courtyValue = courtyValue.length; i < len_courtyValue; i++) {
-        console.log(courtyValue[i]);
-        if(i == 0) {
-            addlist_course_th();
-        }
+    addlist_course_th();
+    for(let i = 0, len = courtyValue.length; i < len; i++) {
         if(courtyValue[i] != "general_elective_subject") {
             var url = "./data/" + semValue + "-" + deptValue + "_" + courtyValue[i] + ".json";
             getJson(url);
         }
         else {
             general_course_list = judge_academy();
-            for(var j = 0, len_general_course_list = general_course_list.length; j < len_general_course_list; j++) {
+            for(let j = 0, len = general_course_list.length; j < len; j++) {
                 var url = "./data/" + semValue + "-" + general_course_list[j] + ".json";
                 getJson(url);
             }
@@ -103,8 +99,7 @@ function addlist_course_th() {
                             <div style="width: 17%;" class="float datalistlith">班級／領域</div>
                             <div style="width: 10%;" class="float datalistlith">時間</div>
                             <div style="clear: both;"></div>
-                        </div>
-                        `;
+                        </div>`;
 }
 
 function judge_academy() {
