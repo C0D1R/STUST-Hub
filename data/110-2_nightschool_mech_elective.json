@@ -1,0 +1,402 @@
+[
+    {
+        "list_name": "職場實務探索(二)",
+        "list_credit": "1",
+        "list_lecturer": "許藝菊",
+        "list_type": "選修",
+        "list_field_class": "夜自控三甲",
+        "list_time": "四 11"
+    },
+    {
+        "list_name": "職場實務探索(二)",
+        "list_credit": "1",
+        "list_lecturer": "劉瑞弘",
+        "list_type": "選修",
+        "list_field_class": "夜自控三乙",
+        "list_time": "四 11"
+    },
+    {
+        "list_name": "職場實務探索(二)",
+        "list_credit": "1",
+        "list_lecturer": "黃文勇",
+        "list_type": "選修",
+        "list_field_class": "夜車輛三甲",
+        "list_time": "三 11"
+    },
+    {
+        "list_name": "職場實務探索(二)",
+        "list_credit": "1",
+        "list_lecturer": "張超群",
+        "list_type": "選修",
+        "list_field_class": "夜車輛三乙",
+        "list_time": "四 11"
+    },
+    {
+        "list_name": "職場實務探索(二)",
+        "list_credit": "1",
+        "list_lecturer": "陳沛仲",
+        "list_type": "選修",
+        "list_field_class": "夜車輛三丙",
+        "list_time": "四 11"
+    },
+    {
+        "list_name": "職場實務探索(四)",
+        "list_credit": "1",
+        "list_lecturer": "黃東雍",
+        "list_type": "選修",
+        "list_field_class": "夜自控四甲",
+        "list_time": "三 11"
+    },
+    {
+        "list_name": "職場實務探索(四)",
+        "list_credit": "1",
+        "list_lecturer": "鄧瑞哲",
+        "list_type": "選修",
+        "list_field_class": "夜自控四乙",
+        "list_time": "二 11"
+    },
+    {
+        "list_name": "職場實務探索(四)",
+        "list_credit": "1",
+        "list_lecturer": "魏慶華",
+        "list_type": "選修",
+        "list_field_class": "夜車輛四甲",
+        "list_time": "四 11"
+    },
+    {
+        "list_name": "職場實務探索(四)",
+        "list_credit": "1",
+        "list_lecturer": "徐翠敏",
+        "list_type": "選修",
+        "list_field_class": "夜車輛四乙",
+        "list_time": "四 11"
+    },
+    {
+        "list_name": "職場實務探索(四)",
+        "list_credit": "1",
+        "list_lecturer": "莊鎧榤",
+        "list_type": "選修",
+        "list_field_class": "夜車輛四丙",
+        "list_time": "四 11"
+    },
+    {
+        "list_name": "職場自主學習(二)",
+        "list_credit": "1",
+        "list_lecturer": "劉佳營",
+        "list_type": "選修",
+        "list_field_class": "夜自控一甲",
+        "list_time": "三 11"
+    },
+    {
+        "list_name": "職場自主學習(二)",
+        "list_credit": "1",
+        "list_lecturer": "張明豪",
+        "list_type": "選修",
+        "list_field_class": "夜車輛一甲",
+        "list_time": "五 11"
+    },
+    {
+        "list_name": "職場自主學習(四)",
+        "list_credit": "1",
+        "list_lecturer": "陳家昇",
+        "list_type": "選修",
+        "list_field_class": "夜自控二甲",
+        "list_time": "一 11"
+    },
+    {
+        "list_name": "職場自主學習(四)",
+        "list_credit": "1",
+        "list_lecturer": "許哲嘉",
+        "list_type": "選修",
+        "list_field_class": "夜車輛二甲",
+        "list_time": "一 11"
+    },
+    {
+        "list_name": "職場自主學習(四)",
+        "list_credit": "1",
+        "list_lecturer": "彭守道",
+        "list_type": "選修",
+        "list_field_class": "夜車輛二乙",
+        "list_time": "二 11"
+    },
+    {
+        "list_name": "光電元件應用技術",
+        "list_credit": "3",
+        "list_lecturer": "蕭育仁",
+        "list_type": "選修",
+        "list_field_class": "夜自控四甲等合開",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "內燃機",
+        "list_credit": "3",
+        "list_lecturer": "陳家昇",
+        "list_type": "選修",
+        "list_field_class": "夜自控三甲等合開",
+        "list_time": "一 12 13 14"
+    },
+    {
+        "list_name": "冷凍空調技術",
+        "list_credit": "3",
+        "list_lecturer": "吳忠原",
+        "list_type": "選修",
+        "list_field_class": "夜自控四甲等合開",
+        "list_time": "四 12 13 14"
+    },
+    {
+        "list_name": "創意性問題解決技巧",
+        "list_credit": "3",
+        "list_lecturer": "韓宗仁",
+        "list_type": "選修",
+        "list_field_class": "夜自控四甲等合開",
+        "list_time": "一 12 13 14"
+    },
+    {
+        "list_name": "動力學",
+        "list_credit": "3",
+        "list_lecturer": "劉乃上",
+        "list_type": "選修",
+        "list_field_class": "夜自控三甲等合開",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "專利檢索與創作",
+        "list_credit": "3",
+        "list_lecturer": "吳忠春",
+        "list_type": "選修",
+        "list_field_class": "夜機械雙軌四甲",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "工廠管理",
+        "list_credit": "3",
+        "list_lecturer": "蘇俊才",
+        "list_type": "選修",
+        "list_field_class": "夜自控一甲等合開",
+        "list_time": "三 12 13 14"
+    },
+    {
+        "list_name": "工業日文",
+        "list_credit": "3",
+        "list_lecturer": "楊政峰",
+        "list_type": "選修",
+        "list_field_class": "夜自控三甲等合開",
+        "list_time": "三 12 13 14"
+    },
+    {
+        "list_name": "工程材料",
+        "list_credit": "3",
+        "list_lecturer": "陳冠仁",
+        "list_type": "選修",
+        "list_field_class": "夜車輛一甲",
+        "list_time": "三 12 13 14"
+    },
+    {
+        "list_name": "數控工具機",
+        "list_credit": "3",
+        "list_lecturer": "蘇嘉祥",
+        "list_type": "選修",
+        "list_field_class": "夜機械雙軌四甲",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "替代燃料引擎",
+        "list_credit": "3",
+        "list_lecturer": "陳坤禾",
+        "list_type": "選修",
+        "list_field_class": "夜自控四甲等合開",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "模具加工技術",
+        "list_credit": "3",
+        "list_lecturer": "陳宥任",
+        "list_type": "選修",
+        "list_field_class": "夜機械雙軌二甲",
+        "list_time": "五 7 8 9"
+    },
+    {
+        "list_name": "機械製造",
+        "list_credit": "3",
+        "list_lecturer": "王平會",
+        "list_type": "選修",
+        "list_field_class": "夜自控三甲等合開",
+        "list_time": "三 12 13 14"
+    },
+    {
+        "list_name": "機械製造",
+        "list_credit": "3",
+        "list_lecturer": "楊政峰",
+        "list_type": "選修",
+        "list_field_class": "夜機械雙軌一甲",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "汽車噪音及振動",
+        "list_credit": "3",
+        "list_lecturer": "張超群",
+        "list_type": "選修",
+        "list_field_class": "夜自控四甲等合開",
+        "list_time": "四 12 13 14"
+    },
+    {
+        "list_name": "汽車專業英文",
+        "list_credit": "3",
+        "list_lecturer": "張宇均",
+        "list_type": "選修",
+        "list_field_class": "夜車輛二甲等合開",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "無塵室技術應用",
+        "list_credit": "3",
+        "list_lecturer": "魏慶華",
+        "list_type": "選修",
+        "list_field_class": "夜自控三甲等合開",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "熱處理學與金相學",
+        "list_credit": "3",
+        "list_lecturer": "吳忠春",
+        "list_type": "選修",
+        "list_field_class": "夜自控四甲等合開",
+        "list_time": "一 12 13 14"
+    },
+    {
+        "list_name": "生醫工程技術",
+        "list_credit": "3",
+        "list_lecturer": "林威廷",
+        "list_type": "選修",
+        "list_field_class": "夜自控三甲等合開",
+        "list_time": "一 12 13 14"
+    },
+    {
+        "list_name": "精密加工技術",
+        "list_credit": "3",
+        "list_lecturer": "韓宗仁",
+        "list_type": "選修",
+        "list_field_class": "夜自控四甲等合開",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "精密機械振動測試與分析",
+        "list_credit": "3",
+        "list_lecturer": "王永鵬",
+        "list_type": "選修",
+        "list_field_class": "夜自控三甲等合開",
+        "list_time": "一 12 13 14"
+    },
+    {
+        "list_name": "精密機械製造實務",
+        "list_credit": "3",
+        "list_lecturer": "曾信智",
+        "list_type": "選修",
+        "list_field_class": "夜自控四甲等合開",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "精密量測與實習",
+        "list_credit": "3",
+        "list_lecturer": "朱志良",
+        "list_type": "選修",
+        "list_field_class": "夜機械雙軌四甲",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "自動控制",
+        "list_credit": "3",
+        "list_lecturer": "沈毓泰",
+        "list_type": "選修",
+        "list_field_class": "夜車輛三甲等合開",
+        "list_time": "三 12 13 14"
+    },
+    {
+        "list_name": "車身設計與製造",
+        "list_credit": "3",
+        "list_lecturer": "郭聰源",
+        "list_type": "選修",
+        "list_field_class": "夜車輛三甲等合開",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "車身設計與製造",
+        "list_credit": "3",
+        "list_lecturer": "郭聰源",
+        "list_type": "選修",
+        "list_field_class": "夜車輛三乙",
+        "list_time": "四 12 13 14"
+    },
+    {
+        "list_name": "電動車概論",
+        "list_credit": "3",
+        "list_lecturer": "張明豪",
+        "list_type": "選修",
+        "list_field_class": "夜車輛二甲等合開",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "電機機械應用與實務",
+        "list_credit": "3",
+        "list_lecturer": "楊博華",
+        "list_type": "選修",
+        "list_field_class": "夜自控四甲等合開",
+        "list_time": "一 12 13 14"
+    },
+    {
+        "list_name": "電腦輔助工程分析",
+        "list_credit": "3",
+        "list_lecturer": "呂金塗",
+        "list_type": "選修",
+        "list_field_class": "夜自控四甲等合開",
+        "list_time": "四 12 13 14"
+    },
+    {
+        "list_name": "電腦輔助機械製圖",
+        "list_credit": "3",
+        "list_lecturer": "劉佳營",
+        "list_type": "選修",
+        "list_field_class": "夜自控一甲等合開",
+        "list_time": "三 12 13 14"
+    },
+    {
+        "list_name": "電路學",
+        "list_credit": "3",
+        "list_lecturer": "林開政",
+        "list_type": "選修",
+        "list_field_class": "夜車輛一甲",
+        "list_time": "三 12 13 14"
+    },
+    {
+        "list_name": "靜力學",
+        "list_credit": "3",
+        "list_lecturer": "呂金塗",
+        "list_type": "選修",
+        "list_field_class": "夜機械雙軌一甲",
+        "list_time": "二 1 2 3"
+    },
+    {
+        "list_name": "非傳統性加工",
+        "list_credit": "3",
+        "list_lecturer": "戴子堯",
+        "list_type": "選修",
+        "list_field_class": "夜自控四甲等合開",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "顧客關係",
+        "list_credit": "3",
+        "list_lecturer": "李清河",
+        "list_type": "選修",
+        "list_field_class": "夜自控四甲等合開",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "馬達原理與控制",
+        "list_credit": "3",
+        "list_lecturer": "劉瑞弘",
+        "list_type": "選修",
+        "list_field_class": "夜自控三甲等合開",
+        "list_time": "五 12 13 14"
+    }
+]
