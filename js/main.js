@@ -91,7 +91,7 @@
                        .join().replace(/,/g, '(?!技)|')}(?!技)|領域`;
         for(let i = coursetype.length-1, url = ''; i >= 0; i--) {
             if(coursetype[i] != 'general_elective') {
-                url = `../data/${semester}_${schoolsystem}_${department}_${coursetype[i]}.json`;
+                url = `../data/${semester}/${semester}_${schoolsystem}_${department}_${coursetype[i]}.json`;
                 promises.push(createWorker([url, grade]));
             }
             else {
