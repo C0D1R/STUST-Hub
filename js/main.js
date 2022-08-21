@@ -97,7 +97,7 @@
             else {
                 const gencourse = getGeneralField(department);
                 for(let j = gencourse.length-1; j >= 0; j--) {
-                    url = `../data/${semester}_${gencourse[j]}.json`;
+                    url = `../data/${semester}/${semester}_${gencourse[j]}.json`;
                     promises.push(createWorker([url, grade]));
                 }
             }
