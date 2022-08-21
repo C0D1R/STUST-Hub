@@ -106,65 +106,9 @@
     {
         "list_name": "導師時間",
         "list_credit": "0",
-        "list_lecturer": "余梅香",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅一甲",
-        "list_time": "三 11"
-    },
-    {
-        "list_name": "導師時間",
-        "list_credit": "0",
-        "list_lecturer": "梁仲正",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅一乙",
-        "list_time": "三 11"
-    },
-    {
-        "list_name": "導師時間",
-        "list_credit": "0",
-        "list_lecturer": "葉佳聖",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅二甲",
-        "list_time": "三 11"
-    },
-    {
-        "list_name": "導師時間",
-        "list_credit": "0",
-        "list_lecturer": "杜珈霖",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅二乙",
-        "list_time": "三 11"
-    },
-    {
-        "list_name": "導師時間",
-        "list_credit": "0",
-        "list_lecturer": "吳家驊",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅三甲",
-        "list_time": "三 11"
-    },
-    {
-        "list_name": "導師時間",
-        "list_credit": "0",
-        "list_lecturer": "黃旭怡",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅四甲",
-        "list_time": "三 11"
-    },
-    {
-        "list_name": "導師時間",
-        "list_credit": "0",
         "list_lecturer": "駱茗芬",
         "list_type": "必修",
-        "list_field_class": "夜餐旅四乙",
-        "list_time": "三 11"
-    },
-    {
-        "list_name": "導師時間",
-        "list_credit": "0",
-        "list_lecturer": "賈寶山",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅四丙",
+        "list_field_class": "夜四技餐旅四乙",
         "list_time": "三 11"
     },
     {
@@ -172,48 +116,8 @@
         "list_credit": "0",
         "list_lecturer": "未定",
         "list_type": "必修",
-        "list_field_class": "餐旅一甲",
-        "list_time": ""
-    },
-    {
-        "list_name": "操行",
-        "list_credit": "0",
-        "list_lecturer": "未定",
-        "list_type": "必修",
-        "list_field_class": "餐旅一乙",
-        "list_time": ""
-    },
-    {
-        "list_name": "操行",
-        "list_credit": "0",
-        "list_lecturer": "未定",
-        "list_type": "必修",
-        "list_field_class": "餐旅二甲",
-        "list_time": ""
-    },
-    {
-        "list_name": "操行",
-        "list_credit": "0",
-        "list_lecturer": "未定",
-        "list_type": "必修",
-        "list_field_class": "餐旅二乙",
-        "list_time": ""
-    },
-    {
-        "list_name": "操行",
-        "list_credit": "0",
-        "list_lecturer": "未定",
-        "list_type": "必修",
-        "list_field_class": "餐旅三甲",
-        "list_time": ""
-    },
-    {
-        "list_name": "操行",
-        "list_credit": "0",
-        "list_lecturer": "未定",
-        "list_type": "必修",
-        "list_field_class": "餐旅三乙",
-        "list_time": ""
+        "list_field_class": "四技餐旅三乙",
+        "list_time": "--"
     },
     {
         "list_name": "操行",
@@ -252,111 +156,15 @@
         "list_credit": "0",
         "list_lecturer": "未定",
         "list_type": "必修",
-        "list_field_class": "夜二技企管延修等合開",
-        "list_time": ""
-    },
-    {
-        "list_name": "操行",
-        "list_credit": "0",
-        "list_lecturer": "未定",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅一甲",
-        "list_time": ""
-    },
-    {
-        "list_name": "操行",
-        "list_credit": "0",
-        "list_lecturer": "未定",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅一乙",
-        "list_time": ""
-    },
-    {
-        "list_name": "操行",
-        "list_credit": "0",
-        "list_lecturer": "未定",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅二甲",
-        "list_time": ""
-    },
-    {
-        "list_name": "操行",
-        "list_credit": "0",
-        "list_lecturer": "未定",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅二乙",
-        "list_time": ""
-    },
-    {
-        "list_name": "操行",
-        "list_credit": "0",
-        "list_lecturer": "未定",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅三甲",
-        "list_time": ""
-    },
-    {
-        "list_name": "操行",
-        "list_credit": "0",
-        "list_lecturer": "未定",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅四甲",
-        "list_time": ""
-    },
-    {
-        "list_name": "操行",
-        "list_credit": "0",
-        "list_lecturer": "未定",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅四乙",
-        "list_time": ""
-    },
-    {
-        "list_name": "操行",
-        "list_credit": "0",
-        "list_lecturer": "未定",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅四丙",
-        "list_time": ""
-    },
-    {
-        "list_name": "餐旅校內實習",
-        "list_credit": "0",
-        "list_lecturer": "林美蘭",
-        "list_type": "必修",
-        "list_field_class": "餐旅延修",
-        "list_time": ""
-    },
-    {
-        "list_name": "服務學習(一)",
-        "list_credit": "1",
-        "list_lecturer": "劉國寧",
-        "list_type": "必修",
-        "list_field_class": "餐旅一甲",
-        "list_time": "一 5 五 1"
-    },
-    {
-        "list_name": "服務學習(一)",
-        "list_credit": "1",
-        "list_lecturer": "胡中州",
-        "list_type": "必修",
-        "list_field_class": "餐旅一乙",
-        "list_time": "四 5 五 2"
-    },
-    {
-        "list_name": "專題製作(二)",
-        "list_credit": "1",
-        "list_lecturer": "林美蘭",
-        "list_type": "必修",
-        "list_field_class": "餐旅延修",
-        "list_time": ""
+        "list_field_class": "夜四技餐旅四甲",
+        "list_time": "--"
     },
     {
         "list_name": "中文閱讀與表達(一)",
         "list_credit": "2",
         "list_lecturer": "許雅貴",
         "list_type": "必修",
-        "list_field_class": "餐旅一甲",
+        "list_field_class": "四技餐旅一甲",
         "list_time": "五 2 3"
     },
     {
@@ -520,59 +328,11 @@
         "list_time": "二 1 2"
     },
     {
-        "list_name": "台灣與世界",
-        "list_credit": "3",
-        "list_lecturer": "劉煥玲",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅二甲",
-        "list_time": "四 12 13 14"
-    },
-    {
-        "list_name": "台灣與世界",
-        "list_credit": "3",
-        "list_lecturer": "沈文珺",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅二乙",
-        "list_time": "四 12 13 14"
-    },
-    {
-        "list_name": "企業研究方法與學術倫理",
-        "list_credit": "3",
-        "list_lecturer": "王逸峰",
-        "list_type": "必修",
-        "list_field_class": "碩研休閒一甲等合開",
-        "list_time": "三 7 8 9"
-    },
-    {
-        "list_name": "全球英語溝通",
-        "list_credit": "3",
-        "list_lecturer": "潘玉美",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅一乙",
-        "list_time": "四 12 13 14"
-    },
-    {
-        "list_name": "全球英語溝通",
-        "list_credit": "3",
-        "list_lecturer": "施茹譯",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅一甲",
-        "list_time": "四 12 13 14"
-    },
-    {
-        "list_name": "哲學與人生",
-        "list_credit": "3",
-        "list_lecturer": "陳錦玉",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅一乙",
-        "list_time": "二 12 13 14"
-    },
-    {
         "list_name": "哲學與人生",
         "list_credit": "3",
         "list_lecturer": "顏銘俊",
         "list_type": "必修",
-        "list_field_class": "夜餐旅一甲",
+        "list_field_class": "夜四技餐旅一甲",
         "list_time": "二 12 13 14"
     },
     {
@@ -608,59 +368,11 @@
         "list_time": "二 5 6 7"
     },
     {
-        "list_name": "職場英語溝通",
-        "list_credit": "3",
-        "list_lecturer": "蘇俊豪",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅二甲",
-        "list_time": "二 12 13 14"
-    },
-    {
-        "list_name": "職場英語溝通",
-        "list_credit": "3",
-        "list_lecturer": "陳桂容",
-        "list_type": "必修",
-        "list_field_class": "夜餐旅二乙",
-        "list_time": "二 12 13 14"
-    },
-    {
-        "list_name": "餐旅專業實習",
-        "list_credit": "9",
-        "list_lecturer": "毛佩娟",
-        "list_type": "必修",
-        "list_field_class": "餐旅三甲",
-        "list_time": ""
-    },
-    {
-        "list_name": "外語能力檢定",
-        "list_credit": "0",
-        "list_lecturer": "李政源",
-        "list_type": "自選必修",
-        "list_field_class": "自控延修等合開",
-        "list_time": ""
-    },
-    {
-        "list_name": "操行",
-        "list_credit": "0",
-        "list_lecturer": "未定",
-        "list_type": "自選必修",
-        "list_field_class": "二技企管延修等合開",
-        "list_time": ""
-    },
-    {
-        "list_name": "體育生活(三)：有氧舞蹈(G)",
-        "list_credit": "1",
-        "list_lecturer": "邱懿瑩",
-        "list_type": "自選必修",
-        "list_field_class": "控晶二甲等合開",
-        "list_time": "四 8 9"
-    },
-    {
         "list_name": "體育生活(三)：羽球(G)",
         "list_credit": "1",
         "list_lecturer": "蘇素月",
         "list_type": "自選必修",
-        "list_field_class": "控晶二甲等合開",
+        "list_field_class": "四技控晶二甲等合開",
         "list_time": "四 8 9"
     },
     {
