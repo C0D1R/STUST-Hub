@@ -1,0 +1,434 @@
+[
+    {
+        "list_name": "職場自主學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "伍家德",
+        "list_type": "選修",
+        "list_field_class": "夜二技企管三甲",
+        "list_time": "一 11"
+    },
+    {
+        "list_name": "職場自主學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "林育理",
+        "list_type": "選修",
+        "list_field_class": "夜企管一甲",
+        "list_time": "二 11"
+    },
+    {
+        "list_name": "職場自主學習(三)",
+        "list_credit": "1",
+        "list_lecturer": "簡俊成",
+        "list_type": "選修",
+        "list_field_class": "夜二技企管四甲",
+        "list_time": "四 11"
+    },
+    {
+        "list_name": "職場自主學習(三)",
+        "list_credit": "1",
+        "list_lecturer": "簡南山",
+        "list_type": "選修",
+        "list_field_class": "夜企管二甲",
+        "list_time": "二 11"
+    },
+    {
+        "list_name": "企業經營實務研討",
+        "list_credit": "2",
+        "list_lecturer": "伍家德",
+        "list_type": "選修",
+        "list_field_class": "碩專企管二甲等合開",
+        "list_time": "六 3 4"
+    },
+    {
+        "list_name": "法國文化與節慶",
+        "list_credit": "2",
+        "list_lecturer": "艾米麗",
+        "list_type": "選修",
+        "list_field_class": "企管四甲等合開",
+        "list_time": "四 2 3"
+    },
+    {
+        "list_name": "前進職場",
+        "list_credit": "2",
+        "list_lecturer": "方妙玲",
+        "list_type": "選修",
+        "list_field_class": "企管三甲等合開",
+        "list_time": "三 3 4"
+    },
+    {
+        "list_name": "經營管理實務",
+        "list_credit": "2",
+        "list_lecturer": "莫素娟",
+        "list_type": "選修",
+        "list_field_class": "企管四甲等合開",
+        "list_time": "三 5 6"
+    },
+    {
+        "list_name": "人力資源管理",
+        "list_credit": "3",
+        "list_lecturer": "方妙玲",
+        "list_type": "選修",
+        "list_field_class": "企管二甲等合開",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "人才發展品質管理系統",
+        "list_credit": "3",
+        "list_lecturer": "鄭滄祥",
+        "list_type": "選修",
+        "list_field_class": "企管三甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "不動產投資與管理概要",
+        "list_credit": "3",
+        "list_lecturer": "余建明",
+        "list_type": "選修",
+        "list_field_class": "夜二技企管四甲等合開",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "文創行銷",
+        "list_credit": "3",
+        "list_lecturer": "蔡宗岳",
+        "list_type": "選修",
+        "list_field_class": "企管二甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "企業人才甄選實務",
+        "list_credit": "3",
+        "list_lecturer": "黃經智",
+        "list_type": "選修",
+        "list_field_class": "企管二甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "企業流程管理",
+        "list_credit": "3",
+        "list_lecturer": "殷世熙",
+        "list_type": "選修",
+        "list_field_class": "碩專企管一乙",
+        "list_time": "六 5 6 7"
+    },
+    {
+        "list_name": "企業診斷與分析",
+        "list_credit": "3",
+        "list_lecturer": "賴春美",
+        "list_type": "選修",
+        "list_field_class": "企管四甲等合開",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "企業資源規劃",
+        "list_credit": "3",
+        "list_lecturer": "唐豪駿",
+        "list_type": "選修",
+        "list_field_class": "夜二技企管三甲",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "企業資源規劃",
+        "list_credit": "3",
+        "list_lecturer": "丁志宏",
+        "list_type": "選修",
+        "list_field_class": "夜企管三甲",
+        "list_time": "四 12 13 14"
+    },
+    {
+        "list_name": "企業資源規劃(生管)",
+        "list_credit": "3",
+        "list_lecturer": "丁志宏",
+        "list_type": "選修",
+        "list_field_class": "企管四甲等合開",
+        "list_time": "二 6 7 8"
+    },
+    {
+        "list_name": "企業資源規劃系統",
+        "list_credit": "3",
+        "list_lecturer": "洪崇文",
+        "list_type": "選修",
+        "list_field_class": "企管一甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "企業電子化",
+        "list_credit": "3",
+        "list_lecturer": "王昭庸",
+        "list_type": "選修",
+        "list_field_class": "夜二技企管三甲",
+        "list_time": "四 12 13 14"
+    },
+    {
+        "list_name": "企業電子化",
+        "list_credit": "3",
+        "list_lecturer": "王昭庸",
+        "list_type": "選修",
+        "list_field_class": "夜企管三甲",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "自我管理與實現",
+        "list_credit": "3",
+        "list_lecturer": "賴明材",
+        "list_type": "選修",
+        "list_field_class": "企管一甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "行銷企劃執行",
+        "list_credit": "3",
+        "list_lecturer": "簡南山",
+        "list_type": "選修",
+        "list_field_class": "企管二甲等合開",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "行銷個案分析",
+        "list_credit": "3",
+        "list_lecturer": "郭幸萍",
+        "list_type": "選修",
+        "list_field_class": "企管三甲等合開",
+        "list_time": "一 6 7 8"
+    },
+    {
+        "list_name": "作業價值管理分析與應用",
+        "list_credit": "3",
+        "list_lecturer": "林憶樺",
+        "list_type": "選修",
+        "list_field_class": "企管四甲等合開",
+        "list_time": "一 6 7 8"
+    },
+    {
+        "list_name": "服務業管理",
+        "list_credit": "3",
+        "list_lecturer": "黃建中",
+        "list_type": "選修",
+        "list_field_class": "夜二技企管四甲等合開",
+        "list_time": "四 12 13 14"
+    },
+    {
+        "list_name": "金融創新服務",
+        "list_credit": "3",
+        "list_lecturer": "簡南山",
+        "list_type": "選修",
+        "list_field_class": "碩研企管一甲",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "消費市場分析",
+        "list_credit": "3",
+        "list_lecturer": "林育理",
+        "list_type": "選修",
+        "list_field_class": "碩研企管二甲",
+        "list_time": "一 6 7 8"
+    },
+    {
+        "list_name": "租稅實務與應用",
+        "list_credit": "3",
+        "list_lecturer": "許淑鈴",
+        "list_type": "選修",
+        "list_field_class": "企管一甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "財務報表分析",
+        "list_credit": "3",
+        "list_lecturer": "楊玉倫",
+        "list_type": "選修",
+        "list_field_class": "夜企管三甲",
+        "list_time": "三 12 13 14"
+    },
+    {
+        "list_name": "商務溝通",
+        "list_credit": "3",
+        "list_lecturer": "艾米麗",
+        "list_type": "選修",
+        "list_field_class": "四國際商務三甲等合開",
+        "list_time": "四 6 7 8"
+    },
+    {
+        "list_name": "商業智慧專題",
+        "list_credit": "3",
+        "list_lecturer": "鄭滄祥",
+        "list_type": "選修",
+        "list_field_class": "碩研企管二甲等合開",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "專案管理",
+        "list_credit": "3",
+        "list_lecturer": "袁國中",
+        "list_type": "選修",
+        "list_field_class": "夜二技企管四甲等合開",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "產品上市規劃",
+        "list_credit": "3",
+        "list_lecturer": "簡南山",
+        "list_type": "選修",
+        "list_field_class": "企管三甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "實務研討",
+        "list_credit": "3",
+        "list_lecturer": "未定",
+        "list_type": "選修",
+        "list_field_class": "碩專企管一甲等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "實務專題(一)",
+        "list_credit": "3",
+        "list_lecturer": "賴明材",
+        "list_type": "選修",
+        "list_field_class": "夜二技企管四甲",
+        "list_time": "一 11 二 11 三 11"
+    },
+    {
+        "list_name": "實務專題(一)",
+        "list_credit": "3",
+        "list_lecturer": "方妙玲,簡南山,魏虎嶺",
+        "list_type": "選修",
+        "list_field_class": "夜企管三甲",
+        "list_time": "一 11 三 11 四 11"
+    },
+    {
+        "list_name": "管理決策",
+        "list_credit": "3",
+        "list_lecturer": "林育德",
+        "list_type": "選修",
+        "list_field_class": "企管三甲等合開",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "應用統計",
+        "list_credit": "3",
+        "list_lecturer": "林義旭",
+        "list_type": "選修",
+        "list_field_class": "碩專企管一甲",
+        "list_time": "日 2 3 4"
+    },
+    {
+        "list_name": "薪酬與績效評估",
+        "list_credit": "3",
+        "list_lecturer": "王姿力",
+        "list_type": "選修",
+        "list_field_class": "企管三甲等合開",
+        "list_time": "一 6 7 8"
+    },
+    {
+        "list_name": "顧客關係管理",
+        "list_credit": "3",
+        "list_lecturer": "鄒奇龍",
+        "list_type": "選修",
+        "list_field_class": "企管三甲等合開",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "顧客關係管理",
+        "list_credit": "3",
+        "list_lecturer": "呂映瑾",
+        "list_type": "選修",
+        "list_field_class": "夜二技企管四甲等合開",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "行銷企劃實務",
+        "list_credit": "2",
+        "list_lecturer": "簡南山",
+        "list_type": "系定選修",
+        "list_field_class": "夜企管產攜三甲",
+        "list_time": "三 6 7 8"
+    },
+    {
+        "list_name": "商用英語",
+        "list_credit": "2",
+        "list_lecturer": "蔡玲玲",
+        "list_type": "系定選修",
+        "list_field_class": "夜企管產攜三甲",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "連鎖店管理",
+        "list_credit": "2",
+        "list_lecturer": "陳啟仁",
+        "list_type": "系定選修",
+        "list_field_class": "夜企管產攜三甲",
+        "list_time": "四 6 7 8"
+    },
+    {
+        "list_name": "創新與創業管理",
+        "list_credit": "2",
+        "list_lecturer": "黃經智",
+        "list_type": "系定選修",
+        "list_field_class": "夜企管產攜三甲",
+        "list_time": "二 6 7 8"
+    },
+    {
+        "list_name": "企業資源規劃",
+        "list_credit": "2",
+        "list_lecturer": "唐豪駿",
+        "list_type": "管制選修",
+        "list_field_class": "夜企管產攜三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "投資學",
+        "list_credit": "2",
+        "list_lecturer": "魏慧珊",
+        "list_type": "管制選修",
+        "list_field_class": "夜企管產攜三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "品牌與推廣管理",
+        "list_credit": "2",
+        "list_lecturer": "黃峰蕙",
+        "list_type": "管制選修",
+        "list_field_class": "夜企管產攜三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "進階商用英語",
+        "list_credit": "2",
+        "list_lecturer": "蔡玲玲",
+        "list_type": "管制選修",
+        "list_field_class": "夜企管產攜三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "經營診斷與輔導",
+        "list_credit": "2",
+        "list_lecturer": "黃經智",
+        "list_type": "管制選修",
+        "list_field_class": "夜企管產攜三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "社群服務經營策略",
+        "list_credit": "3",
+        "list_lecturer": "林義旭",
+        "list_type": "管制選修",
+        "list_field_class": "企管四甲等合開",
+        "list_time": "四 6 7 8"
+    },
+    {
+        "list_name": "創業經營實務應用",
+        "list_credit": "3",
+        "list_lecturer": "林義旭",
+        "list_type": "管制選修",
+        "list_field_class": "企管四甲等合開",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "電商行銷溝通實作",
+        "list_credit": "3",
+        "list_lecturer": "林義旭",
+        "list_type": "管制選修",
+        "list_field_class": "企管四甲等合開",
+        "list_time": "五 2 3 4"
+    }
+]

@@ -1,0 +1,490 @@
+[
+    {
+        "list_name": "專業英文閱讀與寫作",
+        "list_credit": "1",
+        "list_lecturer": "趙春棠",
+        "list_type": "選修",
+        "list_field_class": "醫電四甲等合開",
+        "list_time": "二 6"
+    },
+    {
+        "list_name": "專題製作(一)",
+        "list_credit": "1",
+        "list_lecturer": "蔡亮宙",
+        "list_type": "選修",
+        "list_field_class": "五專電機四甲",
+        "list_time": "三 5 6"
+    },
+    {
+        "list_name": "職場自主學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "黃宏銘",
+        "list_type": "選修",
+        "list_field_class": "夜電機一甲",
+        "list_time": "五 11"
+    },
+    {
+        "list_name": "環安衛概論",
+        "list_credit": "2",
+        "list_lecturer": "劉銘唐",
+        "list_type": "選修",
+        "list_field_class": "夜電機二甲",
+        "list_time": "一 11 12"
+    },
+    {
+        "list_name": "Linux程式設計",
+        "list_credit": "3",
+        "list_lecturer": "陳有圳",
+        "list_type": "選修",
+        "list_field_class": "醫電三甲",
+        "list_time": "二 6 7 8"
+    },
+    {
+        "list_name": "MatLab工程應用",
+        "list_credit": "3",
+        "list_lecturer": "侯春茹",
+        "list_type": "選修",
+        "list_field_class": "醫電三甲",
+        "list_time": "四 5 6 7"
+    },
+    {
+        "list_name": "MatLab工程應用",
+        "list_credit": "3",
+        "list_lecturer": "汪輝明",
+        "list_type": "選修",
+        "list_field_class": "夜電機四甲等合開",
+        "list_time": "一 12 13 14"
+    },
+    {
+        "list_name": "VB程式語言實習",
+        "list_credit": "3",
+        "list_lecturer": "吳智光",
+        "list_type": "選修",
+        "list_field_class": "夜電機三甲",
+        "list_time": "一 12 13 14"
+    },
+    {
+        "list_name": "人工智慧",
+        "list_credit": "3",
+        "list_lecturer": "施嘉興",
+        "list_type": "選修",
+        "list_field_class": "博研電機一甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "工程應用分析實務",
+        "list_credit": "3",
+        "list_lecturer": "凌拯民",
+        "list_type": "選修",
+        "list_field_class": "五專電機四甲",
+        "list_time": "二 5 6 7"
+    },
+    {
+        "list_name": "工業配電設計",
+        "list_credit": "3",
+        "list_lecturer": "許振廷",
+        "list_type": "選修",
+        "list_field_class": "電資三甲",
+        "list_time": "四 5 6 7"
+    },
+    {
+        "list_name": "工業電子應用實務",
+        "list_credit": "3",
+        "list_lecturer": "吳宗勲",
+        "list_type": "選修",
+        "list_field_class": "五專電機四甲",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "太陽能光電配置技術實務",
+        "list_credit": "3",
+        "list_lecturer": "易駿龍",
+        "list_type": "選修",
+        "list_field_class": "五專電機五甲",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "太陽能發電",
+        "list_credit": "3",
+        "list_lecturer": "許振廷",
+        "list_type": "選修",
+        "list_field_class": "夜電機四甲等合開",
+        "list_time": "三 12 13 14"
+    },
+    {
+        "list_name": "可程式控制應用實務",
+        "list_credit": "3",
+        "list_lecturer": "許毅然",
+        "list_type": "選修",
+        "list_field_class": "控晶二甲",
+        "list_time": "二 6 7 8"
+    },
+    {
+        "list_name": "可程式控制應用實務",
+        "list_credit": "3",
+        "list_lecturer": "許毅然",
+        "list_type": "選修",
+        "list_field_class": "控晶二乙",
+        "list_time": "二 1 2 3"
+    },
+    {
+        "list_name": "生醫訊號處理與分析",
+        "list_credit": "3",
+        "list_lecturer": "陳有圳",
+        "list_type": "選修",
+        "list_field_class": "博研電機一甲等合開",
+        "list_time": "四 6 7 8"
+    },
+    {
+        "list_name": "生醫量測應用實務",
+        "list_credit": "3",
+        "list_lecturer": "楊弘吉",
+        "list_type": "選修",
+        "list_field_class": "五專電機五甲",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "印刷電路板設計實習",
+        "list_credit": "3",
+        "list_lecturer": "李宗勳",
+        "list_type": "選修",
+        "list_field_class": "電資一甲",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "尖端科技",
+        "list_credit": "3",
+        "list_lecturer": "顏嘉宏",
+        "list_type": "選修",
+        "list_field_class": "夜電機四甲等合開",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "自動控制",
+        "list_credit": "3",
+        "list_lecturer": "黃玉君",
+        "list_type": "選修",
+        "list_field_class": "五專電機四甲",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "科技輔具原理與應用",
+        "list_credit": "3",
+        "list_lecturer": "施金波",
+        "list_type": "選修",
+        "list_field_class": "醫電四甲",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "能源應用",
+        "list_credit": "3",
+        "list_lecturer": "陳彥銘",
+        "list_type": "選修",
+        "list_field_class": "夜電機二甲",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "高等電力電子",
+        "list_credit": "3",
+        "list_lecturer": "蔡明村",
+        "list_type": "選修",
+        "list_field_class": "博研電機一甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "基本電學",
+        "list_credit": "3",
+        "list_lecturer": "邱俊賢",
+        "list_type": "選修",
+        "list_field_class": "夜電機一甲",
+        "list_time": "一 12 13 14"
+    },
+    {
+        "list_name": "專題研討(一)",
+        "list_credit": "3",
+        "list_lecturer": "施嘉興,楊弘吉,蔡亮宙",
+        "list_type": "選修",
+        "list_field_class": "醫電三甲等合開",
+        "list_time": "五 6 7 8"
+    },
+    {
+        "list_name": "智慧系統設計實務",
+        "list_credit": "3",
+        "list_lecturer": "陳有圳",
+        "list_type": "選修",
+        "list_field_class": "醫電四甲",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "智慧型機器人學",
+        "list_credit": "3",
+        "list_lecturer": "李政翰",
+        "list_type": "選修",
+        "list_field_class": "控晶三甲",
+        "list_time": "四 5 6 7"
+    },
+    {
+        "list_name": "智慧型機器人學",
+        "list_credit": "3",
+        "list_lecturer": "李政翰",
+        "list_type": "選修",
+        "list_field_class": "控晶三乙",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "智慧電網",
+        "list_credit": "3",
+        "list_lecturer": "凌拯民",
+        "list_type": "選修",
+        "list_field_class": "電資四甲",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "感測元件應用",
+        "list_credit": "3",
+        "list_lecturer": "趙全鋐",
+        "list_type": "選修",
+        "list_field_class": "夜電機四甲",
+        "list_time": "四 12 13 14"
+    },
+    {
+        "list_name": "感測元件應用",
+        "list_credit": "3",
+        "list_lecturer": "謝文哲",
+        "list_type": "選修",
+        "list_field_class": "夜電機四乙",
+        "list_time": "四 12 13 14"
+    },
+    {
+        "list_name": "電力系統運轉與控制",
+        "list_credit": "3",
+        "list_lecturer": "凌拯民",
+        "list_type": "選修",
+        "list_field_class": "博研電機一甲等合開",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "電力電子學實務",
+        "list_credit": "3",
+        "list_lecturer": "朱慶隆",
+        "list_type": "選修",
+        "list_field_class": "電資四甲",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "電動機控制",
+        "list_credit": "3",
+        "list_lecturer": "劉銘唐",
+        "list_type": "選修",
+        "list_field_class": "夜電機四甲等合開",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "電動機控制",
+        "list_credit": "3",
+        "list_lecturer": "王明賢",
+        "list_type": "選修",
+        "list_field_class": "控晶四甲等合開",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "電動機控制",
+        "list_credit": "3",
+        "list_lecturer": "陳盛基",
+        "list_type": "選修",
+        "list_field_class": "電資四甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "電源供應系統",
+        "list_credit": "3",
+        "list_lecturer": "朱慶隆",
+        "list_type": "選修",
+        "list_field_class": "電資三甲",
+        "list_time": "二 6 7 8"
+    },
+    {
+        "list_name": "電源品質",
+        "list_credit": "3",
+        "list_lecturer": "許振廷",
+        "list_type": "選修",
+        "list_field_class": "博研電機一甲等合開",
+        "list_time": "三 7 8 9"
+    },
+    {
+        "list_name": "電源轉換器製作實務",
+        "list_credit": "3",
+        "list_lecturer": "李宗勳",
+        "list_type": "選修",
+        "list_field_class": "五專電機五甲",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "電機機械",
+        "list_credit": "3",
+        "list_lecturer": "趙春棠",
+        "list_type": "選修",
+        "list_field_class": "控晶三甲",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "電機機械",
+        "list_credit": "3",
+        "list_lecturer": "洪得峻",
+        "list_type": "選修",
+        "list_field_class": "控晶三乙",
+        "list_time": "二 6 7 8"
+    },
+    {
+        "list_name": "電機機械專論",
+        "list_credit": "3",
+        "list_lecturer": "陳盛基",
+        "list_type": "選修",
+        "list_field_class": "電資三甲",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "電機機械概論",
+        "list_credit": "3",
+        "list_lecturer": "洪得峻",
+        "list_type": "選修",
+        "list_field_class": "五專電機四甲",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "磁性元件設計概論",
+        "list_credit": "3",
+        "list_lecturer": "洪得峻",
+        "list_type": "選修",
+        "list_field_class": "五專電機四甲",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "影像處理概論",
+        "list_credit": "3",
+        "list_lecturer": "陳彥廷",
+        "list_type": "選修",
+        "list_field_class": "五專電機五甲",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "數位訊號處理學",
+        "list_credit": "3",
+        "list_lecturer": "趙春棠",
+        "list_type": "選修",
+        "list_field_class": "控晶四甲等合開",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "數位影像處理與應用",
+        "list_credit": "3",
+        "list_lecturer": "陳彥廷",
+        "list_type": "選修",
+        "list_field_class": "博研電機一甲等合開",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "醫學工程概論",
+        "list_credit": "3",
+        "list_lecturer": "陳世中",
+        "list_type": "選修",
+        "list_field_class": "醫電三甲",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "醫療物聯網應用與實務",
+        "list_credit": "3",
+        "list_lecturer": "楊弘吉",
+        "list_type": "選修",
+        "list_field_class": "醫電四甲",
+        "list_time": "四 6 7 8"
+    },
+    {
+        "list_name": "醫療器械檢測原理與實務",
+        "list_credit": "3",
+        "list_lecturer": "楊弘吉",
+        "list_type": "選修",
+        "list_field_class": "醫電三甲",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "類比電路設計",
+        "list_credit": "3",
+        "list_lecturer": "吳坤憲",
+        "list_type": "選修",
+        "list_field_class": "控晶四甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "類比電路設計",
+        "list_credit": "3",
+        "list_lecturer": "黃宏銘",
+        "list_type": "選修",
+        "list_field_class": "五專電機四甲",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "基礎數學演練(一)",
+        "list_credit": "1",
+        "list_lecturer": "林正峰",
+        "list_type": "系定選修",
+        "list_field_class": "五專電機一甲",
+        "list_time": "一 4"
+    },
+    {
+        "list_name": "數學演習(一)",
+        "list_credit": "1",
+        "list_lecturer": "王啟州",
+        "list_type": "系定選修",
+        "list_field_class": "五專電機二甲",
+        "list_time": "一 8"
+    },
+    {
+        "list_name": "視窗程式語言實習",
+        "list_credit": "2",
+        "list_lecturer": "蔡亮宙",
+        "list_type": "系定選修",
+        "list_field_class": "五專電機三甲",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "電子專業實務",
+        "list_credit": "2",
+        "list_lecturer": "吳宗勲",
+        "list_type": "系定選修",
+        "list_field_class": "五專電機三甲",
+        "list_time": "二 5 6 7"
+    },
+    {
+        "list_name": "綠色能源系統",
+        "list_credit": "2",
+        "list_lecturer": "鄭尊仁",
+        "list_type": "系定選修",
+        "list_field_class": "五專電機二甲",
+        "list_time": "二 7 8"
+    },
+    {
+        "list_name": "可程式邏輯設計應用",
+        "list_credit": "3",
+        "list_lecturer": "黃玉君",
+        "list_type": "系定選修",
+        "list_field_class": "五專電機三甲",
+        "list_time": "四 1 2 3 4"
+    },
+    {
+        "list_name": "基礎電學",
+        "list_credit": "3",
+        "list_lecturer": "邱俊賢",
+        "list_type": "系定選修",
+        "list_field_class": "控晶一甲",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "機器人概論",
+        "list_credit": "3",
+        "list_lecturer": "吳智光",
+        "list_type": "系定選修",
+        "list_field_class": "五專電機三甲",
+        "list_time": "三 2 3 4"
+    }
+]
