@@ -1,386 +1,66 @@
 [
     {
-        "list_name": "職場自主學習(三)",
-        "list_credit": "1",
-        "list_lecturer": "劉秋雪",
-        "list_type": "選修",
-        "list_field_class": "夜四技視傳二甲",
-        "list_time": "一 11"
+        "Unnamed: 0": "職場自主學習(一)",
+        "Unnamed: 1": "1",
+        "Unnamed: 2": "楊斯嵐",
+        "Unnamed: 3": "選修",
+        "Unnamed: 4": "夜資傳一甲等合開",
+        "Unnamed: 5": "一 11"
     },
     {
-        "list_name": "職場實務探索(三)",
-        "list_credit": "1",
-        "list_lecturer": "林佳駿",
-        "list_type": "選修",
-        "list_field_class": "夜四技視傳四甲",
-        "list_time": "二 11"
+        "Unnamed: 0": "職場實務探索(一)",
+        "Unnamed: 1": "1",
+        "Unnamed: 2": "林佳駿",
+        "Unnamed: 3": "選修",
+        "Unnamed: 4": "夜視傳三甲",
+        "Unnamed: 5": "一 11"
     },
     {
-        "list_name": "公司實習",
-        "list_credit": "2",
-        "list_lecturer": "陳姿汝",
-        "list_type": "選修",
-        "list_field_class": "商設四甲",
-        "list_time": ""
+        "Unnamed: 0": "文化創意商品與周邊設計",
+        "Unnamed: 1": "3",
+        "Unnamed: 2": "童鼎鈞",
+        "Unnamed: 3": "選修",
+        "Unnamed: 4": "夜視傳四甲",
+        "Unnamed: 5": "二 12 13 14"
     },
     {
-        "list_name": "公司實習",
-        "list_credit": "2",
-        "list_lecturer": "李雅雪",
-        "list_type": "選修",
-        "list_field_class": "動畫四甲",
-        "list_time": ""
+        "Unnamed: 0": "多媒體網頁設計",
+        "Unnamed: 1": "3",
+        "Unnamed: 2": "陳姿汝",
+        "Unnamed: 3": "選修",
+        "Unnamed: 4": "夜視傳三甲",
+        "Unnamed: 5": "五 12 13 14"
     },
     {
-        "list_name": "公司實習",
-        "list_credit": "2",
-        "list_lecturer": "陳一夫",
-        "list_type": "選修",
-        "list_field_class": "創設四甲",
-        "list_time": ""
+        "Unnamed: 0": "品牌規劃與設計",
+        "Unnamed: 1": "3",
+        "Unnamed: 2": "李婉貞",
+        "Unnamed: 3": "選修",
+        "Unnamed: 4": "夜產設四甲等合開",
+        "Unnamed: 5": "五 12 13 14"
     },
     {
-        "list_name": "文化資源調查",
-        "list_credit": "2",
-        "list_lecturer": "劉秋雪",
-        "list_type": "選修",
-        "list_field_class": "創設二甲",
-        "list_time": "四 5 6"
+        "Unnamed: 0": "展演設計實務",
+        "Unnamed: 1": "3",
+        "Unnamed: 2": "江玉婷",
+        "Unnamed: 3": "選修",
+        "Unnamed: 4": "夜產設四甲等合開",
+        "Unnamed: 5": "三 12 13 14"
     },
     {
-        "list_name": "作品集設計",
-        "list_credit": "2",
-        "list_lecturer": "胡庭耀",
-        "list_type": "選修",
-        "list_field_class": "動畫四甲",
-        "list_time": "三 5 6"
+        "Unnamed: 0": "商業攝影",
+        "Unnamed: 1": "3",
+        "Unnamed: 2": "陳彥碩",
+        "Unnamed: 3": "選修",
+        "Unnamed: 4": "夜視傳三甲",
+        "Unnamed: 5": "三 12 13 14"
     },
     {
-        "list_name": "國際動畫賞析",
-        "list_credit": "2",
-        "list_lecturer": "李婉貞",
-        "list_type": "選修",
-        "list_field_class": "動畫四甲",
-        "list_time": "四 3 4"
-    },
-    {
-        "list_name": "專案計畫與市場調查",
-        "list_credit": "2",
-        "list_lecturer": "陳一夫",
-        "list_type": "選修",
-        "list_field_class": "創設三甲",
-        "list_time": "一 5 6"
-    },
-    {
-        "list_name": "設計繪畫",
-        "list_credit": "2",
-        "list_lecturer": "曾凱琳",
-        "list_type": "選修",
-        "list_field_class": "商設二甲",
-        "list_time": "二 2 3"
-    },
-    {
-        "list_name": "視覺心理學",
-        "list_credit": "2",
-        "list_lecturer": "吳亭誼",
-        "list_type": "選修",
-        "list_field_class": "商設二甲",
-        "list_time": "四 8 9"
-    },
-    {
-        "list_name": "廣告動畫設計",
-        "list_credit": "2",
-        "list_lecturer": "詹博鈞",
-        "list_type": "選修",
-        "list_field_class": "商設三甲",
-        "list_time": "三 5 6"
-    },
-    {
-        "list_name": "3D角色建模",
-        "list_credit": "3",
-        "list_lecturer": "馬薏萍",
-        "list_type": "選修",
-        "list_field_class": "動畫二甲",
-        "list_time": "一 2 3 4"
-    },
-    {
-        "list_name": "3D角色動作設計",
-        "list_credit": "3",
-        "list_lecturer": "馬薏萍",
-        "list_type": "選修",
-        "list_field_class": "動畫三甲",
-        "list_time": "一 7 8 9"
-    },
-    {
-        "list_name": "3D貼圖與燈光",
-        "list_credit": "3",
-        "list_lecturer": "翟清雄",
-        "list_type": "選修",
-        "list_field_class": "動畫三甲",
-        "list_time": "五 4 5 6"
-    },
-    {
-        "list_name": "互動媒體設計研究",
-        "list_credit": "3",
-        "list_lecturer": "陳姿汝",
-        "list_type": "選修",
-        "list_field_class": "碩研產設一甲等合開",
-        "list_time": "五 2 3 4"
-    },
-    {
-        "list_name": "分鏡畫面與構圖",
-        "list_credit": "3",
-        "list_lecturer": "李雅雪",
-        "list_type": "選修",
-        "list_field_class": "動畫二甲",
-        "list_time": "二 7 8 9"
-    },
-    {
-        "list_name": "文化商品設計實務",
-        "list_credit": "3",
-        "list_lecturer": "林佳駿",
-        "list_type": "選修",
-        "list_field_class": "創設三甲",
-        "list_time": "五 7 8 9"
-    },
-    {
-        "list_name": "包裝設計特論",
-        "list_credit": "3",
-        "list_lecturer": "黃綝怡",
-        "list_type": "選修",
-        "list_field_class": "碩視傳國際一甲等合開",
-        "list_time": "一 2 3 4"
-    },
-    {
-        "list_name": "多媒體網頁設計",
-        "list_credit": "3",
-        "list_lecturer": "陳姿汝",
-        "list_type": "選修",
-        "list_field_class": "商設二甲",
-        "list_time": "四 2 3 4"
-    },
-    {
-        "list_name": "空間基礎設計",
-        "list_credit": "3",
-        "list_lecturer": "賴孟玲",
-        "list_type": "選修",
-        "list_field_class": "四技創設二甲",
-        "list_time": "四 7 8 9"
-    },
-    {
-        "list_name": "品牌規劃與設計",
-        "list_credit": "3",
-        "list_lecturer": "黃綝怡",
-        "list_type": "選修",
-        "list_field_class": "商設三甲",
-        "list_time": "四 2 3 4"
-    },
-    {
-        "list_name": "原創角色設計",
-        "list_credit": "3",
-        "list_lecturer": "吳智賢",
-        "list_type": "選修",
-        "list_field_class": "四技動畫二甲",
-        "list_time": "二 4 5 6"
-    },
-    {
-        "list_name": "展演空間設計實務",
-        "list_credit": "3",
-        "list_lecturer": "賴孟玲",
-        "list_type": "選修",
-        "list_field_class": "創設三甲",
-        "list_time": "五 4 5 6"
-    },
-    {
-        "list_name": "展演設計實務",
-        "list_credit": "3",
-        "list_lecturer": "劉秋雪",
-        "list_type": "選修",
-        "list_field_class": "商設四甲",
-        "list_time": "四 2 3 4"
-    },
-    {
-        "list_name": "動態影像設計",
-        "list_credit": "3",
-        "list_lecturer": "劉千凡",
-        "list_type": "選修",
-        "list_field_class": "四技動畫一甲",
-        "list_time": "二 7 8 9"
-    },
-    {
-        "list_name": "商業包裝",
-        "list_credit": "3",
-        "list_lecturer": "楊美維",
-        "list_type": "選修",
-        "list_field_class": "商設二甲",
-        "list_time": "一 7 8 9"
-    },
-    {
-        "list_name": "商業攝影",
-        "list_credit": "3",
-        "list_lecturer": "黃于珊",
-        "list_type": "選修",
-        "list_field_class": "商設三甲",
-        "list_time": "四 5 6 7"
-    },
-    {
-        "list_name": "商業攝影",
-        "list_credit": "3",
-        "list_lecturer": "黃于珊",
-        "list_type": "選修",
-        "list_field_class": "創設三甲",
-        "list_time": "四 2 3 4"
-    },
-    {
-        "list_name": "基礎動畫場景設計",
-        "list_credit": "3",
-        "list_lecturer": "李雅雪,梁靜謙",
-        "list_type": "選修",
-        "list_field_class": "四技動畫三甲",
-        "list_time": "四 5 6 7"
-    },
-    {
-        "list_name": "基礎數位2D原動畫技巧",
-        "list_credit": "3",
-        "list_lecturer": "林孟欣",
-        "list_type": "選修",
-        "list_field_class": "動畫二甲",
-        "list_time": "五 1 2 3"
-    },
-    {
-        "list_name": "專題調查與報告",
-        "list_credit": "3",
-        "list_lecturer": "張明裕",
-        "list_type": "選修",
-        "list_field_class": "碩視傳國際一甲等合開",
-        "list_time": "四 2 3 4"
-    },
-    {
-        "list_name": "產品設計實務研究",
-        "list_credit": "3",
-        "list_lecturer": "程筑鈺",
-        "list_type": "選修",
-        "list_field_class": "碩視傳國際一甲等合開",
-        "list_time": "三 2 3 4"
-    },
-    {
-        "list_name": "設計思潮",
-        "list_credit": "3",
-        "list_lecturer": "王文雄",
-        "list_type": "選修",
-        "list_field_class": "碩研產設一甲等合開",
-        "list_time": "四 2 3 4"
-    },
-    {
-        "list_name": "設計與文化研究",
-        "list_credit": "3",
-        "list_lecturer": "童鼎鈞",
-        "list_type": "選修",
-        "list_field_class": "碩研產設一甲等合開",
-        "list_time": "二 2 3 4"
-    },
-    {
-        "list_name": "創意產業研究",
-        "list_credit": "3",
-        "list_lecturer": "陳一夫",
-        "list_type": "選修",
-        "list_field_class": "碩研產設一甲等合開",
-        "list_time": "一 2 3 4"
-    },
-    {
-        "list_name": "畫面修補與特效",
-        "list_credit": "3",
-        "list_lecturer": "翟清雄",
-        "list_type": "選修",
-        "list_field_class": "動畫三甲",
-        "list_time": "二 4 5 6"
-    },
-    {
-        "list_name": "新媒體與行銷研究",
-        "list_credit": "3",
-        "list_lecturer": "盧祐德",
-        "list_type": "選修",
-        "list_field_class": "碩視傳國際一甲等合開",
-        "list_time": "二 2 3 4"
-    },
-    {
-        "list_name": "電腦輔助3D商品設計",
-        "list_credit": "3",
-        "list_lecturer": "林佳駿",
-        "list_type": "選修",
-        "list_field_class": "創設二甲",
-        "list_time": "五 1 2 3"
-    },
-    {
-        "list_name": "廣告學與活動企畫",
-        "list_credit": "3",
-        "list_lecturer": "李婉貞",
-        "list_type": "選修",
-        "list_field_class": "動畫二甲",
-        "list_time": "一 7 8 9"
-    },
-    {
-        "list_name": "數位音效與剪輯",
-        "list_credit": "3",
-        "list_lecturer": "林岑芳",
-        "list_type": "選修",
-        "list_field_class": "產設三甲等合開",
-        "list_time": "四 5 6 7"
-    },
-    {
-        "list_name": "數位音樂製作",
-        "list_credit": "3",
-        "list_lecturer": "吳思毅,曹登昌",
-        "list_type": "選修",
-        "list_field_class": "產設二甲等合開",
-        "list_time": "二 5 6 7"
-    },
-    {
-        "list_name": "數位影片專題製作",
-        "list_credit": "3",
-        "list_lecturer": "蔡銘益",
-        "list_type": "選修",
-        "list_field_class": "產設四甲等合開",
-        "list_time": "三 2 3 4"
-    },
-    {
-        "list_name": "數位影像創作",
-        "list_credit": "3",
-        "list_lecturer": "蕭雨青",
-        "list_type": "選修",
-        "list_field_class": "商設一甲",
-        "list_time": "二 1 2 3"
-    },
-    {
-        "list_name": "數位影像電腦繪圖",
-        "list_credit": "3",
-        "list_lecturer": "許榮峰",
-        "list_type": "選修",
-        "list_field_class": "創設一甲",
-        "list_time": "一 7 8 9"
-    },
-    {
-        "list_name": "整合設計與產業創新",
-        "list_credit": "3",
-        "list_lecturer": "吳啟華",
-        "list_type": "選修",
-        "list_field_class": "碩研產設一甲等合開",
-        "list_time": "五 5 6 7"
-    },
-    {
-        "list_name": "識別系統設計",
-        "list_credit": "3",
-        "list_lecturer": "黃綝怡",
-        "list_type": "選修",
-        "list_field_class": "商設二甲",
-        "list_time": "四 5 6 7"
-    },
-    {
-        "list_name": "設計實務實習(一)",
-        "list_credit": "6",
-        "list_lecturer": "陳鴻源",
-        "list_type": "選修",
-        "list_field_class": "碩研視傳二甲",
-        "list_time": "--"
+        "Unnamed: 0": "識別系統設計",
+        "Unnamed: 1": "3",
+        "Unnamed: 2": "陳彥碩",
+        "Unnamed: 3": "選修",
+        "Unnamed: 4": "夜視傳二甲",
+        "Unnamed: 5": "四 12 13 14"
     }
 ]
