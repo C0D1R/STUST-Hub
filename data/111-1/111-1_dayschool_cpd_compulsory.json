@@ -100,8 +100,48 @@
         "list_credit": "0",
         "list_lecturer": "未定",
         "list_type": "必修",
-        "list_field_class": "四技產設三乙",
+        "list_field_class": "四技產設一甲",
         "list_time": "--"
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "產設一乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "產設二甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "產設二乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "產設三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "產設三乙",
+        "list_time": ""
     },
     {
         "list_name": "操行",
@@ -136,11 +176,51 @@
         "list_time": ""
     },
     {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "夜四技產設四甲",
+        "list_time": "--"
+    },
+    {
+        "list_name": "服務學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "王文雄",
+        "list_type": "必修",
+        "list_field_class": "產設一甲",
+        "list_time": "一 9 二 5"
+    },
+    {
+        "list_name": "服務學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "劉大琦",
+        "list_type": "必修",
+        "list_field_class": "產設一乙",
+        "list_time": "二 1 四 7"
+    },
+    {
+        "list_name": "中文閱讀與表達(一)",
+        "list_credit": "2",
+        "list_lecturer": "郭璉謙",
+        "list_type": "必修",
+        "list_field_class": "產設一甲",
+        "list_time": "二 8 9"
+    },
+    {
+        "list_name": "中文閱讀與表達(一)",
+        "list_credit": "2",
+        "list_lecturer": "楊雅琪",
+        "list_type": "必修",
+        "list_field_class": "產設一乙",
+        "list_time": "一 1 2"
+    },
+    {
         "list_name": "使用者經驗設計",
         "list_credit": "2",
         "list_lecturer": "張育銘",
         "list_type": "必修",
-        "list_field_class": "四技產設二甲",
+        "list_field_class": "產設二甲",
         "list_time": "一 1 2"
     },
     {
@@ -336,11 +416,51 @@
         "list_time": "四 4 5 6"
     },
     {
+        "list_name": "外語能力檢定",
+        "list_credit": "0",
+        "list_lecturer": "李政源",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控延修等合開",
+        "list_time": "--"
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "自選必修",
+        "list_field_class": "二技企管延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "競賽實務",
+        "list_credit": "0",
+        "list_lecturer": "張家誠",
+        "list_type": "自選必修",
+        "list_field_class": "產設延修",
+        "list_time": ""
+    },
+    {
+        "list_name": "體育生活(三)：有氧舞蹈(D)",
+        "list_credit": "1",
+        "list_lecturer": "邱懿瑩",
+        "list_type": "自選必修",
+        "list_field_class": "產設二甲等合開",
+        "list_time": "二 8 9"
+    },
+    {
+        "list_name": "體育生活(三)：羽球(D)",
+        "list_credit": "1",
+        "list_lecturer": "傅慧榕",
+        "list_type": "自選必修",
+        "list_field_class": "產設二甲等合開",
+        "list_time": "二 8 9"
+    },
+    {
         "list_name": "體育生活(三)：桌球(D)",
         "list_credit": "1",
         "list_lecturer": "陳艷麗",
         "list_type": "自選必修",
-        "list_field_class": "四技產設二甲等合開",
+        "list_field_class": "產設二甲等合開",
         "list_time": "二 8 9"
     },
     {

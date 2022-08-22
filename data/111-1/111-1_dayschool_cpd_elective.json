@@ -1,5 +1,37 @@
 [
     {
+        "list_name": "綜合研究工作室(三)",
+        "list_credit": "2",
+        "list_lecturer": "王文雄",
+        "list_type": "選修",
+        "list_field_class": "碩研產設二甲",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "工藝設計",
+        "list_credit": "3",
+        "list_lecturer": "陳亞麟",
+        "list_type": "選修",
+        "list_field_class": "產設二甲等合開",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "互動媒體設計研究",
+        "list_credit": "3",
+        "list_lecturer": "陳姿汝",
+        "list_type": "選修",
+        "list_field_class": "碩研產設一甲等合開",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "生活照護輔具設計應用",
+        "list_credit": "3",
+        "list_lecturer": "陳亞麟,陳美珠,歐陽昆",
+        "list_type": "選修",
+        "list_field_class": "產設三甲等合開",
+        "list_time": "五 5 6 7"
+    },
+    {
         "list_name": "行為設計",
         "list_credit": "3",
         "list_lecturer": "吳啟華",
@@ -48,11 +80,43 @@
         "list_time": "三 6 7 8"
     },
     {
+        "list_name": "家具設計",
+        "list_credit": "3",
+        "list_lecturer": "朱玉麟",
+        "list_type": "選修",
+        "list_field_class": "四技產設三甲等合開",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "展演設計實務",
+        "list_credit": "3",
+        "list_lecturer": "江玉婷",
+        "list_type": "選修",
+        "list_field_class": "夜四技產設四甲等合開",
+        "list_time": "三 12 13 14"
+    },
+    {
+        "list_name": "高齡化設計",
+        "list_credit": "3",
+        "list_lecturer": "張育銘",
+        "list_type": "選修",
+        "list_field_class": "產設三甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "設計思潮",
+        "list_credit": "3",
+        "list_lecturer": "王文雄",
+        "list_type": "選修",
+        "list_field_class": "碩研產設一甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
         "list_name": "設計概論",
         "list_credit": "3",
         "list_lecturer": "王文雄",
         "list_type": "選修",
-        "list_field_class": "四技產設一甲等合開",
+        "list_field_class": "產設一甲等合開",
         "list_time": "五 1 2 3"
     },
     {

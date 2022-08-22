@@ -1,42 +1,178 @@
 [
     {
-        "Unnamed: 0": "",
-        "Unnamed: 1": "",
-        "Unnamed: 2": "",
-        "Unnamed: 3": "",
-        "Unnamed: 4": "",
-        "Unnamed: 5": ""
+        "list_name": "身心機能活化運動",
+        "list_credit": "1",
+        "list_lecturer": "胡小玫",
+        "list_type": "選修",
+        "list_field_class": "高福四甲",
+        "list_time": "四 4"
     },
     {
-        "Unnamed: 0": "職場實務探索(一)",
-        "Unnamed: 1": "1.0",
-        "Unnamed: 2": "毛念平",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "夜二技高福四甲",
-        "Unnamed: 5": "六 7 8"
+        "list_name": "職場實務探索(三)",
+        "list_credit": "1",
+        "list_lecturer": "王福祥",
+        "list_type": "選修",
+        "list_field_class": "夜四技高福四甲",
+        "list_time": "一 11"
     },
     {
-        "Unnamed: 0": "泛文化照顧",
-        "Unnamed: 1": "2.0",
-        "Unnamed: 2": "劉明宜",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "四技高福四甲",
-        "Unnamed: 5": "四 11 12"
+        "list_name": "口腔照護學",
+        "list_credit": "2",
+        "list_lecturer": "毛念平",
+        "list_type": "選修",
+        "list_field_class": "高福二甲",
+        "list_time": "四 1 2"
     },
     {
-        "Unnamed: 0": "高齡教育與樂活學習",
-        "Unnamed: 1": "2.0",
-        "Unnamed: 2": "竇國昌",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "四技高福四甲",
-        "Unnamed: 5": "六 3 4"
+        "list_name": "中醫膳食與養生概論",
+        "list_credit": "2",
+        "list_lecturer": "任東輝",
+        "list_type": "選修",
+        "list_field_class": "高福三甲",
+        "list_time": "二 7 8"
     },
     {
-        "Unnamed: 0": "社會個案工作",
-        "Unnamed: 1": "3.0",
-        "Unnamed: 2": "竇國昌",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "四技高福四甲",
-        "Unnamed: 5": "二 12 13 14"
+        "list_name": "失智症照護",
+        "list_credit": "2",
+        "list_lecturer": "黃春宜",
+        "list_type": "選修",
+        "list_field_class": "夜二技高福四甲",
+        "list_time": "六 7 8"
+    },
+    {
+        "list_name": "生命教育與社會服務",
+        "list_credit": "2",
+        "list_lecturer": "胡小玫",
+        "list_type": "選修",
+        "list_field_class": "四技高福一甲",
+        "list_time": "一 1 2"
+    },
+    {
+        "list_name": "長照需求評估與應用",
+        "list_credit": "2",
+        "list_lecturer": "劉憶萍",
+        "list_type": "選修",
+        "list_field_class": "四技高福二甲",
+        "list_time": "一 1 2"
+    },
+    {
+        "list_name": "青銀軟實力",
+        "list_credit": "2",
+        "list_lecturer": "劉明宜",
+        "list_type": "選修",
+        "list_field_class": "高福三甲",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "高齡休閒設計與旅遊規劃",
+        "list_credit": "2",
+        "list_lecturer": "蘇榮堯",
+        "list_type": "選修",
+        "list_field_class": "四技高福四甲",
+        "list_time": "二 8 9"
+    },
+    {
+        "list_name": "高齡服務行銷與媒體經營實務",
+        "list_credit": "2",
+        "list_lecturer": "吳秉澤",
+        "list_type": "選修",
+        "list_field_class": "四技高福二甲",
+        "list_time": "二 1 2"
+    },
+    {
+        "list_name": "高齡健康管理與促進",
+        "list_credit": "2",
+        "list_lecturer": "趙品淳",
+        "list_type": "選修",
+        "list_field_class": "高福四甲",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "高齡福利制度與福祉規劃",
+        "list_credit": "2",
+        "list_lecturer": "趙品淳",
+        "list_type": "選修",
+        "list_field_class": "夜二技高福四甲",
+        "list_time": "六 9 11"
+    },
+    {
+        "list_name": "策略管理與領導",
+        "list_credit": "2",
+        "list_lecturer": "賴世宗",
+        "list_type": "選修",
+        "list_field_class": "四技高福四甲",
+        "list_time": "二 5 6"
+    },
+    {
+        "list_name": "經絡鬆筋養生療癒與實務",
+        "list_credit": "2",
+        "list_lecturer": "胡小玫",
+        "list_type": "選修",
+        "list_field_class": "高福四甲",
+        "list_time": "三 5 6"
+    },
+    {
+        "list_name": "輔具科技與復健照護",
+        "list_credit": "2",
+        "list_lecturer": "許宏志",
+        "list_type": "選修",
+        "list_field_class": "四技高福四甲",
+        "list_time": "一 7 8"
+    },
+    {
+        "list_name": "緩和療護",
+        "list_credit": "2",
+        "list_lecturer": "林正耀",
+        "list_type": "選修",
+        "list_field_class": "高福三甲",
+        "list_time": "四 7 8"
+    },
+    {
+        "list_name": "Aroma care芳香照護實務",
+        "list_credit": "3",
+        "list_lecturer": "胡小玫",
+        "list_type": "選修",
+        "list_field_class": "高福四甲",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "方案設計與評估",
+        "list_credit": "3",
+        "list_lecturer": "鍾智慧",
+        "list_type": "選修",
+        "list_field_class": "高福三甲",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "生活照護輔具設計應用",
+        "list_credit": "3",
+        "list_lecturer": "陳亞麟,陳美珠,歐陽昆",
+        "list_type": "選修",
+        "list_field_class": "產設三甲等合開",
+        "list_time": "五 5 6 7"
+    },
+    {
+        "list_name": "高齡休閒設計與旅遊規劃",
+        "list_credit": "3",
+        "list_lecturer": "蘇榮堯",
+        "list_type": "選修",
+        "list_field_class": "夜四技高福四甲",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "高齡教育與學習",
+        "list_credit": "3",
+        "list_lecturer": "胡小玫",
+        "list_type": "選修",
+        "list_field_class": "夜四技高福四甲",
+        "list_time": "一 12 13 14"
+    },
+    {
+        "list_name": "健康廚房經營與管理",
+        "list_credit": "3",
+        "list_lecturer": "彭巧珍",
+        "list_type": "選修",
+        "list_field_class": "高福四甲",
+        "list_time": "三 2 3 4"
     }
 ]

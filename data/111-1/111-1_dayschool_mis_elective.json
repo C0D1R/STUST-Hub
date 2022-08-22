@@ -8,19 +8,91 @@
         "list_time": "二 9"
     },
     {
+        "list_name": "職場自主學習(三)",
+        "list_credit": "1",
+        "list_lecturer": "陳垂呈",
+        "list_type": "選修",
+        "list_field_class": "夜四技資管二甲",
+        "list_time": "四 11"
+    },
+    {
+        "list_name": "職場實務探索(三)",
+        "list_credit": "1",
+        "list_lecturer": "王智昊",
+        "list_type": "選修",
+        "list_field_class": "夜四技資管四甲",
+        "list_time": "一 11"
+    },
+    {
+        "list_name": "企業經營實務研討",
+        "list_credit": "2",
+        "list_lecturer": "汪美香",
+        "list_type": "選修",
+        "list_field_class": "碩專資管一甲等合開",
+        "list_time": "六 3 4"
+    },
+    {
+        "list_name": "CCNA認證課程(一)(A)",
+        "list_credit": "3",
+        "list_lecturer": "黃惠苓",
+        "list_type": "選修",
+        "list_field_class": "資管四甲等合開",
+        "list_time": "二 4 5 6"
+    },
+    {
         "list_name": "CCNA認證課程(一)(B)",
         "list_credit": "3",
         "list_lecturer": "黃惠苓",
         "list_type": "選修",
-        "list_field_class": "四技資管四甲等合開",
+        "list_field_class": "資管四甲等合開",
         "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "R商業資料分析",
+        "list_credit": "3",
+        "list_lecturer": "童冠燁",
+        "list_type": "選修",
+        "list_field_class": "碩專大數據一甲",
+        "list_time": "六 1 2 5"
+    },
+    {
+        "list_name": "人工智慧",
+        "list_credit": "3",
+        "list_lecturer": "王智昊",
+        "list_type": "選修",
+        "list_field_class": "資管四甲等合開",
+        "list_time": "一 1 2 3"
+    },
+    {
+        "list_name": "人工智慧實務",
+        "list_credit": "3",
+        "list_lecturer": "王智昊",
+        "list_type": "選修",
+        "list_field_class": "碩專資管二甲等合開",
+        "list_time": "六 2 3 4"
+    },
+    {
+        "list_name": "人工智慧應用",
+        "list_credit": "3",
+        "list_lecturer": "王智昊",
+        "list_type": "選修",
+        "list_field_class": "資管二甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "企業資源規劃系統(A)",
+        "list_credit": "3",
+        "list_lecturer": "吳昭儀",
+        "list_type": "選修",
+        "list_field_class": "資管三甲等合開",
+        "list_time": "二 7 8 9"
     },
     {
         "list_name": "企業資源規劃系統(B)",
         "list_credit": "3",
         "list_lecturer": "吳昭儀",
         "list_type": "選修",
-        "list_field_class": "四技資管三甲等合開",
+        "list_field_class": "資管三甲等合開",
         "list_time": "四 2 3 4"
     },
     {
@@ -32,11 +104,43 @@
         "list_time": "四 5 6 7"
     },
     {
-        "list_name": "行動商務程式設計(B)",
+        "list_name": "多媒體實務與應用",
+        "list_credit": "3",
+        "list_lecturer": "王博文",
+        "list_type": "選修",
+        "list_field_class": "四技資管二甲",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "多媒體實務與應用",
+        "list_credit": "3",
+        "list_lecturer": "王博文",
+        "list_type": "選修",
+        "list_field_class": "資管二乙",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "多媒體實務與應用",
+        "list_credit": "3",
+        "list_lecturer": "王博文",
+        "list_type": "選修",
+        "list_field_class": "資管二丙",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "行動商務程式設計(A)",
         "list_credit": "3",
         "list_lecturer": "蘇建郡",
         "list_type": "選修",
         "list_field_class": "四技資管三甲等合開",
+        "list_time": "一 1 2 3"
+    },
+    {
+        "list_name": "行動商務程式設計(B)",
+        "list_credit": "3",
+        "list_lecturer": "蘇建郡",
+        "list_type": "選修",
+        "list_field_class": "資管三甲等合開",
         "list_time": "三 1 2 3"
     },
     {
@@ -64,11 +168,43 @@
         "list_time": "六 6 7 8"
     },
     {
+        "list_name": "科技管理",
+        "list_credit": "3",
+        "list_lecturer": "馮琡珺",
+        "list_type": "選修",
+        "list_field_class": "夜四技資管四甲",
+        "list_time": "三 12 13 14"
+    },
+    {
+        "list_name": "產業分析理論與實務",
+        "list_credit": "3",
+        "list_lecturer": "謝佳宏",
+        "list_type": "選修",
+        "list_field_class": "四技資管二甲等合開",
+        "list_time": "四 4 5 6"
+    },
+    {
+        "list_name": "軟體工程",
+        "list_credit": "3",
+        "list_lecturer": "陳炳文",
+        "list_type": "選修",
+        "list_field_class": "碩專資管一甲",
+        "list_time": "日 2 3 4"
+    },
+    {
+        "list_name": "軟體工程(A)",
+        "list_credit": "3",
+        "list_lecturer": "陳炳文",
+        "list_type": "選修",
+        "list_field_class": "資管四甲等合開",
+        "list_time": "一 4 5 6"
+    },
+    {
         "list_name": "軟體工程(B)",
         "list_credit": "3",
         "list_lecturer": "陳炳文",
         "list_type": "選修",
-        "list_field_class": "四技資管四甲等合開",
+        "list_field_class": "資管四甲等合開",
         "list_time": "二 1 2 3"
     },
     {
@@ -198,5 +334,13 @@
         "list_type": "選修",
         "list_field_class": "碩專資管一甲",
         "list_time": "六 5 6 7"
+    },
+    {
+        "list_name": "資管專業實習(一)",
+        "list_credit": "9",
+        "list_lecturer": "陳炳文",
+        "list_type": "選修",
+        "list_field_class": "四技資管四甲等合開",
+        "list_time": "--"
     }
 ]
