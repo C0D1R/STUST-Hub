@@ -1,122 +1,122 @@
 [
     {
-        "Unnamed: 0": "導師時間",
-        "Unnamed: 1": "0",
-        "Unnamed: 2": "陳光雄",
-        "Unnamed: 3": "必修",
-        "Unnamed: 4": "夜多樂一甲",
-        "Unnamed: 5": "三 11"
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "陳光雄",
+        "list_type": "必修",
+        "list_field_class": "夜多樂一甲",
+        "list_time": "三 11"
     },
     {
-        "Unnamed: 0": "導師時間",
-        "Unnamed: 1": "0",
-        "Unnamed: 2": "張明裕",
-        "Unnamed: 3": "必修",
-        "Unnamed: 4": "夜多樂三甲",
-        "Unnamed: 5": "三 11"
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "張明裕",
+        "list_type": "必修",
+        "list_field_class": "夜多樂三甲",
+        "list_time": "三 11"
     },
     {
-        "Unnamed: 0": "操行",
-        "Unnamed: 1": "0",
-        "Unnamed: 2": "未定",
-        "Unnamed: 3": "必修",
-        "Unnamed: 4": "夜二技企管延修等合開",
-        "Unnamed: 5": ""
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "夜二技企管延修等合開",
+        "list_time": ""
     },
     {
-        "Unnamed: 0": "操行",
-        "Unnamed: 1": "0",
-        "Unnamed: 2": "未定",
-        "Unnamed: 3": "必修",
-        "Unnamed: 4": "夜多樂二甲",
-        "Unnamed: 5": ""
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "夜多樂二甲",
+        "list_time": ""
     },
     {
-        "Unnamed: 0": "操行",
-        "Unnamed: 1": "0",
-        "Unnamed: 2": "未定",
-        "Unnamed: 3": "必修",
-        "Unnamed: 4": "夜多樂四甲",
-        "Unnamed: 5": ""
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "夜多樂四甲",
+        "list_time": ""
     },
     {
-        "Unnamed: 0": "大四專題(一)",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "張明裕",
-        "Unnamed: 3": "必修",
-        "Unnamed: 4": "夜多樂四甲",
-        "Unnamed: 5": "二 12 13 14"
+        "list_name": "大四專題(一)",
+        "list_credit": "3",
+        "list_lecturer": "張明裕",
+        "list_type": "必修",
+        "list_field_class": "夜多樂四甲",
+        "list_time": "二 12 13 14"
     },
     {
-        "Unnamed: 0": "行銷學",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "徐芳真",
-        "Unnamed: 3": "必修",
-        "Unnamed: 4": "夜多樂二甲",
-        "Unnamed: 5": "五 12 13 14"
+        "list_name": "行銷學",
+        "list_credit": "3",
+        "list_lecturer": "徐芳真",
+        "list_type": "必修",
+        "list_field_class": "夜多樂二甲",
+        "list_time": "五 12 13 14"
     },
     {
-        "Unnamed: 0": "基礎2D電腦繪圖",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "劉以琳",
-        "Unnamed: 3": "必修",
-        "Unnamed: 4": "夜資傳一甲等合開",
-        "Unnamed: 5": "三 12 13 14"
+        "list_name": "基礎2D電腦繪圖",
+        "list_credit": "3",
+        "list_lecturer": "劉以琳",
+        "list_type": "必修",
+        "list_field_class": "夜資傳一甲等合開",
+        "list_time": "三 12 13 14"
     },
     {
-        "Unnamed: 0": "智慧財產權與專業倫理",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "許舜喨",
-        "Unnamed: 3": "必修",
-        "Unnamed: 4": "夜多樂四甲",
-        "Unnamed: 5": "一 12 13 14"
+        "list_name": "智慧財產權與專業倫理",
+        "list_credit": "3",
+        "list_lecturer": "許舜喨",
+        "list_type": "必修",
+        "list_field_class": "夜多樂四甲",
+        "list_time": "一 12 13 14"
     },
     {
-        "Unnamed: 0": "遊戲品保",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "黃樂臣",
-        "Unnamed: 3": "必修",
-        "Unnamed: 4": "夜多樂四甲",
-        "Unnamed: 5": "四 12 13 14"
+        "list_name": "遊戲品保",
+        "list_credit": "3",
+        "list_lecturer": "黃樂臣",
+        "list_type": "必修",
+        "list_field_class": "夜多樂四甲",
+        "list_time": "四 12 13 14"
     },
     {
-        "Unnamed: 0": "遊戲設計學",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "楊政達",
-        "Unnamed: 3": "必修",
-        "Unnamed: 4": "夜多樂一甲",
-        "Unnamed: 5": "五 12 13 14"
+        "list_name": "遊戲設計學",
+        "list_credit": "3",
+        "list_lecturer": "楊政達",
+        "list_type": "必修",
+        "list_field_class": "夜多樂一甲",
+        "list_time": "五 12 13 14"
     },
     {
-        "Unnamed: 0": "演講",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "林佳駿,張明裕,劉以琳",
-        "Unnamed: 3": "必修",
-        "Unnamed: 4": "夜資傳三甲等合開",
-        "Unnamed: 5": "一 12 13 14"
+        "list_name": "演講",
+        "list_credit": "3",
+        "list_lecturer": "林佳駿,張明裕,劉以琳",
+        "list_type": "必修",
+        "list_field_class": "夜資傳三甲等合開",
+        "list_time": "一 12 13 14"
     },
     {
-        "Unnamed: 0": "數位媒體概論",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "黃俊碩",
-        "Unnamed: 3": "必修",
-        "Unnamed: 4": "夜資傳一甲等合開",
-        "Unnamed: 5": "一 12 13 14"
+        "list_name": "數位媒體概論",
+        "list_credit": "3",
+        "list_lecturer": "黃俊碩",
+        "list_type": "必修",
+        "list_field_class": "夜資傳一甲等合開",
+        "list_time": "一 12 13 14"
     },
     {
-        "Unnamed: 0": "體育生活：羽球(B)",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "方怡堯",
-        "Unnamed: 3": "自選必修",
-        "Unnamed: 4": "夜自控二甲等合開",
-        "Unnamed: 5": "四 12 13 14"
+        "list_name": "體育生活：羽球(B)",
+        "list_credit": "3",
+        "list_lecturer": "方怡堯",
+        "list_type": "自選必修",
+        "list_field_class": "夜自控二甲等合開",
+        "list_time": "四 12 13 14"
     },
     {
-        "Unnamed: 0": "體育生活：排球(B)",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "林政達",
-        "Unnamed: 3": "自選必修",
-        "Unnamed: 4": "夜自控二甲等合開",
-        "Unnamed: 5": "四 12 13 14"
+        "list_name": "體育生活：排球(B)",
+        "list_credit": "3",
+        "list_lecturer": "林政達",
+        "list_type": "自選必修",
+        "list_field_class": "夜自控二甲等合開",
+        "list_time": "四 12 13 14"
     }
 ]

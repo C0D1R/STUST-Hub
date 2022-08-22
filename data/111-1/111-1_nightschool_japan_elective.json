@@ -1,58 +1,58 @@
 [
     {
-        "Unnamed: 0": "職場自主學習(一)",
-        "Unnamed: 1": "1",
-        "Unnamed: 2": "冨永悠介",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "夜日語一甲",
-        "Unnamed: 5": "四 11"
+        "list_name": "職場自主學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "冨永悠介",
+        "list_type": "選修",
+        "list_field_class": "夜日語一甲",
+        "list_time": "四 11"
     },
     {
-        "Unnamed: 0": "日本企業文化",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "鄭玫玲",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "夜日語四甲等合開",
-        "Unnamed: 5": "二 12 13 14"
+        "list_name": "日本企業文化",
+        "list_credit": "3",
+        "list_lecturer": "鄭玫玲",
+        "list_type": "選修",
+        "list_field_class": "夜日語四甲等合開",
+        "list_time": "二 12 13 14"
     },
     {
-        "Unnamed: 0": "日語能力綜合練習(一)",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "胡琇瓔",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "夜日語三甲",
-        "Unnamed: 5": "一 12 13 14"
+        "list_name": "日語能力綜合練習(一)",
+        "list_credit": "3",
+        "list_lecturer": "胡琇瓔",
+        "list_type": "選修",
+        "list_field_class": "夜日語三甲",
+        "list_time": "一 12 13 14"
     },
     {
-        "Unnamed: 0": "日語導覽入門",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "王信心",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "夜日語四甲等合開",
-        "Unnamed: 5": "五 12 13 14"
+        "list_name": "日語導覽入門",
+        "list_credit": "3",
+        "list_lecturer": "王信心",
+        "list_type": "選修",
+        "list_field_class": "夜日語四甲等合開",
+        "list_time": "五 12 13 14"
     },
     {
-        "Unnamed: 0": "進階日語能力綜合練習(一)",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "謝淑惠",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "夜日語四甲等合開",
-        "Unnamed: 5": "一 12 13 14"
+        "list_name": "進階日語能力綜合練習(一)",
+        "list_credit": "3",
+        "list_lecturer": "謝淑惠",
+        "list_type": "選修",
+        "list_field_class": "夜日語四甲等合開",
+        "list_time": "一 12 13 14"
     },
     {
-        "Unnamed: 0": "日本文章選讀(一)(A)",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "陳柏伸",
-        "Unnamed: 3": "管制選修",
-        "Unnamed: 4": "夜日語四甲等合開",
-        "Unnamed: 5": "四 12 13 14"
+        "list_name": "日本文章選讀(一)(A)",
+        "list_credit": "3",
+        "list_lecturer": "陳柏伸",
+        "list_type": "管制選修",
+        "list_field_class": "夜日語四甲等合開",
+        "list_time": "四 12 13 14"
     },
     {
-        "Unnamed: 0": "商用日文書信寫作(一)(A)",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "榊祐一",
-        "Unnamed: 3": "管制選修",
-        "Unnamed: 4": "夜日語四甲等合開",
-        "Unnamed: 5": "三 12 13 14"
+        "list_name": "商用日文書信寫作(一)(A)",
+        "list_credit": "3",
+        "list_lecturer": "榊祐一",
+        "list_type": "管制選修",
+        "list_field_class": "夜日語四甲等合開",
+        "list_time": "三 12 13 14"
     }
 ]

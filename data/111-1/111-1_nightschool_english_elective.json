@@ -1,82 +1,82 @@
 [
     {
-        "Unnamed: 0": "職場自主學習(一)",
-        "Unnamed: 1": "1",
-        "Unnamed: 2": "鄧靖華",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "夜二技英語三甲等合開",
-        "Unnamed: 5": "三 11"
+        "list_name": "職場自主學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "鄧靖華",
+        "list_type": "選修",
+        "list_field_class": "夜二技英語三甲等合開",
+        "list_time": "三 11"
     },
     {
-        "Unnamed: 0": "職場實務探索(一)",
-        "Unnamed: 1": "1",
-        "Unnamed: 2": "張家華",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "夜英語三甲",
-        "Unnamed: 5": "四 11"
+        "list_name": "職場實務探索(一)",
+        "list_credit": "1",
+        "list_lecturer": "張家華",
+        "list_type": "選修",
+        "list_field_class": "夜英語三甲",
+        "list_time": "四 11"
     },
     {
-        "Unnamed: 0": "西班牙語入門",
-        "Unnamed: 1": "2",
-        "Unnamed: 2": "安迪",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "夜二技英語三甲",
-        "Unnamed: 5": "一 11 二 11"
+        "list_name": "西班牙語入門",
+        "list_credit": "2",
+        "list_lecturer": "安迪",
+        "list_type": "選修",
+        "list_field_class": "夜二技英語三甲",
+        "list_time": "一 11 二 11"
     },
     {
-        "Unnamed: 0": "中英翻譯理論與習作",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "周俊男",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "夜英語三甲",
-        "Unnamed: 5": "一 12 13 14"
+        "list_name": "中英翻譯理論與習作",
+        "list_credit": "3",
+        "list_lecturer": "周俊男",
+        "list_type": "選修",
+        "list_field_class": "夜英語三甲",
+        "list_time": "一 12 13 14"
     },
     {
-        "Unnamed: 0": "英文商用書信",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "鄧靖華",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "夜二技英語四甲等合開",
-        "Unnamed: 5": "三 12 13 14"
+        "list_name": "英文商用書信",
+        "list_credit": "3",
+        "list_lecturer": "鄧靖華",
+        "list_type": "選修",
+        "list_field_class": "夜二技英語四甲等合開",
+        "list_time": "三 12 13 14"
     },
     {
-        "Unnamed: 0": "英語發音練習",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "林芳俐",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "夜英語一甲",
-        "Unnamed: 5": "三 12 13 14"
+        "list_name": "英語發音練習",
+        "list_credit": "3",
+        "list_lecturer": "林芳俐",
+        "list_type": "選修",
+        "list_field_class": "夜英語一甲",
+        "list_time": "三 12 13 14"
     },
     {
-        "Unnamed: 0": "國際行銷英語會話",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "石耀西",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "夜二技英語四甲等合開",
-        "Unnamed: 5": "五 12 13 14"
+        "list_name": "國際行銷英語會話",
+        "list_credit": "3",
+        "list_lecturer": "石耀西",
+        "list_type": "選修",
+        "list_field_class": "夜二技英語四甲等合開",
+        "list_time": "五 12 13 14"
     },
     {
-        "Unnamed: 0": "基礎英語口譯",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "朱珊慧",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "夜二技英語四甲等合開",
-        "Unnamed: 5": "二 12 13 14"
+        "list_name": "基礎英語口譯",
+        "list_credit": "3",
+        "list_lecturer": "朱珊慧",
+        "list_type": "選修",
+        "list_field_class": "夜二技英語四甲等合開",
+        "list_time": "二 12 13 14"
     },
     {
-        "Unnamed: 0": "新聞英文",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "林尹星",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "夜二技英語三甲等合開",
-        "Unnamed: 5": "五 12 13 14"
+        "list_name": "新聞英文",
+        "list_credit": "3",
+        "list_lecturer": "林尹星",
+        "list_type": "選修",
+        "list_field_class": "夜二技英語三甲等合開",
+        "list_time": "五 12 13 14"
     },
     {
-        "Unnamed: 0": "語言與文化",
-        "Unnamed: 1": "3",
-        "Unnamed: 2": "陳桂容",
-        "Unnamed: 3": "選修",
-        "Unnamed: 4": "夜二技英語四甲等合開",
-        "Unnamed: 5": "四 12 13 14"
+        "list_name": "語言與文化",
+        "list_credit": "3",
+        "list_lecturer": "陳桂容",
+        "list_type": "選修",
+        "list_field_class": "夜二技英語四甲等合開",
+        "list_time": "四 12 13 14"
     }
 ]
