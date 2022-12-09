@@ -1,18 +1,26 @@
 [
     {
-        "list_name": "職場自主學習(二)",
+        "list_name": "職場實務探索(二)",
         "list_credit": "1",
-        "list_lecturer": "余梅香",
+        "list_lecturer": "吳家驊",
         "list_type": "選修",
-        "list_field_class": "夜餐旅一甲",
+        "list_field_class": "夜餐旅三甲",
         "list_time": "一 11"
     },
     {
-        "list_name": "職場自主學習(四)",
+        "list_name": "職場實務探索(四)",
         "list_credit": "1",
         "list_lecturer": "黃旭怡",
         "list_type": "選修",
-        "list_field_class": "夜餐旅二乙",
+        "list_field_class": "夜餐旅四甲",
+        "list_time": "四 11"
+    },
+    {
+        "list_name": "職場實務探索(四)",
+        "list_credit": "1",
+        "list_lecturer": "梁仲正",
+        "list_type": "選修",
+        "list_field_class": "夜餐旅四乙",
         "list_time": "一 11"
     },
     {
@@ -24,28 +32,36 @@
         "list_time": "四 11"
     },
     {
-        "list_name": "職場實務探索(四)",
+        "list_name": "職場自主學習(二)",
+        "list_credit": "1",
+        "list_lecturer": "余梅香",
+        "list_type": "選修",
+        "list_field_class": "夜餐旅一甲",
+        "list_time": "二 11"
+    },
+    {
+        "list_name": "職場自主學習(四)",
+        "list_credit": "1",
+        "list_lecturer": "葉佳聖",
+        "list_type": "選修",
+        "list_field_class": "夜餐旅二甲",
+        "list_time": "一 11"
+    },
+    {
+        "list_name": "職場自主學習(四)",
         "list_credit": "1",
         "list_lecturer": "黃旭怡",
         "list_type": "選修",
-        "list_field_class": "夜餐旅四甲",
-        "list_time": "四 11"
+        "list_field_class": "夜餐旅二乙",
+        "list_time": "一 11"
     },
     {
-        "list_name": "日文",
+        "list_name": "主題旅館規劃與管理",
         "list_credit": "3",
-        "list_lecturer": "陳貌卿",
+        "list_lecturer": "劉馨婷,嚴心誼",
         "list_type": "選修",
-        "list_field_class": "夜餐旅三甲",
-        "list_time": "五 12 13 14"
-    },
-    {
-        "list_name": "國際禮儀",
-        "list_credit": "3",
-        "list_lecturer": "胡中州",
-        "list_type": "選修",
-        "list_field_class": "夜餐旅四丙",
-        "list_time": "一 12 13 14"
+        "list_field_class": "夜餐旅四甲等合開",
+        "list_time": "四 12 13 14"
     },
     {
         "list_name": "國際禮儀",
@@ -56,6 +72,38 @@
         "list_time": "二 12 13 14"
     },
     {
+        "list_name": "國際禮儀",
+        "list_credit": "3",
+        "list_lecturer": "梁仲正",
+        "list_type": "選修",
+        "list_field_class": "夜餐旅四乙",
+        "list_time": "一 12 13 14"
+    },
+    {
+        "list_name": "國際禮儀",
+        "list_credit": "3",
+        "list_lecturer": "胡中州",
+        "list_type": "選修",
+        "list_field_class": "夜餐旅四丙",
+        "list_time": "一 12 13 14"
+    },
+    {
+        "list_name": "日文",
+        "list_credit": "3",
+        "list_lecturer": "陳貌卿",
+        "list_type": "選修",
+        "list_field_class": "夜餐旅三甲",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "異國美食製作",
+        "list_credit": "3",
+        "list_lecturer": "施慧雯",
+        "list_type": "選修",
+        "list_field_class": "夜餐旅四甲等合開",
+        "list_time": "四 12 13 14"
+    },
+    {
         "list_name": "葡萄酒學",
         "list_credit": "3",
         "list_lecturer": "林儒蘊",
@@ -64,11 +112,19 @@
         "list_time": "五 12 13 14"
     },
     {
-        "list_name": "餐旅設施規劃與管理",
+        "list_name": "餐旅創業實務",
         "list_credit": "3",
-        "list_lecturer": "陳晃展",
+        "list_lecturer": "喬懷恩",
         "list_type": "選修",
-        "list_field_class": "夜餐旅四丙",
+        "list_field_class": "夜餐旅四甲等合開",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "餐旅籌備與規劃",
+        "list_credit": "3",
+        "list_lecturer": "劉馨婷",
+        "list_type": "選修",
+        "list_field_class": "夜餐旅三甲",
         "list_time": "三 12 13 14"
     },
     {
@@ -80,11 +136,19 @@
         "list_time": "三 12 13 14"
     },
     {
-        "list_name": "餐旅籌備與規劃",
+        "list_name": "餐旅設施規劃與管理",
         "list_credit": "3",
-        "list_lecturer": "劉馨婷",
+        "list_lecturer": "劉國寧",
         "list_type": "選修",
-        "list_field_class": "夜餐旅三甲",
+        "list_field_class": "夜餐旅四乙",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "餐旅設施規劃與管理",
+        "list_credit": "3",
+        "list_lecturer": "陳晃展",
+        "list_type": "選修",
+        "list_field_class": "夜餐旅四丙",
         "list_time": "三 12 13 14"
     }
 ]

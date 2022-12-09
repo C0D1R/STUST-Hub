@@ -32,22 +32,6 @@
         "list_time": "四 2 3 4"
     },
     {
-        "list_name": "行銷實務",
-        "list_credit": "3",
-        "list_lecturer": "梁文科",
-        "list_type": "選修",
-        "list_field_class": "國企二甲等合開",
-        "list_time": "四 5 6 7"
-    },
-    {
-        "list_name": "服務業管理",
-        "list_credit": "3",
-        "list_lecturer": "林容璟",
-        "list_type": "選修",
-        "list_field_class": "國企四甲等合開",
-        "list_time": "二 6 7 8"
-    },
-    {
         "list_name": "國際企業個案研討",
         "list_credit": "3",
         "list_lecturer": "劉炳欽",
@@ -64,28 +48,20 @@
         "list_time": "二 2 3 4"
     },
     {
-        "list_name": "國際金融市場實務",
-        "list_credit": "3",
-        "list_lecturer": "林靖中",
-        "list_type": "選修",
-        "list_field_class": "國企二甲等合開",
-        "list_time": "五 1 2 3"
-    },
-    {
-        "list_name": "國際貿易個案分析",
-        "list_credit": "3",
-        "list_lecturer": "張淑玲",
-        "list_type": "選修",
-        "list_field_class": "國企三甲等合開",
-        "list_time": "三 2 5 6"
-    },
-    {
         "list_name": "國際匯兌",
         "list_credit": "3",
         "list_lecturer": "莊建富",
         "list_type": "選修",
         "list_field_class": "國企三甲等合開",
         "list_time": "五 5 6 7"
+    },
+    {
+        "list_name": "國際競爭策略",
+        "list_credit": "3",
+        "list_lecturer": "洪一碩",
+        "list_type": "選修",
+        "list_field_class": "國企三甲等合開",
+        "list_time": "二 7 8 9"
     },
     {
         "list_name": "國際經貿法",
@@ -104,12 +80,28 @@
         "list_time": "四 5 6 7"
     },
     {
-        "list_name": "國際競爭策略",
+        "list_name": "國際貿易個案分析",
         "list_credit": "3",
-        "list_lecturer": "洪一碩",
+        "list_lecturer": "張淑玲",
         "list_type": "選修",
         "list_field_class": "國企三甲等合開",
-        "list_time": "二 7 8 9"
+        "list_time": "三 2 5 6"
+    },
+    {
+        "list_name": "國際金融市場實務",
+        "list_credit": "3",
+        "list_lecturer": "林靖中",
+        "list_type": "選修",
+        "list_field_class": "國企二甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "服務業管理",
+        "list_credit": "3",
+        "list_lecturer": "林容璟",
+        "list_type": "選修",
+        "list_field_class": "國企四甲等合開",
+        "list_time": "二 6 7 8"
     },
     {
         "list_name": "總體經濟學",
@@ -118,6 +110,14 @@
         "list_type": "選修",
         "list_field_class": "國企二甲等合開",
         "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "行銷實務",
+        "list_credit": "3",
+        "list_lecturer": "梁文科",
+        "list_type": "選修",
+        "list_field_class": "國企二甲等合開",
+        "list_time": "四 5 6 7"
     },
     {
         "list_name": "企業經營實務實習(二)",

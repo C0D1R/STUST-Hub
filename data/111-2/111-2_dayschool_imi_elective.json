@@ -24,6 +24,102 @@
         "list_time": "四 6 7 8"
     },
     {
+        "list_name": "企業管理實務",
+        "list_credit": "3",
+        "list_lecturer": "葉雅倫",
+        "list_type": "選修",
+        "list_field_class": "工管四甲等合開",
+        "list_time": "四 6 7 8"
+    },
+    {
+        "list_name": "作業管理",
+        "list_credit": "3",
+        "list_lecturer": "田倜宇",
+        "list_type": "選修",
+        "list_field_class": "電商三甲",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "作業管理",
+        "list_credit": "3",
+        "list_lecturer": "曾文宏",
+        "list_type": "選修",
+        "list_field_class": "電商三乙",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "全球運籌管理",
+        "list_credit": "3",
+        "list_lecturer": "楊金山",
+        "list_type": "選修",
+        "list_field_class": "工管四甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "全面品質管理",
+        "list_credit": "3",
+        "list_lecturer": "陳忠和",
+        "list_type": "選修",
+        "list_field_class": "工管三甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "六標準差方法論",
+        "list_credit": "3",
+        "list_lecturer": "王鵬森",
+        "list_type": "選修",
+        "list_field_class": "工管三甲等合開",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "創業管理",
+        "list_credit": "3",
+        "list_lecturer": "田倜宇",
+        "list_type": "選修",
+        "list_field_class": "工管二甲",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "創業管理",
+        "list_credit": "3",
+        "list_lecturer": "田倜宇",
+        "list_type": "選修",
+        "list_field_class": "工管二乙",
+        "list_time": "四 6 7 8"
+    },
+    {
+        "list_name": "品管實務",
+        "list_credit": "3",
+        "list_lecturer": "陳忠和",
+        "list_type": "選修",
+        "list_field_class": "工管四甲等合開",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "商務英語",
+        "list_credit": "3",
+        "list_lecturer": "朱大中",
+        "list_type": "選修",
+        "list_field_class": "電商四甲等合開",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "商用微積分",
+        "list_credit": "3",
+        "list_lecturer": "黃振勝",
+        "list_type": "選修",
+        "list_field_class": "工管一甲",
+        "list_time": "一 6 7 8"
+    },
+    {
+        "list_name": "商用微積分",
+        "list_credit": "3",
+        "list_lecturer": "黃振勝",
+        "list_type": "選修",
+        "list_field_class": "工管一乙",
+        "list_time": "一 2 3 4"
+    },
+    {
         "list_name": "工業4.0理論與實務",
         "list_credit": "3",
         "list_lecturer": "吳慶壽",
@@ -56,84 +152,12 @@
         "list_time": "二 2 3 4"
     },
     {
-        "list_name": "六標準差方法論",
-        "list_credit": "3",
-        "list_lecturer": "王鵬森",
-        "list_type": "選修",
-        "list_field_class": "工管三甲等合開",
-        "list_time": "二 7 8 9"
-    },
-    {
         "list_name": "田口品質工程",
         "list_credit": "3",
         "list_lecturer": "方正中",
         "list_type": "選修",
         "list_field_class": "工管三甲等合開",
         "list_time": "一 5 6 7"
-    },
-    {
-        "list_name": "企業管理實務",
-        "list_credit": "3",
-        "list_lecturer": "葉雅倫",
-        "list_type": "選修",
-        "list_field_class": "工管四甲等合開",
-        "list_time": "四 6 7 8"
-    },
-    {
-        "list_name": "全面品質管理",
-        "list_credit": "3",
-        "list_lecturer": "陳忠和",
-        "list_type": "選修",
-        "list_field_class": "工管三甲等合開",
-        "list_time": "二 2 3 4"
-    },
-    {
-        "list_name": "全球運籌管理",
-        "list_credit": "3",
-        "list_lecturer": "楊金山",
-        "list_type": "選修",
-        "list_field_class": "工管四甲等合開",
-        "list_time": "四 2 3 4"
-    },
-    {
-        "list_name": "行動商務應用",
-        "list_credit": "3",
-        "list_lecturer": "王智昊",
-        "list_type": "選修",
-        "list_field_class": "電商四甲等合開",
-        "list_time": "二 7 8 9"
-    },
-    {
-        "list_name": "行銷管理實務",
-        "list_credit": "3",
-        "list_lecturer": "曾碧卿",
-        "list_type": "選修",
-        "list_field_class": "工管二甲等合開",
-        "list_time": "五 1 2 3"
-    },
-    {
-        "list_name": "行銷數據分析與決策",
-        "list_credit": "3",
-        "list_lecturer": "李振宇",
-        "list_type": "選修",
-        "list_field_class": "電商三甲等合開",
-        "list_time": "四 2 3 4"
-    },
-    {
-        "list_name": "作業管理",
-        "list_credit": "3",
-        "list_lecturer": "田倜宇",
-        "list_type": "選修",
-        "list_field_class": "電商三甲",
-        "list_time": "三 2 3 4"
-    },
-    {
-        "list_name": "作業管理",
-        "list_credit": "3",
-        "list_lecturer": "曾文宏",
-        "list_type": "選修",
-        "list_field_class": "電商三乙",
-        "list_time": "五 2 3 4"
     },
     {
         "list_name": "社群經營與行銷",
@@ -144,12 +168,44 @@
         "list_time": "一 7 8 9"
     },
     {
-        "list_name": "品管實務",
+        "list_name": "網站建置軟體應用",
         "list_credit": "3",
-        "list_lecturer": "陳忠和",
+        "list_lecturer": "廖顯宗",
         "list_type": "選修",
-        "list_field_class": "工管四甲等合開",
-        "list_time": "一 2 3 4"
+        "list_field_class": "電商三甲",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "網站建置軟體應用",
+        "list_credit": "3",
+        "list_lecturer": "廖顯宗",
+        "list_type": "選修",
+        "list_field_class": "電商三乙",
+        "list_time": "二 6 7 8"
+    },
+    {
+        "list_name": "行動商務應用",
+        "list_credit": "3",
+        "list_lecturer": "王智昊",
+        "list_type": "選修",
+        "list_field_class": "電商四甲等合開",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "行銷數據分析與決策",
+        "list_credit": "3",
+        "list_lecturer": "李振宇",
+        "list_type": "選修",
+        "list_field_class": "電商三甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "行銷管理實務",
+        "list_credit": "3",
+        "list_lecturer": "曾碧卿",
+        "list_type": "選修",
+        "list_field_class": "工管二甲等合開",
+        "list_time": "五 1 2 3"
     },
     {
         "list_name": "財務管理",
@@ -168,60 +224,12 @@
         "list_time": "四 2 3 4"
     },
     {
-        "list_name": "高等實驗設計",
+        "list_name": "跨境電子商務",
         "list_credit": "3",
-        "list_lecturer": "方正中",
+        "list_lecturer": "廖顯宗",
         "list_type": "選修",
-        "list_field_class": "碩專工管一甲等合開",
-        "list_time": "日 4 5 6"
-    },
-    {
-        "list_name": "高等績效評估",
-        "list_credit": "3",
-        "list_lecturer": "陳忠和",
-        "list_type": "選修",
-        "list_field_class": "碩專工管一甲等合開",
-        "list_time": "日 1 2 3"
-    },
-    {
-        "list_name": "商用微積分",
-        "list_credit": "3",
-        "list_lecturer": "黃振勝",
-        "list_type": "選修",
-        "list_field_class": "工管一甲",
-        "list_time": "一 6 7 8"
-    },
-    {
-        "list_name": "商用微積分",
-        "list_credit": "3",
-        "list_lecturer": "黃振勝",
-        "list_type": "選修",
-        "list_field_class": "工管一乙",
-        "list_time": "一 2 3 4"
-    },
-    {
-        "list_name": "商務英語",
-        "list_credit": "3",
-        "list_lecturer": "朱大中",
-        "list_type": "選修",
-        "list_field_class": "電商四甲等合開",
-        "list_time": "一 2 3 4"
-    },
-    {
-        "list_name": "創業管理",
-        "list_credit": "3",
-        "list_lecturer": "田倜宇",
-        "list_type": "選修",
-        "list_field_class": "工管二甲",
-        "list_time": "四 2 3 4"
-    },
-    {
-        "list_name": "創業管理",
-        "list_credit": "3",
-        "list_lecturer": "田倜宇",
-        "list_type": "選修",
-        "list_field_class": "工管二乙",
-        "list_time": "四 6 7 8"
+        "list_field_class": "電商二甲",
+        "list_time": "三 4 5 6"
     },
     {
         "list_name": "量測系統分析",
@@ -230,14 +238,6 @@
         "list_type": "選修",
         "list_field_class": "工管四甲等合開",
         "list_time": "二 6 7 8"
-    },
-    {
-        "list_name": "跨境電子商務",
-        "list_credit": "3",
-        "list_lecturer": "廖顯宗",
-        "list_type": "選修",
-        "list_field_class": "電商二甲",
-        "list_time": "三 4 5 6"
     },
     {
         "list_name": "電商影片製作",
@@ -254,21 +254,5 @@
         "list_type": "選修",
         "list_field_class": "電商二甲",
         "list_time": "三 1 2 3"
-    },
-    {
-        "list_name": "網站建置軟體應用",
-        "list_credit": "3",
-        "list_lecturer": "廖顯宗",
-        "list_type": "選修",
-        "list_field_class": "電商三甲",
-        "list_time": "五 2 3 4"
-    },
-    {
-        "list_name": "網站建置軟體應用",
-        "list_credit": "3",
-        "list_lecturer": "廖顯宗",
-        "list_type": "選修",
-        "list_field_class": "電商三乙",
-        "list_time": "二 6 7 8"
     }
 ]
