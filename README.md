@@ -1,1 +1,1 @@
-# STUST－課程搜尋系統
+# STUST HUB
