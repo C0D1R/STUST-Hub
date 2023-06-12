@@ -1,5 +1,5 @@
 (() => {
-    const dataUrl = '../data/club.json';
+    const dataUrl = '../data/club/club.json';
     const list = document.getElementById('list');
     const CreateWorker = data => {
         return new Promise((resolve, reject) => {

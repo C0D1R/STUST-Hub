@@ -29,7 +29,7 @@
                     str = (/instagram/i).test(temp) ? 'ig' :
                           (/facebook/i).test(temp)  ? 'fb' :
                           (/line/i).test(temp)      ? 'line' : 'link';
-                    path = `img/${str}3.png`;
+                    path = `img/${str}.png`;
                     html += `
                                 <a href="${temp}">
                                     <img src="${path}" alt="${data[i].name}的${str}連結"
