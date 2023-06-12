@@ -3,7 +3,7 @@
     const list = document.getElementById('list');
     const CreateWorker = data => {
         return new Promise((resolve, reject) => {
-            const worker = new Worker('club_worker.js');
+            const worker = new Worker('./js/club_worker.js');
             worker.postMessage(data);
             worker.onmessage = event => {
                 resolve(event.data);
