@@ -1,0 +1,61 @@
+@media screen and (min-width: 700px) {
+    html { font-size: 18px; }
+}
+@media screen and (max-width: 700px) and (min-width: 405px) {
+    html { font-size: 18px; }
+}
+@media screen and (max-width: 405px) {
+    html { font-size: 17px; }
+}
+@media screen and (max-width: 355px) {
+    html { font-size: 16px; }
+}
+
+* {
+    font-family: "Helvetica", "Microsoft JhengHei";
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #F6F8FA;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    margin-bottom: 8px;
+}
+
+.header__h1 {
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+
+.list__item {
+    display: flex;
+    background-color: #ffffff;
+    margin: 0 auto 8px;
+    padding: 8px 0.68rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.list__item__name {
+    font-size: 1.25rem;
+}
+
+.list__item__intro {
+    display: none;
+}
+
+.list__item__link {
+    display: flex;
+}
+
+.list__item__link__img {
+    width: 1.2rem;
+    margin: 0 0.25rem;
+}
