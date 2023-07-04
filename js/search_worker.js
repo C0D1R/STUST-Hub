@@ -27,18 +27,18 @@
             }
             html += `
                     <div class="card">
-                        <div class="card__name">${temp.name}</div>
+                        <div class="card__name">${temp.list_name}</div>
                         <div class="card__type">
-                            <div class="card__type--inside">${temp.type}</div>
+                            <div class="card__type--inside">${temp.list_type}</div>
                         </div>
                         <div class="card__item--lg card__caption">授課教師</div>
                         <div class="card__item--sm card__caption">學分</div>
-                        <div class="card__item--lg card__content card__lecturer">${temp.lecturer}</div>
-                        <div class="card__item--sm card__content card__credit">${temp.credit}</div>
+                        <div class="card__item--lg card__content card__lecturer">${temp.list_lecturer}</div>
+                        <div class="card__item--sm card__content card__credit">${temp.list_credit}</div>
                         <div class="card__item--lg card__caption">通識領域／班級</div>
                         <div class="card__item--sm card__caption">上課時間</div>
-                        <div class="card__item--lg card__content card__class-field">${temp.class_field}</div>
-                        <div class="card__item--sm card__content card__time">${temp.time}</div>
+                        <div class="card__item--lg card__content card__class-field">${temp.list_field_class}</div>
+                        <div class="card__item--sm card__content card__time">${temp.list_time}</div>
                     </div>
                     `;
         }
