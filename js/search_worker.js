@@ -11,16 +11,7 @@
         });
     }
     const AddList = (data, filter) => {
-        let html = `
-                    <div class="card card--hide-moblie">
-                        <div class="card__name">課程名稱</div>
-                        <div class="card__type">課程類別</div>
-                        <div class="card__lecturer">授課教師</div>
-                        <div class="card__credit">學分</div>
-                        <div class="card__class-field">通識領域／班級</div>
-                        <div class="card__time">上課時間</div>
-                    </div>
-                   `;
+        let html = '';
         for(let i = data.length-1, temp = null; i >= 0 && (temp = data[i]); i--) {
             if(!filter.test(temp.list_field_class)) {
                 continue;

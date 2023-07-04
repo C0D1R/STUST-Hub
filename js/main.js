@@ -55,6 +55,19 @@
                 return ['humanities_and_arts', 'social_science', 'natural_science', 'comprehensive_practice'];
         }
     },
+    AddListTitle = html => {
+        html = `
+               <div class="card card--hide-moblie">
+                   <div class="card__name">課程名稱</div>
+                   <div class="card__type">課程類別</div>
+                   <div class="card__lecturer">授課教師</div>
+                   <div class="card__credit">學分</div>
+                   <div class="card__class-field">通識領域／班級</div>
+                   <div class="card__time">上課時間</div>
+               </div>
+               ` + html;
+        return html
+    },
     createWorker = data => {
         return new Promise((resolve, reject) => {
             const worker = new Worker('./js/search_worker.js');
@@ -90,7 +103,7 @@
         }
         Promise.all(promises)
             .then((data) => {
-                list.innerHTML = data.join().replace(/,/g, '');
+                list.innerHTML = AddListTitle(data.join().replace(/,/g, ''));
             }, (error) => {
                 console.error(error);
             })
