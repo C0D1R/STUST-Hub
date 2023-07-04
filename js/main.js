@@ -6,7 +6,6 @@
     });
     const list = document.getElementById('list'),
           btn = document.getElementById('btn'),
-          isDesktop = screen.width >= 1024 ? true : false,
     getRadioBoxValue = RadioBoxValue => {
         for(let i = RadioBoxValue.length-1; i >= 0; i--) {
             if(RadioBoxValue[i].checked) {
@@ -58,8 +57,7 @@
     },
     createWorker = data => {
         return new Promise((resolve, reject) => {
-            const worker = new Worker(isDesktop ? './js/desktop_worker.js'
-                                                : './js/mobile_worker.js');
+            const worker = new Worker('./js/search_worker.js');
             worker.postMessage(data);
             worker.onmessage = event => {
                 resolve(event.data);
@@ -68,18 +66,6 @@
                 reject(event.error);
             };
         });
-    },
-    AddListThead = html => {
-        html = `<div class="list__container">
-                    <span class="list__item list__item--name">課程名稱</span>
-                    <span class="list__item list__item--credit">學分</span>
-                    <span class="list__item list__item--lecturer">任課教師</span>
-                    <span class="list__item list__item--type">課程類別</span>
-                    <span class="list__item list__item--fieldclass">班級／領域</span>
-                    <span class="list__item list__item--time">時間</span>
-                </div>
-                ` + html;
-        return html;
     },
     main = () => {
         let promises = [];
@@ -104,8 +90,7 @@
         }
         Promise.all(promises)
             .then((data) => {
-                list.innerHTML = isDesktop ? AddListThead(data.join().replace(/,/g, ''))
-                                           : data.join().replace(/,/g, '');
+                list.innerHTML = data.join().replace(/,/g, '');
             }, (error) => {
                 console.error(error);
             })
