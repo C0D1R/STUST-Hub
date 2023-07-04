@@ -27,214 +27,198 @@
     </head>
     <body>
         <nav class="nav"></nav>
-        <header class="header">
-            <h1 class="header__title">STUST課程查詢系統</h1>
-        </header>
         <div id="form" class="form">
+            <div class="form__caption">學年學期</div>
             <div class="form__container">
-                <div class="form__item form__item--sm">學年學期</div>
-                <div class="from__content">
-                    <label>
-                        <input type="radio" name="semester" value="110-1" class="sr-only">
-                        <span class="btn btn-sm">110-1</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="semester" value="110-2" class="sr-only">
-                        <span class="btn btn-sm">110-2</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="semester" value="111-1" class="sr-only">
-                        <span class="btn btn-sm">111-1</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="semester" value="111-2" class="sr-only" checked>
-                        <span class="btn btn-sm">111-2</span>
-                    </label>
-                </div>
-            </div>
-            <div class="form__container">
-                <div class="form__item form__item--sm">學制</div>
-                <div class="from__content">
-                    <label>
-                        <input type="radio" name="schoolsystem" value="dayschool" class="sr-only" checked>
-                        <span class="btn btn-sm">日間部</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="schoolsystem" value="nightschool" class="sr-only">
-                        <span class="btn btn-sm">夜間部</span>
-                    </label>
-                </div>
-            </div>
-            <div class="form__container">
-                <div class="form__item form__item--lg fl">系所</div>
-                <div class="from__content">
-                    <input type="radio" name="college" id="btn-College-of-Engineering" class="sr-only dn">
-                    <label for="btn-College-of-Engineering" class="btn btn-md dn">工學院</label>
-                    <input type="radio" name="college" id="btn-College-of-Business" class="sr-only dn">
-                    <label for="btn-College-of-Business" class="btn btn-md dn">商管學院</label>
-                    <input type="radio" name="college" id="btn-College-of-Communication" class="sr-only dn">
-                    <label for="btn-College-of-Communication" class="btn btn-md dn">數位設計學院</label>
-                    <input type="radio" name="college" id="btn-College-of-Humanities" class="sr-only dn">
-                    <label for="btn-College-of-Humanities" class="btn btn-md dn">人文社會學院</label>
-                    <div id="menu-College-of-Business">
-                        <label>
-                            <input type="radio" name="department" value="imi" class="sr-only">
-                            <span class="btn btn-sm">工資系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="ib" class="sr-only">
-                            <span class="btn btn-sm">國企系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="fin" class="sr-only">
-                            <span class="btn btn-sm">財金系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="ba" class="sr-only">
-                            <span class="btn btn-sm">企管系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="mis" class="sr-only">
-                            <span class="btn btn-sm">資管系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="accinfo" class="sr-only">
-                            <span class="btn btn-sm">會資系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="leisure" class="sr-only">
-                            <span class="btn btn-sm">休閒系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="mim" class="sr-only">
-                            <span class="btn btn-sm">行流系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="hm" class="sr-only">
-                            <span class="btn btn-sm">餐旅系</span>
-                        </label>
-                    </div>
-                    <div id="menu-College-of-Engineering">
-                        <label>
-                            <input type="radio" name="department" value="ee" class="sr-only">
-                            <span class="btn btn-sm">電機系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="mech" class="sr-only">
-                            <span class="btn btn-sm">機械系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="eecs" class="sr-only">
-                            <span class="btn btn-sm">電子系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="oe" class="sr-only">
-                            <span class="btn btn-sm">光電系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="csie" class="sr-only" checked>
-                            <span class="btn btn-sm">資工系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="chem" class="sr-only">
-                            <span class="btn btn-sm">化材系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="bio" class="sr-only">
-                            <span class="btn btn-sm">生食系</span>
-                        </label>
-                    </div>
-                    <div id="menu-College-of-Communication">
-                        <label>
-                            <input type="radio" name="department" value="ic" class="sr-only">
-                            <span class="btn btn-sm">資傳系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="vc" class="sr-only">
-                            <span class="btn btn-sm">視傳系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="mes" class="sr-only">
-                            <span class="btn btn-sm">多樂系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="cpd" class="sr-only">
-                            <span class="btn btn-sm">產設系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="pmi" class="sr-only">
-                            <span class="btn btn-sm">流音系</span>
-                        </label>
-                    </div>
-                    <div id="menu-College-of-Humanities">
-                        <label>
-                            <input type="radio" name="department" value="english" class="sr-only">
-                            <span class="btn btn-sm">英語系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="japan" class="sr-only">
-                            <span class="btn btn-sm">日語系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="childcare" class="sr-only">
-                            <span class="btn btn-sm">幼保系</span>
-                        </label>
-                        <label>
-                            <input type="radio" name="department" value="ss" class="sr-only">
-                            <span class="btn btn-sm">高福系</span>
-                        </label>
-                    </div>
-                </div>
-                <div class="cl"></div>
-            </div>
-            <div class="form__container">
-                <div class="form__item form__item--sm">課程類別</div>
-                <div class="from__content">
-                    <label>
-                        <input type="checkbox" name="coursetype" value="compulsory" class="sr-only" checked>
-                        <span class="btn btn-sm">必修</span>
-                    </label>
-                    <label>
-                        <input type="checkbox" name="coursetype" value="elective" class="sr-only" checked>
-                        <span class="btn btn-sm">選修</span>
-                    </label>
-                    <label>
-                        <input type="checkbox" name="coursetype" value="general_elective" class="sr-only" checked>
-                        <span class="btn btn-sm">通識</span>
-                    </label>
-                </div>
-            </div>
-            <div class="form__container">
-                <div class="form__item form__item--sm">年級</div>
-                <div class="from__content">
-                    <label>
-                        <input type="checkbox" name="grade" value="一" class="sr-only">
-                        <span class="btn btn-sm">一年級</span>
-                    </label>
-                    <label>
-                        <input type="checkbox" name="grade" value="二" class="sr-only">
-                        <span class="btn btn-sm">二年級</span>
-                    </label>
-                    <label>
-                        <input type="checkbox" name="grade" value="三" class="sr-only">
-                        <span class="btn btn-sm">三年級</span>
-                    </label>
-                    <label>
-                        <input type="checkbox" name="grade" value="四" class="sr-only">
-                        <span class="btn btn-sm">四年級</span>
-                    </label>
-                    <label>
-                        <input type="checkbox" name="grade" value="延修" class="sr-only">
-                        <span class="btn btn-sm">延修</span>
-                    </label>
-                </div>
-            </div>
-            <div class="form__container p8">
-                <label class="form__submit">
-                    <input type="button" name="send" value="send" id="btn" class="sr-only">
-                    <span class="btn btn-lg">送出</span>
+                <label>
+                    <input type="radio" name="semester" value="110-1" class="sr-only">
+                    <div class="form__container__btn">110-1</div>
+                </label>
+                <label>
+                    <input type="radio" name="semester" value="110-2" class="sr-only">
+                    <div class="form__container__btn">110-2</div>
+                </label>
+                <label>
+                    <input type="radio" name="semester" value="111-1" class="sr-only">
+                    <div class="form__container__btn">111-1</div>
+                </label>
+                <label>
+                    <input type="radio" name="semester" value="111-2" class="sr-only" checked>
+                    <div class="form__container__btn">111-2</div>
                 </label>
             </div>
+            <div class="form__caption">學制</div>
+            <div class="form__container">
+                <label>
+                    <input type="radio" name="schoolsystem" value="dayschool" class="sr-only" checked>
+                    <div class="form__container__btn">日間部</div>
+                </label>
+                <label>
+                    <input type="radio" name="schoolsystem" value="nightschool" class="sr-only">
+                    <div class="form__container__btn">夜間部</div>
+                </label>
+            </div>
+            <div class="form__caption form__caption--large">系所</div>
+            <div class="form__container form__container--direction">
+                <input type="radio" name="college" id="btn-engineering" class="sr-only" checked>
+                <label for="btn-engineering" class="form__container__menu-btn">工學院</label>
+                <input type="radio" name="college" id="btn-business" class="sr-only">
+                <label for="btn-business" class="form__container__menu-btn">商管學院</label>
+                <input type="radio" name="college" id="btn-communication" class="sr-only">
+                <label for="btn-communication" class="form__container__menu-btn">數位設計學院</label>
+                <input type="radio" name="college" id="btn-humanities" class="sr-only">
+                <label for="btn-humanities" class="form__container__menu-btn">人文社會學院</label>
+                <div id="menu-business" class="form__container__department">
+                    <label>
+                        <input type="radio" name="department" value="imi" class="sr-only">
+                        <div class="form__container__btn">工資系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="ib" class="sr-only">
+                        <div class="form__container__btn">國企系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="fin" class="sr-only">
+                        <div class="form__container__btn">財金系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="ba" class="sr-only">
+                        <div class="form__container__btn">企管系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="mis" class="sr-only">
+                        <div class="form__container__btn">資管系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="accinfo" class="sr-only">
+                        <div class="form__container__btn">會資系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="leisure" class="sr-only">
+                        <div class="form__container__btn">休閒系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="mim" class="sr-only">
+                        <div class="form__container__btn">行流系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="hm" class="sr-only">
+                        <div class="form__container__btn">餐旅系</div>
+                    </label>
+                </div>
+                <div id="menu-engineering" class="form__container__department">
+                    <label>
+                        <input type="radio" name="department" value="ee" class="sr-only">
+                        <div class="form__container__btn">電機系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="mech" class="sr-only">
+                        <div class="form__container__btn">機械系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="eecs" class="sr-only">
+                        <div class="form__container__btn">電子系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="oe" class="sr-only">
+                        <div class="form__container__btn">光電系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="csie" class="sr-only" checked>
+                        <div class="form__container__btn">資工系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="chem" class="sr-only">
+                        <div class="form__container__btn">化材系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="bio" class="sr-only">
+                        <div class="form__container__btn">生食系</div>
+                    </label>
+                </div>
+                <div id="menu-communication" class="form__container__department">
+                    <label>
+                        <input type="radio" name="department" value="ic" class="sr-only">
+                        <div class="form__container__btn">資傳系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="vc" class="sr-only">
+                        <div class="form__container__btn">視傳系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="mes" class="sr-only">
+                        <div class="form__container__btn">多樂系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="cpd" class="sr-only">
+                        <div class="form__container__btn">產設系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="pmi" class="sr-only">
+                        <div class="form__container__btn">流音系</div>
+                    </label>
+                </div>
+                <div id="menu-humanities" class="form__container__department">
+                    <label>
+                        <input type="radio" name="department" value="english" class="sr-only">
+                        <div class="form__container__btn">英語系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="japan" class="sr-only">
+                        <div class="form__container__btn">日語系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="childcare" class="sr-only">
+                        <div class="form__container__btn">幼保系</div>
+                    </label>
+                    <label>
+                        <input type="radio" name="department" value="ss" class="sr-only">
+                        <div class="form__container__btn">高福系</div>
+                    </label>
+                </div>
+            </div>
+            <div class="form__caption">課程類別</div>
+            <div class="form__container">
+                <label>
+                    <input type="checkbox" name="coursetype" value="compulsory" class="sr-only">
+                    <div class="form__container__btn">必修</div>
+                </label>
+                <label>
+                    <input type="checkbox" name="coursetype" value="elective" class="sr-only">
+                    <div class="form__container__btn">選修</div>
+                </label>
+                <label>
+                    <input type="checkbox" name="coursetype" value="general_elective" class="sr-only">
+                    <div class="form__container__btn">通識</div>
+                </label>
+            </div>
+            <div class="form__caption">年級</div>
+            <div class="form__container">
+                <label>
+                    <input type="checkbox" name="grade" value="一" class="sr-only">
+                    <div class="form__container__btn">一年級</div>
+                </label>
+                <label>
+                    <input type="checkbox" name="grade" value="二" class="sr-only">
+                    <div class="form__container__btn">二年級</div>
+                </label>
+                <label>
+                    <input type="checkbox" name="grade" value="三" class="sr-only">
+                    <div class="form__container__btn">三年級</div>
+                </label>
+                <label>
+                    <input type="checkbox" name="grade" value="四" class="sr-only">
+                    <div class="form__container__btn">四年級</div>
+                </label>
+                <label>
+                    <input type="checkbox" name="grade" value="延修" class="sr-only">
+                    <div class="form__container__btn">延修</div>
+                </label>
+            </div>
+            <label>
+                <input type="button" name="send" value="send" id="btn" class="sr-only">
+                <div class="form__submit">送出</div>
+            </label>
         </div>
         <main id="list"></main>
         <footer class="footer"></footer>
