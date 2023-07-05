@@ -121,6 +121,7 @@ body {
 }
 #btn-filter:not(:checked) ~ .form__caption,
 #btn-filter:not(:checked) ~ .form__container {
+    visibility: hidden;
     padding: 0;
     border-bottom: 0;
 }
