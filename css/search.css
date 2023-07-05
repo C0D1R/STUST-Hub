@@ -316,7 +316,7 @@ body {
     }
 
     .main {
-        margin: 8px auto;
+        margin: 8px 0;
     }
     .card {
         width: 98%;
