@@ -157,20 +157,6 @@ body {
         flex-wrap: wrap;
         justify-content: center;
         width: 100%;
-    }
-    .form__container__menu-btn {
-        width: 46%;
-        padding: 4px 0;
-        margin: 2px 1%;
-        line-height: 20px;
-        border: 1px solid #2163e8;
-        border-radius: 4px;
-        color: #2163e8;
-    }
-    #menu-engineering,
-    #menu-business,
-    #menu-communication,
-    #menu-humanities {
         max-height: 0;
         opacity: 0;
         transition: opacity 1s ease;
@@ -182,6 +168,15 @@ body {
     #btn-humanities:checked ~ #menu-humanities {
         max-height: 150px;
         opacity: 1;
+    }
+    .form__container__menu-btn {
+        width: 46%;
+        padding: 4px 0;
+        margin: 2px 1%;
+        line-height: 20px;
+        border: 1px solid #2163e8;
+        border-radius: 4px;
+        color: #2163e8;
     }
     .form__container__btn {
         padding: 6px 8px;
@@ -320,6 +315,9 @@ body {
         border-radius: 16px;
     }
 
+    .main {
+        margin: 8px auto;
+    }
     .card {
         width: 98%;
         padding: 16px 0;
