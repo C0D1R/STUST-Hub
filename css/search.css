@@ -133,7 +133,6 @@ body {
 
 .card {
     display: flex;
-    background-color: #fff;
     text-align: center;
     line-height: 20px;
 }
@@ -197,6 +196,7 @@ body {
     }
 
     .card {
+        background-color: #fff;
         flex-wrap: wrap;
         width: 86%;
         margin: 8px auto;
@@ -316,12 +316,13 @@ body {
     }
 
     .main {
-        margin: 8px 0;
+        width: 98%;
+        margin: 8px auto;
+        background-color: #fff;
+        border-radius: 8px;
     }
     .card {
-        width: 98%;
         padding: 16px 0;
-        margin: 0 auto;
         border-bottom: 1px solid rgba(0, 0, 0, 0.05);
     }
     .card__caption {
@@ -352,7 +353,7 @@ body {
         width: 10.5%;
     }
     @media screen and (min-width: 1400px) {
-        .card {
+        .main {
             width: 84%;
         }
     }
