@@ -229,7 +229,8 @@ body {
         border-radius: 16px;
         padding: 2px 6px;
         font-size: 1rem;
-        font-weight: 600;        
+        font-weight: 600;
+        margin: auto 0;
     }
     .card__item--lg {
         width: 55%;
