@@ -4,16 +4,16 @@
             document.getElementById('list').innerHTML = sessionStorage.getItem('CourseList');
         }
     });
-    const list = document.getElementById('list'),
-          btn = document.getElementById('btn'),
-    getRadioBoxValue = RadioBoxValue => {
+    const list = document.getElementById('list');
+    const btn = document.getElementById('btn');
+    const getRadioBoxValue = (RadioBoxValue) => {
         for(let i = RadioBoxValue.length-1; i >= 0; i--) {
             if(RadioBoxValue[i].checked) {
                 return RadioBoxValue[i].value;
             }
         }
-    },
-    getCheckBoxValue = CheckBoxValue => {
+    }
+    const getCheckBoxValue = (CheckBoxValue) => {
         let CheckedValue = [];
         for(let i = CheckBoxValue.length-1, j = 0; i >= 0; i--) {
             if(CheckBoxValue[i].checked) {
@@ -21,41 +21,19 @@
             }
         }
         return CheckedValue;
-    },
-    getGeneralField = (dept) => {
-        switch(dept) {
-            case 'ee':
-            case 'mech':
-            case 'eecs':
-            case 'oe':
-            case 'csie':
-            case 'chem':
-            case 'bio':
-            case 'vc':
-            case 'ic':
-            case 'mes':
-            case 'cpd':
-            case 'pmi':
-                return ['humanities_and_arts', 'social_science', 'comprehensive_practice'];
-            case 'imi':
-            case 'ib':
-            case 'accinfo':
-            case 'ba':
-            case 'fin':
-            case 'leisure':
-            case 'mim':
-            case 'mis':
-            case 'hm':
-            case 'english':
-            case 'japan':
-            case 'childcare':
-            case 'ss':
-                return ['humanities_and_arts', 'natural_science', 'comprehensive_practice'];
-            default:
-                return ['humanities_and_arts', 'social_science', 'natural_science', 'comprehensive_practice'];
-        }
-    },
-    AddListTitle = html => {
+    }
+    const getGeneralField = (dept) => {
+        const scienceDepts = ['ee', 'mech', 'eecs', 'oe', 'csie', 'chem', 'bio', 'ic', 'vc', 'mes', 'cpd', 'pmi'];
+        const humanitiesDepts = ['imi', 'ib', 'fin', 'ba', 'mis', 'accinfo', 'leisure', 'mim', 'hm', 'english', 'japan', 'childcare', 'ss'];
+        const type = {
+            science: ['humanities_and_arts', 'social_science', 'comprehensive_practice'],
+            humanities: ['humanities_and_arts', 'natural_science', 'comprehensive_practice'],
+            all: ['humanities_and_arts', 'social_science', 'natural_science', 'comprehensive_practice']
+        };
+        return scienceDepts.includes(dept)    ? type.science :
+               humanitiesDepts.includes(dept) ? type.humanities : type.all;
+    }
+    const AddListTitle = (html) => {
         html = `
                <div class="card card--hide-moblie">
                    <div class="card__name">課程名稱</div>
@@ -67,8 +45,8 @@
                </div>
                ` + html;
         return html
-    },
-    createWorker = data => {
+    }
+    const createWorker = (data) => {
         return new Promise((resolve, reject) => {
             const worker = new Worker('./js/search_worker.js');
             worker.postMessage(data);
@@ -79,14 +57,14 @@
                 reject(event.error);
             };
         });
-    },
-    main = () => {
+    }
+    const main = () => {
         let promises = [];
-        const semester = getRadioBoxValue(document.getElementsByName('semester')),
-              schoolsystem = getRadioBoxValue(document.getElementsByName('schoolsystem')),
-              department =  getRadioBoxValue(document.getElementsByName('department')),
-              coursetype = getCheckBoxValue(document.getElementsByName('coursetype')),
-              grade = `${getCheckBoxValue(document.getElementsByName('grade'))
+        const semester = getRadioBoxValue(document.getElementsByName('semester'));
+        const schoolsystem = getRadioBoxValue(document.getElementsByName('schoolsystem'));
+        const department =  getRadioBoxValue(document.getElementsByName('department'));
+        const coursetype = getCheckBoxValue(document.getElementsByName('coursetype'));
+        const grade = `${getCheckBoxValue(document.getElementsByName('grade'))
                        .join().replace(/,/g, '(?!技)|')}(?!技)|領域`;
         for(let i = coursetype.length-1, url = ''; i >= 0; i--) {
             if(coursetype[i] != 'general_elective') {
