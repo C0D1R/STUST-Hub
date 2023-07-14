@@ -4,23 +4,15 @@
             document.getElementById('list').innerHTML = sessionStorage.getItem('CourseList');
         }
     });
-    const list = document.getElementById('list');
-    const btn = document.getElementById('btn');
-    const getRadioBoxValue = (RadioBoxValue) => {
-        for(let i = RadioBoxValue.length-1; i >= 0; i--) {
-            if(RadioBoxValue[i].checked) {
-                return RadioBoxValue[i].value;
-            }
-        }
+    const $ = document.querySelector.bind(document);
+    const $$ = document.querySelectorAll.bind(document);
+    const getRadioBoxValue = (RadioValue) => {
+        return Array.from(RadioValue).find(radio => radio.checked).value;
     }
     const getCheckBoxValue = (CheckBoxValue) => {
-        let CheckedValue = [];
-        for(let i = CheckBoxValue.length-1, j = 0; i >= 0; i--) {
-            if(CheckBoxValue[i].checked) {
-                CheckedValue[j++] = CheckBoxValue[i].value;
-            }
-        }
-        return CheckedValue;
+        return Array.from(CheckBoxValue)
+                    .filter(checkbox => checkbox.checked)
+                    .map(checkbox => checkbox.value);
     }
     const getGeneralField = (dept) => {
         const scienceDepts = ['ee', 'mech', 'eecs', 'oe', 'csie', 'chem', 'bio', 'ic', 'vc', 'mes', 'cpd', 'pmi'];
@@ -58,14 +50,19 @@
             };
         });
     }
+
+    const list = $('#list');
+    const btn = $('#btn');
+
     const main = () => {
         let promises = [];
-        const semester = getRadioBoxValue(document.getElementsByName('semester'));
-        const schoolsystem = getRadioBoxValue(document.getElementsByName('schoolsystem'));
-        const department =  getRadioBoxValue(document.getElementsByName('department'));
-        const coursetype = getCheckBoxValue(document.getElementsByName('coursetype'));
-        const grade = `${getCheckBoxValue(document.getElementsByName('grade'))
+        const semester = getRadioBoxValue($$('[name="semester"]'));
+        const schoolsystem = getRadioBoxValue($$('[name="schoolsystem"]'));
+        const department =  getRadioBoxValue($$('[name="department"]'));
+        const coursetype = getCheckBoxValue($$('[name="coursetype"]'));
+        const grade = `${getCheckBoxValue($$('[name="grade"]'))
                        .join().replace(/,/g, '(?!技)|')}(?!技)|領域`;
+
         for(let i = coursetype.length-1, url = ''; i >= 0; i--) {
             if(coursetype[i] != 'general_elective') {
                 url = `../data/${semester}/${semester}_${schoolsystem}_${department}_${coursetype[i]}.json`;
