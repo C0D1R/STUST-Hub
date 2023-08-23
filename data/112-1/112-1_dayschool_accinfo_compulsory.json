@@ -1,0 +1,122 @@
+[
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "吳聰皓",
+        "list_type": "必修",
+        "list_field_class": "會資三甲",
+        "list_time": "三 1"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "許淑鈴",
+        "list_type": "必修",
+        "list_field_class": "會資四甲",
+        "list_time": "二 6"
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "會資三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "會資四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "企業倫理",
+        "list_credit": "2",
+        "list_lecturer": "魏慧珊",
+        "list_type": "必修",
+        "list_field_class": "會資三甲",
+        "list_time": "一 7 8"
+    },
+    {
+        "list_name": "專業英文",
+        "list_credit": "2",
+        "list_lecturer": "薛健宏",
+        "list_type": "必修",
+        "list_field_class": "會資三甲",
+        "list_time": "一 2 3"
+    },
+    {
+        "list_name": "實務專題(一)",
+        "list_credit": "2",
+        "list_lecturer": "何威德",
+        "list_type": "必修",
+        "list_field_class": "會資三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "電腦稽核",
+        "list_credit": "3",
+        "list_lecturer": "何威德",
+        "list_type": "必修",
+        "list_field_class": "會資三甲",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "審計學(一)",
+        "list_credit": "3",
+        "list_lecturer": "何威德",
+        "list_type": "必修",
+        "list_field_class": "會資三甲",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "外語能力檢定",
+        "list_credit": "0",
+        "list_lecturer": "李政源",
+        "list_type": "自選必修",
+        "list_field_class": "自控延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "專業證照",
+        "list_credit": "0",
+        "list_lecturer": "洪崇文",
+        "list_type": "自選必修",
+        "list_field_class": "會資延修",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "自選必修",
+        "list_field_class": "二技企管延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "實務專題(一)",
+        "list_credit": "2",
+        "list_lecturer": "洪崇文",
+        "list_type": "自選必修",
+        "list_field_class": "會資延修",
+        "list_time": ""
+    },
+    {
+        "list_name": "實務專題(二)",
+        "list_credit": "2",
+        "list_lecturer": "洪崇文",
+        "list_type": "自選必修",
+        "list_field_class": "會資延修",
+        "list_time": ""
+    },
+    {
+        "list_name": "英文能力課程",
+        "list_credit": "3",
+        "list_lecturer": "黃麗麗",
+        "list_type": "自選必修",
+        "list_field_class": "自控延修等合開",
+        "list_time": "一 7 8 9"
+    }
+]

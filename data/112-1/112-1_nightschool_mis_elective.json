@@ -1,0 +1,58 @@
+[
+    {
+        "list_name": "職場自主學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "汪美香",
+        "list_type": "選修",
+        "list_field_class": "夜資管一甲",
+        "list_time": "一 11"
+    },
+    {
+        "list_name": "職場實務探索(一)",
+        "list_credit": "1",
+        "list_lecturer": "陳垂呈",
+        "list_type": "選修",
+        "list_field_class": "夜資管三甲",
+        "list_time": "四 11"
+    },
+    {
+        "list_name": "ERP配銷模組",
+        "list_credit": "3",
+        "list_lecturer": "岳桂芳",
+        "list_type": "選修",
+        "list_field_class": "夜資管四甲",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "多媒體設計與整合",
+        "list_credit": "3",
+        "list_lecturer": "謝慧瑜",
+        "list_type": "選修",
+        "list_field_class": "夜資管三甲",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "行動商務程式設計",
+        "list_credit": "3",
+        "list_lecturer": "陳俊吉",
+        "list_type": "選修",
+        "list_field_class": "夜資管四甲",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "知識管理",
+        "list_credit": "3",
+        "list_lecturer": "馮琡珺",
+        "list_type": "選修",
+        "list_field_class": "夜資管四甲",
+        "list_time": "一 12 13 14"
+    },
+    {
+        "list_name": "顧客關係管理",
+        "list_credit": "3",
+        "list_lecturer": "郭文鴻",
+        "list_type": "選修",
+        "list_field_class": "夜資管三甲",
+        "list_time": "五 12 13 14"
+    }
+]

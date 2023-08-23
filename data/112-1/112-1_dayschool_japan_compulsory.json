@@ -1,0 +1,746 @@
+[
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "陳亭希",
+        "list_type": "必修",
+        "list_field_class": "應日一甲",
+        "list_time": "一 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "黃幼欣",
+        "list_type": "必修",
+        "list_field_class": "應日一乙",
+        "list_time": "一 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "盧駿葳",
+        "list_type": "必修",
+        "list_field_class": "應日二甲",
+        "list_time": "一 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "陳連浚",
+        "list_type": "必修",
+        "list_field_class": "應日二乙",
+        "list_time": "一 6"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "陳亭希",
+        "list_type": "必修",
+        "list_field_class": "應日一甲",
+        "list_time": "一 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "黃幼欣",
+        "list_type": "必修",
+        "list_field_class": "應日一乙",
+        "list_time": "一 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "盧駿葳",
+        "list_type": "必修",
+        "list_field_class": "應日二甲",
+        "list_time": "一 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "陳連浚",
+        "list_type": "必修",
+        "list_field_class": "應日二乙",
+        "list_time": "一 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "楊琇媚",
+        "list_type": "必修",
+        "list_field_class": "應日三甲",
+        "list_time": "五 1"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "駱昭吟",
+        "list_type": "必修",
+        "list_field_class": "應日三乙",
+        "list_time": "五 4"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "陳瑜霞",
+        "list_type": "必修",
+        "list_field_class": "應日四甲",
+        "list_time": "一 4"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "莊秀文",
+        "list_type": "必修",
+        "list_field_class": "應日四乙",
+        "list_time": "四 2"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "冨永悠介",
+        "list_type": "必修",
+        "list_field_class": "夜四技日語二甲",
+        "list_time": "三 11"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "黃馨儀",
+        "list_type": "必修",
+        "list_field_class": "夜四技日語四甲",
+        "list_time": "三 11"
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "應日一甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "應日一乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "應日二甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "應日二乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "應日三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "應日三乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "應日四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "應日四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "碩研應日一甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "碩研應日二甲等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "夜四技日語二甲",
+        "list_time": "--"
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "夜四技日語四甲",
+        "list_time": "--"
+    },
+    {
+        "list_name": "服務學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "陳亭希",
+        "list_type": "必修",
+        "list_field_class": "應日一甲",
+        "list_time": "一 1 四 1"
+    },
+    {
+        "list_name": "服務學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "黃幼欣",
+        "list_type": "必修",
+        "list_field_class": "應日一乙",
+        "list_time": "一 1 四 8"
+    },
+    {
+        "list_name": "中文閱讀與表達(一)",
+        "list_credit": "2",
+        "list_lecturer": "郭璉謙",
+        "list_type": "必修",
+        "list_field_class": "應日一甲",
+        "list_time": "二 1 2"
+    },
+    {
+        "list_name": "中文閱讀與表達(一)",
+        "list_credit": "2",
+        "list_lecturer": "許雅貴",
+        "list_type": "必修",
+        "list_field_class": "應日一乙",
+        "list_time": "二 1 2"
+    },
+    {
+        "list_name": "台灣與世界",
+        "list_credit": "2",
+        "list_lecturer": "梁媛淋",
+        "list_type": "必修",
+        "list_field_class": "應日二甲",
+        "list_time": "五 1 2"
+    },
+    {
+        "list_name": "台灣與世界",
+        "list_credit": "2",
+        "list_lecturer": "梁媛淋",
+        "list_type": "必修",
+        "list_field_class": "應日二乙",
+        "list_time": "三 2 3"
+    },
+    {
+        "list_name": "職場倫理",
+        "list_credit": "2",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "應日三甲",
+        "list_time": "二 6 7"
+    },
+    {
+        "list_name": "職場倫理",
+        "list_credit": "2",
+        "list_lecturer": "黃幼欣",
+        "list_type": "必修",
+        "list_field_class": "應日三乙",
+        "list_time": "二 6 7"
+    },
+    {
+        "list_name": "體育生活(一)",
+        "list_credit": "2",
+        "list_lecturer": "賈寶山",
+        "list_type": "必修",
+        "list_field_class": "應日一甲",
+        "list_time": "二 6 7"
+    },
+    {
+        "list_name": "體育生活(一)",
+        "list_credit": "2",
+        "list_lecturer": "邱榮貞",
+        "list_type": "必修",
+        "list_field_class": "應日一乙",
+        "list_time": "二 6 7"
+    },
+    {
+        "list_name": "全球英語溝通",
+        "list_credit": "3",
+        "list_lecturer": "施茹譯",
+        "list_type": "必修",
+        "list_field_class": "夜四技日語一甲",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "職場英語溝通",
+        "list_credit": "3",
+        "list_lecturer": "潘玉美",
+        "list_type": "必修",
+        "list_field_class": "夜四技日語二甲",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "日語能力檢定",
+        "list_credit": "0",
+        "list_lecturer": "鄧美華",
+        "list_type": "自選必修",
+        "list_field_class": "應日延修",
+        "list_time": ""
+    },
+    {
+        "list_name": "外語能力檢定",
+        "list_credit": "0",
+        "list_lecturer": "李政源",
+        "list_type": "自選必修",
+        "list_field_class": "自控延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "外語實務實習素養",
+        "list_credit": "0",
+        "list_lecturer": "鄧美華",
+        "list_type": "自選必修",
+        "list_field_class": "應日延修",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "自選必修",
+        "list_field_class": "二技企管延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "專題研究(一)",
+        "list_credit": "1",
+        "list_lecturer": "鄧美華",
+        "list_type": "自選必修",
+        "list_field_class": "四技應日延修",
+        "list_time": "--"
+    },
+    {
+        "list_name": "專題研究(二)",
+        "list_credit": "1",
+        "list_lecturer": "鄧美華",
+        "list_type": "自選必修",
+        "list_field_class": "應日延修",
+        "list_time": ""
+    },
+    {
+        "list_name": "體育生活(三)：羽球(C)",
+        "list_credit": "1",
+        "list_lecturer": "杜珈霖",
+        "list_type": "自選必修",
+        "list_field_class": "資管二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：桌球(C)",
+        "list_credit": "1",
+        "list_lecturer": "陳春安",
+        "list_type": "自選必修",
+        "list_field_class": "資管二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：健身雕塑(C)",
+        "list_credit": "1",
+        "list_lecturer": "賈寶山",
+        "list_type": "自選必修",
+        "list_field_class": "資管二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：排球(C)",
+        "list_credit": "1",
+        "list_lecturer": "蘇素月",
+        "list_type": "自選必修",
+        "list_field_class": "資管二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：游泳(C)",
+        "list_credit": "1",
+        "list_lecturer": "谷淑華",
+        "list_type": "自選必修",
+        "list_field_class": "資管二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：瑜珈(C)",
+        "list_credit": "1",
+        "list_lecturer": "徐翠敏",
+        "list_type": "自選必修",
+        "list_field_class": "資管二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：網球(C)",
+        "list_credit": "1",
+        "list_lecturer": "陳新福",
+        "list_type": "自選必修",
+        "list_field_class": "資管二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：籃球(C)",
+        "list_credit": "1",
+        "list_lecturer": "陳玉林",
+        "list_type": "自選必修",
+        "list_field_class": "資管二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "英文能力課程",
+        "list_credit": "3",
+        "list_lecturer": "黃麗麗",
+        "list_type": "自選必修",
+        "list_field_class": "自控延修等合開",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "日語會話(一)(A)",
+        "list_credit": "1",
+        "list_lecturer": "榊祐一",
+        "list_type": "管制必修",
+        "list_field_class": "應日一甲等合開",
+        "list_time": "一 7 8"
+    },
+    {
+        "list_name": "日語會話(一)(B)",
+        "list_credit": "1",
+        "list_lecturer": "神作晋一",
+        "list_type": "管制必修",
+        "list_field_class": "應日一甲等合開",
+        "list_time": "一 7 8"
+    },
+    {
+        "list_name": "日語會話(一)(C)",
+        "list_credit": "1",
+        "list_lecturer": "冨永悠介",
+        "list_type": "管制必修",
+        "list_field_class": "應日一甲等合開",
+        "list_time": "一 7 8"
+    },
+    {
+        "list_name": "日語會話(一)(D)",
+        "list_credit": "1",
+        "list_lecturer": "桑澤悟史",
+        "list_type": "管制必修",
+        "list_field_class": "應日一甲等合開",
+        "list_time": "一 7 8"
+    },
+    {
+        "list_name": "進階日語會話(一)(A)",
+        "list_credit": "1",
+        "list_lecturer": "冨永悠介",
+        "list_type": "管制必修",
+        "list_field_class": "應日二甲等合開",
+        "list_time": "四 3 4"
+    },
+    {
+        "list_name": "進階日語會話(一)(B)",
+        "list_credit": "1",
+        "list_lecturer": "中田綠",
+        "list_type": "管制必修",
+        "list_field_class": "應日二甲等合開",
+        "list_time": "四 3 4"
+    },
+    {
+        "list_name": "進階日語會話(一)(C)",
+        "list_credit": "1",
+        "list_lecturer": "黑羽夏彥",
+        "list_type": "管制必修",
+        "list_field_class": "應日二甲等合開",
+        "list_time": "四 3 4"
+    },
+    {
+        "list_name": "進階日語會話(一)(D)",
+        "list_credit": "1",
+        "list_lecturer": "榊祐一",
+        "list_type": "管制必修",
+        "list_field_class": "應日二甲等合開",
+        "list_time": "四 3 4"
+    },
+    {
+        "list_name": "日文習作(一)(A)",
+        "list_credit": "2",
+        "list_lecturer": "中田綠",
+        "list_type": "管制必修",
+        "list_field_class": "應日三甲等合開",
+        "list_time": "三 3 4"
+    },
+    {
+        "list_name": "日文習作(一)(B)",
+        "list_credit": "2",
+        "list_lecturer": "神作晋一",
+        "list_type": "管制必修",
+        "list_field_class": "應日三甲等合開",
+        "list_time": "三 3 4"
+    },
+    {
+        "list_name": "日文習作(一)(C)",
+        "list_credit": "2",
+        "list_lecturer": "冨永悠介",
+        "list_type": "管制必修",
+        "list_field_class": "應日三甲等合開",
+        "list_time": "三 3 4"
+    },
+    {
+        "list_name": "日語文法(一)(A)",
+        "list_credit": "2",
+        "list_lecturer": "陳連浚",
+        "list_type": "管制必修",
+        "list_field_class": "應日二甲等合開",
+        "list_time": "一 7 8"
+    },
+    {
+        "list_name": "日語文法(一)(B)",
+        "list_credit": "2",
+        "list_lecturer": "朱婉婷",
+        "list_type": "管制必修",
+        "list_field_class": "應日二甲等合開",
+        "list_time": "四 5 6"
+    },
+    {
+        "list_name": "日語文法(一)(C)",
+        "list_credit": "2",
+        "list_lecturer": "黃郁芳",
+        "list_type": "管制必修",
+        "list_field_class": "應日二甲等合開",
+        "list_time": "一 1 2"
+    },
+    {
+        "list_name": "日語聽講實習(一)(A)",
+        "list_credit": "2",
+        "list_lecturer": "陳柏伸",
+        "list_type": "管制必修",
+        "list_field_class": "應日一甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "日語聽講實習(一)(B)",
+        "list_credit": "2",
+        "list_lecturer": "朴廷恩",
+        "list_type": "管制必修",
+        "list_field_class": "應日一甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "日語聽講實習(一)(C)",
+        "list_credit": "2",
+        "list_lecturer": "黃幼欣",
+        "list_type": "管制必修",
+        "list_field_class": "應日一甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "英語聽講實務(一)(A)",
+        "list_credit": "2",
+        "list_lecturer": "王福祥",
+        "list_type": "管制必修",
+        "list_field_class": "高福一甲等合開",
+        "list_time": "五 3 4"
+    },
+    {
+        "list_name": "英語聽講實務(一)(B)",
+        "list_credit": "2",
+        "list_lecturer": "駱茗芬",
+        "list_type": "管制必修",
+        "list_field_class": "高福一甲等合開",
+        "list_time": "五 3 4"
+    },
+    {
+        "list_name": "英語聽講實務(一)(C)",
+        "list_credit": "2",
+        "list_lecturer": "陳詩卉",
+        "list_type": "管制必修",
+        "list_field_class": "高福一甲等合開",
+        "list_time": "五 3 4"
+    },
+    {
+        "list_name": "基礎專業英文(A)",
+        "list_credit": "2",
+        "list_lecturer": "王福祥",
+        "list_type": "管制必修",
+        "list_field_class": "高福二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "基礎專業英文(B1)",
+        "list_credit": "2",
+        "list_lecturer": "駱茗芬",
+        "list_type": "管制必修",
+        "list_field_class": "高福二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "基礎專業英文(B2)",
+        "list_credit": "2",
+        "list_lecturer": "張家華",
+        "list_type": "管制必修",
+        "list_field_class": "高福二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "基礎專業英文(C)",
+        "list_credit": "2",
+        "list_lecturer": "曾瓊瑢",
+        "list_type": "管制必修",
+        "list_field_class": "高福二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "進階日語聽講實習(一)(A)",
+        "list_credit": "2",
+        "list_lecturer": "莊秀文",
+        "list_type": "管制必修",
+        "list_field_class": "應日二甲等合開",
+        "list_time": "二 6 7"
+    },
+    {
+        "list_name": "進階日語聽講實習(一)(B)",
+        "list_credit": "2",
+        "list_lecturer": "楊琇媚",
+        "list_type": "管制必修",
+        "list_field_class": "應日二甲等合開",
+        "list_time": "一 7 8"
+    },
+    {
+        "list_name": "進階日語聽講實習(一)(C)",
+        "list_credit": "2",
+        "list_lecturer": "盧駿葳",
+        "list_type": "管制必修",
+        "list_field_class": "應日二甲等合開",
+        "list_time": "二 6 7"
+    },
+    {
+        "list_name": "進階英文表達(A)",
+        "list_credit": "2",
+        "list_lecturer": "曾瓊瑢",
+        "list_type": "管制必修",
+        "list_field_class": "高福三甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "進階英文表達(B1)",
+        "list_credit": "2",
+        "list_lecturer": "駱茗芬",
+        "list_type": "管制必修",
+        "list_field_class": "高福三甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "進階英文表達(B2)",
+        "list_credit": "2",
+        "list_lecturer": "謝旼妤",
+        "list_type": "管制必修",
+        "list_field_class": "高福三甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "進階英文表達(C)",
+        "list_credit": "2",
+        "list_lecturer": "陳淑微",
+        "list_type": "管制必修",
+        "list_field_class": "高福三甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "資料分析與應用",
+        "list_credit": "2",
+        "list_lecturer": "王志蓮",
+        "list_type": "管制必修",
+        "list_field_class": "應日一甲",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "資料分析與應用",
+        "list_credit": "2",
+        "list_lecturer": "陳信豪",
+        "list_type": "管制必修",
+        "list_field_class": "應日一乙",
+        "list_time": "四 6 7"
+    },
+    {
+        "list_name": "翻譯入門(一)(A)",
+        "list_credit": "2",
+        "list_lecturer": "楊琇媚",
+        "list_type": "管制必修",
+        "list_field_class": "應日三甲等合開",
+        "list_time": "五 2 3"
+    },
+    {
+        "list_name": "日文(一)(A)",
+        "list_credit": "4",
+        "list_lecturer": "楊琇媚",
+        "list_type": "管制必修",
+        "list_field_class": "應日一甲等合開",
+        "list_time": "一 2 3 四 2 3"
+    },
+    {
+        "list_name": "日文(一)(B)",
+        "list_credit": "4",
+        "list_lecturer": "陳亭希",
+        "list_type": "管制必修",
+        "list_field_class": "應日一甲等合開",
+        "list_time": "一 2 3 四 2 3"
+    },
+    {
+        "list_name": "日文(一)(C)",
+        "list_credit": "4",
+        "list_lecturer": "駱昭吟",
+        "list_type": "管制必修",
+        "list_field_class": "應日一甲等合開",
+        "list_time": "一 2 3 四 2 3"
+    },
+    {
+        "list_name": "進階日文(一)(A)",
+        "list_credit": "4",
+        "list_lecturer": "鄧美華",
+        "list_type": "管制必修",
+        "list_field_class": "應日二甲等合開",
+        "list_time": "二 8 9 五 3 4"
+    },
+    {
+        "list_name": "進階日文(一)(B)",
+        "list_credit": "4",
+        "list_lecturer": "陳瑜霞",
+        "list_type": "管制必修",
+        "list_field_class": "應日二甲等合開",
+        "list_time": "二 8 9 五 3 4"
+    },
+    {
+        "list_name": "進階日文(一)(C)",
+        "list_credit": "4",
+        "list_lecturer": "黃郁芳",
+        "list_type": "管制必修",
+        "list_field_class": "應日二甲等合開",
+        "list_time": "二 1 2 四 5 6"
+    }
+]

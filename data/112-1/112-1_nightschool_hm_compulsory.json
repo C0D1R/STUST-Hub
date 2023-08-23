@@ -1,0 +1,90 @@
+[
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "黃旭怡",
+        "list_type": "必修",
+        "list_field_class": "夜餐旅一甲",
+        "list_time": "一 4"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "梁仲正",
+        "list_type": "必修",
+        "list_field_class": "夜餐旅三甲",
+        "list_time": "三 11"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "吳家驊",
+        "list_type": "必修",
+        "list_field_class": "夜餐旅四甲",
+        "list_time": "三 11"
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "夜餐旅一甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "夜餐旅三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "夜餐旅四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "台灣與世界",
+        "list_credit": "3",
+        "list_lecturer": "方子毓",
+        "list_type": "必修",
+        "list_field_class": "夜餐旅二甲",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "全球英語溝通",
+        "list_credit": "3",
+        "list_lecturer": "鄭玉凱",
+        "list_type": "必修",
+        "list_field_class": "夜餐旅一甲",
+        "list_time": "二 5 6 7"
+    },
+    {
+        "list_name": "哲學與人生",
+        "list_credit": "3",
+        "list_lecturer": "顏銘俊",
+        "list_type": "必修",
+        "list_field_class": "夜餐旅一甲",
+        "list_time": "一 5 6 7"
+    },
+    {
+        "list_name": "職場英語溝通",
+        "list_credit": "3",
+        "list_lecturer": "陳淑芬",
+        "list_type": "必修",
+        "list_field_class": "夜餐旅二甲",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "自選必修",
+        "list_field_class": "夜二技高福延修等合開",
+        "list_time": ""
+    }
+]
