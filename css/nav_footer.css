@@ -27,11 +27,11 @@
 }
 
 .nav__link--state:hover {
-    background-color: #2a9fd5;
+    background-color: #32adff;
 }
 
 .nav__link--state:active {
-    background-color: #258dbd;
+    background-color: #0089e5;
 }
 
 
