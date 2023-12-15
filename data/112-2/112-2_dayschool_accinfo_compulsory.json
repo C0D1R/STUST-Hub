@@ -1,0 +1,162 @@
+[
+    {
+        "list_name": "外語能力檢定",
+        "list_credit": "0",
+        "list_lecturer": "李政源",
+        "list_type": "必修",
+        "list_field_class": "會資四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "社團參與",
+        "list_credit": "0",
+        "list_lecturer": "王江舜",
+        "list_type": "必修",
+        "list_field_class": "會資四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "專業證照",
+        "list_credit": "0",
+        "list_lecturer": "洪崇文",
+        "list_type": "必修",
+        "list_field_class": "會資四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "吳聰皓",
+        "list_type": "必修",
+        "list_field_class": "會資三甲",
+        "list_time": "一 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "許淑鈴",
+        "list_type": "必修",
+        "list_field_class": "會資四甲",
+        "list_time": "二 8"
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "會資三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "會資四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "碩研財金三甲等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "實務專題(二)",
+        "list_credit": "2",
+        "list_lecturer": "何威德",
+        "list_type": "必修",
+        "list_field_class": "會資三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "管理學",
+        "list_credit": "3",
+        "list_lecturer": "魏慧珊",
+        "list_type": "必修",
+        "list_field_class": "會資三甲",
+        "list_time": "一 6 7 8"
+    },
+    {
+        "list_name": "審計學(二)",
+        "list_credit": "3",
+        "list_lecturer": "何威德",
+        "list_type": "必修",
+        "list_field_class": "會資三甲",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "外語能力檢定",
+        "list_credit": "0",
+        "list_lecturer": "李政源",
+        "list_type": "自選必修",
+        "list_field_class": "自控延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "專業證照",
+        "list_credit": "0",
+        "list_lecturer": "洪崇文",
+        "list_type": "自選必修",
+        "list_field_class": "會資延修",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "自選必修",
+        "list_field_class": "二技企管延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "實務專題(一)",
+        "list_credit": "2",
+        "list_lecturer": "何威德",
+        "list_type": "自選必修",
+        "list_field_class": "會資延修",
+        "list_time": ""
+    },
+    {
+        "list_name": "實務專題(二)",
+        "list_credit": "2",
+        "list_lecturer": "何威德",
+        "list_type": "自選必修",
+        "list_field_class": "會資延修",
+        "list_time": ""
+    },
+    {
+        "list_name": "英文能力課程",
+        "list_credit": "3",
+        "list_lecturer": "黃麗麗",
+        "list_type": "自選必修",
+        "list_field_class": "自控延修等合開",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "進階英文表達(A)",
+        "list_credit": "2",
+        "list_lecturer": "黃馨儀",
+        "list_type": "管制必修",
+        "list_field_class": "財金三甲等合開",
+        "list_time": "三 1 2"
+    },
+    {
+        "list_name": "進階英文表達(B)",
+        "list_credit": "2",
+        "list_lecturer": "李政源",
+        "list_type": "管制必修",
+        "list_field_class": "財金三甲等合開",
+        "list_time": "三 1 2"
+    },
+    {
+        "list_name": "進階英文表達(C)",
+        "list_credit": "2",
+        "list_lecturer": "朱珊慧",
+        "list_type": "管制必修",
+        "list_field_class": "財金三甲等合開",
+        "list_time": "三 1 2"
+    }
+]
