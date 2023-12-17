@@ -10,12 +10,11 @@
             request.send(null);
         });
     }
-    const AddList = (data, filter) => {
+    const AddList = (data, filter, filter2) => {
         let html = '';
         for(let i = data.length-1, temp = null; i >= 0 && (temp = data[i]); i--) {
-            if(!filter.test(temp.list_field_class)) {
-                continue;
-            }
+            if (!filter.test(temp.list_field_class)) continue;
+            if (!filter2.test(temp.list_time)) continue;
             html += `
                     <div class="card">
                         <div class="card__name">${temp.list_name}</div>
@@ -38,7 +37,7 @@
     self.addEventListener('message', event => {
         getJson(event.data[0])
             .then((data) => {
-                self.postMessage(AddList(data, new RegExp(event.data[1])));
+                self.postMessage(AddList(data, new RegExp(event.data[1]), new RegExp(event.data[2])));
             }, (error) => {
                 console.error(error);
             })

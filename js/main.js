@@ -56,23 +56,49 @@
 
     const main = () => {
         let promises = [];
-        const semester = getRadioBoxValue($$('[name="semester"]'));
-        const schoolsystem = getRadioBoxValue($$('[name="schoolsystem"]'));
-        const department =  getRadioBoxValue($$('[name="department"]'));
-        const coursetype = getCheckBoxValue($$('[name="coursetype"]'));
-        const grade = `${getCheckBoxValue($$('[name="grade"]'))
+
+        const options = {
+            semester: $$('[name="semester"]'),
+            schoolSystem: $$('[name="schoolsystem"]'),
+            department: $$('[name="department"]'),
+            courseType: $$('[name="coursetype"]'),
+            grade: $$('[name="grade"]'),
+            time: $$('[name="time"]'),
+        };
+
+        const weekMaping = {
+            'M': '一',
+            'T': '二',
+            'W': '三',
+            'R': '四',
+            'F': '五',
+            'S': '六',
+            'U': '日',
+        };
+
+        const semester = getRadioBoxValue(options.semester);
+        const schoolsystem = getRadioBoxValue(options.schoolSystem);
+        const department =  getRadioBoxValue(options.department);
+        const coursetype = getCheckBoxValue(options.courseType);
+        const grade = `${getCheckBoxValue(options.grade)
                        .join().replace(/,/g, '(?!技)|')}(?!技)|領域`;
+        const time = getCheckBoxValue(options.time)
+                     .map((option) => option.replace(/([A-Z])(\d)/,
+                        (match, p1, p2) =>
+                            `${weekMaping[p1]}[\\d\\s]*${p2}`))
+                     .join().replace(/,/g, '|');
+        console.log(time);
 
         for(let i = coursetype.length-1, url = ''; i >= 0; i--) {
             if(coursetype[i] != 'general_elective') {
                 url = `../data/${semester}/${semester}_${schoolsystem}_${department}_${coursetype[i]}.json`;
-                promises.push(createWorker([url, grade]));
+                promises.push(createWorker([url, grade, time]));
             }
             else {
                 const gencourse = getGeneralField(department);
                 for(let j = gencourse.length-1; j >= 0; j--) {
                     url = `../data/${semester}/${semester}_${gencourse[j]}.json`;
-                    promises.push(createWorker([url, grade]));
+                    promises.push(createWorker([url, grade, time]));
                 }
             }
         }
