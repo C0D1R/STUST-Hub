@@ -66,11 +66,15 @@ body {
 .form__container__department {
     display: flex;
 }
+.form__time__btn,
 .form__container__btn {
     line-height: 20px;
     border: 1px solid #2163e8;
     border-radius: 16px;
     color: #2163e8;
+}
+.form__time__btn {
+    border-radius: 4px;
 }
 .form__submit {
     line-height: 20px;
@@ -80,6 +84,7 @@ body {
 @media screen and (min-width: 992px), (any-hover: hover) {
     .sr-only:hover + .form__container__menu-btn,
     .sr-only:hover + .form__container__btn,
+    .sr-only:hover + .form__time__btn,
     .sr-only:hover + .form__submit {
         cursor: pointer;
     }
@@ -91,12 +96,14 @@ body {
 .sr-only:focus-visible + .form__container__menu-btn,
 .sr-only:focus-visible + .form__btn-filter,
 .sr-only:focus-visible + .form__container__btn,
+.sr-only:focus-visible + .form__time__btn,
 .sr-only:focus-visible + .form__submit {
     outline: 3px solid #0085f2;
     outline-offset: 2px;
 }
 .sr-only:checked + .form__container__menu-btn,
-.sr-only:checked + .form__container__btn {
+.sr-only:checked + .form__container__btn,
+.sr-only:checked + .form__time__btn {
     background-color: #2163e8;
     color: #ffffff;
 }
@@ -127,7 +134,7 @@ body {
 }
 #btn-filter:checked ~ .form__caption,
 #btn-filter:checked ~ .form__container {
-    max-height: 150px;
+    max-height: 1000px;
     opacity: 1;
 }
 
@@ -180,6 +187,10 @@ body {
     .form__container__btn {
         padding: 6px 8px;
         margin: 6px 5px;
+    }
+    .form__time__btn {
+        padding: 5px 10px;
+        margin: 4px 3px;
     }
     .form__submit {
         width: 96%;
@@ -271,6 +282,10 @@ body {
         .card__content {
             order: 1;
         }
+        .form__container--time {
+            flex-direction: column;
+            padding: 3px 20px;
+        }
     }
 }
 
@@ -295,11 +310,22 @@ body {
     .form__caption--large {
         padding: 76.4px 4%;
     }
+    .form__caption--time {
+        padding: 131px 4%;
+    }
     .form__container {
         width: 84%;
     }
+    .form__container--time {
+        flex-direction: column;
+        padding: 3px 0;
+    }
     .form__container--direction {
         flex-direction: column;
+    }
+    .form__content--time {
+        display: flex;
+        align-items: center;
     }
     #btn-engineering,
     #btn-business,
@@ -308,9 +334,16 @@ body {
     .form__container__menu-btn {
         display: none;
     }
+    .form__day {
+        width: 40px;
+    }
     .form__container__btn {
         padding: 5px 8px;
         margin: 6px 7px;
+    }
+    .form__time__btn {
+        padding: 5px 12px;
+        margin: 4px 2px;
     }
     .form__submit {
         padding: 6px 24px;
