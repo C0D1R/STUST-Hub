@@ -1,0 +1,274 @@
+[
+    {
+        "list_name": "Android程式設計",
+        "list_credit": "3",
+        "list_lecturer": "許子衡",
+        "list_type": "選修",
+        "list_field_class": "資工三甲等合開",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "Android程式設計",
+        "list_credit": "3",
+        "list_lecturer": "李宗儒",
+        "list_type": "選修",
+        "list_field_class": "五專資工四甲",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "人工智慧概論",
+        "list_credit": "3",
+        "list_lecturer": "張財榮",
+        "list_type": "選修",
+        "list_field_class": "資工三甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "人工智慧與雲端運算",
+        "list_credit": "3",
+        "list_lecturer": "許子衡",
+        "list_type": "選修",
+        "list_field_class": "資工四甲等合開",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "人工智慧與應用",
+        "list_credit": "3",
+        "list_lecturer": "李宗儒",
+        "list_type": "選修",
+        "list_field_class": "博研電子一甲等合開",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "大數據分析",
+        "list_credit": "3",
+        "list_lecturer": "鄭錦楸",
+        "list_type": "選修",
+        "list_field_class": "資工四甲等合開",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "行動通訊網路概論與實務",
+        "list_credit": "3",
+        "list_lecturer": "杜俊育",
+        "list_type": "選修",
+        "list_field_class": "資工三甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "行動通訊網路概論與實務",
+        "list_credit": "3",
+        "list_lecturer": "馮治平",
+        "list_type": "選修",
+        "list_field_class": "五專資工五甲",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "伺服器網頁語言",
+        "list_credit": "3",
+        "list_lecturer": "鄭錦楸",
+        "list_type": "選修",
+        "list_field_class": "資工四甲等合開",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "計算機視覺概論",
+        "list_credit": "3",
+        "list_lecturer": "席家年",
+        "list_type": "選修",
+        "list_field_class": "資工三甲等合開",
+        "list_time": "二 5 6 7"
+    },
+    {
+        "list_name": "套裝軟體應用",
+        "list_credit": "3",
+        "list_lecturer": "李宗儒",
+        "list_type": "選修",
+        "list_field_class": "資工二甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "高階硬體描述語言",
+        "list_credit": "3",
+        "list_lecturer": "楊榮林",
+        "list_type": "選修",
+        "list_field_class": "資工四甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "動態程式語言",
+        "list_credit": "3",
+        "list_lecturer": "李宗儒",
+        "list_type": "選修",
+        "list_field_class": "資工三甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "智慧製造實務",
+        "list_credit": "3",
+        "list_lecturer": "許智淵",
+        "list_type": "選修",
+        "list_field_class": "五專資工五甲",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "無線網路安全性設計實務",
+        "list_credit": "3",
+        "list_lecturer": "吳東興",
+        "list_type": "選修",
+        "list_field_class": "碩研資工一甲等合開",
+        "list_time": "三 5 6 7"
+    },
+    {
+        "list_name": "視窗程式設計",
+        "list_credit": "3",
+        "list_lecturer": "陳定宏",
+        "list_type": "選修",
+        "list_field_class": "資工二甲",
+        "list_time": "一 1 2 3"
+    },
+    {
+        "list_name": "視窗程式設計",
+        "list_credit": "3",
+        "list_lecturer": "陳定宏",
+        "list_type": "選修",
+        "list_field_class": "資工二乙",
+        "list_time": "二 5 6 7"
+    },
+    {
+        "list_name": "視窗程式設計",
+        "list_credit": "3",
+        "list_lecturer": "陳定宏",
+        "list_type": "選修",
+        "list_field_class": "資工二丙",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "視覺分析與控制實務",
+        "list_credit": "3",
+        "list_lecturer": "郭俊麟",
+        "list_type": "選修",
+        "list_field_class": "資工四甲等合開",
+        "list_time": "一 5 6 7"
+    },
+    {
+        "list_name": "微型平台開發實務",
+        "list_credit": "3",
+        "list_lecturer": "楊榮林",
+        "list_type": "選修",
+        "list_field_class": "資工二甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "資料庫系統",
+        "list_credit": "3",
+        "list_lecturer": "黃琨義",
+        "list_type": "選修",
+        "list_field_class": "資工三甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "資訊安全",
+        "list_credit": "3",
+        "list_lecturer": "吳東興",
+        "list_type": "選修",
+        "list_field_class": "五專資工四甲",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "數位影像處理",
+        "list_credit": "3",
+        "list_lecturer": "許智淵",
+        "list_type": "選修",
+        "list_field_class": "碩研資工一甲等合開",
+        "list_time": "二 6 7 8"
+    },
+    {
+        "list_name": "數位影像處理與應用",
+        "list_credit": "3",
+        "list_lecturer": "陳彥廷",
+        "list_type": "選修",
+        "list_field_class": "博電機國際一甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "機器學習",
+        "list_credit": "3",
+        "list_lecturer": "鄭淑真",
+        "list_type": "選修",
+        "list_field_class": "碩研資工一甲等合開",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "醫療資訊",
+        "list_credit": "3",
+        "list_lecturer": "洪國鈞",
+        "list_type": "選修",
+        "list_field_class": "碩研資工一甲等合開",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "類神經網路與深度學習",
+        "list_credit": "3",
+        "list_lecturer": "畢杰",
+        "list_type": "選修",
+        "list_field_class": "碩電機國際一甲等合開",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "基礎數學演練(一)",
+        "list_credit": "1",
+        "list_lecturer": "張勝麟",
+        "list_type": "系定選修",
+        "list_field_class": "五專資工一甲",
+        "list_time": "二 4"
+    },
+    {
+        "list_name": "基礎數學演練(三)",
+        "list_credit": "1",
+        "list_lecturer": "郭俊麟",
+        "list_type": "系定選修",
+        "list_field_class": "五專資工二甲",
+        "list_time": "四 4"
+    },
+    {
+        "list_name": "多媒體軟體應用",
+        "list_credit": "2",
+        "list_lecturer": "馮治平",
+        "list_type": "系定選修",
+        "list_field_class": "五專資工二甲",
+        "list_time": "三 3 4"
+    },
+    {
+        "list_name": "圖像化程式設計",
+        "list_credit": "2",
+        "list_lecturer": "鄧瑞哲",
+        "list_type": "系定選修",
+        "list_field_class": "五專資工一甲",
+        "list_time": "一 2 3"
+    },
+    {
+        "list_name": "圖像化程式設計實習",
+        "list_credit": "2",
+        "list_lecturer": "鄧瑞哲",
+        "list_type": "系定選修",
+        "list_field_class": "五專資工一甲",
+        "list_time": "一 4 三 5 6 7"
+    },
+    {
+        "list_name": "網頁設計檢定",
+        "list_credit": "2",
+        "list_lecturer": "林子嵐",
+        "list_type": "系定選修",
+        "list_field_class": "五專資工二甲",
+        "list_time": "三 5 6"
+    },
+    {
+        "list_name": "動態程式語言",
+        "list_credit": "3",
+        "list_lecturer": "許子衡",
+        "list_type": "系定選修",
+        "list_field_class": "五專資工三甲",
+        "list_time": "三 5 6 7"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "list_name": "職場自主學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "鄭祿平",
+        "list_type": "選修",
+        "list_field_class": "夜資傳一甲等合開",
+        "list_time": "一 11"
+    },
+    {
+        "list_name": "職場實務探索(一)",
+        "list_credit": "1",
+        "list_lecturer": "張明裕",
+        "list_type": "選修",
+        "list_field_class": "夜資傳三甲等合開",
+        "list_time": "二 11"
+    },
+    {
+        "list_name": "3D角色動畫",
+        "list_credit": "3",
+        "list_lecturer": "賴裕文",
+        "list_type": "選修",
+        "list_field_class": "夜多樂三甲",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "基礎程式設計",
+        "list_credit": "3",
+        "list_lecturer": "楊政達",
+        "list_type": "選修",
+        "list_field_class": "夜多樂二甲",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "視覺特效(一)",
+        "list_credit": "3",
+        "list_lecturer": "邱正寧",
+        "list_type": "選修",
+        "list_field_class": "夜多樂四甲",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "遊戲程式設計(一)",
+        "list_credit": "3",
+        "list_lecturer": "黃樂臣",
+        "list_type": "選修",
+        "list_field_class": "夜多樂三甲",
+        "list_time": "三 12 13 14"
+    },
+    {
+        "list_name": "影片製作",
+        "list_credit": "3",
+        "list_lecturer": "吳泯宗",
+        "list_type": "選修",
+        "list_field_class": "夜多樂三甲",
+        "list_time": "五 12 13 14"
+    }
+]

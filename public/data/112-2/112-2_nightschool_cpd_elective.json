@@ -1,0 +1,162 @@
+[
+    {
+        "list_name": "設計實習",
+        "list_credit": "2",
+        "list_lecturer": "張家誠",
+        "list_type": "選修",
+        "list_field_class": "產設四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "設計實習",
+        "list_credit": "2",
+        "list_lecturer": "張家誠",
+        "list_type": "選修",
+        "list_field_class": "產設四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "綜合研究工作室(四)",
+        "list_credit": "2",
+        "list_lecturer": "王文雄",
+        "list_type": "選修",
+        "list_field_class": "碩研產設二甲",
+        "list_time": "二 8 9"
+    },
+    {
+        "list_name": "互動式網頁設計",
+        "list_credit": "3",
+        "list_lecturer": "葉儷棻",
+        "list_type": "選修",
+        "list_field_class": "產設三甲等合開",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "文化創意設計",
+        "list_credit": "3",
+        "list_lecturer": "王文雄",
+        "list_type": "選修",
+        "list_field_class": "產設三甲等合開",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "研究分析的理念與實務",
+        "list_credit": "3",
+        "list_lecturer": "張育銘",
+        "list_type": "選修",
+        "list_field_class": "碩研產設一甲等合開",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "消費性產品設計研究",
+        "list_credit": "3",
+        "list_lecturer": "張家誠",
+        "list_type": "選修",
+        "list_field_class": "碩研產設一甲等合開",
+        "list_time": "五 5 6 7"
+    },
+    {
+        "list_name": "產品語意",
+        "list_credit": "3",
+        "list_lecturer": "葉儷棻",
+        "list_type": "選修",
+        "list_field_class": "產設二甲等合開",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "符號學研究",
+        "list_credit": "3",
+        "list_lecturer": "黃國禮",
+        "list_type": "選修",
+        "list_field_class": "碩研產設一甲等合開",
+        "list_time": "二 5 6 7"
+    },
+    {
+        "list_name": "設計策略與管理研究",
+        "list_credit": "3",
+        "list_lecturer": "陳重任",
+        "list_type": "選修",
+        "list_field_class": "碩研產設一甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "設計溝通實務",
+        "list_credit": "3",
+        "list_lecturer": "陳亞麟",
+        "list_type": "選修",
+        "list_field_class": "產設三甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "循環設計",
+        "list_credit": "3",
+        "list_lecturer": "劉大琦",
+        "list_type": "選修",
+        "list_field_class": "產設三甲等合開",
+        "list_time": "二 5 6 7"
+    },
+    {
+        "list_name": "策展與行銷實務",
+        "list_credit": "3",
+        "list_lecturer": "馮嘉慧",
+        "list_type": "選修",
+        "list_field_class": "產設四甲等合開",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "群眾募資與設計策略",
+        "list_credit": "3",
+        "list_lecturer": "林雅惠",
+        "list_type": "選修",
+        "list_field_class": "產設四甲等合開",
+        "list_time": "四 5 6 7"
+    },
+    {
+        "list_name": "圖形化互動介面設計",
+        "list_credit": "3",
+        "list_lecturer": "馮嘉慧",
+        "list_type": "選修",
+        "list_field_class": "產設二甲等合開",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "數位表現技法",
+        "list_credit": "3",
+        "list_lecturer": "陳亞麟",
+        "list_type": "選修",
+        "list_field_class": "產設一甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "數位影像創作研究",
+        "list_credit": "3",
+        "list_lecturer": "高軒然",
+        "list_type": "選修",
+        "list_field_class": "碩研產設一甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "數位整合設計",
+        "list_credit": "3",
+        "list_lecturer": "馮嘉慧",
+        "list_type": "選修",
+        "list_field_class": "產設三甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "設計產業人培實習(二)",
+        "list_credit": "3",
+        "list_lecturer": "張家誠",
+        "list_type": "管制選修",
+        "list_field_class": "產設三甲等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "設計產業人培實習(四)",
+        "list_credit": "3",
+        "list_lecturer": "張家誠",
+        "list_type": "管制選修",
+        "list_field_class": "產設四甲等合開",
+        "list_time": ""
+    }
+]

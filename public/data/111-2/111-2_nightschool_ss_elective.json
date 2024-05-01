@@ -1,0 +1,74 @@
+[
+    {
+        "list_name": "職場實務探索(二)",
+        "list_credit": "1",
+        "list_lecturer": "胡小玫",
+        "list_type": "選修",
+        "list_field_class": "夜高福三甲",
+        "list_time": "一 11"
+    },
+    {
+        "list_name": "職場實務探索(四)",
+        "list_credit": "1",
+        "list_lecturer": "王福祥",
+        "list_type": "選修",
+        "list_field_class": "夜高福四甲",
+        "list_time": "一 11"
+    },
+    {
+        "list_name": "中醫膳食與養生概論",
+        "list_credit": "3",
+        "list_lecturer": "任東輝",
+        "list_type": "選修",
+        "list_field_class": "夜高福四甲",
+        "list_time": "三 12 13 14"
+    },
+    {
+        "list_name": "策略管理與領導",
+        "list_credit": "3",
+        "list_lecturer": "馬淑清",
+        "list_type": "選修",
+        "list_field_class": "夜高福四甲",
+        "list_time": "四 12 13 14"
+    },
+    {
+        "list_name": "自然照護學暨實務",
+        "list_credit": "3",
+        "list_lecturer": "劉明宜",
+        "list_type": "選修",
+        "list_field_class": "夜二技高福三甲等合開",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "輔具科技與復健照護",
+        "list_credit": "3",
+        "list_lecturer": "許宏志",
+        "list_type": "選修",
+        "list_field_class": "夜高福三甲",
+        "list_time": "四 12 13 14"
+    },
+    {
+        "list_name": "長照經營管理與品質",
+        "list_credit": "3",
+        "list_lecturer": "蔡岡廷",
+        "list_type": "選修",
+        "list_field_class": "夜高福四甲",
+        "list_time": "一 12 13 14"
+    },
+    {
+        "list_name": "高齡健康管理與促進",
+        "list_credit": "3",
+        "list_lecturer": "趙品淳",
+        "list_type": "選修",
+        "list_field_class": "夜高福四甲",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "高齡產業行銷與管理",
+        "list_credit": "3",
+        "list_lecturer": "劉明宜",
+        "list_type": "選修",
+        "list_field_class": "夜高福四甲",
+        "list_time": "二 12 13 14"
+    }
+]

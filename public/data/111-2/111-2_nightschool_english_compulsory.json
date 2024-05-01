@@ -1,0 +1,170 @@
+[
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "鄧靖華",
+        "list_type": "必修",
+        "list_field_class": "夜英語一甲",
+        "list_time": "一 11"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "張韶華",
+        "list_type": "必修",
+        "list_field_class": "夜英語二甲",
+        "list_time": "一 11"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "周俊男",
+        "list_type": "必修",
+        "list_field_class": "夜英語三甲",
+        "list_time": "二 11"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "劉恬伶",
+        "list_type": "必修",
+        "list_field_class": "夜英語四甲",
+        "list_time": "五 11"
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "夜英語一甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "夜英語二甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "夜英語三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "夜英語四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "夜二技高福延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "中文閱讀與表達",
+        "list_credit": "3",
+        "list_lecturer": "高碧玉",
+        "list_type": "必修",
+        "list_field_class": "夜英語一甲",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "商務英文閱讀",
+        "list_credit": "3",
+        "list_lecturer": "張韶華",
+        "list_type": "必修",
+        "list_field_class": "夜英語一甲",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "科技與生活",
+        "list_credit": "3",
+        "list_lecturer": "康智傑",
+        "list_type": "必修",
+        "list_field_class": "夜英語一甲",
+        "list_time": "四 12 13 14"
+    },
+    {
+        "list_name": "第二外語：法語(二)",
+        "list_credit": "3",
+        "list_lecturer": "劉恬伶",
+        "list_type": "必修",
+        "list_field_class": "夜英語二甲",
+        "list_time": "五 12 13 14"
+    },
+    {
+        "list_name": "職場英語溝通",
+        "list_credit": "3",
+        "list_lecturer": "鄧靖華",
+        "list_type": "必修",
+        "list_field_class": "夜英語二甲",
+        "list_time": "三 12 13 14"
+    },
+    {
+        "list_name": "英語口語訓練(二)",
+        "list_credit": "3",
+        "list_lecturer": "朱珊慧",
+        "list_type": "必修",
+        "list_field_class": "夜英語二甲",
+        "list_time": "四 12 13 14"
+    },
+    {
+        "list_name": "英語會話",
+        "list_credit": "3",
+        "list_lecturer": "鄧靖華",
+        "list_type": "必修",
+        "list_field_class": "夜英語一甲",
+        "list_time": "一 12 13 14"
+    },
+    {
+        "list_name": "英語演說與簡報",
+        "list_credit": "3",
+        "list_lecturer": "安迪",
+        "list_type": "必修",
+        "list_field_class": "夜英語三甲",
+        "list_time": "四 12 13 14"
+    },
+    {
+        "list_name": "體育生活：排球(A)",
+        "list_credit": "3",
+        "list_lecturer": "林政達",
+        "list_type": "自選必修",
+        "list_field_class": "夜企管二甲等合開",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "體育生活：桌球(A)",
+        "list_credit": "3",
+        "list_lecturer": "陳進祥",
+        "list_type": "自選必修",
+        "list_field_class": "夜企管二甲等合開",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "體育生活：籃球(A)",
+        "list_credit": "3",
+        "list_lecturer": "楊佳元",
+        "list_type": "自選必修",
+        "list_field_class": "夜企管二甲等合開",
+        "list_time": "二 12 13 14"
+    },
+    {
+        "list_name": "體育生活：羽球(A)",
+        "list_credit": "3",
+        "list_lecturer": "方怡堯",
+        "list_type": "自選必修",
+        "list_field_class": "夜企管二甲等合開",
+        "list_time": "二 12 13 14"
+    }
+]

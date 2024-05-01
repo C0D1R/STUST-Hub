@@ -1,0 +1,42 @@
+[
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "張治遙",
+        "list_type": "必修",
+        "list_field_class": "夜二技幼保三甲",
+        "list_time": "五 14"
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "夜二技幼保三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "幼兒教保概論",
+        "list_credit": "2",
+        "list_lecturer": "蔡秋桃",
+        "list_type": "必修",
+        "list_field_class": "夜二技幼保三甲",
+        "list_time": "三 13 14"
+    },
+    {
+        "list_name": "幼兒健康與安全",
+        "list_credit": "3",
+        "list_lecturer": "卓美芳",
+        "list_type": "必修",
+        "list_field_class": "夜二技幼保三甲",
+        "list_time": "五 11 12 13"
+    },
+    {
+        "list_name": "幼兒發展",
+        "list_credit": "3",
+        "list_lecturer": "陳志盛",
+        "list_type": "必修",
+        "list_field_class": "夜二技幼保三甲",
+        "list_time": "六 3 4 5"
+    }
+]
