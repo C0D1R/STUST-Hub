@@ -1,0 +1,103 @@
+{
+    "code": "1CD04802",
+    "name": {
+        "zh": "畢業專題",
+        "en": "Graduation project"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技產設四乙"
+    ],
+    "instructors": [
+        "馮嘉慧"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "畢業專題係以結合產業與學術之設計主題研究，也是檢視學生在四年的求學階段中的一項重要的檢視課程。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "希望學生能完成結合產業與學術之設計研究主題，並在新一代設計展中能為校爭光。",
+        "en": "Students are expected to complete the graduate design project which includes unsing the knowledge of industry and academics, and present the ability of capable of performing a design projectin the new generation design exhibition."
+    },
+    "weeklySchedule": "第1週：提報主題與研究方向<br>第2週：設計研究分析<br>第3週：第一次提報<br>第4週：設計初稿<br>第5週：資料收集與修正<br>第6週：設計草圖修正<br>第7週：資料分析與設計修正<br>第8週：設計精圖<br>第9週：期中考<br>第10週：設計精圖列印與評估<br>第11週：模型製作<br>第12週：模型測試與評估<br>第13週：結果整理與討論<br>第14週：撰寫專題報告初稿<br>第15週：專題題報告修訂<br>第16週：專題展示<br>第17週：專題題報告<br>第18週：期末考",
+    "exams": {
+        "midterm": "大型提報",
+        "final": "專題報告繳交",
+        "other": "提報"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "設計實務專題製作",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "設計專案企劃書撰寫及主題定訂",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "專題發表",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "設計展示與競賽",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

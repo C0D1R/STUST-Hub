@@ -1,0 +1,115 @@
+{
+    "code": "B0N16W01",
+    "name": {
+        "zh": "創意遊程設計",
+        "en": "Creative Tour Planning"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技休閒二甲"
+    ],
+    "instructors": [
+        "潘盈仁"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "T0312"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "T0312"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "T0312"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.旅行行程概念<br>2.消費行為<br>3.案例分析<br>4.旅遊行程設計與實務分析",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、 旅遊行程概念<br>二、 旅遊行程的類型<br>三、 旅遊行程的設計內容<br>四、 旅遊行程設計的理論基礎<br>五、 旅遊消費者行為<br>六、 旅遊行程設計的程序分析<br>七、 旅遊行程設計實務<br>八、 旅遊規劃的風險轉移<br>期中考<br>九、 歐美旅行社行程開發實務<br>十、 旅遊行程設計未來趨勢<br>十一、案例研討<br>十二、成本分析、利潤與計價<br><br>期末考",
+        "en": "一、 旅遊行程概念<br>二、 旅遊行程的類型<br>三、 旅遊行程的設計內容<br>四、 旅遊行程設計的理論基礎<br>五、 旅遊消費者行為<br>六、 旅遊行程設計的程序分析<br>七、 旅遊行程設計實務<br>八、 旅遊規劃的風險轉移<br>期中考<br>九、 歐美旅行社行程開發實務<br>十、 旅遊行程設計未來趨勢<br>十一、案例研討<br>十二、成本分析、利潤與計價<br><br>期末考"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "旅行行程概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "消費行為.案例分析.旅遊行程設計與實務分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "行程設計實務與理論.品質分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "旅遊行程設計未來趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

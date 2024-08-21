@@ -1,0 +1,125 @@
+{
+    "code": "B0N16001",
+    "name": {
+        "zh": "旅遊市場分析",
+        "en": "Tourism Market Analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技休閒四甲"
+    ],
+    "instructors": [
+        "盧筱筠"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "T0506"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "T0506"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "T0506"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程在使修課同學深入淺出的瞭解，旅遊規劃與導覽在旅遊行為中的重要性，分析並學習如何善用環境中的遊憩資源，以進行旅遊之規劃，並整合旅遊環境的自然與人文資源經由解說導覽之規劃，使遊客得以更為深入的學習，增進旅遊的深度。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "前提: 旅行業發展趨勢/旅遊市場分析/旅遊目的或動機的分類/觀光市場發展概況<br>1. 旅遊產品概論<br>2. 旅遊產品市場分析<br>3. 旅遊產品與旅遊動機<br>4. 旅遊產品、海外旅遊代理商與估價<br>5. 遊程元件介紹（一）<br>6. 遊程元件介紹（二）<br>7. 旅遊產品開發策略<br>8. 遊程規劃概論<br>9. 旅遊體驗階段與旅遊風險容忍度<br>10. 出境遊程規劃<br>11. 入境遊程與國民旅遊遊程規劃<br>12. 主題樂園<br>13. 遊輪旅遊<br>14. 特殊遊程規劃",
+        "en": "<br>Prerequisites: Travel Industry Trends / Tourism Market Analysis / Classification of Tourism Purposes or Motivations / Overview of Tourism Market Development<br><br>1. Introduction to tourism products<br>2. Analysis of tourism product market<br>3. Tourism products and travel motivation<br>4. Tourism products, overseas travel agents and valuation<br>5. Introduction to the run component (1)<br>6. Introduction to the run component (2)<br>7. Tourism product development strategy<br>8. Introduction to Run Planning<br>9. Tourism experience stage and tourism risk tolerance<br>10. Outbound travel planning<br>11. Inbound Tour and National Tourism Tour Planning<br>12. Theme park<br>13. Cruise tourism<br>14. Special tour planning"
+    },
+    "weeklySchedule": "Week 1: 課程介紹 / 分組進行<br>Week 2: 中秋節放假<br>Week 3: 入境觀光簡介<br>Week 4: 出境觀光簡介<br>Week 5: 國民旅遊簡介<br>Week 6: 世界觀光簡介<br>Week 7: 主題旅遊: 主題遊樂園<br>Week 8: 主題旅遊: 節慶觀光<br>Week 9: 期中考 (分組書面繳交)<br>Week 10:主題旅遊: 郵輪觀光<br>Week 11:主題旅遊: 文化觀光<br>Week 12:主題旅遊: 農業觀光<br>Week 13:主題旅遊: 醫療觀光<br>Week 14:主題旅遊: 生態觀光<br>Week 15:主題旅遊: 會議和獎勵旅遊<br>Week 16:團體期末口頭報告<br>Week 17:團體期末口頭報告 <br>Week 18:團體期末書面報告繳交",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "書面報告",
+        "other": "第16, 17周 團體口頭報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習如何分析旅遊需求，因應不同類型的需求者，如何進行旅遊行程之規劃。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "結合地理系野外實察之傳統與專長，與觀光資源之規劃及實務結合，培養出地理人於觀光旅遊市場之競爭優勢",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "由地理角度切入觀光資源之分析，進行旅遊行程之規劃。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "讓同學得以瞭解旅遊市場之整體發展狀況，培育未來投入觀光產業之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "休閒產業分析: 特色觀光產品之論述",
+        "author": "許文聖",
+        "publisher": "華立圖書",
+        "year": "2020",
+        "ISBN": "978-957-784-891-8",
+        "edition": "五版"
+    },
+    "referenceBooks": "陳宗玄(2016)觀光產業概論. 華立圖書. ISBN:978-957-784-635-8",
+    "teachingSoftware": "數位講桌, PPT",
+    "rules": "1.每堂必點名，請假請按照學校規定辦理手續。<br>2.其他相關課程規定隨課程進行保留調整空間，並於課堂中口頭宣達。<br>3.上課請尊重班上同學上課權益,請勿吵鬧、使用手機, 也請不要在課堂上私下交談。<br>4.開學第一週請務必到課了解課堂進行方式、課程要求、評分方式或提出對課程相關(調整)建議。<br>5.請同學尊重智慧財產權，使用正版教科書，不得非法影印，以免觸犯智慧財產權相關法令。"
+}

@@ -1,0 +1,122 @@
+{
+    "code": "I0D10001",
+    "name": {
+        "zh": "藝術治療",
+        "en": "Art Therapy"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技幼保三甲"
+    ],
+    "instructors": [
+        "張治遙"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "W0501"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "W0501"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.學習透過藝術（繪畫）來做為自我瞭解與自我療癒的工具。<br>2.學習藉由藝術（繪畫）做為瞭解兒童的工具。<br>3.學習運用藝術（繪畫）做為與兒童有效溝通的媒介。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "週別\t日期\t進度/內容<br>1\t7/01\t藝術治療的意義與特質<br>2\t7/08\t從心理動力角度看兒童內心世界<br>3\t7/15\t兒童藝術發展階段<br>4\t7/22\t建立關係的技巧<br>5\t7/29\t家庭動力繪畫的探討（一）<br>6\t8/05\t家庭動力繪畫的探討（二）<br>7\t8/12\t不同繪畫主題之運用<br>8\t8/19\t作品討論與解析（一）<br>9\t8/26\t作品討論與解析（二）<br>",
+        "en": "1.The meaning and characteristics of art therapy.<br>2.Looking at children's inner world from the perspective of psychological dynamic.<br>3.Children's art development stage.<br>4.Technique for building relationships.<br>5.Discussion on family dynamic painting.<br>6.Use of different painting themes.<br>7.Discussion and analysis of paintings."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習透過藝術繪畫做為自我瞭解及自我療癒的工具",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習藉由藝術繪畫做為瞭解他人的工具",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習藉由藝術繪畫做為關懷及輔導他人的工具",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習運用藝術繪畫做為有效溝通的媒介",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解兒童的內心世界及心理動力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

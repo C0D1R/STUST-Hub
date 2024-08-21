@@ -1,0 +1,117 @@
+{
+    "code": "N0M02L01",
+    "name": {
+        "zh": "永續報告實務",
+        "en": "Sustainability Reporting Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管四甲",
+        "四技企管四乙",
+        "碩全球經管一乙"
+    ],
+    "instructors": [
+        "林憶樺"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S414"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S414"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "S414"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著全世界對環境、社會、治理議題的重視，企業也透過永續報告揭露公司在這方面的成果，本課程旨在協助學生學習撰寫企業的永續報告。課程將包括永續發展的基本概念、永續報告的框架和實務技能、案例分析以及報告設計等方面的知識。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 簡介永續發展和永續報告的基本概念 <br>2. 永續發展的概念和框架 <br>  • 探討永續發展的概念和原則 <br>  • 研究聯合國永續發展目標（SDGs）和其對企業的影響<br>  • 介紹主要的永續發展框架和指南，如GRI、SDG Compass等<br>3. 永續報告的要求和基礎知識 <br>  • 評估企業永續報告的重要性和必要性<br>  • 研究全球永續報告的發展趨勢和需求 <br>  • 介紹永續報告的核心要素和標準，如GRI、SASB等 <br>4. 報告撰寫的方法和技巧 <br>  • 分析報告的利害關係人和其需求 <br>5. 報告所需的資訊收集和整合<br>  • 評估報告所需的資訊種類和來源 <br>  • 研究收集和整合資訊的方法和工具 <br>  • 介紹報告撰寫的時間表和流程<br>6. 報告結構和內容的設計 <br>  • 研究報告結構和內容的基本要素 <br>  • 探討報告的章節結構和內容安排<br>  • 介紹報告設計的關鍵因素和技巧 <br>7. 報告的審核和第三方驗證<br>  • 探討報告審核和驗證的標準和準則<br>  • 介紹報告審核和驗證的最佳實踐和方法<br>8.案例分析和報告設計實踐 <br>  •通過實例分析和報告設計練習，幫助學生理解永續報告的設計和編寫過程<br>9. 經驗分享和交流 <br>  •邀請行業專家和企業代表，分享他們在永續報告編寫和實踐中的經驗和案例，與學生進行交流和討論",
+        "en": "1. Introduction to the basic concepts of sustainable development and sustainability reporting.<br>2. Concepts and frameworks of sustainable development:<br>  •Explore the concepts and principles of sustainable development<br>  •Study the United Nations Sustainable Development Goals (SDGs) and their impact on businesses<br>  •Introduce major sustainability frameworks and guidelines such as GRI, SDG Compass, etc.<br>3. Sustainability reporting requirements and basics:<br>  •Assess the importance and necessity of sustainability reporting for businesses<br>  •Study the global trends and demand for sustainability reporting<br>  •Introduce core elements and standards of sustainability reporting such as GRI, SASB, etc.<br>4. Methods and techniques of report writing:<br>  •Analyze the stakeholders and their needs for the report<br>5. Information collection and integration for reports:<br>  •Evaluate the types and sources of information needed for the report<br>  •Study methods and tools for collecting and integrating information<br>  •Introduce the timeline and process for report writing<br>6. Designing report structure and content:<br>7. Audit and verification of reports:<br>8. Case analysis and report design practice:<br>9. Sharing and exchanging learning experiences:<br>  •Invite industry experts and corporate representatives to share their experiences and case studies in sustainability reporting and discuss with students."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解永續發展的基本理念和框架",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習如何收集、分析和整合企業和利害相關人的資訊和意見、設計報告的目標、策略和行動計劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解永續報告的驗證、發布和溝通，提高報告的透明度和可信度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探討永續報告的最佳實踐和案例",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

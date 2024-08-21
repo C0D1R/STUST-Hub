@@ -1,0 +1,129 @@
+{
+    "code": "1DD0A201",
+    "name": {
+        "zh": "專修(七)燈光(A1)",
+        "en": "Major Ⅶ Stage Lighting Gesign"
+    },
+    "credit": "1",
+    "type": "管制選修",
+    "classes": [
+        "四技流音四乙"
+    ],
+    "instructors": [
+        "陳俊利"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第4節",
+            "location": "W1001"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為小班教學，須具備燈光理論之常備知識及技能，以教授「燈光設計」進階專長領域之相關理論、實務技巧以及職場倫理，強化學生之燈光專業技能，以及啟發設計之創意思考，並培養學生專業素養與敬業態度。以口頭/書面報告及實習實作之方式，做為學習成效之評量。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、燈光設計基礎知識。<br>二、燈光設計操作技巧。<br>三、燈光設計的創新思維。<br>四、燈光設計作品指導。",
+        "en": "1. The foundations in stage lighting design<br>2. The operation skills of stage lighting design<br>3. Innovative thinking on stage lighting design<br>4. The guidance on stage lighting design works"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解燈光設計專長領域之專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備燈光設計專長領域之技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "造就燈光設計之創意發想能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養自我提升、終身學習之態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "展現尊重、接納老師指導之學習態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培育燈光從事人員之整合協調能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

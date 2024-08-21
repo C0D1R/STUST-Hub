@@ -1,0 +1,135 @@
+{
+    "code": "C0D35601",
+    "name": {
+        "zh": "英語教學概論",
+        "en": "Introduction to English Language Teaching"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應英二甲"
+    ],
+    "instructors": [
+        "陳怡真"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "N310"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "N310"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.TKT 劍橋英語師資認證",
+        ""
+    ],
+    "description": "This is an introductory TESOL course designed to familiarize students with fundamental concepts, terms, and commonly applied teaching methods in EFL/ESL contexts.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程的主要內容如下：<br>1. 課程介紹<br>2. 語言教學之內涵與要素<br>3. 台灣之英語師資訓練與檢覈<br>4. 文法翻譯法<br>5. 直接教學法<br>6. 聽說教學法<br>7. 默示教學法<br>8. 身體動作回應教學法<br>9. 期中考<br>10. 溝通式教學法<br>11. 任務導向教學法；全語言教學<br>12. 字母拼讀法<br>13. 語言教學之跨語言觀點<br>14. 語言教學之心理學觀點<br>15. 語言教學之社會文化觀點<br>16. 語言學習之評量<br>17. 複習與回顧<br>18. 期末考",
+        "en": "1. Introduction to the course <br>2. Major components of language teaching<br>3. English teacher training and certification in Taiwan<br>4. The Grammar-Translation Method<br>5. The Direct Method<br>6. The Audio-Lingual Method<br>7. The Silent Way<br>8. Total Physical Response<br>9. Midterm Exam<br>10. Communicative Language Teaching<br>11. Task-based Approach and Whole Language Approach<br>12. Phonics instruction<br>13. Cross-linguistic perspectives on language learning and teaching<br>14. Psychological factors in language learning and teaching<br>15. Sociocultural factors in language learning and teaching<br>16. Assessing language learning<br>17. Review<br>18. Final Exam"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉英語教學理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解英語教學法的基本原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解口說與寫作教學方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解聽力與閱讀教學方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "執行示範教學",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解現今台灣的英語教學法及議題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

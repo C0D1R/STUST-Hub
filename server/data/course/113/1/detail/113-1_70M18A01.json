@@ -1,0 +1,148 @@
+{
+    "code": "70M18A01",
+    "name": {
+        "zh": "國際行銷專題",
+        "en": "Seminar in International Marketing"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研企管一甲",
+        "碩全球經管一乙"
+    ],
+    "instructors": [
+        "郭幸萍"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "E0603"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "E0603"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "E0603"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "今日已是一個全球化的時代，唯經理人從國內市場轉移至全球市場時，行銷策略往往必須隨不同國家市場的文化、社會、經濟與政治法令環境而調整，國際行銷的重點即為企業經理人如何在面對不同的市場環境下，能整合擬訂出一更佳的全球產品、訂價、通路、與促銷策略。此課程除了理論的講授之外也著重國際市場的解析與國際行銷相關個案的分析﹐課程內容講授許多產品、勞務及許多區域或國家，使學生能透過理論與現今市場實務的印證及分析來了解國際文化與行銷的本質。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Section I 緒論<br>Section II 全球化之必要及環境分析【全球文化環境、政治及法律環境】<br>Section III 國際策略【市場進入策略、策略規劃與競爭優勢、策略聯盟及購併】<br>Section IV 國際行銷策略【四P策略及全球運籌模式、整合行銷策略及國際廣告策略】<br>Section V 國際行銷組織結構【規劃﹐組織和控制全球行銷活動】<br>Section VI Book Reading <br>國際專題及個案補充<br>",
+        "en": "Section I Introduction<br>Section II To analysis the globalization of market and environment<br>Section III International strategies<br>Section IV International marketing strategy<br>Section V The organization structure of international marketing<br>Section VI Book Reading <br>International issue and case<br>"
+    },
+    "weeklySchedule": "第 一 週： 課程介紹與基本概念<br>第 二 週： Section I:國際行銷概論<br>第 三 週： Section II:全球環境分析<br>第 四 週： Section II:全球環境分析<br>第 五 週： Section II:全球環境分析<br>第 六 週： Section III:國際市場機會<br>第 七 週： Section III:國際市場機會<br>第 八 週： 期中分組國際趨勢介紹報告<br>第 九 週： 期中分組國際趨勢介紹報告 &amp; 期中考試<br>第 十 週： 期中分組國際趨勢介紹報告<br>第十一週： Section IV:國際策略規劃<br>第十二週：Section IV:國際策略規劃<br>第十三週： Section V:國際行銷策略<br>第十四週： Section V:國際行銷策略<br>第十五週： Section V:國際行銷策略<br>第十六週： 期末分組報告<br>第十七週： 期末分組報告<br>第十八週： 期末分組報告<br>（實際上課內容得依學生實際學習情況調整）",
+    "exams": {
+        "midterm": "第2,3節口頭報告;第4節考試",
+        "final": "第2,3,4節期末口頭報告",
+        "other": "第16,17周第2,3,4節期末分組口頭報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解國際行銷的核心觀念與知識。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考",
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能具備收集國際行銷環境相關資料之技能。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用國際行銷專業知識進行國際行銷個案的資料收集與個案報告。",
+            "teachingMethods": [
+                "分組討論",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能將國際行銷個案研究撰寫成完整的個案報告。",
+            "teachingMethods": [
+                "分組討論",
+                "啟發思考",
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能培養正確的學習態度。",
+            "teachingMethods": [
+                "分組討論",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "同儕互評",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "國際行銷學: 建構全球行銷能力",
+        "author": "張國雄",
+        "publisher": "雙葉書廊",
+        "year": "2022",
+        "ISBN": "9789865492359",
+        "edition": "6版"
+    },
+    "referenceBooks": "商業周刊<br>天下雜誌<br>遠見雜誌<br><br>",
+    "teachingSoftware": "無",
+    "rules": "1.所有報告皆以2-3人一組為原則。<br>2.分組國際趨勢介紹報告(每組30分):自行尋找與跨國企業經營相關的video播放，並帶領同學討論。<br>3.期末報告(每組30-40分):可以個案公司或主題方式進行，未參與報告者及報告當天未出席者一律零分計算。<br>4.上課請勿使用NB或手機，違者扣參與分數0.5分/次。<br>5.參與與出席部份佔學期總分20分。<br>★★限修過行銷管理或行銷學課程學生選修，外系選修請繳交修課證明★★<br>★★此為選修課程，請修課學生第一節務必一定要出席，以維護選修權益★★"
+}

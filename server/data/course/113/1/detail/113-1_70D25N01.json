@@ -1,0 +1,116 @@
+{
+    "code": "70D25N01",
+    "name": {
+        "zh": "人力資源管理",
+        "en": "Human Resource Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管二甲",
+        "四技企管二乙"
+    ],
+    "instructors": [
+        "方妙玲"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "S315"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S315"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "S315"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "人力資源管理部門負責的主要業務功能以及勞動相關法令。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 人力資源規畫<br>2. 工作分析<br>3. 工作設計<br>4. 員工招募與甄選<br>5. 員工教育訓練<br>6. 績效管理<br>7. 薪酬制度與員工福利制度",
+        "en": "1. Human Resource Planning<br>2. Job Analysis<br>3. Job Design<br>4. Recrutiment and Selection<br>5. Training<br>6. Performance Management<br>7. Compensation and Benefits"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解人力資源管理的理論及實務應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉勞動法令。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過個案討論引導學生有組織、有條理的表達與溝通。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由分組報告，提升學生的人際互動及團隊運作能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

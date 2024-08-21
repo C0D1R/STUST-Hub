@@ -1,0 +1,100 @@
+{
+    "code": "40D19N01",
+    "name": {
+        "zh": "化材專業(其他)實習",
+        "en": "Industry Practice (other) of Chemical and Materials Engineering"
+    },
+    "credit": "4",
+    "type": "選修",
+    "classes": [
+        "四技化材四甲",
+        "四技化材四乙"
+    ],
+    "instructors": [
+        "黃常寧"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "570"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程可透過工廠高階人員的面試選派學生至化工材料相關工廠實習。學生可實際的參與工廠實務工作及最後完成實習報告。在實習過程中了解在校所學專長與實務之關聯性，並使學生能於未來就業後，以最短的時間熟悉工廠之工作，增強其就業能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.求職面試評估; 2.工作態度與職場倫理; 3.工廠實務操作; 4.廠務工作實習; 5.工作報告撰寫",
+        "en": "1. interview evaluation;<br>2. work attitude and workplace ethics;<br>3. factory practical operation;<br>4. factory service work experience;<br>5. report writing<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能運用科學及化學工程知識的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具有執行工程實務所需技術、技巧及使用工具之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有系統、組織的說明事物及有效與各類專長人士溝通的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能融入團隊並與組員夥伴維持良好的關係，遵從團隊合作利益及組織規範，並能勇於承擔個人責任之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

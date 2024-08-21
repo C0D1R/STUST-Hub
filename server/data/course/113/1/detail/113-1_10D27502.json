@@ -1,0 +1,115 @@
+{
+    "code": "10D27502",
+    "name": {
+        "zh": "電腦輔助機械製圖及實習",
+        "en": "Computer Aided Mechanical Drawing And Practice"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技自控二乙"
+    ],
+    "instructors": [
+        "謝慶存"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "E0202"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "E0202"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "E0202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "訓練學生瞭解機械製圖的繪製方法及識圖的知識，熟悉電腦輔助製圖軟體各種指令，並使其能靈活使用電腦製圖工具，繪製出各種實際機械圖。",
+    "prerequisites": "1.有電腦軟體操作、硬體相關知識與檔案總管操作。\n2.具備基本工程圖學觀念 \n3.先修習工程圖學",
+    "syllabus": {
+        "zh": "一、機械製圖部分:<br>1.機械製圖之一般準則。<br>2.投影、比例、字法、線法、尺度標註之方法。<br>3.公差與配合之種類及規範、表面性質符號、粗糙度之意義。<br>4.各種機械元件之製圖法。<br><br>二、電腦製圖部分:<br>1.電腦輔助繪圖軟體簡介。<br>2.座標系統介紹及指令輸入。<br>3.繪圖指令－點、線、圓、圓弧、橢圓、矩形、多邊形等。<br>4.修改指令－刪除、修剪、偏移複製、複製、陣列、鏡射、旋轉、比例、倒     角、圓角等。<br>5.尺寸標註指令。<br>6.幾何圖形綜合練習。<br>7.剖面線與文字輸入。<br>8.工程圖綜合練習。<br>三、技能檢定測驗解說與練習<br>1.解題前必知技巧<br>2.設定:設定環境變數、工具列 繪圖設定值、設定線型、圖層 、定繪圖範圍<br>3.繪圖框、標題欄、繪表面符號、繪螺栓元件<br>4.檢定術科題組分析與解題技巧",
+        "en": "Unit 1. Mechanical Drawing:<br>1. The standard of general mechanical graphics<br>2. Principles of dimensioning<br>3. Principles of precision dimensions Dimensioning of Machining Precision:Tolerance and Fit, Geometric Tolerance<br>4. Mechanical working drawings abd mechanical component drawings ( Fastening, joining, and standard parts)<br>Unit 2. Computer Aided Drawig:<br>1. Introduce the software of Computer Aided Drawig<br>2. Demonstrate the basic operating of commands and drawing setup.<br>3. Demonstrate the commands of drawing: Point, Line, Circle, Arc, Rectangle, Polygon and ellipse etc.<br>4. Modify Commands - Selecting Objects, Copy , Move Erase, Chamfer, fillet, break, trim, extend, Offset, Mirror, Rotate, Scale and Array etc.<br>5. Dimensions.<br>6. Practice the Geometric drawing.<br>7. Hatch and Text<br>8. Practice of Comprehensive Engineering Drawing. <br>"
+    },
+    "weeklySchedule": "課程大綱課程進度：<br> 時數／內容 <br>一、機械製圖部分:1週<br>1. 機械製圖之一般準則。<br>2. 投影、比例、字法、線法、尺度標註之方法。<br>3. 公差與配合之種類及規範、表面性質符號、粗糙度之意義。<br>4. 各種機械元件之製圖法。<br><br>二、電腦製圖部分: 2-10週<br><br>1. 使用介面、順序與同步建模簡介、建立範本 <br>2. 2D草圖繪製、建立基本特徵(同步) <br>3. 幾何控制器、建立基本特徵(順序) <br>4. 建立旋轉特徵(同步與順序) <br>5. 新增平面與即時剖面、掃掠特徵(同步與順序) <br>6. 舉昇特徵(同步與順序) 、規則排列 <br>7. 特徵庫、相關指令、即時規則應用 <br>8. 變數表與零件家族 <br>9. 建立組立件與靜態、動態干涉檢查 <br>10. 爆炸視圖與BOM表建立 <br>11. 建立工程圖、範本設定 <br>12. 鈑金設計(同步與順序) <br><br>三、技能檢定測驗解說與練習10-18週<br><br>1. 解題前必知技巧<br>2. 繪圖框、標題欄<br>3. 檢定術科題組分析與解題技巧<br>",
+    "exams": {
+        "midterm": "實作",
+        "final": "實作",
+        "other": "實作"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能具有產品三D視圖的原理知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能具備機械零件繪圖能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能具備繪製組立零件之能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能具備機械零件繪圖分析與撰寫報告能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "SIEMENS SOLID EDGE 引領設計思維",
+        "author": "凱德科技",
+        "publisher": "凱德科技",
+        "year": "2021",
+        "ISBN": "9789868921061",
+        "edition": "1"
+    },
+    "referenceBooks": "1.Solid Edge 機械設計寶典  魏廣炯 , 經瑋 , 出版日期: 2020-10-01<br>2.SolidWorks 業界實戰以電腦輔助立體製圖丙級為例：基礎篇林志鎰 , 經瑋 , 出版日期: 2020-12-01<br>3.電腦輔助立體製圖：丙級術科實作精解 劉南明 江俊顯 江可達 , 翰蘆 , 出版日期: 2018-11-26<br>4.乙級檢定學術科完全攻略：電腦輔助機械設計製圖(2020)李維華魏義峰,全華圖書,出版日期:2020-08-18<br>5.Solid Edge 快速入門手冊 洪明宏 , 深石 , 出版日期: 2020-04-30<br>6.SIEMENS SOLID EDGE 引領設計思維 凱德科技 , 凱德科技 , 出版日期: 2021-01-19<br><br><br><br>",
+    "teachingSoftware": "Solid Edge",
+    "rules": "1.每節上課打鐘開始點名，未點到者記曠課，十五分鐘後仍未到者算曠課。<br>2.上課時禁打、接聽手機。 <br>3.上課時禁止吃便當、麵包或其他食物。 <br>4.上課時禁止與其他同學交談、聊天。 <br>5.下課後需有電腦可以充分時間練習 6.學過普通圖學，機械製圖及投影觀念 <br>7.認真不怕苦，上課專心 <br>8.上課時，不要非法影印教科書，以避免觸犯智慧財產權相關法令"
+}

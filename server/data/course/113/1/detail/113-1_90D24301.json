@@ -1,0 +1,129 @@
+{
+    "code": "90D24301",
+    "name": {
+        "zh": "電子商務理論與實務(A)",
+        "en": "E-commerce Principles & Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資管三甲",
+        "四技資管三乙",
+        "四技資管三丙"
+    ],
+    "instructors": [
+        "陳垂呈"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "E0401"
+        },
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "E0401"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "E0401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "分別從商業、科技與社會的角度介紹電子商務，包括：<br>1. 電子商務簡介。<br>2. 電子商務的科技基礎建設。<br>3. 商業概念與社會議題。<br>4. 運作中的電子商務。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 電子商務介紹<br>2. 電子商務商業模式與概念<br>3. 電子商務基礎架構：網際網路與全球資訊網<br>4. 建立一個電子商務網站<br>5. 電子商務安全與加密<br>6. 電子商務付款系統<br>7. 電子商務行銷概念<br>8. 電子商務行銷傳播<br>9. 電子商務之道德、社會及政治議題<br>10. 網路上的零售業<br>11. 線上服務產業<br>12. B2B 電子商務：供應鏈管理與協同商務<br>13. 拍賣、入口網站與社群<br>14. 線上內容提供者：數位媒體",
+        "en": "1. The Revolution Is Just Beginning<br>2. E-commerce Business Models and Concepts<br>3. The Internet and World Wide Web: E-commerce Infrastructure<br>4. Building an E-commerce Web Site<br>5. Security and Encryption<br>6. E-commerce Payment Systems<br>7. E-commerce Marketing Concepts<br>8. E-commerce Marketing Communications<br>9. Ethical, Social, and Political Issues in E-commerce<br>10. Retailing on the Web<br>11. Online Service Industries<br>12. B2B E-commerce: Supply Chain Management and Collaborative Commerce<br>13. Auctions, Portals, and Communities<br>14. Online Content Providers: Digital Media"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能應用與規劃購物車軟體開發電子商務網站",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解電子商務理論與經營的知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能建構與設計電子商務網站的實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能依據商業需求建構與設計電子商務網站",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能探索創新的電子商務經營模式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

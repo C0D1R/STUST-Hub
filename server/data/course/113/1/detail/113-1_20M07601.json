@@ -1,0 +1,132 @@
+{
+    "code": "20M07601",
+    "name": {
+        "zh": "高等電力電子",
+        "en": "Advanced Power Electronics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研電機一甲",
+        "碩研電機一甲"
+    ],
+    "instructors": [
+        "蔡明村"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "B504"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "B504"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "B504"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "電力電子系統介紹",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 電力電子系統介紹<br>2. 功率半導體與電路介紹<br>3. 二級體整流器<br>4. 功率電晶體<br>5. 直流至直流轉換器<br>6. 切換式直流至交流轉換器<br>7. 閘流體<br>8. 共振式轉換器<br>9. 多層級變流器<br>10.線頻相位控制整流器<br>11. 交流電壓控制器<br>12. 靜態開闢<br>13. 彈性輸電系統<br>14. 電源供應器<br>15. 驅動電路<br>16. 保護電路<br>",
+        "en": "1.\tIntroduction<br>2.\tPower semiconductor diodes and circuits<br>3.\tDiode rectifiers<br>4.\tPower transistors<br>5.\tDC-DC converter<br>6.\tPulse-width-Modulated inverter<br>7.\tThyristors<br>8.\tResonant pulse inverter<br>9.\tMultilevel inverters<br>10.\tControlled rectifiers<br>11.\tAc voltage controllers<br>12.\tStatic switches<br>13.\tFlexible AC transmission systems<br>14.\tPower supplies<br>15.\tGate drive circuits<br>16.\tProtection of devices and circuits<br>"
+    },
+    "weeklySchedule": "1. 電力電子系統介紹<br>2. 功率半導體與電路介紹<br>3. 二級體整流器<br>4. 功率電晶體<br>5. 直流至直流轉換器<br>6. 切換式直流至交流轉換器<br>7. 閘流體<br>8. 共振式轉換器<br>9. 多層級變流器<br>10.線頻相位控制整流器<br>11. 交流電壓控制器<br>12. 靜態開闢<br>13. 彈性輸電系統<br>14. 電源供應器<br>15. 驅動電路<br>16. 保護電路",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末考",
+        "other": "平常作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "知道線性電源供應器與切換式電源供應器之差異？",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解常用控制器包含3控制迴路，由內而外\n分別是電流、電壓與與目標參數控制？",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解隔離驅動電路需求的原因",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解控制器的核心可以是專用類比電路、專用IC電路或發展微控器 DSP, FPGA等數位控制器",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "對於期中、期末報告之期刊論文選擇、書面報告之製作、講演，是否學到完成一套電力電子轉換器所需的整體性概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "05D01E01",
+    "name": {
+        "zh": "全民國防教育-全民國防",
+        "en": "All-out Defense Education Military Training-Civil Defense"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "軍訓選修"
+    ],
+    "instructors": [
+        "郭延彰"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "D105"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "D105"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "「全民國防」的內涵，即是全體國民共同參與戰爭準備的一種型態，在和平時期可厚植戰爭潛力與提升應變能力，戰時則可軍民一體抵禦外侮，維護國家安全。世界各主要國家對於「國防教育」的推動，均極為重視。我國與歐美各國「全民國防」教育理念起源。使學生明瞭中國大陸迄今仍未公開承諾放棄武力犯台，我國仍需以嚴肅的態度去思考未來戰爭的可能性，並審慎謀劃對應之策，絕對不能因為兩岸目前維持和緩關係致放棄應有的建軍備戰與憂患意識。",
+    "prerequisites": "#選課重要須知：軍訓課程名稱更改為「全民國防教育」\n全民國防教育軍事訓練課程折減常備兵役現役役期或軍事訓練期間之上限，依兵役法第十六條第四項規定辦理。本校男學生因應折抵役期選課之學生，請詳閱本校開課規則，每門課均開課2小時1學分！折減現役役期者，每門課得折減4.5日。折減軍事訓練者，每門課最多得折減2日。在此告知，請同學選課自行考量。\n(一)82年前出生，折減現役役期：\n依每門課程總時數36小時(堂)計算，修習成績合格者，依每8堂課折算1日，得折減4.5日；5門課共180小時(堂)，不足1日不列入計算，至多得折減現役役期22日。\n(二)83年後出生，折減軍事訓練期間：\n依每8堂課折算1日，每門課最多得折減2日；5門課共80小時(堂)，至多得折減軍事訓練期間10日。(不得比照折減現役役期之課程規範)\n\n#選修全民國防軍訓訓練課程之男學生，需配合本校青年服勤動員編組，得以運用課程實施訓練。",
+    "syllabus": {
+        "zh": "第一部分課程，依教官專長領域設計<br>第二部分課程，大綱如下：<br>第一章　國家意識 　　　　<br>第二章　全民防衛 　　　<br>第三章　經濟與國防 　　　　<br>第四章　文化與心理　　　<br>第五章　軍紀教育（含申訴制度）　　　　<br>第六章　軍法教育　　　　　　　　　　　<br>第七章　軍人禮節與警衛勤務 　<br>第八章　愛國教育（莒光教學專題研究）",
+        "en": "The first part of the course, designed according to the field of instructor expertise<br>The second part of the course, the outline is as follows:<br>Chapter I National Consciousness<br>Chapter II National Defense<br>Chapter III Economy and National Defense<br>Chapter IV Culture and Psychology<br>Chapter V Military Discipline Education (including complaints system)<br>Chapter VI Military Law Education<br>Chapter VII Military Etiquette and Guard Service<br>Chapter VIII Patriotic Education (Special Study of Shuguang Teaching)<br><br>講師の専門知識の分野に従って設計されたコースの最初の部分<br>コースの後半では、概要は次のとおりです。<br>第1章国民意識<br>第2章国防<br>第3章経済と国防<br>第4章文化心理学<br>第5章軍事訓練（苦情処理システムを含む）<br>第6章軍法教育<br>第7章軍事エチケットと警備サービス<br>第8章愛国教育（シュグアン教育特別研究）"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "凝聚國人憂患意識，淬煉愛國愛鄉情操",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "深化全民國防共識，確保國家整體安全",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉安全應變機制，奠定社會安全基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升防衛動員知能，實踐全民國防目標",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

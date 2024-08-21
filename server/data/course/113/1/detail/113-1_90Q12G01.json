@@ -1,0 +1,116 @@
+{
+    "code": "90Q12G01",
+    "name": {
+        "zh": "商業智慧應用",
+        "en": "Business Intelligence Applications"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專資管二甲",
+        "碩專大數據二甲"
+    ],
+    "instructors": [
+        "王鼎超"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第5節",
+            "location": "T0709"
+        },
+        {
+            "day": "週六",
+            "period": "第6節",
+            "location": "T0709"
+        },
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "T0709"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學習資料倉儲、分析處理、資料探勘與資料視覺等技術，存取企業商情資料以提供企業做出數據化決策，進一步創造和累積商務知識與見解並改善商務決策品質。除此之外，為了保持競爭力，商業智慧系統整合機器學習和AI為重要趨勢。故課程將以實例操作的方式，使用MS SQL、PYTHON機器學習等工具，以商業智慧技術應用於市場現況與未來。",
+    "prerequisites": "資料庫管理系統、PYTHON程式設計",
+    "syllabus": {
+        "zh": "大數據時代的商業智慧簡介<br>資料倉儲介紹<br>資料探勘介紹<br>機器學習介紹<br>資料視覺化分析<br>論文評述<br>",
+        "en": "Introduction to Business Intelligence in the Era of Big Data<br>Data Warehouse<br>Data Mining<br>Machine Learning<br>Data Visualization<br>Paper Review<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識商業智慧與大數據的整合概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用資料探勘技術在商業智慧上",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用機器學習技術在商業智慧上",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能透過企業應用案例啟發創新思維並培養實務能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

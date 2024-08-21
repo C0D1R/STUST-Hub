@@ -1,0 +1,110 @@
+{
+    "code": "1PD03301",
+    "name": {
+        "zh": "口頭報告訓練",
+        "en": "Verbal report training"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "綜合實踐領域"
+    ],
+    "instructors": [
+        "許雅貴"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "T0109"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "T0109"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程設計旨在逐步提升參與者的口頭報告能力，從基本技巧到高級應用，並通過實戰演練和專業反饋，幫助參與者建立自信並掌握應對各種報告情況的方法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1基礎介紹與初步練習<br>2報告結構與內容組織<br>3視覺輔助工具與實戰演練<br>4應對即興發問與壓力管理<br>5壓力管理與自信心建立<br>6未來計劃與自我提升<br>",
+        "en": "1Basic Introduction and Initial Practice<br>2Report Structure and Content Organization<br>3Visual Aids and Practical Exercises<br>4Handling Impromptu Questions and Stress Management<br>5Stress Management and Confidence Building<br>6Future Planning and Self-Improvement<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能運用所學在報告中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能組織有結構的內容進行簡報。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用電腦製作符合既定主題的簡報",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能在分組報告中與人互助合作，完成既定目標。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

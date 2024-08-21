@@ -1,0 +1,127 @@
+{
+    "code": "20D1E401",
+    "name": {
+        "zh": "電子專業實務",
+        "en": "Electronic professional practice"
+    },
+    "credit": "2",
+    "type": "系定選修",
+    "classes": [
+        "五專電機三甲"
+    ],
+    "instructors": [
+        "洪得峻"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "B002"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "B002"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "B002"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程培養學生具有電子相關專業之概念、熟悉電子電路實驗之設計及應用之相關技能，其主要目標為教導學生熟悉基本電子電路實驗及實驗器材使用的知識。另外，本課程將介紹有關電子電路之基本量測等，使學生具有電子電路量測及實驗技能，奠定後續學習其他相關課目之根基。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、基本量測儀器介紹<br>2、焊接技術訓練<br>3、基本電子電路實習<br>4、電子元件簡介<br>5、印刷電路板製作<br>6、量測儀器使用<br>",
+        "en": "1. Meter Introduction<br>2. Soldering Skill Training<br>3. Fundamental Circuit Practice<br>4. Component Introduction<br>5. PCB Practice<br>6. Using Meter Practice<br>"
+    },
+    "weeklySchedule": "1. 基礎電子電路介紹<br>2. 各類型檢測電路介紹<br>3. OP放大器應用電路介紹<br>4. 實際電路實作驗證",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末考",
+        "other": "平時作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "相關工具之認識及使用訓練",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "電子元件基礎認識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "焊接技術訓練",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "量測儀器使用訓練",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "電子專業實習與未來職場之相關性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "OP Amp應用實驗模擬<br>盧明智，黃敏祥<br>全華書局<br>2007<br>978-957-21-0688-4<br>初版",
+    "teachingSoftware": "",
+    "rules": ""
+}

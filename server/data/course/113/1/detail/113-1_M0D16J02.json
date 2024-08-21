@@ -1,0 +1,176 @@
+{
+    "code": "M0D16J02",
+    "name": {
+        "zh": "基礎烹調實務",
+        "en": "Basic Culinary Practice"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技餐旅一甲",
+        "四技餐旅一乙"
+    ],
+    "instructors": [
+        "胡永輝"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0303"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "T0303"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "T0303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.傳授學生烹調理論知識<br>2.指導學生實際操作以學習基本烹調不同之食材及烹調法<br>3.廚藝刀工練習進而產生興趣.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.認識器具與設備<br>2.基礎廚藝刀工的練習<br>3.基礎烹飪技巧的練習<br>4.食物選購與儲存方法<br>5.中式食材和調味料的認識",
+        "en": "1.Introduction kitchen equipment and utensil <br>2.Basic culinary knife skill<br>3.Fundamental cooking methods practice<br>4.Food purchasing and storage<br>5.Recognize Chinese food ingredients and seasoning"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "基本烹調法與刀工之認識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能正確並安全的使用餐飲機具設備",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備食物烹調之基本知識與技術能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "與組員同心協力完成烹調實務課程並共同解決問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "於課程中能認真學習 課程結束後能完成善後清洗工作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "食材創新與開發能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "食材創新與開發能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備中餐烹調丙級技術士之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "遵守職業倫理及相關法令知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

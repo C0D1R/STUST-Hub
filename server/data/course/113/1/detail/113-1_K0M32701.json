@@ -1,0 +1,140 @@
+{
+    "code": "K0M32701",
+    "name": {
+        "zh": "研究方法與學術倫理",
+        "en": "Research Methods and Academic Ethics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研資傳一甲",
+        "碩研多樂一甲"
+    ],
+    "instructors": [
+        "張華城"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "W0806"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "W0806"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "W0806"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要為培養同學的研究與論文寫作、學術倫理概念，透過實務操作方法，深入瞭解相關的理念。瞭解層面將由閱讀文獻開始著手，逐步接觸由該如何由探討研究主題，如何針對主題設定適當的方法進行資料收集，又如何經由合適的分析方法探討資料的內涵，最後又如何經由討論歸納研究結論彙整為論文的過程；同時於帶領學生進行文獻探討時，告訴學生學術倫理及尊重他人智慧財產權之觀念，以尊重其他作者。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程主要為培養同學的研究與論文寫作、學術倫理概念，透過實務操作方法，深入瞭解相關的理念。瞭解層面將由閱讀文獻開始著手，逐步接觸由該如何由探討研究主題，如何針對主題設定適當的方法進行資料收集，又如何經由合適的分析方法探討資料的內涵，最後又如何經由討論歸納研究結論彙整為論文的過程；同時於帶領學生進行文獻探討時，告訴學生學術倫理及尊重他人智慧財產權之觀念，以尊重其他作者。",
+        "en": "This course is mainly to cultivate students' research and essay writing, academic ethics concepts, and to understand relevant concepts through practical operation methods. <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解研究與設計研究",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "設計研究之程序",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "如何進行文獻搜尋與文獻閱讀",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "如何規劃資料收集方法，如何進行資料分析以及擷取設計結果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "如何進行討論以及歸納結論，進而撰寫研究報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增強學術倫理概念宣導",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

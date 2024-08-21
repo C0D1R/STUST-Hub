@@ -1,0 +1,115 @@
+{
+    "code": "20D1FO02",
+    "name": {
+        "zh": "人工智慧實務",
+        "en": "Artificial Intelligence"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技控晶三乙"
+    ],
+    "instructors": [
+        "施嘉興"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "K404"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "K404"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "K404"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生瞭解計算機如何模擬人類行為(behavior)，及教導模擬技巧。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. Introduction人工智慧簡介<br>2. Search各種搜尋解法<br>3. Game Play競局<br>4. Decision Tree決策樹<br>5. Data Mining資料探勘<br>6. Case Study研究案例",
+        "en": "1. Introduction<br>2. Search<br>3. Game Play<br>4. Decision Tree<br>5. Data Mining<br>6. Case Study"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能解析人工智慧的演算法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能撰寫人工智慧專題的書面報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能用軟體製作人工智慧的程式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能接受人工智慧的英文專業術語",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

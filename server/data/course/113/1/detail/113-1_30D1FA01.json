@@ -1,0 +1,116 @@
+{
+    "code": "30D1FA01",
+    "name": {
+        "zh": "人工智慧概論",
+        "en": "Introduction to Artificial Intelligence"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子二甲",
+        "四技電子二乙"
+    ],
+    "instructors": [
+        "林福林"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "P301"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "P301"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "P301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在21世紀，人工智慧(AI)已經滲透到我們生活的各個角落，從手機應用、醫療診斷、到複雜的金融分析。本課程《人工智慧概論》旨在引領學生探索AI的核心概念、原理及其在真實世界中的應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.歷史背景與發展趨勢 (Historical Background and Evolution)<br>AI的起源 (Origins of AI)<br>早期成果與挑戰 (Early Achievements and Challenges)<br>現代AI的崛起 (Rise of Modern AI)<br><br>2.AI的基礎理論 (Foundations of AI)<br>搜尋策略 (Search Strategies)<br>知識表示 (Knowledge Representation)<br>知識推理 (Knowledge Inference)<br><br>3.機器學習與深度學習 (Machine Learning and Deep Learning)<br>監督式學習 (Supervised Learning)<br>非監督式學習 (Unsupervised Learning)<br>神經網路與深度學習架構 (Neural Networks and Deep Learning Architectures)<br><br>4.AI在實際應用中的角色 (Practical Applications of AI)<br>自然語言處理 (Natural Language Processing)<br>電腦視覺 (Computer Vision)<br>推薦系統 (Recommender Systems)<br><br>5.AI與人類互動 (AI and Human Interaction)<br>人機互動 (Human-Computer Interaction)<br>語音技術 (Speech Technologies)<br>機器人與自動駕駛技術 (Robotics and Autonomous Driving)<br><br>6.AI的倫理、社會與法律問題 (Ethics, Society, and Legal Issues in AI)<br>偏見與不公平性 (Bias and Fairness)<br>隱私和資料使用 (Privacy and Data Usage)<br>法律與監管 (Legal and Regulatory Concerns)",
+        "en": "1.Historical Background and Evolution<br>Origins of AI<br>Early Achievements and Challenges<br>Rise of Modern AI<br><br>2.Foundations of AI<br>Search Strategies<br>Knowledge Representation<br>Knowledge Inference<br><br>3.Machine Learning and Deep Learning<br>Supervised Learning<br>Unsupervised Learning<br>Neural Networks and Deep Learning Architectures<br><br>4.Practical Applications of AI<br>Natural Language Processing<br>Computer Vision<br>Recommender Systems<br><br>5.AI and Human Interaction<br>Human-Computer Interaction<br>Speech Technologies<br>Robotics and Autonomous Driving<br><br>6.Ethics, Society, and Legal Issues in AI<br>Bias and Fairness<br>Privacy and Data Usage<br>Legal and Regulatory Concerns"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "讓學生了解AI的歷史背景及其發展趨勢。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "掌握基礎的AI理論和算法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析AI如何改變現今社會的各個方面。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "討論AI的倫理和社會影響。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

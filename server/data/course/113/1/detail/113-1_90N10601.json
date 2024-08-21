@@ -1,0 +1,139 @@
+{
+    "code": "90N10601",
+    "name": {
+        "zh": "網頁程式設計",
+        "en": "Web programming Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技資管三甲"
+    ],
+    "instructors": [
+        "江蕙民"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0713"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0713"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0713"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "善用多媒體設計技術，結合資料庫之應用，建立優質動態網頁。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. ASP.NET網頁製作的準備工作<br>2. VB.NET程式<br>3. VB.NET程式與網頁製作的應用<br>4. ASP.NET網頁的基本結構<br>5. Server控制元件與輸入表單<br>6. ADO.NET與資料庫存取(一)<br>7. ADO.NET與資料庫存取(二)<br>",
+        "en": "1. Preparation for ASP.NET design<br>2. VB.NET program<br>3. VB.NET program and application of web page design<br>4. Basic structure of ASP.NET web page<br>5. Server control components and input forms<br>6. ADO.NET and retrieval of database (1)<br>7. ADO.NET and retrieval of database (2)<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能應用網路程式設計來開發電子商務應用程式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以團隊合作以及創新方式開發電子商務網站",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以團隊合作以及創新方式開發電子商務網站",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有系統有組織的將資訊系統整理的能力與利用網路來管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備利用組織力量來設計電子商務系統的能力，及整合商務資訊系統的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現系統問題結果，以開發電子商務系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,153 @@
+{
+    "code": "1JN00J01",
+    "name": {
+        "zh": "高齡照顧學",
+        "en": "Gerontology Care"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜二技高福三甲"
+    ],
+    "instructors": [
+        "江惠英"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "O101"
+        },
+        {
+            "day": "週六",
+            "period": "第9節",
+            "location": "O101"
+        },
+        {
+            "day": "週六",
+            "period": "第11節",
+            "location": "O101"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程的主旨是培養學生對高齡者健康照護之宏觀思想，建立健康促進與預防之概念。課程設計是以「健康老化」為概念。訓練學生運用照護過程及批判性思考的模式，深入瞭解老化對個體生理、心理、社會文化、與靈性所帶來之影響，運用高齡者照護學理、關懷態度、溝通技巧，確立與處理高齡者常見健康問題之能力，並能善用醫療及社會資源促進健康老化，達身心靈安適的目標。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.高齡者生理變化<br>2.高齡者心理社會變化<br>3.高齡者溝通<br>4.高齡者周全性評估<br>5.高齡者安全與環境評估<br>6.高齡者睡眠休息與活動<br>7.照顧者負荷與管理",
+        "en": "1.Physiological changes in the aging process<br>2.Psychological and social changes in the aging process<br>3.Communication with the elderly<br>4.Holistic assessment for the elderly<br>5.Safety and environment assessment for the elderly<br>6.Activity and sleep issues for the elderly<br>7.Caregiver burden and management"
+    },
+    "weeklySchedule": "週次    主題<br><br>1\t高齡照護學課程介紹、老化趨勢\t第一章\t<br>2\t高齡者生理變化\t第二章\t<br>3\t高齡者的居家環境評估與安全維護\t第六章\t<br>4\t高齡者周全性健康評估 \t第七章\t<br>5\t高齡者常見疾病認識與護理-1\t第八章\t<br>6\t高齡者常見疾病認識與護理-2\t第八章\t<br>7\t常見身體症狀的認識與處置\t老人照顧概論\t<br>8\t老年人的排泄需求\t老人護理學\t<br>9\t高齡者的照顧者的需求與負荷高齡者忽視與虐待議題\t第十二章\t<br>10\t休息與睡眠; 繳交專題報告的書面作業\t第九章\t<br>11\t課堂期中考(範圍：第1~10週)\t\t<br>12\t小組活動「周全性評估與居家環境安全評估」實地訪查\t<br>13\t心理老化與心理健康 老人學概論\t\t<br>14\t專題演講：高齡者生活型態影片與討論\t<br>15\t老人護理倫理法律議題\t第十四章\t<br>16\t臨終關懷與影片欣賞\t第十三章\t<br>17\t口頭報告:高齡者周全性評估與居家環境安全\t小組報告\t<br>18\t期末課程評值與檢討\t\t<br>",
+    "exams": {
+        "midterm": "小組活動:個案報告實地訪查",
+        "final": "課程評值與案例報告討論",
+        "other": "期中考(第13週)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立學生體認老年健康生活管理之重要性",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "協助學生瞭解高齡者常見健康問題與整體照護的基本概念",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "建立學生能運用健康評估工具檢視高齡者健康問題需求",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "建立學生具備關懷溝通及高齡者日常照護的能力",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生能活用高齡者照護方法促進個案身心靈健康",
+            "teachingMethods": [
+                "啟發思考",
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生能關心當今高齡者照護相關的社會資源與政策議題",
+            "teachingMethods": [
+                "啟發思考",
+                "座談",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "新編老人護理學",
+        "author": "吳麗芬",
+        "publisher": "華格納",
+        "year": "2021",
+        "ISBN": "978-986-362-732-6",
+        "edition": "5"
+    },
+    "referenceBooks": "照顧概論 簡慧雯等 華格納出版社 2019第四版<br>長期照顧 胡月娟等 新文京出版社 2020第六版<br>謝瀛華等（2019）老年醫學第三版 台北五南 (ISBN 978-957-763-652-2)<br>",
+    "teachingSoftware": "",
+    "rules": "教學評量：<br>1. 課堂參與、出席率：10%，出席一次加1分<br>2. 期中考35%: 113年12月07日 課堂考試<br>3. 期末口頭報告40%：小組活動「老人周全性評估與居家安全環境」報告<br>4. 高齡照護主題書面報告一份15%  113年11月23日課堂上繳交，逾時不收<br>5. 全班平均分成8組<br>"
+}

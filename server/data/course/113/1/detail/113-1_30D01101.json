@@ -1,0 +1,148 @@
+{
+    "code": "30D01101",
+    "name": {
+        "zh": "半導體概論",
+        "en": "Introduction to Semiconductor"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子二甲",
+        "四技電子二乙"
+    ],
+    "instructors": [
+        "鄭建民"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "P301"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "P301"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "P301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹組成各種物質之基本粒子”原子”之特性、原子之鍵結與結晶、半導體之電性及晶體缺陷對電性之影響。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Ch1. 簡介<br>Ch2. 原子結構與鍵結<br>Ch3. 半導體材料晶體結構<br>Ch4. 固體中的缺陷與雜質<br>Ch5. 固態量子 理論導論<br>Ch6. 半導體製程技術導論",
+        "en": "Ch1. Introduction <br>Ch2. Atomic Structure and Interatomic Bonding <br>Ch3. Structures of Semiconductors <br>Ch4. Imperfections and Impurities in Solids <br>Ch5. Introduction to the Quantum Theory of Solids <br>Ch6. Introduction to Semiconductor Manufacturing Technology"
+    },
+    "weeklySchedule": "第1~3週:基礎材料科學(含米勒指標、缺陷等)介紹<br>第4~6週:本質與外質半導體介紹/平時考-1<br>第7~8週:PN接面與空乏區<br>第9週:期中考<br>第10~11週:能帶圖與費米能階<br>第12~14週:真空技術、薄膜技術、微機電技術介紹/平時考-2<br>第15~17週:半導體製程技術與半導體產業簡介<br>第18週:期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "平時考2次"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能使用米勒指標(Miller indices)來表示晶體方向與平面",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解等效質量、電洞、直接能隙與間接能隙的觀念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解固體中的缺陷的概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解半導體相關產業",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "半導體製程概論",
+        "author": "李克駿、李克慧、李明逵",
+        "publisher": "全華圖書",
+        "year": "2020",
+        "ISBN": "978-986-503-522-8",
+        "edition": "4"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

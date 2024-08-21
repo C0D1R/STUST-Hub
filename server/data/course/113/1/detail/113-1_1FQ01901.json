@@ -1,0 +1,117 @@
+{
+    "code": "1FQ01901",
+    "name": {
+        "zh": "學術論文寫作",
+        "en": "Academic Writing"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專教經二甲"
+    ],
+    "instructors": [
+        "高家斌",
+        "張媛甯",
+        "劉明宜"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第2節",
+            "location": "N107"
+        },
+        {
+            "day": "週六",
+            "period": "第3節",
+            "location": "N107"
+        },
+        {
+            "day": "週六",
+            "period": "第4節",
+            "location": "N107"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The primary purpose of this course is to equip students with a prerequisite ability in academic writing, and provide them with an accessible introduction to academic research, with a specific focus on preparing students to develop a working proposal for the MA theses.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.書目管理軟體以及熟悉線上電子資料庫進行文獻搜尋<br>2.文獻及相關研究之摘述與評析<br>3.選定研究主題以及撰寫碩士論文提案報告<br>4.熟悉APA論文寫作格式規範<br>5.了解學術倫理重要內涵、原則與規範<br>",
+        "en": "1.Learning how to best use the reference management software and the available digital resources to explore literature<br>2.Learning how to cite relevant references and conduct critical review of literature<br>3.Learning how to work out research issues and develop a proposal for the MA thesis<br>4.Be familiar with the APA-conforming guidelines for academic writing<br>5.Learning essential issues, principles and conventions of academic ethics while conducting research<br>"
+    },
+    "weeklySchedule": "1. 教育研究議題介紹<br>2. 教育資源搜尋介紹與實作(一)<br>3. 教育資源搜尋介紹與實作(二)<br>4. AI輔助教育論文撰寫(一)<br>5. AI輔助教育論文撰寫(二) <br>6. 確立研究主題、文獻及方法運用<br>7. 書目管理軟體介紹：RefWorks、Zotero等書目管理系統介紹與實際操作。<br>8. word撰寫論文技巧：圖與表製作、排版技巧、搭配書目管理系統之應用<br>9. 書目管理與編排練習：Word編排搭配書目管理<br>10.文章比對工具使用：Turnitin、其他比對系統介紹<br>11.學術論文寫作格式：研討會、期刊格式介紹<br>12.撰寫論文與比對練習<br>13.學術論文寫作格式：碩士論文格式介紹<br>14.碩士論文寫作各章撰寫注意事項<br>15.碩士論文提案報告（至少包括第一章及第三章）<br>16.碩士論文提案報告（至少包括第一章及第三章）<br>17.碩士論文提案報告（至少包括第一章及第三章）<br>18.碩士論文提案報告（至少包括第一章及第三章）<br>",
+    "exams": {
+        "midterm": "報告",
+        "final": "報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉書目管理軟體以及線上電子資料庫",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學會文獻及相關研究之摘述與評析",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學會撰寫碩士論文提案",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉APA論文寫作格式規範",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "教育學門論文寫作格式指引：APA格式第七版之應用（第二版）",
+        "author": "林雍智",
+        "publisher": "心理出版社",
+        "year": "2023",
+        "ISBN": "9786267178690",
+        "edition": "2"
+    },
+    "referenceBooks": "林雍智(2023)。教育學門論文寫作格式指引：APA格式第七版之應用（第二版）。心理出版社。  <br><br><br>",
+    "teachingSoftware": "",
+    "rules": "使用Rubrics進行教師與同儕評分外，期末報告的格式要求如下。<br><br><br>第一章  緒論／前言<br>  1. 研究背景與動機<br>  2. 研究目的與研究問題<br>  3. 名詞釋義<br>        …….<br>第三章  研究設計與實施<br>  1. 研究架構<br>  2. 研究對象<br>  3. 研究方法／研究工具<br>  4. 資料處理與分析<br><br>期末報告除繳交WORD檔以外，也要製作簡報PPT。報告時間10-12分鐘，教師與同學提問10分鐘。<br>"
+}

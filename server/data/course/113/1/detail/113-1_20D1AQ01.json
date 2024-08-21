@@ -1,0 +1,144 @@
+{
+    "code": "20D1AQ01",
+    "name": {
+        "zh": "電機工程概論",
+        "en": "Electrical Engineering Introduction"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專電機一甲"
+    ],
+    "instructors": [
+        "葉義生"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "I0306"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "I0306"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "I0306"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "I0306"
+        }
+    ],
+    "hours": {
+        "course": "4",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要介紹電機工程相關基礎概念，包括被動元件的特性，以及電路之暫穩態的分析、另外，針對運算放大器及開關元件進行介紹。最後進入混合式應用電路，介紹大家普遍使用運算放大器及其應用於差動及多級放大的設計。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、電機工程概述<br>2、電阻<br>3、電感與電容<br>4、暫穩態分析<br>5、邏輯電路<br>6、二極體<br>7、運算放大器介紹<br>8、場效電晶體與雙接面型電晶體介紹<br>",
+        "en": "1. Electrical Engineering Introduction<br>2. Resistor<br>3. Capacitor and Inductor<br>4. Transient and Stable Status Analysis<br>5. Logical Circuit<br>6. Diode<br>7. Operation Amplifier<br>8. FET and BJT Introduction<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "電機工程技術認知",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "各類型元件介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "電路暫穩態分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "邏輯與放大器電路分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "開關元件介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "電機工程與未來職涯規劃相關性認識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

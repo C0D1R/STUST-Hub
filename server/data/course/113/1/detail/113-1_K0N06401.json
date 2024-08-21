@@ -1,0 +1,139 @@
+{
+    "code": "K0N06401",
+    "name": {
+        "zh": "3D角色動畫",
+        "en": "3D Character Animation"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技多樂三甲"
+    ],
+    "instructors": [
+        "賴裕文"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "W0609"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "W0609"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "W0609"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "由練習基礎3D塑模、材質與動作開始，進一步介紹進階至高等之優化建模、複雜貼圖、特效之技術與環境氣氛營造方法，讓學生了解並熟悉遊戲動畫所需之技術與動畫團隊之合作模式。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t數位模型-建模與貼圖<br>2.\tRigging概念與技術<br>3.\t動作與特效-人型與非人型動作<br>4.\t特效-粒子與自然力量<br>5.\t模型優化、複雜貼圖與美術協作<br>6.\t動畫擬真、燈光與氣氛遊戲動畫風格-卡通、水墨及其他<br>",
+        "en": "1.\t3D Modeling-Basic model &amp; texture<br>2.\tRigging<br>3.\tAction<br>4.\tFX-Particles &amp; Dynamics<br>5.\tAdvanced modeling<br>6.\tAtmosphere <br>7.\tThe Art of Game"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "數位模型-建模與貼圖",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Rigging概念與技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "動作與特效-人型與非人型動作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "特效-粒子與自然力量",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "模型優化、複雜貼圖與美術協作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "畫擬真、燈光與氣氛遊戲動畫風格-卡通、水墨及其他",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,128 @@
+{
+    "code": "30D1AT01",
+    "name": {
+        "zh": "嵌入式系統實務",
+        "en": "Embedded system practices"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子三甲",
+        "四技電子三乙"
+    ],
+    "instructors": [
+        "李博明"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "P503"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "P503"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "P503"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程是針對具程式寫作經驗，及上過Linux程式設計課程學生所設計的。經由不同的程式撰寫範例，來解說Linux嵌入式系統的架構、開發環境與應用。",
+    "prerequisites": "Linux程式設計",
+    "syllabus": {
+        "zh": "1. 嵌入系統架構<br>2.  嵌入式Linux開發環境的建立<br>3. 應用程式的下載與執行<br>4. 串列通訊埠的應用程式設計<br>5. 網路通訊埠的應用程式設計<br>6. 核心程式的編譯及驅動程式的設計<br>7. 嵌入式圖形介面開發環境的建立。",
+        "en": "1. Embedded system architecture<br>2. Set-up of embedded Linux development environment<br>3. Download and execution of application programs<br>4. application program design of serial communication<br>5. network communication application program design<br>6. Kernel compiling and driver design<br>7. Set-up of embedded graphic interface development environment"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解嵌入式系統設計與製作原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能實際應用嵌入式系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能規畫選擇嵌入式系統與連結介面電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生必須撰寫期末報告並上台簡報",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生知道未來嵌入式系統在產業上的應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

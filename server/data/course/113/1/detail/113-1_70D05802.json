@@ -1,0 +1,160 @@
+{
+    "code": "70D05802",
+    "name": {
+        "zh": "統計學(一)",
+        "en": "Statistics (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技企管二乙"
+    ],
+    "instructors": [
+        "林育德"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "S316"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "S316"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "S316"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.保險證照",
+        "2.證券期貨"
+    ],
+    "description": "介紹統計方法的基本概念與Excel軟體分析統計資料的操作與解讀。內容包括資料的蒐集與整理，分析解釋等敘述統計及由樣本推論母體的估計檢定，迴歸分析，變異數分析，無母數統計，時間序列分析等。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.  緒論 <br>2.  資料蒐集與整理<br>3.  資料敘述與表現<br>4.  機率概論<br>5.  間斷性隨機變數<br>6.  連續性隨機變數<br>",
+        "en": "1. Introduction<br>2. Collection and presentation of data<br>3. Description and summary of data<br>4. Probability<br>5. Discrete random variable<br>6. Continuous random variable"
+    },
+    "weeklySchedule": "第一週～第二週：統計概論<br>第二週～第三週：資料的統計圖表<br>第三週～第五週：資料的統計摘要值<br>第五週～第八週：雙性資料的整理與表現<br>第九週：期中考<br>第十週～第十二週：機率<br>第十二週～第十四週：隨機變數<br>第十四週～第十六週：離散隨機變數<br>第十六週～第十七週：連續隨機變數<br>第十八週：期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解資料分析的統計方法與基本學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能針對管理問題有效辨識適當的統計方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能應用統計方法分析管理實務資料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用Excel 軟體分析資料並正確解讀報表",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現資料分析結果，讓不懂統計專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "基礎統計學",
+        "author": "黃聯海、陳可杰",
+        "publisher": "滄海圖書",
+        "year": "2020",
+        "ISBN": "978-957-9282-82-6",
+        "edition": "初版"
+    },
+    "referenceBooks": "1.應立志，王萬琳、基礎統計學、普林斯頓國際、2013\t<br>2.Freund &amp; Perles原著，陳臺芳審定、統計學、台灣培生教育出版有限公司、2008  <br>3.林惠玲,陳正倉、應用統計學、雙葉書廊、2003  <br>4.陳順宇,鄭碧娥、統計學、陳順宇發行:華泰總經銷、1998  <br>5.帕爾(Nabendu Pal),沙卡(Sahadeb Sarkar)原作;張慶暉,林志娟編譯、基礎統計學、東華書局、2009<br>6.鄭惟厚，胡學颖、基礎統計學東華書局、2011<br>7.林真真、實用統計學、東華書局、2006<br>",
+    "teachingSoftware": "請由學校FlipClass數位學習中查詢",
+    "rules": "學期中會有隨堂演練，作為平時成績之實際計算。另有課堂討論、出席率、學習態度之考量。"
+}

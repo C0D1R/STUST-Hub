@@ -1,0 +1,199 @@
+{
+    "code": "70N00501",
+    "name": {
+        "zh": "生產與作業管理",
+        "en": "Production and Operations Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜二技企管四甲"
+    ],
+    "instructors": [
+        "林志添"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "S414"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "S414"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "S414"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "生管與作業管理的意義在有效運用管理功能及有限資源，處理一切與生產過程有關的決策，以期在最短時間內以最低成本提供適時、適量、適質的產品或服務，來滿足顧客的需求。本課程主要介紹上述生管意義中之基本觀念、面臨的問題及解決方法，以期學生能整合其他企業功能。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 作業管理簡介<br>2. 作業策略<br>3. 產品與服務設計<br>4. 品質管理<br>5. 動作研究<br>6. 總合規劃與主生產排程<br>7. 存貨管理<br>8. MRP<br>9. 精實生產",
+        "en": "1. Introduction to operations management.<br>2. Operations strategy.<br>3. Product and service design.<br>4. Management of quality.<br>5. Motion study.<br>6. Aggregate planning and master scheduling.<br>7. Inventory management.<br>8. Material requirements Planning.<br>9. Lean production."
+    },
+    "weeklySchedule": "1. 生產作業管理策略<br>2. 銷售預測評估與管控<br>3. 產品與服務設計<br>4. 產能規劃<br>5. 物料需求計畫與企業資源規劃(MRP ERP)<br>6. 豐田式生產管理(JIT)<br>7. 製程選擇與佈置分析<br>8. 品質管理(QCC、TQM、ISO 9001:2008、6-sigma)<br>9. 個案研討<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "分組報告方式",
+        "other": "互動交流分享方式"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使同學們了解生產與作業管理的理論及實務",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養同學正確的觀念以利方法及應用",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "提昇同學生產作業或服務流程管理之相關專業知識",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養同學創新思考能力",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "可透過實際應用提昇同學實務技能並協助考取相關證照",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養同學團隊合作與溝通能力",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "生產與作業管理",
+        "author": "鄭榮郎 編著",
+        "publisher": "全華",
+        "year": "2018",
+        "ISBN": "978-986-463-030-1",
+        "edition": "第五版"
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "1.上課中不得因個人任何因素影響到其他同學上課之權益。<br>2.上課中手機一律轉為震動或靜音,若有要接聽電話請至教室外走廊,以免影響同學上課。<br>3.無特殊原因致使上課出席率未達基本要求,該科將無法pass(課堂表現+出席率佔學期總分的40%)請特別留意。<br>4.學期總成績計算方式:(1)課堂出勤與表現：34 % (2)期中筆試：33 %  (3)期末分組報告：33 %。"
+}

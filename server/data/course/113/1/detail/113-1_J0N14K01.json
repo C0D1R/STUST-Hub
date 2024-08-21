@@ -1,0 +1,139 @@
+{
+    "code": "J0N14K01",
+    "name": {
+        "zh": "廣告學與活動企畫",
+        "en": "Advertising and Planning"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技視傳二甲"
+    ],
+    "instructors": [
+        "李婉貞"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "W0601"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "W0601"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "W0601"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過各種廣告型態與理論的介紹，讓學生瞭解廣告的生態與消費市場族群的基本概念，並從欣賞各種廣告中瞭解其策略、品牌定位、廣告企劃等問題，培養學生創意的思考及判斷等能力，亦更熟悉視覺語彙及圖像傳達的應用，從訂定具體可行的廣告計劃中，實際瞭解並增進廣告運作的細節與活動企畫能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(1) 廣告概論<br>(2) 廣告類型<br>(3) 廣告創意 <br>(4) 廣告策略<br>(5) 廣告表現方式 <br>(6) 平面廣告設計<br>(7) 活動企劃<br>(8) 活動執行與檢討<br>",
+        "en": "(1) Introduction to advertising<br>(2) Type of advertisement<br>(3) Advertising ideas<br>(4) Advertising strategy<br>(5) Advertising performance<br>(6) Graphic design<br>(7) Activity planning<br>(8) Activity execution and review<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能理解各種廣告的型態與目的。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能學會運用各種設計原理於廣告活動中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能與設計團隊作有效溝通。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能撰寫出具規格化、標準化、系統化的企畫書。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能思考並建立具有創意性的廣告活動。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體會現有廣告活動的支操作特點與其時代性價值。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

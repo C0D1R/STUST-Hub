@@ -1,0 +1,122 @@
+{
+    "code": "J0D37U01",
+    "name": {
+        "zh": "文化資源調查",
+        "en": "Cultural Resources Survey"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技創設二甲"
+    ],
+    "instructors": [
+        "陳一夫"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "W0607"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "W0607"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程透過文化資源與文化資產的意義與價值，先說明有關法定的範圍與過程後，透過調查的對象、分類及田野調查的方法，透過學習調查的工作中來使學生了解文化對於生活的重要意涵。<br>1.瞭解文化資源的內容及其文化意涵。 <br>2.瞭解文化資源調查的方法。 <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.文化資源與文化資產的意義與訂定過重<br>2.田野查的工具與方法<br>3.調查資料表的製作<br>4.地方文史調查與社區營造<br>5.在地資源調查<br>6.實務分組<br>",
+        "en": "1. The meaning of cultural resources<br>2. Field method<br>3. Production of survey data sheets<br>4. Local cultural history survey<br>5. Resource survey<br>6. Grouping<br>"
+    },
+    "weeklySchedule": "09/12 課程介紹<br>09/19 文化資源概述（文化多樣性與重要性）<br>09/26 地方文化認同、意象與象徵<br>10/03 地方性與文化資本<br>10/10 放假<br>10/17 文化資源調查方法（次級、初級資料）<br>10/24 次級資料蒐集與分析<br>10/31 期中報告：文化資源盤點分析<br>11/07 社區文化資源與田野調查（業師：王美霞）<br>11/14 作業1：文化資源調查表格設計<br>11/21 校外教學：台南市七股區田野調查<br>11/28 作業2：田野調查成果分享<br>12/05 Storymap操作與線上策展<br>12/12 文化資源再現：地方策展<br>12/19 文化資源再現：藝術介入社區<br>12/26 文化資源再現：地方品牌化<br>01/02 主題地圖工作坊<br>01/09 期末報告：七股故事主題地圖<br>",
+    "exams": {
+        "midterm": "文化資源盤點分析",
+        "final": "七股故事主題地圖",
+        "other": "文化資源調查表格設計、田野調查成果分享"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "基礎知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "創意發想",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "溝通的表達",
+            "teachingMethods": [
+                "座談"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能以本身專業能力服務民眾",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能與他人分工合作共同完成專案",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.David M. Fetterman;賴文福譯，2013，民族誌學，新北市：揚智文化。<br>2.王美霞，2016，南方誌：這些人那些事，臺南最迷人的社區圖像，台北市：麥田。<br>3.王怡茹、陳建志，2018，創意實作-Maker具備的9種技能-在地文化的調查方法與應用，臺北市：台灣東華。<br>4.廖世璋，2016，地方文化產業研究，高雄市：巨流。<br>",
+    "teachingSoftware": "word、story maps",
+    "rules": "1.為培養學習態度及確保學習品質，老師會每堂課點名並列入成績評量，生病或有要事未能出席請先請假告知原因，敬請大家注意！<br>2.工作坊及作業需各組員共同參與，學期末會進行「小組成員互評」，將作為加減分及是否當掉重要依據。<br>3.請同學尊重智慧財產權，使用正版教科書，不得非法影印，不得抄襲參考資料，以免觸犯智慧財產權相關法令<br>"
+}

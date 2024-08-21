@@ -1,0 +1,116 @@
+{
+    "code": "C0N2BV01",
+    "name": {
+        "zh": "國際禮儀",
+        "en": "International Etiquette"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜二技應英四甲",
+        "夜四技應英四甲"
+    ],
+    "instructors": [
+        "蘇雅珍"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "N204"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "N204"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "N204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著全球國際化腳步來臨，國人在公領域及私人場合與國際人士接觸的機會與日俱增，為避免引起無謂的誤會與困擾並使人際關係更加和諧與圓融，國際禮儀成為國際社會公民所必須共同遵守的規則。本課程藉由日常生活衣、食、住、行、育、樂的禮節及職場禮儀以培養學生得體的應對進退之道，塑造專業形象及高雅的儀態。此外，了解各國文化與生活間的差異亦是本課程重點。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "食的禮儀<br>衣的禮儀<br>住的禮儀<br>行的禮儀<br>休閒娛樂禮儀/出國旅遊禮儀<br>職場禮儀<br>跨文化認知",
+        "en": "Table manner<br>Business wear / Make-up skills<br>Etiquette in a hotel<br>Leisure and recreational etiquette<br>Etiquette for job interview<br>Cross-culture awareness"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解日常生活衣、食、住、行、育、樂的禮節。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養職場上應有的適當儀態。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增加對多元文化認知。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養得體的應對進退之道及人文禮節素養。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

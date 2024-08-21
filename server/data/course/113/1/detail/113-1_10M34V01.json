@@ -1,0 +1,118 @@
+{
+    "code": "10M34V01",
+    "name": {
+        "zh": "電池原理",
+        "en": "Principles of cells"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研機電一甲",
+        "碩研機械一甲",
+        "碩機械產業一甲",
+        "碩研機電一甲"
+    ],
+    "instructors": [
+        "張崴縉"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "K214"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "K214"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "K214"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Cells, thought to be the future power source, have been developed<br>for more than 1.5 centuries. This course will introduce this technology<br>from the fundamental principles to the practical applications.<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 簡介<br>2. 電池電化學原理<br>3. 電池種類<br>4. 電池之燃料供應<br>5. 應用可能性之探討<br>6. 實際操作<br>",
+        "en": "1.Introduction<br>2.Electrochemical principles of Cells<br>3.Types of cell<br>4.Fueling  cells<br>5.Possible Applications<br>6.Practical operation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉電池發展現狀，並了解使用此新能源技術對環境的影響",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解電化學轉換的過程與方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能規劃電池發電系統之相關設計參數",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能測試及分析電池性能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

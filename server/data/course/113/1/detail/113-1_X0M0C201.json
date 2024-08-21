@@ -1,0 +1,110 @@
+{
+    "code": "X0M0C201",
+    "name": {
+        "zh": "商事法(一)",
+        "en": "Commercial Law (Ⅰ)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "碩研財法一甲"
+    ],
+    "instructors": [
+        "鄭植元"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "S411B"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "S411B"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "商事法應是除民法外，為日常生活相當容易接觸到的法律之一，也是商業化社會所應該具備之能力。本課程設計目的，期能讓同學在上完一學期課程後，可暸解公司、票據等常用之商事法律的法律精神與基本規範，進而能夠具備解決未來工作中所面臨之商事法相關法律問題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、公司法之體系與精神<br>二、公司法之各種公司類型<br>三、公司之解散、合併、變更組織及清算<br>四、股份有限公司、關係企業<br>五、票據法之體系與精神<br>六、票據法之基本原則<br>七、票據法通則<br>八、票據法之各種票據類型<br>",
+        "en": "1. Overview of Corporation Law<br>2. Various Types of Corporations in Corporation Law<br>3. Dissolution, Consolidation or Merger and Reincorporation<br>4. Company Limited by Shares, Affiliated Enterprises<br>5. Overview of Negotiable Instrument Act<br>6. Basic Principles of Negotiable Instrument Act<br>7. General Provisions of Negotiable Instrument Act<br>8. Various Types of Negotiable Instrument<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "暸解公司法與票據法的核心概念與重點法制議題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "暸解公司法與票據法常見之法律爭議及思考方式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "掌握公司法與票據法之條文解讀能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過實務案例討論，了解公司法與票據法之實務運作方式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

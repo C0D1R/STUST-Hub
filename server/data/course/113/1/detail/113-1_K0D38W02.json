@@ -1,0 +1,146 @@
+{
+    "code": "K0D38W02",
+    "name": {
+        "zh": "創業概論",
+        "en": "Enterprise Theory"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技多樂四乙"
+    ],
+    "instructors": [
+        "王麗蘭"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "W0703"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "W0703"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "探討創業過程中有關財務、行政、業務的執行與管理，邀請創業者分享創業過程中所面臨的問題與解決方法<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 個人生涯規劃探討<br>2. 人格特質與創業<br>3. 創業計畫書<br>4. 行政管理<br>5. 財務管理<br>6. 業務管理<br>7. 社會回饋",
+        "en": "1. Personal career planning<br>2. Personality traits and entrepreneurship<br>3. Business plan book<br>4. Administration management<br>5. Financial management<br>6. Business management<br>7. Social feedback"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1. 個人生涯規劃探討",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2. 人格特質與創業",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3. 創業計畫書",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4. 行政管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5. 財務管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6. 業務管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "7. 社會回饋",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

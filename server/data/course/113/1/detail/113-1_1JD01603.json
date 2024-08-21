@@ -1,0 +1,116 @@
+{
+    "code": "1JD01603",
+    "name": {
+        "zh": "保健食品與高齡營養學",
+        "en": "Health food and nutrition for the older adult"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技高福一甲",
+        "四高福國專一甲"
+    ],
+    "instructors": [
+        "彭巧珍"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": ""
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": ""
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "藉由食品與健康介紹，了解營養素以及保健食品的功能與應用，並從老人的角度出發，了解老人營養現況及老人在營養上的特殊性，並介紹各類保健食品其應用於照護相關之原則，及老人餐食設計應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.老人的營養生理變化與營養狀態評估2.各大類營養素的介紹：醣類、脂質、蛋白質、維生素、礦物質、水與電解質等營養素3.食品分子與健康：營養學以外的機能性分子探討4.保健食品組成分及種類介紹：包含中藥材與藥膳保健性產品5.延緩老化之營養素：抗老化營養素的種類與功能介紹6.健康的飲食型態：地中海飲食、琉球群島飲食型態等健康飲食介紹7.老人餐食料理：老人餐食的設計與烹調技巧8.保健食品之應用未來展望：銀髮產業之應用",
+        "en": "1. The nutritional physiological changes and nutritional assessment of the elderly2. Introduction of nutrients: sugars, lipids, proteins, vitamins, minerals, water and electrolytes3. Food ingredients and health: introduction of functional ingredients of food4. Introduction of various health foods: including Chinese medicinal materials and health products5. Nutrients that delay aging: introduction of types and functions of anti-aging nutrients6. Healthy eating pattern: introduction of healthy eating such as Mediterranean diet, OKINAWA Islands eating pattern7. Elderly meals: the design and cooking skills of elderly meals1. The nutritional physiological changes and nutritional assessment of the elderly2. Introduction of nutrients: sugars, lipids, proteins, vitamins, minerals, water and electrolytes3. Food ingredients and health: introduction of functional ingredients of food4. Introduction of various health foods: including Chinese medicinal materials and health products5. Nutrients that delay aging: introduction of types and functions of anti-aging nutrients6. Healthy eating pattern: introduction of healthy eating such as Mediterranean diet, OKINAWA Islands eating pattern7. Elderly meals: the design and cooking skills of elderly meals8. Future prospects for the application of health food"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "高齡者營養生理變化與營養狀態評估",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "各大類營養素的生理功能與缺乏症",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "保健食品的功能與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "高齡者餐食料理、健康飲食型態",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

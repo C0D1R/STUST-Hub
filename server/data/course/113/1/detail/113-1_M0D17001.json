@@ -1,0 +1,146 @@
+{
+    "code": "M0D17001",
+    "name": {
+        "zh": "世界飲食文化",
+        "en": "Food Culture"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技餐旅三乙"
+    ],
+    "instructors": [
+        "林儒蘊"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0402"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0402"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 協助學生了解各國世界飲食特色及文化知識。<br>2. 了解世界各國飲食文化之分佈。<br>3. 認識台灣與世界各國飲食選擇性。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 飲食文化課程內容介紹，七大洲之介紹 <br>2. 宗教與飲食<br>3. 七大洲各國飲食文化特色<br>4. 亞洲各國飲食文化特色<br>5. 台灣本土飲食文化特色<br>6. 亞洲飲食文化<br>7. 餐旅服務業多元文化交流",
+        "en": "1.Introduction of Food and Culture, Seven Continents<br>2.Religion and Food<br>3.World Cuisine Food and Culture<br>4. Asians Food and Culture<br>5. Taiwan local Food and Culture<br>6. Intercultural Communication in the Foodservice workplace"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解各國飲食文化與特色及運用所學之飲食常識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立學生有探討、發言與良性批判能力，培養飲食國際觀和飲食選擇性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立學生有探討、發言與良性批判能力，培養飲食國際觀和飲食選擇性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "體認人文素養，引導學生對不同飲食文化差異性之瞭解與尊重",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用各國料理基本認知，分析餐旅文化管理實務能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "有效分析與呈現飲食專業表達能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識台灣與世界各國飲食選擇性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

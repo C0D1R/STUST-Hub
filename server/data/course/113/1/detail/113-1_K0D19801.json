@@ -1,0 +1,142 @@
+{
+    "code": "K0D19801",
+    "name": {
+        "zh": "智慧財產權與專業倫理",
+        "en": "Intelegence Properity discipline"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技多樂三甲"
+    ],
+    "instructors": [
+        "許舜喨"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "W0504"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0504"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "科技創新進步，使得科技在配合或主導社會活動發展之際，也與規範社會活動之法律產生互動，經由科技衍生的相關議題，本課程將介紹與科技技術相關之法律規範與倫理。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 智慧財產權概要<br>2. 著作權<br>3. 商標權<br>4. 專利權<br>5. 智財權管理<br>6. 智財權法律案例分析<br>",
+        "en": "1. Intellectual property rights<br>2. Copyright<br>3. Trademark rights<br>4. Patent rights<br>5. Intellectual property management<br>6. Case study"
+    },
+    "weeklySchedule": "1.\tGeneral Introduction to Intellectual Property Rights<br>2.\tIntroduction to Patent law (i)<br>3.\tIntroduction to Patent law (ii)<br>4.\tIntroduction to Patent law (iii)<br>5.\tIntroduction to Trademark law (i)<br>6.\tIntroduction to Trademark law (ii)<br>7.\tIntroduction to Trademark law (iii)<br>8.\tIntroduction to Copyright law (i)<br>9.\tIntroduction to Copyright law (ii)<br>10.\tIntroduction to Copyright law (iii)<br>11.\tMid-term exam<br>12.\tIntroduction to Plant Variety and Seedling law (i)<br>13.\tIntroduction to Plant Variety and Seedling law (ii)<br>14.\tIntroduction to Plant Variety and Seedling law (iii)<br>15.\tIntroduction to Trade Secret law<br>16.\tIntroduction to Integrated Circuit Layout Protection law<br>17.\tContemporary Issues in IP<br>18.\tEnd-of-term exam<br>",
+    "exams": {
+        "midterm": "小組報告",
+        "final": "筆試",
+        "other": "課堂小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "智慧財產權概要",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "著作權",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "商標權",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "專利權",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "智財權管理",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "智財權法律案例分析",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.\t智慧財產權之理論與應用<br>2.\t智慧財產權法導讀(三版)<br>3.\t智慧財產權法(增訂二版)<br>4.\t專利法-案例式<br>5.\t商標法案例式<br>6.\t智慧財產權論叢-第壹輯<br>7.\t美國商標案例解析<br>8.\t著作權法的第一堂課<br>9.\t專利法理論與應用(修訂二版)<br>",
+    "teachingSoftware": "",
+    "rules": "1. 小組上台報告<br>2. 期中心得繳交<br>3. 期末考<br>"
+}

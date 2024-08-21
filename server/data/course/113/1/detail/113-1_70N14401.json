@@ -1,0 +1,140 @@
+{
+    "code": "70N14401",
+    "name": {
+        "zh": "企業研究方法",
+        "en": "Business Research Method"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技企管三甲"
+    ],
+    "instructors": [
+        "郭幸萍"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "S309"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "S309"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "S309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在面對問題時,實務工作者必須能確實了解問題核心,並找尋出有用的解決方案,本課程即在於探討如何有效掌握必要和正確的決策資訊,期許修讀的同學都能熟悉資料收集與分析的程序。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "課程規範與概述<br>企業研究的本質與程序<br>規劃及確定研究主題<br>文獻收集與探討<br>次級資料的收集<br>研究設計<br>初級資料收集--觀察法、調查法、實驗法、質性研究<br>研究對象選擇與抽樣設計<br>資料編碼與整理<br>資料分析與討論<br>研究報告撰寫<br>",
+        "en": "Introduction<br>The business research process<br>Formulating and clarifying the research topic<br>Critically reviewing the literature<br>The collection of secondary data<br>Formulating the research design<br>Collecting primary data <br>Designing the questionnaire<br>Sampling methods and data collection<br>Data analysis<br>Writing and presenting your project report <br>"
+    },
+    "weeklySchedule": "第1周  課程規範與概述<br>第2周  質性研究概述&amp;量性研究概述<br>第3周  資料庫搜尋教學<br>第4周  量表建構<br>第5周  網路問卷設計<br>第6周  網路問卷設計<br>第7周  資料編碼與整理&amp;統計軟體Demo<br>第8周  上機操作&amp;分組討論<br>第9周  期中考周<br>第10周 資料編碼與整理&amp;統計軟體Demo<br>第11周 上機操作&amp;分組討論<br>第12周 資料編碼與整理&amp;統計軟體Demo<br>第13周 上機操作&amp;分組討論<br>第14周 資料編碼與整理&amp;統計軟體Demo<br>第15周 上機操作&amp;分組討論<br>第16周 研究報告撰寫&amp;小考<br>第17周 上機考試<br>第18周 期末考周<br>",
+    "exams": {
+        "midterm": "第12節複習;第13,14節考試",
+        "final": "第12節複習;第13,14節考試",
+        "other": "第17周 第13,14節模擬小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解研究方法的核心觀念與知識。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能具備收集研究相關的初級及次級資料之技能。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用專業統計軟體分析資料並正確解讀報表。",
+            "teachingMethods": [
+                "啟發思考",
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能將分析結果撰寫成完整的研究報告。",
+            "teachingMethods": [
+                "分組討論",
+                "實作演練",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能培養正確的學習態度與團隊精神。",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自製講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.呂長民(2009)（第六版），行銷研究,前程文化出版公司。<br>2.吳萬益(2008),企業研究方法,華泰圖書出版公司。<br>3.榮泰生(2008)，企業研究方法,五南圖書出版公司。 <br>4.黃俊英(2009)，企業研究方法(第３版),東華圖書出版公司。",
+    "teachingSoftware": "統計軟體",
+    "rules": "1.此計畫表為本學期之上課時間表，實際進度將視課程狀況作彈性調整。<br>2.本學期上課會預排坐位,請依照指定坐位入坐,請勿隨意更換坐位,以免誤記缺曠。<br>3.本學期共有六~七次作業，書面報告請按照指定日期繳交，逾期不候，未繳交報告者一律零分計算。 <br>4.參與部份佔學期總分20分，一次點名未到扣1.5分/3節，扣完為止。<br>5.上課請將手機轉為振動，手機響者，扣0.5分/節。<br>★★此為必修課程，請修課學生第一節務必一定要出席，以維護修課權益★★<br>★★★選修者限修過行銷管理或行銷學課程，外系選修請繳交行銷管理或行銷學課程修課證明"
+}

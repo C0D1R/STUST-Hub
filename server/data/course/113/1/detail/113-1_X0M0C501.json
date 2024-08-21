@@ -1,0 +1,111 @@
+{
+    "code": "X0M0C501",
+    "name": {
+        "zh": "勞動法令與爭議處理專題",
+        "en": "Seminar on Legal Proceeding and ADR on Labor Dispute"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩全球經管一乙",
+        "碩研財法一甲"
+    ],
+    "instructors": [
+        "徐智明"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "S410"
+        },
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "S410"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "勞資爭議案件的發生，在現今工商業社會中層出不窮，勞工想要有最好的福利保障，但資方卻要謀取最大的獲利，如何在這之中取得協調、消弭紛爭是本課程重點。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.介紹我國勞資制度的發展過程<br>2.勞資爭議的法律規範<br>3.勞資爭議的法律處理程序<br>4.勞資爭議實際案例分析<br>5.國外勞資爭議處理規範<br>6.國外案例分析比較",
+        "en": "1. Introducing the history of labor management in Taiwan<br>2. Legal regulation of labor-management disputes<br>3. Legal procedure of settling labor-management dispute<br>4. Case study<br>5. Analysis of labor-management disputes cases<br>6. International regulation introduction<br>7. International case study of labor-management disputes"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "分析勞資爭議案件種類",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用案例使學生了解僱傭關係及承攬關係之模糊地帶",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "說明勞資關係發展的現況",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析世界各國勞資關係的演進與發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

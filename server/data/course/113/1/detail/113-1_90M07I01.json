@@ -1,0 +1,127 @@
+{
+    "code": "90M07I01",
+    "name": {
+        "zh": "專案管理專題",
+        "en": "Topics on Project Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研資管一甲"
+    ],
+    "instructors": [
+        "陳炳文"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "T0713"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0713"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0713"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 介紹專案管理重要的議題，包括相關知識、技術與標準，並結合工具與方法涵蓋專案起始、計劃、執行、監控、結束五大程序。<br>2. 後續由學生針對專案管理相關的案例與研究議題進行口頭報告。<br>",
+    "prerequisites": "無先修科目",
+    "syllabus": {
+        "zh": "1. 軟體專案管理概論<br>2. 專案規劃<br>3. 量度與評估<br>4. 專案監督與控制<br>5. 軟體品質管理<br>6. 專案組織與團體運作<br>7. 型態管理<br>8. 風險管理<br>9. 外包管理<br>10.專案中止與結束<br>11.能力成熟度整合模式(CMMI)<br>",
+        "en": "1. Introduction of Software Project Management<br>2. Project Planning<br>3. Measurement and Evaluation<br>4. Project Monitoring and Control<br>5. Software Quality Control<br>6. Project Organization and Team Operation<br>7. Configuration Management<br>8. Risk Management<br>9. Outsourcing Management<br>10. Project Termination and Closure<br>11. Capability Maturity Model Integration Model<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解軟體專案的起始、計劃、執行、監控、結束的管理知識與技術。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練軟體專案管理所需的技能，並能應用於管理實務當中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備使用專案管理的軟體工具的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能指出問題並提供解決方案的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備組織與整合能力，完成各項書面文件及口頭簡報。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,116 @@
+{
+    "code": "10D35801",
+    "name": {
+        "zh": "創意思考",
+        "en": "Creative Thinking"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技製造二甲",
+        "四技製造二乙",
+        "四機械國專二甲"
+    ],
+    "instructors": [
+        "許藝菊"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "E0504"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "E0504"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "創意思考課程在於訓練與學習如何想點子，透過各種思考技巧的演練、各種啟發性案例的討論、小組任務性的實際創作，激發學生構想出賺錢的點子、製造新產品的點子、在競爭中脫穎而出的點子、解決問題的點子、以及用新方法做事的點子等等創意。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 創意的重要性與內涵 -- 未來在等待的人才<br>2. 創意人的信念與態度<br>3. 人類的認知與創造力 <br>4. 分析性創意思考案例與演練--屬性列舉/詳列用途/比較異同/預測後果/重組歸併/指換取代/改頭換面/奔馳法等等<br>5. 啟發性創意思考案例與演練--隱喻類比/假設想像/按圖索驥/勉強關聯/塗鴉幻想/超現實想像/心理分析等等<br>6. 團隊創意思考方法與演練--腦力激盪/創業藍圖",
+        "en": "1. The importance and connotation of creativity -- the talents waiting in the future<br>2. Beliefs and attitudes of the creative people.<br>3. Cognition and creativity of the human. <br>4. Examples and exercises of the analytical and creative thinking.<br>5. Examples and exercises of the inspiring and creative thinking.<br>6. Methods and exercises of the team creative thinking."
+    },
+    "weeklySchedule": "1.創意的重要性與內涵 -- 未來在等待的人才<br>2.創意人的信念與態度<br>3.人類的認知與創造力 <br>4.分析性創意思考案例與演練--屬性列舉/詳列用途/比較異同/預測後果/重組歸併/指換取代/改頭換面/奔馳法等等<br>5.啟發性創意思考案例與演練--隱喻類比/假設想像/按圖索驥/勉強關聯/塗鴉幻想/超現實想像/心理分析等等<br>6.團隊創意思考方法與演練--腦力激盪/創業藍圖",
+    "exams": {
+        "midterm": "作業",
+        "final": "口頭報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "創意的重要性與內涵 -- 未來在等待的人才 創意人的信念與態度",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "人類的認知與創造力",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "分析性創意思考案例與演練--屬性列舉/詳列用途/比較異同/預測後果/重組歸併/指換取代/改頭換面/奔馳法等等",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "啟發性創意思考案例與演練--隱喻類比/假設想像/按圖索驥/勉強關聯/塗鴉幻想/超現實想像/心理分析等等",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

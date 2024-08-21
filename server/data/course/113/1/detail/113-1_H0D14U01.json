@@ -1,0 +1,111 @@
+{
+    "code": "H0D14U01",
+    "name": {
+        "zh": "實務專題(一)",
+        "en": "Research for Special Topic I"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技食品四甲"
+    ],
+    "instructors": [
+        "黃大維"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "讓學生進入老師研究室實際參與執行專題研究，習得研究實驗技巧與架構",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "依各指導教授規定<br>",
+        "en": "according to the rule of supervisor.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習實驗設計的思考邏輯",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用其實際操作行為的知識和技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "定期進度報告及與老師討論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "與同組同學分工合作進行實驗",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "自我調適解決研究上的問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

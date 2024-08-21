@@ -1,0 +1,110 @@
+{
+    "code": "X0M04601",
+    "name": {
+        "zh": "民法-總則",
+        "en": "Civil Law-General Principles"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "碩研財法一甲"
+    ],
+    "instructors": [
+        "宋金比"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "S411B"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "S411B"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "民法為一切私法關係之基礎，而民法總則則是民法各編之基礎。唯有對民法總則之基礎價值理念和原理原則有充分之認識，才能瞭解整部民法之概念形成和體系架構。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "壹、緒論<br>一、民法之架構和編制<br>二、民法思維與請求權基礎<br>三、文獻說明<br>貳、民法之發展與法律之適用\t<br>一、民法之法源<br>二、法律及其解釋<br>三、習慣法和習慣<br>四、法理與類推適用<br>五、判例與學說<br>六、法律之適用<br>七、使用文字之準則和決定數量之標準<br>叁、權利主體<br>一、自然人<br>1、權利能力<br>2、行為能力及其他法律上之能力<br>3、人格權與身份權之保護<br>二、人之住所<br>三、法人<br>1、法人之意義和種類<br>2、法人之能力和責任<br>肆、權利之客體<br>一、物之意義和種類<br>二、財產與企業<br>伍、法律關係與權利體系<br>一、法律關係之意義和結構分析<br>二、權利之意義和類型<br>陸、權利之變動<br>一、私法自治與法律行為制度<br>二、法律行為內容之限制<br>三、行為能力制度<br>四、意思表示及其瑕疵<br>1、意思表示之概念<br>2、意思表示之瑕疵<br>3、意思表示之解釋<br>柒、條件與期限\t<br>捌、代理<br>一、代理制度之功能和法律結構<br>二、代理之要件和法律效果<br>三、代理權之發生、範圍和消滅<br>四、無權代理<br>玖、法律行為之效力\t一、無效<br>二、撤銷<br>三、效力未定<br>拾、期日與期間\t<br>拾壹、消滅時效\t<br>一、消滅時效之意義<br>二、消滅時效中斷與不完成<br>三、消滅時效完成之效力<br>拾貳、權利之行使\t<br>一、行使權利及履行義務<br>二、權利之自力救濟<br>",
+        "en": "1.General Principles<br>2.The Histroy and Application of Civil Law<br>3.The Subject of Rights<br>4.The Object of Rights<br>5.The Legal Relationship and the System of Rights<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解民法之基本原理原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用案例分析來解析民法中抽象之法律概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解民法的本質構造與作用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "民法所規範者即為涉及每個人日常生活中之事務，透過本課程之學習，學生也可將所學實際運用於生活當中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

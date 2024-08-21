@@ -1,0 +1,111 @@
+{
+    "code": "C0N2BO01",
+    "name": {
+        "zh": "英語口語溝通能力檢核",
+        "en": "English Communication Proficiency"
+    },
+    "credit": "0",
+    "type": "必修",
+    "classes": [
+        "夜四技應英四甲"
+    ],
+    "instructors": [
+        "石耀西",
+        "林尹星"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第11節",
+            "location": "N204"
+        },
+        {
+            "day": "週五",
+            "period": "第11節",
+            "location": "N202"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要是針對閱讀聽力受測者表現不佳的學生，檢驗他們是否具有與英國語系國家的人做日常生活溝通的能力。本課程的目的是要學生「能聽懂、能立即反應、能處理日常生活中常見的問題」，要求學生在生活中使用最常用的英文8000字；針對學生表現作分析報告，利於受測者明白本身口語能力的弱點所在。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1 – 4 week: 口語溝通能力的重點<br>5 – 8 week: 口語溝通能力的技巧<br>9 week: 口語溝通能力的訓練<br>10 -14 week: 口語溝通能力的改進<br>15 -18 week: 口語溝通能力的測驗",
+        "en": "1 – 4 week: The key points of oral communication skills<br>5 – 8 week: Techniques for improving speaking communication<br>9 week: training in oral communication skills<br>10 -14 week: Improvement of oral communication skills<br>15 -18 week: Test of oral communication ability"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "加強口說能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練英語文溝通表達之技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "加強臨場反應時的英語能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增加英語應對溝通的經驗",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

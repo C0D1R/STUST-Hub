@@ -1,0 +1,115 @@
+{
+    "code": "70Q09G01",
+    "name": {
+        "zh": "企業流程管理",
+        "en": "Business Process Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專企管一甲"
+    ],
+    "instructors": [
+        "殷世熙"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第5節",
+            "location": "S307"
+        },
+        {
+            "day": "週六",
+            "period": "第6節",
+            "location": "S307"
+        },
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "S307"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Business Process Management(BPM)整合企業內部工作流程分析與資訊系統整合，也包括企業外部交易的應用整合。本課程論述企業流程的持續最佳化，進而改善與提升企業體質；探討流程分析工具與建構方法、系統性流程評估與規劃、藉由資訊技術進行企業流程與資料的整合與監督、流程與管理地整合、流程與制度設計、系統導入與及流程改善的相關議題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. BPM簡介<br>2. 企業流程分類與特性分析<br>3. 企業流程結構的設計<br>4. 流程的品質與績效<br>5. 企業流程資訊系統的基本模組<br>6. 智慧型企業流程管理<br>7. BPM與ERP的應用<br>8. BPM專案管理<br>9. 企業再造工程<br>10. 期刊文獻選讀<br>11. 期末報告<br>",
+        "en": "1. Introduction to BPM<br>2. Business process classification and characteristic analysis<br>3. Design of business process structure<br>4. Process quality and performance<br>5. The basic module of the enterprise process information system<br>6. Smart Enterprise Process Management<br>7. Applications of BPM and ERP<br>8. BPM project management<br>9. Enterprise Reengineering<br>10. Selected journal articles<br>11. Final report"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養BPM之基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉企業營運流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解營運流程與內部控制與稽核之關連",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習衡量流程品質與績效",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

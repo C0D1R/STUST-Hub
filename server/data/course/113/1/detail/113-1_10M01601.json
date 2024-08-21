@@ -1,0 +1,115 @@
+{
+    "code": "10M01601",
+    "name": {
+        "zh": "彈性力學",
+        "en": "Elasticity in Engineering Mechanics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研機械一甲"
+    ],
+    "instructors": [
+        "林儒禮"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "K214"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "K214"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "K214"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在大學所學之材料力學乃利用幾何分析配合適當的假設條件以及簡單的數學運算來分析物體的應力與變形。而在彈性力學中，將以純數學的角度出發來探討力學的原理與現象。一開始需要瞭解應力、應變的基本定義與張量觀念。並由彈性體的控制方程式來解析其應力與位移場。",
+    "prerequisites": "工程數學，材料力學",
+    "syllabus": {
+        "zh": "1.介紹 – 指標表示法與張量<br>2.應力與應變 – 用指標來表示應力、應變、位移等<br>3.等向性材料的材料係數 – 由一般異向性材料的材料係數簡化到等向性材料<br>4.彈性力學的基本理論 – 虎克定律，調合方程式，控制方程式等<br>5.一些彈性力學的簡單問題 – 軸上負荷，扭轉，彎曲等問題<br>6.反平面問題的解析 – 全無窮域、半無窮域、角域以及圓形域問題解析<br>7.平面問題的解析 – 全無窮域、半無窮域之彈性力學問題解析<br>",
+        "en": "1. Introduction – Index notation and tensor.<br>2. Stress and strain – Definition of displacement, strain, stress.<br>3. The elastic constants of isotropic material – The elastic constants of anisotropic and isotropic material.<br>4. The theoretical analysis of isotropic material – Hooke’s law, compatibility and governing equation.<br>5. Some simple problem of isotropic material – Axial load, torsion and bending problems.<br>6. Anti-plane shear problem of isotropic material – Infinite, semi-infinite, wedge and circular domain.<br>7. In-plane problem of isotropic material – Infinite , semi-infinite domain.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解張量運算以及應力、應變與材料組合律等基本觀念，分析簡單的彈性力學問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "講演彈性力學相關之工程問題與應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "撰寫彈性力學相關的報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "閱讀彈性力學相關的英文論文。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

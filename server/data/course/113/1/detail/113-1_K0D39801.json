@@ -1,0 +1,152 @@
+{
+    "code": "K0D39801",
+    "name": {
+        "zh": "字學與編排設計",
+        "en": "Lettering and Typography"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技多樂二甲",
+        "四技多樂二乙"
+    ],
+    "instructors": [
+        "孫志誠"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "W0703"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "W0703"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "W0703"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在使學生透過理論與實習之過程，引導學生明瞭文字之機能性與審美性，培養作為一個設計專業人員所應具備之能力。由編排設計理論，並理解編排設計的觀念和方法，對編排設計的概論、發展、原理、要素、審美、視覺流程、構圖和應用等方面，運用設計元素圖像、文字與色彩，進行實務訓練。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.文字設計導論<br>2.中西文字歷史發展<br>3.文字造形之鑑賞<br>4.中文字形之創造 <br>5.中西字體特質<br>6.文字編排的思考<br>7.圖文的整合<br>",
+        "en": "1.Introduction to Text Design<br>2.Historical development of Chinese and Western Characters<br>3.Appreciation of Typography<br>4.Creation of Chinese Font<br>5.Features of Chinese and Western Typefaces<br>6.Thinking of Typography<br>7.Page Integrations<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.文字設計導論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.中西文字歷史發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.文字造形之鑑賞",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.中文字形之創造",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5.中西字體特質",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6.文字編排的思考",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "7.圖文的整合",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

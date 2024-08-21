@@ -1,0 +1,127 @@
+{
+    "code": "F0D38B01",
+    "name": {
+        "zh": "多媒體動畫設計",
+        "en": "Multimedia Animation Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資傳二甲"
+    ],
+    "instructors": [
+        "葉禾田"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0606"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "W0606"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "W0606"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "此課程為應用數位工具進行2D動畫腳本創作，帶領學生由淺入深導入多媒體的動畫製作。",
+    "prerequisites": "設計基礎、數位影像處理",
+    "syllabus": {
+        "zh": "1.動畫概念與介紹<br>2.動畫元件介紹<br>3.動畫製作<br>4.影音多媒體應用<br>5.實作練習。<br><br>",
+        "en": "1.Introduction to Animation<br>2. Introduction to the animation objects<br>3.The Animation Construction<br>4.The Application of Multimedia<br>5. Implementation<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能夠透過觀察並主動發現問題，透過資料搜尋與統整資訊的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "合作學習完成小組任務，為小組目標共同努力的良好互動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "掌握傳播基本知識與概念，並能善用之",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養動畫專案計畫之構思能力與撰寫技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能建立基本平面設計與編寫分鏡腳本，強化多媒體動畫的基本觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,133 @@
+{
+    "code": "70D23Y01",
+    "name": {
+        "zh": "管理決策",
+        "en": "Management Science"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管三甲",
+        "四技企管三乙",
+        "四技企管三丙"
+    ],
+    "instructors": [
+        "林育德"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S313"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "S313"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "S313"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程針對管理領域相關的基礎問題解決工具，做一簡單但有系統性的介紹，著重的是問題導向的處理模式，觀念的建立與計算技巧。從實際問題出發，訓練學生如何建立問題模式，再藉此模式引入解題的基本觀念與技巧，最後回歸實際問題，做出決策。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 線性方程式<br>2. 矩陣介紹<br>3. 線性規劃—圖解法<br>4. 線性規劃—單形法<br>5. LINDO軟體介紹<br>6. 對偶理論<br>7. 運輸問題<br>8. 網路分析<br>9. 賽局理論<br>",
+        "en": "1. Linear Equations<br>2. Introduction to Matrix<br>3. Linear Programming-Graphical Approach<br>4. Linear Programming-Simplex Method<br>5. LINDO software<br>6. Dual Theory<br>7. Transportation Problems &amp; Assignment Problems<br>8. Network Analysis <br>9. Game Theory"
+    },
+    "weeklySchedule": "第一週：緒論、線性方程式<br>第二週：線性方程式與不等式<br>第三週：矩陣介紹<br>第四週～第五週：線性規劃—圖解法<br>第五週～第八週：線性規劃—單形法(Simplex method)<br>第九週：期中考<br>第十週～第十一週：LINDO軟體介紹<br>第十一週～第十三週：對偶理論<br>第十三週～第十五週：運輸問題<br>第十五週～第十六週：網路分析<br>第十六週～第十七週：賽局理論<br>第十八週：期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能熟悉管理決策的基本原理並具備計算的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "針對管理問題能有效應用適當的管理決策技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能樂觀面對管理問題，並以正向思考來解決問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用管理決策的重要性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "廖慶榮，\"作業研究導論\"，華泰文化事業股份有限公司，2009，ISBN: 978-957-609-755-3，初版 Goldstein, Schneider and Siegel, \"Finite Mathematics &amp; Its Applications\", Pearson International Edition, Pearson Education, Inc., 2007 <br>陳泰佑，楊精松，楊重任，\"管理數學導論\"，東華書局，2008",
+    "teachingSoftware": "請由學校FlipClass數位學習中查詢",
+    "rules": "學期中會有隨堂練習，作為平時成績之實際計算。另有課堂討論、出席率、學習態度之考量。"
+}

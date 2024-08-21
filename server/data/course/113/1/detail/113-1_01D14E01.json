@@ -1,0 +1,99 @@
+{
+    "code": "01D14E01",
+    "name": {
+        "zh": "勞作教育(五)",
+        "en": "Labor Education (V)"
+    },
+    "credit": "0",
+    "type": "必修",
+    "classes": [
+        "五專電機三甲"
+    ],
+    "instructors": [
+        "洪得峻"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以班級教室環境整理為主，由導師指導衛生股長規劃。<br>實施對象及時數:五專一至三年級，1週5天，每日30分鐘。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第1週：<br>由導師協助衛生股長進行班級教室打掃時間及分組規劃。<br>第2～18週：<br>班級同學以分組方式進行教室環境整理，如排桌椅、擦窗戶、掃地、拖地板、黑板、廁所清掃等。於統一時間施作完成，如放學後或早中午時間，並排值日生協助日常維護。<br>第17～18週：<br>1.由衛生股長協助統計出缺席、請假及打掃表現資訊，提供導師評分參考。<br>2.完成學期成績統計，送教務處註冊組公告。<br>",
+        "en": "Week 1<br>The advisor directs the cleaning leader for grouping and clean planning.<br><br>Week 2~18<br>Students have to put the desks and chairs in order, wipe the windows, sweep and mop the floor, wipe the blackboard, clean the restroom, etc. Classmates have to complete the mission within extracurricular time and appoint some students on class-duty to assist with the routine maintenance.<br><br>Week 17~18<br>The cleaning leader calculates the individual grade according to students’ cleaning performance and then submits the scores to the advisor to confirm. Finally, the advisor uploads the scores to the course system.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能透過每天短短的校園清掃過程，體驗享受與回饋之意義，養成勤勞、守時、熱誠抗壓之習性，達到做中學之效益。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由與小組之溝通協調、服務行程安排及服務過程與人群溝通，培養溝通表達能力，提升各項事務處理效益。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "鼓勵學生學習與自我、他人及環境之互動，養成同理、負責、自律、關懷、合作、服務即學習等處事態度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生分組技巧與團隊合作，學習尊重個人及提高自身素質和實現團隊目標。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

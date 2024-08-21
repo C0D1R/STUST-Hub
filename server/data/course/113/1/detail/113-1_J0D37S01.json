@@ -1,0 +1,115 @@
+{
+    "code": "J0D37S01",
+    "name": {
+        "zh": "空間基礎設計",
+        "en": "Space Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技創設二甲"
+    ],
+    "instructors": [
+        "賴孟玲"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0607"
+        },
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "W0607"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "W0607"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程之授課目的主要使同學經由空間基礎設計的訓練建立空間與室內設計的基礎知識、概念與能力，使修課同學瞭解基本設計系統的內涵，掌握基本設計表現技法，並進而建立型態設計、空間設計的表現能力。課程內容主要著重基本設計繪圖能力的養成為重點，並逐步建構修課同學基本設計尺度、建築設計、內容則著重於實地的操作來落實修課同學的都市設計表現能力(分析能力不在本課程的訓練目的中)，並瞭解如何透過圖的表現法來表示空間的觀察與思考。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.空間設計元素的基本技法<br>(1)不同空間中的點、線、面<br>(2)形體與立體<br>(3)空間的構成：點、線、面與形體的交互關係<br>(4)線條、顏色與字體<br>2.空間紋理表現：臨摹的描繪<br>(1)Material:材質<br>(2)Environment:光與影<br>(3)Space:大小與遠近<br>3.空間物件表現：觀察、攝影與描繪<br>(1)基本設計<br>(2)建築元素<br>(3)室內設計元素<br>",
+        "en": "1.Basic techniques of space design elements<br>2.Spatial texture performance<br>3.Observation, photography and depiction<br>4.Architectural element<br>5.Material<br>6.Environment<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "對創意設計有充分理解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備運用手繪工具完成設計作品的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能在公開正式場合以簡明流暢口語讓聽者瞭解本身的提案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "對設計與藝術美學有充分理解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,115 @@
+{
+    "code": "F0N19G01",
+    "name": {
+        "zh": "基礎動畫製作",
+        "en": "Learning Autodesk Maya"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技資傳二甲"
+    ],
+    "instructors": [
+        "劉耀鴻"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "W0608"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "W0608"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "W0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程在瞭解MAYA 3D的製作流程和方式",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Maya 操作模組與界面<br>多邊型建模<br>貼圖<br>燈光與特效<br>骨架綁定與動畫設定<br>",
+        "en": "Primitive / Working with Maya<br>Polygonal Modeling<br>Polygonal Texturing<br>Paint Effects<br>Lights and Effects<br>Rigging / Animation Basics<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解全英文3D動畫軟體的使用概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會3D建模的基本技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會3D動畫的製作方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會3D貼圖彩現的流程及方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

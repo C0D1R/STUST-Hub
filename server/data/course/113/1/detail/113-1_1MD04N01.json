@@ -1,0 +1,115 @@
+{
+    "code": "1MD04N01",
+    "name": {
+        "zh": "勞資關係與職場倫理",
+        "en": "Labor Relations and Workplace Ethics"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "社會科學領域"
+    ],
+    "instructors": [
+        "陳信豪"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "N501"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "N501"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "N501"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要結合專業知識與實際案例，融入勞動關係、就業市場、勞動人權、勞動條件、勞動安全、就業倫理、專業倫理、工作倫理、離職倫理等之重點內涵，讓學生了解自身勞動權益及相關法令規範，建立尊嚴勞動觀念，以保障勞動權益，培養正面的勞動意識與素養，並具備良好的職業倫理知能，以應用於目前或日後之工作職場。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t勞動關係<br>2.\t勞動法令<br>3.\t就業市場<br>4.\t勞動契約<br>5.\t勞動安全<br>6.\t勞動倫理<br>7.\t就業倫理<br>8.\t專業倫理<br>9.\t工作倫理<br>10.\t離職倫理<br>",
+        "en": "1.\tLabor Relations<br>2.\tLabor Laws<br>3.\tEmployment Market<br>4.\tLabor Contract<br>5.\tLabor Safety<br>6.\tLabor Ethics<br>7.\tEmployment Ethics<br>8.\tProfessional Ethics<br>9.\tWork Ethics<br>10.\tResignation Ethics<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立勞資關係與職場倫理的基本知能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用勞資關係與職場倫理的概念於工作及生活領域。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備表達對勞資關係與職場倫理概念之理解，專注聆聽其他同學之見解，針對相關議題進行討論之的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "將所學與實務結合，在面對職場時，能遵守倫理規範，具備理性思維及判斷的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,115 @@
+{
+    "code": "80D1A801",
+    "name": {
+        "zh": "計算機與程式設計概論",
+        "en": "Introduction to Computer and Programming"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技財金一甲"
+    ],
+    "instructors": [
+        "陳可杰"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "S402"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S402"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為使財務金融系同學對於現今資訊科技之發展與應用有初步理解與掌握，本課程包括基本電腦軟硬體，常見辦公室套裝軟體，程式語言及資訊科技於金融領域之應用",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t電腦硬體、週邊設備的架構及功能介紹<br>2.\t作業系統的介紹及操作<br>3.\t數位資安介紹<br>4.\t常見辦公室軟體實作<br>5.\t行動裝置與應用介紹<br>6.\tPYTHON程式語言簡介<br>7.\t行動工具管理APP應用簡介<br>8.\tHTML語言介紹與簡易實作<br>9.\t影像處理軟體介紹與簡易實作<br>",
+        "en": "\tIntroduction to Computer Hardware &amp; Operating System <br>\tOffice Software Applications<br>\tIntroduction to Introduction to Python and HTML <br>\tIntroduction to The Internet and the Web<br>\tIntroduction to Mobile Device<br>\tIntroduction to Security and Privacy<br>"
+    },
+    "weeklySchedule": "週次\t\t內容\t附註<br>1\t\t課程介紹/電腦使用倫理\t<br>2\t\t文書處理軟體練習\t<br>2\t\t簡報軟體練習\t<br>3\t\t試算表軟體練習\t<br>4\t\t試算表軟體練習\t<br>5\t\t國定假日\t<br>6\t\t程式語言概論與實作（一）\t<br>7\t\t程式語言概論與實作（二）\t<br>8\t\t程式語言概論與實作（三）\t<br>9\t\t期中考週\t<br>10\t\t程式語言概論與實作（四）\t<br>11\t\t程式語言概論與實作（五）\t<br>12\t\t程式語言概論與實作（六）\t<br>13\t\t程式語言概論與實作（七）\t<br>14\t\t程式語言概論與實作（八）\t<br>15\t\t資訊科技的應用\t<br>16\t\t資訊科技的應用\t<br>17\t\t資訊科技的應用\t<br>18\t\t期末考週\t<br>",
+    "exams": {
+        "midterm": "無",
+        "final": "無",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能夠熟練使用常見之軟體工具",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能夠了解電腦使用的相關倫理及法律問題",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠使用電腦於自我學習",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠具備電腦的相關基本知識與理論，了解程式設計於解決財金問題的方法",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "提供課堂講義",
+    "teachingSoftware": "",
+    "rules": "請遵守學校對上課行為之規範"
+}

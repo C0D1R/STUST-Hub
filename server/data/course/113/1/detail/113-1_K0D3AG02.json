@@ -1,0 +1,111 @@
+{
+    "code": "K0D3AG02",
+    "name": {
+        "zh": "動漫作品賞析",
+        "en": "Comic publishing and planning"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技多樂二乙",
+        "四技多樂二丙"
+    ],
+    "instructors": [
+        "吳思璿"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "W0708"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "W0708"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在引導學生深入探討漫畫藝術的魅力，培養其對漫畫作品的鑑賞能力和創作能力。同時，也希望能讓學生了解漫畫作為一種文化現象的社會意義和價值，並激發學生對漫畫藝術的熱愛與思考。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.漫畫的藝術基礎<br>2.漫畫的文本解讀<br>3.漫畫的藝術與思想<br>4.漫畫的創作與鑑賞",
+        "en": "1.漫畫的藝術基礎<br>2.漫畫的文本解讀<br>3.漫畫的藝術與思想<br>4.漫畫的創作與鑑賞"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.漫畫的藝術基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.漫畫的文本解讀",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.漫畫的藝術與思想",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.漫畫的創作與鑑賞",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

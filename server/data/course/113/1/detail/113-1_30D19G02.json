@@ -1,0 +1,127 @@
+{
+    "code": "30D19G02",
+    "name": {
+        "zh": "計算機程式及實習",
+        "en": "Introduction to Programming Language"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技電子一乙"
+    ],
+    "instructors": [
+        "方信普"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "J301"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "J301"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "J301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The course covers such topics as programming language characteristics, integrated development environments, flowcharts, algorithms and pseudo codes, variables, operators, conditional statements, looping statements, procedures, error-handling and debugging, procedure-oriented programming techniques, and software modeling.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一.程式入門<br>二.資料型態與運算式<br>三.基本輸入與輸出<br>四.流程控制<br>五.陣列與字串<br>六.函式與巨集<br>七.指標<br>八.變數等級<br>九.C語言進階",
+        "en": "1.Introduction to Programming<br>2.Data Types and Expressions<br>3.Basic Input and Output<br>4.Flow Control  <br>5.Arrays and String<br>6.Functions and Macro<br>7.Pointers<br>8.Variable Classe<br>9.Advanced Topics in C"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "知道如何在撰寫程式之前進行設計程式與規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能撰寫c語言程式解決工程問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養(建立) c語言程式專業知識與技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能夠知道如何透過改變資料結構、演算法及程式的語法或指令，改善程式的執行速度或需要的記憶體。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立c語言程式設計基本知識，具備終身學習之科技基礎。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

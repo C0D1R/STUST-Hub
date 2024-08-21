@@ -1,0 +1,149 @@
+{
+    "code": "1DD04202",
+    "name": {
+        "zh": "數位音效剪輯",
+        "en": "Digital Audio Editing"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技流音一乙"
+    ],
+    "instructors": [
+        "黃昭智"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "W0807"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "W0807"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0807"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "1.Avid Pro Tools 101級國際錄音證照",
+        ""
+    ],
+    "description": "此為入門初級課程，本課程設定於藉由指導學生取得Avid Pro Tools錄音工程音樂製作國際認證，使學生熟悉並能使用Pro Tools數位錄音工作站，以進行數位音效創意製作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.Pro Tools系統功能講解 (基礎錄音、剪輯、混音、特效處理及後製輸出)<br>2.基礎數位硬碟錄音說明<br>3.Pro Tools系統檔案架構解說 (檔案資料、聲音檔案及獨立聲訊區塊之處理)<br>4.基礎Pro Tools系統檔案製作<br>5.基礎Pro Tools系統錄音技術講解-01<br>6.基礎Pro Tools系統錄音技術講解-02<br>7.基礎Pro Tools系統剪輯技術講解-01<br>8.基礎Pro Tools系統剪輯技術講解-02<br>9.期中考試<br>10.數位聲訊資料處理 (匯入與製作處理)<br>11.循環式錄音作業與聲音檔案整合<br>12.淡入淡出處理技巧討論<br>13.Pro Tools系統基礎混音技術與實例講解<br>14.Pro Tools系統AudioSuite 特效處理效果器之使用<br>15.數位節拍器設定與使用說明<br>16.基礎MIDI音樂製作簡介<br>17.基礎後期製作技術講解<br>18.期末考試",
+        "en": "This course covers basic Pro Tools principles, giving students what they need to complete a Pro Tools project, from initial set up to final mix-down. The course has been worked and updated for Pro Tools software. Whether one’s project involves recording of live instruments, MIDI sequencing of software synthesizers, or audio looping, this course will give students the basic skills to succeed.<br>•Getting to know Pro Tools<br>•Getting inside Pro Tools<br>•Creating the first session<br>•Making the first audio recording<br>•Importing media<br>•Making the first MIDI recording<br>•Selecting and navigating<br>•Basic editing techniques<br>•Introduction to mixing<br>•Finishing the work"
+    },
+    "weeklySchedule": "1.Pro Tools系統功能講解 (基礎錄音、剪輯、混音、特效處理及後製輸出)<br>2.基礎數位硬碟錄音說明<br>3.Pro Tools系統檔案架構解說 (檔案資料、聲音檔案及獨立聲訊區塊之處理)<br>4.基礎Pro Tools系統檔案製作<br>5.基礎Pro Tools系統錄音技術講解-01<br>6.基礎Pro Tools系統錄音技術講解-02<br>7.基礎Pro Tools系統剪輯技術講解-01<br>8.基礎Pro Tools系統剪輯技術講解-02 <br>9.期中考試<br>10.數位聲訊資料處理 (匯入與製作處理)<br>11.循環式錄音作業與聲音檔案整合<br>12.淡入淡出處理技巧討論<br>13.Pro Tools系統基礎混音技術與實例講解<br>14.Pro Tools系統AudioSuite 特效處理效果器之使用<br>15.數位節拍器設定與使用說明<br>16.基礎MIDI音樂製作簡介<br>17.基礎後期製作技術講解<br>18.期末考試<br>",
+    "exams": {
+        "midterm": "作業",
+        "final": "上機考",
+        "other": "隨機作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能夠規劃基礎的數位音效專案",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "統整類比音源與數位音源工作",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "在英文介面環境下準確地操作數位音效工作站",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "養成與業界同步的數位音效操作習慣",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠整合各方工作者音效格式於同一個工作站專案",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠製作音效專案供音效前期與中期階段使用者接手工作",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Avid Pro Tools",
+    "rules": "敬告有意願選課的同學們:<br><br>已取得 Avid Pro Tools 各級證照的學生，不得選修此課程。<br><br>任課教師保留所有課程實際實施辦法之更改與解釋之權利。<br><br>無論同學們在 “開學前” 有否選到課，請各位在 “第一次上課時間” 務必 “全程親自到課”，因為任課教師將宣布並立即與同學們溝通 “連續兩個學期” 有關於此課程的所有細節或須知。<br><br>此攸關同學們自身的 ”權利與義務”，請勿因為 “第一次上課時間不出席” 以致無法立即與教師溝通討論細節而自誤! ***"
+}

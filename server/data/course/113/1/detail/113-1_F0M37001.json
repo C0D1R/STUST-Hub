@@ -1,0 +1,127 @@
+{
+    "code": "F0M37001",
+    "name": {
+        "zh": "新媒體與行銷研究",
+        "en": "New Media and Marketing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研資傳一甲"
+    ],
+    "instructors": [
+        "盧祐德"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "W0809"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "W0809"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "W0809"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "此課程主要針對當前傳播工具，例如網站、社群媒體、行動媒體、搜尋引擎、影音youtube等新媒體工具在行銷上的應用，提供分析方法和因應策略。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "評估新媒體的多種形式與其使用效益；<br>瞭解新媒體行銷方式；<br>分析不同的新媒體宣傳活動；<br>區別新媒體與傳統媒體的行銷法則；<br>建立可行性的行銷方案。<br>",
+        "en": "Course covers the planning and integration of new media into marketing plans. Students will learn to set objectives, develop marketing plans, integrate new media into overall marketing and communication plans, utilize new media technologies and general issues affecting social media."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "分析不同的新媒體宣傳活動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "評估新媒體的多種形式與其使用效益",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解新媒體行銷方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "區別新媒體與傳統媒體的行銷法則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立可行性的行銷方案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

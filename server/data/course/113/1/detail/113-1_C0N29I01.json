@@ -1,0 +1,115 @@
+{
+    "code": "C0N29I01",
+    "name": {
+        "zh": "新聞英文",
+        "en": "News English"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技應英三甲"
+    ],
+    "instructors": [
+        "林尹星"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "N502"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "N502"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "N502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course is designed to enhance students’ English ability by providing an overview of media. Students will be able to read some sections of English newspaper and listen to English news without too many difficulties.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Weather<br>Travel<br>Entertainment<br>Health<br>Education<br>Theater/Movie Review<br>",
+        "en": "Weather<br>Travel<br>Entertainment<br>Health<br>Education<br>Theater/Movie Review<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "Familiarize students with vocabulary and registers of English language newpapers",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Develop students’ comprehension strategies for understanding broadcast news reports.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Assist students’ development in business English knowledge and skills",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Facilitate students’ understanding of the workplace through news reports.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,118 @@
+{
+    "code": "60D31V01",
+    "name": {
+        "zh": "國際商情分析",
+        "en": "International Business Analysis"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國企三甲"
+    ],
+    "instructors": [
+        "黃鈺娟"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "S502"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "S502"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "S502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. To let students understand operating environment and managerial framework of international business<br>2. To let students understand relevant issues of international business<br>3. To let students learn more about empirical practices through case study",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "全球化<br>各國政治經濟的差異<br>國家文化差異<br>國際貿易理論<br>國際貿易的政治經濟學<br>區域經濟整合<br>",
+        "en": "Globalization<br>National Differences in Political Economy<br>Differences in Culture<br>International Trade Theory<br>The Political Economy of International Trade<br>Regional economic integration<br>"
+    },
+    "weeklySchedule": "國際企業管理概論<br>國際環境議題<br>跨文化管理<br>國際企業相關理論<br>國際策略管理<br>國際化程序與國際市場　　<br>國際化程序與國際市場進入策略<br>國際策略聯盟與國際購併<br>國際企業組織、控制機制與子公司角色<br>國際生產與國際研發管理<br>國際企業發展關鍵議題<br>個案<br>",
+    "exams": {
+        "midterm": "期中考",
+        "final": "Presentation",
+        "other": "平時作業 上課參與 隨堂測驗 等"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "讓學生能了解國際商情的相關議題",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "讓學生學習統整特定主題之重點、製作簡報資料以及表達。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "讓學生能參與合作，學習與他人溝通、協調及整合不同的意見。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "陳述國際商情的實務資訊。",
+            "teachingMethods": [
+                "課堂講授",
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "國際企業：應用導向4/e ;",
+        "author": "方至民",
+        "publisher": "前程文化",
+        "year": "2019",
+        "ISBN": "9789869688192",
+        "edition": "最新版"
+    },
+    "referenceBooks": "國際企業管理：個案分析<br>Yadong Luo (2008), International Business 2/e, John Wiley &amp; Sons, Inc.<br>Charles W.L. Hill (2014), International Business: competing in the global marketplace 10/e, McGraw-Hill.<br>",
+    "teachingSoftware": "Microsoft office 或其他",
+    "rules": "請遵守智慧財產權及南台規定"
+}

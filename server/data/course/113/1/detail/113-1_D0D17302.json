@@ -1,0 +1,188 @@
+{
+    "code": "D0D17302",
+    "name": {
+        "zh": "會計學",
+        "en": "Accounting"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技行流一乙"
+    ],
+    "instructors": [
+        "林麗芬"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "T0211"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "T0211"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "T0211"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.會計技術丙,乙級",
+        "2.高普考-財稅行政、金融保險"
+    ],
+    "description": "會計基本概念及會計循環，包含分錄、過帳、試算、調整、編表、結帳之講解及演練。<br>1.介紹基本會計定義與其他相關學科之關聯<br>2.說明會計基本方程式與借貸法則<br>3.詳敘與練習整個會計循環：包括分錄、過帳、試算、調整、編表、結帳。<br>4.會計帳簿與傳票<br>5.買賣業會計<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "會計之基本概論<br>會計記錄程序<br>期末調整<br>會計循環之完成<br>買賣業會計<br>帳簿組織與會計憑證<br>一般公認會計原則<br>現金<br>",
+        "en": "ACCOUNTING IN ACTION<br>THE RECORDING PROCESS<br>ADJUSTING THE ACCOUNTS<br>COMPLETION OF THE ACCOUNTING CYCLE<br>ACCOUNTING FOR MERCHANDISING OPERATIONS<br>INVENTORIES<br>ACCOUNTING PRINCIPLES<br>INTERNAL CONTROL AND CASH<br>"
+    },
+    "weeklySchedule": "第1週  第1章 基本概念 (課程說明、大綱、評分標準、考試方式、期末報告規定）<br>第2週  第2章 平時會計處理程序(上)<br>第3週  第2章 平時會計處理程序(下)<br>第4週  第3章 期末調整<br>第5週  第4章 會計循環的完成<br>第6週  第5章 買賣業會計<br>第7週  第6章 現金及約當現金<br>第8週  複習及重點整理<br>第9週  期中考試週<br>第10週  第7章 應收款項<br>第11週  8章 存貨<br>第12週  第9章 不動產、廠房及設備<br>第13週 第10章 負債<br>第14週  第11章 合夥會計<br>第15週  第12章 公司會計<br>第16週  第13章 應付公司債<br>第17週  第14章 投資<br>第18週  期末考試週<br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "ppt授課  日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識會計的功能與角色",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解財務會計架構與國際財報準則觀念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學會企業完整之會計循環與編製報表",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解買賣業會計與存貸問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解現金與應收帳款之會計議題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解讀財務報表，並運用所得資訊協助決策",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "會計學概要",
+        "author": "吳嘉勳",
+        "publisher": "華泰文化",
+        "year": "2022",
+        "ISBN": "978-626-95135-7-4",
+        "edition": "第六版，"
+    },
+    "referenceBooks": "1.孫妙雪  會計學概要,出版社：高點  出版日期：2019/02/25<br>2. 鄭立仁編著  ,會計學 ,高立圖書 ,2018/06/01<br>",
+    "teachingSoftware": "ppt",
+    "rules": "課前預習與課後練習<br><br><br>平時成績: 40% <br> <br>期中考: 30%<br>期末考: 30％<br>"
+}

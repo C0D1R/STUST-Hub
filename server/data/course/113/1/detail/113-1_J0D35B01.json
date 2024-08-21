@@ -1,0 +1,115 @@
+{
+    "code": "J0D35B01",
+    "name": {
+        "zh": "停格動畫設計",
+        "en": "Stop motion design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技動畫二甲"
+    ],
+    "instructors": [
+        "劉千凡"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "W0602"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "W0602"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "W0602"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "<br>本課程著重認識停格動畫的概念與停格動畫的製作方式，並強調影片中運用各式人偶、物體、或黏土等媒材，達成有意義的動作連貫。<br>本課程共分為兩個基本概念：<br>1.認識停格動畫與強化動畫概念之表達。<br>2.透過停格動畫開發動畫動態設計美學與實務整合運用。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.停格動畫概論<br>2.動作表達與技法<br>3.停格動畫創作<br>4.停格動畫風格與形式<br>5.停格動畫綜合練習與創作<br>",
+        "en": "1.Introduction to stop motion animation . <br>2.Motion design and techniques<br>3.Stop motion animation project<br>4.Stop motion styles and formats<br>5.Stop motion practice<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解停格動畫製作原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "啟發動畫創作思考的原創性及動畫創意整合的理念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探索停格動畫美學理念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養動畫動態表達與設計執行力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

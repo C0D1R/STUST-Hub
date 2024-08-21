@@ -1,0 +1,145 @@
+{
+    "code": "40M11801",
+    "name": {
+        "zh": "專題討論(三)",
+        "en": "Seminar (III)"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "碩研化材二甲"
+    ],
+    "instructors": [
+        "王振乾"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "I0702"
+        },
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "I0702"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程包含兩大部份：第一部份為遴聘業界專家或學者做專題演講；另一部份是由研究生上台報告其研究實驗進度與國外文獻等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.聆聽業界專家演講<br>2.聆聽學界專題演講<br>3.投影片的製作<br>4.國際研究論文的整理<br>5.口頭報告練習<br>6.答辯練習<br>",
+        "en": "1.  Gases<br>2.\tThermochemistry<br>3.\tThe Electronic Structure of Atoms<br>4.\tThe Periodic Table <br>5.\tChemical Bonding I: The Covalent Bond<br>6.\t Chemical Bonding II: Molecular Geometry and Hybridization of Atomic Orbitals<br>7.\tIntermolecular Forces and Liquids and Solids"
+    },
+    "weeklySchedule": "第一週  上課方式及注意事項說明<br><br>第二週~第九週  碩二學生專題報告<br><br>第十週~第十七週  碩一學生專題報告<br><br>第十八週 專家演講心得上傳",
+    "exams": {
+        "midterm": "無",
+        "final": "交心得報告",
+        "other": "即時迴饋問答"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能熟知化學與材料工程領域的研究方法",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有調理的將自己的研究成果製成投影片並報告出來",
+            "teachingMethods": [
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能清楚的回答同學或老師的提問",
+            "teachingMethods": [
+                "專題演講",
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "口試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能利用國外網站收集並研讀相關研究文獻",
+            "teachingMethods": [
+                "啟發思考",
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.所有國際SCI論文<br>2.全國博碩士論文<br>3.所有國際EI論文<br>",
+    "teachingSoftware": "Microsoft Power Point",
+    "rules": "1. 學期結束前需自行參加至少三場化工與材料相關專家的演講，同時上傳聽講心得至知識分享平台。<br>2. 學期結束前需自行參加至少二場商管學院或通識中心辦理的專家演講，同時上傳聽講心得至知識分享平台。"
+}

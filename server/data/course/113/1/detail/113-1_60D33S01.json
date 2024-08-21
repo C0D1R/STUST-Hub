@@ -1,0 +1,121 @@
+{
+    "code": "60D33S01",
+    "name": {
+        "zh": "計算機與程式設計概論",
+        "en": "Introduction to Computers and Programming"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技國企一甲"
+    ],
+    "instructors": [
+        "蔡青曄"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "S502"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S502"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在使學生了解資訊安全相關議題，且能使用HTML建置網頁，利用雲端環境撰寫程式以了解程式設計的脈絡及邏輯架構，並能夠使用大數據分析。<br>This course aims to enable students to understand issues related to information security, and be able to use HTML to build web pages, use a cloud environment to write programs to understand the context and logical structure of programming, and be able to use big data analysis.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.數位資安介紹<br>2.HTML語言介紹與簡易實作<br>3.雲端環境程式撰寫簡介<br>4.大數據分析簡介",
+        "en": "1.Introduction to Digital Information Security<br>2.Introduction and Implementation of HTML<br>3.Introduction to Cloud Environment Programming<br>4.Introduction to Big Data Analysis"
+    },
+    "weeklySchedule": "1、課程說明與介紹<br>2、計概相關介紹與操作<br>3、HTML實作簡易的網頁與認識Excel<br>4、使用ChatGPT簡化Excel操作(一)<br>5、使用ChatGPT簡化Excel操作(二)<br>6、Excel優化資料整理與檢查(一)<br>7、Excel優化資料整理與檢查(二)<br>8、相關函數之應用(一)<br>9、期中考週<br>10、相關函數之應用(二)<br>11、VBA自動化處理(一)<br>12、VBA自動化處理(二)<br>13、VBA自動化處理(三)<br>14、網路犯罪與資訊安全<br>15、綜合活用實例（一）<br>16、綜合活用實例（二）<br>17、綜合活用實例（三）<br>18、期末考週",
+    "exams": {
+        "midterm": "上機考試",
+        "final": "上機考試 或 採繳交報告",
+        "other": "平時考及作業(上機操作)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解資訊安全基礎知識，認識社交工程和勒索病毒，知道個人電腦和行動裝置的資安保護。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能以HTML實作簡易的網頁。",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能在雲端環境下撰寫程式，以了解程式設計的脈絡及邏輯架構。",
+            "teachingMethods": [
+                "成果驗收",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解常見的大數據工具有哪些，和知道如何使用大數據分析。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "翻倍效率工作術: 不會就太可惜的Excel×ChatGPT自動化應用",
+        "author": "鄧君如/ 總監製; 文淵閣工作室",
+        "publisher": "碁峰資訊股份有限公司",
+        "year": "2023",
+        "ISBN": "9786263245068",
+        "edition": "初版"
+    },
+    "referenceBooks": "https://www.gotop.com.tw/books/BookDetails.aspx?Types=v&amp;bn=ACI036900<br><br>Excel VBA x ChatGPT x Bing Chat基礎到爬蟲應用：詠唱神技快速生成公式與VBA <br>作者： 蔡文龍/張志成/何嘉益/張力元\t<br>書號： ACI036900\t    出版日： 2023/05/11<br>ISBN： 9786263244962",
+    "teachingSoftware": "WORD、EXCEL、POWER POINT、FlipClass數位學習平台",
+    "rules": "上課用書碁峰資訊，網址：https://www.gotop.com.tw/books/BookDetails.aspx?Types=v&amp;bn=ACI037000<br>1、上課有指定用書，請同學要使用，因課程上課練習、作業及考試一定會用到。（宣導：使用正版，不能影印）<br>2、課程出席率為平時成績重要依據，每次上課均會點名，選修同學請勿心存僥倖，藉口加退選期限故意於前面幾週不出席。<br>3、使用電腦教室，請遵守學校及系上使用電腦相關規定。<br>4、平時成績：40%，期中成績：30%，期末成績：30%<br>"
+}

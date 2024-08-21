@@ -1,0 +1,117 @@
+{
+    "code": "D0D1CL01",
+    "name": {
+        "zh": "電商實務應用",
+        "en": "Practical Applications of the E-Retailers"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技行流四甲",
+        "四技行流四乙"
+    ],
+    "instructors": [
+        "唐楚君",
+        "陳淑慧"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "T0214"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0214"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "T0214"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "從合作廠商營運現場的運作學習「電商實務運作」課程，並體認顧客導向的零售端數位轉型需求及整合方向，進而學習引導思考如何將高科技的數位運用協助企業（特別是中小型及微型企業），進行數位轉型時所需的知識與技術。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "課程單元\t\t\t\t     授課時數<br>電商實務應用概論\t\t\t\t4<br>Google Ads技術\t\t\t\t12<br>Google Ads關鍵字廣告\t\t\t8<br>Google Ads Youtube廣告\t\t\t8<br>電商文案實作\t\t\t\t4<br>網路行銷與SEO實務分享與操作\t\t6<br>未來電商發展\t\t\t\t3<br>個案分析\t\t\t\t\t3<br>期中測驗\t\t\t\t\t3<br>期末報告\t\t\t\t\t3",
+        "en": "Topics\t                                                        Hours<br>Introduction to the practical applications of the E-retailers.\t  4<br>Introduction to Google Adwords \t                                  12<br>Advanced Google Adwrods \t                                  8<br>Google Adwords and Youtube\t                                  8<br>Copy writing in E-retailers\t                                  4<br>Interent marketing and SEO\t                                  6<br>Future development of the E-retailers\t                          3<br>Case studies\t                                                  3<br>Midterm exam\t                                                  3<br>Final exam\t                                                  3<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "讓學員學習門市端（電商）的實務運作流程。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "強化學員門市端虛實整合介面技術認識與運用能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "開發虛實整合介面模式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "強化運用數位行銷企劃的能力以解決營運難題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

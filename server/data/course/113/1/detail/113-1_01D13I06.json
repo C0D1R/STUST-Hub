@@ -1,0 +1,126 @@
+{
+    "code": "01D13I06",
+    "name": {
+        "zh": "基礎專業英文(B2)",
+        "en": "English Communication for Specific Purposes"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技自控二甲",
+        "四技自控二乙",
+        "四技車輛二甲",
+        "四技車輛二乙"
+    ],
+    "instructors": [
+        "石耀西"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "K504"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "K504"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.TOEIC",
+        "2.BULATS"
+    ],
+    "description": "延續大一的英文課程，加強單字能力，增加口語、閱讀練習份量，熟悉專業所需之英文基礎，並進一步加強專業英文聽說讀寫能力及英文檢定測驗之準備工作，以符不同領域內的職場英語需求。",
+    "prerequisites": "1. 本校設有學生免修外語課程實施要點，考取要點中所述之外語能力檢定成績可申請免修。詳情請參閱：http://my.stust.edu.tw/sys/read_attach.php?id=2281382\n\n2. 本課程除正課外，尚有外語自學中心使用時數等相關規定。",
+    "syllabus": {
+        "zh": "基礎專業英文課程分為四大領域─<br>1. Engineering工程 (工學院各科系)<br>授課單元：<br>(1) 資訊傳遞與網路世界 <br>(2) 英語商務會議用語<br>(3) 產品介紹及工作報告 <br>(4) 英語信件往來與電話溝通技巧 <br>(5) 工作進程敘述 <br>(6) 制定工作計畫  <br>(7) 業務銷售討論與訂購產品 <br><br>2. Hospitality &amp; Tourism餐飲&amp;旅遊(幼保系、餐旅系、休閒系、日語系)<br>授課單元: <br>(1) 處理來電與信件往來<br>(2) 顧客與飯店的相關資訊 (訂位、詢問、接待)<br>(3) 飯店設施與服務<br>(4) 餐飲相關服務內容<br>(5) 指引方向<br>(6) 解釋交通工具的選擇<br>(7) 滿足客戶需求<br><br>3. Business &amp; Management商務&amp;管理 (企管系、管資系、財金系、國企系、行流系、會資系、企電學程)<br>授課單元:<br>(1) 工作英語面試<br>(2) 自信社交溝通<br>(3) 電話溝通技能<br>(4) 求職英語<br>(5) 商業英語書信<br>(6) 有效的英語簡報<br><br>4. Workplace職場 (資傳系、多樂系、產設系、視傳系)<br>授課單元:<br>(1) 求職及職務相關英語<br>(2) 英語面試應對<br>(3) 新人報到與交際<br>(4) 英語商務電話<br>(5) 商務會議用語<br>(6) 報告工作進度<br>(7) 業務銷售與訂單事宜討論<br>",
+        "en": "The Four Divisions: <br>1. Engineering <br>(1) Information &amp; Using the Internet<br>(2) English Meetings <br>(3) Reporting, Presentation, and Giving an Update<br>(4) Communication via E-mails and Phone Calls<br>(5) Progress Narrations<br>(6) Making Work Plans<br>(7) Discussing Sales &amp; Orders<br><br>2. Hospitality &amp; Tourism<br>(1) Dealing with Calls and Correspondence<br>(2) Customer Information (Bookings, Enquires, and Reception)<br>(3) Hotel Facilities &amp; Service<br>(4) Serving Food &amp; Drinks <br>(5) Giving Directions &amp; Knowing Your Region<br>(6) Explaining Travel Options <br>(7) Meeting Customer Needs <br><br>3. Business &amp; Management <br>(1) Job Interviews <br>(2) Socializing with Confidence <br>(3) Communication on the Phone <br>(4) Job Hunting <br>(5) Business Writing<br>(6) Powerful Presentations<br><br>4. Workplace <br>(1) Looking for a Job<br>(2) Job Interviews <br>(3) The First Day of Work <br>(4) Telephone Communication<br>(5) Business Meeting <br>(6) Reporting Work Progress <br>(7) Sales Discussion &amp; Placing Orders"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備專業英語基本知能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習各國文化",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習英語聽說讀寫實務溝通技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習以英語應對職場情境需求",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備人文素養及省思能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

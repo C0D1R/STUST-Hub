@@ -1,0 +1,127 @@
+{
+    "code": "50D05101",
+    "name": {
+        "zh": "計算機程式",
+        "en": "Computer Programming"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技工管二甲"
+    ],
+    "instructors": [
+        "曾文宏"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "T0807"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0807"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0807"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹程式語言之語法撰寫，建立程式設計觀念和程式邏輯，培養學生撰寫程式的能力，以解決各種不同的程式問題。<br>",
+    "prerequisites": "計算機概論",
+    "syllabus": {
+        "zh": "1. 電腦程式概述<br>2. 變數與資料型態<br>3. 輸出與輸入 <br>4. 運算子與運算式<br>5. 流程控制結構<br>6. 函數<br>7. 類別<br>8. 模組<br>9. 檔案與例外處理",
+        "en": "1. Introduction to Computer Programs<br>2. Variables and Data Types<br>3. Input and Output<br>4. Operators and Expressions<br>5. Control Structures<br>6. Functions<br>7. Class<br>8. Module<br>9. File and Exception Handling"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解計算機程式模組與基本語法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能準確地操作與編輯計算機程式語言",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能統合程式開發團隊成員的開發內容與進度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能正確陳述軟體開發需求並轉換成程式語法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用正確模式有效解析與呈現軟體設計結果，讓不懂程式語法的使用者亦可以理解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

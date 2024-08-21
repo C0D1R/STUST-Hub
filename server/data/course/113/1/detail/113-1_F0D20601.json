@@ -1,0 +1,121 @@
+{
+    "code": "F0D20601",
+    "name": {
+        "zh": "動態網頁程式設計",
+        "en": "Web Database Programming"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資傳二甲"
+    ],
+    "instructors": [
+        "陳炳彰"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "W0608"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "W0608"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在學習設計網頁程式。透過PHP程式語言，將網頁動態呈現。並搭配MySQL管理資料庫。藉由實例的介紹，使學生了解動態網頁的開發與設計。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程介紹<br>2.PHP變數及資料型態<br>3.PHP的流程控制<br>4.PHP的函數<br>5.陣列、字串<br>6.表單處理<br>7.檔案存取<br>8.MySQL資料庫的使用<br>9.實例介紹",
+        "en": "1.Introduction to the course<br>2.Variants and data types of PHP<br>3.Procedure control<br>4.Functions<br>5.Arrays, Strings<br>6.Process of Forms<br>7.File access<br>8.The use of MySQL<br>9.Introduction to examples"
+    },
+    "weeklySchedule": "Week 1 課程介紹<br>Week 2-3 PHP變數及資料型態<br>Week 4-6 PHP的流程控制<br>Week 7-8 PHP的函數<br>Week 9 期中考<br>Week 10-11 陣列、字串<br>Week 12-13 表單處理<br>Week 14 檔案存取<br>Week 15 MySQL資料庫的使用<br>Week 16-17 實例介紹<br>Week 18 期末考",
+    "exams": {
+        "midterm": "上機考",
+        "final": "上機考",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習動態網頁程式語言",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學習建立一個動態網站",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習程式語言的邏輯概念與問題解決",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養團隊合作能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "PHP8 & MariaDB MySQL網站開發超威範例集",
+        "author": "陳惠貞/陳俊榮",
+        "publisher": "碁峯",
+        "year": "2022",
+        "ISBN": "9786263240179",
+        "edition": "第二版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Dreamweaver, Appserv",
+    "rules": ""
+}

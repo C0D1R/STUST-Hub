@@ -1,0 +1,146 @@
+{
+    "code": "70D27V03",
+    "name": {
+        "zh": "ESG與企業倫理",
+        "en": "ESG and Business Ethics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技企管三丙"
+    ],
+    "instructors": [
+        "呂昭顯"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "S516"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S516"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.介紹企業倫理的立論基礎，主要內容為倫理學的基本概念。<br>2.探討企業倫理的主要議題，包含企業與各利益關係人的對應關係及權利義務。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Part 1企業倫理的立論基礎<br>Part 2企業組織的利益關係人<br>Part 3企業組織的社會責任<br>Part 4專題討論：性別平等議題",
+        "en": "Part 1 Foundations of Business Ethics<br>Part 2 The Stakeholder Approach to Business, Society, and Ethics<br>Part 3 Corporate Social Responsibility<br>Part 4 Gender Equity<br>"
+    },
+    "weeklySchedule": "第一週  第1章：企業倫理的重要性與發展；第2章：對與錯的判斷準繩—企業倫理理論與內涵<br>第二週  第3章：倫理決策；第4章：倫理領導與倫理氣候<br>第三週  第5章：公司治理<br>第四週  第6章：生產倫理<br>第五週  第7章：行銷倫理<br>第六週  第8章：人力資源倫理<br>第七週  第9章：研發倫理<br>第八週  第10章：科技倫理<br>第九週  期中報告<br>第十週    第11章：財務倫理<br>第十一週  第12章：資訊倫理<br>第十二週  第13章：職場倫理<br>第十三週  第14章：顧客倫理<br>第十四週  第15章：競爭倫理<br>第十五週  第16章：社區倫理<br>第十六週  第17章：全球化倫理<br>第十七週  第18章：環境倫理<br>第十八週  期末報告<br>",
+    "exams": {
+        "midterm": "分組報告",
+        "final": "分組報告",
+        "other": "線上測驗、回家作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解企業倫理的立論基礎，包含倫理、道德及價值的概念。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "討論企業經營的倫理議題，引導學生認識企業倫理的意義，進而建立正向的企業經營價值觀。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "提供系統性分析架構，並透過個案討論引導學生有組織、有條理的表達與溝通。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "透過個案討論，引導學生培養正確適宜的行事準則，並能建立職業道德的觀念。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "企業倫理：內外部管理觀點與個案",
+        "author": "孫震、許士軍審訂，陳勁甫、許金田著",
+        "publisher": "前程文化",
+        "year": "2021",
+        "ISBN": "9789868647121",
+        "edition": "3"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "期中報告和期末報告將以\"全國大專校院倫理個案分析暨微電影競賽\"公布之初賽與決賽個案題目為原則。(開學後第一次上課時，會在課程介紹及學期成績計算標準時確定。)<br>"
+}

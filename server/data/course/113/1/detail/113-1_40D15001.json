@@ -1,0 +1,151 @@
+{
+    "code": "40D15001",
+    "name": {
+        "zh": "材料科學與工程(二)",
+        "en": "Materials Science and Engineering (II)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技化材二甲"
+    ],
+    "instructors": [
+        "林宏茂"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": ""
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": ""
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以整合方式介紹金屬、陶瓷與高分子材料的變形與強化機構及其破壞行為，同時教學生看相圖，探討這些材料的相變化及電性行為。最後介紹各種常見的材料如金屬合金、耐火材料、鑽石、塑膠、纖維等。<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第八章 材料的變形與強化機構<br> 8.1金屬材料的變形機構<br> 8.2金屬的強化機構<br> 8.3回復、再結晶與晶粒生長<br> 8.4陶瓷材料的變形機構<br> 8.5高分子的變形機構及其強化<br>第九章 材料的破壞<br> 9.1破壞<br> 9.2疲勞<br> 9.3潛變<br> 第十章 相圖<br> 10.1定義和基本概念<br> 10.2二元相圖<br> 10.3鐵-碳系統<br>第十一章 相變化<br> 11.1金屬的相變化<br> 11.2鐵碳合金中顯微組織與性質的改變<br> 11.3析出硬化<br> 11.4高分子的結晶化、熔融及玻璃態轉移現象<br>第十二章 電性<br> 12.1導電體<br>12.2半導體特性<br> 12.3離子鍵陶瓷與高分子的導電性<br> 12.4介電行為<br> 12.5材料的其他電性<br>第十三章 材料的種類與應用<br> 13.1金屬合金的種類<br> 13.2陶瓷的種類<br> 13.3高分子的種類<br>",
+        "en": "Ch8 Deformation and Strengthening Mechanisms<br> 8.1 Deformation Mechanisms for Metals<br> 8.2 Mechanisms of Strengthening in Metals<br> 8.3 Recovery, Recrystallization, and Grain Growth<br> 8.4 Deformation Mechanisms for Ceramic Materials<br> 8.5 Mechanisms of Deformation and for Strengthening of Polymers<br>Ch9 Failure<br> 9.1 Fracture<br> 9.2 Fatigue<br> 9.3 Creep<br>Ch10 Phase Diagrams<br> 10.1 Definitions and Basic Concepts<br> 10.2 Binary Phase Diagrams<br> 10.3 The Iron-Carbon System<br>Ch11 Phase Transformations<br> 11.1 Phase Transformations in Metals<br> 11.2 Microstructural and Property Changes in Iron-Carbon Alloys<br> 11.3 Precipitation Hardening<br> 11.4 Crystallization, Melting, and Glass Transition Phenomena in Polymers<br>Ch12 Electrical Properties<br> 12.1 Electrical Conduction<br> 12.2 Semiconductivity<br> 12.3 Electrical Conduction in Ionic Ceramics and in Polymers<br> 12.4 Dielectric Behavior<br> 12.5 Other Electric Characteristics of Materials<br>Ch13 Types and Applications of Materials<br> 13.1 Types of Metal Alloys<br> 13.2 Types of Ceramics<br> 13.3 Types of Polymers<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "知道如何強化金屬材料、可分辨延性及脆性破壞、看得懂相圖、熟知材料電的性質",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道如何進行衝擊、潛變及疲勞試驗、熟知如何分析顯微組織與性質之間的變化",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能看得懂材料科學與工程專業名詞",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將所學的材料科學與工程知識應用於日常生活上",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有系統及有組織的回答課堂上老師詢問之專業問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能分工合作如期完成一份專題報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用網際網路平台收集並研讀相關資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

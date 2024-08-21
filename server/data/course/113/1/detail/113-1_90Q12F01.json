@@ -1,0 +1,116 @@
+{
+    "code": "90Q12F01",
+    "name": {
+        "zh": "企業研究方法與學術倫理",
+        "en": "Business Research and Ethics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專資管一甲",
+        "碩專大數據一甲"
+    ],
+    "instructors": [
+        "汪美香"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第9節",
+            "location": "T0713"
+        },
+        {
+            "day": "週六",
+            "period": "第10節",
+            "location": "T0713"
+        },
+        {
+            "day": "週六",
+            "period": "第11節",
+            "location": "T0713"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要介紹1.介紹學術倫理的相關基礎學理，包含倫理學的基本概念。2.當前財務會計、管理會計及審計的學術研究方法、主題及其現況，使碩士班同學對會計學術研究的內涵有所了解，做為未來撰寫碩士論文之基礎。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "PART ONE 學術倫理的理論基礎<br>1.價值觀與倫理<br>2.規範倫理學<br>3.道德認知發展模式<br>4.道德的相對論和客觀主義<br>PART TWO研究方法<br>1. 課程簡介<br>2. 研究設計<br>3. 文獻整理<br>4. 研究方法(一)<br>5. 研究方法(二)<br>6. 論文格式與資料蒐集<br>7. 研究討論（一）事件研究法與資訊內涵研究<br>8. 研究討論（二）盈餘反應係數運用研究<br>9. 研究討論（三）盈餘管理研究<br>10. 研究討論（四）財務預測與破產預測研究<br>11. 研究討論（五）代理理論運用研究<br>12. 研究討論（六）員工紅利與獎酬計畫研究<br>13. 研究討論（七）公司治理研究<br>14. 研究討論（八）管理會計研究<br>15. 研究討論（九）審計議題<br>16. 研究討論（十）非營利事業組織研究<br>17. 研究討論（十一）會計準則研究<br>18. 期末報告<br>",
+        "en": "To introduce the various elements of the scientific method and ethics. This course aims at providing students with research techniques and skills for analyzing quantitative data that may be required for their individual research project, the publication of the research and an academic career."
+    },
+    "weeklySchedule": "Week 1 課程介紹、課程要求、成績考核、資料蒐集<br>Week 2 研究方法概論<br>Week 3 如何進行研究<br>Week 4 研究設計 1<br>Week 5 研究設計 2<br>Week 6 研究計畫書<br>Week 7 訪談法<br>Week 8 訪談法-文章導讀<br>Week 9 期中考<br>Week 10 調查法 <br>Week 11 問卷與量表設計 1<br>Week 12 問卷與量表設計 2<br>Week 13 抽樣程序與方法<br>Week 14 資料準備與描述<br>Week 15 SPSS操作-資料分析一<br>Week 16 SPSS操作-資料分析二<br>Week 17 論文評論<br>Week 18 期末考",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末考",
+        "other": "出席、參與、報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "期使學生能了解學術倫理的基本觀念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "使學生了解論文的基本架構與期刊排名",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "使學生了解論文的實證研究方法",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學會操作簡單的統計軟體.並對統計結果進行分析",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "研究方法",
+        "author": "楊政學著",
+        "publisher": "普林斯頓",
+        "year": "2016",
+        "ISBN": "978-986-5917-67-8",
+        "edition": "初版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "1. 分組進行資料蒐集與報告。<br>2. 就企業研究方法各個角度評論所蒐集文獻資料。<br>3. 期末簡報與書面報告。"
+}

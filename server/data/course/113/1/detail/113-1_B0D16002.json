@@ -1,0 +1,115 @@
+{
+    "code": "B0D16002",
+    "name": {
+        "zh": "統計學(一)",
+        "en": "Statistics(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技休閒二乙"
+    ],
+    "instructors": [
+        "丁千容"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "T0312"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "T0312"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0312"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生瞭解統計學的基本原理，學習蒐集可靠資料，整理分析資料，藉以瞭解事實真相，進而做出準確之決策。內容包括資料的蒐集與整理，分析解釋等敘述統計及由樣本推論母體的估計檢定，迴歸分析，變異數分析等的推論統計。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一單元 敘述統計<br>第1章 緒論<br>第2章 資料蒐集與整理<br>第3章 資料呈現與解釋<br><br>第二單元 機率論<br>第4章 機率概論<br>第5章 間斷性隨機變數<br>第6章 連續性隨機變數<br>第7章 抽樣分配<br><br>第三單元 估計與檢定<br>第8章 母體參數估計<br>",
+        "en": "1. Descriptive Statistics<br>2. Collection and presentation of data<br>3. Description and summary of data<br>4. Probability<br>5. Discrete random variable<br>6. Continuous random variable<br>7. Sampling and sampling distribution<br>8. Estimation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解統計學的基本原理與資料分析的統計方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用Excel製作統計圖表並分析所呈現的資料。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用統計方法到休閒管理領域。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉及描述統計方法與專業語言。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

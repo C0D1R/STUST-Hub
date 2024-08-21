@@ -1,0 +1,136 @@
+{
+    "code": "70M17V01",
+    "name": {
+        "zh": "商業統計應用",
+        "en": "Applied Business Statistics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研企管二甲",
+        "碩全球經管一乙"
+    ],
+    "instructors": [
+        "賴明材"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S209A"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "S209A"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "S209A"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在現實生活中，常會遇到一堆數據資料，要如何運用簡單易懂的方式描述出來，以便大家了解，這就是描述性統計。現今市場競爭日趨激烈，有許多的數據資料需要整理，以便深入市場研究來進行科學的預測決策。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "在現實世界中，統計學是一種運用科學方法與原理，包括資料的蒐集、整理、分析與解釋，並給予結論，以幫助做更有效的決策。統計學包含描述性統計與推論性統計。描述性統計敘述資料樣本的大小，平均值，標準差與資料的分佈。推論性統計探究從母體所抽取的樣本提供的訊息，對母體的特性或參數做推論的方法，推論性統計包含參數估計與檢定假設。本課程亦會教導學生認識及學習如何操作簡單統計軟體。",
+        "en": "In the real world, we collect raw data, code in to the computer, analyze and explain the data and then make a conclusion using statistics. Statistics include the descriptive and inference statistics. Descriptive statistics describe the maximum, minimum and mean value, standard deviation and data distribution. Inference statistics can test the null hypothesis which the researcher is interested in. This lesson can instruct the students to manipulate the simple statistics software as well."
+    },
+    "weeklySchedule": "第一週\t第1章 緒論 <br>第二週\t第2章 項目分析<br>第三週\t第3章 信度效度分析  <br>第四週\t第3章 信度效度分析<br>第五週\t第4章 敘述統計<br>第六週\t第5章 交叉分析<br>第七週\t第6章 因素分析<br>第八週\t第6章 因素分析<br>第九週\t期中作業報告<br>第十週\t期中作業報告<br>第十一週 第8章 T檢定與變異數分析<br>第十二週 第9章 相關分析<br>第十三週 第10章 迴歸分析與多元迴歸I<br>第十四週 第10章 迴歸分析與多元迴歸II<br>第十五週 第11章 路徑分係<br>第十六週 第12章 中介變數干擾變數撓<br>第十七週\t期末口頭報告<br>第十八週\t期末口頭報告",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "口頭報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解資料分析的統計方法與與基本知識。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能利用專業統計軟體分析資料並正確解讀報表。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能將資料轉換成資訊並用以建立管理決策。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能培養正確的學習態度。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "應用統計學 SPSS&AMOS",
+        "author": "李城忠",
+        "publisher": "新文京開發",
+        "year": "2018",
+        "ISBN": "9789864304226",
+        "edition": "第三版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "EXCEL、spss22.0",
+    "rules": ""
+}

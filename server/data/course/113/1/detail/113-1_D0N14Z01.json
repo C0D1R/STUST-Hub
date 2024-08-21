@@ -1,0 +1,105 @@
+{
+    "code": "D0N14Z01",
+    "name": {
+        "zh": "職場實務探索(三)",
+        "en": "Workplace Practice(III)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技行流四甲"
+    ],
+    "instructors": [
+        "唐楚君"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第11節",
+            "location": "T0209"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本門課程預計讓學生以過去所學之專業科目為基礎，將之運用於實務工作中，體驗職場環境，培養就業競爭力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.工作態度與職場倫理<br>2.工廠實務操作<br>3.廠務實習<br>4.工作報告撰寫<br>5.抗壓力學習<br>6.人際關係探討",
+        "en": "1.work attitude and career ethics<br>2.factory/company practice<br>3.shop affairs practical training<br>4.work report writing<br>5.pressure-resistant learning<br>6.interpersonal relationship discussion"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "電腦應用技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "自我行銷能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "穩定度抗壓性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

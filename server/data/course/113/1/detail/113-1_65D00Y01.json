@@ -1,0 +1,140 @@
+{
+    "code": "65D00Y01",
+    "name": {
+        "zh": "服務業管理",
+        "en": "Seminar on Service Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國商四甲"
+    ],
+    "instructors": [
+        "居俐"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "E0507"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "E0507"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "E0507"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The primary purpose of this course is to provide marketers with a framework for effectively growing, managing and marketing service companies, including the policies, strategies and processes for marketing in a service organization.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程將著重於以下要點<br>(1) 研討服務業管理之概念、原則與理論之發展<br>(2) 透過個案與專題探討之方式，將服務行銷管理之概念融入於真實的商業情境分析中。<br>01. 簡介服務行銷之概念 <br>02. 服務品質缺口模式分析法 <br>03. 服務之消費者行為<br>04. 服務之顧客認知與顧客期望<br>05. 透過行銷研究了解顧客<br>06. 顧客關係之建立與管理<br>07. 顧客轉換、顧客維繫與服務缺失補救<br>08. 服務標準、新產品發展與設計<br>09. 實體表徵、服務設施以及服務藍圖<br>",
+        "en": "Introduction to Services Management <br>Part 1 (Foundations)<br>Chapter 2: Conceptual framework of the book (Gaps model of service quality) Chapter 1 : Introduction to Service <br>Part 2 (Focus on the Customer) <br>Chapter 3 : Customer Behavior in Service Chapter 4 : Customer Expectations of Service Chapter 5 : Customer Perceptions of Service Part 3(Understanding customer requirements) <br>Chapter 6 : Listening to Customer through research (Marketing Research) Marketing Research(STP, MDS) Chapter 7 : Building Customer Relationships Middle exam Chapter 8 : Service Recovery <br>Part 4(Aligning Service Design and Standards)<br>Chapter 9 : Service Development and Design Chapter 10 : Customer-Defined Service Standards Chapter 11 : Physical Evidence and Servicescape <br>Part 5(Delivering and Performance Service) <br>Chapter 12 : Employees’ Roles IN Service Delivery Chapter 13 : Customer’ Roles in Service Delivery Chapter 14 : Delivering Service Through Intermediaries and Electronic Channels Chapter 17 : Pricing of Services Chapter 15 16 18<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解服務業管理的相關知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對服務業經營問題有效辨識問題所在",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用服務業管理知識於工作上",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認與他人團隊合作對於完成任務的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能顧客分析，並撰寫服務業策略規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能統整相關服務業問題，提出解決方案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

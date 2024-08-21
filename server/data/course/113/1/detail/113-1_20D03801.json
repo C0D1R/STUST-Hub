@@ -1,0 +1,115 @@
+{
+    "code": "20D03801",
+    "name": {
+        "zh": "電源供應系統",
+        "en": "Switching Power Supply"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電資三甲"
+    ],
+    "instructors": [
+        "朱慶隆"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "I0707"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "I0707"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "I0707"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "交換式電源轉換器電路之分析與設計",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.簡介<br>2.基本交換式電源轉換器電路<br>3.隔離型高頻直流電源轉換器電路<br>4.其它型式之直流電源轉換器電路<br>5.電源轉換器之小信號模式分析<br>6.穩定度之分析與迴授補償控制器之設計<br>",
+        "en": "1 Introduction<br>2. Basic switching power converter circuit<br>3. Isolated high frequency DC power converter circuit<br>4. Other types of DC power converter circuits<br>5. Small signal mode analysis of power converter<br>6. Analysis of stability and design of feedback compensation controller<br>"
+    },
+    "weeklySchedule": "1.簡介<br>2.基本交換式電源轉換器電路<br>3.隔離型高頻直流電源轉換器電路<br>4.其它型式之直流電源轉換器電路<br>5.電源轉換器之小信號模式分析<br>6.穩定度之分析與迴授補償控制器之設計 <br>",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末考",
+        "other": "口頭報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解交換式電源轉換器電路的種類或相關應用嗎？",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解隔離型高頻直流電源轉換器電路的種類或相關應用嗎？",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解小信號模式分析轉移函數的意義嗎？",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解穩定度之分析與迴授補償控制器意義嗎？",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "交換式電源供給器之理論與實務設計",
+        "author": "梁適安",
+        "publisher": "全華",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,127 @@
+{
+    "code": "30D02401",
+    "name": {
+        "zh": "計算機網路",
+        "en": "Computer Networks"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子三丙"
+    ],
+    "instructors": [
+        "薛雲太"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "P203"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "P203"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "P203"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "各種網路的組成、架構, 通訊協定, 功能與效率的分析, 應用及未來發展趨勢",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 網路導論<br>2. 資料通訊,傳輸媒體,資料編碼,實體介面,多工<br>3. 資料連結控制<br>4. 廣域網路<br>5. 區域網路<br>6. 網路路由與交換技術<br>7. 網際網路<br>8. 傳輸控制協定與使用者資料包協定<br>9. 網路應用,管理與安全",
+        "en": "1. Introduction to network<br>2. Data communiction,transmission media,data coding,physical interface,   multiplexing<br>3. Data Link Control<br>4. Wide Area Networks<br>5. Local Area Networks<br>6. Network routing and switching techniques<br>7. Internetworking"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過網路結構教學，建立網路程式設計技術與能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過實際動網路設定，養成電腦網路設計實務經驗。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "撰寫網路程式與模擬",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由撰寫期末報告與上台簡報，訓練學生撰寫學術報告及發表的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生知道網路在產業上的應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

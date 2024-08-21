@@ -1,0 +1,110 @@
+{
+    "code": "70D26V03",
+    "name": {
+        "zh": "專業英文",
+        "en": "Professional English"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技企管三丙"
+    ],
+    "instructors": [
+        "黃峰蕙"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "S516"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "S516"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "讓學生透過課堂演練，來增進他們了解商業實務中專業英語的應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 會議英語<br>2. 業務英語<br>3. 議價英語<br>4. 出差英語<br>5. 職場話題英語<br>6. 溝通協調英語",
+        "en": "1. Meeting English<br>2. Sales English<br>3. Bargaining English<br>4. Business-trip English<br>5. Workplace-topic English<br>6. Communication and Coordination English"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "增進商業實務中專業英文的應用能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能主動學習與體驗商業實務中的專業英文",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進表達與溝通的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過課程的團隊計畫案，來培養正向工作態度與團隊合作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,115 @@
+{
+    "code": "20N1C301",
+    "name": {
+        "zh": "電機專案討論",
+        "en": "Special Projects"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技電機四甲"
+    ],
+    "instructors": [
+        "王瑜婷"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "I0309"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "I0309"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "I0309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "訓練學生瞭解電機領域的實作",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.用一種找到英文專業期刊的方法<br>2.用一套電腦軟體來製作研究報告<br>3.口頭報告<br>4.發覺報告的問題",
+        "en": "1. train students to find English professional periodicals and the ability of studying<br>2. Using a computer software to produce research reports<br>3. Oral defense ability<br>4. Ability for students to ask questions"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "電機工程專題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "網路與館藏資料搜尋",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "簡報製作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "口頭與書面報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

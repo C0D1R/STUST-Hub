@@ -1,0 +1,132 @@
+{
+    "code": "1DD09501",
+    "name": {
+        "zh": "混音實務",
+        "en": "Practical Audio Mixing Techniques"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技流音三甲",
+        "四技流音三乙"
+    ],
+    "instructors": [
+        "黃昭智"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "W1006"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "W1006"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "W1006"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course is designed to make students to obtain the basic knowledge of audio mixing techniques and the practical work.",
+    "prerequisites": "任課教師保留所有課程實際實施辦法之更改與解釋權。",
+    "syllabus": {
+        "zh": "1.音樂與混音簡介 Music and mixing<br>2.混音程序介紹 The process of mixing<br>3.關於監聽 Monitoring<br>4.各式量表 Meters<br>5.混音控台介紹 Mixing consoles<br>6.混音軟體介紹 Software mixers<br>7.相位 Phase<br>8.推桿 Faders<br>9.平移 Panning<br>10.Equalizers (EQ)<br>11.動態範圍處理器介紹 Introduction to dynamic range processors<br>12.壓縮器 Compressors<br>13.限制器 Limiters<br>14.閘門器 Gates<br>15.擴展器 Expanders<br>16.延遲處理器 Delays<br>17.調變工具 Modulation tools<br>18.殘響處理 Reverbs<br>19.失真處理 Distortion<br>20.自動化處理 Automation<br>21.分組實作",
+        "en": "1.Music and mixing<br>2.The process of mixing<br>3.Monitoring<br>4.Meters<br>5.Mixing consoles<br>6.Software mixers<br>7.Phase<br>8.Faders<br>9.Panning<br>10.Equalizers<br>11.Introduction to dynamic range processors<br>12.Compressors<br>13.Limiters<br>14.Gates<br>15.Expanders<br>16.Delays<br>17.Modulation tools<br>18.Reverbs<br>19.Distortion<br>20.Automation<br>21.Group work"
+    },
+    "weeklySchedule": "1.音樂與混音簡介 Music and mixing<br>2.混音程序介紹 The process of mixing<br>3.關於監聽 Monitoring<br>4.各式量表 Meters<br>5.混音控台介紹 Mixing consoles<br>6.混音軟體介紹 Software mixers<br>7.相位 Phase<br>8.推桿 Faders<br>9.平移 Panning<br>10.Equalizers (EQ)<br>11.動態範圍處理器介紹 Introduction to dynamic range processors<br>12.壓縮器 Compressors<br>13.限制器 Limiters<br>14.閘門器 Gates<br>15.擴展器 Expanders<br>16.延遲處理器 Delays<br>17.調變工具 Modulation tools<br>18.殘響處理 Reverbs<br>19.失真處理 Distortion<br>20.自動化處理 Automation<br>21.分組實作",
+    "exams": {
+        "midterm": "分組實作",
+        "final": "分組實作",
+        "other": "隨機作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解混音基礎技術與執行之步驟",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備混音技術基礎能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "執行混音實務工作時間規劃",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "應用業界常見之混音設定與工作法則",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "此課程為112-02學期「錄音實務」之延續型課程，歡迎原本已修習過「錄音實務」的同學繼續選修。<br><br>A. 為避免第二周後續於課程實施在師生間產生不必要之誤會，未全程出席第一周課堂者，任課教師將保留選擇行使下列校方政策「初選及加退選結束後仍有審查作業，不代表中籤或選課後就一定能修該課程」之權力。<br><br>B. 若有包含但不限於下列狀態者，任課教師強烈建議該學生 ”切勿選修本課程”：<br>...(1) 第一周課堂 之後才選課 者<br>...(2) 未出席 第一周課堂 者<br>...(3) 無法配合 第一周課堂 師生討論內容 者<br><br>C. 任課教師保留所有課程實際實施辦法之更改與解釋之權利。"
+}

@@ -1,0 +1,111 @@
+{
+    "code": "C0D5DS01",
+    "name": {
+        "zh": "英美當代流行文化",
+        "en": "British and American Contemporary Pop Culture"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應英二甲"
+    ],
+    "instructors": [
+        "安迪"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "N202"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "N202"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Are you a follower of fashion? Or a devotee to modern trends? How is today's popular culture different to a decade ago? What is driving culture and who thrives off cultural trendsetting?<br>This is an introductory course to try and look at, understand and dig a little deeper into the pop cultures around the world.<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.簡介<br>2.開闊眼界。<br>3.當時和現在的名人。<br>4.時尚。<br>5.藝術。<br>6.音樂。<br>7.設計。<br>8.科技。<br>9.媒體<br>10.教育。<br>11.消費主義。<br>12.控制<br>13.表達自由。<br>14.審查制度。<br>15.革命<br>16.複習。<br>17.簡報<br>18.反饋<br>",
+        "en": "1. Introduction<br>2. Broadening horizons.<br>3. Big names then and now.<br>4. Fashion.<br>5. Art.<br>6. Music.<br>7. Design.<br>8. Tech.<br>9. Media<br>10. Education.<br>11. Consumerism.<br>12. Control<br>13. Freedom of Expression.<br>14. Censorship.<br>15. Revolution<br>16. Review.<br>17. Presentations<br>18. Feedback<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識何謂流行文化",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探討流行文化背後之驅動力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練學生批判思考力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "英文融滲學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

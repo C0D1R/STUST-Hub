@@ -1,0 +1,115 @@
+{
+    "code": "J0D37T01",
+    "name": {
+        "zh": "電腦輔助3D商品設計",
+        "en": "Computer Aided 3D Product Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技創設二甲"
+    ],
+    "instructors": [
+        "王明宏"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "W0808"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "W0808"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "W0808"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "電腦輔助3D商品設計以SolidWorks之軟體為主要的應用軟體。從以前的手工機械製圖，轉變為目前使用電腦來輔助機械繪圖，能達到快速繪圖、容易修改、保存及傳送等優點；製圖過程中尺寸是否錯誤，亦可利用軟體內的分析功能，將錯誤內容予以修正，以達到尺寸零失誤，加工零缺失之狀態，求得產品之品質精確。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.從3D軟體中了解基礎製圖原理<br>2.各種線條的規則與標準，繪圖的流程<br>3.視圖的說明與意義<br>4.3D繪圖指令的應用與區別<br>5.具體案例的建模練習<br>6.練習操作和演練題目<br>7.最終能夠自行完成演練之題目<br>",
+        "en": "1. Understand the basic drawing principle from 3D software<br>2. Rules and standards for various lines, drawing process<br>3. Description and meaning of the view<br>Application and difference of 4.3D drawing instructions<br>5. Specific case modeling exercises<br>6. Practice operations and exercises topics<br>7. Finally, I can complete the exercises on my own.<br>"
+    },
+    "weeklySchedule": "第一週 Blender介面說明與操作<br>第二週 商品建模練習<br>第三週 商品建模練習<br>第四週 商品建模練習<br>第五週 商品建模練習<br>第六週 商品建模練習<br>第七週 燈光算圖設定<br>第八週 燈光算圖設定<br>第九週 期中-課堂作業彙整上傳繳交<br>第十週 物體材質設定<br>第十一週 物體材質設定<br>第十二週 物體材質設定<br>第十三週 公仔建模練習<br>第十四週 公仔建模練習<br>第十五週 公仔建模練習<br>第十六週 公仔建模練習<br>第十七週 環境與燈光、材質渲染<br>第十八週 期末簡報上傳繳交",
+    "exams": {
+        "midterm": "簡報作業",
+        "final": "簡報作業",
+        "other": "課程進度表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解3D軟體的介面使用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建構物體的方式和流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "基礎的商品設計案例建構，了解從無到有的具體3D建模流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "3D建模的材質應用，虛擬商品實際的材質以3D模型呈現",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "Blender 3D基礎建模 : 3D設計新手超入門/ 作者： 游峰碩, 侯宜汝/ 出版日期：2017/02/24/",
+    "teachingSoftware": "Blender 3D(跨平台免費3D繪圖軟體) / 軟體版本: 3.4 / 下載網址:https://www.blender.org",
+    "rules": "1.課堂點名。<br>2.出席次數不可少於學期課程之二分之一，否則以不及格及計算。<br>3.作業內容必須由自己動手製作。<br>4.成績計算:作業(期中、期末)60% + 出席率(次數)20% + 課堂表現20% <br>5.Blender 3D(跨平台免費3D繪圖軟體) / 下載網址:https://www.blender.org"
+}

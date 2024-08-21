@@ -1,0 +1,118 @@
+{
+    "code": "J0M37B01",
+    "name": {
+        "zh": "設計與文化研究",
+        "en": "Design and Cultural Research"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研產設一甲",
+        "碩研產設二甲",
+        "碩研視傳一甲",
+        "碩研視傳二甲"
+    ],
+    "instructors": [
+        "陳重任"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "W0803"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "W0803"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0803"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "從事設計的領域研究利用文化了解來提出創作的源由，設計可以協助文化領域有更多的思考並且從文化政策的角度來談論，而從文化的探究過程理解設計的領域如何能讓設計產業更為巨大。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1-文化的起源<br>2-設計史的脈絡<br>3-文化與現代社會現象<br>4-文化政策<br>5-文化資產保存法與文化創意產業法<br>6-設計的思考邏輯<br>",
+        "en": "1- The origin of culture<br>2- The context of design history<br>3- Culture and modern social phenomena<br>4- Cultural Policy<br>5- Cultural Assets Preservation Law and Cultural and Creative Industries Law<br>6- Design Thinking Logic<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "探討文化變遷與政策研究學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "利用設計的概念提出有關文化的應用改變",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "閱讀外文期刊理解關於設計的國際觀",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以服務的角度建置有關文化設計的價值",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

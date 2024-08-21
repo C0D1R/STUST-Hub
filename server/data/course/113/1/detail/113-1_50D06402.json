@@ -1,0 +1,188 @@
+{
+    "code": "50D06402",
+    "name": {
+        "zh": "統計學",
+        "en": "Statistics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技工管二乙"
+    ],
+    "instructors": [
+        "林高正"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "T0210"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0210"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0210"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹統計方法的基本概念與Excel軟體分析統計資料的操作與解讀。內容包括資料的蒐集與整理，分析解釋等敘述統計及由樣本推論母體的估計檢定，迴歸分析，變異數分析，無母數統計，時間序列分析等。",
+    "prerequisites": "微積分",
+    "syllabus": {
+        "zh": "一、緒論<br>二、敘述統計<br>三、機率概論<br>四、隨機變數<br>五、常用之隨機變數<br>六、抽樣分配<br>",
+        "en": "1. Introduction<br>2. Descriptive Statistics<br>3. Introduction to Probability<br>4. Random Variables<br>5. Fundamental Random Variables<br>6. Sampling Distributions<br>"
+    },
+    "weeklySchedule": "一、緒論：1.何謂統計學；2.統計學的兩個基本概念─群體與樣本；3.統計學的用途。(第一、二週)<br>二、敘述統計：1.資料型態與衡量尺度；2.次數分配及其圖示法；3.集中趨勢量數；4.離中趨勢量數；5.變異係數與 Z 分數；6. Chebyshev 不等式與經驗法則。(第二、三、四週)<br>三、機率：1.機率空間；2.機率的基本性質；3.條件機率；4.貝氏定理；5.統計獨立；6.排列與組合。(第五、六、七週)<br>四、隨機變數：1.隨機變數的概念；2.離散型隨機變數；3.連續型隨機變數；4.聯合機率分配。(第七、八、十週)<br>五、常用離散型隨機變數：1. Bernoulli 分配；2.二項分配；3. Poisson 分配；4.幾何分配；5.超幾何分配；6.負二項分配；7.均勻分配。(第十、十一、十二週)<br>六、常用連續型隨機變數：1.常態分配；2.指數分配；3.均勻分配。(第十三、十四週)<br>七、抽樣分配：1.抽樣與抽樣分配；2.樣本平均數之抽樣分配；3.樣本比例之抽樣分配；4.樣本變異數之抽樣分配。(第十五、十六、十七週)",
+    "exams": {
+        "midterm": "筆試兩節課",
+        "final": "筆試兩節課",
+        "other": "每章結束隔週即可能平時考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解統計方法與基本學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能針對管理問題辨識適當的統計方法，並用以建立管理決策",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用統計方法的重要性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能應用統計方法分析管理實務資料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用Excel 軟體分析資料並正確解讀報表",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現資料分析結果，讓不懂統計專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "統計學導論",
+        "author": "方世榮、張文賢",
+        "publisher": "華泰文化",
+        "year": "2024",
+        "ISBN": "978-626-7395-36-3",
+        "edition": "9th"
+    },
+    "referenceBooks": "1. 顏慧、丁淑方(譯)(2018)，統計學：基礎與應用，第11版，亞洲聖智學習國際出版。 2. 林惠玲、陳正倉 (2009)，統計學：方法與應用，第四版，雙葉書廊。 3. 林惠玲、陳正倉 (2021)，基礎統計學：觀念與應用，第四版，雙葉書廊。 4. Ross (2014), A First Course in Probability, 9th ed. 5. Montgomery &amp; Runger (2007), Applied Statistics and Probability for Engineering, 4th ed. 6. Hoel, Port &amp; Stone (1971), Introduction to Probability Theory. 7. Walpole, Myers, Myers, &amp; Ye (2006), Probability and Statistics for Engineers and Scientists, 8th ed. 8. Hogg &amp; Tanis (2009), Probability and Statistical Inference, 8th ed. (詳細參考書目請閱課堂課程大綱)",
+    "teachingSoftware": "機率論部份備有課程講義。",
+    "rules": "1. 依學校規定，為保障同學受教權，本課程第一週即正式上課。請同學務必進到“FlipClass”教學網頁下載並列印課程大綱。<br>2. 因本課程為重要基礎科目，且內容絕大部份為數學，為避免成績低劣，影響後續課程之學習，請勿缺課。"
+}

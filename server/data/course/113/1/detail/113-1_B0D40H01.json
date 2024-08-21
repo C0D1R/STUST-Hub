@@ -1,0 +1,128 @@
+{
+    "code": "B0D40H01",
+    "name": {
+        "zh": "旅館管理概論",
+        "en": "Introduction to Hotel Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技休閒二甲",
+        "四技休閒二乙"
+    ],
+    "instructors": [
+        "林舜涓"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "T0506"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0506"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0506"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程在使同學瞭解旅館各部門的組織與運作方式，並於學習中了解旅館（飯店）的運中瞭解旅館的運作，以在未來找出適合自己的工作。.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一 課程介紹與旅館業的認識<br>二 旅館的定義與特性<br>三 旅館的分類和分級<br>四 旅館的經營型態<br>五 旅館的組織與分類<br>六 客務部組織與職責<br>七 櫃檯實務<br>八 櫃檯實務 <br>九 期中考<br>十 旅館參觀<br>十一 訂房作業<br>十二 房務部組織與職責<br>十三 房務作業<br>十四 行銷作業<br>十五 行銷作業<br>十六 人事管理<br>十七 安全管理<br>十八 期末考 <br>",
+        "en": "<br>1 Course introduction and understanding of the hotel industry<br>2 Hotel definition and characteristics<br>3 Classification and grading of hotels<br>4 Hotel business model<br>5 Hotel organization and classification<br>6 Department of Customer Service and Responsibilities<br>7 counter practice<br>8 counter practice<br>9 exams<br>10 hotel visit<br>11 Reservations<br>12 Department of Housing and Responsibilities<br>13 Housekeeping<br>14 Marketing operations<br>15 Marketing operations<br>16 Personnel Management<br>17 Security Management<br>18 final exam"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "描述餐旅業的範疇、特性與旅館種類",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解旅館的組織結構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解旅館部門運作及相互關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解具備舖床操作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學習者合作的基本精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

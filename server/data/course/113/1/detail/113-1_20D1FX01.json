@@ -1,0 +1,139 @@
+{
+    "code": "20D1FX01",
+    "name": {
+        "zh": "電源轉換器製作實務",
+        "en": "Manufacture Principle of Power Converter"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "五專電機五甲"
+    ],
+    "instructors": [
+        "李宗勳"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "B002"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "B002"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "B002"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要針對一般電源種類、硬體研製及相關測試進行介紹，與傳統電力電子相關課程的差異會著重於電源系統的實作、應用與動作細節，針對沒有電力電子技術背景之學生，也可以當作入門的課程。另外，本課程將線性電源與交換式電源及電力電子之技術依據實際應用分門別類地詳細介紹。透過以上內容的講授與實作，可以更了解電源系統的細部運作與原理，增進學生電源系統實作與解決電源問題能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 基礎電源<br>2. 儲能元件基礎介紹<br>3. 線性電源調整器LDO<br>4. 變壓器與整流器電路應用<br>5. 切換式電源轉換電路<br>6. 脈波寬度調變訊號分析<br>7. 閉迴路控制原理<br>8. 電源管理積體電路驅動<br>9. 電源轉換電路實作<br>",
+        "en": "1. Power supply introduction<br>2. Energy Storage Foundation Introduction<br>3. Linear Power Regulator Introduction<br>4. Transformer and Rectifier circuit application<br>5. Switching Power Circuit Introduction<br>6. Pulse Width Modulation Signal Analysis<br>7. Closed Loop Control Principle<br>8. Power management IC &amp; Driven circuit Introduction <br>9. Practice of Power Converter<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "電源種類及架構認識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "各類型應用電源基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "電源電路設計基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "變壓器設計基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "閉迴路控制設計基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "電源設計與未來職場之發展性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

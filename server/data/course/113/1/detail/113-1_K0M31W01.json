@@ -1,0 +1,128 @@
+{
+    "code": "K0M31W01",
+    "name": {
+        "zh": "企業設立與營運研究",
+        "en": "Enterprise establishment and operation research"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研資傳一甲",
+        "碩研多樂一甲"
+    ],
+    "instructors": [
+        "廖世傑"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "W0806"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "W0806"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "W0806"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.\t介紹創業前與後，企業主該做什麼？<br>2.\t實際案例介紹互動討論<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "創業基本認識與準備<br>自我評估是否適合創業<br>決定事業型態<br>企業設立<br>企業融資<br>企業稅法<br>企業領導人應有之認知<br>企業領導人的核心能力<br>",
+        "en": "Basic understanding and preparation of entrepreneurship<br>Is self-assessment suitable for entrepreneurship?<br>Decide on career type<br>Establishment of a company<br>Corporate financing<br>Corporate tax law<br>Corporate leaders should have their knowledge<br>Core competence of business leaders"
+    },
+    "weeklySchedule": "1營運單位設立<br>2基本企業營運能力<br>3危機處理能力<br>4基本財務報表閱讀<br>5企業稅法觀念",
+    "exams": {
+        "midterm": "書面報告、上台發表",
+        "final": "書面報告、上台發表",
+        "other": "口頭發表"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "營運單位設立",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "基本企業營運能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "危機處理能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "基本財務報表閱讀",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "企業稅法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

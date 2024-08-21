@@ -1,0 +1,113 @@
+{
+    "code": "1DD06704",
+    "name": {
+        "zh": "專修(三)錄音工程(C2)",
+        "en": "Major Ⅲ Recording Engineering"
+    },
+    "credit": "1",
+    "type": "管制選修",
+    "classes": [
+        "四技流音二乙"
+    ],
+    "instructors": [
+        "黃昭智"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "W1006"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為小班教學，以教授「錄音工程」專長領域之相關理論、實務技巧以及職場倫理，強化學生錄音技能，培養學生專業素養與敬業態度。以作業、考試等方式評量學習成效。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.收音室介紹<br>2.控制室介紹<br>3.收音室的音訊信號工作配置<br>4.控制室中的音訊信號工作配置<br>5.基本音訊工程概念簡介<br>6.音源的定義<br>7.麥克風簡介<br>8.錄音設備和音訊連接介紹<br>9.數位控台簡介<br>10.EQ和壓縮限制器簡介<br>11.Plug-in效果簡介<br>12.分組實作",
+        "en": "1.Introduction to “Booth”<br>2.Introduction to “Control Room”<br>3.Audio Signals working routes in “Booth”<br>4.Audio Signals working routes in “Control Room”<br>5.Introduction to the Concept of Basic Audio Engineering<br>6.Definition of “Sound Source”<br>7.Introduction to Microphones<br>8.Introduction to Recording Facilities and the Audio Connection<br>9.Introduction to Digital Console<br>10.Introduction to Equalizer and Compressor/Limiter<br>11.Introduction to Plug-in Effects<br>12.Group Work"
+    },
+    "weeklySchedule": "1.收音室介紹<br>2.控制室介紹<br>3.收音室的音訊信號工作配置<br>4.控制室中的音訊信號工作配置<br>5.基本音訊工程概念簡介<br>6.音源的定義<br>7.麥克風簡介<br>8.錄音設備和音訊連接介紹<br>9.數位控台簡介<br>10.EQ和壓縮限制器簡介<br>11.Plug-in效果簡介<br>12.分組實作",
+    "exams": {
+        "midterm": "作業",
+        "final": "分組實作",
+        "other": "隨機作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解錄音室基礎技術與執行之步驟。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備錄製與剪輯基礎能力。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "執行實務工作時間規劃。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "應用業界常見設定與工作法則。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "任課教師保留所有課程實際實施辦法之更改與解釋之權利。"
+}

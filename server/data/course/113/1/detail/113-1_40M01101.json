@@ -1,0 +1,140 @@
+{
+    "code": "40M01101",
+    "name": {
+        "zh": "高等輸送現象",
+        "en": "Advanced Transport Phenomena"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研化材一甲"
+    ],
+    "instructors": [
+        "賴孝武"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "I0706"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "I0706"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "I0706"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.化學技術士",
+        ""
+    ],
+    "description": "本學科之課程內容包括(1)動量傳送 (2)熱量傳送 (3)質量傳送 (4)殼動量平衡與層流之流動的速度分佈 (5)殼能量平衡與固體及層流之流動的溫度分佈 (6)固體與層流之流動的濃度分佈。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本學科之課程單元主題包括:<br>(1)殼動量平衡與層流之流動的速度分佈<br>(2)等溫系統之變化方程式<br>(3)多於單一獨立變數之速度分佈<br>(4)殼能量平衡與固體及層流之流動的溫度分佈<br>(5)非等溫系統之變化方程式<br>(6)多於單一獨立變數之溫度分佈<br>(7)固體與層流之流動的濃度分佈<br>(8)多成份系統之變化方程式<br>(9)多於單一獨立變數之濃度分佈<br>",
+        "en": "The Units Topics of This Course Include :<br>(1) Shell Momentum Balances and Velocity Distributions in Laminar Flow <br>(2) The Equations of Change for Isothermal System<br>(3) Velocity Distributions with More than One Independent Variable<br>(4) Shell Energy Balances and Temperature Distributions in Solids and Laminar <br>Flow<br>(5) The Equations of Change for Nonisothermal Systems <br>(6) Temperature Distributions with More than One Independent Variable <br>(7) Concentration Distributions in Solids and Laminar Flow <br>(8) Equations of Change for Multicomponent Systems <br>(9) Concentration Distributions with More than One Independent Variable<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能藉由瞭解動量傳送、熱量傳送及質量傳送之原理以具備化工領域的專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用層流之流動的速度分佈、溫度分佈及濃度分佈於高等輸送現象的例題及習題以具備規劃及執行專題研究的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用殼動量平衡、等溫系統之變化方程式、非等溫系統之變化方程式於例題及習題的練習以具備發表學術論文與工作報告的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能藉由高等輸送現象之例題與習題之練具備解決問題及創新的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能藉由與老師及其他學生討論高等輸送現象之問題以具備協調及溝通的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能上學校的My數位教學平台參考高等輸送現象之授課教材，並且具備收集及分析資料的能力及培養持續學習的習慣與能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,139 @@
+{
+    "code": "E0N0AH01",
+    "name": {
+        "zh": "服務業日語",
+        "en": "The Japanese of the Service Industries"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技應日三甲"
+    ],
+    "instructors": [
+        "陳達謙"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "T0112"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "T0112"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "T0112"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生習得日本及臺灣的一般購物、餐飲、飯店、交通、航空等服務業日語和商業禮儀，並補充日本社會習慣及文化。<br>另透過角色扮演的練習方式使學生能應用所學。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.日本服務業用敬語及從業人員禮儀之學習<br>2.飛機內空服人員的基本應對<br>3.機場及入出境手續等相關用語和會話<br>4.餐廳相關對話<br>5.中、日、西餐菜單介紹及餐具排法<br>6.日本美食街餐飲用語及相關會話<br>7.飯店住宿業務對話<br>8. 百貨公司、零售業的購物會話<br>9. 旅遊交通業會話<br>10. 客訴問題的應對<br>11. 日語組導遊、領隊考照簡介<br>12. 日本服務業人員考照簡介   <br>",
+        "en": "<br>１．日本の接客用の敬語と接客マナーの学習<br>２．航空機の機内用語と会話<br>３．空港、及び、出入国審査の手続きに関する会話<br>４．レストラン関係の用語と会話<br>５．メニューの用語と食器の並べ方<br>６．ホテルの業務関係の会話<br>７．飲食店での会話<br>８．デパート、売店などでの会話<br>９．交通関係の会話<br>１０．顧客のクレーマー、苦情の対処<br>１１．台湾の旅行案内士の試験についての説明<br>１２．日本の接客サービスマナー検定試験の紹介<br><br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過教師講解，理解服務業日語和生活用語的差異所在。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過老師實務經驗的講解，使學生能夠正確地翻譯服務業相關用語。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由分組報告及充分討論和書面資料之呈述，讓學生活用服務業相關用語。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由分組報告的過程，學生可以充分收集服務業相關用語並了解其特殊性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過本課程的解說，讓學生了解台日商服務業的差異性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由課堂展演，讓學表現自我的人文服務藝術的特性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

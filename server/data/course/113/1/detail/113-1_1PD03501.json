@@ -1,0 +1,123 @@
+{
+    "code": "1PD03501",
+    "name": {
+        "zh": "AI人工智慧導論",
+        "en": "Overview of Artificial Intelligence"
+    },
+    "credit": "2",
+    "type": "自選必修",
+    "classes": [
+        "綜合實踐領域"
+    ],
+    "instructors": [
+        "楊智傑",
+        "戴守煌"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "E0508"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "E0508"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "ChatGPT橫空出世和生成式AI浪潮，帶起產業和各種專業領域的轉型與應用機會，同時也引起許多誤解、迷思和誤用的風險。本課程概述人工智慧基本原理、技術演進趨勢、工具應用、社會衝擊等課題，引領同學進行跨領域對話，並透過遊戲式教學與PBL，培養同學們AI協作問題解決能力。<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. AI人工智慧基礎知識：<br>•\tAI發展歷史<br>•\tAI人工智慧基本概念與應用趨勢<br>•\t大型語言模型(LLM)<br>•\t生成式AI工具<br>2. AI的多元應用範例： <br>•\tAI與流行文化(動漫、科幻小說)<br>•\t工程應用 (機器學習、圖像辨識、物聯網、智慧製造)<br>•\t醫療應用<br>3. AI的社會衝擊：<br>•\tAI倫理議題<br>•\tAI與媒體識讀<br>4. 實踐導向的遊戲化專案導向式學習：綜合AI各面向，透過《AI城市2074》教育遊戲模擬2074年未來城市挑戰<br>",
+        "en": "Fundamentals of Artificial Intelligence: <br>•\tHistory of AI development<br>•\tBasic concepts and application trends in AI<br>•\tLarge Language Models (LLM)<br>•\tGenerative AI tools<br>2. Examples of Diverse Applications of AI: <br>•\tAI in popular culture (anime, science fiction)<br>•\tEngineering applications (machine learning, image recognition, Internet of Things, smart manufacturing)<br>•\tMedical applications<br>3. Social Impact of AI: <br>•\tAI ethical issues<br>•\tAI and media literacy<br>4. Practice-oriented Gamified Project-Based Learning: Integrating various aspects of AI through the educational game \"AI City 2074\" simulating future city challenges in 2074<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識並理解AI相關技術名詞、方法與原理，且將知識內化。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉並運用生成式AI基本工具，並與自身專業領域結合。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養對於快速發展之AI理論與技術的自主學習能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "在分組中，能與不同領域的同學透過AI協作，共同培養問題解決能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "對AI產生的社會與倫理議題能加以思辨，並形成自己的想法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,116 @@
+{
+    "code": "36D02701",
+    "name": {
+        "zh": "網路程式設計",
+        "en": "Computer Networks Programming"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子四丙"
+    ],
+    "instructors": [
+        "陳銘哲"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "J301"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "J301"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "J301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.Cisco (CCNA)",
+        ""
+    ],
+    "description": "本課程以你已經對JAVA語言與開發環境有基本認識，並且具備一般的物件導向程式設計概念。從網路概念和網路應用程式開發的完整介紹，透過Internet共享資料的JAVA程式來實現協同作業、檔案傳輸等應用。<br>學生將會學到<br>1. 網路概念和網路應用程式開發的完整介紹。<br>2. 透過Internet共享資料的JAVA程式來實現協同作業、檔案傳輸等應用。<br>3. HTTP、SMTP、TCP/IP的運怍原理以及支援Internet 與Web的其他協定。<br>",
+    "prerequisites": "數位系統設計、計算機結構、C程式語言、及硬體描述語言",
+    "syllabus": {
+        "zh": "第1章網路程式-JAVA<br>第2章網路的基本概念<br>第3章Web的基本概念<br>第4章串流<br>第5章執行緒<br>第6章查詢Internet位址<br>第7章URL與URI<br>第8章Swing中的HTML<br>第9章 用戶端的socket<br>第10章伺服端的socket<br>第11章安全的socket<br>第12章非阻塞式I/O<br>第13章UDP Datagram與Socket<br>第14章群播<br>",
+        "en": "Chapter 1 Network Programming - JAVA<br>Chapter 2 Basic Concepts of the Network<br>Chapter 3 Basic Concepts of the Web<br>Chapter 4 Streaming<br>Chapter 5 Threads<br>Chapter 6 Querying Internet Addresses<br>Chapter 7 URLs and URIs<br>Chapter 8 HTML in Swing<br>Chapter 9 Client-side socket<br>Chapter 10 Server Sockets<br>Chapter 11 Secure Sockets<br>Chapter 12 Non-blocking I/O<br>Chapter 13 UDP Datagram and Socket<br>Chapter 14 Group Broadcasting"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過Internet共享資料的JAVA程式來實現協同作業與檔案傳輸等應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "HTTP、SMTP、TCP/IP的運作原理以及支援Internet與web的其它協定。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生必須以JAVA來查詢資料庫伺服器等所學之軟體程式描述語言解決課堂作業。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生必須以JAVA認識工程技術對環境、社會及全球的影響等所學之軟體程式描述語言解決課堂作業。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

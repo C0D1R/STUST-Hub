@@ -1,0 +1,115 @@
+{
+    "code": "1LD05001",
+    "name": {
+        "zh": "舌尖味蕾的生命美感(A)",
+        "en": "The Culture Beauty of Food and Drink"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "陳金英"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "W0407"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "W0407"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "W0407"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以中國飲食文化的視角為主，聚焦於舌尖味蕾上的生命美感，分別從電影、動漫、文學作品、食物、時尚、廣告等區塊進行解構與建構，透過不同時空背景與文化載體間的交叉互涉、相互辯證，使學生們在分組合作、人際溝通、互動學習中，能提出問題、解決問題，並應用於日常生活中，從而反思自身的飲食生命美感來完成課堂學習的專題報告。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.相見歡-課程介紹與成績評量說明<br>2.中國飲食文化簡介<br>3.聲光味蕾的生命美感反思<br>4.二次元的美食饗宴<br>5.款款情懷的心靈食譜<br>6.期中考核--菜單盛宴進行式<br>7.視覺與味覺的饗宴<br>8.期末專題報告討論<br>9.專題製作成果驗收—期末報告<br>",
+        "en": "1. Course introduction and assessment<br>2. Introduction to Chinese food culture<br>3. A reflection of Chinese food flavour <br>4. A gourmet feast of two dimensions<br>5. A recipe for the soul and feelings <br>6. Mid-term evaluation - a menu feast<br>7. A feast for vision and taste<br>8. Final special project discussion<br>9. An assessment of special project - final report<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "統整飲食文化意義，賦予自我新思維，實踐更具深度的自我生命美感。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "陳述飲食文化的內容情意與形式藝術表達。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "在小組專題討論中，能熱誠合作，完成學習目標。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解飲食與文化、歷史的深度意義，且能於生活中展現反省、理性思辨的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

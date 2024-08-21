@@ -1,0 +1,122 @@
+{
+    "code": "I0D28K01",
+    "name": {
+        "zh": "音樂與律動",
+        "en": "Music And Movement"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技幼保一甲"
+    ],
+    "instructors": [
+        "魏欣儀"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "N005"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "N005"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "由「聆聽」開始，運用音樂律動的元素（力量→空間→時間→關係→移動→團體組成等）於教學中，透過曲式分析及動作設計概念之建立，設計適合各年齡層之音樂律動活動，並且創編音樂律動之表演。",
+    "prerequisites": "參與本課程之學生，務必穿著輕鬆、容易活動之運動服裝，請勿穿著裙裝。",
+    "syllabus": {
+        "zh": "1.音樂與律動之重要性。<br>2.曲式分析。<br>3.動作設計。<br>4.音樂律動遊戲活動之規劃與實施。<br>5.主題式音樂律動教案設計與演練。<br>6.音樂律動表演設計與演練。",
+        "en": "1. The importance of music and movement.<br>2. Musical form analysis.<br>3. Movement design.<br>4. Plan and exercise of movement activities.<br>5. Design and exercise of thematic musical and movement lesson plan .<br>6. Musical movement performance arrangement and exercise."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能善用各類音樂啟發幼兒的即興律動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能選擇適切的音樂設計激發幼兒愛好音樂的律動課程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能透過分組試教過程整合他人的意見並且表達個人看法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能主動積極參與課堂實務操作活動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將所學回饋社會，積極參與服務學習之活動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

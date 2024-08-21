@@ -1,0 +1,122 @@
+{
+    "code": "I0D02001",
+    "name": {
+        "zh": "器樂",
+        "en": "Percussion Instruments"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技幼保二甲"
+    ],
+    "instructors": [
+        "魏欣儀"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "W0911"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "W0911"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "敲敲打打是幼兒的天性，打擊樂器是幼兒最易親近上手的樂器，也常應用於幼兒的課程與表演活動中。本課程先認識各種類型打擊樂器及操作方式，了解打擊樂器的特色及特性，來進行器樂合奏及創編；課程亦會介紹打擊樂器於幼兒教學之應用，以及如何設計幼兒表演活動。本課程可以認識打擊樂器，增進音樂能力，運用於幼兒教學。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 無調性打擊樂器操作<br>2. 有調性打擊樂器操作<br>3. 器樂合奏與編創<br>4. 打擊樂器於幼兒教學之應用<br>5. 幼兒表演活動設計<br>6. 創意敲打秀<br>",
+        "en": "1. Atonal percussion <br>2. Tonal percussion <br>3. IEnsemble and Arrangement<br>4. The application of percussion instruments in early childhood teaching<br>5. Design of children's performance activities<br>6. Creative percussion<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能操作各種類型打擊樂器",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能創編並表演器樂合奏",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以創意方式表現樂器",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能欣賞並表演器樂",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能培養人際溝通及團隊合作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

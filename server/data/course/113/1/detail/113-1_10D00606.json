@@ -1,0 +1,193 @@
+{
+    "code": "10D00606",
+    "name": {
+        "zh": "工程材料",
+        "en": "Engineering Materials"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技車輛二乙"
+    ],
+    "instructors": [
+        "盧建源"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "R401"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "R401"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "R401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "首先介紹材料科學與材料工程的差異與重要性，同時介紹各類工程用材料的種類與應用範疇。接下來從原子單元開始介紹材料的晶體結構與缺陷的觀念，並配合材料機械性質與相圖的介紹，來說明材料結構與機械性質的關係。最後將介紹材料相變態與熱處理製程應用，讓同學了解各種工程用材料的製程、結構與材料性質間之關聯性。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.材料科學介紹與原子結構：包括(1)材料科學與工程簡介；(2)原子結構與原子間的鍵結。<br>2.晶體結構與缺陷原理：包括(1)結晶固體的結構；(2)固體的不完整性與缺陷。<br>3.材料機械性質與強化原理：包括(1)金屬的機械性質及(2)差排與強化機構。<br>4.材料破損簡介：包括(1)破裂的原理簡介；(2)疲勞破損簡介；及(3)材料高溫潛變行為介紹。<br>5.相圖應用、相變態及熱處理實務簡介：包括(1)相圖簡介與應用；(2)金屬相變態反應簡介；及(3)熱處理製程技術介紹。<br>6.相關工程材料簡介及實務應用：含(1)金屬材料、(2)陶瓷材料、(3)高分子材料及(4)複合材料簡介與應用。<br><br>",
+        "en": "1.Introduction of Materials Science and Atomic Structure: (1) Introduction to Materials Science and Engineering; (2) Atomic Structure and Interatomic Bonding.<br>2.Crystal Structures and Defects Concepts: (1) Metallic Crystal Structures; (2) Imperfections in Solids; (3) Defects in Metals.<br>3.Mechanical Properties and Strengthening Mechanisms: (1) Mechanical Properties of Materials; (2) Concepts of Stress and Strain; (3) Deformation and Dislocations; (4) Mechanisms of Strengthening in Metals.<br>4.Introduction to Failure Behaviors: (1) Fundamentals of Fracture; (2) Fatigue Behaviors; (3) Creep Behaviors.<br>5.Phase Diagrams, Phase Transformations and Heat Treatments: (1) Concepts and Applications of Phase Diagrams; (2) Phase Transformations in Metals; (3) Microstructural Changes in Iron-Carbon Alloys; (4) Heat Treatments of Ferrous and Non-ferrous Metals.<br>6.Introduction to Engineering Materials and Industrial Applications: (1) Metal Alloys; (2) Glass and Ceramics; (3) Polymers; (4) Composite Materials<br>"
+    },
+    "weeklySchedule": "第一週至第二週：材料科學介紹與原子結構，包括(1)材料科學與工程簡介；(2)原子結構與原子間的鍵結等。<br>第三週至第五週：晶體結構與缺陷原理，包括(1)結晶固體的結構；(2)固體的不完整性與缺陷。<br>帝六週至第八週：材料機械性質與強化原理，包括(1)金屬的機械性質及(2)差排與強化機構等。<br>第九週：期中考試。<br>第十週至第十二週：材料破損簡介，包括(1)破裂的原理簡介；(2)疲勞破損簡介；及(3)材料高溫潛變行為介紹等等。<br>第十三週至第十五週：相圖應用、相變態及熱處理實務簡介，包括(1)相圖簡介與應用；(2)金屬相變態反應簡介；及(3)熱處理製程技術介紹等。<br>第十六週至第十七週：相關工程材料簡介及實務應用，含(1)金屬材料、(2)陶瓷材料、(3)高分子材料及(4)複合材料簡介與應用等。<br>第十八週：期末考試。",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "不定時小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能具有不同材料判別的能力",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能具備材料設計與應用基本技術",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能具備材料設計從業人員之專業態度",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解材料的使用安全及其應用領域",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解工程材料專用之英文術語",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "工程材料科學(第三版)",
+        "author": "洪敏雄, 王木琴, 許志雄, 蔡明雄, 呂英治, 方冠榮, 盧陽明",
+        "publisher": "全華圖書",
+        "year": "2020",
+        "ISBN": "9789865033415",
+        "edition": "第三版"
+    },
+    "referenceBooks": "（1）『材料科學與工程』3/e，陳恒清、楊子毅及張柳春編譯，歐亞書局有限公司<br>（2）『材料科學與工程導論』6/e，陳文照等譯 (William D. Callister, JR.)，高立圖書公司<br>（3）『材料科學與工程』，Donald R. Askeland原著，蔡丕樁等編譯，全華圖書公司<br>（4）『材料科學導論:機械材料』，Schaffer等原著，龔吉合等譯，滄海書局<br>（5）『材料科學與工程』，Lawrence H. Van Vlack原著，李志偉等譯，文京圖書公司<br>（6）『材料科學與工程』，William D. Callister, Jr &amp; David G. Rethwisch原著，張春柳編譯，歐亞圖書有限公司",
+    "teachingSoftware": "",
+    "rules": "【1】鼓勵同學正確的上課學習態度，本課程請同學準時到達教室上課，上課期間個人行動電話請設定為震動靜音功能，並收離桌面，以免影響老師上課與同學的權益。違反規定將會適度扣其平時分數的成績。<br>【2】本課程學期成績評量方法為：期中考試成績佔30%，期末考考試成績佔40%，平時成績戰30%（主要評分依據為各章習題作答成績，並參酌個人出勤狀況及課堂表現加減分數）。學期成績以60分為及格標準。<br>【3】請上課同學必須準備筆記上課，期末考試本學期將試辦open book方式考試，請大家上課時抄寫筆記，以提升上課品質。"
+}

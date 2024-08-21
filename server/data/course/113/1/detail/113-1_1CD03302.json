@@ -1,0 +1,116 @@
+{
+    "code": "1CD03302",
+    "name": {
+        "zh": "設計概論",
+        "en": "Introduction to Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技產設一甲",
+        "四技產設一乙"
+    ],
+    "instructors": [
+        "王文雄"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "X301"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "X301"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "X301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程內容由設計的本質談起，介紹各類設計領域與重要設計議題。主要的目的在於建立學生正確的設計概念，以奠定日後學習設計領域的良好基礎。<br>The content of course begins with the nature of design and introduces various design areas and important design issues.<br>The purpose is to establish the correct design concept for students to lay a good foundation for learning design in the future.<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(1)設計領域<br>(2)產品設計<br>(3)視覺傳達設計<br>(4)數位媒體設計<br>(5)空間設計<br>(6)設計史<br>(7)文化創意設計<br>(8)綠色設計 <br>(9)通用設計 <br>(10)感性設計<br>(11)未來設計思維發展",
+        "en": "(1) About Design <br>(2) Product design<br>(3) visual communication design<br>(4) Digital media design<br>(5) Space design<br>(6) Design history<br>(7) Cultural and creative design<br>(8) Green design<br>(9) Universal design<br>(10) Sensible design<br>(11) Future design thinking development<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生了解設計史",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生具有基礎的設計觀",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生了解完整的設計領域",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生了解經典設計作品",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

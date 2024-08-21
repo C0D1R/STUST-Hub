@@ -1,0 +1,145 @@
+{
+    "code": "70D27I01",
+    "name": {
+        "zh": "行銷個案分析",
+        "en": "Case Study on Marketing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管三甲",
+        "四技企管三乙",
+        "四技企管三丙"
+    ],
+    "instructors": [
+        "郭幸萍"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S515"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S515"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "S515"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "行銷個案旨在介紹行銷個案之本質、技術與範圍，本課程的重點在個案分析方法，期使你學會運用個案分析方法於行銷管理與行銷研究的問題上。本課程將優先介紹最常用的行銷個案，包含行銷組合與顧客滿意策略，並特別強調資料分析技術的觀念性基礎、應用及解釋。 討論以培養學生批判與專業分析能力為主，探討個案分析方法在行銷管理與行銷研究上之應用。",
+    "prerequisites": "行銷管理、研究方法\nMarketing Management, Research Method",
+    "syllabus": {
+        "zh": "1. 市場可行性研究<br>2. 行銷競爭分析<br>3. 廣告效果評估<br>4. 推廣效果評估<br>5. 企業行銷個案討論與分析",
+        "en": "1. Market Feasibility Study<br>2. Competitive analysis<br>3. Advertising effectiveness assessment<br>4. Evaluation of promotion results<br>5. Discussion and Analysis of Enterprise Marketing Cases"
+    },
+    "weeklySchedule": "第 一 週： 管理實務個案分析課程介紹與基本概念<br>第 二 週： 個案分析選擇與分配<br>第 三 週： Section II:國外知名企業管理個案分析<br>第 四 週： Section I:臺灣本土個案分析<br>第 五 週： Section II:國外知名企業管理個案分析<br>第 六 週： Section I:臺灣本土個案分析 <br>第 七 週： Section II:國外知名企業管理個案分析<br>第 八 週： 網路行銷個案分析分組報告<br>第 九 週： 網路行銷個案分析分組報告<br>第 十 週： 網路行銷個案分析分組報告<br>第十一週： Section I:臺灣本土個案分析<br>第十二週： Section I:臺灣本土個案分析<br>第十三週： Section II:國外知名企業管理個案分析<br>第十四週： Section I:臺灣本土個案分析<br>第十五週： Section II:國外知名企業管理個案分析<br>第十六週： 期末分組報告<br>第十七週： 期末分組報告<br>第十八週： 期末分組報告<br>（實際上課內容得依學生實際學習情況調整）",
+    "exams": {
+        "midterm": "第6,7,8節個案討論及口頭報告",
+        "final": "第6,7,8節個案討論及口頭報告",
+        "other": "第8,10,16,17周,第6,7,8節個案討論及口頭報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解策行銷管理的核心觀念與知識。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考",
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能具備收集行銷環境相關資料之技能。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能利用行銷管理專業知識進行管理個案的資料收集與個案報告。",
+            "teachingMethods": [
+                "分組討論",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能將行銷管理個案研究撰寫成完整的個案報告。",
+            "teachingMethods": [
+                "分組討論",
+                "啟發思考",
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能培養正確的學習態度。",
+            "teachingMethods": [
+                "分組討論",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "同儕互評",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "企業管理:實務個案分析",
+        "author": "戴國良",
+        "publisher": "五南",
+        "year": "2023",
+        "ISBN": "9786263438460",
+        "edition": "8版"
+    },
+    "referenceBooks": "商業周刊<br>天下雜誌<br>遠見雜誌",
+    "teachingSoftware": "無",
+    "rules": "1.指定個案及收集資料進行個人個案報告，並帶領同學討論。<br>2.期末報告全班以每組4-5人為原則，最多分成10-12組進行個人個案報告期，自行尋找與行銷相關的的議題報告。 <br>3.期末報告(每組40-50分):可以個案公司或主題方式進行，未參與報告者及報告當天未出席者一律零分計算。<br>4.作業繳交部分請每位同學除了自己的個案分析以外，另選擇同組其他組員的任二篇個案，撰寫個案後面的討論題目之答案及讀後心得。<br>5.上課請將手機轉為振動，上課請勿使用NB或上網，違者扣參與分數。<br>6.此課程著重在學生參與討論,發言部分佔總分20分,以上課發言次數作為計算基礎,請同學於選課時慎慎考慮。<br>7.此表為本學期之上課時，實際將視課程進度作彈性調整<br>★★限修過行銷管理或行銷學課程學生選修，外系選修請繳交修課證明★★<br>★★此為選修課程，請修課學生第一節務必一定要出席，以維護選修權益★★"
+}

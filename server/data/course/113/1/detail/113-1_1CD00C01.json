@@ -1,0 +1,143 @@
+{
+    "code": "1CD00C01",
+    "name": {
+        "zh": "基礎產品設計(A)",
+        "en": "Basic Product Design"
+    },
+    "credit": "3",
+    "type": "管制必修",
+    "classes": [
+        "四技產設二甲"
+    ],
+    "instructors": [
+        "陳亞麟"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "P405"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "P405"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "P405"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "面對新世界的挑戰產品設計師對市場的期待、社會的責任與環境的保護之間總是需要有很多的思考與追求。自工業革命以來，產品設計所扮演叫角色已超過兩百年了，本課程將會讓年輕的產品設計師透過對產品開發過程的瞭解，進而開始對產品設計生涯之旅的一個啟蒙課程。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.產品設計過程的講解<br>2.產品、市場與消費者的概述<br>3.消費性產品設計的介紹<br>4.生活產品設計的介紹<br>5.家具設計的介紹<br>6.工藝產品的差異<br>7.使學生熟悉產品設計過程與製作<br>",
+        "en": "1.Product Design Process<br>2.Product, Market and Customer<br>3.Customerize Product Design<br>4.Life product design introduction<br>5.Funitrune Design introduction<br>6.Craft Design differencication<br>7.Understanding of product design process and execution<br>"
+    },
+    "weeklySchedule": "Phase 1<br>1.Introduction<br>2.資料收集與討論 Post-it/A1*5<br>3.Analysis &amp; Categorization - Idea Sketch A3*20<br>4.Ideation - Sketch Refinement/EK model *5<br>5.Quick Forming - EK Refinement*3/3D*1/3Views<br>6.Final Model/3D/3View<br>7.Presentation<br><br>Phase 2<br>1.資料收集與討論<br>2.概念發想與討論<br>3.草模 EK * 5<br>4.3D模型<br>5.草模 EK * 3<br>6.3D修正<br>7.3D修正、模型製作討論<br>8.3D 工程圖、CMF確認、模型製作<br>9.模型製作<br>10.Presentation<br><br>(work in progress and subject to change)",
+    "exams": {
+        "midterm": "報告",
+        "final": "報告",
+        "other": "隋堂發表"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能夠從生活中發現問題，並能用設計來解決",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解產品設計的程序與過程",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養產品設計所需要的技能和能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "設計提案的口語表達能力訓練",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "團隊合作的模式演練",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠將創意與設計進行完整的融合",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期中"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "產品設計的原型與模型 / 作者：比雅克．霍格里森/著, 林銘煌/審稿 / 譯：楊久潁 / 出版社：旗標 , 2013",
+    "teachingSoftware": "",
+    "rules": "授課與出席規則<br><br>因故請假，提前告知老師、助教或班代並提出相關資訊。<br>上課遲到10分鐘後，記一次遲到，學期總平均扣2分。<br>三次遲到計為一個曠課，三次曠課，本學期出席成績為0。<br>請假、曠課等未出席次數總計達六次者，本學期不給予學期成績。<br>缺課請自行向同學或班代詢問上課與作業細節。<br>手機或者是不相關的電子設備必須在上課時開啟靜音模式或關閉。<br>所有作業提交必須「準時」、「格式正確」、「數量無誤」，違者該作業不予與計分。<br><br>學期評估（學生從以下授課基礎上進行評估）<br><br>出席規則如上<br>課堂參與討論／授課溝通與回饋 - 30％<br>授課作業／專案品質／改進後效果 - 70％"
+}

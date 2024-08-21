@@ -1,0 +1,128 @@
+{
+    "code": "M0D17G01",
+    "name": {
+        "zh": "疾病飲食調理實作",
+        "en": "Disease Diet Cooking Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技餐旅四甲",
+        "四技餐旅四乙"
+    ],
+    "instructors": [
+        "劉美媛"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "T0402"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "T0402"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "T0402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.傳授學生基本營養學知識。<br>2.透過實務教學讓學生認識疾病與飲食的相關性及與烹調技巧改變對疾病的預防策略。<br>3.加強學生對健康養生飲食烹調興趣。",
+    "prerequisites": "食物製備及烹調技術",
+    "syllabus": {
+        "zh": "1.探討營養對疾病的防治重要性、疾病的治療飲食種類，到營養支持，達到持續的營養照護目的。<br><br>2.主要以健康飲食及國人常見疾病營養治療，如代謝症候群、糖尿病、高血壓及癌症等進行介紹，結合時下流行常見的健康飲食、地中海飲食、生酮飲食等等，讓學員更具有實用性與貼近日常生活所需，以結合疾病膳食療養以緩解疾病惡化。<br><br>3.讓學生了解具體的食物份量與熱量分析計算方式。示範餐食搭配與營養成分分析，瞭解飲食份量及如何有效應用調整飲食，進而改善疾病的發生。<br><br>4.從食材採購、製備烹調方式，針對各種疾病的飲食的製作過程進行調整，了解疾病製備調整原理，具體的餐點示範與製作過程。<br>",
+        "en": "1.Understand the importance of nutrition in the prevention and treatment of diseases, the types of diet for disease treatment, and nutritional support to achieve the purpose of continuous nutritional care.<br><br>2.Introduce healthy diet and nutritional treatment of common Chinese diseases, such as metabolic syndrome, diabetes, hypertension and cancer, etc., combined with popular diet, such as healthy diet, Mediterranean diet, ketogenic diet, etc., to make students more practical and relevant Daily needs, combined with disease dietary regimen to alleviate disease progression.<br><br>3.Let students understand the specific food portion size and caloric analysis calculation method. Demonstrate meal combinations and nutritional composition analysis to learn about dietary portions and how to effectively adjust your diet to improve the occurrence of diseases.<br><br>4.Let students understand the procurement of ingredients, preparation and cooking methods, the preparation process of disease-related drinks, the principles of disease preparation and adjustment, and the specific meal demonstration and production process.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "讓學生能了解營養對疾病的防治重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓學生能認識國人常見疾病飲食營養治療種類",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓學生能認識食物份量與熱量分析計算方式並能實際計算餐食營養成分",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓學生能了解食材採購、製備烹調過程進行調整，了解疾病製備調整原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓學生實際參觀醫院治療飲食大量製備方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

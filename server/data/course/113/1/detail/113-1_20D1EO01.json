@@ -1,0 +1,115 @@
+{
+    "code": "20D1EO01",
+    "name": {
+        "zh": "Linux程式設計",
+        "en": "Linux Programming"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技醫電三甲"
+    ],
+    "instructors": [
+        "陳有圳"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "B503"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "B503"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "B503"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程是針對欲學習Python應用程式開發的軟體專業人員所設計的入門課程，重在Python物件導向程式語言及基本觀念，熟悉Python開發工具的操作以並可撰寫Python應用程式。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1簡介與環境介紹<br>2基本資料型態<br>3條件控制<br>4迴圈<br>5群集型態<br>6函式<br>7模組與套件<br>8物件導向<br>9第三方函式庫應用",
+        "en": "1 Introduction and Environment Introduction<br>2 Basic data types<br>3 conditional control<br>4 laps<br>5 Cluster type<br>6 functions<br>7 Modules and kits<br>8 Object-oriented<br>9 third-party library applications"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "條件控制、迴圈",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "模組與套件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "物件導向",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "第三方函式庫應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

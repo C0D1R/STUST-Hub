@@ -1,0 +1,115 @@
+{
+    "code": "J0D38K02",
+    "name": {
+        "zh": "構成設計",
+        "en": "Composition Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技商設一乙"
+    ],
+    "instructors": [
+        "陳姿汝"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "W0605"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "W0605"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "W0605"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "構成設計是為一門基礎設計課程，課程內容分為兩部分：一為平面設計，另一為立體設計。平面設計是探求二度空間世界的視覺文法、形象之建立、骨骼之組織，各種元素之構成規律與規律之突破等，立體設計則主要著重在材料、結構、機能、空間原理、立體造形之構成表現等之探討，二者皆不脫「造形」及「構成」為主的創意思考設計。而課程規劃分為兩大主軸，第一為「基礎理論」之認識，包含設計詞彙之了解、生活美學之體驗、基本造型能力之培養等，第二為「創作應用」之練習，包含視覺創造力之訓練、設計工具之使用、造型技巧之實作等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程大綱介紹<br>2.基本設計概論<br>3.形態構成原理<br>4.平面構成元素<br>5.平面構成方法<br>6.立體構成元素<br>7.立體構成方法<br>8.構成設計案例分析<br>9.構成設計綜合練習<br>10.構成設計成果展示<br>",
+        "en": "1.Course Introduction and syllabus<br>2.Introduction to basic composition design<br>3.The principle of form and composition<br>4.The elements of 2D composition<br>5.The methods of 2D composition<br>6.The elements of 3D composition<br>7.The methods of 3D composition<br>8.Case studies of composition design<br>9.Comprehensive practice of composition design<br>10.Final presentation of composition design"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養學生了解基本設計的元素和觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生具備設計構成的形式和方法，作為未來視覺傳達設計之應用基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成學生探索設計構成的材料組合，強化作品實作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練學生應用構成設計手法作為設計溝通之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

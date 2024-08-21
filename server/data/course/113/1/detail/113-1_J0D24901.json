@@ -1,0 +1,123 @@
+{
+    "code": "J0D24901",
+    "name": {
+        "zh": "畢業專題",
+        "en": "Design Thesis"
+    },
+    "credit": "4",
+    "type": "必修",
+    "classes": [
+        "四技商設四甲"
+    ],
+    "instructors": [
+        "黃綝怡"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "4",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "畢業專題係以結合產業與學術之設計主題研究，也是檢視學生在四年的求學階段中的一項重要的檢視課程。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(1) 主題定訂<br>(2) 設計專案企劃書撰寫<br>(3) 設計專案時程管理<br>(4) 設計實務專題製作<br>(5) 專題發表<br>(6) 展示與競賽<br>",
+        "en": "(1) Topic<br>(2) Planning writing of design project<br>(3) Process management of design project<br>(4) Design practice production<br>(5) Project presentation<br>(6) Exhibition and competition<br>"
+    },
+    "weeklySchedule": "透過課後分組討論，進行階段性的審查與展演。",
+    "exams": {
+        "midterm": "期中提報",
+        "final": "期末展演、作品集",
+        "other": "課堂出席、互動回饋"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "(1) 能了解主題定訂",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "(2) 能建立設計專案企劃書撰寫",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "(3) 能針對設計專案時程管理",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "(4) 能整合設計實務專題製作",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "(5) 能建立專題發表",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "(6) 能針對設計展示與競賽",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "於規定時間，須完成每次提報。"
+}

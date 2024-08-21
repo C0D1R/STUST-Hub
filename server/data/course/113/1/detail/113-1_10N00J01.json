@@ -1,0 +1,115 @@
+{
+    "code": "10N00J01",
+    "name": {
+        "zh": "車輛元件設計",
+        "en": "Vehicle Element Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技車輛四甲"
+    ],
+    "instructors": [
+        "瞿嘉駿"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "R402"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "R402"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "R402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生熟悉車輛元件設計之基本原理與觀念，內容包括車輛傳動件:離合器，煞車，皮帶傳動，鏈條傳動，鋼索傳動, 齒輪傳動。並包括車輛結件: 螺紋扣接, 焊接, 铆接。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "(1)應力分析: 法線應力, 剪應力, 合成應力, 摩爾圓.<br>(2)車輛傳動件: 軸，離合器，煞車，皮帶傳動，鏈條傳動，鋼索傳動, 齒輪傳動. <br>(3)車輛結件: 螺紋扣接, 焊接, 铆接.<br>(4)強度設計: 降伏強度, 疲勞強度, 應力集中, 安全因數.<br>(5)磨損設計: 表面硬度, 磨損設計.",
+        "en": "(1)Stress analysis: normal stress, shear stress, combined stress, Mohr’s circle.<br>(2)Vehicle transmission elements: shaft, brake, belt transmission, wire transmission, chain transmission,gear transmission.. <br>(3) Vehicle fastening elements: thread fastening, welding,    riveting.<br>(4)Strength design: yield strength, fatigue strength, stress concentration, safety factor.<br>(5) Wear design: surface hardness, wear design.."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉熱強度與磨損設計之基本原理，並以此為基礎設計車輛元件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解圖表數據對元件設計之物理意義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能規劃選擇各種不同車輛元件之相關參數",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀車輛元件設計專業用之英文資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

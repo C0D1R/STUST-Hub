@@ -1,0 +1,127 @@
+{
+    "code": "1ND03H01",
+    "name": {
+        "zh": "健康與醫美資訊科技現況與未來",
+        "en": "Current status and future of health and beauty information technology"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "自然科學領域"
+    ],
+    "instructors": [
+        "林祐丞"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "E0404"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "E0404"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "E0404"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "資訊科技的進步是現今健康與醫美產業裡進步最快速的一部份，不但提昇健康照護能力，也朝向更快速、更方便、更貼近一般民眾生活的方向前進中。利用本課程, 使學生了解現今健康與醫美資訊科技的發展情況，並有效運用資訊軟硬體，以輔助完成個人的生活、工作需求與負責事項，並提高媒體素養及健康識能。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t介紹健康資訊的基礎<br>2.\t健康資訊如何成為生活的一部份<br>3.\t「台灣健康雲計畫」, 取得自己的健康資訊<br>4.\t遠距醫療的現況與未來<br>5.\t大數據分析, 醫療的利器<br>6.\tAI 人工智能，如何改變醫療及健康產業<br>7.\t醫美產業的現況與未來<br>8.\t未來趨勢—個人化醫療<br>",
+        "en": "1. Introduce the basics of health information<br>2. How health information becomes a part of life<br>3. \"Taiwan Health Cloud Project Picture\", get your own health information<br>4. Current status and future of telemedicine<br>5. Big data analysis, a useful tool for medical treatment<br>6. AI artificial intelligence, how to change the medical and health industry<br>7. The current situation and future of the medical aesthetics industry<br>7. Future trends—personalized medicine<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解健康資訊如何被建立、保管",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用資訊科技取得自己的健康資訊",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解偏遠醫療的困境與資訊科技如何協助",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習大數據與人工智能如何影響人類生活",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解醫美產業的現況與未來發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

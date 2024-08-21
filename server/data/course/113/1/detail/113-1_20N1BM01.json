@@ -1,0 +1,122 @@
+{
+    "code": "20N1BM01",
+    "name": {
+        "zh": "環安衛概論",
+        "en": "Introduction to environmental safety and hygiene"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜四技電機二甲"
+    ],
+    "instructors": [
+        "陳彥銘"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "I0307"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "I0307"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "對於工業安全與衛生的觀念作系統化的介紹, 使學生了解各種工業危害及預防的方法",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 安全衛生法規簡介<br>2. 實驗室安全衛生概論<br>3. 危害通識<br>4. 輻射安全<br>5. 事故的預防<br>6. 墜落災害預防<br>7. 電氣安全<br>8. 工作安全分析與安全作業標準<br>9. 個人防護具<br>10. 緊急應變",
+        "en": "1. Introduction to regulations of safety and health<br>2. Introduction to laboratory safety and health<br>3. General knowledge of hazards<br>4. Radiology and safety <br>5. Prevention of incidents<br>6. Process hazard analysis<br>7. Falling protection <br>8. Electricity safety<br>9. Personal protection equipments <br>10. Emergency dealing with"
+    },
+    "weeklySchedule": "第 一 週 第1章 概論<br>第 二 週 第2章 工業安全衛生組織<br>第 三 週 第3章 檢查和控制程序<br>第 四 週 第4章 排除工作的危險<br>第 五 週 第5章 行為和工業安全<br>第 六 週 第6章 安全教育與訓練<br>第 七 週  期中考<br>第 八 週 第7章 職業災害通報紀錄和統計<br>第 九 週 第8章 職業災害調查分析<br>第 十一 週 第9章 工廠設備安全要領 <br>第 十二 週 第10章 火災防範<br>第 十三 週 第11章 滅火和控制<br>第 十四 週 第12章 應變計畫與復原<br>第 十五 週 第13章 個人防護具<br>第 十六 週 第14章 工業安全和個人設施<br>第 十七 週 第15章 職業病預防<br>第 十八 週 期末考",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末作業",
+        "other": "日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解工業安全",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解傷害頻率和傷害嚴重率",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解電氣安全、火災防範、危害物質管理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解機器設備安全、手工具安全與工業衛生",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "工業安全及衛生",
+        "author": "游逸駿、莊坤遠、林孟龍 編著",
+        "publisher": "高立圖書",
+        "year": "民106年",
+        "ISBN": "978-986-412-728-3",
+        "edition": "十一版"
+    },
+    "referenceBooks": "書名:工業安全及衛生<br>書局:高立圖書<br>編號:0063",
+    "teachingSoftware": "無",
+    "rules": "讓同學了解有關工業安全，與個人防護、職業災害等相關問題的重要性。<br>"
+}

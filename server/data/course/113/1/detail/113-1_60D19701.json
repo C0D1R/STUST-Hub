@@ -1,0 +1,176 @@
+{
+    "code": "60D19701",
+    "name": {
+        "zh": "國際貿易實務",
+        "en": "Practice of International Trade"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國企二甲"
+    ],
+    "instructors": [
+        "張淑玲"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "S512"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S512"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S512"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.勞委會-- 國貿業務丙、 乙級技術士技能檢定",
+        "2.進出口公會 國貿局--國際貿易大會考"
+    ],
+    "description": "先介紹國際經貿情勢及貿易型態，再依交易過程先後敘述其內容，從初步接洽開始，中間經報價、接受訂約、以迄交貨、付款為止，作有條理的說明，並附實習題讓學生練習及操作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、國際貿易實務概論<br>1. 國際貿易的種類<br>2. 國際貿易的主體及客體<br>3. 我國對外貿易發展概況<br><br>二、貿易條件<br>1. 貿易條件之意義<br>2. 貿易條件之解釋規則<br>3. Incoterms 2000<br><br>三、出、進口貿易程序<br>1. 國際貿易付款之方式<br>2. 出口貿易之程序<br>3. 進口之貿易程序<br><br>四、國際貿易契約的主要條件<br><br>五、出、進口價格計算<br>1. 出口價格之構成因素<br>2. 進口價格之構成因素<br><br>六、報價與接受<br>1. 詢價<br>2. 報價<br>3. 還價<br>4. 接受<br><br>七、簽訂貿易契約書<br>1. 貿易契約書之內容<br>2. 貿易契約書之實例 <br><br>八、信用狀<br>1. 信用狀的定義<br>2. 信用狀關係人<br>",
+        "en": "A. Introduction of International Trade<br>1. The Style of International Trade<br>2. Subject and Object of International Trade<br>3. The Development of Taiwan’s International Trade<br><br>B. Trade Trems<br><br>1. The Construction of Trade Terms<br>2. The Rules for the Interpretation of Trade Terms<br>3. Incoterms 2000<br><br>C. The Import-Export Procedure<br><br>1. Payment Method of International Trade<br>2. Export Procedure<br>3. Import Procedure<br><br>D. The Terms and Conditions of Transaction<br><br>E. Price Calculation of Import/Export<br>1. The Factor Structure of Export<br>2. The Factor Structure of Import<br><br>F. Offer / Acceptance <br>1. Inquiry<br>2. Offer <br>3. Counter Offer<br>4. Acceptance<br><br>G. The International Sale Contract<br>1. The Contents of International Sale Contract<br>2. The Illustration of International Sale Contract<br><br>H. Letter of Credit<br>1. The Definition of Letter of Credit<br>2. The Parities of Letter of Credit<br>"
+    },
+    "weeklySchedule": "一、國際貿易實務概論<br>1. 國際貿易的種類<br>2. 國際貿易的主體及客體<br>3. 我國對外貿易發展概況<br><br>二、貿易條件<br>1. 貿易條件之意義<br>2. 貿易條件之解釋規則<br>3. Incoterms 2000<br><br>三、出、進口貿易程序<br>1. 國際貿易付款之方式<br>2. 出口貿易之程序<br>3. 進口之貿易程序<br><br>四、國際貿易契約的主要交易條件<br><br>五、信用狀<br>1. 信用狀種類<br>2. 信用狀之內容與說明<br><br>六、貨物運輸及保險<br>1. 海運運輸、航空貨物運輸<br>2. 運輸保險<br><br>七、出口押匯、進口結匯<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "口試、筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解國際貿易的流程作業及與相關國際貿易慣例及法規",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能應用國際貿易知識操作貿易實務流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能應用貿易專業用語及英文與客戶書信往來或溝通",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能體認進行國際貿易時仍須考慮關懷他人與社會的利益",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有效呈現貿易主題之重點",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用國際商務軟體進行電子商務",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "操作貿易實務流程時能與各相關單位充分溝通與表達",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "國際貿易實務",
+        "author": "張錦源、康惠芬",
+        "publisher": "五南圖書出版社",
+        "year": "2024",
+        "ISBN": "9786283931091",
+        "edition": "16版"
+    },
+    "referenceBooks": "國際貿易實務 / 劉正松 黃清正 / 前程出版社<br>國際貿易實務 / 蔡孟佳 / 智勝書局<br>國際貿易實務 / 蔡緣、翁正恣 、劉淑琴  /華泰文化 最新版",
+    "teachingSoftware": "",
+    "rules": ""
+}

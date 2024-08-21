@@ -1,0 +1,115 @@
+{
+    "code": "10N00S01",
+    "name": {
+        "zh": "物理",
+        "en": "Physics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技自控一甲"
+    ],
+    "instructors": [
+        "林重達"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "K401"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "K401"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "K401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹電力與電場、電能與電容、電流與電阻、電流與電阻、反射與折射、鏡子與透鏡等基本觀念與相關演算方法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元一: 等加速度運動<br>單元二: 二維/三維運動<br>單元三: 力學&amp;運動 I<br>單元四:力學&amp;運動 II<br>單元五: 功&amp;動能<br>單元六: 位能與能量守恆<br>單元七: 質心與動量",
+        "en": "Chapter 1 : Constant Acceleration Motion<br>Chapter 2 : Two/Three Dimension Motion<br>Chapter 3 : Force &amp; Motion I<br>Chapter 4 : Force &amp; Motion II<br>Chapter 5 : Work &amp; Kinetic Energy<br>Chapter 6 : Potential Energy &amp; Conservation of Energy<br>Chapter 7 : Center of Mass &amp; Momentum<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解基本物理觀念與其應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備從事工程科學所需觀察、分析、思考之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將基本物理學之原理應用於工程及日常生活中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由撰寫物理作業，訓練學生處理問題的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

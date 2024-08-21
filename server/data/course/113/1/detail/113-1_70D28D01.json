@@ -1,0 +1,116 @@
+{
+    "code": "70D28D01",
+    "name": {
+        "zh": "人工智慧應用",
+        "en": "Artificial Intelligence Application"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管二甲",
+        "四技企管二乙"
+    ],
+    "instructors": [
+        "汪世義"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S309"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "S309"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "S309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "這門課程介紹人工智慧概念、應用技術如機器學習、自然語言處理、資料探勘等，並探討人工智慧在各領域的應用。通過課程，學生們能掌握核心技術和了解實際應用場景，培養對人工智慧的認知和理解。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "一、人工智慧簡介<br>二、機器學習、自然語言處理與深度學習<br>三、應用實例",
+        "en": "1. Introduction to artificial intelligence<br>2. Machine Learning, Natural Language Processing and Deep Learning<br>3. Applications"
+    },
+    "weeklySchedule": "第1~2週 人工智慧簡介與相關原理<br>第3~4週 人工智慧發展趨勢與應用領域<br>第6~17週 人工智慧應用軟體操作",
+    "exams": {
+        "midterm": "報告",
+        "final": "實作",
+        "other": "報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解人工智慧的基本概念和發展歷史",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "認識機器學習、自然語言處理與深度學習基本原理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "探索未來人工智慧的發展趨勢和應用領域",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "人工智慧應用軟體操作",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "ChatGPT 4 Omni 萬用手冊<br>蔡宜坦、施威銘研究室<br>旗標書局",
+    "teachingSoftware": "",
+    "rules": "若有可加選的名額，以第一次有上課者優先。<br>請第一次『上課前』先告知！<br>PS:第一次上課極為重要，務必前來了解此課程是否適合！"
+}

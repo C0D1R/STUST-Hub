@@ -1,0 +1,115 @@
+{
+    "code": "30D1FI01",
+    "name": {
+        "zh": "基礎電子學實習(一)",
+        "en": "Fundamentals of Electronics Lab (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專電子二甲"
+    ],
+    "instructors": [
+        "邱裕中"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "J201"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "J201"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "J201"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "基礎電子學實習(一) 是一門配合基礎電子學理論課程的實驗課程，旨在通過實際操作和實驗加深學生對電子學基本概念和原理的理解。課程涵蓋基本電路的設計與測試、電子元件的應用以及實驗數據的分析與解釋，為學生提供動手實踐的機會。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.實驗室安全與基本儀器使用<br>實驗室安全規範<br>常用電子儀器的操作方法<br>儀器的校準與測量技巧<br><br>2.基本電路搭建與測試<br>電阻分壓電路<br>串聯與並聯電路的測試<br>基本電路的設計與分析<br><br>3.電源供應與負載測試<br>直流電源的使用<br>電源與負載的匹配<br>電壓與電流的測量<br><br>4.二極體特性與應用<br>二極體的正向與反向特性測試<br>整流電路的搭建與測試<br>鉗位電路與穩壓電路的應用<br><br>5.三極管特性與應用<br>三極管的特性曲線測試<br>基本放大電路的設計與測試<br>開關電路的應用<br><br>6.交流電路與阻抗測試<br>交流電源與負載測試<br>阻抗的測量與分析<br>濾波電路的設計與測試",
+        "en": "1.Lab Safety and Basic Instrument Usage<br>Laboratory safety regulations<br>Operation methods of common electronic instruments<br>Instrument calibration and measurement techniques<br><br>2.Basic Circuit Construction and Testing<br>Resistor divider circuits<br>Testing series and parallel circuits<br>Design and analysis of basic circuits<br><br>3.Power Supply and Load Testing<br>Use of DC power supplies<br>Matching power supplies with loads<br>Measuring voltage and current<br><br>4.Diode Characteristics and Applications<br>Testing forward and reverse characteristics of diodes<br>Building and testing rectifier circuits<br>Applications of clipping and voltage regulation circuits<br><br>5.Transistor Characteristics and Applications<br>Testing transistor characteristic curves<br>Designing and testing basic amplifier circuits<br>Applications of switching circuits<br><br>6.AC Circuits and Impedance Testing<br>Testing AC power supplies and loads<br>Measuring and analyzing impedance<br>Designing and testing filter circuits"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "掌握基本電子元件的實驗測試方法。\n熟悉常用電子測量儀器的操作。\n能夠設計並搭建基本電子電路。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備進行實際電路搭建與測試的能力。\n能夠分析並解釋實驗數據，解決實際工程問題。\n理解電子元件在實際工程中的應用與限制。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養實驗設計與數據分析的能力。\n能夠查閱和理解相關電子實驗技術文獻。\n激發對電子學實驗的興趣，持續學習新技術。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠將不同的電子元件與模組進行整合，設計完整的實驗電路。\n理解並應用系統整合的基本原理。\n培養系統性思維，完成從需求到實驗的整個過程。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

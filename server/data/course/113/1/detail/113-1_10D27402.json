@@ -1,0 +1,115 @@
+{
+    "code": "10D27402",
+    "name": {
+        "zh": "工程圖學及實習",
+        "en": "Engineering Graphics and Practice"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技製造一乙"
+    ],
+    "instructors": [
+        "陳璟璿"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第1節",
+            "location": "K412"
+        },
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "K412"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "K412"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生能具備工程圖讀、識、畫之能力，以能於自動化之製造系統整合規劃時判別圖形之正確性及符合所需。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1、圖學概論與線法<br>2、正投影<br>3、立體圖<br>4、尺寸標誌與公差配合<br>5、幾何公差與表面粗度<br>6、輔助視圖、剖面圖<br><br>",
+        "en": "1.Introduction to engineering drawing and stetching, lettering, and lines<br>2.The Method of orthogonal projection -. multiviews . <br>3.Cubic drawing<br>4.Dimensioning system<br>5.Geometric tolerancing and machined surfaces roughness<br>6.Isometric sketches auxiliary and sectioning views<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生熟練正確的製圖法與儀器的使用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生明瞭製圖的基本知識及在各專業上所用裝置的製圖方法與技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生能獲得有關機械方面所必須的圖面知識與技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生能具備研讀及畫製工程圖面的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,105 @@
+{
+    "code": "01D0010H",
+    "name": {
+        "zh": "導師時間",
+        "en": "Tutor Meeting"
+    },
+    "credit": "0",
+    "type": "必修",
+    "classes": [
+        "四技商設三甲"
+    ],
+    "instructors": [
+        "黃添貴"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "W0702"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "討論有關班上學生之課業、品德、生活、班級活動、人際關係等等之各種事宜及宣傳學校之各種政策。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.學生住宿狀況之了解與查訪<br>2.約談有關課業、家庭或生活上有問題或需要幫助之學生<br>3.處理班級之各種問題<br>4.課業及品德上之叮嚀與輔導<br>5.處理學生曠課與上課之問題<br>6.宣導學校之政策<br>",
+        "en": "1.\tVisit students to understand whose accommodation condition.<br>2.\tCounsel students who need assists in academic, domestic, living or moral issue.<br>3.\tArrange the class in order.<br>4.\tDeal with students’ absent or class issue.<br>5.\tAdvertise school policies.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "輔導學生之生涯發展、專業學習與生活教育使其正常發展，養成健全人格。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "輔導學生運用學校資源，必要時，提供學生學習或心理困擾轉介服務。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "彈性運用導師時間，作為個別談話、班級座談及其他相關輔導或聯誼活動，增進師生情感。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "督導班級幹部負責填寫「班會與導師時間紀錄簿」並於期中考周和期末考周繳回諮輔組查閱。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

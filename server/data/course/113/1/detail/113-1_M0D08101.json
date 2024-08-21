@@ -1,0 +1,111 @@
+{
+    "code": "M0D08101",
+    "name": {
+        "zh": "國際禮儀",
+        "en": "International Etiquette"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技餐旅二甲",
+        "四技餐旅二乙"
+    ],
+    "instructors": [
+        "余梅香"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "T0310"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "T0310"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "國際禮儀乃文明世界的國家和人民所必須共同遵守的規則。它的範圍包括典禮、應酬、禮貌及文書規劃等； 此外，文化風俗與民族生活間的差異亦是修習禮儀的重點。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1教室禮儀 <br>2食的禮儀 餐飲知識、中餐禮儀、西餐禮儀、座位禮儀<br>3衣的禮儀 男士的服裝禮儀、女士的穿著禮儀、美姿美儀<br>4住的禮儀 居家環境與禮儀、公共環境與禮儀<br>5行的禮儀 走路的禮儀、乘車禮儀、搭機禮儀<br>6育的禮儀 探病禮儀、結婚禮儀、送禮禮儀、交友之道<br>7樂的禮儀 舞會禮儀、音樂會禮儀、運動禮儀<br>8國際禮儀 外交禮儀、各國文化風俗差異<br>",
+        "en": "Learn about proper etiquette through class lectures that discuss appropriate manners when traveling or doing business worldwide. This class hopes provide valuable tips on international etiquette, customs and protocol, such topics as the use of utensils, dining etiquette, personal etiquette and business etiquette."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立個人形象與儀態",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備國際禮儀之常識，包括商業禮儀、生活禮儀及外交禮儀",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解並欣賞不同文化風俗與民族差異",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立並維持良好之社會人際關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

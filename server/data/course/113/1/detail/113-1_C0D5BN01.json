@@ -1,0 +1,110 @@
+{
+    "code": "C0D5BN01",
+    "name": {
+        "zh": "專業英文",
+        "en": "Professional English"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應英三甲"
+    ],
+    "instructors": [
+        "陳怡真"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "N310"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "N310"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "藉由大量的醫學時事帶領學生到一個有趣的醫學新知英文，學生能學到專業的領域用語並能以英文談論專業用詞、流利的對話，甚至解決問題。課程包含了醫學新知、養生英文及長照護理英文用語<br>Using a journal of medicine to bring the student into a fun environment to learn more about medial knowledge.<br>Student can learn more about this professional field and have a conversation with others using the phrase or term from this field or even solve problems with it.<br><br><br><br><br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.培養學生專業的醫學養生英語<br>2.國內外長照英語使用專有名詞<br>3.專業醫學用字、現代人文明病<br>4.養生之道、運動、重量訓練<br>5.讓學生會說，並聽得懂醫院常用的專業英文<br>",
+        "en": "The course includes knowledge from medicine, health, and Long –term care.<br>1.The student could learn professional knowledge of medicine and health.<br>2.Learn the terms in Long-term care.<br>3.Medical terms, Modern Civilized Illness.<br>4.The way of health, Exercise[workout], Weight Training<br>5.Teach the student to listen and speak the terms often used in hospital.<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備醫學與養生英語知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備專業醫療英語溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備與外國人討論醫療時事的英語能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能介紹現代醫學長照與養生英文",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

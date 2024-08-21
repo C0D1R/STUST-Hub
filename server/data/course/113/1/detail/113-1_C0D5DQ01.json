@@ -1,0 +1,111 @@
+{
+    "code": "C0D5DQ01",
+    "name": {
+        "zh": "應用英語實務實習(一)",
+        "en": "Practicum in Applied English (Ⅰ)"
+    },
+    "credit": "9",
+    "type": "管制選修",
+    "classes": [
+        "四技應英四甲"
+    ],
+    "instructors": [
+        "陳怡真"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "720"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在提供本系學生「英語教學」與「商務溝通」之職場實務經驗，透過長期的實地參觀、訓練與實習，除可讓學生熟悉職場工作環境與內容，訓練學生學以致用之能力外，亦可培養良好之工作態度。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.實習場所之尋覓與瞭解<br>2.實習合約之簽訂<br>3.職前教育訓練與考核<br>4.工作態度與表現之評量",
+        "en": "1. Locating and understanding the internship site<br>2. Signing of internship contract<br>3. Pre-service training and assessment<br>4.Evaluation of work attitude and performance<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能以清楚的英語進行溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備職場英文之知識與技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能學以致用，結合理論與實務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能遵守工作紀律，發揮團隊精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能積極參與職場活動，並學習相關知能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

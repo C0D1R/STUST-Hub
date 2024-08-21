@@ -1,0 +1,127 @@
+{
+    "code": "K0D39603",
+    "name": {
+        "zh": "基礎2D電腦繪圖",
+        "en": "2D Drawings"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技多樂一丙"
+    ],
+    "instructors": [
+        "曹傑凱"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "W0609"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "W0609"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "W0609"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為2D電腦繪圖的進階課程。內容為更進階更具造型能力的軟體與指令方法的學習。在產品的設計的領域中，以設計與生產作緊密結合的Adobe設計相關軟體作為設計的工具，培養同學兼具創新與實務的平面設計能力。",
+    "prerequisites": "能瞭解電腦輔助設計的基礎操作方式 \t\t1 專業知識 \n能有效率執行電腦輔助設計的基礎方法 \t\t3 資訊能力 \n能運用電腦輔助設計實踐基礎設計創作 \t\t1 專業知識 \n能有效達到詮釋設計創作的基礎能力 \t\t2 實務技能 \n能有效的協助創意設計的提案 \t\t4 整合創新 \n能檢視設計創作的基礎合理性 \t\t4 整合創新",
+    "syllabus": {
+        "zh": "1、adobe ps基礎操作與介面 --- 介面與工具列設定<br>2、草繪圖形繪製--- 基本2D繪製<br>3、草繪拘束條件應用 --- 草繪幾何條件<br>4、要草繪尺寸標註 --- 強尺寸與弱尺寸設定<br>5、伸長、旋轉特徵指令應用 --- 基本3D成型<br>6、掃描、層疊拉伸特徵指令應用 --- 進階3D成型<br>",
+        "en": "1, Introduce the foundational knowledge and common interfaces.<br>2, 2D Drawings<br>3, Geometry shapes<br>4, Dimensioning<br>5, Basic 3D molding<br>6, Advanced 3D molding<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解如何使用2D電腦繪圖軟體",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能夠具備熟練操作的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用2D電腦繪圖軟體進行創作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "數位影像美學的養成",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "技術知識相當程度仰賴外文網站與書籍，需同時培養適度的外文閱讀能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

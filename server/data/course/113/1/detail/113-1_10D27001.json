@@ -1,0 +1,152 @@
+{
+    "code": "10D27001",
+    "name": {
+        "zh": "機械製造",
+        "en": "Mechanical manufacture"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技車輛三甲",
+        "四技車輛三乙"
+    ],
+    "instructors": [
+        "曾信智"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "R302"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "R302"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "R302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "概念介紹各種加工製造技術,方法,原理,特性與應用,闡述說明機械製造的優異特性,對於各特殊加工、先進製造技術,精密機械,模具加工與極難加工等特殊材料,由形狀複雜到高精密度微細加工做充分講解,使學生能充分瞭解各種加工製造技術基本原理,應用範圍與實例等。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.製造原理概論與實務應用<br>2.材料及熱處理技術與實務應用<br>3.塑性加工原理及實務應用<br>4.熱加工原理及實務應用<br>5.切削原理與製造方法<br>6.冷加工原理與實務應用<br>7.精密加工技術與非傳統加工原理與實務應用<br>",
+        "en": "1.Theory and applications of manufacturing processes<br>2.Technique and applications of engineering materials and heat treatments<br>3.Theory and applications of plastic machining<br>4.Theory and applications of thermo-machining<br>5.Theory and processes of cutting<br>6.Theory and applications of cold working<br>7.Theory and applications of precision machining and non-manufacturing processes"
+    },
+    "weeklySchedule": "第1週：課程介紹、機械與智慧製造概論、原理、方法與實務應用；<br>第2～3週：材料選用及熱處理概論、表面處理、實務應用與習作測驗；<br>第4～5週：精密加工概論與製造原理方法、實務應用案例與習作測驗；<br>第6～7週：鑄造概論、精密鑄造及壓鑄原理、實務應用與習作測驗；<br>第8～9週：熱加工概論、原理方法、案例應用、習作測驗與期中考試； <br>第10～11週：冷加工概論及金屬成形原理方法、案例應用與習作測驗；<br>第12～13週：金屬接合及焊接概論、原理方法、案例應用與習作測驗；<br>第14～15週：特殊加工概論、塑膠成形方法、實務案例與習作測驗；<br>第16～17週：自動化生產及智慧製造應用、分組報告與習作測驗；<br>第18週：實務案例應用、課程總結與期末考試。<br>",
+    "exams": {
+        "midterm": "30%，筆試",
+        "final": "30%，筆試",
+        "other": "40%，課堂習作筆記、心得與分組報告、平時測驗與學習態度精神"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉機械製造原理。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用加工方法的重要性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能規劃選擇加工方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能將工程圖轉換成加工資訊並用以建立管理決策",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解機械製造專用之英文術語",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "機械製造",
+        "author": "孟繼洛等",
+        "publisher": "全華圖書公司",
+        "year": "2009",
+        "ISBN": "978-986-463-247-3",
+        "edition": ""
+    },
+    "referenceBooks": "(1)傅光華六位編譯，機械製造，高立圖書公司，ISBN978-986-378-117-2，2017/3，2版。 <br>(2)張浮明等編譯，非傳統加工-高立科技圖書公司，2008。<br>(3)自編教材及其相關參考資料：材料與熱處理實務應用，ISBN 978-957-21-9647-2；塑膠射出原理與實務應用，ISBN 978-957-21-9203-0與複合螺旋研拋技術與原理，ISBN 978-957-21-9204-7。<br>",
+    "teachingSoftware": "教學影片。",
+    "rules": "1.請自備課本及筆記；<br>2.請同學尊重智慧財產權，使用正版教科書，不得非法影印，以免觸犯智慧財產權相關法令。<br>"
+}

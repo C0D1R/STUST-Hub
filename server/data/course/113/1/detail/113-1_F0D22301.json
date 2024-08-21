@@ -1,0 +1,116 @@
+{
+    "code": "F0D22301",
+    "name": {
+        "zh": "口語表達訓練",
+        "en": "Verbal Expression"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資傳一甲",
+        "四技資傳一乙"
+    ],
+    "instructors": [
+        "黃瓊儀"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "W0503"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "W0503"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "W0503"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "（一）透過口語表達訓練課程學習相關專業知識，輔以「服務—學習」教學方法，協助學生將口語表達實際與日常生活結合。<br>（二）培養學生關心社會議題，瞭解週遭環境脈動，透過多元學習，發揮正向傳播與溝通之能力。<br>（三）促使學生從服務專案之溝通互動與協調過程中，習得反",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一至五週  專業課程理論介紹以及個人課堂口語表達訓練<br>W1：課程介紹<br>W2：口語表達要素<br>W3：自我表達<br>W4：群眾表達<br>W5：人際溝通<br>第六至十四週  <br>W6：商務溝通--與服務機構洽談<br>W7：團體溝通--分組分工進行資料蒐集以及環境分析<br>W8：會議溝通--對策提出與執行<br>W9：專業提案—提案技巧與表達<br>W10：期中考<br>W11：媒體溝通—媒體話術<br>W12：有效表達--傳達力 <br>W13：情境溝通—人氣王的表達力<br>W14：顧客話術--話術訓練與角色扮演<br>第十五至十七週<br>（一）第一階段專業方面反思：整個專案的執行溝通反思。<br>（二）第二階段服務對象與個人態度感受分享：對服務學習的感受經驗之分享。<br>W15：牛刀小試--專案演練<br>W16：牛刀小試--專案演練<br>W17：成果發表 <br>第十八週<br>（一）成果發表會：規劃成果發表。<br>（二）參與者邀請：廣邀所有參與者以及學校行政主管以及有興趣的師長以及同學參加。<br>（三）感謝與表揚：感謝協助過的單位以及表現優異的學生。<br>W18：節慶表達—慶功宴",
+        "en": "1.Speech communication element<br>2.Self- communication <br>3.Mass communication<br>4.Interpersonal communication<br>5.Business communication<br>6.Group communication<br>7.Meeting communication<br>8.Professional proposal<br>9.Media communication<br>10.Effective communication<br>11.Situational communication<br>12.Customer speech<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "增進口語表達能力的自我訓練方式，重新建立自信、樂於溝通。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養流利的表達能力，能在各種場合中適切地表現自我。   培養出屬於自己特色的表達模式，養成好的情緒溝通管理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立優秀的溝通及說服能力，能適時發揮影響力。\n增強領導與商務溝通能力，建立職場上之競爭力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養有邏輯的提案能力，將所學透過溝通立完整呈現。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,134 @@
+{
+    "code": "40D1BZ01",
+    "name": {
+        "zh": "基礎材料科學與工程(一)",
+        "en": "Fundamentals of Materials Science and Engineering (I)"
+    },
+    "credit": "2",
+    "type": "系定選修",
+    "classes": [
+        "五專化材二甲"
+    ],
+    "instructors": [
+        "林宏茂"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "I0310"
+        },
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "I0310"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以概論方式介紹材料之製程、結構及性質與性能之關係，讓學生瞭解上面三者之關聯性，並能簡單分辨金屬、陶瓷及高分子材料在結構、製程與性質之間的差異。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章 製程、結構與性質之關係<br>第二章 原子結構與鍵結<br>2.1基本原子結構<br>2.2固體中的原子鍵結<br>第三章 金屬與陶瓷結構<br>3.1 晶體結構介紹<br>3.2晶體學的點、方向與平面<br>第四章 高分子結構<br>第五章 固體之缺陷<br>5.1點缺陷、線缺陷及面缺陷<br>5.2 微觀組織觀察<br>5.3 晶粒大小量測規範<br>第六章 擴散<br>6.1 擴散原理及Fick 第一、第二定律<br>6.2 自擴散及互擴散<br>6.3空孔擴散及格隙擴散<br>第七章 機械性質<br>7.1彈性變形與塑性變形<br>7.2 硬度及拉伸測試<br>7.3 金屬、陶瓷及高分子應力-應變曲線分析",
+        "en": "Chapter 1 Relationship between Process, Structure and Properties<br>Chapter 2 Atomic Structure and Bonding<br>2.1 Basic Atomic Structure<br>2.2 Atom bonding in solids<br>Chapter 3 Metal and Ceramic Structure<br>3.1 Introduction to crystal structure<br>3.2 Point, direction and plane in crystallography<br>Chapter 4 Polymer structure<br>Chapter 5 Defects of solids<br>5.1 Point defects, line defects and surface defects<br>5.2 Microstructure observation<br>5.3 Grain Size Measurement Specifications<br>Chapter 6 Diffusion<br>6.1 Diffusion principle and Fick's first and second laws<br>6.2 Self-diffusion and inter-diffusion<br>6.3 Pore Diffusion and Lattice Diffusion<br>Chapter 7 Mechanical Properties<br>7.1 Elastic deformation and plastic deformation<br>7.2 Hardness and tensile test<br>7.3 Analysis of stress-strain curves of metals, ceramics and polymers"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "知道BCC、FCC及HCP晶體結構、擴散基本原理與滲碳、氮化的應用、知道點、線、面缺陷及缺陷的應用、材料硬度及拉伸測試原理及規範",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能看得懂簡單的材料科學與工程專業名詞",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道如何進行金相分析、硬度試驗及拉伸測試、熟知如何分析顯微組織與性質之間的變化、可初步分析應力-應變曲線",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有系統及有組織的回答課堂上老師詢問之基本的材料工程專業問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能分工合作如期完成一份精簡材料科學與工程專題報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用網際網路平台收集並研讀基本材料科學與工程相關資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

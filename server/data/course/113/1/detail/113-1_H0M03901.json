@@ -1,0 +1,142 @@
+{
+    "code": "H0M03901",
+    "name": {
+        "zh": "專題討論(一)",
+        "en": "Seminar I"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "碩研食品一甲"
+    ],
+    "instructors": [
+        "李順來"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "I0702"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "I0702"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "生物技術的發展與生命科學的研究息息相關,本課程的主旨為使研究生對於生物科技涵蓋的最新內容有廣泛的了解,進而對生物技術應用之相關領域產生興趣。另外，將幫助學生從研讀論文的過程中，培養其邏輯思考與基本撰寫論文的能力，並學習新的生物科技知識與邏輯思考能力。",
+    "prerequisites": "生物技術概論/生物化學/分子生物學/細胞生物學/實驗動物學",
+    "syllabus": {
+        "zh": "<br><br><br>第1週 課程介紹與相關資料搜尋<br><br>第2週 兩位同學口頭論文報告<br><br>第3週 兩位同學口頭論文報告<br><br>第4週 兩位同學口頭論文報告<br><br>第5週 兩位同學口頭論文報告<br><br>第6週 兩位同學口頭論文報告<br><br>第7週 兩位同學口頭論文報告<br><br>第8週 兩位同學口頭論文報告<br><br>第9週 學術演講與產業論壇<br><br>第10週 兩位同學口頭論文報告<br><br>第11週 兩位同學口頭論文報告<br><br>第12週 兩位同學口頭論文報告<br><br>第13週 兩位同學口頭論文報告<br><br>第14週 兩位同學口頭論文報告<br><br>第15週 兩位同學口頭論文報告<br><br>第16週 兩位同學口頭論文報告<br><br>第17週 兩位同學口頭論文報告<br><br>第18週 期末考<br>",
+        "en": "week 1 Lesson Introduction, biomedical database and pubmed research<br><br>week 2 Oral presentation<br><br>week 3 Oral presentation<br><br>week 4 Oral presentation<br><br>week 5 Oral presentation<br><br>week 6 Oral presentation<br><br>week 7 Oral presentation<br><br>week 8 Oral presentation<br><br>week 9 Academic lecture and industrial forum<br><br>week 10 Oral presentation<br><br>week 11 Oral presentation<br><br>week 12 Oral presentation<br><br>week 13 Oral presentation<br><br>week 14 Oral presentation<br><br>week 15 Oral presentation<br><br>week 16 Oral presentation<br><br>week 17 Oral presentation<br><br>week 18 Oral presentation<br>"
+    },
+    "weeklySchedule": "1-9週 文獻報告<br>10-18週 文獻報告<br>",
+    "exams": {
+        "midterm": "口頭報告",
+        "final": "口頭報告",
+        "other": "口頭報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "每位研究生自行選定參考文獻進行讀書報告。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "藉由報告過程訓練學生收集資料的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "藉由報告過程訓練學生演講的技巧",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "藉由報告過程訓練學生英文閱讀及邏輯思考能力。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

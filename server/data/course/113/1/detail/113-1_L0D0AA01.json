@@ -1,0 +1,110 @@
+{
+    "code": "L0D0AA01",
+    "name": {
+        "zh": "職場專業英文",
+        "en": "English for Careers"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技半導體四甲"
+    ],
+    "instructors": [
+        "吳文端"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "R501"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "R501"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為大三選修課程，內容包含職場環境之專業英文聽、說、讀、寫等技巧及能力之訓練，以利提昇未來職業生涯的溝通能力。",
+    "prerequisites": "大一/大二 英文",
+    "syllabus": {
+        "zh": "1.\t進入職場<br>2.\t電話英文<br>3.\t會議<br>4.\t商務寫作介紹<br>5.\t英文簡報撰寫技巧<br>6.\t職場人際關係<br>",
+        "en": "1.\tBegin your career<br>2.\tTalking on the phone in English<br>3.\tMeetings<br>4.\tDifferent formats of business writing<br>5.\tPresentation skill <br>6.\tRelationship management<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能以英文在職場中進行有意義與有效的溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能進行專業簡報與書寫商業書信",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以PPT準備簡報資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解國際禮儀",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

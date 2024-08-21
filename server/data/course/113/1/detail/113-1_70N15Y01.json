@@ -1,0 +1,167 @@
+{
+    "code": "70N15Y01",
+    "name": {
+        "zh": "產業實務實習(七)",
+        "en": "Workplace Practicum VII"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜企管產攜四甲"
+    ],
+    "instructors": [
+        "林義旭"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "培育學生務實致用的觀念及能力為目標，期望學生透過實習能印證在校所學之專業知能，並增加與產業的連結，更能幫助學生建立工作職場及專業倫理之正確認知，進而提升將來進入職場的適應力與競爭力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.進行職場生態的了解<br>2.學習職場倫理及工作態度<br>3.實際了解職場的實務內容，進而學習或強化職場所需的專業知識，達到將理論與實務結合的成果<br>4.培養學生在面臨職場上發生問題時，應用所學相關知識，學習解決問題的能力",
+        "en": "1. To conduct an understanding of the workplace ecology.<br>2. To learn workplace ethics and work attitude<br>3. To really understand the practical content of the workplace, and then learn or strengthen the professional knowledge required in the workplace to achieve the result of combining theory with practice.<br>4. To train students to apply relevant knowledge and learn problem-solving skills when faced with problems in the workplace."
+    },
+    "weeklySchedule": "校外實習體驗",
+    "exams": {
+        "midterm": "無",
+        "final": "無",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學生能夠透過此課程理解管理的專業知識和企業管理。",
+            "teachingMethods": [
+                "其他",
+                "－校外實習體驗"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－校外實習體驗"
+                },
+                {
+                    "method": "平時",
+                    "type": "其他"
+                },
+                {
+                    "method": "－校外實習體驗",
+                    "type": "期中"
+                },
+                {
+                    "method": "其他",
+                    "type": "－校外實習體驗"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能夠可以就由此課程從不同視點中去分析營運的問題，並學習解決問題的方法。",
+            "teachingMethods": [
+                "其他",
+                "－校外實習體驗"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－校外實習體驗"
+                },
+                {
+                    "method": "平時",
+                    "type": "其他"
+                },
+                {
+                    "method": "－校外實習體驗",
+                    "type": "期中"
+                },
+                {
+                    "method": "其他",
+                    "type": "－校外實習體驗"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能透過此研討來了解並學習到在職場上與同事的之間的工作態度以及合作是非常重要的。",
+            "teachingMethods": [
+                "其他",
+                "－校外實習體驗"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－校外實習體驗"
+                },
+                {
+                    "method": "平時",
+                    "type": "其他"
+                },
+                {
+                    "method": "－校外實習體驗",
+                    "type": "期中"
+                },
+                {
+                    "method": "其他",
+                    "type": "－校外實習體驗"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能透過此研討培養學生主動學習新的事務，並了解未來工作的環境以及場所。",
+            "teachingMethods": [
+                "其他",
+                "－校外實習體驗"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－校外實習體驗"
+                },
+                {
+                    "method": "平時",
+                    "type": "其他"
+                },
+                {
+                    "method": "－校外實習體驗",
+                    "type": "期中"
+                },
+                {
+                    "method": "其他",
+                    "type": "－校外實習體驗"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

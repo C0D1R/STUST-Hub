@@ -1,0 +1,127 @@
+{
+    "code": "F0D38T01",
+    "name": {
+        "zh": "基礎影像製作",
+        "en": "Intorduction to Video Production"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資傳一甲"
+    ],
+    "instructors": [
+        "郭文霖"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0608"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "W0608"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "W0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程的重點在於介紹影片製作的基本概念及技術，課程包含了解視訊規格與系統、影片製作流程、攝影機操作拍攝技術及基礎影片剪輯及影像語言的構成。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元主題/內容網要/週次/教學參考節數<br><br>主題一、影片製作概述(第一週3Hr)<br>1.課程介紹<br>2.影片製作的三大流程<br>3.電視系統與電視規格<br>4.使用Movie Maker 製作簡易影片 <br><br>主題二、攝錄影機的操作(第二、三週6Hr)<br>1.基本操作程序<br>2.腳架的使用<br>3.對焦與光圈控制<br>4.色溫與白平衡<br>5.攝影機的支撐及穩定<br>6.檢討評分Movie Maker製作之影片(第二周檢討、第三周評分)<br><br>主題三、電子攝影設備(第四、五週6Hr)<br>1.電子攝影的發展<br>2.電視成像原理<br>3.攝影機的種類<br>4.數位攝影機的結構及功能介<br><br>主題四、影片的結構分析(第六、七週6Hr)<br>1.影片鏡頭的結構<br>2.五個基本鏡頭的使用<br>3.鏡頭的一致性與連續性<br>4.鏡頭構圖基本規則<br><br>主題五、影片構圖與分鏡(第八、九週6Hr)<br>1.動態影像構圖分析<br>2.三分割構圖法則<br>3.鏡頭運動<br>4.分鏡概念及分鏡表<br>5.第九周期中考週(攝影機操作測驗)<br><br>主題六、光線的控制(第十、十一週6Hr)<br>1.基本三點打光法<br>2.室外採光技巧<br>3.室內打光方法<br>4.濾色片與柔光紙的運用<br><br>主題七、收音技術(第十二、十三週 6Hr)<br>1.現場收音<br>2.旁百錄音<br>3.音樂音效灌錄<br><br>主題八、基礎影片剪輯(第十四、十五週6Hr)<br>1.基礎剪輯<br>2.字幕製作<br>3.片頭片尾設計<br><br>主題九、影片作品分析與討論(第十六、十七、十八週 9Hr)<br>1.期末作業報告評分<br>2.期末影片分析評分<br>3.期末考",
+        "en": "1.Video Production Processes<br>2. Video Camera Function <br>3. Operating the Camera<br>4. Video Image Formation<br>5. Framing<br>6. Lighting<br>7. Audio &amp; Sound Control<br>8. Basic Video Editing <br>9. Project Evaluating"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養影視製作夥伴良好溝通之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習如何與影視製作夥伴建立良好合作關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習傳播相關之知識、觀念與方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "美學與影像製作能力之培養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "影片企劃能力之培養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

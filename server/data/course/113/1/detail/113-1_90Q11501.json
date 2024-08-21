@@ -1,0 +1,140 @@
+{
+    "code": "90Q11501",
+    "name": {
+        "zh": "決策模式",
+        "en": "Decision Modeling"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專資管一甲",
+        "碩專大數據一甲"
+    ],
+    "instructors": [
+        "楊棠堯"
+    ],
+    "schedule": [
+        {
+            "day": "週日",
+            "period": "第5節",
+            "location": "T0713"
+        },
+        {
+            "day": "週日",
+            "period": "第6節",
+            "location": "T0713"
+        },
+        {
+            "day": "週日",
+            "period": "第7節",
+            "location": "T0713"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course emphasizes the fundamental concepts of modeling and the use of spreadsheets in a business decision-making context, taking a hands-on approach to creating decision models using spreadsheets.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 決策本質<br>2. 模式與概模<br>3. 決策方法論<br>4. 試算表概模<br>5. 管理科學決策模式<br>6. 機率概論<br>7. 決策分析決策模式<br>8. 多準則決策模式<br>9. 模擬決策模式",
+        "en": "1. The Context of Decision<br>2. Model and Modeling<br>3. Decision Methodology<br>4. Spreadsheet Modeling<br>5. Management Science decision models<br>6. Probability review<br>7. Decision Analysis decision models<br>8. Multi-criteria decision models<br>9. Simulation decision models"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解公司主管如何使用資訊系統達成其決策績效與針對決策問題有效辨識適當的最佳化方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能建構適當的決策模式剖析企業實務決策問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現決策問題分析結果，讓決策者可以採取面臨問題之解決方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體會提高決策績效來節省成本的重要性與主動參與決策過程。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能接納與養成外國語文於決策領域問題之描繪。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能塑造自我適應社會環境變遷，有效學習以快速進入社會狀況的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

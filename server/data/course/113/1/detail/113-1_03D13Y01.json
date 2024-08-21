@@ -1,0 +1,111 @@
+{
+    "code": "03D13Y01",
+    "name": {
+        "zh": "教育心理學",
+        "en": "Educational Psychology"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "教育學程－中",
+        "教育學程－小"
+    ],
+    "instructors": [
+        "王揚智"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "N204"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "N204"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程在使學生瞭解教育心理學的趨勢、重要理論以及相關之學習策略，並能分析與歸納不同的理論對於教師教學與班級經營的啟示。<br><br>【專業素養指標】<br>1 了解教育發展的理念與實務<br>1-1 了解有關教育目的和價值的主要理論或思想，以建構自身的教育理念與信念。<br>2 了解並尊重學習者的發展與學習需求<br>2-1 了解並尊重學生身心發展、社經及文化背景的差異，以作為教學與輔導的依據。<br>2-2 了解並運用學習原理，以符合學生個別學習需求與發展。<br>3 規劃適切的課程、教學及多元評量<br>3-3 具備任教領域/群科/科目所需的專門知識與學科教學知能，以進<br>行教學。<br>3-4 掌握社會變遷趨勢與議題，以融入課程與教學。<br>3-5 應用多元教學策略、教學媒材與學習科技，以促進學生有效學習。<br>3-6 根據多元評量結果調整課程與教學，以提升學生學習成效。<br>4 建立正向學習環境並適性輔導<br>4-1 應用正向支持原理，共創安全、友善及對話的班級與學習環境，以養成學生良好品格及有效學習。<br>5 認同並實踐教師專業倫理<br>5-3 透過教育實踐與省思，以發展溝通、團隊合作、問題解決及持續專業成長的意願與能力。<br><br>【課程核心內容】<br>1了解教育發展的理念與實務<br>(1)教育本質、教育目的與內容<br>(2)主要教育理論與思想<br>(3)教育與社會變遷及進步<br>2了解並尊重學習者的發展與學習需求<br>(1)主要身心發展理論及其教育應用<br>(2)主要學習理論及其教育應用<br>(3)主要學習動機理論及其教育應用<br>(4)學習策略<br>(5)身心、社經與文化等背景差異及其與學習、發展的關係<br>(6)學生特質與需求的辨識<br>3規劃適切的課程、教學及多元評量<br>(1)主要課程、教學與評量的理論<br>(2)重要議題融入課程、教學與評量<br>4建立正向學習環境並適性輔導<br>(5)班級經營的意義、目的、內容與方法<br>(7)親師生關係<br>5認同並實踐教師專業倫理<br>(1)教師專業、倫理及其承諾<br>(2)教師專業角色及其權利與義務<br>(3)教師角色與社區關係<br>(5)教師自我反思、溝通互動與解決問題<br><br>【融入議題】<br>性別平等教育*<br>品德教育<br>家庭教育*<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 教育心理學課程簡介<br>2. 教育心理學：教學的基礎<br>3. 發展理論Ⅰ：認知發展論<br>4. 發展理論Ⅱ：人格和社會發展論<br>5. 發展理論Ⅲ：道德發展論、身心發展<br>6. 學習理論Ⅰ：行為主義取向<br>7. 學習理論Ⅱ：認知取向<br>8. 學習理論Ⅲ：人本主義取向<br>9. 期中考-教師訪談計畫、練習卷<br>10. 學習理論IV：建構主義取向<br>11. 動機與學習<br>12. 個別差異：智力因素<br>13. 個別差異：非智力因素<br>14. 學習策略與教學評量<br>15. 班級經營與教室管理<br>",
+        "en": "1. Introduction<br>2. Educational psychology: foundation of teaching<br>3. Development Theory I: Cognitive Development Theory<br>4. Development Theory II: Theory of Personality and Social Development<br>5. Development Theory III: Moral Development Theory, Physical and Mental Development<br>6. Learning Theory I: Behaviorist approach<br>7. Learning Theory II: Cognitive approach<br>8. Learning Theory III: Humanistic approach<br>9. Mid-term exam (teacher interview plan, and the test)<br>10. Learning Theory IV: Constructivist approach<br>11. Motivation and learning<br>12. Individual differences: intellectual factors<br>13. Individual differences: non-intellectual factors<br>14. Learning Strategies and Teaching Assessment<br>15. Classroom management<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識教育心理學理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識學生身心的發展歷程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會設計學習評量與改進",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉學習原理與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

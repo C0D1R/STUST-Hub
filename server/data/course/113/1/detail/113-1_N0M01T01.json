@@ -1,0 +1,116 @@
+{
+    "code": "N0M01T01",
+    "name": {
+        "zh": "人力資本管理與發展",
+        "en": "Human Capital Management and Development"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩全球經管二甲"
+    ],
+    "instructors": [
+        "王姿力"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "E0604"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "E0604"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "E0604"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The subject aims to provide students an in‐depth lucid review of essential human resources concepts and theories. It will facilitate students to discuss and analyze contemporary issues in the management of human capital in business industry in both macro‐ and micro‐perspectives.",
+    "prerequisites": "×",
+    "syllabus": {
+        "zh": "1.\tStrategic Human Capital Management <br>2.\tOrganizational culture and its impacts on human capital <br>3.\tChinese Culture – by Faculty of Humanity • <br>4.\tCorporate Creativity and Employee Creativity<br>5.\tJob Satisfaction &amp; Organizational Commitment in the Hospitality Industry<br>6.\tStrategic Downsizing, Separation and Outsourcing • International Human Capital Management and Expatriate Management •<br>7.\tTraining and Development – Experiential Learning and Facilitation Techniques • <br>8.\tCareer Development in Human Capital: Assessments and Structure of Succession Planning <br>9.\tContemporary Issues and Challenges facing Human Capital Management in the Business Industry<br>",
+        "en": "1.\tStrategic Human Capital Management <br>2.\tOrganizational culture and its impacts on human capital <br>3.\tChinese Culture – by Faculty of Humanity • <br>4.\tCorporate Creativity and Employee Creativity<br>5.\tJob Satisfaction &amp; Organizational Commitment in the Hospitality Industry<br>6.\tStrategic Downsizing, Separation and Outsourcing • International Human Capital Management and Expatriate Management •<br>7.\tTraining and Development – Experiential Learning and Facilitation Techniques • <br>8.\tCareer Development in Human Capital: Assessments and Structure of Succession Planning <br>9.\tContemporary Issues and Challenges facing Human Capital Management in the Business Industry<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解管理會計系統功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解如何應用管理會計技術到管理決策中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解管理會計如何在企業組織中發揮功能與價值",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養批判性思考和整合能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

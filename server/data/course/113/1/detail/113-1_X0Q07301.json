@@ -1,0 +1,122 @@
+{
+    "code": "X0Q07301",
+    "name": {
+        "zh": "專利審查基準與實務",
+        "en": "The Benchmark of Patent Examination and Practices"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩專財法一甲"
+    ],
+    "instructors": [
+        "王其忠"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "S410"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "S410"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要是介紹常見專利創意類型,專利檢索,解讀專利說明書,專利侵害鑑定,專利申請書撰寫練習,專利申請流程瞭解等以上但不限於上述議題之專利實務課程。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "中文大綱 :<br>創意類型與案例<br>專利檢索與國際專利分類<br>專利要件與專利案例<br>專利說明書之閱讀與解析<br>申請專利範圍之規劃與實例<br>專利寫作實務",
+        "en": "Innovation and cases<br>Patent search and International Patent Classification<br>Pre-requisites for patent  <br>Interpretation and analysis of a patent claim<br>Planning and exercise of drafting a patent portfolio<br>Patent drafting<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "說明專利審查的明確要件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "解說專利審查的流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "說明專利審查程序",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "解釋各國專利審查基準",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "結合實務使學生明白專利的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

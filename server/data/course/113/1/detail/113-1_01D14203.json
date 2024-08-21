@@ -1,0 +1,135 @@
+{
+    "code": "01D14203",
+    "name": {
+        "zh": "進階中文(一)",
+        "en": "Advanced Chinese (1)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專資工二甲"
+    ],
+    "instructors": [
+        "謝予騰"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "D202"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "D202"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.台語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過古典文學、現代文學與一般文章的選讀和討論，強化學生閱讀與表達的能力，達到語文教育、文學教育與文化教育的提升。<br><br>Let students read and discuss classical literature, modern literature and general articles. Students' ability in reading and expression is therefore improved. Chinese, literature and cultural education is enhanced finally.<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、古典文學的閱讀與鑑賞<br>二、現代文學的閱讀與鑑賞<br>三、文章結構分析<br>四、口語訓練<br>五、寫作訓練",
+        "en": "1.\tRead and discuss classical literature<br>2.\tRead and discuss modern literature<br>3.\tArticle structure analysis<br>4.\tOral training<br>5.\tWriting training<br>"
+    },
+    "weeklySchedule": "2024/09/09\t課程說明（分組） <br>2024/09/16\t自我探索(一)：哲學是什麼 <br>2024/09/23\t自我探索(二)：知識論<br>2024/09/30\t自我探索(三)：倫理學<br>2024/10/07\t報告教學<br>2024/10/14\t田調教學<br>2024/10/21\t淺談先秦儒家與秦火<br>2024/10/28\t漢代與魏晉思想<br>2024/11/04\t期中分組辯論<br>2024/11/11\t人我相通(三)：《南進臺灣》<br>2024/11/18\t第一次分組報告(預定題目、田調準備)<br>2024/11/25\t中國文學史1<br>2024/12/02\t中國文學史2<br>2024/12/09\t臺灣文學史1<br>2024/12/16\t臺灣文學史2<br>2024/12/23\t期末田野調分組報告<br>2024/12/30\t期末田野調分組報告<br>2025/01/06      期末田野調分組報告<br>",
+    "exams": {
+        "midterm": "分組辯論(40%)",
+        "final": "分組田野調查報告(60%)",
+        "other": "11週第一次分組報告(預定題目、田調準備)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "提升閱讀與鑑賞古典文學的能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "提升閱讀與鑑賞現代文學的能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "提升討論文化議題的能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "提升口語、寫作能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "提升同理、關懷他人的能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "清．郁永和著，楊龢之注：《遇見三百年前的台灣──裨海紀遊》（臺北：圓神，2004年6月）<br>霍斯陸曼．伐伐：《玉山魂》（臺北：印刻，2006年11月） <br>夏曼‧藍波安：《冷海情深(聯合文學經典版)》（臺北：聯經，2010年4月）。 <br>吳明益：《天橋上的魔術師》（臺北：夏日，2011年11月） <br>拓拔斯．塔瑪匹瑪：《最後的獵人》（臺中：星晨，2012年10月） <br>冀劍制：《哲學課的逆襲：60堂探索人生意義、道德、世界與知識的思維課》（臺北：商周。2016年12月）。 <br>蔡璧名：《正是時候讀莊子 二：人情》（臺北：天下，2017年1月）。 <br>江樹生譯：《熱蘭遮城日記3》（臺南：臺南市文化局文化資產科，2003）。 <br>李汝和主編、郭輝譯：《巴達維亞城日記》（臺北：臺灣省文獻委員會，1970）。 <br><br>※電子資料 <br>Youtube頻道，台灣吧（Taiwan Bar）：《哲學哲學雞蛋糕》、《『臺灣世界史』動畫臺灣史》第一季+第二季。 <br>",
+    "teachingSoftware": "Youtube、PPT",
+    "rules": "★ 請勿直接抄錄任何他人作品之內容，所有作業或報告中有引用他人資料者，應確實註明參考資料 來源。若經查證有抄襲者，該項作業以零分計算。 <br>★ 旁聽請告知。<br>"
+}

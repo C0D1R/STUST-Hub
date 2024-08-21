@@ -1,0 +1,110 @@
+{
+    "code": "01D15W04",
+    "name": {
+        "zh": "基礎物理(一)",
+        "en": "Elementary Physics (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專化材一甲"
+    ],
+    "instructors": [
+        "李建輝"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "I0305"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "I0305"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "提供物理學及近代科學各個分支的基礎。本課程將系統地介紹自力學、熱學、電磁學、光學、近代物理學等。其中，<br>物理（一）教授：運動與力、熱、聲音、光<br>物理（二）教授：電與磁、能量與生活、現代科技簡介<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章　緒論<br>第二章　運動與力<br>第三章　熱<br>第四章　聲音<br>第五章　光<br>",
+        "en": "Chapter 1: Introduction<br>Chapter 2: Motion and Force<br>Chapter 3: Thermal<br>Chapter 4: Sound<br>Chapter 5: Light<br>"
+    },
+    "weeklySchedule": "週別\t預　定　教　學　內　容<br>\t章\t節\t節　　名<br>1\t\t\t課程介紹<br>2\t1\t1-1\t物理學與其他科技的關係<br>                1-2        物理量的測量與單位<br>3\t2\t2-1\t生活中常見的運動<br>4\t2\t2-2\t力與運動的關係<br>5\t2\t2-3\t生活中的力<br>6\t3\t3-1\t溫度與熱量<br>7\t\t3-2\t熱現象與物態變化<br>8\t3\t3-3\t熱與生活<br>9\t\t\t期中考命題範圍：1-1~3-3<br>10\t4\t4-1\t波的現象<br>11\t4\t4-2\t聲音的發生與傳播<br>12\t4\t4-3\t樂音與噪音<br>13\t5\t5-1\t光的反射與面鏡成像<br>14\t5\t5-2\t光的折射與透鏡成像<br>15\t5\t5-3\t光與生活<br>16\t6\t6-1     電的認識<br>                6-2     直流電與交流電<br>17\t6\t6-3     生活中的電與磁<br>                6-4     家庭用電與安全<br>18\t\t\t命期末考題範圍：4-1~6-4<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "作業/報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "養成學生對自然科學的認知與興趣",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "指導學生體認科學發展對人類生活和環境的影響及其重要性。",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "啟發學生創造和解決問題的能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "協助學生培養正確的科學態度及學習科學的方法。",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "基礎物理",
+        "author": "張敏哲",
+        "publisher": "龍騰文化事業股份有限公司",
+        "year": "2010",
+        "ISBN": "978-986-217-195-0",
+        "edition": "3"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

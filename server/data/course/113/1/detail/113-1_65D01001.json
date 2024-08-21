@@ -1,0 +1,111 @@
+{
+    "code": "65D01001",
+    "name": {
+        "zh": "企業經營實務實習(一)",
+        "en": "Business practical training (Ⅰ)"
+    },
+    "credit": "9",
+    "type": "管制選修",
+    "classes": [
+        "四技國商四甲"
+    ],
+    "instructors": [
+        "林靖中"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "720"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為了推動國際企業系學生及早了解職場，企業經營實務實習之課程給予學生職場實務訓練，此外，讓學生透過學習課程，了解國際貿易業務之操作，增加學生在職場上的競爭力。讓學生能夠透過實務操作與練習，使學生能儘早融入職場。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.了解企業經營的實務需要<br>2.增進與實務界的經驗交流<br>3.增加學生聯結在校所學理論與企業實務需求的能力<br>",
+        "en": "1.Understand the practical needs of business operations<br>2.Enhance the exchange of experience with practice<br>3.Increase students' ability to connect with the theory and business practice needs of the school<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "運用各專業知識於日常工作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解最新的企業趨勢與發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養團隊合作之經驗與能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成企業營運能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練正確的工作態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

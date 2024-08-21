@@ -1,0 +1,110 @@
+{
+    "code": "30D1FM01",
+    "name": {
+        "zh": "數位邏輯設計概論實習",
+        "en": "Introduction to Digital Logic Design Lab"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "五專電子二甲"
+    ],
+    "instructors": [
+        "陳順智"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "J401"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "J401"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "數位邏輯設計概論實習 是一門配合數位邏輯設計理論課程的實驗課程，旨在通過實際操作和實驗加深學生對數位邏輯設計基本概念和原理的理解。課程涵蓋基本邏輯閘、組合邏輯電路、時序邏輯電路的設計與測試，為學生提供動手實踐的機會。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.實驗室安全與基本儀器使用<br>實驗室安全規範<br>常用電子儀器的操作方法<br>儀器的校準與測量技巧<br><br>2.基本邏輯閘的實驗<br>AND, OR, NOT閘的測試<br>NAND, NOR, XOR, XNOR閘的測試<br>邏輯閘的組合應用<br><br>3.組合邏輯電路設計與測試<br>半加器與全加器的設計與測試<br>編碼器與解碼器的實驗<br>多工器與去多工器的實驗<br><br>4.時序邏輯電路設計與測試<br>觸發器的測試（SR, D, JK, T）<br>寄存器與計數器的設計與測試<br>簡單時序電路的設計與測試<br><br>5.邏輯電路的簡化與優化<br>使用卡諾圖進行邏輯簡化<br>最小化布林函數的實驗<br>簡化電路的設計與測試<br><br>6.數位邏輯設計綜合實驗<br>小型數位系統設計實驗<br>數位邏輯設計在嵌入式系統中的應用<br>綜合項目的設計與實現",
+        "en": "1.Lab Safety and Basic Instrument Usage<br>Laboratory safety regulations<br>Operation methods of common electronic instruments<br>Instrument calibration and measurement techniques<br><br>2.Basic Logic Gate Experiments<br>Testing AND, OR, NOT gates<br>Testing NAND, NOR, XOR, XNOR gates<br>Combinational applications of logic gates<br><br>3.Design and Testing of Combinational Logic Circuits<br>Design and testing of half-adders and full-adders<br>Experiments with encoders and decoders<br>Experiments with multiplexers and demultiplexers<br><br>4.Design and Testing of Sequential Logic Circuits<br>Testing flip-flops (SR, D, JK, T)<br>Design and testing of registers and counters<br>Design and testing of simple sequential circuits<br><br>5.Simplification and Optimization of Logic Circuits<br>Logic simplification using Karnaugh maps<br>Experiments on minimizing Boolean functions<br>Design and testing of simplified circuits<br><br>6.Comprehensive Digital Logic Design Experiments<br>Small digital system design experiments<br>Applications of digital logic design in embedded systems<br>Design and implementation of comprehensive projects"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "掌握數位邏輯電路的實驗測試方法。\n熟悉常用數位邏輯測量儀器的操作。\n能夠設計並搭建基本數位邏輯電路。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備進行實際數位邏輯電路搭建與測試的能力。\n能夠分析並解釋實驗數據，解決實際工程問題。\n理解數位邏輯元件在實際工程中的應用與限制。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "掌握數位邏輯實驗數據的收集、處理與分析方法。\n能夠使用相關軟體進行數據分析與模擬。\n熟悉數位邏輯實驗中的常用資料來源與文獻查找方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠將不同的數位邏輯元件與模組進行整合，設計完整的實驗電路。\n理解並應用系統整合的基本原理。\n培養系統性思維，完成從需求到實驗的整個過程。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

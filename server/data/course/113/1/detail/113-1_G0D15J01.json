@@ -1,0 +1,120 @@
+{
+    "code": "G0D15J01",
+    "name": {
+        "zh": "套裝軟體應用實習",
+        "en": "Business Software Application Practice"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專資工一甲"
+    ],
+    "instructors": [
+        "劉毓芬"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "E0204"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "E0204"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "E0204"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "E0204"
+        }
+    ],
+    "hours": {
+        "course": "4",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程搭配套裝軟體應用課程，讓同學能實際學習與操作office應用軟體，深入了解word、 excel、 powerpoint等辦公室軟體，也熟悉這些軟體的基本操作與功能，未來能有效運用至",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.WORD文書處理軟體實習<br>2.POWERPOINT簡報軟體實習<br>3.EXCEL試算表軟體實習<br>",
+        "en": "1.WORD Practice<br>2.POWERPOINT Practice<br>3.EXCEL Practice<br>"
+    },
+    "weeklySchedule": "第 01 週 課程介紹<br>第 02 週 Word 文件編輯 - 廣告活動宣傳單製作<br>第 03 週 Word 文件編輯 - 公司章程製作實務<br>第 04 週 Word 文件編輯 - 求職履歷表製作<br>第 05 週 Word 文件編輯 - 租任何約書的傳校閱<br>第 06 週 Excel 表單試算 - 企業員工輪值表製作<br>第 07 週 Excel 表單試算 - 在職訓練成績計算與排名<br>第 08 週 Excel 表單試算 - 業務績效與獎金樞紐分析<br>第 09 週 期中考<br>第 10 週 Excel 表單試算 - 季節與年度人員考績評核表<br>第 11 週 Excel 表單試算 - 人事薪資系統應用<br>第 12 週 Excel 表單試算 - 投資理財私房專案規劃<br>第 13 週 PowerPoint 簡報設計 - 新進員工值錢教育說明會<br>第 14 週 PowerPoint 簡報設計 - 旅遊產品簡報<br>第 15 週 PowerPoint 簡報設計 - 商品市場分析簡報<br>第 16 週 PowerPoint 簡報設計 - 策略聯盟合作計畫<br>第 17 週 PowerPoint 簡報設計 - 股東會營運報告<br>第 18 週 期末考",
+    "exams": {
+        "midterm": "線上測驗",
+        "final": "期末電腦測驗",
+        "other": "課堂作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能有效操作套裝軟體",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能具體應用套裝軟體建立資料檔案",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能分析套裝軟體資料",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能利用套裝軟體展現成果",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Office 2016/2019/2021商務應用必學的16堂課",
+        "author": "吳燦銘",
+        "publisher": "博碩",
+        "year": "2023",
+        "ISBN": "978-626-333-439-7",
+        "edition": "三版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

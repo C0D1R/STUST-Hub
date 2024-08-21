@@ -1,0 +1,115 @@
+{
+    "code": "G0D02001",
+    "name": {
+        "zh": "作業系統",
+        "en": "Operating System"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資工三甲"
+    ],
+    "instructors": [
+        "李育強"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "D204"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "D204"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "D204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹作業系統較基本的一些觀念，包括硬體結構，行程，排程，同步與死結，記憶體管理等等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. Introduction作業系統簡介<br>2. 硬體結構<br>   CPU, Memory, Caching, I/O Interrupt, DMA, Dual-Mode, I/O Protection, <br>   CPU Protection, Memory Protection<br>3. 作業系統結構<br>   System Components, Services, System Call, Virtual Machine<br>4. Process行程<br>   PCB, Scheduling, Context Switch, Process and Thread, Buffer, Synchronization<br>5. Scheduling排程<br>   排程準則, FCFS, SJF, Priority, Round-Robin<br>6. Synchronization and Dealock同步與死結<br>   Critical Section, Bakery Algorithm, Semaphore, Deadlock Detection, <br>   Deadlock Prevention, Banker's Algorithm<br>7. Memory Management記憶體管理<br>   Swapping, Allocation, Paging<br>8. Virtual Memory虛擬記憶體<br>   Page Replacement, FIFO, Optimal, LRU, LFU, MFU, Page Fault<br>",
+        "en": "1. Introduction<br>2. Hardware Structures<br>   CPU, Memory, Caching, I/O Interrupt, DMA, Dual-Mode, I/O Protection, <br>   CPU Protection, Memory Protection<br>3. Operating System Structures<br>   System Components, Services, System Call, Virtual Machine<br>4. Process<br>   PCB, Scheduling, Context Switch, Process and Thread, Buffer, Synchronization<br>5. Scheduling<br>   Scheduling Criteria, FCFS, SJF, Priority, Round-Robin<br>6. Synchronization and Dealock<br>   Critical Section, Bakery Algorithm, Semaphore, Deadlock Detection, <br>   Deadlock Prevention, Banker's Algorithm<br>7. Memory Management<br>   Swapping, Allocation, Paging<br>8. Virtual Memory<br>   Page Replacement, FIFO, Optimal, LRU, LFU, MFU, Page Fault<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.能了解作業系統基本學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.能應用基本學理分析探索作業系統問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.能將所學透過課程練習與同儕相互檢核講解以發展溝通表達能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.能出席課程並參與練習以建立責任與倫理的涵養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

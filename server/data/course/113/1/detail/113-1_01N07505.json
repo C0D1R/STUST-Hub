@@ -1,0 +1,141 @@
+{
+    "code": "01N07505",
+    "name": {
+        "zh": "經濟與生活",
+        "en": "Economics and Life"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技資傳一甲",
+        "夜四技視傳一甲",
+        "夜四技多樂一甲"
+    ],
+    "instructors": [
+        "曾盛杰"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "W0401"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "W0401"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "W0401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為商管經濟類的課程，主要的教學目標在於讓學生們理解在日常生或中能夠運用到的經濟學基本概念。課程主要分成兩個部份：第一個部份為個體經濟學的基礎概念，包括消費者行為、生產者行為、市場結構等主題。第二個部份為總體經濟學的基礎概念，包括經濟成長、物價膨脹與失業等主題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一個單元需求與供給<br>第二個單元供需彈性與均衡<br>第三個單元消費者行為<br>第四個單元生產者行為<br>第五個單元國民所得<br>第六個單元經濟指標<br>第七個單元經濟成長",
+        "en": "Chapter 1. Demand &amp; Supply<br>Chapter 2. Elasticities of Supply and Demand and Equilibrium<br>Chapter 3. Consumer Behavior<br>Chapter 4. Producer Behavior<br>Chapter 5. National Income<br>Chapter 6. Economic Indicators<br>Chapter 7. Economic Growth"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備經濟學之基本基本知能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備統整所學之經濟概念，進而將其應用生活領域中之基本能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備表達對經濟概念之理解，聆聽其他同學之意見，進而針對相關議題進行討論之基本能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "有能力融洽的與他人溝通不同看法，展現良好的學習態度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "將所學與實務結合，在面對經濟選擇時，要遵守倫理規範，具備理性思維及判斷之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "嘗試為自己和所關心的人做經濟規畫，發揮最大效益。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

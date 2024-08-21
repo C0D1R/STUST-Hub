@@ -1,0 +1,116 @@
+{
+    "code": "80D18R01",
+    "name": {
+        "zh": "租稅規劃",
+        "en": "Tax Planning"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技財金三甲",
+        "四技財金三乙"
+    ],
+    "instructors": [
+        "莊淨琳"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "S416"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S416"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "S416"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程著重正確稅務觀念之建立，透過對營利事業所得稅及營業稅法規之瞭解，辨識企業租稅節稅規劃技巧，以企業角度探討不當稅務規劃造成之風險，學習節稅規劃策略，提升稅務管理能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.租稅法基本概念<br>2.營利事業所得稅法規<br>3.產業創新條例租稅優惠規定<br>4.所得基本稅額條例<br>5.加值型及非加值型營業稅法規<br>6.企業節稅方法<br>",
+        "en": "1.To understand basis concepts of taxation principle.<br>2.To understand profit-seeking enterprise income tax law.<br>3.To understand Statute for Industrial Innovation.<br>4.To understand Income Basic Tax Act.<br>5.To understand value-added and non-value-added business tax law .<br>6.Learn tax planning strategies of profit-seeking enterprise income tax and value-added and non-value-added business tax.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解中華民國所得稅法及營業稅法規定",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過對稅法之瞭解，探究企業節稅方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "辨識節稅方法，協助企業合法獲取節稅效益",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "有助於協助企業遵循所得稅法及營業稅法規定",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

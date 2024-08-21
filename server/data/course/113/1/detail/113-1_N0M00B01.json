@@ -1,0 +1,128 @@
+{
+    "code": "N0M00B01",
+    "name": {
+        "zh": "管理資訊系統",
+        "en": "Management information system"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩全球經管一甲"
+    ],
+    "instructors": [
+        "施武榮"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "E0603"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "E0603"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "E0603"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course is designed to make the students knowledgeable of the fundamentals underlying the design, implementation, control, evaluation and strategic use of modern, computer-based information systems for business data processing, office automation",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "01.Business Information Systems: An Overview<br>02.Information Technology in Business: Hardware<br>03.Information Technology in Business: Software<br>04.Information Technology in Business: Telecommunications and Networks<br>05.E-Commerce: The Internet, Intranets, and Extranets<br>06.Data and Knowledge Management<br>07.Supply Chain Management and Global Information Systems<br>08.Decision Support Systems<br>09.Artificial Intelligence and Expert Systems<br>10.Planning Information Systems<br>11.Business Ethic in Management Information System",
+        "en": "01.Business Information Systems: An Overview<br>02.Information Technology in Business: Hardware<br>03.Information Technology in Business: Software<br>04.Information Technology in Business: Telecommunications and Networks<br>05.E-Commerce: The Internet, Intranets, and Extranets<br>06.Data and Knowledge Management<br>07.Supply Chain Management and Global Information Systems<br>08.Decision Support Systems<br>09.Artificial Intelligence and Expert Systems<br>10.Planning Information Systems<br>11.Business Ethic in Management Information System<br>"
+    },
+    "weeklySchedule": "Week 1~2   Introduction of the Course\t <br>\t   Business Information Systems: An Overview (Ch. 1)<br>Week 3~4   Information Technology in Business: Hardware\t(Ch. 4) <br>Week 5~6   Information Technology in Business: Software\t(Ch. 5)<br>Week 7~8   Information Technology in Business: Telecommunications and Networks (Ch. 6)<br>Week 9\t   Midterm Exam<br>Week 10~11 E-Commerce: The Internet, Intranets, and Extranets (Ch. 7)<br>Week 12~13 Data and Knowledge Management\t(Ch. 8)<br>Week 14~15 Supply Chain Management and Global Information Systems (Ch. 11)<br>Week 15~16 Artificial Intelligence and Expert Systems (Ch. 13)<br>Week 17    Presentations<br>Week 18\t   Final Exam<br>",
+    "exams": {
+        "midterm": "上機筆試",
+        "final": "上機筆試",
+        "other": "口頭報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立學生企業資訊管理系統的觀念、原則與技術",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生分析企業問題及應用管理資訊系統解決企業問題的能力",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "撰寫專業報告及表達之能力",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習企業應用管理資訊系統之成功個案",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "Understand the related issue of Business Ethic in Management Information System",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Management Information Systems",
+        "author": "Oz, E.",
+        "publisher": "Course Technology Inc.",
+        "year": "2007",
+        "ISBN": "0-619-16029-2",
+        "edition": "4th"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

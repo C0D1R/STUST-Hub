@@ -1,0 +1,149 @@
+{
+    "code": "12N26601",
+    "name": {
+        "zh": "生醫材料",
+        "en": "Biomaterials"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技自控四甲",
+        "夜四技車輛四甲"
+    ],
+    "instructors": [
+        "林威廷"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "K404"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "K404"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "K404"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "針對金屬，陶磁，高分子及複合等四大材料在生醫材料之應用做一系統之介紹，內容包含生醫材料之特性，製造及應用，讓學生對生醫材料有更深一層的認識。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1. 簡介<br>2. 金屬移植材料<br>3. 陶磁移植材料<br>4. 高分子移植材料<br>5. 複合生醫材料<br>6. 專題報告<br>",
+        "en": "1. Introduction<br>2. Metal implant materials<br>3. Ceramic implant materials<br>4. Polymer implant materials<br>5. Composite biomaterials <br>6. Oral report<br>"
+    },
+    "weeklySchedule": "2024 課程進度表 &lt;週一晚上12，13，14節&gt;<br>9/09 生醫材料概論簡介<br>9/16 生醫材料發展史<br>9/23 基礎材料科學<br>9/30 高分子及可降解高分子<br>10/07 矽膠<br>10/14 水膠<br>10/21 台灣細胞治療現況<br>10/28 紅外光譜儀設計 FTIR<br>11/04 期中考 <br>=================================<br>11/11 智慧型高分子<br>11/18 生物相容性及生物學評估<br>11/25 傷口癒合<br>12/02 生醫紡織品<br>12/09 生醫金屬材料<br>12/16 生醫陶瓷與玻璃<br>12/23 藥物釋放系統<br>12/30 生醫材料與生醫工程<br>2025/01/06 期末考<br>=================================",
+    "exams": {
+        "midterm": "筆試 (單選+簡答)",
+        "final": "筆試 (單選+簡答)",
+        "other": "隨堂點名作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "生醫材料是一跨領域學門",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "醫學最基礎病理生理科學",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "運用機械工程專業知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "研究發展生醫材料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "生醫材料",
+        "author": "劉士榮 編著",
+        "publisher": "滄海圖書",
+        "year": "2022",
+        "ISBN": "9786269602117",
+        "edition": "2nd"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "課堂 Powerpoint \n(遠距 Evercam)",
+    "rules": "隨堂作業當日繳交<br>(遠距隨堂作業當日上傳到FLIPCLASS作業區)<br>"
+}

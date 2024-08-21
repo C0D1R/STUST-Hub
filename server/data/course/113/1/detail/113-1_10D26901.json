@@ -1,0 +1,121 @@
+{
+    "code": "10D26901",
+    "name": {
+        "zh": "圖控程式設計",
+        "en": "Design of the graphic control programme"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控二甲",
+        "四技自控二乙",
+        "四技製造二甲",
+        "四技製造二乙",
+        "四技車輛二甲",
+        "四技車輛二乙",
+        "四機械國專二甲"
+    ],
+    "instructors": [
+        "沈毓泰"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "K408"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "K408"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "K408"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以LabVIEW 程式設計教學為主，逐步教導學生程式設計的觀念與方法，內容著重圖控程式設計能力之訓練及其在工程上之應用，使同學得以建立虛擬儀控設計程式之基礎能力。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.LabVIEW圖控軟體概論<br>2.LabVIEW程式設計初步─四則運算、基本邏輯簡介、布林代數<br>3.LabVIEW程式設計中階─矩陣、迴圈<br>4.LabVIEW程式設計進階─圖形化程式架構、圖表與圖形輸出、檔案輸出入、建立子VI<br>5.資料擷取與分析<br>6.控制應用實例介紹 <br>",
+        "en": "1. LabVIEW Environment<br>2. Elementary Teaching of LabVIEW<br>3. Intermediate Teaching of LabVIEW<br>4. Advanced Teaching of LabVIEW<br>5. Data Acquisition and Analysis<br>6. Demonstration of Control Application<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生具有產業自動化的基本知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備產業自動化基本技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備產業自動化從業人員之專業態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解產業自動化的安全及其應用領域",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

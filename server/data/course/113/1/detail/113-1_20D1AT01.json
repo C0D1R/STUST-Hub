@@ -1,0 +1,127 @@
+{
+    "code": "20D1AT01",
+    "name": {
+        "zh": "基本電學",
+        "en": "Basic Electricity"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專電機一甲"
+    ],
+    "instructors": [
+        "洪得峻"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "I0306"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "I0306"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "I0306"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程培養學生具有基本電學之概念、熟悉電學之計算方法及應用電學之相關技能。其主要目標為教導學生具備基本電路分析及設計的知識。另外，本課程將介紹有關被動元件之基本特性、交直流相關電路之基本原理，使學生具有基礎電學知識，奠定後續學習其他相關課目之根基。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、電壓與電流<br>2、電阻<br>3、歐姆定律<br>4、串並聯電路及分析方式<br>5、電容與電感<br>6、磁性元件介紹及分析<br>",
+        "en": "1. Voltage and Current<br>2. Resistor<br>3. Ohm’s Law<br>4. Series and Parallel Circuits Analysis<br>5. Capacitor and Inductor<br>6. Magnetic Component Introduction<br>"
+    },
+    "weeklySchedule": "第一章　概　論<br>第二章　電路的基礎<br>第三章　純電阻電路<br>第四章　網路分析<br>第五章　磁場和磁路<br>第六章　電磁感應<br>第七章　電感、電容及其電路<br>第八章　電的效應",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末考",
+        "other": "平時作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "電源種類基礎認識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "主、被動元件基礎認識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "電路基礎計算及分析",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "磁性元件基礎介紹",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "基本電學與未來職場之相關性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "基本電學上冊(附鍛練本)",
+        "author": "蔡春益",
+        "publisher": "新文京",
+        "year": "2018",
+        "ISBN": "957-512-034-5",
+        "edition": "8版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,117 @@
+{
+    "code": "L0D0B301",
+    "name": {
+        "zh": "物理實驗",
+        "en": "Experiment In Physics"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技半導體一甲",
+        "四技半導體一乙",
+        "四半導國專一甲"
+    ],
+    "instructors": [
+        "吳文端"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "Q302"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "Q302"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "Q302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本物理實驗課程的內容涵蓋了基礎的牛頓力學、熱學、光學電學、與磁學。<br>實驗課程將分為10個單元進行，每週進行一單元實驗，在實驗進行前會針對與實驗相關的理論說明，使同學能確實掌握實驗的方向與其目的。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元1. 基本測量<br>單元2. 牛頓第二運動定律 <br>單元3. 線膨脹係數<br>單元4. 單狹縫繞射與雙狹縫干涉<br>單元5. 表面張力實驗<br>單元6. 雲霄飛車 (能量守恆)<br>單元7. 波動 (共振與克拉尼共振圖形)<br>單元8. 都卜勒效應實驗<br>單元9. 電力線分佈實驗<br>單元10. 電子電荷與質量比測定 <br>",
+        "en": "Unit 1. Fundamental Measurement<br>Unit 2. Newton’s Second Law<br>Unit 3. Coefficient of Linear Thermal Expansion<br>Unit 4. Diffraction and Interference<br>Unit 5. Surface Tension <br>Unit 6. Roller Coaster (Conservation of Energy)<br>Unit 7. Wave (Vibration and Chladni resonance patterns)<br>Unit 8. Doppler Effect<br>Unit 9. Electric Field Lines<br>Unit 10. Measurement of Charge to Mass Ratio of Electron"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能利用實驗裝置來增進對物理學理論的瞭解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解實驗科學與理論科學之相關聯性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效分析與呈現實驗結果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能與同學分工合作完成實驗",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

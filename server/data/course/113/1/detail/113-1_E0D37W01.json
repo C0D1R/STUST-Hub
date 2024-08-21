@@ -1,0 +1,123 @@
+{
+    "code": "E0D37W01",
+    "name": {
+        "zh": "日語綜合練習(一)",
+        "en": "Japanese Exercises I"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應日四甲",
+        "四技應日四乙"
+    ],
+    "instructors": [
+        "楊琇媚"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "T0104"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0104"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程上課方式以講解日語能力檢定考歷屆考題為主。",
+    "prerequisites": "請具備日語能力檢定二級左右的程度",
+    "syllabus": {
+        "zh": "本課程主要以講解日語能力檢定考N2程<br>度的模擬試題為主,藉由講解模擬試題的<br>文字、語彙、文法、讀解文,對於學生觀<br>念模糊的句型,再進行補充例句解說,提升<br>學生解題技巧,進而提高取得N2證照的能<br>力。",
+        "en": "主に日本語能力検定対策N2の模擬問題<br>集の練習問題を通して、文字、語彙、文<br>法の正しい用法を説明することにより、<br><br>学習者のN2問題集の解く力を上達させ<br>る検定対策の授業です。"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解及掌握日語檢定考試N2級所必備之句型及語法、與文章解讀能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由分析讀解文章中的內容，清楚的了解其語義及掌握理解文章的中心主旨。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "辨別文法例題中的題意，並正確地解題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由聽力試題的演練，明確的理解會話的重點，提昇聽力與口語表達的能力，期許將來可活用於職場應對上。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過試題中的閱讀文，可以提昇學生文章賞析的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

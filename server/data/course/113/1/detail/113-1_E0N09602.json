@@ -1,0 +1,127 @@
+{
+    "code": "E0N09602",
+    "name": {
+        "zh": "日語聽講實習(一)(B)",
+        "en": "Japanese Listening Comprehension Practice Ⅰ"
+    },
+    "credit": "3",
+    "type": "管制必修",
+    "classes": [
+        "夜四技應日一甲"
+    ],
+    "instructors": [
+        "陳貌卿"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": ""
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": ""
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以初級之日語學習者為對象.授課時將引導學習者針對每課各單元作反覆之聽力練習並逐一確認與解說所聽之內容,期能培養學習者聽解之技巧<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程大多取材自當前日本報紙雜誌等.內容以日常生活,社會科學與自然科學類等全面性的題材為主.因紙幅之故,僅簡約將第每個主題都有3個單元-分別是{基本練習}{會話聽力}{聽寫}.授課時將引導學習者針對每課各單元作反覆之聽力練習並逐一確認與解說所聽之內容.此外,更將適時補充相同程度之聽解教材供學習者作多角化的練習,進而增強日語之聽解實力. <br><br>依序分為下列各單元：<br>１． 促音、長音、撥音等容易聽錯的部份加強<br>２． 基本句型的聽力練習<br>３． 文法事項的聽力練習<br>４． 較長句子的聽力練習<br>５． 副詞比較的練習<br>６． 短文的聽力練習<br><br>(A)組<br>1.日語發音聽力練習（50音図）<br>2.名詞句的基本聽力練習（～は～です）<br>3.存在的聽力練習（～にいる・ある）<br>4.限定的基本聽力練習（しか・だけ）<br>5.期中考<br>6.起訖的聽力練習（から～まで）<br>7.基本動詞的聽力練習（～を動詞）<br>8.形容詞聽力練習<br>9.過去形聽力練習<br>10.推測聽力練習（でしょう）<br>11期末考<br>",
+        "en": "1、促音、長音、撥音の聞き取り練習<br>2、基礎文型の聞き取り練習<br>3、文法の聞き取り練習<br>4、長文の聞き取り練習<br>5、副詞比較の練習<br>6、短文の聞き取り練習 <br><br>(A)組<br><br>1.発音の聴解練習（50音図）<br>2.名詞句の聴解練習（～は～です）<br>3.存在の聴解練習（～にある・いる）<br>4.限界・範囲の聴解練習（しか・だけ）<br>5.中間テスト<br>6.始発・終点の聴解練習（から～まで）<br>7.動詞の聴解練習（～を動詞）<br>8.形容詞の聴解練習<br>9.過去形の聴解練習<br>10.推測の聴解練習（でしょう）<br>11.期末テスト"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "本課程以訓練聽的能力為主，說的能力為輔。運用習得的基本單字與文法句型，加強訓練聽講能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "聽力與口譯能力為一體兩面，聽到的日文內容要如何用適當的中文表達，也必須透過不斷的練習。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "可以透過英文幫助對外來語的理解。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "可透過商務方面或時事相關之教材，了解社會脈絡及產業現況，學習如何適應社會。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "可培養欣賞句子或文章的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

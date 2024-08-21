@@ -1,0 +1,119 @@
+{
+    "code": "20D1G301",
+    "name": {
+        "zh": "創意思考概論",
+        "en": "Introduction to Creative Thinking"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "五專電機四甲"
+    ],
+    "instructors": [
+        "侯春茹"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "I0211"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "I0211"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "I0211"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課透過瞭解創意的本質與目，探討創意的來源、如何建構創意、捕捉創意、實現創意。而在創意的實踐過程中，如何根據現實的回饋與反應，調整初始創意來符合達成實際的應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.創意的本質與目的<br>2.創意的來源<br>3.構思創意與情境創意<br>4.實現創意與現實<br>5.現實回饋與創意調整<br>6.創意思考案例解析",
+        "en": "1.Essence and Intention of Creativity<br>2.Origin of Creativity<br>3.Constructing Creativity and Occasional Creativity<br>4.Realization of Creativity and Reality<br>5.Creativity Amendment from Reality Feedbacks<br>6.Case Study of Creative Thinking"
+    },
+    "weeklySchedule": "第1周 創意與創造<br>第2周 放假<br>第3周 垂直思考與水平思考<br>第4周 腦力激盪法<br>第5周 腦力激盪法<br>第6周 六項思考帽與六雙行動鞋<br>第7周 六項思考帽與六雙行動鞋<br>第8周 奔馳法<br>第9周 期中考<br>第10周 奔馳法<br>第11周 曼陀羅法<br>第12周 曼陀羅法<br>第13周 心智圖法<br>第14周 心智圖法<br>第15周 分合法<br>第16周 發明<br>第17周 專利與智慧財產權<br>第18周 期末考",
+    "exams": {
+        "midterm": "分組報告",
+        "final": "分組報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解創意與創造力的意涵。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解創意思考的方法與工具。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "練習與應用創意思考的方法。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "利用創意思考的方法產生創意與產品",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "創意思考與發明",
+        "author": "張振華",
+        "publisher": "普林斯頓",
+        "year": "2024",
+        "ISBN": "9789579548045",
+        "edition": "二版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

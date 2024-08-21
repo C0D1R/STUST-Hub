@@ -1,0 +1,122 @@
+{
+    "code": "1JD00L01",
+    "name": {
+        "zh": "專業英文",
+        "en": "Professional English"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技高福三甲"
+    ],
+    "instructors": [
+        "馬淑清"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "O101"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "O101"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為符合樂齡服務所需之英文需求，本課程有四大方向：<br>1. 溝通表達<br>2. 健康監控<br>3. 飲食控管<br>4. 醫療照護",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "I. 溝通表達<br>1. 自我介紹<br>2. 時間表<br>3. 與受照護者與訪客的互動<br>4. 帶長者赴醫檢查<br>5. 心理支持<br>II. 健康監控<br>6. 了解長者狀況<br>7. 長者健康檢查<br>8. 描述症狀<br>9. 血液檢驗<br>10. 體溫監控<br>III. 飲食控管<br>11. 容量單位<br>12. 飲食協助<br>IV. 醫療照護<br>13. 劑量與用藥指引<br>14. 副作用<br>15. 醫療相關用品<br>16. 安全指引",
+        "en": "Meeting People<br>1. Introducing yourself<br>2. Reading a Nursing Schedule<br>3. Meeting the Elderly and their Visitors<br>4. Escorting the Elderly for Tests<br>5. Setting Goals &amp; Giving Encouragement<br>Assessment<br>6. Talk about Old Age<br>7. Checking the Elderly Details<br>8. Describing Symptoms<br>9. Taking a Blood Sample<br>10. Monitoring Body Temperature<br>Food &amp; Measurements<br>11. Measurements &amp; Quantities<br>12. Assisting the Elderly at Mealtime<br>Medication<br>13. Dosage and Frequency<br>14. Side Effects<br>15. Ordering Supplies<br>16. Giving Simple Safety Instructions<br>課堂講授、實作演練、分組討論"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解高齡生理、心理及社會等特質，具備高齡健康照顧、高齡教育與高齡休閒之專業知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備高齡健康照顧、高齡教育與高齡休閒相關技能及持續進修之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "遵守倫理規範，具備多方面技能，能與不同專業背景工作者合作之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備中文、英文及其他與高齡者互動之語言能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備與高齡者及家屬溝通之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

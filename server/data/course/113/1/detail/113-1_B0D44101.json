@@ -1,0 +1,117 @@
+{
+    "code": "B0D44101",
+    "name": {
+        "zh": "飲料調製",
+        "en": "Drink Modulation Practice"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "二技休閒四甲",
+        "四技休閒四甲",
+        "四技休閒四乙"
+    ],
+    "instructors": [
+        "王尉均"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "T0603"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0603"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0603"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學習各種丙級檢定飲料調製的調製技巧，包含各式咖啡、茶、果汁調配",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "雞尾酒的調配技法<br>1.直調法<br>2.搖勻法<br>3.攪拌法<br>4.漂浮法<br>5.果汁機混合法<br>6.手工冰熱咖啡調製<br>7.冷熱花茶調製",
+        "en": "METHODS OF MAKING MOCKTAILS<br>1.Method of Building<br>2.Method of Shaking<br>3.Method of Stirring<br>4.Method of Floating<br>5.Method of Blending<br>6.Syphone Cofee,Dripping Iced Coffee<br>7.Flowery Hot &amp; Iced Tea"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能夠了解酒的分類",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠認識六大基酒、成本及酒精計算",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠將所學的知識及技能運用到技能檢定上",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉飲料調製的流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

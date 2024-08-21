@@ -1,0 +1,111 @@
+{
+    "code": "I0D25S01",
+    "name": {
+        "zh": "幼兒自然科學與科技",
+        "en": "Child Science and Technology"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技幼保二甲"
+    ],
+    "instructors": [
+        "高家斌",
+        "黃盈斐"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0502"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0502"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "幼兒科學教育乃是學前教育階段的重要學習議題之一，其內容提供幼兒接觸、操作自然科學的實際經驗以及敘述經驗，幫助幼兒獲得科學概念之能力，對於幼兒的邏輯思考發展有著相當重要的影響。本課程旨在探討幼兒科學教育的內涵及教學實施方式，並輔以科技融入教學的教育方式及其相關重要議題的發展現況來瞭解幼兒科學與科技教育的未來發展。課程內容將以引導式學習方式，透過書籍閱讀、觀察體驗、遊戲實驗、網際科技應用和主題探討等互動式學習進行。目的在帶領學生認識自然科學的內涵及科技使用的方法；建立正確科學知識及科技教學概念；熟悉幼兒自然科學概念發展及科技教學技能；及瞭解幼兒自然科學教育理念和科技教學實施方法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程介紹<br>2.幼兒科學教育定義、目標與內涵<br>3.幼兒科學教學模式<br>4.各國幼兒科學教育實施現況<br>5.幼兒科學教學設計與實施<br>6.幼兒科技教育定義、目標與內涵<br>7.幼兒科技教學模式<br>8.各國幼兒科技教育實施現況<br>9.幼兒科技教學設計與實施<br>",
+        "en": "Definition, goal and connotation of early childhood science education Early childhood science teaching mode Current status of implementation of early childhood science education in various countries<br>Design and implementation of early childhood science teaching<br>Definition, goal and connotation of mathematics education for children<br>Early childhood mathematics teaching modeMidterm exam<br>Current status of implementation of mathematics teaching for children in different countries<br>Design and implementation of mathematics teaching for children Discussion on the ncorporation of Preschool Creative Teaching Activities (1)<br>Discussion on the Incorporation of Children's Creative Teaching Activities (II)<br>Final exam"
+    },
+    "weeklySchedule": "第一週：課程介紹<br>第二週：認識幼兒科學教育的定義、目標與內涵<br>第三、四週：介紹幼兒科學教學模式的基本概念和種類<br>第四、五週：探討各國幼兒科學教育的實施現況<br>第六週：分析幼兒科學教育成功的關鍵因素和困難，跨文化比較。<br>第七週：探討幼兒科學教學設計的原則和步驟。<br>第八週：實際案例分享，如何在幼兒教學中融入科學教育元素。<br>第九週：討論幼兒科學教學的評估方法和效果。<br>第十週、十一週：認識幼兒科技教育定義、目標與內涵<br>第十二、十三週：認識幼兒科技教學模式<br>第十四、十五週：了解各國幼兒科技教育實施現況<br>第十六、十七、十八週：實際與同學模擬製作一個科學活動，並評估可行的方法。",
+    "exams": {
+        "midterm": "報告",
+        "final": "報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解幼兒科學與科技教學的內涵及相關議題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解幼兒科學與科技教學的實施方式",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "增進學生對於幼兒科學與科技教學的專業知能",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "擴大學生對於幼兒科學與科技教學議題的瞭解及視野",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "幼兒玩科學-主題性科學遊戲",
+        "author": "高家斌、白沛緹、高婉綾",
+        "publisher": "心理出版社",
+        "year": "2017",
+        "ISBN": "9789861917863",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

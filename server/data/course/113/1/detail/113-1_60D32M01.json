@@ -1,0 +1,151 @@
+{
+    "code": "60D32M01",
+    "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國企二甲"
+    ],
+    "instructors": [
+        "梁文科"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "S513"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S513"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "S513"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程先藉由一些生活案例的介紹，然後將行銷知識融入其中，並系統性的整合行銷相關知識，強調思考邏輯過程的完整性。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.行銷理論<br>2.行銷環境分析<br>3.關鍵成功因素與競爭優勢<br>4.市場區隔與目標市場選擇<br>5.消費市場的顧客分析<br>6.產品策略",
+        "en": "1.\tMarketing Theory<br>2.\tMarketing Environment Analysis<br>3.\tKey Success Factors and Competitive Advantages<br>4.\tSegmentation and Target Market<br>5.\tConsumer Behavior Analysis<br>6.\tProduct Strategy<br>"
+    },
+    "weeklySchedule": "1.行銷的核心觀念          1-2<br>2.行銷環境分析的基本概念  3-5<br>3.關鍵成功因素與競爭優勢  6-8<br>4.定位與區隔              9-10 <br>5.消費市場的顧客分析      11-15<br>6.產品管理                16-18<br>",
+    "exams": {
+        "midterm": "考試",
+        "final": "考試",
+        "other": "小組討埨與報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能夠利用書面及口頭介紹行銷分析資料",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用統計及多變量方法分析國際商務相關資料",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠組織特定主題之重點、製作簡報資料以及清晰的呈現與表達",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠與他人清楚的溝通、協調及統合不同的意見",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "養成實務操作之經驗與能力，並擁有相關的專業證照之考照能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能夠製作商務專案、專題、活動或計畫",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能夠養成對專業的新知或技術有主動學習的意願與動力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "行銷管理(理論解析與實務應用)",
+        "author": "曾光華",
+        "publisher": "前程",
+        "year": "2024",
+        "ISBN": "9786269809134",
+        "edition": "9"
+    },
+    "referenceBooks": "Marketing Management ，Philip Kotler著",
+    "teachingSoftware": "",
+    "rules": "上課必點名"
+}

@@ -1,0 +1,117 @@
+{
+    "code": "90D21J01",
+    "name": {
+        "zh": "電子商務安全",
+        "en": "Electronic Commerce Security"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資管四甲",
+        "四技資管四乙",
+        "四技資管四丙"
+    ],
+    "instructors": [
+        "陳垂呈"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "E0403"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "E0403"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "E0403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要學習電子商務模式與應用，瞭解可能面臨的威脅，並簡介相關電子商務安全技術與應用模式等，除可讓學生瞭解如何建立安全的電子商務模式，亦可讓學生學習在建置電子商務應用系統或服務時可能面臨的技術問題等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 安全電子商務簡介<br>2. 安全電子商務協定<br>3. 安全加密器介紹<br>4. 憑證管理中心之理論與實務<br>5. 憑證管理中心之建置與應用<br>6. 智慧卡功能與應用",
+        "en": "1. Concept of Electronic Commerce Security <br>2. Protocol of Electronic Commerce Security <br>3. Introduction of Secure Cryptosystem <br>4. Theorem and Application of Certificate Authority <br>5. Creation and Application of Certificate Authority <br>6. Application of Smart Card"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能熟練電子商務網路相關設定。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能熟練地將資管專業知識的理論基礎與電子商務實務相互結合。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解職場電子商務軟體的安全。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能獨立思考及提出問題解決方案。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

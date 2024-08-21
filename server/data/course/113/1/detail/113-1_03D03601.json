@@ -1,0 +1,110 @@
+{
+    "code": "03D03601",
+    "name": {
+        "zh": "國民小學語文(國語)教材教法",
+        "en": "Instructional Materials and Methods of Chinese in the Elementary  School"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "教育學程－小"
+    ],
+    "instructors": [
+        "何銘鴻"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第11節",
+            "location": "W0401"
+        },
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "W0401"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程之目標在於養成兼具國語文與教學專業素養之國語文教師，除了能夠充分了解十二年國教課綱之內涵及特色，並初步掌握培育小學生的聽、說、讀、寫、作等基本能力的教學方法，且能設計教學活動以運用教材。<br>【專業素養指標】<br>1-2 敏銳覺察社會環境對學生學習影響，以利教育機會均等。<br>2-1 了解並尊重學生身心發展、社經及文化背景的差異，以作為教學與輔導的依據。<br>3-1 依據課程綱要/大綱、課程理論及教學原理，以規劃素養導向課程、教學及評量。<br>3-2 依據課程綱要/大綱、課程理論及教學原理，以協同發展跨領域/群科/科目課程、教學及評量。<br>3-3 具備任教領域/群科/科目所需的專門知識與學科教學知能，以進<br>行教學。<br>3-4 掌握社會變遷趨勢與議題，以融入課程與教學。<br>3-5 應用多元教學策略、教學媒材與學習科技，以促進學生有效學習。<br>4-1 應用正向支持原理，共創安全、友善及對話的班級與學習環境，以養成學生良好品格及有效學習。<br>4-2 應用輔導原理與技巧進行學生輔導，以促進適性發展。<br>5-1 思辨與認同教師專業倫理，以維護學生福祉。<br>【課程核心內容】<br>1了解教育發展的理念與實務<br>■(3)教育與社會變遷及進步<br>■(4)教育與社會流動及公平<br>2了解並尊重學習者的發展與學習需求<br>■(6)學生特質與需求的辨識<br>3規劃適切的課程、教學及多元評量<br>■(1)主要課程、教學與評量的理論<br>■(2)重要議題融入課程、教學與評量<br>■(3)我國課程、教學與評量的重要政策<br>■(4)12 年國民基本教育素養導向 (單科/跨領域統整/跨科統整)課程、教學及評量的發展及實踐<br>■(5)課程、教學與評量的創新及學習科技的應用<br>■(6)領域/學科(或科目)/群科專門知識與學科教學知能<br>■(7)分科/分領域(群科)教材教法<br>■(8)探究與實作設計與實施<br>4建立正向學習環境並適性輔導<br>■(7)親師生關係<br>5認同並實踐教師專業倫理<br>■(1)教師專業、倫理及其承諾<br>【融入議題】<br>■資訊教育(含數位學習)<br>■閱讀素養<br>■媒體素養教育<br>■媒體識讀<br>",
+    "prerequisites": "先修教學基本學科課程、教育基礎課程、教育方法課程各至少一門課",
+    "syllabus": {
+        "zh": "1. 語文教學基本理論<br>2. 語文基本知識：修辭 漢語的特點 標音符號<br>3. 聆聽與說話教學<br>4. 識字與寫字教學<br>5. 閱讀教學<br>6. 國語文教學之實務重點<br>7. 素養導向國語文教學設計<br>8. 作文教學單元活動設計<br>9. 課文教學單元活動設計<br>10.試教與實務演練<br>",
+        "en": "1.Theories of language teaching<br>2.Basic knowledges of language learning<br>3.Learning to Listen and talk <br>4.Learn to read and write<br>5.Reading comprehension<br>6.Lesson plan of composition<br>7.How to prepare a Lesson plan <br>8.Teaching exercise"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "設計適當教材於國語文教學課程中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "掌握班級教學秩序和常規，善加運用獎懲",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用適當教室語言，進行師生互動，增加瞭解學生的機會",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生均等的受教機會",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

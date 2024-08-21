@@ -1,0 +1,128 @@
+{
+    "code": "K0D3AC01",
+    "name": {
+        "zh": "基礎漫畫技法",
+        "en": "Basic Manga Techniques"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技多樂一甲",
+        "四技多樂一乙"
+    ],
+    "instructors": [
+        "吳智賢"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "W0703"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0703"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0703"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "「認知」領域：瞭解漫畫人物繪製方法與漫畫製作的流程。<br>「技能」領域：能熟練使用筆尖和線條、色彩等漫畫道具。<br>「情意」領域：培養對人物的觀察及造型架構能力。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "課程介紹漫畫的基本技巧。從最基本的人物描繪開始，頭身、比例、體態、年齡到各種角色配置。了解真人簡化到漫畫的過程，運用解剖學、攝影等手段掌握各種角度的運動姿勢。並且解說漫畫製作的流程，構圖、修白、效果線、效果音，建立從零到有的漫畫描繪素養。<br><br>",
+        "en": "The course introduces the basic techniques of comic. From the beginning of most basic figure drawing, head and body, proportion of figure, posture, age, and to a variety of role configuration, understand the process of live simplifying to the comic, using anatomy, photography and other means at its disposal of posture with a variety of angles. Furthermore, to explain the process of making comics, composition, repairing white, line effects, sound effects, and from zero to establish some comics depicting literacy.<br><br>"
+    },
+    "weeklySchedule": "第01週：認識漫畫基本呈現方式，工具使用介紹<br>第02週：漫畫基礎與線條～沾水筆與墨筆技巧<br>第03週：人物骨架比例設計概念實作(一)<br>第04週：人物骨架比例設計概念實作(二)<br>第05週：人物表情與情感(一)<br>第06週：人物表情與情感(二)<br>第07週：汽機車造型設計與描繪(一)<br>第08週：汽機車造型設計與描繪(二)<br>第09週：期中考週<br>第10週：名家作品觀摩<br>第11週：數位設備應用與介紹～電繪、iPad與安卓平板<br>第12週：場景繪製～速寫練習(一)<br>第13週：場景繪製～速寫練習(二)<br>第14週：道具與配件質感描繪<br>第15週：構圖與分鏡構成<br>第16週：混合媒材創作<br>第17週：漫畫綜合技法設計實作<br>第18週：期末考週",
+    "exams": {
+        "midterm": "作業",
+        "final": "作業",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "「認知」領域：瞭解漫畫人物繪製方法與漫畫製作的流程。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "「技能」領域：能熟練使用筆尖和線條、色彩等漫畫道具。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "「情意」領域：培養對人物的觀察及造型架構能力。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "漫畫製作的流程，構圖、修白、效果線、效果音。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "作者：Ｃ·Ｃ動漫社<br>書名：新手漫畫技法教程 零基礎漫畫素描入門<br>出版社：楓書坊<br>出版日期：2022/08/26",
+    "teachingSoftware": "Painter、SketchBook、Procreate",
+    "rules": ""
+}

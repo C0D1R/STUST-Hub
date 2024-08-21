@@ -1,0 +1,115 @@
+{
+    "code": "1CM00X01",
+    "name": {
+        "zh": "高等工業設計",
+        "en": "Course Description"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研產設一甲"
+    ],
+    "instructors": [
+        "王文雄"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "X301"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "X301"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "X301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "這一門課經由產品設計的研究方法加上實際的設計專案，以設計思考的手段來進行創新的問題解決。課堂會從使用者經驗開展並了解使用者的生活型態所演繹出的不同設計思維，創造多的創意設計思考。<br>This course is based on the product design research method plus the actual design project, and the innovative thinking problem is solved by means of design thinking. The classroom will develop and understand the different design thinking of the user's life style and create more creative design thinking.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "•培養工業設計深度討論之能力<br>•培養工業設計研究方法<br>•培養工業設計方法與實作",
+        "en": "Cultivate in-depth discussion of industrial design<br>Cultivate industrial design research methods<br>Cultivate industrial design methods and implementation"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養工業設計深度討論之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養工業設計研究方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養工業設計方法與實作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養工業設計創意設計思考",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

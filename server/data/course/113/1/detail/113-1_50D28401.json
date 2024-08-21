@@ -1,0 +1,128 @@
+{
+    "code": "50D28401",
+    "name": {
+        "zh": "品質管理基本方法",
+        "en": "Quality Management Essential Method"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技工管二甲",
+        "四技工管二乙"
+    ],
+    "instructors": [
+        "王鵬森"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "T0802"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0802"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0802"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "讓學生了解品質管理的基本概念與手法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t品質管理基本概念<br>2.\t品管七大手法<br>3.\t品管新七大手法<br>4.\t5S<br>5.\t品管圈<br>6.\t基本量測<br>7.\t品質管理實務<br>",
+        "en": "1.\tFundamental concepts of Quality Management <br>2.\tQuality control seven tools<br>3.\tNew 7 quality control tool<br>4.\t5S<br>5.\tQuality Control Circle <br>6.\tElementary measurement<br>7.\tQuality management in practice <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生了解品質管理基本概念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉品質管理基本手法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用品質管理基本手法解決實務問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能使用電腦處理所需的資料與圖形。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "擁有簡報及書面報告之溝通技巧與能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

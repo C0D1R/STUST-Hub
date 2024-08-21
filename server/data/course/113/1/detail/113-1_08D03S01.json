@@ -1,0 +1,127 @@
+{
+    "code": "08D03S01",
+    "name": {
+        "zh": "哈台南練英語",
+        "en": "Hot Tainan: learning by traveling"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "黃馨儀",
+        "駱茗芬"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "T0207"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "T0207"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為因應教育部高教深耕計畫所推動的創新教學政策及2023雙語國家政策，使英語學習生活化，在地化，提高學生英語學習動機，促進國際交流，本課程採走讀式教學模式，培養學生以英文介紹台南在地歷史、文化、美食等能力。本課程採用台南市政府所製作的《HOT Tainan 哈臺南》線上英語節目和授課教師自編適合本校學生的學習資料作為主教材，使學生能夠習得日常生活單字並透過英文認識多元的台南。<br><br>To cope within the framework of the Higher Education Sprout Project by the Ministry of Education (MOE) as well as the policy of 2023 Bilingual Nation, this course adopts learning by traveling strategy to make English learning connected to students’ daily life and cultivate students’ ability to introduce local history, culture and delicacies of Tainan. The “Hot Tainan” video clips released by Tainan city government as well as teacher-created learning files are used as teaching materials, which help students acquire English words in daily life and get to know diverse Tainan through learning English.<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程將分兩部分進行，前半部分以增進學生的聽力、發音及字彙能力為主。學生須在上課前先自行觀看哈台南影片，在上課中以分組方式聽寫教師所播放的影片內容。後半部分以增進學生英語口語表達及現場導覽能力為主，學生將走出教室，以英文在現場導覽課程中所介紹的觀光景點，導覽過程將全程錄影。影片可做為學生的學習成果及學習歷程檔案之用。<br><br>學生任務:<br>1. 學生須在上課前先觀看哈台南影片<br>2. 以小組為單位，觀看導覽影片並聽寫影片內容<br>3. 以小組為單位簡述影片內容並練習導覽<br>4. 每位小組成員到實地做導覽，並對同學的導覽提問及做回應<br>課程目標:<br>1. 培養人文素養和提升對台南當地文化的認知<br>2. 訓練英語聽寫及口語表達能力<br>3. 訓練英語正確的發音與語調<br>4. 培養英語導覽能力<br>5. 培養英語溝通及簡報能力<br>",
+        "en": "The course consists of two parts. The first part focuses on enhancing students’ listening ability, pronunciation and vocabulary. Students have to watch the assigned video clips of Hot Tainan in advance before the class. In class, they are divided in groups and fill in the missing words in the video scripts while watching the same video clips of Hot Tainan. The other part focuses on real performance; that is, students will go out of the classroom to the scenic attractions which were toured in the classes via Hot Tainan video clips. They are going to actually introduce the attractions in English. The whole process of students’ performances will be videotaped for the purpose of summarizing learning effects and making learning portfolios.  <br><br>Students’ tasks:<br>1. Students have to watch the assigned videos at home before class.<br>2. As a group, students have to watch the video clips in class and fill in the missing words to reproduce the script. <br>3. As a group, students have to summarize the features of the selected episodes. <br>4. Each student in the group has to give an English tour on the spot, asks <br>questions and makes responses. <br><br>Course Goals<br>1. To cultivate literary qualities and recognition of local culture<br>2. To develop English listening and speaking ability<br>3. To train English pronunciation and intonation<br>4. To develop English language skills for recreation leaders. <br>5. To enhance communicative abilities and presentation skills.<br>"
+    },
+    "weeklySchedule": "Week 1: Course Introduction, grouping<br>Week 2: Southwest Coast National Scenic Area tourism-invited speech       <br>Week 3: Beimen Visitor Center,Taiwan Blackfoot Socio-Medical Service Memorial House<br>Week 4: Hung Tung's Fantasy, Beimen local delicacies<br>Week 5: Crystal Church, Money-coming grocery store<br>Week 6: The blue house-Beimen, Jinzaijiao, Salt Pans<br>Week 7: Guest lecture <br>Week 8: Script writing<br>Week 9: Photography and video shooting basics (lab)<br>Week 10: Professional tour-guiding demonstration<br>Week 11: Tour-guiding preparation<br>Week 12: On-site Tour-guiding video shooting <br>Week 13: On-site Tour-guiding video shooting <br>Week 14: On-site Tour-guiding video shooting <br>Week 15: Video editing workshop (lab) <br>Week 16: Students' video watching and discussion<br>Week 17: Questionnaire and interview<br>Week 18: Course feedback",
+    "exams": {
+        "midterm": "繳交導覽文字稿 (tour-guiding script submission)",
+        "final": "無",
+        "other": "第16-17 週:上傳導覽影片 (tour-guiding video)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "英語聽力與英語導覽能力",
+            "teachingMethods": [
+                "課堂講授",
+                "其他",
+                "－業師導覽"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "聽寫及重製導覽影片內容並錄製個人學習歷程檔案",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "深入了解台南本地的文化及風俗民情",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                },
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "以英語解說並回答有關台南當地文化及旅遊等問題",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自編教材",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "M0D15Q01",
+    "name": {
+        "zh": "餐旅人力資源管理",
+        "en": "Hospitality Management"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技餐旅三乙"
+    ],
+    "instructors": [
+        "余梅香"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "T0311"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "T0311"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "今日經理人所面對的工作環境與管理對象與過去已大不相同。現今企業的人力資源管理也已備受重視。本課程透過種種人力資源議題加以實例探討及角色扮演，讓同學了解何謂人力資源並且知道如何在勞資之間取得平衡並扮演好管理者的角色。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "一、餐旅產業人力資源管理導向<br>二、工作設計與分析<br>三、人力資源規劃<br>四、人員招募、遴選、任用、遷調<br>五、員工訓練<br>六、績效考核<br>七、生涯規劃<br>八、薪資管理與獎勵<br>九、員工福利<br>十、餐旅人力資源管理的未來趨勢<br>",
+        "en": "-Using Job Analysis and Competency Modeling <br>-Recruiting and Retaining Qualified Employees <br>-Selecting Employees to Fit the Job and the Organization<br>-Training and Developing a Competitive Workforce<br>-Developing an Approach to Total Compensation<br>-Measuring Performance and Providing Feedback<br>-Using Performance-Based Pay to Enhance Motivation<br>-Providing Benefits and Services<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解餐旅產業人力資源管理的相關理論與實例",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備餐旅業人力資源規劃之專業能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "評估餐旅業人力資源現況",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "預測餐旅人力未來趨勢之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

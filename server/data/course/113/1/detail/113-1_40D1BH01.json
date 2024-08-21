@@ -1,0 +1,115 @@
+{
+    "code": "40D1BH01",
+    "name": {
+        "zh": "基礎分析化學(一)",
+        "en": "Analytical Chemistry I"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專化材二甲"
+    ],
+    "instructors": [
+        "蘇莉芸"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "I0310"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "I0310"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "I0310"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "分析化學方法介紹，濃度、平衡與計量化學基本概念，統計分析與評估，重量分析法 、容積分析法，酸鹼中和滴定理論與應用，錯化合物與沉澱滴定應用，氧化還原滴定與應用，電化學分析與應用",
+    "prerequisites": "1.General Chemistry(普通化學) 2.化學工程與材料工程系學生",
+    "syllabus": {
+        "zh": "1.分析化學的工具<br>2.濃度與計量化學<br>3.化學平衡<br>4.分析誤差<br>5.統計分析與評估<br>6.重量分析法<br>7.電解質效應<br>8.複雜系統平衡計算<br>9.容積分析法<br>10.中和滴定理論<br>11.多官能基酸鹼滴定<br>12. 中和滴定之應用<br>13錯化合物與沉澱滴定<br>14.電化學分析<br>15.電極電位之應用<br>16.氧化還原滴定",
+        "en": "1.The Tools of Analytical Chemistry 2.Concentrations and Stoichiometry<br>3.Chemical Equilibrium<br>4.Errors in Chemial Analyses<br>5.Statical Analysis and Evaluation<br>6.Gravimetric Methods of Analysis<br>7.Electrolyte Effects<br>8.Equilibrium Calculations of Complex Systems 9.Volumetric Titrimetry<br>10.Principles of Neutralization Titrations<br>11.Titrating Polyfuctional Acids and Bases 12.Applying Neutralization Titrations 13.Coplexation and Precipitation Titrations 14.Electrochemical Methods<br>15.Using Electrode Potentials<br>16.Redox Titrations"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解定性與定量分析分析方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析定量分析化學實驗數據並解釋結果。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉分析化學在工業上的應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能計算及解決分析化學的習題與問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

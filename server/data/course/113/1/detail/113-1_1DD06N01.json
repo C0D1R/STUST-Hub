@@ -1,0 +1,105 @@
+{
+    "code": "1DD06N01",
+    "name": {
+        "zh": "專修(五)爵士鼓(A7)",
+        "en": "Major Ⅴ Drum Set"
+    },
+    "credit": "1",
+    "type": "管制選修",
+    "classes": [
+        "四技流音三乙"
+    ],
+    "instructors": [
+        "李泓博"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "W1016"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為小班教學，以教授「爵士鼓」專長領域之相關理論、實務技巧以及職場倫理，強化學生演奏技能，培養學生專業素養與敬業態度。以作業、考試等方式評量學習成效。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、手腳的打擊<br>二、協調訓練<br>三、節奏練習<br>四、過門學習<br>五、練習曲",
+        "en": "一、Hand and foot blow<br>二、Coordinated training<br>三、Rhythm practice<br>四、Go through practice<br>五、Song Practice"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解爵士鼓專長領域之專業知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備爵士鼓專長領域之展演能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "展現尊重、接納老師指導之學習態度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養自我提升、終身學習之態度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

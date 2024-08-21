@@ -1,0 +1,125 @@
+{
+    "code": "90D21O01",
+    "name": {
+        "zh": "企業資源規劃系統(A)",
+        "en": "ERP System"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資管三甲",
+        "四技資管三乙",
+        "四技資管三丙"
+    ],
+    "instructors": [
+        "吳昭儀"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0708"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "T0708"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "T0708"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹ERP系統各功能模組,讓學生熟悉企業基本作業流程<br>教授SAP Business One ERP系統實際操作, 以求理論與實務並重",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 課程介紹與SAP ERP產品介紹<br>2. SAP B1安裝與操作環境介紹<br>3. SAP B1導入起始資料建立<br>4. 銷售模組<br>5. 生產計劃(MRP)模組<br>6. 採購模組<br>7. 生產訂單(製令)模組<br>8. 財務會計模組<br>",
+        "en": "1. Introduction of ERP system and SAP B1<br>2. Basic operations of SAP B1<br>3. Sales &amp; Delivery process<br>4. Production planning and control process<br>5. Purchasing/Acquistion process<br>6. Invertory management process<br>7. Finical/Accounting process"
+    },
+    "weeklySchedule": "Week 1: ERP與SAP B1簡介<br>Week 2: SAP B1操作環境介紹、基本資料建置<br>Week 3~5: 基本資料建置(會計科目表、業務夥伴、項目)、期初開帳<br>Week 6~8: 銷售(報價、訂單、交貨、A/R發票; 退貨)<br>Week 8,10~11: 生產計畫(MRP)<br>Week 9: 期中考<br>Week 12~13: 採購(報價、採購單、收貨、A/P發票; 退貨)<br>Week 14~15: 生產(核發、領發料、完工入庫、結案)<br>Week 17~17: 收/付款(現金、銀行轉帳、支票)<br>Week 18: 期末考<br>",
+    "exams": {
+        "midterm": "上機考",
+        "final": "上機考",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解企業基本作業流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能準確地操作SAP B1系統進行企業流程各項作業",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能應用ERP流程觀念分析並模擬執行個案導入",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能透過分組期末個案報告熟練文件撰寫並養成團隊合作精神",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自製教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "SAP Business One",
+    "rules": "1. 第一節上課10分鐘後點名, 請準時出席。<br>2. 不定期在課堂中會有當日上課進度的平時作業, 不接受補交。<br>3. 期中與期末考均採上機考試。<br>4. 上課期間禁止使用手機於非課程相關操作與趴睡"
+}

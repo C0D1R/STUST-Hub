@@ -1,0 +1,115 @@
+{
+    "code": "C0D5F401",
+    "name": {
+        "zh": "領導與策略思考",
+        "en": "Leadership and Strategic Thinking"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技應英四甲"
+    ],
+    "instructors": [
+        "楊晴絨"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "N310"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "N310"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "N310"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程設計以文教事業經營、人力資源管理知識（團隊領導與協作）、規劃與開發能力等為架構，並列舉國際教育實例，教導學員如何領導團隊，規劃國際教育交流相關課程與活動，成為在此專業領域的一位卓越管理者。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "橫向管理：提升職場即戰力、領導者非做不可的9大策略、自我分析到決策模式運用、危機處理與談判溝通、如何思考你的職涯策略？、何謂破壞式創新？、專業經理人的必備能力、提升工作績效及職場效能、國際活動策劃及統籌、國際商務社交與會議執行。",
+        "en": "Horizontal Management: Enhancing Workplace Effectiveness, 9 Strategies Leaders Must Take, From Self-analysis to Decision Making, Crisis Management and Negotiation Communication, How to Think about Your Career Strategy? What Is Disruptive Innovation? The Essential Skills of A Professional Manager, Enhancing Work Performance and Workplace Effectiveness, International Event Planning and Coordination, International Business Socialization and Meeting Execution"
+    },
+    "weeklySchedule": "第一週\t課程介紹、領導與策略思考概述<br>第二週\t領導風格與效能<br>第三週\t領導力與影響力<br>第四週\t策略思考與分析<br>第五週\t情境分析與策略選擇<br>第六週\t策略執行與評估<br>第七週\t組織文化與變革<br>第八週\t組織設計與管理<br>第九週\t團隊建立與管理<br>第十週\t創新與創業精神<br>第十一週\t領導力與創新管理<br>第十二週\t領導力與組織變革<br>第十三週\t戰略思维與組織學習<br>第十四週\t領導力與跨國企業管理<br>第十五週\t領導力與社會責任<br>第十六週\t領導力與全球化<br>第十七週\t領導力與可持續發展<br>第十八週\t課程總結與回顧",
+    "exams": {
+        "midterm": "reflection journal",
+        "final": "reflection journal",
+        "other": "N/A"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "充分了解目前國家推動國際教育的相關政策，以及國際教育產業上有何重要工作內容與實施重點。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養學員具備全球視野與國際文教實務知能。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "透過相關管理知識、技能及領導的傳遞，厚實學員的理論與實務結合能力，發揮所學。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "具備團隊領導的能力，規劃國際教育交流相關課程與活動，成為在此專業領域的一位卓越管理者。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "N/A",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

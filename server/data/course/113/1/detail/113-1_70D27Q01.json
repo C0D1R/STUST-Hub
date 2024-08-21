@@ -1,0 +1,118 @@
+{
+    "code": "70D27Q01",
+    "name": {
+        "zh": "人才發展品質管理系統",
+        "en": "Talent Quality-Management System"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管三甲",
+        "四技企管三乙",
+        "四技企管三丙"
+    ],
+    "instructors": [
+        "鄭滄祥"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "S309"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "S309"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "S309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將介紹台灣為協助各事業體提升訓練辦理品質所制定的「人才發展品質管理系統」，進而應用知識管理的概念以及手法，協助學生可將知識管理的技術應用於企業的TTQS系統的建構上。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 知識管理的概念與導入<br>2. TTQS_簡介<br>3. TTQS架構與指標<br>4. 訓練規劃Plan 階段<br>5. 訓練設計Design 階段<br>6. 訓練執行Do 階段<br>7. 訓練查核Review 階段<br>8. 訓練產出成果Output 階段<br>9. TTQS系統的評量",
+        "en": "1. Introduction of knowledge management<br>2. Introduction of TTQS<br>3. Management structure and indicators of TTQS<br>4. Plan phase<br>5. Design phase<br>6. Do phase<br>7. Review phase<br>8. Outcome phase<br>9. Evaluation of TTQS"
+    },
+    "weeklySchedule": "第1-2週 人才發展品質管理系統概述<br>第3-5週  策略目標與訓練連結階段(P)<br>第6-7週 課程規畫設計階段(D)<br>第8週 TTQS系統建構工具<br>第9 週 期中評量<br>第10-11週 知識管理及筆記工具<br>第12週 文件管理導入<br>第13-14週 課程執行階段(D)<br>第15週 查核監控階段(R)<br>第16週 訓練成果評量階段(O)<br>第17-18週 期末專題與評量<br><br>",
+    "exams": {
+        "midterm": "實作",
+        "final": "課堂展演+口頭報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解知識管理與TTQS的相關知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解在工作上如何應用知識管理知識技能建構TTQS系統",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能統整相關組織TTQS 建構的問題，提出解決方案",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉TTQS架構及應用相關知識",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "請同學尊重智慧財產權，使用正版教科書及合法教材，不得非法影印，以免觸犯智慧財產權相關法令。"
+}

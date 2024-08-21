@@ -1,0 +1,105 @@
+{
+    "code": "M0N0BW01",
+    "name": {
+        "zh": "職場實務探索(一)",
+        "en": "Hospitality Off-Campus Internship(Ⅰ)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技餐旅三甲"
+    ],
+    "instructors": [
+        "余梅香"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第11節",
+            "location": "T0309"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學生可藉由至企業進行實務技能訓練，提升學生於職場的適應力與競爭力，以瞭解相關專業領域之實務工作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "分組討論或口頭報告與職場學習有關的主題",
+        "en": "This course focuses on the knowledge of restaurant industry trend concept. Students will develop<br>basic ideas of restaurant business when working in the hospitality industry."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能綜合所學，展現餐旅專業技術、能力於餐旅實務工作中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能綜合所學，展現餐旅專業技術、能力於餐旅實務工作中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,128 @@
+{
+    "code": "80D03001",
+    "name": {
+        "zh": "產業分析",
+        "en": "Industry Analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技財金二甲",
+        "四技財金二乙"
+    ],
+    "instructors": [
+        "李源明"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "S403"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "S403"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "S403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "由於現代全球化的落實，使得產業發展的速度與範疇，變得更加迅速與深遠。面對此全球化的產業環境，傳統的策略規劃與經營模式，並不足以維繫或提昇其企業競爭力。而產業分析，正因具有產業知識、產業洞察、企業佈局及企業策略的專業知能，故成為現代管理者所需具備的重要能力。本課程即欲培養學生具有產業個體面與國家總體面兼顧的全面性的觀點，並同時能具有產業實務的分析能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t產業發展的理論基礎<br>2.\t產業結構與產業政策<br>3.\t全球化佈局與知識管理<br>4.\t產業研究方法<br>5.\t傳統產業介紹: 鋼鐵產業<br>6.\t石化產業 <br>7.\t紡織產業 <br>8.\t機械產業 <br>9.\t建築產業<br>10.\t高科技業介紹: 半導體產業<br>11.\t光電產業<br>12.\t能源產業<br>13.\t醫藥產業",
+        "en": "1.\tThe theoretical basis for industrial development<br>2.\tIndustrial Structure and Policies<br>3.\tGlobalization and Knowledge Management Layout<br>4.\tIndustry Research Methods<br>5.\tTraditional industries introduction: the steel industry<br>6.\tPetrified industry <br>7.\tTextile industry <br>8.\tMechanical industry <br>9.\tConstruction industry<br>10.\tHigh tech industry introduction: Semiconductor industry<br>11.\tPhotoelectric and optical related industry<br>12.\t Energy industry<br>13.\t Medicine industry<br>"
+    },
+    "weeklySchedule": "1.課程與授課方式介紹 <br>2.產業分析(理論)<br>3.全球化時代(理論)<br>4.傳統產業與高科技產業區分??<br>5.鋼鐵產業<br>6.汽車產業<br>7.期中考<br>8.石化產業<br>9.紡織產業<br>10.半導體產業<br>11.機械產業<br>12.其他產業補充<br>13.建築業(課堂小考)<br>14.期末考(課堂報告)<br>15.期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "有不定期小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能應用產業理論，正確解讀未來產業變化。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能夠瞭解產業的基本理論與架構",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠整合各種產業新聞，轉變成有用的產業資訊",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能展現產業的發展報告，讓一般不具產業專業術語的決策者也可以理解。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠體認全球經濟發展與主流產業變化的重要性",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "產業分析",
+        "author": "朱延智",
+        "publisher": "五南圖書",
+        "year": "2008",
+        "ISBN": "978-957-11-5424-4",
+        "edition": "5"
+    },
+    "referenceBooks": "產業分析—競合與策略 / 林錦煌 著/ 出版社：滄海書局<br>ISBN: 978-986-6889-44-8 <br>徐作聖、林葳鈞、王仁聖(2018)產業分析與創新，全華圖書出版<br>",
+    "teachingSoftware": "Powerpoint",
+    "rules": "在上課時不得以任何方式干擾上課(正常發問除外)<br>仍然進行課堂點名<br>作業需準時繳交<br>無補考<br>相關補充教材將會公告在數位學習網頁之中<br>"
+}

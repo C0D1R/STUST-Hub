@@ -1,0 +1,111 @@
+{
+    "code": "08D04R01",
+    "name": {
+        "zh": "手作拼貼練英文：認識碳排放",
+        "en": "Practicing English speaking through collage-making: Learning about carbon emission"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "林育昇",
+        "黃馨儀"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0002"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0002"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "此課程的目標藉由融入聯合國永續發展目標(Sustainable Development Goals, SDGs)之議題，並藉由跨領域創新教學的課程設計，使學生不僅學到機械科學相關領域的知識，也能增進此領域相關內的英文知識和提升英文能力。本課程將由學科領域老師和語言教師穿插授課。首先，會由學科領域老師讓學生了解地球永續的概念和何為碳排放，並進一步講解碳足跡要如何計算。在學科領域老師教授完每個單元後，會由語言教師教授同學一同閱讀關於那個單元的英文文章和講解其中的英文詞彙。期中考後，學生將採取實作的部分。學生分為四人一組，每組同學需要共同製一份專題。每組自行選定與課程相關的主題。每組將手作幾張圖示，可以用手繪加上照片的拼貼。完成作品後，各組將用英文並報告其所選定的主題，講解時搭配其手作的圖示或拼貼成品。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.認識碳排放及其英文相關字彙<br>2.製作手作拼貼輔助創意思考減碳的方法<br>3.應用AI工具輔助英文報告<br>4.運用拼貼的視覺輔助英文表達<br><br>學生任務:<br>1.以小組為單位，完成輔助口頭報告用的拼貼作品。<br>2.以小組為單位，用英文做口頭報告關於碳排放或追查碳足跡的相關主題<br><br>課程目標:<br>1.培養科學素養和提升學生對環境保護的意識<br>2.訓練英語聽寫及口語表達能力<br>3. 訓練英語正確的發音與語調<br>4. 培養英語溝通及簡報能力",
+        "en": "1.Understanding carbon emission and its related English vocabulary.<br>2.Creating handmade collages aids creative thinking for carbon reduction methods.<br>3.Using AI tools to assist in English oral reports.<br>4.Utilizing collage for visual aid in English expression.<br><br>Students’ tasks:<br>1.In groups, the students must create collages for auxiliary oral presentations.<br>2.The students have to give oral English presentations as a group on carbon emissions or tracking carbon footprints.<br><br>Course Objectives<br>Students will be able to<br>1.Cultivate scientific literacy and raise awareness of environmental conservation among students.<br>2.Train listening and speaking skills in English.<br>3.Practice correct pronunciation and intonation in English.<br>4.Develop English communication and presentation skills.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養科學素養和提升學生對環境保護的意識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練英語聽寫及口語表達能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練英語正確的發音與語調",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養英語溝通及簡報能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

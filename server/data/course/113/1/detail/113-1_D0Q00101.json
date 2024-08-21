@@ -1,0 +1,115 @@
+{
+    "code": "D0Q00101",
+    "name": {
+        "zh": "行銷管理專題",
+        "en": "Marketing Management Seminar"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專行流一甲"
+    ],
+    "instructors": [
+        "蘇子炘"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "T0212"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "T0212"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "T0212"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以課堂講授及個案解析的方式,訓練學員瞭解行銷管理的理論及其運用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、行銷學的本質與範疇<br>二、確認與選擇市場<br>三、產品<br>四、價格<br>五、通路<br>六、促銷<br>七、管理行銷活動",
+        "en": "1.The Nature and Scope of Marketing<br>2.Identifying and Selecting Markets<br>3.Product<br>4.Price<br>5.Place<br>6.Promotion<br>7.Managing the Marketing Effort"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "養成批判精神面診斷決策情境",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析行銷環境、消費者及競爭者",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "行銷策略的制定-STP",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "行銷功能的設計-4P’s",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

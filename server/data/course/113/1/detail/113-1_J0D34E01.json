@@ -1,0 +1,139 @@
+{
+    "code": "J0D34E01",
+    "name": {
+        "zh": "基礎數位2D原動畫技巧",
+        "en": "Basic 2D Digital Animation Technique"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技動畫二甲"
+    ],
+    "instructors": [
+        "詹博鈞"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "W0808"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "W0808"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "W0808"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "此課程為應用光桌工具進行2D動畫動作練習",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "2D動畫簡介<br>2D動畫基礎練習<br>2D動畫角色練習<br>2D動畫特效練習<br><br>",
+        "en": "Introduction to 2D animation<br>2D animation basic exercises<br>2D animated character practice<br>2D animation effects exercises<br><br>"
+    },
+    "weeklySchedule": "第01週：課程介紹<br>第02週：講師個人接案實例解析<br>第03週：彈性運動<br>第04週：慣性運動<br>第05週：曲線運動<br>第06週：預備和緩沖<br>第07週：靜態變形<br>第08週：形狀的打散與聚合<br>第09週：期中個人作品進度發表<br>第10週：加與減<br>第11週：變形運動原理的運用<br>第12週：綜合練習實例<br>第13週：動畫賞析（一）<br>第14週：動畫賞析（二）<br>第15週：動畫賞析（三）<br>第16週：動畫賞析（四）<br>第17週：作品討論<br>第18週：期末發表",
+    "exams": {
+        "midterm": "個人作品進度報告",
+        "final": "個人作品發表",
+        "other": "平時作業；報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "運用數位工具進行創作",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養腳本、分鏡、用鏡頭說故事之能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養故事創意之構想能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養故事創意之構想能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉英文之操作介面、且國內教材並不多見，國外免費網路教材眾多且部分為影音教材，可間接培養外文能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "動畫創作仰賴不同專長之同學合作，可從中培養團隊合作工作之精神",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "查理．威廉斯 (2011) 。動畫基礎技法。臺北：龍溪。",
+    "teachingSoftware": "",
+    "rules": "1.課堂缺席者，由學期總成績計算後再行扣分(缺席每節扣2分)。<br>2.平時作業30%；期中30%；期末40%。<br>3.期中考、期末考，未繳交作業及未出席者，視同缺考，學期成績將不及格。"
+}

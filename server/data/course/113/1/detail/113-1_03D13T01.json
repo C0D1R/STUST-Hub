@@ -1,0 +1,110 @@
+{
+    "code": "03D13T01",
+    "name": {
+        "zh": "國民小學社會教材教法",
+        "en": "Teaching Materials and Methods of Social Studies in Primary School"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "教育學程－小"
+    ],
+    "instructors": [
+        "陳信豪"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "N403"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "N403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在介紹國民小學社會領域基本概念、教育目標及教材教法，剖析十二年國民基本教育課程綱要，針對社會領域各教學單元教材教法做深入分析、討論及實作。學習本課程的目的在充實學生社會領域課程發展的基本素養，培養批判思考及解決問題的能力，在多元且迅速的社會變遷下，學習以不同的角度去思維現況並提出因應方法。<br><br>【專業素養指標】<br>1 了解教育發展的理念與實務<br>■1-2 敏銳覺察社會環境對學生學習影響，以利教育機會均等。<br>2 了解並尊重學習者的發展與學習需求<br>■2-2 了解並運用學習原理，以符合學生個別學習需求與發展。<br>3 規劃適切的課程、教學及多元評量<br>■3-3 具備任教領域/群科/科目所需的專門知識與學科教學知能，以進行教學。<br>■3-4 掌握社會變遷趨勢與議題，以融入課程與教學。<br><br>【課程核心內容】<br>1了解教育發展的理念與實務<br>■(3)教育與社會變遷及進步<br>■(4)教育與社會流動及公平<br>2了解並尊重學習者的發展與學習需求<br>■(2)主要學習理論及其教育應用<br>■(3)主要學習動機理論及其教育應用<br>■(4)學習策略<br>■(5)身心、社經與文化等背景差異及其與學習、發展的關係<br>■(6)學生特質與需求的辨識<br>3規劃適切的課程、教學及多元評量<br>■(2)重要議題融入課程、教學與評量<br>■(4)12 年國民基本教育素養導向 (單科/跨領域統整/跨科統整)課程、教學及評量的發展及實踐<br>■(5)課程、教學與評量的創新及學習科技的應用<br>■(6)領域/學科(或科目)/群科專門知識與學科教學知能<br>■(7)分科/分領域(群科)教材教法<br>■(8)探究與實作設計與實施<br><br>【融入議題】<br>■性別平等教育*<br>■人權教育<br>■環境教育*<br>■品德教育<br>■法治教育<br>■科技教育<br>■資訊教育(含數位學習)<br>■能源教育<br>■多元文化教育<br>■戶外教育<br>■國際教育<br>■新移民教育<br>■本土教育",
+    "prerequisites": "修畢教學基本學科課程、教育基礎課程及教育方法課程各一門。",
+    "syllabus": {
+        "zh": "1. 社會領域的基本概念。<br>2. 十二年國民基本教育課程「社會學習領域」發展模式。<br>3. 十二年國民基本教育課程「社會學習領域」能力指標之解讀。<br>4. 國小社會科教學方法。<br>5. 國小社會科重要議題教學。<br>6. 國小社會科教學之經驗分享。<br>7. 國小社會科教學計畫之擬定。<br>8. 國小社會科教學資源。<br>9. 國小社會科教學評量。<br>10. 國小社會科教學觀摩與試教。<br><br>",
+        "en": "1. The fundamental concepts of social studies<br>2. The development models of social studies<br>3. Interpret the capability indicators of social studies<br>4. The teaching methods of social studies<br>5. The teaching plans of social studies<br>6. The teaching resources of social studies<br>7. The teaching assessment of social studies<br>8. The teaching demonstration of social studies<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "介紹國小社會領域的基本概念，教育目標及其教材教法的問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備愛心和教育良心，擁有教育專業倫理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知悉社會領域教案之擬定方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉各種社會領域的教學方法，善用各種社會領域評量技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

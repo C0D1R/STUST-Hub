@@ -1,0 +1,127 @@
+{
+    "code": "20D1ED01",
+    "name": {
+        "zh": "生醫類比電路設計實習",
+        "en": "Biomedical electronic analog circuit design and practice"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技醫電三甲"
+    ],
+    "instructors": [
+        "黃基哲"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "B002"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "B002"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "B002"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "資通訊(ICT)與物聯網(IOT)等產業目前在已廣泛的應用在你我的週遭，而生物醫學正結合ICT與IOT等電子技術並且正蓬勃發展中，而其中生理訊號的量測便是生醫電子的重要基礎，故此課程希望教授學生從量測生理訊號前端的類比電路的設計出發來進行學習，而一般類比電路設計可分成離散式或集成式的電路設計，本課程主要介紹離散式的電路設計，由運算放大器與生醫訊號量測等講授為主，同時搭配實作的操作，能更深刻地體會生醫電子電路設計的應用，及累積紮實的實作經驗。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.運算放大器應用電路<br>2.差動、儀表與電橋放大器<br>3.主動濾波器<br>4.類比到數位轉換器<br>5.醫療儀器量測之基本原理<br>6.醫療儀器之應用電路與電路原理<br>7.ECG、EMG、EOG生理訊號量測應用電路<br>8.PPG、SpO2、BP、生物電阻抗生理訊號量測應用電路",
+        "en": "1.Operational amplifier application circuit<br>2.Differential, Instrumentation, and Bridge Amplifiers<br>3.Active filter<br>4.Analog to Digital Converter<br>5.Basic principles of medical instrument measurement<br>6.Application circuit and circuit principle of medical equipment<br>7.ECG, EMG, EOG physiological signal measurement application circuit<br>8.PPG, SpO2, BP, bioelectrical impedance physiological signal measurement application circuit<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "運算放大器之觀念與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "儀表放大器之前端應用電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "生物醫學電子訊號之由來與量測方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "生物醫學電子訊號之量測與分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "生醫電子應用在日常之相關知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "1DD05B01",
+    "name": {
+        "zh": "演出聲學概論",
+        "en": "Introduction to Acoustics in Performance"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技流音二甲"
+    ],
+    "instructors": [
+        "葉家彰"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0910"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0910"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程內容為室內、戶外演出聲學基礎理論解析，以了解樂器人聲等音樂聲音投射方法和公共廣播共鳴延音之應用，空間殘響其特性與測試方法，利用和聲共鳴以達到最佳聆聽品質設計。研究視覺空間與聲音共鳴臨界點的抉擇，探討室內與戶外聲響共鳴其設計規畫與需求基準，追求演唱會理想迴響時間與反射殘響。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.聲音來源與種類概述<br>2.人聲與器樂類型解析<br>3.室內、外空間聲音反射與殘響<br>4.電聲設備硬體種類介紹<br>5.空間材質硬體設備解析<br>6.物理聲學共鳴之響應量測方法<br>7.電聲擴音物理特性解析<br>8.空間聲學物理特性解析<br>9.室內舞台空間實作測量<br>10.室內擴聲技術電聲設計及調校<br>11.戶外舞台空間實作測量<br>12.戶外擴聲技術電聲設計及調校<br>13.演唱會聲學實作<br>",
+        "en": "1. Overview of sound sources and types<br>2. Analysis of vocal and instrumental music types<br>3. Sound reflection and reverberation in indoor and outdoor spaces<br>4. Introduction to the hardware types of electro-acoustic equipment<br>5. Analysis of space material hardware equipment<br>6. Response measurement method of physical acoustic resonance<br>7. Analysis of the physical characteristics of electro-acoustic sound reinforcement<br>8. Analysis of physical characteristics of space acoustics<br>9. Measurement of indoor stage space<br>10. Electroacoustic design and adjustment of indoor sound reinforcement technology<br>11. Practical measurement of outdoor stage space<br>12. Outdoor sound reinforcement technology electroacoustic design and adjustment<br>13. Concert Acoustic Implementation"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備室內、戶外演出聲學基礎理論。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解樂器人聲等音樂聲音投射方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備公共廣播共鳴延音之應用技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備演出場域聲學之實務操作技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

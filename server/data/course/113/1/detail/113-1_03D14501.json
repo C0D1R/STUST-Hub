@@ -1,0 +1,132 @@
+{
+    "code": "03D14501",
+    "name": {
+        "zh": "國民小學雙語教學實習(一)",
+        "en": "Teaching Practicum in the Elementary School(Bilingual Education)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "教育學程－小"
+    ],
+    "instructors": [
+        "張韶華"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "N102"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "N102"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "旨在增進學生對國民小學行政運作及教學現場的基本認識,協助學生將課堂所學的教育理論與學校生活世界的種種實務相互印證,以深化對雙語教師角色的認知,強化雙語教學實務的知能。因為此為雙語課程的實習課程，為了達到此目標,本課程設計分為三大部分:雙語教學實例分析與模擬雙語(或實驗)教學，並至具有雙語教學的校區參觀與見習試教。<br><br>【專業素養指標】<br>2 了解並尊重學習者的發展與學習需求<br>■2-1 了解並尊重學生身心發展、社經及文化背景的差異，以作為教學與輔導的依據。<br>■2-2 了解並運用學習原理，以符合學生個別學習需求與發展。<br>3 規劃適切的課程、教學及多元評量<br>■3-2 依據課程綱要/大綱、課程理論及教學原理，以協同發展跨領域/群科/科目課程、教學及評量。<br>■3-3 具備任教領域/群科/科目所需的專門知識與學科教學知能，以進<br>行教學。<br>■3-4 掌握社會變遷趨勢與議題，以融入課程與教學。<br>■3-5 應用多元教學策略、教學媒材與學習科技，以促進學生有效學習。<br>■3-6 根據多元評量結果調整課程與教學，以提升學生學習成效。<br><br>【課程核心內容】<br>2了解並尊重學習者的發展與學習需求<br>■(1)主要身心發展理論及其教育應用<br>■(2)主要學習理論及其教育應用<br>■(3)主要學習動機理論及其教育應用<br>■(4)學習策略<br>■(5)身心、社經與文化等背景差異及其與學習、發展的關係<br>3規劃適切的課程、教學及多元評量<br>■(1)主要課程、教學與評量的理論<br>■(2)重要議題融入課程、教學與評量<br>■(3)我國課程、教學與評量的重要政策<br>■(4)12 年國民基本教育素養導向 (單科/跨領域統整/跨科統整)課程、教學及評量的發展及實踐<br>■(5)課程、教學與評量的創新及學習科技的應用<br>■(6)領域/學科(或科目)/群科專門知識與學科教學知能<br>■(7)分科/分領域(群科)教材教法<br>■(8)探究與實作設計與實施<br><br><br>【融入議題】<br>■人權教育<br>■資訊教育(含數位學習)<br>■多元文化教育<br>■閱讀素養<br>■國際教育<br>■生活教育<br>■普-特殊教育或融合教育(含通用設計及普特設計教學)*",
+    "prerequisites": "具CEF B1英文能力通過證明。",
+    "syllabus": {
+        "zh": "1.雙語教學實習的基本認識與雙語國小教師的角色<br>2.雙語教學活動設計之編寫、雙語教學技巧與評量<br>3.十二年國民基本教育課程-認識與問題<br>4.微縮雙語教學演練<br>5.國民小學重要議題雙語教學<br>6.國民小學雙語教學之經驗分享<br>7.雙語試教與實務演練<br>8.實習心得報告與試教檢討：分組報告與討論<br>9.親師的溝通與合作<br>10.雙語班級經營與學生的輔導<br>11.雙語實習教師常見的問題與對策<br>12.雙語教師專業發展<br><br>",
+        "en": "1. Basic understanding of teaching internship, the role of the bilingual primary school teacher<br>2. Preparation of teaching activities, teaching skills and evaluation based on CLIL<br>3. New curriculum guidelines - understanding and problems<br>4. Miniature bilingual teaching exercises<br>5. Bilingual teaching demonstrations<br>6. Off-campus teaching internship<br>7. Internship report and review<br>8. Bilingual teacher's communication and cooperation<br>9. Bilingual class management<br>10. Collaboration with the other teachers and assistance to students.<br>11. Common problems and possible solutions of bilingual intern teachers<br>12. Teachers’ professional development<br>"
+    },
+    "weeklySchedule": "1. 認識實習法規與目的<br>2. 教學理念論述與溝通<br>3. 小教英語雙語教師的現狀與展望<br>4. 教案編寫<br>5. 教學參觀<br>6. 集中實習<br>7. 英語專業測試",
+    "exams": {
+        "midterm": "教學演示",
+        "final": "實習報告",
+        "other": "作業課堂活動"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解教育實習的基本概念",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "發展教師專業精神。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "增進雙語課程、教材與教法設計的能力。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "平時"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養實際雙語教學的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉國小雙語教學環境與行政概況。",
+            "teachingMethods": [
+                "參觀實習"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

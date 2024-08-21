@@ -1,0 +1,105 @@
+{
+    "code": "W0Q04G01",
+    "name": {
+        "zh": "獨立研究(一)",
+        "en": "Independent Study (一)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "高企碩士班二甲"
+    ],
+    "instructors": [
+        "鄭滄祥"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第1節",
+            "location": "E0603"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "協助學生了解論文發展技巧與撰寫原則,採用課程講授及一對一輔導方式。輔導內容包括研究方向的找尋、主題的訂定、研究個案之確認及資料收集的方式，並指導學生確定研究主題;進而進行文獻查詢與研究計畫書之撰寫。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "為何需要進行研究  <br>研究興趣與主題的探索<br>文獻的選擇與評論<br>設定合適的研究提問<br><br>",
+        "en": "Why Research is Needed<br>Exploring Research Interests and Topics<br>Selection and Review of Literature<br>Setting Appropriate Research Questions<br>"
+    },
+    "weeklySchedule": "1.課程簡介及論文撰寫相關規定　<br>2.研究是什麼？為何需要進行研究?<br>3.研究主題探索：如何運用個人實務經驗與興趣，尋找相關文獻進行研讀<br>4.文獻的評讀：收集得之文獻的閱讀與內容整理<br>5.研究的提問：討論透由收集得之既有文獻，結合個人的工作經驗與探索興趣，發展出適當的研究動機，並建構出研究的方向與題目<br>6.研究計畫書的撰寫",
+    "exams": {
+        "midterm": "口頭報告",
+        "final": "書面報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "如何確立研究方向",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "如何評論研究文獻",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建構研究論述邏輯",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "研究計畫的撰寫",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

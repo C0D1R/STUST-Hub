@@ -1,0 +1,132 @@
+{
+    "code": "G0D12301",
+    "name": {
+        "zh": "物理",
+        "en": "Physics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資工二甲",
+        "四資工國專二甲"
+    ],
+    "instructors": [
+        "黃琨義"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "D303"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "D303"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "D303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "物理是科學的一個分支,在現今的科技中,要了解許多原理及技術,必須要有物理的知識.本課程分上、下學期各三學分.課程內容包含:力學(含運動學)、熱力學、振動與波、電磁學、幾何光學與物理光學.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章:緒論<br>第二章:一維運動<br>第三章:二維運動<br>第四章:力與牛頓運動定律<br>第五章:等速率圓周運動<br>第六章:功與能量<br>第七章:衝量與動量<br>第八章:旋轉運動學<br>第九章:旋轉動力學<br>第十章:彈性與簡諧運動",
+        "en": "Chapter 1 Introduction <br>Chapter 2 Kinematics in One Dimension <br>Chapter 3  Kinematics inTwo Dimensionas<br>Chapter 4 Forces and Newton's Laws of Motion<br>Chapter 5 Dynamics of Uniform Circular Motion<br>Chapter 6 Work and Energy<br>Chapter 7 Impulse and Momentum<br>Chapter 8 Rotational Kinematics<br>Chapter 9 Rotational Dynamics<br>Chapter 10 Simple Harmonic Motion and Elasticity"
+    },
+    "weeklySchedule": "01. 緒論<br>02. 一維運動<br>03. 一維運動<br>04. 一維運動<br>05. 二維運動<br>06. 二維運動<br>07. 力與牛頓運動定律<br>08. 力與牛頓運動定律<br>09. 期中考<br>10. 等速率圓周運動<br>11. 功與能量<br>12. 功與能量<br>13. 衝量與動量<br>14. 旋轉運動學<br>15. 旋轉動力學<br>16. 彈性與簡諧運動<br>17. 彈性與簡諧運動<br>18. 期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.能了解基本物理觀念與其應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "2.能將基本物理學之原理應用於工程及日常生活中",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "3.藉由撰寫物理作業，訓練學生的表達能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "4.能具備從事工程科學所需觀察、分析、思考之能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "普通物理學(第三版)(修訂版)(Benson)",
+        "author": "蔡政男/林燈河等編譯(Benson)",
+        "publisher": "滄海圖書",
+        "year": "",
+        "ISBN": "9789867696335",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "Attendance: 15%, Others: 25% (上課表現、作業、小考等), Midterm examination: 30%, Final examination: 30%"
+}

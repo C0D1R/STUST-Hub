@@ -1,0 +1,136 @@
+{
+    "code": "C0D00101",
+    "name": {
+        "zh": "國際商務英語溝通",
+        "en": "International Business English Communication"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應英二甲"
+    ],
+    "instructors": [
+        "楊晴絨"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "N309"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "N309"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "2.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程以工作坊式進行，讓學生在模擬現代國際商業職場情境中學會所需之商業知識與專業英語溝通技巧。<br>Courses are carried out as a workshop, allowing students to learn the business knowledge and practice professional English communication skills needed in the international business workplace.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.正式會議<br>2.即興討論<br>3.金融交易<br>4.電話聯繫<br>5.邀約與活動",
+        "en": "1.Formal Meetings<br>2.Impromptu Discussions<br>3.Financial Transactions<br>4.Telephone Contacts<br>5.Appointments and Activities"
+    },
+    "weeklySchedule": "- 1. Introduction to course content<br>- 2. Gender stereotypes in business English<br>- 3. The importance of gender equality in the workplace<br>- 4. The issue of unequal gender representation in business English textbooks<br>- 5. Gender-sensitive oral and non-verbal communication skills<br>- 6. Gender issues in cross-cultural teamwork<br>- 7. Reflection on neutral communication<br>- 8. Midterm performance rehearsal<br>- 9. Release of interim results<br>- 10. Mid-term learning effectiveness review<br>- 11. Neutral business correspondence communication<br>- 12. The role of gender equality in international business leadership<br>- 13. Gender differences in cross-cultural business negotiations<br>- 14. Gender diversity and corporate competitiveness<br>- 15. Language and cultural differences in cross-cultural communication<br>- 16. Preparation for final performance<br>- 17. Sharing career and life stories<br>- 18. Course review and final video presentation",
+    "exams": {
+        "midterm": "Performance",
+        "final": "Performance",
+        "other": "N/A"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能運用英語完成商業職場溝通目的",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能習得商業管理類常用英文詞彙",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能獲得商業營運相關之基本知識",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉國際商務英語對話並流暢表達",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能合作學習以執行職場專案任務",
+            "teachingMethods": [
+                "實作演練",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "同儕互評",
+                    "type": "期末"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "期中"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "N/A",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

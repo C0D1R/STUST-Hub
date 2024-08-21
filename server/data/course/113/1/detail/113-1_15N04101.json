@@ -1,0 +1,116 @@
+{
+    "code": "15N04101",
+    "name": {
+        "zh": "汽車工程",
+        "en": "Automotive Engineering"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技車輛四甲"
+    ],
+    "instructors": [
+        "陳坤禾"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "R402"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "R402"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "R402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "講解汽車之動力性、燃油經濟性、動力傳動裝置參數選擇、煞車性能、操縱性能與平順性能等",
+    "prerequisites": "機構學、應用力學",
+    "syllabus": {
+        "zh": "一、汽車之動力性    二、汽車燃油經濟性     三、汽車動力裝置參數選擇<br>四、汽車之制動性    五、汽車之操縱穩定性   六、汽車的平順性<br>",
+        "en": "1. Automotive driving dynamics <br>2. Automotive fuel economy  <br>3. The parameters determination for Automotive power-train system  <br>4. brake performance  <br>5  Automotive handling and stability analysis <br>6. Automotive compliance"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉汽車原理，並以力學為基礎探討汽車運動行為",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解圖表數據對汽車工程之物理意義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能規劃選擇汽車動力裝置之相關參數",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀汽車專業用之英文資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,139 @@
+{
+    "code": "50D06901",
+    "name": {
+        "zh": "行銷管理",
+        "en": "Marking Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電商二甲"
+    ],
+    "instructors": [
+        "曾碧卿"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0803"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0803"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "T0803"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "行銷普遍存在於日常生活及世界的每一角落，而行銷管理是指針對創意、產品與服務所進行的概念化，並就訂價、推廣與配銷等規劃與執行之程序，藉此創造出能滿足個人與組織目標交換活動的一切管理事宜。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.\t市場導向策略性管理<br>2.\t行銷環境<br>3.\t消費者市場與其購買行為<br>4.\t市場區隔與產品定位<br>5.\t產品策略<br>6.\t價格策略<br>7.\t通路策略<br>8.\t推廣策略<br>",
+        "en": "1.\tStrategic management of market-focus<br>2.\tMarketing in a Dynamic Environment<br>3.\tBuying Behavior<br>4.\tMarket Segmentation and priduct positioning<br>5.\tProduct and Service Concepts and Strategies<br>6.\tPricing Concepts and Strategies<br>7.\tMarketing Channels and Logistics<br>8.\tNtegrated Marketing Communication<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生了解行銷管理之基本方法與原理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "將行銷管理理論應用於實務個案之分析。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生撰寫行銷企劃與學生專題之製作之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成學生關注人(消費者)的需求與互動，社會的變遷與脈動，隨時隨地保持積極進取之學習態度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練學生行銷企劃簡報之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "鼓勵學生加強人文素養之養成，以順應與融合國內外行銷之最新發展與應用方向。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

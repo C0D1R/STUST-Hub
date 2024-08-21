@@ -1,0 +1,206 @@
+{
+    "code": "1JN01C01",
+    "name": {
+        "zh": "高齡教育與樂活學習",
+        "en": "Senior Education and Lohas Learning"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜二技高福四甲"
+    ],
+    "instructors": [
+        "胡小玫"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第3節",
+            "location": "O403"
+        },
+        {
+            "day": "週六",
+            "period": "第4節",
+            "location": "O403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在探討人的生物老化、認知老化、心理老化及其他老化理論與學習的關係，了解高齡學習者的智慧發展、學習需求、學習特徵、學習類型、學習的行為表現，及其學習的障礙與解決方法，期望能開拓高齡學習的未來發展。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、緒論<br>二、老化理論<br>三、生物老化與學習<br>四、認知老化與學習<br>五、心理老化與學習<br>六、智慧的發展與學習<br>七、高齡學習的需求<br>八、高齡學習的特徵<br>九、高齡學習的類型<br>十、高齡學習的內容和方法<br>十一、高齡學習的障礙與解決<br>十二、高齡學習的未來發展",
+        "en": "1.introduction<br>2. Theory of Aging<br>3.Biological Aging and Learnung<br>4.Cognitive Aging and Learnung<br>5. Psychological aging and Learnung<br>6. Development of wisdom and Learnung<br>7. The needs of Elderly Learning<br>8. The feature of Elderly Learning<br>9. The Types of Elderly Learning<br>10.The Content and method of solve<br>11. The obstacle and solving solve<br>12. The future development of Elderly Learning"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解老化的理論。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解老化的理論。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解老化的生物、認知、心理層面的變化與學習的關係。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解老化的生物、認知、心理層面的變化與學習的關係。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練的分析高齡學習的需求、特徵和類型。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練的分析高齡學習的需求、特徵和類型。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練的分析高齡學習的需求、特徵和類型。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練的分析高齡學習的需求、特徵和類型。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "願意投入高齡者的智慧發展與學習障礙之解決工作。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "願意投入高齡者的智慧發展與學習障礙之解決工作。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "願意投入高齡者的智慧發展與學習障礙之解決工作。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "願意投入高齡者的智慧發展與學習障礙之解決工作。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

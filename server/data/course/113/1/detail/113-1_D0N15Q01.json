@@ -1,0 +1,139 @@
+{
+    "code": "D0N15Q01",
+    "name": {
+        "zh": "RFID與物流中心營運管理",
+        "en": "Radio Frequency Identification at Distribution Center Management"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜行流產攜四甲"
+    ],
+    "instructors": [
+        "黃仲正"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "T0213"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0213"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0213"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要介紹物流中心營運管理的觀念，技術背景，架構，規劃與評估，內容包括無線網路、RFID、與感測網路等。主要在建構學生對物流中心營運管理之技術的知識與未來開發應用的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "自動識別概論<br>識別碼<br>RFID簡介<br>RFID標籤與讀取器<br>RFID技術標準與通訊協定<br>RFID資訊平台<br>EPCglobal網路<br>RFID安全<br>RFID隱私<br>RFID於製造之應用<br>RFID於物流之應用<br>RFID零售業之應用",
+        "en": "Introduction to automatic identification<br>Identifier<br>RFID introduction<br>RFID label and reader<br>RFID standards and communications protocol<br>RFID information platform<br>EPC global Internet<br>Mid-term<br>RFID safety<br>privacy<br>RFID technology application to<br>manufacturing<br>RFID technology application to logistics<br>RFID technology application to retailer"
+    },
+    "weeklySchedule": "1. 課程介紹/自動辨識系統的發展過程<br>2. RFID 系統組成元件介紹<br>3. RFID 電子標籤與讀取器之辨識原理<br>4. RFID無線通訊技術標準與協定<br>5. RFID於物流之應用<br>6. 期中考 (物流中心作業介紹-1)<br>7. 中秋節/放假<br>8. 物流中心設備介紹<br>9. 物流中心經營管理介紹-1<br>10. 物流中心經營管理介紹-2<br>11. 物流中心系統規劃<br>12. 期末考/期末報告<br>",
+    "exams": {
+        "midterm": "筆試(線上考)",
+        "final": "筆試(線上考)或期末報告",
+        "other": "第3/8/11週。筆試(線上考)。"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解RFID與物流中心營運管理之特性與範圍。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解RFID與物流中心營運管理之運作方式、相關問題與解決方法。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "加強學生RFID與物流中心營運管理之知識與運用。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "透過RFID與物流中心營運管理個案資料蒐集與討論，增進同學之思考與學習",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "(第一節課宣布)",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1. 鄭群星，RFID原理與應用－含Arduino實作，第3版，ISBN：9789864638727，全華圖書，2018。<br>2. 陳昱仁，RFID概論，第2版，ISBN：978-986-463-743-0，華泰文化，2016。<br>3. 陳瑞順，RFID概論與應用，第4版，ISBN ：9789572187050，全華科技圖書，2014。<br>4. 教育部教材資料庫：RFID概論（長庚大學主編）、RFID物流與供應鏈系統之應用與個案（清華大學主編）。<br>5. 廖建榮，物流中心的規劃技術，ISBN：9789572090527，中國生產力出版:聯經總經銷，2003。<br>6. 林志鴻，物流中心營運管理，2011。<br>7. Jones, Erick C. and Chung, Christopher A., RFID in logistics: A practical introduction，Boca Raton: CRC Press, 2008.<br>",
+    "teachingSoftware": "1. Microsoft Office。\n2. http://flipclass.stust.edu.tw (南台數位學習網路)。",
+    "rules": "(1) 指定作業與報告一律以電子檔繳交到網路教學平台的作業繳交區（作業基本分數為70分，滿分100）。沒準時交一律0分；無論任何理由，Email到教師信箱者，該次成績0分。<br>(2) 上課缺席者，隔週上課前必須先自行研讀缺席時上課內容相關教材、或上網閱讀相關簡報資料、或相關網路教學影片；超過3次以上，本課程平常成績會很低分。<br>(3) 課堂外輔導時間：每週二：第8/9/10/11節(T棟0214室)。或事先約定。"
+}

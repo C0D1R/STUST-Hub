@@ -1,0 +1,138 @@
+{
+    "code": "03D11601",
+    "name": {
+        "zh": "機械群教材教法",
+        "en": "Teaching Materials and Methods for the Mechanical Engineering Group"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "教育學程－中"
+    ],
+    "instructors": [
+        "王平會"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "N102"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "N102"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在培養學生有關機械群科之教材選用、編製方法，以及熟悉機械群科課程之相關知識、<br>情意與技能操作的教學方法，透過課程規劃與實作、教學觀摩與教學演示等，讓學生具備撰寫工<br>業類科教學目標及教學大綱、發展教學活動與設計教 材、熟悉單元工業類科教學法之能力。<br><br>【專業素養指標】<br>1 了解教育發展的理念與實務<br>■1-2 敏銳覺察社會環境對學生學習影響，以利教育機會均等。<br>■1-3 了解我國教育政策、法規及學校實務，以作為教育實踐基礎。<br>2 了解並尊重學習者的發展與學習需求<br>■2-1 了解並尊重學生身心發展、社經及文化背景的差異，以作為教學與輔導的依據。<br>■2-2 了解並運用學習原理，以符合學生個別學習需求與發展。<br>3 規劃適切的課程、教學及多元評量<br>■3-1 依據課程綱要/大綱、課程理論及教學原理，以規劃素養導向課程、教學及評量。<br>■3-2 依據課程綱要/大綱、課程理論及教學原理，以協同發展跨領域/群科/科目課程、教學及評量。<br>■3-3 具備任教領域/群科/科目所需的專門知識與學科教學知能，以進<br>行教學。<br>■3-4 掌握社會變遷趨勢與議題，以融入課程與教學。<br>■3-6 根據多元評量結果調整課程與教學，以提升學生學習成效。<br>5 認同並實踐教師專業倫理<br>■5-1 思辨與認同教師專業倫理，以維護學生福祉。<br><br><br><br>",
+    "prerequisites": "依說明：須已修畢教育基礎課程及教育方法學課程至少各一門課。",
+    "syllabus": {
+        "zh": "1. 機械群科之教育目標、核心能力、課程架構、及教學科目。<br>2. 教材教法的基本概念。<br>3. 教材編製的原則與方法。<br>4. 教學計畫的編製與實作。<br>5. 認知、情意、技能各項教學法。<br>6. 教學評量的概念與實務。<br>7. 教學觀摩及及教學演練。<br><br>--因字數限制，以下為補充課程概述之內容--<br>【課程核心內容】<br>1了解教育發展的理念與實務<br>■(3)教育與社會變遷及進步<br>■(5)學校與教育行政制度的理念、實務與改革<br>■(6)我國主要教育政策、法規及實務<br>2了解並尊重學習者的發展與學習需求<br>■(2)主要學習理論及其教育應用<br>■(3)主要學習動機理論及其教育應用<br>■(4)學習策略<br>■(5)身心、社經與文化等背景差異及其與學習、發展的關係<br>■(6)學生特質與需求的辨識<br>■(9)特殊教育學生個別化教育計畫/個別輔導計畫<br>3規劃適切的課程、教學及多元評量<br>■(1)主要課程、教學與評量的理論<br>■(2)重要議題融入課程、教學與評量<br>■(3)我國課程、教學與評量的重要政策<br>■(4)12 年國民基本教育素養導向 (單科/跨領域統整/跨科統整)課程、教學及評量的發展及實踐<br>■(5)課程、教學與評量的創新及學習科技的應用<br>■(6)領域/學科(或科目)/群科專門知識與學科教學知能<br>■(7)分科/分領域(群科)教材教法<br>■(8)探究與實作設計與實施<br>4建立正向學習環境並適性輔導<br>■(2)輔導技巧與正向管教<br>■(5)班級經營的意義、目的、內容與方法<br>■(7)親師生關係<br>5認同並實踐教師專業倫理<br>■(1)教師專業、倫理及其承諾<br>■(6)教師專業社群與終身學習<br><br>【融入議題】<br>■科技教育<br>■資訊教育(含數位學習)<br>■能源教育<br>■安全教育*<br>■防災教育*<br>■普-特殊教育或融合教育(含通用設計及普特設計教學)*",
+        "en": "1. Educational objectives, core competencies, curriculum structure, and teaching subjects of the Mechanical Group.<br>2. The basic concept of teaching materials.<br>3. Principles and methods for the preparation of teaching materials.<br>4. Preparation and implementation of teaching plans.<br>5. Teaching methods of cognition, affection and skill.<br>6. The concept and practice of teaching assessment.<br>7. Teaching observation and teaching exercises."
+    },
+    "weeklySchedule": "1. 機械群之教育目標、核心能力、課程架構、及教學科目。<br>2. 教材教法的基本概念。<br>3. 教材編製的原則與方法。<br>4. 教學計畫的編製與實作。<br>5. 認知、情意、技能各項教學法。<br>6. 教學評量的概念與實務。<br>7. 教學觀摩及教學演示。<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "口試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養師資生基本教材教法知能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養師資生樂用思考及解決問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養師資生能不斷研究改進教材教法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養師資生能設計單元教材",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養師資生能實施有效教學",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "工業類科教材教法",
+        "author": "林益昌",
+        "publisher": "五南書局",
+        "year": "103",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "發展我國公共職業訓練中心機械與傢俱板金能力本位訓練教材之研究，王平會，碩士論文，未出版，民80",
+    "teachingSoftware": "",
+    "rules": "出席率，<br>上課參與<br>教學演示"
+}

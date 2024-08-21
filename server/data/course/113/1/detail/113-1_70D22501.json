@@ -1,0 +1,133 @@
+{
+    "code": "70D22501",
+    "name": {
+        "zh": "經濟學(一)",
+        "en": "Economics(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技企管一甲"
+    ],
+    "instructors": [
+        "李東杰"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S313"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S313"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "S313"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在討論市場交易的原理，特別是完全競爭市場。若市場有其他條件改變時，消費者與生產者之間的交易行為，將如何受到影響。此外，本課程也將介紹政府的價格措施干預市場，對消費者福利(消費者剩餘)與生產者福利(生產者剩餘)的影響。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 交易利得。<br>2. 需求與供給。<br>3. 市場變動分析。<br>4. 彈性分析。<br>5. 政府政策的干預。<br>6. 市場福利分析。<br>7. 生產理論。<br>8. 成本理論。<br>9. 完全競爭市場。<br>",
+        "en": "1. Gains from Trade.<br>2. Demand and Supply.<br>3. Change Analysis of Market.<br>4. Elasticity Analysis.<br>5. Government Policies Intervening in Markets.<br>6. Analysis of Market welfare.<br>7. Production Theory.<br>8. Cost Theory.<br>9. Perfect Competitive Market."
+    },
+    "weeklySchedule": "下述兩點一定執行，無法做到者請勿\"選修(或重修)\"本課程：<br>(注意：「第一週要出席，聽完學期成績計算的說明後，願意者當天下課就拿“選課單”讓我簽名」)<br>1.每章結束都會進行Flipclass平台的選擇題測驗,未測驗者\"一定0分\"。<br>2.每章都有作業要繳交,未交者\"一定0分\"。<br><br>第 1週、課程簡介：(1)章節介紹。(2)成績計算說明。(3)上課方式說明。(4)學習方法說明：勤做筆記，數位學習平台的選擇題測驗、作業要做。<br>第 2週、第一章 交易利得(一): 機會成本與生產可能曲線。<br>第 3週、第一章 交易利得(二): 比較利益原則。<br>第 4週、第二章 需求與供給(一): 需求與供給的定義。<br>第 5週、第二章 需求與供給(二): 影響需求與供給的因素。<br>第 6週、第三章 市場變動分析: 對均衡價格與交易量的影響。<br>第 7週、第四章 彈性分析(一): 價格(或需求)彈性。<br>第 8週、第四章 彈性分析(二): 所得彈性, 交叉彈性, 供給彈性。<br>第 9週、期中考。<br>第10週、第五章 政府政策干預(一): 價格干預。<br>第11週、第五章 政府政策干預(二): 課稅。<br>第12週、第六章 市場福利分析(一): 消費者剩餘, 生產者剩餘。<br>第13週、第六章 市場福利分析(二): 總剩餘, 無謂損失, 消費者剩餘的應用。<br>第14週、第七章 生產(一): 短期。<br>第15週、第七章 生產(二): 長期。<br>第16週、第八章 成本(一): 短期。<br>第17週、第八章 成本(二): 長期。<br>第18週、期末考。",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解市場交易的基本理論",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能了解廠商的成本理論",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "對市場變動的影響，能利用經濟學知識提出決策",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "對市場變動的影響，能利用經濟學知識進行分析",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "李東杰",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "下述兩點一定執行，無法做到者請勿\"選修(或重修)\"本課程：<br>(注意：「第一週要出席，聽完學期成績計算的說明後，願意者當天下課就拿“選課單”讓我簽名」)<br>1.每章結束都會進行Flipclass平台的選擇題測驗,未測驗者一定0分。<br>2.每章都有作業要繳交,未交者一定0分。<br><br>                     <br>",
+    "teachingSoftware": "",
+    "rules": "參考書籍:(不用買)<br>經濟學(上冊)-互動式教學(2019),新陸書局"
+}

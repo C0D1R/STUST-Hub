@@ -1,0 +1,135 @@
+{
+    "code": "50D09701",
+    "name": {
+        "zh": "人力資源管理",
+        "en": "Human Resource Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電商四甲"
+    ],
+    "instructors": [
+        "邱湘淇"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "T0803"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0803"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0803"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "人力資本(Human Capital)為影響經濟發展的主要投入，也是企業提高效率的重要元素。人力資源管理的目的在於為企業快速累積人力資本，以提昇企業的競爭優勢。本課程旨在讓學生能夠學習人力資源管理相關的理論與實務，包括：人力資源規劃，人員招募、訓練與發展，薪酬制度，員工績效評估，勞資關係與跨國人力資源管理等，期能培養適任的人力資源管理幹部，以創造企業的利基。",
+    "prerequisites": "管理學",
+    "syllabus": {
+        "zh": "一、人力資源管理導論<br>二、工作分析<br>三、人力規劃與招募<br>四、員工甄試<br>五、員工訓練與發展<br>六、績效評估<br>七、建立薪酬計畫<br>八、勞資關係與集體談判<br>九、員工安全與健康<br>十、跨國企業的人力資源管理<br>",
+        "en": "1. Introduction to Human Resource Management<br>2. Job Analysis<br>3. Personnel Planning and Recruiting<br>4. Employee Testing and Selection<br>5. Training and Developing Employee<br>6. Appraising Performance<br>7. Establishing Pay Plans<br>8. Labor Relations and Collective Bargaining<br>9. Employee Safety and Health<br>10. Managing Human Resources in the International Business"
+    },
+    "weeklySchedule": "第01週：課程說明與人資概述<br>第02週：第一章 人力資源管理介紹<br>第03週：第二章 人力資源管理環境分析<br>第04週：第三章 工作分析與工作設計<br>第05週：第四章 員工招募與甄選<br>第06週：第五章 員工訓練與教育<br>第07週：第六章 生涯發展規劃<br>第08週：第七章 績效評估<br>第09週：期中考試(期中作業各小組討論實務專題)<br>第10週：期中考試檢討與小組討論實務專題<br>第11週：第八章 薪資管理<br>第12週：第九章 員工福利與獎勵制度<br>第13週：第十章 勞資關係與勞工安全衛生<br>第14週：第十一章 國際人力資源管理<br>第15週：第十二章 人力派遣的產業發展與未來<br>第16週：第十三章 高齡社會的挑戰<br>第17週：各小組做實務專題成果報告<br>第18週：期末考試(各小組做實務專題成果報告)",
+    "exams": {
+        "midterm": "期中考試(期中作業各小組討論實務專題)",
+        "final": "期末考試(各小組做實務專題成果報告)",
+        "other": "出席率30%+平時10%"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解人力資源管理的基本議題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能培養人力資源管理者的專業態度與特質",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能將人力資源管理原理應用於分析企業組織的實務問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解人力資源管理未來的發展情形",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解人力資源管理在國際企業的應用情形",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "人力資源管理－智慧時代的新挑戰(第六版)",
+        "author": "周瑛琪、顏炘怡",
+        "publisher": "全華",
+        "year": "2024",
+        "ISBN": "978-986-463-984-7",
+        "edition": "(第六版)"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

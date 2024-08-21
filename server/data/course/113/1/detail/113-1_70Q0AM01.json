@@ -1,0 +1,131 @@
+{
+    "code": "70Q0AM01",
+    "name": {
+        "zh": "應用統計",
+        "en": "Applied Statistics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專企管一甲"
+    ],
+    "instructors": [
+        "林義旭"
+    ],
+    "schedule": [
+        {
+            "day": "週日",
+            "period": "第2節",
+            "location": "S209A"
+        },
+        {
+            "day": "週日",
+            "period": "第3節",
+            "location": "S209A"
+        },
+        {
+            "day": "週日",
+            "period": "第4節",
+            "location": "S209A"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在現實生活中，常會遇到一堆數據資料，要如何運用簡單易懂的方式描述出來，以便大家了解，這就是描述性統計。現今市場競爭日趨激烈，有許多的數據資料需要整理，以便深入市場研究來進行科學的預測決策。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "在現實世界中，統計學是一種運用科學方法與原理，包括資料的蒐集、整理、分析與解釋，並給予結論，以幫助做更有效的決策。統計學包含描述性統計與推論性統計。描述性統計敘述資料樣本的大小，平均值，標準差與資料的分佈。推論性統計探究從母體所抽取的樣本提供的訊息，對母體的特性或參數做推論的方法，推論性統計包含參數估計與檢定假設。本課程亦會教導學生認識及學習如何操作簡單統計軟體。",
+        "en": "In the real world, we collect raw data, code in to the computer, analyze and explain the data and then make a conclusion using statistics. Statistics include the descriptive and inference statistics. Descriptive statistics describe the maximum, minimum and mean value, standard deviation and data distribution. Inference statistics can test the null hypothesis which the researcher is interested in. This lesson can instruct the students to manipulate the simple statistics software as well."
+    },
+    "weeklySchedule": "第一週~第二週：統計概念介紹<br>第三週~第四週：抽樣分配<br>第五週~第六週：假設檢定<br>第七週~第八週：卡方檢定<br>第九週：期中考<br>第十週~第十一週：單母體假說檢定<br>第十二週~第十三週：雙母體假說檢定<br>第十四週~第十五週：變異數分析<br>第十六週：簡單迴歸分析<br>第十七週：無母數分析<br>第十八週：期末考<br>",
+    "exams": {
+        "midterm": "無",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解資料分析的統計方法與與基本知識。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用專業統計軟體分析資料並正確解讀報表。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能將資料轉換成資訊並用以建立管理決策。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能培養正確的學習態度。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "給論文寫作者的統計指南",
+        "author": "顏志龍、鄭中平",
+        "publisher": "五南圖書出版公司",
+        "year": "2019",
+        "ISBN": "978-957-763-422-1",
+        "edition": "三版"
+    },
+    "referenceBooks": "1. Freund &amp; Perles原著，陳臺芳審定、統計學、台灣培生教育出版有限公司、2008<br>2. 鄭惟厚，胡學颖、基礎統計學東華書局、2011<br>3. 張紹勳、林秀娟、SPSS初等統計分析，滄海書局、2005<br>4. 張紹勳、林秀娟、SPSS高等統計分析，滄海書局、2005<br>5. 梁德馨、王智立、統計學：SPSS分析導論，華泰文化事業股份有限公司、2014<br>6. Agresti原著、劉應興編譯、類別資料分析導論，華泰文化事業股份有限公司、2013<br>7. 俞洪亮、蔡義清、莊懿妃、商管研究資料分析，華泰文化事業股份有限公司、2012<br>8. 張偉豪、論文寫作SEM不求人，鼎茂圖書出版股份有限公司、2011<br>",
+    "teachingSoftware": "請由學校 My數位學習 中查詢。",
+    "rules": ""
+}

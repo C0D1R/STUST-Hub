@@ -1,0 +1,131 @@
+{
+    "code": "01D13J0I",
+    "name": {
+        "zh": "進階英文表達(C)",
+        "en": "English for Professional Communication & Presentation"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技資工三甲",
+        "四技資工三乙",
+        "四技資工三丙"
+    ],
+    "instructors": [
+        "陳憶綺"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "W0503"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "W0503"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以專業英文溝通的基礎， 進一步學習介紹公司概況，新制產品及產品製造流程，以及業務銷售或最新研發科技方面…等的簡介能力。以期符合不同專業領域裡，所必須應對的職場需求。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 制定簡報的主題與綱要<br>(1) 認識簡報對象<br>(2) 製作綱要<br>(3) 設定簡報型式<br>(4) 模擬練習<br><br>2. 表達技巧的學習與應用(產品介紹與交際溝通技巧)<br>(1) 自我介紹與交際閒談<br>(2) 簡潔有力的陳述<br>(3) 論點的陳述方式<br>(4) 各論點間的連結整合<br><br>3. 簡報內容的製作 (資料的收集、分析與歸納)<br>(1) 主題簡介<br>(2) 圖片/表格/圖表的使用<br>(3) 事實&amp;數據分析<br>(4) 範例的使用<br>(5) 論點的強調<br>(6) 對簡報內容做出預測<br><br>4. 總結簡報內容與製作摘要<br>(1) 總結式的摘要<br>(2) 提出另一思考的方向<br>(3) 提出有效的建議<br><br>5. 回答提問及進階討論<br>(1) 提問的邀請<br>(2) 回應<br>(3) 後續的連繫與討論<br>",
+        "en": "1. Choosing Topics and Making an Outline<br>(1) Learning Your Audience<br>(2) Making an Outline<br>(3) Choosing the Format<br>(4) Practicing the Presentation<br><br>2. Introducing an Item and Small Talks<br>(1) Self-Introduction and Small Talks<br>(2) Powerfully Addressing Your Points<br>(3) Making a List of Your Points<br>(4) Linking Your Points<br><br>3. Researching, Analyzing, and Managing Information for Presentations<br>(1) Introducing the Subject<br>(2) Using Charts, Graphs, and Pictures<br>(3) Analyzing Facts and Data<br>(4) Using Examples <br>(5) Enhancing Your Points <br>(6) Giving Predictions <br><br>4. Making an Conclusion and Summary<br>(1) Giving a Concluding Summary<br>(2) Proposing a New Question <br>(3) Making Recommendations <br><br>5. Offering Suggestions, Responding to Questions, and Further Discussions <br>(1) Inviting Further Questions <br>(2) Responses <br>(3) Further Contacts and Discussion <br>"
+    },
+    "weeklySchedule": "Week        Unit <br>1            Introduction Week &amp; Unit 1: The Three Ps of Presentation<br>2            Unit 2 Types of Presentations  (9/17(三)中秋節)<br>             [brainstorming心智圖製作]<br>3            Unit 8 Power of the Voice  決定簡報主題 <br>4            Unit 9 Effective Body Languages [Guide Question&amp;練習上台] <br> [簡報英語句型] [製作簡報要點]<br>5            Unit 3 Strong Opener   [開場白與練習] (10/10 (四)國慶日)<br>6            Unit 4 Body Structure     <br>7             [簡報大綱][outline製作教學]<br>8            Unit 5 Powerful Closing    [結語的練習]<br>             講稿與簡報檔製作 [訓練講重點]<br>9            簡報初稿&amp;講稿初稿完成 (繳交作業列入期中成績計算)  <br>             *決定口試順序<br>             *自學檢核測驗*<br>10            (11/1-11/18期中預警輸入) <br>              Unit 6 Preparing Presentation Slides  [圖表與表格的應用]<br>11            Unit 7 Explaining Types of Visuals  <br>              [句型文字語速] [講稿introduction]<br>12             [小組討論簡報內容][講稿body&amp;上台演練]<br>13            [簡報的Q&amp;A][講稿conclusion] &amp;上台演練<br>14            [Evaluation學習評分並自我檢視&amp;上台演練]<br>             *交初稿念稿音檔 [上傳簡報定稿][ &amp;上台演練]<br>15            期末口試<br>16            期末口試<br>17            期末口試 (1/1(三)元旦)<br>18            期末口試<br><br>",
+    "exams": {
+        "midterm": "繳交簡報以及講稿初稿",
+        "final": "期末英語簡報口試展演",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備專業英文的溝通技能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習以英文敘述、歸納及解決問題的技能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習進階英語聽說讀寫表達的實務技能",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期末"
+                },
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學習以網路查詢、分析、整合資訊及以英文敘述的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備人文素養及省思能力",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Get Ready for Your Presentation",
+        "author": "Kenny Sean Joseph",
+        "publisher": "文鶴書局",
+        "year": "2021",
+        "ISBN": "978-986-147-948-4",
+        "edition": "1"
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "Reading Coach\nGrammarly\nElevenlabs\nChatGPT / Copilot",
+    "rules": "本課程及重視出席率、課程參與程度以及自學中心時數，請盡力配合!<br>期末口試30%<br>期中簡報講稿繳交20%<br>平時成績 50%<br>(期末簡報同儕互評3% /作業13% / 上台演練: 4%)<br>缺曠分數: 10%(缺席一節扣一分) <br>完成自學任務: 10%<br>自主檢核測驗10%<br>"
+}

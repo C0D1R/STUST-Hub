@@ -1,0 +1,156 @@
+{
+    "code": "H0D12501",
+    "name": {
+        "zh": "微生物學",
+        "en": "Microbiology"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技食品二甲",
+        "四食品國專二甲"
+    ],
+    "instructors": [
+        "吳定峰"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "I0308"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "I0308"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "I0308"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程是基礎微生物課程，在本課程中將要介紹微生物的結構、微生物分子遺傳、微生物的營養與培養、病毒學，最後將解釋免疫學與微生物的關係，由於時間限制將不包括微生物分類、微生物各論、微生物代謝及工業微生物，由於本系非為醫學院學生，所以也不包括臨床微生物",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 研究微生物的方法<br>2. 原核細胞的結構與功能<br>3. 真核細胞的結構與功能<br>4. 微生物營養<br>5. 微生物生長<br>6. 以物理性或化學性物質控制微生物<br>7. 基因的結構、複制與突變<br>",
+        "en": "1. The study of microbial structure<br>2. Procaryotic cell structure and function<br>3. Eucaryotic cell and function<br>4. Microbial nutrition<br>5. Microbial growth<br>6. Control of microorganism by physical and chemical agnets<br>7. Gene structure, replication and mutation<br>"
+    },
+    "weeklySchedule": "第一周 微生物學歷史<br>第二周 研究微生物的方法<br>第三周 研究微生物的方法<br>第四周 原核細胞的結構與功能<br>第五周 原核細胞的結構與功能<br>第六周 原核細胞的結構與功能<br>第七周 真核細胞的結構與功能<br>第八周 真核細胞的結構與功能<br>第九周 期中考<br>第十周  微生物營養 <br>第十一周 微生物營養<br>第十二周 微生物生長 <br>第十三周 微生物生長<br>第十四周 以物理性或化學性物質控制微生物 <br>第十五周 以物理性或化學性物質控制微生物 <br>第十六周 期末報告<br>第十七周  期末考<br>第十八周  元旦放假<br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第十七周小組報告，第十四周平時考與不定時小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解微生物的結構與微生物的營養與培養",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解病毒的結構、生活史與引發的疾病",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能夠了解課程內容中的圖表",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能夠清楚上台報告課堂上給予的題目",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠閱讀英文的課程內容",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "Prescott's Principles of Microbiology<br>Willey, Sherwood and Woolverton<br>McGRAW HILL 2009<br><br>ISBN 9780071283670",
+    "teachingSoftware": "powerpoint",
+    "rules": "上課不交談"
+}

@@ -1,0 +1,115 @@
+{
+    "code": "1JN00601",
+    "name": {
+        "zh": "長期照顧概論",
+        "en": "Introduction to long-term care"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜二技高福三甲"
+    ],
+    "instructors": [
+        "趙品淳"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第5節",
+            "location": "O101"
+        },
+        {
+            "day": "週六",
+            "period": "第6節",
+            "location": "O101"
+        },
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "O101"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "我國人口結構高齡化及少子化的趨勢，加上現代醫療的進步使平均餘命增長，慢性疾病及功能障礙人口增加，促使政府及國人對長期照顧之需求相當關注。同時，對於高齡服務科系的學生而言，本課程為基本核心課程之一， 其設計乃介紹我國長期照顧體制、實務服務項目及內容、相關資源與管理、以及長期照顧之相關議題，藉由實際參觀長期照顧機構教學活動，進而瞭解長期照顧運作情形。學生必須對此議題有深入的認識及了解，俾能在此領域有所發揮。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、長期照顧緒論<br>二、長期照顧範圍、服務型態<br>三、長期照顧團隊及個案評估<br>四、特定族群之照顧<br>五、輔具於長期照顧之應用<br>六、長期照顧之常見倫理問題及法律議題",
+        "en": "1. Understand the impact of demographic trends and social change on long-term care<br>2. Introducing the scope of long-term care services<br>3. Understand the long-term care service model and theory<br>4. Introducing long-term care service team and practice<br>5. Recognize case management and discharge preparation services for long-term care applications<br>6. Recognize long-term care related issues"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解長期照顧及其型態",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解長期照顧服務角色及功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識長期照顧倫理相關問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識輔具在長期照顧服務之重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,99 @@
+{
+    "code": "B0D42B02",
+    "name": {
+        "zh": "戶外團隊活動(一)",
+        "en": "Outdoor Activities and Team Practice (I)"
+    },
+    "credit": "0",
+    "type": "必修",
+    "classes": [
+        "四技休閒一乙"
+    ],
+    "instructors": [
+        "楊蓓涵"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為培養學生多元能力，了解團隊活動的專業知識與內涵，訓練學生藉由參加團隊活動，學習團隊合作之精神與團隊帶領的技巧。並在過程當中學習建構良好人際關係與學習問題解決能力，以培養並展現戶外團隊活動能力與發展。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t表達與溝通<br>2.\t團隊能力與服從紀律<br>3.\t關懷合作<br>4.\t領導與參與<br>5.\t自主管理<br>6.\t表現與創新<br>",
+        "en": "1. Expression and communication<br>2. Team ability and obedience discipline<br>3. Caring and cooperation<br>4. Leadership and participation<br>5. Self-management<br>6. Performance and Innovation"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "為培育人才之教育目標之一為訓練學生企劃並操作活動之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "主要是訓練學生團體服從紀律及分工合作的概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "鼓勵學生發揮創意並展示學習成果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由活動之參與有所領悟，獲致新的想法與感受",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

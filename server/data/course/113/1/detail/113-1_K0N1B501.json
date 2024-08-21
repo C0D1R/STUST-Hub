@@ -1,0 +1,123 @@
+{
+    "code": "K0N1B501",
+    "name": {
+        "zh": "職場實務探索(一)",
+        "en": "Workplace Practicum"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技資傳三甲",
+        "夜四技視傳三甲",
+        "夜四技多樂三甲"
+    ],
+    "instructors": [
+        "張明裕"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第11節",
+            "location": "W0708"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學校教育從以前大多以一教百的教學，至今逐漸轉變以學生學習為中心的自主學習與教學。職場上，各家公司、工廠因應業界激烈競爭，員工需具備的專業知能應不斷擴充與成長；因應上述需求，此課程以職場相關問題作為課程主題，訓練學生獨立學習能力，讓學生挖掘問題與學習找答案的方法，並透過同儕討論與報告，共同學習成長。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.工作態度與職場倫理<br>2.工廠實務操作<br>3.廠務實習<br>4.工作報告撰寫<br>5.抗壓力學習<br>6.人際關係探討",
+        "en": "1.work attitude and career ethics<br>2.factory/company practice<br>3.shop affairs practical training<br>4.work report writing<br>5.pressure-resistant learning <br>6.interpersonal relationship discussion"
+    },
+    "weeklySchedule": "1 課程說明<br>2 實務實習內容簡介<br>3 實務實習經驗分享(一)<br>4 實務實習經驗分享(二)<br>5 期中實務實習工作內容書面報告<br>6 實務實習工作所遭遇之問題與解決之經驗分享<br>7 期末心得書面報告",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "專業知識的理論基礎與實務相互結合，能熟練應用於職場。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備使用職場所需軟體工具的能力。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能認清與感受目前的職場困境，並能調整自我調適，以最有效率之方式學習，快速進入狀況之能力。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "建立積極正向的工作態度與責任感，養成能夠承受各種壓力的能力，塑造與團隊合作的精神，達成工作目標。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建立積極正向的工作態度與責任感，養成能夠承受各種壓力的能力，塑造與團隊合作的精神，達成工作目標。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "略",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "略",
+    "teachingSoftware": "Libre Office or MS Office",
+    "rules": "學生務必遵守教室使用規定"
+}

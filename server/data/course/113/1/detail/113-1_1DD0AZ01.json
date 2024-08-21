@@ -1,0 +1,118 @@
+{
+    "code": "1DD0AZ01",
+    "name": {
+        "zh": "專修(五)演藝經紀(A1)",
+        "en": "Major Ⅴ－Management of Performing Arts Industry"
+    },
+    "credit": "1",
+    "type": "管制選修",
+    "classes": [
+        "四技流音三甲",
+        "四技流音三乙"
+    ],
+    "instructors": [
+        "韓羅賢"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第4節",
+            "location": "W1012"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程是為了擴延流行音樂產業系原本的正課(演藝經紀概論、演藝活動企劃、藝人定位與經紀實務…)，培育專業的演藝經紀工作者，所開設的[演藝經紀專修]課程。<br>    本課程預計從大二上學期開立演藝經紀專修課程，到大四下學期共分六階段設計教學內容，循序漸進地養成其演藝經紀專業能力。<br>    課程方向從瞭解流行音樂之基礎樂理、歷史發展、風格特徵、文化意義與產業知識，到瞭解演藝事業之規畫、行銷、管理、法規、合約等深入理論，以及強化具備演藝事業經營與管理之能力；甚或累積具備蒐集、分析、應用資料之能力，乃至於養成具備結合各方資源並運用創新方法發揮資源效益之完臻能力。期許離開校園而就業後，能發揮所學直接運用於當下的演藝職場。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.當今演藝事業的定義<br>2.當今演藝經紀人的定位概述<br>3.演藝經紀在流行音樂的操作概述<br>4.演藝經紀在事件活動的操作概述<br>5.演藝經紀在廣告代言的操作概述<br>6.演藝經紀在新媒體的操作概述<br>7.演藝經紀人應該具備的特質<br>8.演藝經紀十大雷區<br>9.台灣演藝事業發展沿革概述<br>10.藝人與網紅的定位<br>11.演藝事業的運營模式<br>12.一張唱片的誕生<br>13.演藝經紀人的工作要項<br>14.如何專業的處理好演藝經紀的工作<br>15.演藝公關操作與社群經營技巧<br>16.演藝經紀的流量密碼<br>17.綜合討論(一)<br>18.綜合討論(二)<br>",
+        "en": "1.Definition of Modern Performing Arts Industry.<br>2.Overview of the Modern Performing Arts Agent's Positioning.<br>3.Overview of the Performing Arts Agency’s Operations in the Popular Music Industry.<br>4.Overview of the Performing Arts Agency’s Operations in the Event and Activity.<br>5.Overview of the Performing Arts Agency’s Operations in the Advertisement and Endorsement.<br>6.Overview of the Performing Arts Agency’s Operations in the New Media.<br>7.The Ability and Traits of the Performing Arts Agent.<br>8.Top Ten Minefields of Performing Arts Industry Management.<br>9.Overview of the Development and Change of Taiwan's Performing Arts Industry.<br>10.The Positioning of Entertainer and KOL.<br>11.The Operational Model of Performing Arts Industry.<br>12.The Naissance of An Album.<br>13.The Point Job of a Performing Arts Agent.<br>14.How to Handle the Job of a Performing Arts Industry Professionally.<br>15.Public Relations Operating and Social Media Management Skills in the Performing Arts Industry.<br>16.Traffic Secrets of The Performing Arts Industry.<br>17.Comprehensive Discussion 1.<br>18.Comprehensive Discussion 2."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解流行音樂之基礎樂理、歷史發展、風格特徵、文化意義與產業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解演藝事業之規畫、行銷、管理、法規等深入理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備演藝事業經營與管理之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備蒐集、分析、應用資料之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備結合各方資源並運用創新方法發揮資源效益之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

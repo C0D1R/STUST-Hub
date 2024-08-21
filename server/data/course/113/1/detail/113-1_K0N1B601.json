@@ -1,0 +1,139 @@
+{
+    "code": "K0N1B601",
+    "name": {
+        "zh": "故事編寫",
+        "en": "Story Writing"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技多樂二甲"
+    ],
+    "instructors": [
+        "廖世傑"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "W0408"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "W0408"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "W0408"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程著重故事的產生與故事腳本撰寫的能力，故引導學生如何進行發想，蒐集創作素材，並應用於遊戲企畫、影片拍攝及動畫上。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 創作概念：瞭解創作的準則、故事的衝突、劇情的合理與劇本的前提<br>2. 故事的要素：了解與學習使用各種劇情的要素編寫故事<br>3. 故事結構與脈絡：瞭解構成故事脈絡的要素並將其結構化編寫出來<br>4. 編劇全局概念：學習編寫劇情大綱、概要與概念劇本<br>5. 故事類型：練習各種不同故事的類型以豐富學生之劇情想像力<br>6. 劇本寫作方式：練習以不同寫作方式與目的導引閱讀者目光與感受以帶動情緒",
+        "en": "1. Creative concept<br>2. Elements of the story<br>3. Story structure and context<br>4. Writer overall concept<br>5. Story type<br>6. Script writing method"
+    },
+    "weeklySchedule": "1. 創作概念：瞭解創作的準則、故事的衝突、劇情的合理與劇本的前提<br>2. 故事的要素：了解與學習使用各種劇情的要素編寫故事<br>3. 故事結構與脈絡：瞭解構成故事脈絡的要素並將其結構化編寫出來<br>4. 編劇全局概念：學習編寫劇情大綱、概要與概念劇本<br>5. 故事類型：練習各種不同故事的類型以豐富學生之劇情想像力<br>6. 劇本寫作方式：練習以不同寫作方式與目的導引閱讀者目光與感受以帶動情緒<br>7. 角色塑造：練習以角色卡等方法塑造角色性格與特色<br>",
+    "exams": {
+        "midterm": "書面報告、上台發表",
+        "final": "書面報告",
+        "other": "口頭發表"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1. 創作概念：瞭解創作的準則、故事的衝突、劇情的合理與劇本的前提",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "2. 故事的要素：了解與學習使用各種劇情的要素編寫故事",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "3. 故事結構與脈絡：瞭解構成故事脈絡的要素並將其結構化編寫出來",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "4. 編劇全局概念：學習編寫劇情大綱、概要與概念劇本",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "5. 故事類型：練習各種不同故事的類型以豐富學生之劇情想像力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "6. 劇本寫作方式：練習以不同寫作方式與目的導引閱讀者目光與感受以帶動情緒",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

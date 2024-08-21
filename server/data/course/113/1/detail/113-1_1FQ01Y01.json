@@ -1,0 +1,115 @@
+{
+    "code": "1FQ01Y01",
+    "name": {
+        "zh": "雙語教材教法研究",
+        "en": "Research on bilingual teaching methods and teaching materials"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專教經二甲"
+    ],
+    "instructors": [
+        "張韶華"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "N204"
+        },
+        {
+            "day": "週六",
+            "period": "第9節",
+            "location": "N204"
+        },
+        {
+            "day": "週六",
+            "period": "第11節",
+            "location": "N204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The aim of this course is to provide an overview<br>of the international literature relating to teaching<br>and pedagogical methods and materials in the context of bilingual education and bilingual classrooms.<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程的目的是提供與台灣雙語教學和雙語課堂相關的教學方法和教材國際文獻概述。",
+        "en": "1.The definition of bilingual education<br>2.The bilingual education arrangements grid<br>3.CLIL<br>4.EMI<br>5.Immersion<br>6.Deep learning<br>7.Pluriliteracies Teaching for Learning (PTL)<br>8.Authentic learning materials"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉雙語教學法的基本原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉雙語教材設計的基本原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探索研究完善的雙語教學法和教材的理論和應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探索研究完善的跨語言教育學",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

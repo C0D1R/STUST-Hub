@@ -1,0 +1,139 @@
+{
+    "code": "1LD06S01",
+    "name": {
+        "zh": "民俗、信仰與文化",
+        "en": "Folklore、Faith and Culture"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "楊雅琪"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "E0503"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "E0503"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "E0503"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "臺灣擁有多元族群，在歷史的進程中彼此容受，建構出屬於臺灣的民俗、信仰與文化，呈現出臺灣獨特的風俗民情。本課程欲以民俗學之基礎，從臺南當地所蘊涵之豐富民俗文化為出發，透過民俗信仰、常民物質文化、口傳文學、儀式慶典等主題之講授與田野調查，探討民俗、信仰與文化所形成之族群意識、文化意涵與社群聚落，理解其社會功能、文化特質及對個人、社區所產生之影響，加深對本土文化之認知，增進對於探索、保存、發揚在地民俗文化之知能。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一地之民俗、信仰與文化，反映出當地之人文地景，凝聚出族群意識，影響著個人行為模式與社區營造發展。為加深對本土文化之認知，增進探索、保存、發揚在地民俗文化之知能，本課程將以下列議題進行：<br>一、\t何謂「民俗學」<br>二、\t民俗學之田野調查方法與實作<br>三、\t在地民俗信仰踏查<br>四、\t生命禮俗文化<br>五、\t飲食文化<br>六、\t傳說信仰文化<br>七、\t精神信仰文化<br>",
+        "en": "The folklore, beliefs and culture of a place reflect the local human and cultural landscape, which embodies ethnic consciousness and affects individual behavior patterns and community development. In order to deepen the understanding of local culture and enhance the exploration, preservation and development of the knowledge of local folk culture, this course will be carried out on the following topics:<br>1.\tWhat is \"folklore\"?<br>2.\tThe folklore research method and implementation of folklore.<br>3.\tLocal folk belief survey.<br>4.\tLife cycle etiquette folk culture.<br>5.\tFood Culture.<br>6.\tFolktale belief culture.<br>7.\tSpiritual culture.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備民俗學的基本知能，並提高對於在地民俗文化之理解與素養。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現自己對本土民俗文化及國際文化的理解。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探索發掘在地民俗文化，拓展其人文影響力，並思索其保存、發揚之應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以有組織條理的表達能力，踏查採集當地民俗文化。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能於田野調查過程中與組員及受訪者互動融洽，有效地達成既定目標。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進對在地民俗文化素養，能理解及思辨在地文化對個人及族群的影響與意義。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

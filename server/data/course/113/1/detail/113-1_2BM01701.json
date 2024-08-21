@@ -1,0 +1,115 @@
+{
+    "code": "2BM01701",
+    "name": {
+        "zh": "專題研討(一)",
+        "en": "Independent Study(I)"
+    },
+    "credit": "0",
+    "type": "必修",
+    "classes": [
+        "博電機國際一甲",
+        "博電子國際一甲",
+        "碩電機國際一甲",
+        "碩電子國際一甲",
+        "碩資工國際一甲"
+    ],
+    "instructors": [
+        "趙春棠"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "B504"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "B504"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "訓練碩士同學專題報告的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "個人研究領域學術報告  <br>",
+        "en": "A formal report regarding personal research area <br>"
+    },
+    "weeklySchedule": "第一周 簡介<br><br>第二 ~八 周  學生論文研討<br><br>第九周 期中考周<br><br>第十 ~ 十七 周  學生論文研討<br><br>第十八周 期末考周<br>",
+    "exams": {
+        "midterm": "無",
+        "final": "無",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "閱讀英文專業期刊",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "製作報告投影片",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "口頭報告",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "聆聽他人報告並評述",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "作好英語會議簡報",
+        "author": "柯泰德",
+        "publisher": "工業技術研究院化學工業研究所出版社",
+        "year": "1995",
+        "ISBN": "957-774-079-0",
+        "edition": "1"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

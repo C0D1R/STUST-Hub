@@ -1,0 +1,99 @@
+{
+    "code": "D1N00J01",
+    "name": {
+        "zh": "統計學(二)",
+        "en": "Statistics (II)"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜行流產攜二甲"
+    ],
+    "instructors": [
+        "薛健宏"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "統計是最重要的資料分析工具，可以將一組資料簡化為有用的資訊，提供管理者有效的決策，其簡化過程所使用的理論依據，即是本課程所探討的範疇。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "抽樣與抽樣分配<br>估計<br>假設檢定<br>兩個母體比較的統計推論<br>卡方檢定<br>變異數分析",
+        "en": "ampling distribution theory<br>Estimation<br>Tests of statistical hypotheses<br>Tests of the equality of two normal distribution<br>Chi-square goodness of fit tests<br>Analysis of varianve"
+    },
+    "weeklySchedule": "第一週 抽樣方法與抽樣分配<br>第二週 樣本平均數、變異數之抽樣分配<br>第三週 估計<br>第四週 母體之區間估計<br>第五週 假設檢定<br>第六週 假設檢定、平時考<br>第七週 母體平均數之檢定I<br>第八週 母體平均數之檢定II<br>第九週 期中考試週<br>第十週 母體比例之檢定<br>第十一週 兩個母體平均數差的統計推論<br>第十二週 兩個母體比例差的統計推論<br>第十三週 一因子變異數分析<br>第十四週 數個平均數的多重比較<br>第十五週 數個平均數的多重比較、平時考<br>第十六週 迴歸分析I<br>第十七週 迴歸分析II<br>第十八週 期末考試週",
+    "exams": {
+        "midterm": "上機考",
+        "final": "上機考",
+        "other": "隨堂作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "資料分析的統計方法與基本理論",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有效辨識適當的統計方法",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "資料轉換成資訊用以建立管理決策",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "利用excel軟體分析資料",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

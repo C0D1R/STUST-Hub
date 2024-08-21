@@ -1,0 +1,138 @@
+{
+    "code": "90N13301",
+    "name": {
+        "zh": "ERP配銷模組",
+        "en": "ERP Application Engineering for Distribution Modules"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技資管四甲"
+    ],
+    "instructors": [
+        "岳桂芳"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "T0713"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "T0713"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "T0713"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要介紹Workflow ERP系統GP版中配銷模組之架構與內容，讓學生經由實際系統操作得以瞭解企業在配銷方面相關之流程，課程內容以模擬企業流程情境式教學，讓學生按部就班且循序漸進學習。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.介紹企業基本配銷流程。<br>2.介紹配銷模組基本資料輸入、作業流程與常用報表。<br>中文大綱<br>1.配銷基本流程介紹<br>2.配銷模組系統架構及關聯性<br>3.配銷模組主要基本資料<br>4.配銷模組期初開帳<br>5.配銷模組各項功能流程<br>6.配銷模組常用報表簡介<br>",
+        "en": "1. Concepts of Sales and Distribution Processes in ERP<br>2. Concepts and Structure of Distribution Module in ERP<br>2. Functions of Sales and Distribution Processes<br>3. Common Reports in Distribution Module<br>"
+    },
+    "weeklySchedule": "第1週~第2週：基礎觀念及導入方法論<br>第3週~第5週：配銷模組主要基本資料<br>第6週~第7週：系統架構及主要功能介紹<br>第8週：考前複習<br>第9週：期中考<br>第10-11週：配銷模組期初餘額結算與輸入<br>第12-15週：配銷模組各項功能流程<br>第15-16週：配銷模組常用報表簡介<br>第17週：考前複習  <br>第18週：期末考",
+    "exams": {
+        "midterm": "期中考試",
+        "final": "期末考試",
+        "other": "上機練習與作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "闡述ERP配銷模組系統架構及關聯性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "解析ERP配銷模組各項流程與功能",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "探究ERP配銷模組常用報表",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能解構企業流程並準確地操作ERP軟體",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Workflow ERP GP 基礎觀念及導入方法篇(GP 4.X版) +  Workflow ERP GP 配銷模組應用篇(GP 4.X版)",
+        "author": "鼎新電腦股份有限公司",
+        "publisher": "鼎新知識學院",
+        "year": "2019",
+        "ISBN": "978-986-892263-6-3",
+        "edition": "第2版"
+    },
+    "referenceBooks": "(1)江美英,吳佩諭 鼎新Workflow ERP GP應用人才培訓系列-ERP基礎觀念及導入方法篇，鼎新知識學院，  <br>         2011/1 第一版<br>(2)吳佩諭,余岱倫,鼎新Workflow ERP GP應用人才培訓系列-配銷模組應用篇，鼎新知識學院，2011/1 第一版<br><br>",
+    "teachingSoftware": "Powerpoint、Blackboard 教學平台、Workflow ERP GP、OFFICE、EXCEL",
+    "rules": "(1) 請同學尊重智慧財產權，使用正版教科書，不得非法影印，以免觸犯智慧財產權相關法令。<br>(2) 老師於上課時會確實點名，請同學按時出席，如有特殊情形請依校規辦理請假，以免影響到自身的權益。<br>(3) 評量方式期中與期末採筆試方式，平時成績採上機實作演練方式，希望能培養同學將專業理論與實務結合的能力。<br>"
+}

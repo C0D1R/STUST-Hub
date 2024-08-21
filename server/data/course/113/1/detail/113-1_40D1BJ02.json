@@ -1,0 +1,157 @@
+{
+    "code": "40D1BJ02",
+    "name": {
+        "zh": "基礎化工(一)",
+        "en": "Basic chemical engineeringⅠ"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專化材三甲"
+    ],
+    "instructors": [
+        "沈雅琦"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "I0211"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "I0211"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "I0211"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為化工理論的基礎，培養學生具備化工基礎知識，包含質能均衡、物質的一般性質、界面化學與膠體、相平衡現象及電化學。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、質能均衡<br>二、氣體的性質<br>三、液體的性質<br>四、晶體的性質<br>五、界面化學<br>六、相與相平衡<br>七、電化學<br>",
+        "en": "1. Quality-energy balance<br>2. Properties of gases<br>3. Properties of liquids<br>4. Properties of crystals<br>5. Interface Chemistry<br>6. Phase and phase balance<br>7. Electrochemistry<br><br>"
+    },
+    "weeklySchedule": "以下進度會依課堂情況加以調整：<br><br>第一週 課程介紹 <br>第二週 質能均衡<br>第三週 氣體的性質<br>第四週 氣體的性質<br>第五週 液體的性質<br>第六週 液體的性質<br>第七週 晶體的性質<br>第八週 晶體的性質<br>第九週 期中考試<br>第十週 界面化學<br>第十一週 界面化學<br>第十二週 界面化學<br>第十三週 相與相平衡<br>第十四週 相與相平衡<br>第十五週 電化學<br>第十六週 電化學<br>第十七週 期末複習<br>第十八週 期末實作報告<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解基礎化工課程教授內容並具備基本概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能看得懂基礎化工相關之專業名詞",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能充分了解基礎化工課程所教授內容在產業界的應用",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有系統的回答課堂上老師詢問之專業問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能藉由基礎化工的例題與習題之練習，具備分析與解決問題的能力。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用網際網路平台收集並研讀相關資料",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "教師自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "1.上課勿遲到早退。<br>2.上課中請勿睡覺、聊天及使用手機、筆電、平板等通訊設備。<br>3.本教學大綱得視教學需要調整之。課堂實作依實際課程進度及疫情加以調整。"
+}

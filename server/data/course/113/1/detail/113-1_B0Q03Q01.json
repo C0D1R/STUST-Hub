@@ -1,0 +1,99 @@
+{
+    "code": "B0Q03Q01",
+    "name": {
+        "zh": "組織與領導",
+        "en": "Organization and Leadership"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專休閒一甲"
+    ],
+    "instructors": [
+        "陳慧玲"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The main purpose of this course is to explore the functions and structure of our major service agencies, the issues confronting service managers, and the future directions to which service profession is moving. The principles of service management in terms of organizational behaviors and professional roles and their application in service industry are introduced in this course. The development and implications of management and marketing model in service agencies facing public policy is discussed. The course also addresses integral knowledge that will shape the professional preparation of students.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\tLearn the scope and current development of service industries.<br>2.\tDevelop the management knowledge of structures and organizations in service system.<br>3.\tUnderstand the planning principles in providing services for the clientele considering the public policy development.<br>4.\tLearn the various aspects of service management and leadership, including strategic planning principles, empowerment and management tactics , activity programming, education and promotion, policy and legal issues, risk management, and resource attainment strategy.<br>5.\tFocus on the preparation and establishment of managerial skills and abilities in future competition of employment markets.",
+        "en": "1.\tLearn the scope and current development of service industries.<br>2.\tDevelop the management knowledge of structures and organizations in service system.<br>3.\tUnderstand the planning principles in providing services for the clientele considering the public policy development.<br>4.\tLearn the various aspects of service management and leadership, including strategic planning principles, empowerment and management tactics , activity programming, education and promotion, policy and legal issues, risk management, and resource attainment strategy.<br>5.\tFocus on the preparation and establishment of managerial skills and abilities in future competition of employment markets."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "主要目的是探索我們的主要服務機構的功能和結構，服務經理面臨的問題以及服務行業未来發展的方向。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "介紹了服務管理在組織行為和職業角色及其在服務行業中的应用原理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "討論了面向公共政策的服務機構管理和營銷模式的發展和影响。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "該課程還涉及整體知識，將塑造学生的專業準備",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

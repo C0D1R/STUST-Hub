@@ -1,0 +1,116 @@
+{
+    "code": "70D17401",
+    "name": {
+        "zh": "企業資源規劃",
+        "en": "Enterprise Resource Planning"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管一甲",
+        "四技企管一乙"
+    ],
+    "instructors": [
+        "洪崇文"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "S402"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "S402"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "S402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以實做為導向，讓學生實際操作企業從接單到出貨的各項作業，以期學生從實際操作中瞭解企業經營的流程，並比較與理論之間的差異，另期望學生於課程結束後取得ERP證照，以作為學生就業的基礎。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 企業資源規劃簡介<br>2. ERP基本操作<br>3. 訂單系統<br>4. 採購系統<br>5. 庫存系統<br>6. ERP系統架構<br>7. ERP系統導入方法論",
+        "en": "1. Introduction to enterprise resource planning.<br>2. Practice of basic ERP functions.<br>3. Sales order system.<br>4. Purchasing system.<br>5. Inventory system.<br>6. Architecture of ERP system.<br>7. Implementation methodology of ERP system."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生了解基礎商管知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生了解訂單、採購與庫存管理流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生熟悉ERP訂單、採購與庫存管理模組系統操作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生能了解如何應用資訊科技協助執行企業訂單、採購與庫存管理流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,123 @@
+{
+    "code": "I0D29C01",
+    "name": {
+        "zh": "教保職涯輔導",
+        "en": "CHILD CARE CAREER GUIDANE"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技幼保四甲"
+    ],
+    "instructors": [
+        "高家斌",
+        "張治遙"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0503"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0503"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹職涯發展的意義與重要性，增進學生對自我的瞭解，提升學生對工作世界的認識，並協助學生發展適切的生涯目標，以及培養提升學生的職涯發展能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.職涯的意義與內涵<br>2.職涯成熟度<br>3.認識自己-我的興趣<br>4.認識自己-我的性格特質<br>5.認識自己-我的需求與價值觀<br>6.認識自己-我的能力及優勢條件<br>7.自我觀點及人格成熟度<br>8.認識工作世界-幼兒園及其發展趨勢<br>9.認識工作世界-托嬰中心及其發展趨勢<br>10.認識工作世界-兒童相關產業<br>11.認識工作世界-工作世界未來的發展趨勢<br>12.職涯發展能力的培養<br>",
+        "en": "1. The meaning and connotation of career <br>2. Career Maturity<br>3. Know myself - my interests<br>4. Know myself - my personality traits<br>5. Know myself - my needs and values<br>6. Know myself - my abilities and advantages<br>7. Self-viewpoints and personality maturity<br>8. Understanding the world of work-kindergartens and their development trends<br>9. Understanding the world of work - babysitting centers and their development trends<br>10. Understanding the world of work - children-related industries<br>11. Understanding the world of work - the future development trend of the world of work<br>12. Cultivation of career development ability<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解職涯的意義與內涵",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進學生對自我的覺察與認識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進學生對工作世界的瞭解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "幫助學生建立適切的生涯目標",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升學生的職涯發展能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "08D04H04",
+    "name": {
+        "zh": "英文文法與寫作(一)(B)",
+        "en": "English Writing(Ⅰ)"
+    },
+    "credit": "2",
+    "type": "管制選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "黃馨儀"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "T0002"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "T0002"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程幫助學生建立能正確書寫英文句子，進而針對特定主題書寫英文段落來表達個人觀點。<br>This is a writing course to help students develop sentences to form paragraphs in order to participate in EMI classes. Students will develop and link a variety of English sentences to form a simple cohesive paragraph, write realistic short writing assignments and gain self-editing experience.<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.英文基本詞類介紹。<br>2.基本句型介紹。<br>3.文章選讀與文法分析。<br>4.英文修辭訓練。",
+        "en": "1.Introduction to basic parts of speech in English.<br>2.Introduction to basic sentence patterns.<br>3.Articles readings and grammar analyses.<br>4.English rhetoric training."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "從不同觀點討論和現代社會相關的議題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進參與討論及口語溝通能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進以英語文法、字彙及寫作等能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "利用網路資源以及相關軟體來書寫並編輯文章",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

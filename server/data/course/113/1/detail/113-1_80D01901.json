@@ -1,0 +1,151 @@
+{
+    "code": "80D01901",
+    "name": {
+        "zh": "財務管理(一)",
+        "en": "Financial Management (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技財金二甲"
+    ],
+    "instructors": [
+        "陳曉蓉"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "S413"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "S413"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "S413"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "財務管理為一學年課程，並依上、下學期分為財務管理(一)與(二)。主要是站在「公司管理者」的角度，以所學的財務理論來執行正確的財務決策，達到最佳的公司績效。財務管理(一)乃著重在財務管理基礎的建立，並輔以相關實例與習題進行研究與練習。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t財務管理概論<br>2.\t財務金融環境：市場、機構與利率<br>3.\t財務報表分析<br>4.\t營運資金管理<br>5.\t貨幣的時間價值<br>6.\t證券評價模式<br>",
+        "en": "1.\tAn Overview of Financial Management<br>2.\tThe Financial Environment：Markets, Institutions, and Interest Rates <br>3.\tFinancial Statement Analysis<br>4.\tWorking Capital Management<br>5.\tThe Time Value of Money<br>6.\tValuation Model<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解財務管理的基本學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能善用金融知識於公司理財課題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用方法解決財金實務問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對公司財務問題，有效辨識適當的管理方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能評選出對公司有利的投資與融資方案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能建立專業責任與企業倫理之觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能操作計算機或Excel軟體分析財金議題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

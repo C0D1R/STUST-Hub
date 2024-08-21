@@ -1,0 +1,140 @@
+{
+    "code": "1CD05101",
+    "name": {
+        "zh": "移動載具設計",
+        "en": "Payload mobilities design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技產設三甲",
+        "四技產設三乙"
+    ],
+    "instructors": [
+        "林育宥"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "P405"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "P405"
+        },
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "P405"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "移動載具設計是一門專注於設計和開發各種交通工具的課程，涵蓋範圍從汽車、飛機、船、巴士等。這門課程通常包括以下方面的內容：工程基礎知識、載具設計原則、動力系統、底盤設計、材料與製造工藝。<br>課程結合理論知識和實踐技能，學生學習設計專案流程，以培養他們的團隊合作、外觀設計和解決問題能力。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.移動載具設計概述<br>2.基礎知識工程講解<br>3.交通工具設計原則<br>4.動力系統介紹及應用<br>5.材料與製造工藝特性<br>6.設計報告和展示<br>",
+        "en": "1.Overview of Payload mobilities design<br>2.Explanation of Basic Engineering Knowledge<br>3.Principles of Payload mobilities design<br>4.Introduction and Application of Power Systems<br>5.Materials and Manufacturing Process Characteristics<br>6.Design Reports and Presentations<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.\t專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.\t實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.\t資訊能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.\t整合創新",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5.\t表達溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6.\t敬業合群",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

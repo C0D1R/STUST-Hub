@@ -1,0 +1,115 @@
+{
+    "code": "50D01301",
+    "name": {
+        "zh": "系統分析與設計",
+        "en": "System Analysis and Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電商三甲"
+    ],
+    "instructors": [
+        "丁介人"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "T0803"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0803"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0803"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過嚴謹的問題分析步驟與系統設計過程，將面臨的問題以文字及圖型的方式逐一釐清呈現，提供資訊系統建構之依據。<br>本課程除提供建構資訊系統之工具外，對於處理任何種類問題的能力亦有極大之助益。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.系統開發概論 <br>2.使用案例圖 <br>3.活動圖 <br>4.概念模型 <br>5.物件圖 <br>6.進階分析 <br>7.狀態圖 <br>8.元件圖與部署圖 <br>9.設計樣式",
+        "en": "1.Introduction<br>2.Use Case Diagram<br>3.Activity Diagram<br>4.Conceptual Modeling<br>5.Object Diagram<br>6.Analysis Object<br>7.Component Diagram<br>8.Deployment Diagram<br>9.Design Pattern"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備分析、歸納整理問題的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "孰悉資訊系統開發之流程與工具",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養專案團隊分工合作之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "擁有講演及書面報告之溝通技巧與能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,116 @@
+{
+    "code": "1DD09101",
+    "name": {
+        "zh": "數位音效與剪輯",
+        "en": "Digital Sound Effects and Editing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技流音三甲",
+        "四技流音三乙"
+    ],
+    "instructors": [
+        "林岑芳"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "W1002"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "W1002"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "W1002"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以Cubase為主，其他可攜式或免費軟體為輔，學習當代基礎剪輯與效果設定之原理與實際操作。見習基礎人聲錄製與學習後製之原則，學習指定主題之製作技術。運用創意，整合各項技術完成指定作品。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.簡介-科技化的數位聲音製作 <br>2.專業數位聲音工作站軟體基本操作<br>3.硬體基礎連接與軟體環境設置<br>4.控制器解說與基礎操作<br>5.運用數位聲音資源庫之基礎創作<br>6.攜帶式、網路合作式創作介紹與實作練習<br>7.人聲剪輯解析入門<br>8.錄音配唱或宅錄學習<br>9.混音入門<br>10.指定風格之音樂音效編修展示<br>",
+        "en": "1. Introducion: Technological digital sound production<br>2. Basic operation of professional digital sound workstation software<br>3. Basic hardware connection and software environment setting <br>4. Controller explanation and basic operation<br>5. Basic creation using digital sound resource library<br>6. Introduction and practical exercises for portable and online collaborative creation<br>7. Basic vocal editing<br>8. Studio recording or home recording learning<br>9. Getting started with mixing<br>10. Music and sound editing display of the specified style"
+    },
+    "weeklySchedule": "第一週(9/11) Intro全學期進度 / 進階AI應用介紹 / 音景說明 / 學期報告範例展示<br>第二週(9/18) Basic knowledge about recording<br>第三週(9/25) 專題講座<br>第四週(10/2) Colab So-VITS步驟說明與現場開機試做<br>第五週(10/9) MIDI Controller動手做展示<br>第六週(10/16) 專題講座<br>第七週(10/23) Interesting pitch plugin application <br>第八週(10/30) 期中考Review <br>第九週(11/6) 期中考週 錄音相關基本常識<br>第十週(11/13) Controller: advanced / Cubase功能補充<br>第十一週(11/20) 進階功能介紹<br>第十二週(11/27) AI模型介紹<br>第十三週(12/4) 報告1<br>第十四週(12/11) 報告2<br>第十五週(12/18) 報告3 <br>第十六週(12/25) 報告4<br>第十七週(1/1) 放假<br>第十八週(1/8) Summarize",
+    "exams": {
+        "midterm": "筆試",
+        "final": "個別報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉音樂錄音軟、硬體設備原理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備應用軟硬體設備於音樂製作的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉數位工作站之音樂設計操作與應用",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "提昇音樂於媒體搭配的美學力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Cubase為主，其他為輔",
+    "rules": "課程性質原為跨領域初級課程，因選課外係無配合，改為系上知識性課程。補充數位音訊知識、跨領域電機手作資訊（歡迎動手做、參與製作），以及相關內容介紹與複習。<br><br>1.期中考30％ 期末作業35％ 平時成績35%<br><br>2.期末請做一份課程相關有內容、深度的上台報告，最好是有自己的創作或剪輯的作品。首選方向是配合學校計畫的台南中西區「五條港」音景作業，優秀作品有機會參展（見七股音景範例folder）。由於會帶大家做自己的AI聲音資料，若能應用自己的聲音一定加分！<br>五條港參訪採聲景需要同學自行坐公車前往，因為會佔用同學時間，有去採聲景的同學第18週不用到課，但需要在第16週前完成期末上台報告且上傳到五條港的現場拍照本人入鏡照片以及所採集的聲檔link（因17週元旦放假）。<br> <br>2.若要小組，不超過三人一組，並請於上傳時的標題標註參與組員姓名都標上<br>3.需有ppt，請上傳至期末報告上傳區<br>4.當週有重要事情不能來的要跟別人換&amp;事先交代<br>5.期中考未到的同學請做特別好、夠份量的報告來補成績<br>6.凡選修本課程者視同默認：所有上傳資料之供課程公佈活動所使用之版權問題需自行負責。<br>"
+}

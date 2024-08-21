@@ -1,0 +1,140 @@
+{
+    "code": "20D1A901",
+    "name": {
+        "zh": "智慧型系統應用",
+        "en": "Intelligent Systems and Applications"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技控晶四甲",
+        "四技控晶四乙"
+    ],
+    "instructors": [
+        "洪國鈞"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "C304"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "C304"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "C304"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程完整而淺顯地介紹研習智慧型系統與相關機電資領域所需的專業基礎，並詳細探討各種新進的智慧型系統應用技術。來培育具備創新設計、跨領域技術整合、多元視野、科技生活化等特質能力及人本核心能力的科技人才為目標。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1 人工智慧及智慧型系統簡介.(1)<br>2 人工智慧及智慧型系統簡介.(2)<br>3 專家系統的不確定管理 (1)<br>4 專家系統的不確定管理 (2)<br>5 模糊推論及專家系統 (1)<br>6 模糊推論及專家系統 (2)<br>7 類神經網路 (1)<br>8 類神經網路 (2)<br>9 遺傳及演進演算法 (1)<br>10 遺傳及演進演算法 (2)<br>11 複合式智慧型系統 (1)<br>12 複合式智慧型系統 (2)<br>13 分組報告 (1)<br>14 分組報告 (2)<br>15 問題討論<br>16 應用實例研析 (1)<br>17 應用實例研析 (2)<br>",
+        "en": "1 Introduction to A.I System.(1)<br>2 Introduction to A.I System.(2)<br>3 Uncertainty management in rule-based expert systems (1)<br>4 Uncertainty management in rule-based expert systems (2)<br>5 Fuzzy expert systems (1)<br>6 Fuzzy expert systems(2)<br>7 Artificial neural networks(1)<br>8 Artificial neural networks(2)<br>9 Evolution computation(1)<br>10 Evolution computation(2)<br>11 Hybrid intelligent systems(1)<br>12 Hybrid intelligent systems(2)<br>13 Oral Report (1)<br>14 Oral Report (2)<br>15 Problem Discussion<br>16 Application study (1)<br>17 Application study (2)<br>18 Application study (3)<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "人工智慧及智慧型系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "模糊推論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "類神經網路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "演進演算法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "專家系統及應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "智慧型系統應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

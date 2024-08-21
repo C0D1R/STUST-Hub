@@ -1,0 +1,127 @@
+{
+    "code": "1LD06402",
+    "name": {
+        "zh": "西洋古典音樂欣賞(B)",
+        "en": "Western Classical Music Appreciation"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "游千慧"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "S510"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S510"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "S510"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程的目的在於引導學生具備欣賞西洋古典音樂的知識、興趣與能力。課程理論部分由耳熟能詳的小品入門，循序漸進地介紹音樂風格、代表性作曲家、經典曲目、以及文化現象。實作部分協助學生搜尋音樂會訊息並進入表演廳堂聆賞，以提升欣賞古典音樂的興趣，培養終身學習的動機和能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、進入西洋古典音樂的世界<br>1. 古典音樂的定義<br>2. 欣賞古典音樂的方法<br>3. 音樂會節目搜尋、購票管道及聽眾禮儀<br>二、古典音樂基本知識<br>1. 音樂三要素<br>2. 樂器介紹、演奏型態與器樂曲種類<br>3. 人聲介紹、表演型態與聲樂曲種類<br>三、各時期的音樂風格、代表性作曲家、經典作品<br>1. 巴洛克時期<br>2. 古典時期<br>3. 浪漫樂派與國民樂派<br>4. 印象樂派<br>四、古典音樂文化現象<br>1. 莫札特的經濟效益<br>2. 維也納新年音樂會<br>3. 蕭邦國際鋼琴比賽<br>4. 全球知名演奏家與交響樂團<br>5. 全球知名演唱家與合唱團<br>6. 全球知名音樂廳與歌劇院<br>",
+        "en": "Unit 1 Getting started with classical music<br>\tWhat is classical music<br>\tHow to appreciate classical music<br>\tHow to attend a concert<br>Unit 2 Basic knowledge of classical music<br>\tElements of music<br>\tInstrumental music<br>\tVocal music<br>Unit 3 Famous composers and works<br>\tBaroque period<br>\tClassical period<br>\tRomantic period<br>\tModern period<br>Unit 4 Classical music today<br>\tMozart today<br>\tThe Vienna New Year's Concert<br>\tInternational Chopin Piano Competition<br>\tFamous performers and orchestras <br>\tFamous singers and choirs<br>\tConcert halls and opera houses<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解西洋古典音樂的風格、代表性作曲家、經典曲目與音樂文化。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "參與音樂性藝文活動，提升個人生活品味。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備以語言、肢體或樂器表達音樂內涵的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養團隊合作精神，達成課程要求任務。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "統整西洋古典音樂的知識，運用於其他類型音樂的學習。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

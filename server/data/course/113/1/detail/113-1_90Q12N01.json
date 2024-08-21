@@ -1,0 +1,127 @@
+{
+    "code": "90Q12N01",
+    "name": {
+        "zh": "R商業資料分析",
+        "en": "Business Data Analysis with R"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專大數據一甲"
+    ],
+    "instructors": [
+        "童冠燁"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第1節",
+            "location": "T0708"
+        },
+        {
+            "day": "週六",
+            "period": "第2節",
+            "location": "T0708"
+        },
+        {
+            "day": "週六",
+            "period": "第5節",
+            "location": "T0708"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.本課程在學習以統計與資料探勘方法處理大量資料時的管理決策問題，以萃取出有價值的資訊或內隱的知識，做為決策支援與管理之依據。<br>2.R語言介紹與資料採礦方法介紹。<br>3.探討大數據環境下管理的意涵與機會，並利用案例資料訓練同學資料分析與解決問題的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(1) 大數據介紹<br>(2) R語言介紹與基本統計分析<br>(3) R語言與繪圖<br>(4) 資料探勘簡介<br>(5) 決策樹技術<br>(6) 關聯分析<br>(7) 集群分析",
+        "en": "(1) An Introduction to Big Data Analytics<br>(2) An Introduction to R and Basic Statistical Analysis<br>(3) An Introduction to R Graphics<br>(4) An Introduction to Data Mining<br>(5) Decision Trees Technique<br>(6) Association Analysis<br>(7) Cluster Analysis"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解大數據意義與特徵",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解資料探勘基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用R語言於商業資料分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用R語言進行資料探勘分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現商業問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

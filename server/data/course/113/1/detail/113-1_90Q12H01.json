@@ -1,0 +1,115 @@
+{
+    "code": "90Q12H01",
+    "name": {
+        "zh": "資料科學導論",
+        "en": "Introduction to Data Science"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專大數據一甲"
+    ],
+    "instructors": [
+        "何宗翰"
+    ],
+    "schedule": [
+        {
+            "day": "週日",
+            "period": "第2節",
+            "location": "T0708"
+        },
+        {
+            "day": "週日",
+            "period": "第3節",
+            "location": "T0708"
+        },
+        {
+            "day": "週日",
+            "period": "第4節",
+            "location": "T0708"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將深入淺出介紹資料科學的基礎原理，並一起學習資料科學的觀念、技術，包含資料蒐集、清理、儲存、管理、探索性分析、統計等，在面對資料時，能發掘問題進而分析，並能訓練選擇適合工具進行資料處理的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 資料科學導論<br>2. 資料分析-使用Excel<br>3. 資料庫介紹<br>4. R語言<br>5. Python<br>6. 資料科學應用",
+        "en": "1. Introduction to data science<br>2. Data analysis - excel<br>3. Introduction to database<br>4. Introduction to R programming language<br>5. Introduction to Python<br>6. Applications of data science in various fields"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識資料科學的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習資料處理及分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識資料處裡相關工具套件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解應用資料科學於各領域",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,127 @@
+{
+    "code": "50D28301",
+    "name": {
+        "zh": "創業管理",
+        "en": "Entrepreneurship Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電商三甲"
+    ],
+    "instructors": [
+        "陳淑玲"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0803"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0803"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0803"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "機會發掘是創業管理的核心議題，而創業精神決定創業機會的發掘與實現。市場上存在的機會，需憑藉創業家所擁有的知識能力、市場資訊與分析評估能力、資源取得能力、網絡關係、組織與團隊能力、規劃與執行力等，在創業家的洞察與創業行動下，進行創業的思考、撰寫創業計劃書、建構經營團隊、發展經營模式。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、創業管理簡介<br>1.創業的必要性<br>2.創意的產生<br>二、創業管理的架構<br>1.創業管理的架構<br>三、資源與能力<br>1.創業資源<br>2.創業能力評估<br>四、創業的外部環境<br>1.創業的外部環境分析<br>五、創業的策略<br>1.創業的策略<br>六、財務計畫<br>1.創業的財務分析<br>2.創業的財務計畫<br>七、創業風險分析<br>1.創業風險分析<br>八、網路創業<br>1.網路行銷<br>2.網路創業成功的關鍵<br>九、創業計畫書撰寫<br>1.撰寫創業計畫書<br>十、創業個案研討<br>1.撰寫創業計畫書<br>",
+        "en": "Chap.1 Introduction to entrepreneurship management<br>1. The necessity of starting a business<br>2. The creation of ideas<br>Chap.2 the structure of entrepreneurial management<br>1. The structure of entrepreneurial management<br>Chap.3 resources and capabilities<br>1. Venture resources<br>2. Entrepreneurship assessment<br>Chap.4 the external environment of entrepreneurship<br>1. Analysis of the external environment of entrepreneurship<br>Chap.5 Entrepreneurship strategy<br>1. Entrepreneurial strategy<br>Chap.6 financial plan<br>1. Financial analysis of entrepreneurship<br>2. Business plan for entrepreneurship<br>Chap.7 entrepreneurial risk analysis<br>1. Venture risk analysis<br>Chap.8 online entrepreneurship<br>1. Internet marketing<br>2. The key to successful online entrepreneurship<br>Chap.9 Writing a business plan book<br>1. Writing a business plan book<br>Chap.10 Entrepreneurship case study<br>1. Writing a business plan book"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解創業歷程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解商業模式及發展策略",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能執行創業行銷",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能建立與管理創業團隊",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能執行資金籌措與財務管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

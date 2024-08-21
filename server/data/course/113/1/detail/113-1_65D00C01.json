@@ -1,0 +1,116 @@
+{
+    "code": "65D00C01",
+    "name": {
+        "zh": "商用微積分",
+        "en": "Business Calculus"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國商二甲"
+    ],
+    "instructors": [
+        "許淑媖"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "S515"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "S515"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "S515"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Business Calculus is based on the concept of limits, covering differentiation and integration of functions of one variable with applications.  This course is designed for the students of business and economics with an emphasis on applications of calculus.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 函數<br>2. 微分<br>3. 微分應用<br>4. 指數函數及應用<br>5. 定積分<br>6 積分應用<br>",
+        "en": "1. Preliminaries<br>2. Functions, Graphs, and Limits<br>3. Differentiation: Basic Concepts<br>4. Additional Applications of the Derivative<br>5. Exponential and Logarithmic Functions<br>6. Integration <br>7. Additional Topics in Integration<br>"
+    },
+    "weeklySchedule": "In this course, we will first review exponential and logarithmic functions. Then we introduce integration and its applications. Finally, hope to turn our attention to calculus of several variables.。<br><br> 課程目標 <br>*   Enable students to understand the concepts of exponential and logarithmic functions and their differentiation.<br>*   Enable students to understand the concept of integration and apply its skills.<br>*   Enable students to understand the concept of calculus of several variables and do its application.<br><br> 課程大綱  <br>*   指數與對數函數<br>*   指數與對數函數的微分<br>*   不定積分<br>*   代換積分<br>*   定積分與微積分基本定理<br>*   定積分的應用<br>*   分部積分<br>*   瑕積分<br>*   多變數函數<br>*   偏微分及其應用",
+    "exams": {
+        "midterm": "筆試",
+        "final": "報告",
+        "other": "平時表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能將資料轉換成資訊並用以建立管理決策",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能針對管理問題有效辨識適當的微積分方法",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現資料分析結果",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用微積分方法的重要性",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Applied Calculus",
+        "author": "Daniel Benice and Tzuwei Cheng",
+        "publisher": "Cengage",
+        "year": "2019",
+        "ISBN": "978-986-94626-4-8",
+        "edition": "1"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

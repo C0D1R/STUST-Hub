@@ -1,0 +1,116 @@
+{
+    "code": "J0D36H01",
+    "name": {
+        "zh": "3D角色動作設計",
+        "en": "3D Character Animation Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技動畫三甲"
+    ],
+    "instructors": [
+        "高逸峯"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "W0709"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "W0709"
+        },
+        {
+            "day": "週五",
+            "period": "第9節",
+            "location": "W0709"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.Autodesk Maya國際證照",
+        ""
+    ],
+    "description": "此課程以角色動畫製作為主軸，結合3D動畫keyframe設定和動作擷取系統應用，讓數位動畫表演設計有更多元的媒體整合應用。課程以主題練習與專題創作為主，並融合設計、創意與美感製作出富個人特色之作品。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.3D角色控制器建立<br>2.皮膚設定和表情設計<br>3.3D動作設計<br>4.動作擷取整合<br>5.表演技巧<br>",
+        "en": "1.3D character controller setup<br>2.Skin and facial expression setup<br>3.3D character animation<br>4.Motion Capture system<br>5.Acting techniques<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "美學設計能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "媒體整合應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "數位動態製作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創意表演設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

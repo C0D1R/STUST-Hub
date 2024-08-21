@@ -1,0 +1,139 @@
+{
+    "code": "K0N1AW01",
+    "name": {
+        "zh": "視覺特效(一)",
+        "en": "Visual Effects I"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技多樂四甲"
+    ],
+    "instructors": [
+        "邱正寧"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "W0708"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "W0708"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "W0708"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學習視覺特效素材之分類與格式、瞭解創作視覺特效之流程、瞭解拍攝與合成時之技巧、思考視覺特效之美學概念、體驗實際案例製作視效",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 燈光之運用與記錄方式：各種光源應用操作及燈光與氣候影響。<br>2. 特效素材分類與格式：特效素材收集方式與格式應用差別性。<br>3. 素材變速處理技法：各種素材取得及處理與工具規劃應用。<br>4. 繪圖板與手繪技法：繪圖板操作技術與素材對應規劃應用。<br>5. 數位追蹤與鎖定技法：各種追縱定位工具操作與應用技術。<br>6. 合成技巧與分層概念：層級應用概念原理與素材合成技術。",
+        "en": "1. Software interface introduction. <br>2. Basic editing concepts  <br>3. One point tracking skill. <br>4. Four points tracking skill. <br>5. Moving point remove and skin fixing. <br>6. Morphing concepts and skill. <br>7. Title effects <br>8. 3D function in digital effects."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "燈光之運用與記錄方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "特效素材分類與格式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "素材變速處理技法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "繪圖板與手繪技法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "數位追蹤與鎖定技法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "合成技巧與分層概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

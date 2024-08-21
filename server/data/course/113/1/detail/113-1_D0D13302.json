@@ -1,0 +1,139 @@
+{
+    "code": "D0D13302",
+    "name": {
+        "zh": "零售管理",
+        "en": "Retail Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技行流三乙"
+    ],
+    "instructors": [
+        "蘇子炘"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "T0207"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "T0207"
+        },
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "T0207"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程針對零售基本概念、零售規劃技巧、零售機構之管理、以及零售之行銷組合等四大部份講授，並由同學針對中文個案做分析報告與討論。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.零售概念<br>2.零售規劃技巧<br>3.零售機構之管理<br>4.零售之行銷組合<br>",
+        "en": "1.The introduction of retailing <br>2.The skills of retiling strategy <br>3.The retailing management <br>4.The marketing association of retailing"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "零售概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "零售規劃技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "零售機構之管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "零售之行銷組合",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "零售業的商品陳列",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "零售業的供應鏈管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

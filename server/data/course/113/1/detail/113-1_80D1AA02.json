@@ -1,0 +1,110 @@
+{
+    "code": "80D1AA02",
+    "name": {
+        "zh": "ESG與企業倫理",
+        "en": "ESG and Business Ethics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技財金三乙"
+    ],
+    "instructors": [
+        "張民昌"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S415"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S415"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.以企業倫理為核心，結合ESG理念，講授企業倫理基礎理念、企業內部營運及其外部關係倫理議題。<br>2.探討ESG與企業倫理之實務個案。<br>",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1. ESG與企業倫理的基本概念<br>2. 企業倫理決策<br>3. ESG與企業社會責任<br>4. 公司治理<br>5. ESG與企業內部營運倫理<br>6. ESG與企業外部關係倫理<br>",
+        "en": "1. Fundamentals of ESG and Business Ethics<br>2. Business Ethical Decision-Making<br>3. ESG and CSR<br>4. Corporate Governance<br>5. ESG and Business Internal Operations Ethics<br>6. ESG and Business External Relations Ethics<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解ESG與企業倫理的基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解ESG與企業社會責任",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解ESG與企業內部營運倫理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解ESG與企業外部關係倫理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

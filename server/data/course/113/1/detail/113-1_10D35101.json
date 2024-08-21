@@ -1,0 +1,128 @@
+{
+    "code": "10D35101",
+    "name": {
+        "zh": "微奈米量測與實習(A)",
+        "en": "Micro-Nano Measurement and  Practice"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技製造三甲",
+        "四技製造三乙"
+    ],
+    "instructors": [
+        "王聖璋"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "K402"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "K402"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "K402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "微奈米製程、操控與相關設備科技必須仰賴優異的觀察與量測能力，方能持續不斷推展向前。本實習課程實施內容兼顧量測、操控與製程實習，著重實務訓練與基本維修能力之建立。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.微步進馬達基本操作與不確定度評估<br>1.發展與沿革<br>2.操作與應用<br>2.奈米管光觸媒水熱法製程<br>1.發展與沿革<br>2.操作與應用<br>3.奈米管光觸媒微波電漿改質操作<br>1.基本功能介紹<br>2.操作與應用<br>4.奈米管光觸媒TEM觀察與UV光降解測試<br>1.原理介紹<br>2.操作與應用<br>5.真空與薄膜原理與操作<br>1.原理介紹<br>2.操作與應用",
+        "en": "1.Basic operation of micro- stepmotor and uncertainty evaluation<br>2.Hydrothermal process of photocatalytic nanotubes<br>3.Hydrothermal process of photocatalytic nanotubes<br>4.TEM observation and FTIR testing of UV photo-catalytic nanotubes<br>5.Theory and practice of vacuum technique and thin films"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解微步進馬達基本操作與不確定度評估原理以及熟悉操作與分析技巧的訓練",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解奈米管光觸媒水熱法製程、奈米管光觸媒微波電漿改質操作、TEM觀察與光降解原理以及熟悉操作與分析技巧的訓練",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解真空與薄膜原理以及熟悉操作技巧的訓練",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解AFM原理以及熟悉操作與分析技巧的訓練",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成準時上課與專注的習慣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

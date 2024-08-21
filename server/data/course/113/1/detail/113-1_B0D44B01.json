@@ -1,0 +1,99 @@
+{
+    "code": "B0D44B01",
+    "name": {
+        "zh": "實務專題(一)",
+        "en": "Team Project(I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "二技休閒四甲"
+    ],
+    "instructors": [
+        "楊蓓涵"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "實務專題為本系必修課程，學生需修完兩學期之實務專題，才可畢業。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "各組自行尋找研究主題請老師指導最後需交出書面報告。",
+        "en": "Be able to apply learned knowledge and skills to plan, organize, facilitate, control and finish project"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "可以應用已學的專業知識，進行專門性問題的深入研究",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練分析報告的撰寫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉理論在實務應用的方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練辦公室軟體以及統計分析工具的使用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

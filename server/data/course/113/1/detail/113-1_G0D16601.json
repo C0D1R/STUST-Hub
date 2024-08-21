@@ -1,0 +1,110 @@
+{
+    "code": "G0D16601",
+    "name": {
+        "zh": "嵌入式系統設計",
+        "en": "Embedded Systems Design"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專資工三甲"
+    ],
+    "instructors": [
+        "薛雲太"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "J405"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "J405"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "嵌入式系統是一種結合電腦軟體和硬體的應用，舉凡行動電話、遊樂器、影音設備等生活配備，或者是運輸系統以及工廠生產的自動控制，隨處可見嵌入式系統的應用。 本課程主要在介紹嵌入式系統之基本原理及應用，內容包含了有計算機概論、程式語言、作業系統、電腦網路、電腦硬體、Linux程式設計、嵌入式Linux系統介紹。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 嵌入式系統簡介<br>2. 嵌入式硬體平台介紹—以樹梅派為例<br>3. 基本Linux作業系統介紹<br>4. ARM 硬體架構介紹<br>5. Raspberry Pi 的系統介紹<br>6. Raspberry Pi供電系統介紹<br>7. Raspberry Pi 的 Toolchain介紹<br>8. Python語言介紹<br>9. 周邊系統介紹<br>a.GPIO<br>b.Motor<br>c.Sensors<br>d.Network<br>10. 網頁伺服器系統介紹<br>a. apache2<br>b. flask<br>c. 網站分享感測資料<br>11  資料庫系統介紹<br>a. mySQL<br>b. phpmyadmin<br>",
+        "en": "1. Introductions<br>2. Embedded hardware platform—using Raspberry Pi<br>3. Embedded Linux Operating System<br>4. ARM hardware platform<br>5. Raspberry Pi <br>6. Raspberry Pi power supply system<br>7. Raspberry Pi Cross compiler setup<br>8. Python<br>9. peripherals<br>a.GPIO<br>b.Motor<br>c.Sensors<br>d.Network<br>10. webserver<br>a. apache2<br>b. flask<br>c. sharing sensing data<br>11 Database<br>a. mySQL<br>b. phpmyadmin<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "嵌入式硬體平台介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "嵌入式軟體環境架設",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "周邊系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "資料傳遞與分享技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

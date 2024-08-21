@@ -1,0 +1,110 @@
+{
+    "code": "X0M0B901",
+    "name": {
+        "zh": "財務報表分析",
+        "en": "Financial Reporting Analysis"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩研財法一甲"
+    ],
+    "instructors": [
+        "陳岱夆"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第11節",
+            "location": "S410"
+        },
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "S410"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學生學會使用分析財務報表的技巧與方法，進而瞭解企業的財務與營運績效。<br>Students can learn how to use analytical techniques and methods of financial statements to understand the firm's financial and operating performance.<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.財務報告簡介  <br>2.財務報表分析導論  <br>3.財務報表分析的技術 <br>4.流動性分析 <br>5.現金流量分析 <br>6.長期償債能力分析<br>7.資源運用效率分析 <br>8.投入資本報酬分析<br>9.獲利分析 <br>10.財務報表的窗飾與舞弊<br>11.風險分析<br>12.盈餘預測與評價<br>",
+        "en": "1.(Introduction of financial report)<br>2.(Introduction to financial statement analysis)<br>3.(Financial statement analysis techniques)<br>4.(Liquidity analysis)<br>5.(Cash flow analysis)<br>6.(Long-term solvency analysis)<br>7.(Resource efficiency analysis)<br>8.(Return on capital)<br>9.(Profitability analysis)<br>10.(Financial statements window dressing and fraud)<br>11.(Risk analysis)<br>12.(Earnings forecast and evaluation)"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生能夠了解企業的財務報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生能夠使用電子資料庫或網路資源取得上市公司的會計資訊。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生能夠分析上市櫃公司的財務報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生能夠了解並分析企業的風險與價值",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

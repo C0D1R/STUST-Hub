@@ -1,0 +1,131 @@
+{
+    "code": "01D13201",
+    "name": {
+        "zh": "國際學院英語訓練課程(一)",
+        "en": "English for Global Communication (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國商一甲"
+    ],
+    "instructors": [
+        "包尼爾"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "W0401"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0401"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0401"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "W0401"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "W0401"
+        },
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "W0401"
+        }
+    ],
+    "hours": {
+        "course": "6",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This is the first semester of a two semester program designed to help students get ready for studying abroad. Students will work on improving their academic speaking, listening, reading and writing skills.",
+    "prerequisites": "1. 本課程為國際學院之必修英文課程\n2. 欲參加此課程之學生必須達到學校要求之入學英文門檻分數",
+    "syllabus": {
+        "zh": "本課程為國際學院學生英語必修課程，本課程以加強學生學術領域英文之聽、說、讀、寫之能力。",
+        "en": "Speaking<br>•Pair work and small group discussions which focuses on specific IELTS test questions<br>•Extensive practice expressing, explaining and giving reasons for opinions and preferences<br>•Oral presentations that teach students how to organize topics<br>•Simulated IELTS speaking tests<br><br>Listening<br>•Real life listening practices which teach students to listen for context<br>•Timed listening practices where students practice listening for main ideas and details<br>•Practice listening to lectures (5+ minutes)<br>•Learning to listen for signaling in lecture language<br>•Simulated IELTS listening tests<br><br>Reading<br>•Intensive reading of medium-length academic passages<br>•Training in skimming and scanning<br>•Training in reading strategies such as surveying, predicting, and summarizing<br>•Training in how to recognize unknown vocabulary from context<br>•Simulated reading tests<br><br>Writing<br>•General grammar instruction<br>•Training on thought development in order to be able to logically express an opinion in writing<br>•Instruction and practice on describing graphs, charts, tables, maps, and diagrams in written English<br>•Practice writing in a timed atmosphere<br>•Frequent writing homework assignments<br>•Simulated IELTS writing tests<br><br><br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "討論/學習不同學科的主題，及現今社會相關的道德主題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習以英語口說及英語文字溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進學生聽、說、讀、寫的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "共同完成課堂作業，並學習共同參與、協助以完成團體討論。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

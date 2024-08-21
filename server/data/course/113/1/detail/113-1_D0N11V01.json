@@ -1,0 +1,147 @@
+{
+    "code": "D0N11V01",
+    "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技行流三甲"
+    ],
+    "instructors": [
+        "許維哲"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "T0208"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "T0208"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "T0208"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以顧客關係管理之重要議題為主軸，內容主要包括消費者決策、品牌地圖、行動商務、資料探勘等議題做概念性探討，並與顧客關係管理作連結，從企業內部策略與文化著手，探討內容涵蓋管理與技術層面，並與企業實務做連結。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章\t顧客關係管理現況與趨勢<br>第二章\t顧客關係管理經營策略<br>第三章\t顧客價值與消費者行為<br>第四章\t關係行銷與關係資產管理<br>第五章\t顧客調查<br>第六章\t顧客獲取-發展顧客關係<br>第七章\t顧客維繫-增強顧客關係<br>第八章\t顧客關係管理執行<br>第九章\t顧客關係管理行銷<br>第十章\t顧客關係管理的銷售<br>第十一章\t顧客關係管理的顧客服務與支援<br>第十二章\t顧客關係管理的顧客經驗管理<br>第十三章\t以顧客為中心的資料倉庫<br>第十四章\t顧客資料探勘<br>第十五章\t顧客知識管理<br>第十六章\t資料庫行銷<br>第十七章\t行動商務與顧客關係管理<br>",
+        "en": "Chapter1 Introduction of customer relationship management<br>Chapter2 Administer strategy of customer relationship management behavior<br>Chapter3 Customer value and Customer behavior<br>Chapter4 Relationship marketing and relationship asset management<br>Chapter5 Measurement of customer satisfaction <br>Chapter6 Customer acquisition- customer relationship develop<br>Chapter7 Customer holding- customer relationship strengthen<br>Chapter8 Practice of customer relationship management<br>Chapter9 Marketing of customer relationship management<br>Chapter10 Sales of customer relationship management<br>Chapter11 Customer service of customer relationship management<br>Chapter12 Customer experience management of customer relationship management<br>Chapter13 Databases<br>Chapter14 Data mining customer databases<br>Chapter15 Management of customer knowledge <br>Chapter16 Database marketing<br>Chapter17 M-business and customer relationship management"
+    },
+    "weeklySchedule": "一、科目概要<br>本課程於顧客關係理論介紹外，舉例之企業案例，也以台灣與亞洲案例為主，使學生能產生親切與切身感。同時搭配照片之輔助說明，期能有效提升學生學習效果，本書編撰以「理論簡單化、案例本土化、實務運用化」為主要原則。<br>二、教學目標<br>三、課程內容與進度本課程將顧客關係管理理論，摘要說明共13章，適合一學期（3學分）課程教授，尤其適合著重實務運用課程與大專技職體系體系學子閱讀<br>第1週<br>/\t課程介紹<br>Course Introduction<br>第2週<br>/\t1. 顧客關係管理導論<br>Introduction of Customer Relation Management<br>第3週<br>/\t2. 顧客關係管理與策略<br>Customer Relation Management and Strategy<br>第4週<br>/\t3. 顧客關係管理與目標市場選定<br>Customer Relation Management and Targeting Market<br>第5週<br>/\t4. 顧客關係管理與消費者行為<br>Customer Relation Management and Consumer Behavior<br>第6週<br>/\t5. 服務品質與服務接觸<br>Service Quality and Service Contact<br>第7週<br>/\t6. 消費者抱怨、服務失誤與服務補救<br>Consumer complaints, service errors and service remedies<br>第8週<br>/\t期中作業口頭報告<br>Oral report<br>第9週<br>/\t期中考試<br>Midterm Exam<br>第10週<br>/\t7. 品牌權益、關係行銷與顧客忠誠度<br>Brand Equity, Relationship Marketing, and Customer Loyalty<br>第11週<br>/\t8. 服務保證、顧客服務系統與組織原則<br>Service Guarantee, Customer Service System, and Leadership<br>第12週<br>/\t9. 員工訓練、績效評估與衝突管理<br>Employee Training, Performance Appraisal, and Conflict Management<br>第13週<br>/\t10. 顧客資料建立與資料倉儲<br>Customer Data and Data Warehouse<br>第14週<br>/\t11.資料探勘與自助服務科技<br>Data Mining and Self-Service Tecnology<br>第15週<br>/\t12. 銷售與人員管理<br>Selling and Personnel Management<br>第16週<br>/\t13. 影響顧客關係管理新議題<br>Affecting customer relationship management<br>第17週<br>/\t學期作業口頭報告<br>Oral report<br>第18週<br>/\t期末考<br>Term final exam<br><br>",
+    "exams": {
+        "midterm": "口頭報告",
+        "final": "考試",
+        "other": "期中報告：30％\t期末報告：30％,課堂報告與討論：40%；平時成績（學習態度）：10%"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "資訊科技運用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "提升溝通協調能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "行銷與流通整合能力提升",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "團隊合作意識提升",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "顧客關係管理",
+        "author": "鄭紹成、王雪瀞",
+        "publisher": "華立圖書",
+        "year": "2023",
+        "ISBN": "978-626-7319-23-9",
+        "edition": "5"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "0powerpoint",
+    "rules": "上課請同學專心聽講每堂課會和同學互動問問題與解說, 會學習到工作經驗<br>請不要穿拖鞋上課<br>請不要上課划手機<br><br>"
+}

@@ -1,0 +1,111 @@
+{
+    "code": "70Q09C01",
+    "name": {
+        "zh": "企業經營實務研討",
+        "en": "Business Practice Seminar"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩專企管二甲",
+        "碩專企管二乙"
+    ],
+    "instructors": [
+        "伍家德"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第3節",
+            "location": "S303"
+        },
+        {
+            "day": "週六",
+            "period": "第4節",
+            "location": "S303"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將邀請邀請實業界經理人才與學術單位的專家、學者，從實務面來探討企業經營管理的課題。相關重要議題有：一般企業經營、創業管理、藍海策略、人力資管理源，創新與創造力、以及其他管理領域相關議題等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 高階經營者的統御領導<br>2. 策略思維與決斷力<br>3. 企業創造核心能力的生產技術<br>4. 策略管理實務 <br>5. 財務管理實務 <br>6. 行銷管理實務 <br>7. 資訊管理實務 <br>8. 人力資源管理實務<br>9. 品質管理實務<br>10. 知識管理實務<br>11. 科技管理實務<br>12. 創業管理實務<br>13. 中小企業創業成功個案<br>14. 臺灣企業之藍海策略<br>15. 創新與創造力",
+        "en": "1. leadership of high-order manager <br>2. Tactics thinking and resolution strength <br>3. The production technology of key ability <br>4. Strategy management practice <br>5. Financial administration practice <br>6. Marketing management practice <br>7. Information management practice <br>8. Human resources management practice <br>9. Quality control practice<br>10. Knowledge management practice <br>11. Practice of management of science and technology <br>12. Entrepreneurial Management practice <br>13. Successful cases that small and medium-sized enterprises start an undertaking <br>14. Blue sea tactics of enterprises of Taiwan <br>15. Innovation and creativity"
+    },
+    "weeklySchedule": "1. 高階經營者的統御領導<br>2. 策略思維與決斷力<br>3. 企業創造核心能力的生產技術<br>4. 策略管理實務 <br>5. 財務管理實務 <br>6. 行銷管理實務 <br>7. 資訊管理實務 <br>8. 人力資源管理實務<br>9. 品質管理實務<br>10. 知識管理實務<br>11. 科技管理實務<br>12. 創業管理實務<br>13. 中小企業創業成功個案<br>14. 臺灣企業之藍海策略<br>15. 創新與創造力",
+    "exams": {
+        "midterm": "無",
+        "final": "無",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解企業經營的實務需要",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "增進與實務界的經驗交流",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "增廣學生對於產業管理創新之知能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "增加學生在產業管理上的經驗",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "本課程只允許開課班級和企管碩專一乙符合資格的同學選修，其他同學請勿修課。<br>除管院統一規定外.本系將依同學出席及心得撰寫繳交來評量."
+}

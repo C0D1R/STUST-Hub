@@ -1,0 +1,115 @@
+{
+    "code": "90N07801",
+    "name": {
+        "zh": "多媒體設計與整合",
+        "en": "Design and Integration of Multimedia"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技資管三甲"
+    ],
+    "instructors": [
+        "謝慧瑜"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "E0403"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "E0403"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "E0403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程是以提高學生數位影像設計及網路動畫等能力為主要目標，希望經由這門課程的學習，可以讓學生在網頁製作上有更佳效果的呈現。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "I.影像處理軟體(Photoshop或PhotoImpact)使用之觀念及技巧 <br>  a. 常用工具入門<br>  b. 影像色彩調整<br>  c. 圖層的觀念與應用<br>  d. 濾鏡的千變奇妙<br>  e. 文字藝術<br>II.網路動畫軟體(Flash)使用之觀念及技巧 <br>  a. Flash 各類工具的使用與元件的編輯與管理<br>  b. 各種基本動畫的設計方法與範例<br>  c. Flash在視訊與音效上的應用<br>  d. Action Script的使用方法與動畫應用<br><br>",
+        "en": "1.Concept and Skill about Image Processing(Using Photoshop or Photoimpact)<br>●Basic Introduction of software TOOLBOX<br>●Image Color Adjustment<br>●Concept and Application of Image “Layer”<br>●Many applications about Image “Filter”<br>●The Art of Text in Image Processing<br>2.Concept and Skill about Webpage Animation(Using Adobe FLASH)<br>●How to edit and manage the Flash toolbox and Symbol<br>●Basic FLASH animation design and example<br>●FLASH Application about Video and Audio<br>●Basic introduction to FLASH ActionScript"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "應用多媒體套裝軟體來進行軟體開發的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "利用多媒體套裝軟體可以讓學生熟練實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使用多媒體套裝軟體來設計實用的網站",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "製作有創新性的多媒體作品",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

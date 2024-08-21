@@ -1,0 +1,114 @@
+{
+    "code": "70D27X02",
+    "name": {
+        "zh": "IT於商業與管理應用",
+        "en": "IT Applications in Business and Management"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技企管一乙"
+    ],
+    "instructors": [
+        "汪世義"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S309"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S309"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "資訊科技於商業和管理的應用日新月異，從早年商業自動化所介紹的商品條碼、商業流程再造、POS、供應鏈管理、ERP、CRM、行動商務等，到今日的人工智慧（Artificial Intelligence）、物聯網（IoT）、區塊鏈（Block Chain）、雲計算（Cloud）、大數據（Big Data），資訊科技應用的新時代已經到來。本課程針對資訊科技相關基礎知識進行延伸，從較為常用的物聯網智慧互動之應用來切入，以淺顯易懂的方式與貼近實際生活常用的範例來介紹物聯網，補足與強化學生修習商學院各種進階課程所需之資訊科技相關應用知識。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.資訊科技的商業與管理應用<br>2.商管相關資訊科技的介紹<br>3.人工智慧與物聯網的發展與現況<br>4. ESP32 單晶片微控制器的物聯網應用<br>5. BlocklyDuino簡易程式設計<br>6.企業數位轉型案例分享",
+        "en": "1. The application of information technology in business and management.<br>2. Introduction of business management related information technology.<br>3. Development and current situation of artificial intelligence and the Internet of Things.<br>4. ESP32 Single-Chip Microcontroller for IoT Applications.<br>5. Simple programming of BlocklyDuino.<br>6. Case discussion on digital transformation of enterprises."
+    },
+    "weeklySchedule": "第1~6週\t商業與管理與IT之相關議題 <br>第7~12週\tAI相關議題 <br>第13~18週\t實作(ESP32單晶片)",
+    "exams": {
+        "midterm": "上機考",
+        "final": "實作",
+        "other": "報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過主流資訊科技的介紹，讓學生瞭解當前資訊科技於商業與管理的應用情形。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "採用單晶片微控制器，讓學生從電子元件的佈置瞭解資訊控制的原理。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "透過簡易的程式設計，讓學生從邏輯設計提升對物聯網的認識。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－上機考"
+                },
+                {
+                    "method": "期中",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過企業數位轉型的實例，讓學生瞭解資訊科技在實務中應用的深度。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "台科大圖書",
+        "year": "2022",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "用Google玩人工智慧實驗：Google AI Experiments探索<br>台科大圖書<br>作者：張原禎<br>ISBN：9789865233525<br>初版日期：2021-10-27",
+    "teachingSoftware": "",
+    "rules": "若有可加選的名額，以第一次有上課者優先。<br>請第一次『上課前』先告知！<br>PS:第一次上課極為重要，務必前來了解此課程是否適合！<br>"
+}

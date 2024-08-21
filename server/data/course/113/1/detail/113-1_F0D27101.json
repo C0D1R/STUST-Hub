@@ -1,0 +1,117 @@
+{
+    "code": "F0D27101",
+    "name": {
+        "zh": "3D數位模型",
+        "en": "3D Digital Modeling"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資傳二甲",
+        "四技資傳二乙"
+    ],
+    "instructors": [
+        "邱聰倚"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第1節",
+            "location": "W0608"
+        },
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "W0608"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.Maya認證",
+        ""
+    ],
+    "description": "本課程主要教授3d模型的建構，並讓學員充分瞭解POLYGON、NURES建模的技術，進而運用在影視動畫製作的表現。",
+    "prerequisites": "本課程因電腦設備數量有限保障本系先修權，不接受下修、跨系選修",
+    "syllabus": {
+        "zh": "一、建模的基礎知識<br>軸和樞軸點<br>構造歷史<br>二、Mode ling功能<br>Primitives<br>Curve<br>Surfaces<br>Edit Surfaces<br>Polygons<br>三、NURBS建模<br>NURBS曲線<br>NURBS曲面<br>創建NURBS實體<br>四、多邊形建模<br>創建多邊形質體<br>五、燈光、材質和材料<br>燈光(Lighting)<br>2D、3D和環境材質<br>材料<br>材質效果<br>六、靜態圖像的渲染<br>Maya的渲染基礎<br>圖像渲染語法<br>靜態圖像的渲染",
+        "en": "3D computer graphics (in contrast to 2D computer graphics) are graphics that use a three-dimensional representation of geometric data that is stored in the computer for the purposes of performing calculations and rendering 2D images. Such images may be for later display or for real-time viewing. Despite these differences, 3D computer graphics rely on many of the same algorithms as 2D computer vector graphics in the wire frame model and 2D computer raster graphics in the final rendered display. In computer graphics software, the distinction between 2D and 3D is occasionally blurred; 2D applications may use 3D techniques to achieve effects such as lighting, and primarily 3D may use 2D rendering techniques. 3D computer graphics are often referred to as 3D models. Apart from the rendered graphic, the model is contained within the graphical data file. However, there are differences. A 3D model is the mathematical representation of any three-dimensional object (either inanimate or living). A model is not technically a graphic until it is visually displayed. Due to 3D printing, 3D models are not confined to virtual space. A model can be displayed visually as a two-dimensional image through a process called 3D rendering, or used in non-graphical computer simulations and calculations."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能學習3ds MAX軟體基本操作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能培養數位立體空間概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能自主創作3D模型及影片",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能培養團隊合作精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

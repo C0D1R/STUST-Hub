@@ -1,0 +1,110 @@
+{
+    "code": "I0D26F01",
+    "name": {
+        "zh": "兒童及少年福利與權益保障政策及法規",
+        "en": "Welfare & interests of children and youth protection policy and legislation"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技幼保三甲"
+    ],
+    "instructors": [
+        "高家斌"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "W0501"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "W0501"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程分為政策及法規，政策部份是介紹世界各國兒童及少年的福利與權益政策發展理論及發展趨勢，並說明我國兒童及少年的福利與權益重要政策，而法規部份是介紹我國目與兒童及少年福利與權益保障相關法規，期望由藉由課程介紹，使學生瞭解兒童及少年的福利與權益政策發展趨勢及法規內容，作為爾後從事兒童及少年的福利工作的基礎。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、介紹認識兒童及少年的福利與權益政策制訂過程之基本概念與理論。<br>二、介紹我國兒童及少年的福利與權益重要政策。<br>三、介紹認識法規訂定過程之基本概念與種類。<br>四、介紹我國兒童及少年福利與權益保障相關法規。<br>五、運用相關法令解決實務問題的技巧及方法",
+        "en": "一、Introduce the basic concepts and theories of policies development of the welfare and rights for child and youth.<br>二、Introduce the important policies of the welfare and rights for child and youth in our country.<br>三、Introduce the basic concepts and types of legislating laws.<br>四、Introduce laws and regulations relating to the welfare and rights protection for child and youth in our country<br>五、Apply techniques and methods with relevant laws and regulations to solve practical problems.<br>"
+    },
+    "weeklySchedule": "第一週：課程介紹、學習目標、認識兒童福利與權益相關課題的重要性<br>第二、三週：介紹兒童及少年福利與權益政策制訂過程的基本概念與理論<br>第四、五週介紹我國兒童及少年的福利與權益重要政策，並了解相關的法規資訊<br>第六、七週：介紹法規訂定過程的基本流程<br>第八、九週：認識不同類型的法規<br>第十週：了解制定法規時過程可能面靈到的問題<br>第十一、十二週：介紹我國兒童福利與權益相關法規<br>第十三、十四週：了解過去運用相關法規的實際相關案例<br>第十五週：分組整理課程中認識的法規內容<br>第十六、十七、十八週，依照各組別整理的法規內容進行辯論演練",
+    "exams": {
+        "midterm": "報告",
+        "final": "報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解政策及法規訂定的過程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解我國兒童及少年的福利與權益重要法規",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能運用相關法規說明實務問題及處理的依據",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "從事兒童及少年福利工作時，能依據法規且能遵守專業倫理守則",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

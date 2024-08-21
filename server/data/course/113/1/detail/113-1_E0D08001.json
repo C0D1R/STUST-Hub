@@ -1,0 +1,148 @@
+{
+    "code": "E0D08001",
+    "name": {
+        "zh": "日文習作(一)(A)",
+        "en": "Japanese writing I"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技應日三甲",
+        "四技應日三乙"
+    ],
+    "instructors": [
+        "黑羽夏彥"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "N204"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "N204"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.日語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "A組:本課程是針對初級程度練習日文作文為授課內<br>容。<br>B組:本課程是針對中級程度練習日文作文為授課內<br>容。<br>C.D組:本課程是針對中級至上級程度練習日文作文<br>為授課內容。",
+    "prerequisites": "A組:日本語能力試験N4\nB組:日本語能力試験N4～N3\nC.D組:日本語能力試験N3～N2",
+    "syllabus": {
+        "zh": "A組：<br>一、使用初級程度之單字、句型書寫。<br>二、正確合適的說明自己的意見。<br>三、正確合適的描寫狀況或心理。<br>四、習得修正錯誤的能力。<br>五、習得文字格式、標點符號之規則。<br>B組：<br>一、使用中上級程度之單字、句型書寫。<br>二、以400字統整並描寫身邊周遭之事物。<br>三、習得修正錯誤的能力。<br>四、習得文字格式、標點符號之規則。<br>五、練習在電腦上輸入日語。<br>C・D組：<br>一、使用中上級程度之單字、句型書寫。<br>二、正確合適的說明自己的意見。<br>三、正確合適的描寫狀況或心理。<br>四、意識複数段落結構。<br>五、習得修正錯誤的能力。<br>六、習得文字格式、標點符號之規則。<br>七、練習在電腦上輸入日語。",
+        "en": "A組：<br>一、初級レベルの文型・語彙を用いて書く。<br>二、自分の意見を適切に説明する。<br>三、状況や心理を適切に描写する。<br>四、誤りを修正する能力を身に着ける。<br>五、文字表記のルールを身に着ける。<br>B組：<br>一、中上級レベルの文型・語彙を用いて書く。<br>二、身近なことを400字程度にまとめて書く。<br>三、誤りを修正する能力を身に着ける。<br>四、文字表記のルールを身に着ける。<br>五、コンピューターでの日本語入力の練習をする。<br>C・D組：<br>一、中上級レベルの文型・語彙を用いて書く。<br>二、自分の意見を適切に説明する。<br>三、状況や心理を適切に描写する。<br>四、複数の段落の構成を意識する。<br>五、誤りを修正する能力を身に着ける。<br>六、文字表記のルールを身に着ける。<br>七、コンピューターでの日本語入力の練習をする。<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "図を見て的確に状況を説明し、登場人物の心理を描写できるようにする。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "自身の経験を、５Ｗ１Ｈに注意しながら的確に描写し、説明できるようにする。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "自分の好きな作品（映画、小説etc）の内容を簡潔・適切に説明し、感想を書く。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "最近のニュースを要約し、他人の意見を引用しながら意見を書けるようにする。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "「敬体」「常体」の使い分けを習得し、適切な文体で文章をかけるようにする。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "原稿用紙の使い方（縦書き・横書き）を習得する。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "自分の書いた文章の間違いを見つけて、修正する能力を習得する。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

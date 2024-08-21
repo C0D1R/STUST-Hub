@@ -1,0 +1,143 @@
+{
+    "code": "K0N1A801",
+    "name": {
+        "zh": "大四專題(一)",
+        "en": "Graduation Project (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技多樂四甲"
+    ],
+    "instructors": [
+        "張明裕"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "W0706"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "W0706"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "W0706"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "市場分析與策略擬定、專案企畫、團隊與專案管理、技術與美術原型、Alpha版產品開發、Beta版產品開發",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 市場分析與策略擬定：探討、批判市面各類遊戲優點，找出專題獨賣特點<br>2. 專案企畫：提出畢業專題遊戲企劃書<br>3. 團隊與專案管理：提出團隊工作分配、工作時程及管理方法<br>4. 技術與美術原型：提出遊戲關鍵技術、2D美術設定、3D美術設定及製作<br>5. Alpha版產品開發：各組逐一報告畢業專題，專案審查<br>6. Beta版產品開發：各組展示畢業專題，專案審查",
+        "en": "1. Market analysis and design in strategy<br>2. Create a game project<br>3. Project management in team work<br>4. Art design and game prototyping in technology<br>5. Alpha version: a milestone on developing games<br>6. Beta version: a milestone on developing games"
+    },
+    "weeklySchedule": "Weeks 1~3: 企劃引導與分組<br>Weeks 4~5: 概念計劃書與報告<br>Weeks 6~8: 遊戲設計文件與報告<br>Week 9: 期中繳交遊戲概念文件<br>Weeks 10~12: 遊戲技術提報<br>Weeks 13~15: 遊戲關卡提報<br>Weeks 16~17: 遊戲(第一版)提報<br>Week 18: 期末繳交遊戲設計文件",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "口頭報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "專案測試與品保",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "專案現場行銷",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "專案競賽",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "專案媒體行銷",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "專業團隊倫理",
+            "teachingMethods": [
+                "分組討論",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "專案展覽",
+            "teachingMethods": [
+                "實作演練",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "略",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "略",
+    "teachingSoftware": "2D或3D遊戲引擎",
+    "rules": "遵守教室使用規範"
+}

@@ -1,0 +1,110 @@
+{
+    "code": "I0N1AP01",
+    "name": {
+        "zh": "教保專業倫理",
+        "en": "Professional Ethics of Early Childhood Educare"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "夜二技教保四甲"
+    ],
+    "instructors": [
+        "卓美芳"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第5節",
+            "location": "W0405"
+        },
+        {
+            "day": "週六",
+            "period": "第6節",
+            "location": "W0405"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 認識教保人員的專業倫理定義、角色與功能。<br>2. 瞭解教保專業倫理相關法規與政策。<br>3. 探究幼兒教保相關倫理守則。<br>4. 探討教保人員的情緒調節與溝通能力議題。<br>5. 實地訪談教保服務人員並分析教保現場專業倫理困境，學習判斷問題成因及研擬合宜的因應策略。<br>6. 藉由實例討論與演練，增進對教保專業倫理議題的覺察、判斷、省思及實踐之能力。<br><br><br>素養指標：<br>【專業素養1】<br>1-3 了解我國教育政策、法規及學校實務，以作為教育實踐基礎。<br>【專業素養5】<br>5-1 思辨與認同專業倫理，以維護學生福祉。<br>5-2 透過教育實踐關懷弱勢學生，以體認專業角色。<br>5-3 透過教育實踐與省思，以發展溝通、團隊合作、問題解決與持續專業成長之意願與及能力。<br><br>核心內容：<br>【專業素養1】<br>(4)兒童權利公約、兒童權利公約施行法及兒童權利公約之一般性原則（包括禁止歧視原則、兒少最佳利益原則、生命、生存及發展權、尊重兒少表達意見原則）。<br>【專業素養5】<br>(1)教保服務人員自我省思及解決問題、(2)教保服務人員專業發展社群及終身學習、(3)教保專業倫理及專業承諾。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 介紹教保專業倫理意涵： 說明教保人員專業倫理的定義、角色、重要性及功能。<br>2. 介紹教保專業倫理內容：說明教保機構專業人員種類、教保人員專業守則及教保人員專業倫理的培育方式。<br>3. 介紹教保專業倫理相關法規與政策：說明教保服務人員所面臨的相關政策與法規，並進一步分析比較各相關政策與法規的內容規範。<br>4.藉由個案討論及小組報告方式，針對教保職場中常見的倫理案例，分析教保人員對幼兒、家長、同事及社區的倫理責任。<br>5. 藉由實例討論與演練的方式，針對教保職場中常見的倫理困境案例，探究倫理抉擇的成因、倫理問題的思考方式，結合相關的政策、法規及倫理規範，提出解決方法。 (包含幼兒、家長、同事及社區的專業倫理個案討論)。<br>6. 藉由實例討論與演練的方式，探討教保服務人員的情緒調節與溝通能力議題：說明教保服務人員在倫理案例中應具備合宜的情緒調節以及 職場溝通能力，藉以提升教保服務人員的專業知能。<br>7.藉由實地訪談及報告教保服務人員的個人專業發展經驗，探究教保服務人員的專業倫理困境與省思：經由分組作業的成果分享，說明教保人員工作危機與轉機，並就當前社會變遷情形分析教保人員的角色調適，引領學生進行教保人員的專業省思及對話。<br>8.分析當前國際教保專業倫理發展趨勢： 介紹美國、英國、法國、德國、澳洲、日本….等國家的教保專業倫理之規範，並舉例分析各國教保專業倫理的特色，以提供國內教保專業倫理規範之參考。<br>9.探究幼兒教保專業倫理的建構：以實例說明教保人員的專業能力、信念以及專業成長方式如何轉化及促進專業倫理的建構，並進一步提升專業倫理的實踐成效。",
+        "en": "1. Introduce the implications of professional ethics in ECE.2. Introduce the content of professional ethics in ECE. 3. Introduce and compare the content of the relevant laws and regulations of professional ethics in ECE. 4. Introduce the ethical responsibilities faced by preschool educators through case discussion and small-group report. 5. Explain the ethical norms and ethical dilemmas through case discussion and small-group report: Analyze common cases of ethical dilemmas, explore factors affecting ethical choices and ways of thinking about ethical problems, propose solutions combining related policies as well as regulations and ethical norms. 6. Explore the issue of emotional adjustment and communication skills of preschool educators through case discussion and small-group report. 7. Explore the predicament and reflection of preschool educators through small-group interview and report : Explain the job crisis and favorable turn for preschool educators, analyze the role adjustment of preschool educators under the current condition of social change, and lead the students to engage in professional reflection and dialogue of preschool educators.8. Analyze the current development trend of professional ethics in international ECE: Introduce the ethical norms of ECE in America, England, France, Germany, Australia, Japan, etc. 9. Explore the construction of professional ethics in ECE."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識教保專業倫理的內涵。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習分析與處理教保實務兩難問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立正確教保專業倫理價值觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進教保人員的專業對話與省思的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

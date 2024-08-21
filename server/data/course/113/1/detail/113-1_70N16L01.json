@@ -1,0 +1,115 @@
+{
+    "code": "70N16L01",
+    "name": {
+        "zh": "組織行為",
+        "en": "Organizational Behavior"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜二技企管三甲"
+    ],
+    "instructors": [
+        "簡俊成"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "S413"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "S413"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "S413"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以企業組織內的個人為觀察單位，探討組織內的個人行為之形成原因，及其對組織績效的影響。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.組織行為與管理<br>2.個體差異的管理意涵<br>3.人格特質與價值觀<br>4.工作態度<br>5.個體知覺理論與決策行為<br>6.激勵理論與應用<br>7.團體行為<br>8.領導理論<br>9.溝通<br>10.權力與組織政治<br>11.組織文化<br>",
+        "en": "Topic 1 Organizational Behavior and Management<br>Topic 2 Diversity in Organizations<br>Topic 3 Personality and Values<br>Topic 4 Job Attitudes<br>Topic 5 Perception and Individual Decision Making<br>Topic 6 Work Motivation: Concepts and Applications<br>Topic 7 Groups and Work Teams<br>Topic 8 Leadership<br>Topic 9 Communication <br>Topic 10 Power and Politics<br>Topic 11 Organizational Culture<br>"
+    },
+    "weeklySchedule": "第01週 課程簡介<br>第02週 價值觀與倫理<br>第03週 性格與情緒<br>第04週 影片個案研討<br>第05週 態度<br>第06週 知覺與歸因<br>第07週 決策<br>第08週 影片個案研討<br>第09週 期中報告<br>第10週 激勵<br>第11週 團隊<br>第12週 溝通<br>第13週 領導<br>第14週 衝突、權力與政治<br>第15週 組織結構與設計<br>第16週 組織文化<br>第17週 影片個案研討<br>第18週 期末報告<br>",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "筆試",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解組織內的個人行為之形成原因，以及這樣的行為對組織造成的影響。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習理論模型，進而利用這些知識技能進行系統性地分析及預測個人行為，以掌握可提升企業績效的因素。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "透過個案討論引導學生有組織、有條理的表達與溝通。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "透過分組進行專案研討，增加學員人際互動及團隊運作。",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

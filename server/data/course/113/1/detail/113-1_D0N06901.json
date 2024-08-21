@@ -1,0 +1,115 @@
+{
+    "code": "D0N06901",
+    "name": {
+        "zh": "(此課不開)談判與溝通",
+        "en": "Negotiation and Communication"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜行流產攜二甲"
+    ],
+    "instructors": [
+        "王怡強"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": ""
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": ""
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程是一門入門課程，藉由人際關係與溝通之介紹，強化學習者具備人際關係的知識與溝通技巧之能力。因此，本科目試圖從貫穿人際關係與溝通技巧的社會心理學整合觀點出發，逐一探討人際關係與溝通課程的相關議題。<br>This course is an introduction to interpersonal relationships and communication. It is designed to equipped students with the field of ideas relating to human modes of interpersonal relationships and communication skills. This course also focuses on exploring the overarching structures that influence interpersonal interaction and investigate research on some of the major topics of interpersonal communication in the perspective of social psychology.<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第l章　導論：瞭解人際溝通<br>第2章　人際關係與溝通理論<br>第3章　知覺與溝通<br>第4章　溝通與表達<br>第5章　語言溝通與非語言溝通<br>第6章　傾聽技巧與同理心反應<br>第7章　人際吸引與人際關係<br>第8章　情緒管理與人際溝通<br>第9章　人際衝突與協商<br>第10章　友情關係：贏取與維繫<br>第11章　愛情關係：從浪漫到許諾<br>第12章　求職關係：面談與網路<br>第13章　職場關係：照顧與服務",
+        "en": "Chapter 1 Introduction: Understanding Interpersonal Communication<br>Chapter 2 Interpersonal Relationships and Communication Theories<br>Chapter 3 Perception and Communication<br>Chapter 4 Communication and Expression<br>Chapter 5 Verbal Communication and Nonverbal Communication<br>Chapter 6 Listening Skills and Empathy Responses<br>Chapter 7 Interpersonal Attraction and Interpersonal Relationships<br>Chapter 8 Emotional Management and Interpersonal Communication<br>Chapter 9 Interpersonal Conflicts and Negotiation<br>Chapter 10 Friendship: Obtain and Maintenance<br>Chapter 11 Love Relationships: From Romantic to Commitment<br>Chapter 12 Employment Relationships: Interview and Network<br>Chapter 13 Workplace Relationships: Care and Service<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "讓學生對人際關係有深入的瞭解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "協助學生認識自我、溝通與表達",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生溝通技巧與團隊合作技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓學生在人際關係與溝通上有實際應用能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

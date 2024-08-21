@@ -1,0 +1,116 @@
+{
+    "code": "1DD03Z02",
+    "name": {
+        "zh": "音樂基礎訓練(一)(B)",
+        "en": "Basic Musicianship Ⅰ"
+    },
+    "credit": "3",
+    "type": "管制必修",
+    "classes": [
+        "四技流音一甲",
+        "四技流音一乙"
+    ],
+    "instructors": [
+        "林佩儒"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "W0903"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0903"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0903"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在培養音樂基本能力，包括音感、節奏感、視唱能力、記譜能力。<br>以流行音樂基礎樂理知識，並能應用於創作、展演以及音樂製作領域為主要內容。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、聽音練習<br>二、節奏練習<br>三、視唱練習<br>四、記譜練習<br>",
+        "en": "1. Ear training<br>2. Rhythm exercises<br>3. Singing training<br>4. Notation practice"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備視譜唱奏之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備聽辨節奏、旋律、和聲之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備聽辨樂器音色之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備採譜之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

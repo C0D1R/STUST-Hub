@@ -1,0 +1,171 @@
+{
+    "code": "04D05302",
+    "name": {
+        "zh": "體育生活(三)：排球(D)",
+        "en": "Physical Education(III)：Volleyball"
+    },
+    "credit": "1",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "四技醫電二甲",
+        "四技電資二甲",
+        "四技控晶二甲",
+        "四技控晶二乙",
+        "四技國商二甲",
+        "四技資管二甲",
+        "四技資管二乙",
+        "四技資管二丙",
+        "四技創設二甲"
+    ],
+    "instructors": [
+        "蘇素月"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": ""
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 本學期課程除了延續上學期基本技巧練習外 開始組比賽 借由比賽作規則講解及裁判練習<br>2. 加強發球技術<br>",
+    "prerequisites": "重要事項:\n上課時必須穿著體育服裝，嚴禁穿牛仔褲。",
+    "syllabus": {
+        "zh": "1_3 周 <br><br>1 複習發球技巧<br>2 3人跑動傳球練習<br>3 分組比賽<br>4 規則講解<br><br>4_7 周<br><br>1 基本隊形講解<br>2 六人制排球比賽特性講解<br>3 分組比賽<br>4 規則講解<br>5 裁判法簡介<br><br>8_9 周<br><br>1 期中考 對牆壁擊反彈球(每球2分)<br><br>10_12 周<br><br>1 分組比賽<br>2 基本裁判手勢<br>3 裁判執法練習<br>4 規則講解<br><br>13_15 周<br><br>1 扣球基本步法<br>2 扣球動作分析<br>3 扣球型態介紹<br>4 分組比賽 <br><br>16_17 周<br><br>1 期末考 隔網2人攻擊線後對傳(每球2分)<br>2 比賽成績(20%)<br><br>18 周<br><br>1 學科筆試<br>",
+        "en": "Week 1 ~ Week 3<br>1.Review on service tips<br>2.3-man running pass practice<br>3.Games play<br>4.Rules introduction <br><br>Week 4 ~ week 7<br>1.Introduction of basic formation<br>2.Features of 6-man volleyball game<br>3.Games play<br>4.Introduction of rules of volleyball<br>5.Introduction of law of referee <br><br>Week 8 ~ week 9<br>Mid-term: underhand passing with wall<br><br>Week 10 ~ Week 12<br>1.Game play<br>2.Referee gestures<br>3.Enforcement of law of referee<br>4.Rules explanation <br><br>Week 13 ~ Week 15<br>1.Footwork on smash<br>2.Analysis on spiking <br>3.Introduction of smashing types<br>4.Game play<br><br>Week 16 ~ Week 17<br>1.Final test: 2-man passing behind attacking line <br>2.Game results<br><br>Week 18<br>Written exam<br>"
+    },
+    "weeklySchedule": "第一週 課程介紹-1.課程內容講解 2.上課方式 3.考評辦法<br>第二週 低手傳球動作與練習-1.準備姿勢，步法(向前後、左右跑) 2.基本動作分析講解.示範<br>                         3.個人動作練習及分組練習<br>第三週 高手傳球動作與練習-1.動作分析示範  2.移位傳接分析及示範 3.個人動作練習及分組練習<br>第四週 低手、高手傳球綜合練習-1.低手、高手傳球練習(球之高低位置如何接球) <br>                            2.分組跑動傳球(控制行進間傳球)<br>第五週 低手、高手傳球綜合練習-1.不同方向傳球練習(練習修正至定位) 2.分組跑動傳球練習<br>第六週 三人組合傳接球-1.三人一組練習後、前傳球 2.控制將球修正至定位<br>第七週 發球-1.低手發球說明與示範 2.肩上發球說明與示範<br>第八週 發球-1.低手發球說明與示範 2.肩上發球說明與示範<br>第九週 期中測驗<br>第十週 接發球-1.兩人接發球練習 2.三人接發球練習<br>第十一週 攻擊、發球-1.助跑步法攻擊球分析示範 2.肩上發球配合3.分組比賽<br>第十二週 組合練習-借用比賽將傳、接、攻擊發揮出來<br>第十三週 陣容安排與球員位置-1.排球隊型介紹2.比賽輪轉方式介紹<br>第十四週 規則與裁判法-1.基本規則與裁判手勢2.分組比賽 3.裁判實習<br>第十五週 分組比賽練習<br>第十六週 分組比賽練習<br>第十七週 期末測驗<br>第十八週 筆試測驗-規則與常識<br>",
+    "exams": {
+        "midterm": "1.對牆低手傳接(60球60分,每多一球加一分)",
+        "final": "體育常識測驗",
+        "other": "實作演練與分組測驗(1.排球發球10球-男肩上發球.女不限  2.分組循環賽)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立排球運動基礎觀念與體適能, 瞭解運動與健康人生的關係。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "透過排球運動,提升個人體能與運動傷害的預防,進而養成終身運動習慣。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "熟練個人基本動作與發展動作技巧,培養學生對排球運動的興趣及豐富休閒生活。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "應用排球技能,學習挑戰自我與耐力性,認知排球運動價值健全人格發展。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "以球會友,藉由排球運動達到人際關係的協和及良好的社會適應能力。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解比賽規則,進而有比賽能力,陶冶性情並能欣賞排球運動之美。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "透過排球比賽的緊張與刺激性,達到抗壓能力及自我情緒管理的學習,瞭解個體與團隊之間的關係與影響。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生從排球運動中學習並發揮團隊合作精神,能遵守規則及公平競爭精神",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "中華民國排球協會(2022)國際牌球規則(2021-2024)台北<br>",
+    "teachingSoftware": "1.上網查詢排球規則及比賽新資訊。\n2.flip class數位學習",
+    "rules": "1.穿著適合運動之服裝及遵守上課規定。<br>2.如有重大或慢性疾病,請事先告知教師。<br>3.上課不遲到，不無故缺席。<br>4.注意運動安全。<br>5.課程評分依據:<br> (1)平時分數:上課服裝、出席率、學習態度占40%、曠課次數勿超過4次8節(含4次)導致平時成績嚴重扣分不及格。<br> (2)期中、期末術科測驗50%<br> (3)筆試-常識與規則佔10%<br>"
+}

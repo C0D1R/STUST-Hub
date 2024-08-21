@@ -1,0 +1,128 @@
+{
+    "code": "10D35901",
+    "name": {
+        "zh": "風力發電系統應用實務",
+        "en": "Wind Power System and Application"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控三甲",
+        "四技自控三乙"
+    ],
+    "instructors": [
+        "陳宥任"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "K403"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "K403"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "K403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "風力發電系統不僅是綠色再生能源，在技術上更是涵蓋了機械系中靜力、動力、材力、流力、機構、電工、自控等專業技能的完整系統。本課程將透過此系統，讓同學學習如何運用過去專業必修課程的知識，來完成此一系統的設計、分析、應用，活用專業知識，並且透過各種實際案例來驗證說明技術如何被運用。<br>本課程將以PBL(Problem Based Learning)問題導向式精神為目標，培養學生建立 (1)風力機智能維護技術、(2)風力機監控程式開發能力。課程內容除了將新興再生能源風力技術介紹給同學外，並從現今風電產業的廠商收集意見，根據目前與未來急需解決的問題，以遠端監控、智能維護為主軸，引導學生進行發想、討論、規劃、設計、實作，結合Node.js(前端)、Python語言(後端)與控制板、OPC UA(通訊)技術，分組進行實作，期望建立可提升維修校能降低成本的智能AI維護技術、自動化維修機器人專題實作，提升學生在這方面的實戰能力，也為未來離岸風電產業培育可用人才。",
+    "prerequisites": "自控控制、工程數學",
+    "syllabus": {
+        "zh": "1. 再生能源與風能簡介<br>2. 風力發電產業與基礎理論<br>3. 風場管理與風力機的維護<br>4. 風力機遠端監控系統：設計與實作<br>5. 風力機維護技術：設計與實作<br>6. 案例探討與專題實作",
+        "en": "1. Introduction to Renewable Energy and Wind Energy<br>2. Basics of the Wind Power<br>3. Wind Farm management and maintenance.<br>4. Remote monitoring system of the wind turbine: design and implementation<br>5. Wind turbine O&amp;M: design and implementation<br>6. Case study and project"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解風力發電能源的特性與目前全世界的發展現況，對於此能源技術有一定掌握。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解風能如何擷取、風力機葉片如何設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解風機發電原理、控制需求、運轉與維護的技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠根據實際工程需求，完成一簡單風力機的設計專題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過大量國外參考文獻，學習風能專業英文術語",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

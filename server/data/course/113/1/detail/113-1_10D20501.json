@@ -1,0 +1,130 @@
+{
+    "code": "10D20501",
+    "name": {
+        "zh": "流體力學",
+        "en": "Fluid Mechanics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技製造三甲",
+        "四技製造三乙",
+        "四技車輛三甲",
+        "四技車輛三乙"
+    ],
+    "instructors": [
+        "李友竹"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "K403"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "K403"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "K403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹流體力學的基本概念，逐步導入流體公式並解釋日常生活所接觸之流體現象的原因",
+    "prerequisites": "物理、熱力學",
+    "syllabus": {
+        "zh": "一、流體力學概論<br>二、流體靜力學與流體運動學<br>三、基本方程式：流量，傳輸方程式，連續方程式<br>四、理想流：柏努利方程式<br>五、控制體積之基本方程式<br>六、黏性流體之流動: 層流， 紊流， 邊界層流<br>七、因次分析<br>八、管流與流體作用力: 管流，非圓形管，阻力，升力",
+        "en": "1.Introduction<br>2.Fluid Statics &amp; Kinematics<br>3.Basic equations: flow rate, transport equation, continuity equation<br>4.Ideal fluid: Bernoulli equation, potential flow theory<br>5.Basic Equations for a Control Volume<br>6.Flow of viscous fluid: laminar flow, turbulent flow, boundary layer flow<br>7.Dimensional analysis<br>8.Pipe flow and force exerted by fluid, pipe flow, non-circular pipe, drag, lift"
+    },
+    "weeklySchedule": "1.第1-2週   古典與現代實務簡介<br>2.第3-6週   連續方程式與尤拉方程式推導<br>3.第7-8週   Navier-Stokes方程式理論推導<br>4.第9週     期中考<br>5.第10-13週 柏努力定律與範例解說<br>5.第14-17週 因次分析與工程範例解說<br>6.第18週    期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "出席率"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能具有流體基本特性原理知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席率"
+                },
+                {
+                    "method": "平時",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期中",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備流體靜力學計算與應用能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能具備使用液壓計算之能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能具備流體機械機構分析報告能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "流體力學",
+        "author": "羅安成等編譯",
+        "publisher": "高立圖書",
+        "year": "2024",
+        "ISBN": "9789863783824",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "如果疫情二級以上警戒,使用GOOGLE MEET上課",
+    "rules": "上課期間視訊攝影機必須全程開啟,供老師確認連線上課,關閉視訊攝影機者一律依曠課處理"
+}

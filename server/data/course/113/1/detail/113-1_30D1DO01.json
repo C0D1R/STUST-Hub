@@ -1,0 +1,116 @@
+{
+    "code": "30D1DO01",
+    "name": {
+        "zh": "數位邏輯設計與實習",
+        "en": "Digital Logic Design and Practice"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電子一甲",
+        "四電子國專一甲"
+    ],
+    "instructors": [
+        "陳順智"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "J501"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "J501"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "J501"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "1"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程內容包含：.數字系統的轉換與各種數位碼表示法、邏輯閘特性、邏輯電路的化簡技術、組合邏輯電路及應用、正反器特性與序向邏輯計數器電路之設計與實習。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.數字系統<br>2.基本邏輯閘與布林代數<br>3.邏輯電路的化簡技術<br>4.組合邏輯應用電路與實習<br>5.正反器特性與實習<br>6.同步計數器電路設計與實習<br>7.非同步計數器電路設計與實習 <br>",
+        "en": "1.Number System<br>2.Logic gates and Boolean Algebra<br>3.Gate-Level Minimization<br>4.Combinational Logic<br>5.Flip-Flop<br>6.Synchronous Counter Design and Practice<br>7. Asynchronous Counter Design and Practice<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解每種基本邏輯閘特性及組合邏輯電路原理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養邏輯系統相關工程之分析設計與實作能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "介紹有關邏輯系統相關的網站，使學生能自行學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由上台簡報，訓練學生系統整合的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

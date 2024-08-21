@@ -1,0 +1,105 @@
+{
+    "code": "01D14N01",
+    "name": {
+        "zh": "健康與照護(一)",
+        "en": "Health and care"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "五專電機三甲"
+    ],
+    "instructors": [
+        "侯春茹"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "I0206"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為促進國人健康，應加強年輕人相關健康與照護的知能，引導其落實健康的生活型態、預防慢性病與傳染病、開啟心靈之窗-促進心理健康、及向物質濫用say no，並以同理心關懷高齡者，為健康老化做準備；同時學習成為健康消費高手，以期在生活中能健康消費，成為明智的消費者；並教導同學在面對各種意外事故和緊急狀況時，能正確運用急救原則與技能，有效挽救生命，以維國人之安全生活社會。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元(一)　掌握健康靠自己<br>第一章　打造富有的健康人生<br>第二章　健康體位大作戰<br>第三章　健康殺手──慢性病與傳染病<br>第四章　活得久，更要活得好──成功老化<br>單元(二)　安全生活白皮書<br>第五章　臨危不亂，永保安康<br>第六章　關鍵時刻，掌握先機──CPR與異物哽塞處理<br>第七章　應變急先鋒──常見急症<br>",
+        "en": "1.\tIntroduction to Health and life<br>2.\tTo understanding Body mass index<br>3.\tPrevention of chronic and infectious diseases<br>4.\tSuccessful aging<br>5.\tEmergency management<br>"
+    },
+    "weeklySchedule": "第1周 健康起飛簡介<br>第2周 健康型男靚女I<br>第3周 健康型男靚女II<br>第4周 健康護照I<br>第5周 健康護照II<br>第6周 快樂銀髮通I<br>第7周 快樂銀髮通II<br>第8周 安全、急救ing I<br>第9周 期中考<br>第8周 安全、急救ing II<br>第10周 急救線上I<br>第11周 急救線上II<br>第12周 急救DIY I<br>第13周  急救DIY II<br>第14周 消費達人I<br>第15周 消費達人II<br>第16周 珍愛健康醫療資源I<br>第17周 珍愛健康醫療資源II<br>第18周 期末考<br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "增進個人健康與照護的知能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養能具備健康生活策略與實踐的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "增進人際關係與互動的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養及建立健康及安全的生活行為",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "健康與護理",
+        "author": "董貞吟等",
+        "publisher": "文京",
+        "year": "2011",
+        "ISBN": "9789862364796",
+        "edition": "2"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

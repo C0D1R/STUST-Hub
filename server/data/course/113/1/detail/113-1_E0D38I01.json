@@ -1,0 +1,132 @@
+{
+    "code": "E0D38I01",
+    "name": {
+        "zh": "口譯入門(一)(A)",
+        "en": "Introduction to Interpretation (I)"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技應日三甲",
+        "四技應日三乙"
+    ],
+    "instructors": [
+        "陳瑜霞"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "N305"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "N305"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.日語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "訓練學生中日口譯之基本技巧與能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、認識口譯<br>二、跟述練習<br>三、加譯<br>四、減譯<br>五、 paraphrasing<br>六、 link",
+        "en": "1.Introduce of interpretation<br>2.Shadowing practice<br>3.Adding words practice<br>4.Reducing words practice<br>5.Paraphrasing<br>6.link"
+    },
+    "weeklySchedule": "第1週 課程說明<br>第2週 基礎學習1<br>第3週 基礎學習2<br>第4週 基礎學習3<br>第5週 基礎學習4<br>第6週 基礎學習5<br>第8週 期中考(口試)<br>第9週 期中考(筆試)<br>第10週 主題分類1<br>第11週 主題分類2<br>第12週 主題分類3<br>第13週 主題分類4<br>第14週 主題分類5<br>第15週 主題分類6<br>第16週-主題分類7<br>第17週 期末考(口試)<br>第18週 期末考(筆試)<br>(會依實際上課情形，斟酌調整課程)",
+    "exams": {
+        "midterm": "筆試口試",
+        "final": "筆試口試",
+        "other": "平常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養聽力、專注力、對口語文法的理解力，藉以培養符合職場需求之口譯技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養日翻中、中翻日口譯的基礎能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "基礎筆記技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養跟述的實戰能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "以分組活動進行商務實況演練活動，學生具備日文口譯能力之外，同時習得解決問題的方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "無",
+        "publisher": "無",
+        "year": "無",
+        "ISBN": "無",
+        "edition": "無"
+    },
+    "referenceBooks": "生教材",
+    "teachingSoftware": "無",
+    "rules": "1.無固定版本教材。以綜合各類型教材內容為主。<br>2.此口譯入門課程，以了解何謂日語口譯，並以試著實際口譯看看的心情來學習此課程。旨在對於開口不再畏懼。<br>3.上課需要開口說話。考試會有口試與筆試，亦會不定期發派作業。<br><br>"
+}

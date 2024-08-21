@@ -1,0 +1,135 @@
+{
+    "code": "G0M00501",
+    "name": {
+        "zh": "研究方法",
+        "en": "Research Methods"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "碩研資工一甲",
+        "碩資工產業一甲"
+    ],
+    "instructors": [
+        "游嘉鴻"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "C202"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "C202"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "研究所之教育目標為培育學生具有獨立自主進行研究的能力。因此研究所需之相關能力與技巧訓練，為學生不可缺少之能力。本課程擬循序講授研究所需注意課題，並輔以實例講解，期能引領學生快速進入研究領域。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 學術論文的分類<br>2. 網路資源檢索<br>3. 學術論文的重要性指標<br>4. 如何選定適合的研究題目<br>5. 如何撰寫研究計畫<br>6. 如何擬定研究步驟與掌控實驗進度<br>7. 論文撰寫與編修<br>8. 上台簡報的製作與講演<br>9. 相關工具程式介紹",
+        "en": "1. Paper Categories<br>2. Searching Necesseary Information on the Net<br>3. Science Citation Index<br>4. How to Choose a Research Topics<br>5. How to Write a Research Proposal<br>6. How to Arrange the Research Steps<br>7. Paper Writing and Editing<br>8. Presenting Research Results<br>9. Tools"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.能探究各種研究主題，發揮創意想像力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.能模擬規劃設計系統流程。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.能製作報告，進行口語表達。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.能針對研究問題，構思多種解決方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5.能閱讀外文論文，並與他人討論論文技術。。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6.能透過閱讀或各種研究方法，瞭解資訊產業現況。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

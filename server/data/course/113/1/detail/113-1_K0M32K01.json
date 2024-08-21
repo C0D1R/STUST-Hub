@@ -1,0 +1,152 @@
+{
+    "code": "K0M32K01",
+    "name": {
+        "zh": "視覺與資訊設計研究",
+        "en": "Visual effects practical technology research"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研資傳二甲",
+        "碩研多樂二甲"
+    ],
+    "instructors": [
+        "楊政達"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "W0806"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "W0806"
+        },
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "W0806"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "不論是資訊的吸引、理解和記憶力，資訊視覺化後能大幅改善溝通的效果和感受，一張好的資訊圖表，能在短時間內內迅速理解龐大且複雜的資訊。<br>另外，「網路爬蟲」是一個透過程式「自動抓取」網站資料的過程，在這資訊爆炸的時代中，資料的收集與整理這份工作，可以透過網路爬蟲來協助，只要先制定好規則，網路爬蟲可以自動依照這規則收集和擷取資料並整理出所需的格式。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 資訊圖表的原理和概念<br>2. 資訊圖表種類及如何做出好的資訊圖表<br>3. 設計資訊結構<br>4. 網路爬蟲及網路爬蟲工具：PYTHON<br>5. POWER BI應用<br>",
+        "en": "1.What is an infographic?<br>2.Data Visualization - Designed for data people<br>3.Understand how to clean, analyze and process big data.<br>4.Learn how to choose the best visual element for visualizing data sets.<br>5.Use Power BI and other open source data visualization tools to create a portfolio of charts, graphs and maps using public data sets.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1. 視效軟體介面介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2. 視效製作流程範例",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3. 視效追蹤概念與技法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4. 視效動態修圖技法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5. 視效立體軸心概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6. 視效字幕範例",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "7. 視效合成技法實作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

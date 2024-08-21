@@ -1,0 +1,115 @@
+{
+    "code": "52Q00301",
+    "name": {
+        "zh": "高等生產管理",
+        "en": "Advanced Production Mangement"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專工管一甲"
+    ],
+    "instructors": [
+        "曾文宏"
+    ],
+    "schedule": [
+        {
+            "day": "週日",
+            "period": "第1節",
+            "location": "T0803"
+        },
+        {
+            "day": "週日",
+            "period": "第2節",
+            "location": "T0803"
+        },
+        {
+            "day": "週日",
+            "period": "第3節",
+            "location": "T0803"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Address the three categories of skills required by manufacturing managers and engineers: basics, intuition, and synthesis.  Part I concentrates on basics, by providing a historical perspective and introducing traditional terms and techniques.  Part II focuses on intuition, by describing fundamental behavior of manufacturing systems.  Part III addresses synthesis, by developing a framework for integrating disparate manufacturing planning problems",
+    "prerequisites": "作業管理",
+    "syllabus": {
+        "zh": "1.存貨管理<br>2.物料需求規劃<br>3.及時生產系統<br>4.生產系統基本行為<br>5.生產系統變異性行為<br>6.生產系統變異性行為的影響<br>7.推式和拉式生產系統<br>8.拉式規劃架構<br>9.現場控制<br>10.生產排程<br>",
+        "en": "1.Inventory Control<br>2.Material Requirements Planning(MRP)<br>3.Just in Time(JIT)<br>4.Basic Factory Dynamics<br>5.Variability Basics<br>6.The Corrupting Influence of Variability<br>7.Push and Pull Production Systems<br>8.A Pull Planning Framework<br>9.Shop Floor Control<br>10.Production Scheduling<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解生產系統運作行為和生產管理專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用生產管理專業知識分析生產管理實務資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對生產管理問題辨識適當的生產管理專業技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能建立解決生產管理問題之可行決策",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

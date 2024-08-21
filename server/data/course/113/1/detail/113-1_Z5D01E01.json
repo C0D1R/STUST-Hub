@@ -1,0 +1,115 @@
+{
+    "code": "Z5D01E01",
+    "name": {
+        "zh": "工業4.0導論",
+        "en": "Introduction to Industry 4.0"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技工學院學分"
+    ],
+    "instructors": [
+        "張廉楷"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "I0307"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "I0307"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "I0307"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "工業4.0的介紹，了解智能化工業機器人與電腦整合製造，智慧整合感控系統，感測與大數據分析，物聯網與橫向連結等概念，以及可能的應用介紹。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.工業4.0概論<br>2.感測器、機台感測與遠端監控<br>3.網宇實體系統介紹<br>4.機器手臂之智慧工廠應用<br>5.智慧工廠整合應用與雲端製造<br>6.大數據的基礎與應用<br>7.工業4.0與產業創新及未來發展<br>",
+        "en": "1. Introduction to Industry 4.0<br>2. Sensor, machine sensing and remote monitoring<br>3. Introduction to Cyber-Physical System<br>4. Application of manipulators in intelligent factory<br>5. Integration and application in intelligent factory and cloud manufacturing<br>6. Basis and application of big data<br>7. Industry 4.0 and innovation and development in the future<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "智慧自動化與工業機器人",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "智慧整合感控系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "大數據分析與遠端監控",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "物聯網",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

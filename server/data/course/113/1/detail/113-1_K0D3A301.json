@@ -1,0 +1,139 @@
+{
+    "code": "K0D3A301",
+    "name": {
+        "zh": "遊戲引擎應用",
+        "en": "Game Engine Application"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技多樂二甲"
+    ],
+    "instructors": [
+        "陳俊瑋"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "W0706"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "W0706"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "W0706"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學習從HTML5、CSS3和JavaScript三大基礎架構進入網頁開發及基礎Javascript應用<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 網頁程式趨勢：學習網頁技巧在各式平台應用趨勢及HTML5所扮演角色<br>2. 繪圖和動畫基礎：學習從HTML5、CSS3和JavaScript三大基礎架構進入網頁開發及Javascript 基礎語法應用<br>3. 畫布進階：學習HTML5 canvas 程式開發技巧<br>4. 網頁多媒體應用：學習利用HTML5控制多媒體元件<br>5. 網頁遊戲開發：學習利用HTML5開發互動2D遊戲製作，發想創意。<br>6. 網頁遊戲引擎：學習如何引用HTML5遊戲引擎，開發遊戲",
+        "en": "1. Introduce the course outline &amp; create a new account.<br>2. Unity 3D window interface and basic operation introduction, comparison of 2D and 3D.<br>3. Basic object construction, texture, lighting, material import, packaging and export, game release.<br>4. Object movement, rotation, telescopic, and light change adjustment through keyboard and mouse, C# basic program control.<br>5. Introduction of rigidbody, collision, trigger, prefab, etc.<br>6. Game scene (Terrain) production.<br>7. First person (FPS) scene guide control design.<br>8. Game cloth production (Cloth) production and collision.<br>9. Game lighting and baking technology, and controlling of the light source through the keyboard and mouse.<br>10. 3D animation import, cutting and game animation production.<br>11. Game process and scene switching.<br>12. 2D game making."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1. 網頁程式趨勢：學習網頁技巧在各式平台應用趨勢及HTML5所扮演角色",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2. 繪圖和動畫基礎：學習從HTML5、CSS3和JavaScript三大基礎架構進入網頁開發及Javascript 基礎語法應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3. 畫布進階：學習HTML5 canvas 程式開發技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4. 網頁多媒體應用：學習利用HTML5控制多媒體元件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5. 網頁遊戲開發：學習利用HTML5開發互動2D遊戲製作，發想創意。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6. 網頁遊戲引擎：學習如何引用HTML5遊戲引擎，開發遊戲",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,123 @@
+{
+    "code": "E0D39M01",
+    "name": {
+        "zh": "日本款待學",
+        "en": "Hospitality of the Japanese Culture"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應日四甲",
+        "四技應日四乙"
+    ],
+    "instructors": [
+        "盧駿葳"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0104"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0104"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "日商企業的管理和文化與台商不同，特別是服務產業，在款待顧客的方面更為重視顧客的自我意識、顧客的滿意和滿足程度。企業重視公私分明、紀律與愛社心。本課程講解日本企業如何款待顧客的層次，小從大家熟悉的貼價格標籤的小細節，大到ISO、5S等的基本概念，帶領同學從各種案例如賣場、展覽會、餐廳、貿易公司等各種狀況的問題提出解決的方案等，從培養學生理解日本款待的真正含意並具備變通和臨機應變的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.日本經營者、員工、顧客的關係。<br>2.日商職場三法。<br>3.日本的禮儀、規範。<br>4.心理學概述。<br>",
+        "en": "1.The relationships among the employers, employee and the customers in Japan.<br>2.The 3 policies and tolls of the Japanese Industry.<br>3.The manner and rules in Japan.<br>4.Introduction to Psychology."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "重視人際關係與報告和接待的方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過案例分析，了解日本企業的判斷方法與邏輯",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過分組討論，分析個案狀況並提出適當的解決方案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解企業倫理與學校和打工或實習的差異性，藉以符合不同企業之需求",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練符合日本企業期待的應對進退和臨場反應與主動關心之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

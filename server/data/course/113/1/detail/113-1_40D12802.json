@@ -1,0 +1,144 @@
+{
+    "code": "40D12802",
+    "name": {
+        "zh": "熱力學",
+        "en": "Thermodynamics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技化材三乙"
+    ],
+    "instructors": [
+        "陳志彥"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "I0307"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "I0307"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "I0307"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.化學技術士",
+        ""
+    ],
+    "description": "本學科之課程內容包括(1)度量與單位(2)熱力學第一定律與系統之質量及能量平衡(3)純物質的壓力、體積與溫度之性質(4)反應熱與燃燒熱(5)熱力學第二定律(6)流體的熱力學性質(7)熱力學於流動程序之應用(8)相平衡與相律 (9)溶液熱力學之理論與應用(10)化學反應平衡。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本學科之課程單元主題包括:<br>(1)熱力學第一定律及基本觀念<br>(2)純物質的性質<br>(3)熱效應<br>(4)熱力學第二定律<br>(5)流體的熱力學性質<br>(6)流動程序之熱力學<br>(7)相平衡專題<br>(8)溶液熱力學<br>(9)化學反應平衡<br>",
+        "en": "The Units Topics of This Course Include :<br>(1) The First Law of Thermodynamics and Basic Concepts<br>(2) Properties of Pure Fluids<br>(3) Heat Effects<br>(4) The Second Law of Thermodynamics<br>(5) Thermodynamic Properties of Fluids<br>(6) Thermodynamics of Flow Processes<br>(7) Topics in Phase Equilibria<br>(8) Solution Thermodynamics<br>(9) Chemical Reaction Equilibria<br>"
+    },
+    "weeklySchedule": "第一～四週：(1)熱力學第一定律及基本觀念<br>第四～六週：(2)熱力學第一定律-開放系統(open system)<br>第六～八週：(3)純物質的性質 (4)熱效應<br>第九週：期中考<br>第十～十三週：(5)熱力學第二、第三定律<br>第十三～十五週：(6)流體的熱力學性質 (7)相平衡<br>第十五～十六週：(7)相平衡 (8)溶液熱力學<br>第十七週：(9)化學平衡<br>第十八週：期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "交作業3-4次"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解並能夠演算熱力學第一、第二及第三定律的相關學理。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能分析或解釋與熱力學相關的實驗或工程數據。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能有正確的收集分析如steam table、critical temperature等專業資料並應用於工程實務上。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能運用熱力學的知識評估heat engine、turbine、compressor、refrigerator --- 等專業設備。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能夠以熱力學的觀點思考時事議題，特別是節能與環境暖化問題，了解工程人員對社會及環境的責任並隨時學習相關的新科技",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Introduction to Chemical Engineering Thermodynamics 7th, 導讀版",
+        "author": "J.M. Smith, H.C. Van Ness, M.M. Abbott",
+        "publisher": "高立圖書公司代理",
+        "year": "2008",
+        "ISBN": "978-986-157-568-1",
+        "edition": "7"
+    },
+    "referenceBooks": "Physical Chemistry (D.W. Ball) (THOMSOM, 高立書局代理)(2003)",
+    "teachingSoftware": "FlipClass 數位學習網",
+    "rules": "本課程是化材系特有的專業科目，不但是碩士班的必考科目，亦探討heat engine、turbine、compressor、refrigerator --- 等專業化工設施。是具深度且重要的專業科目，需花費較多的心思來研讀。"
+}

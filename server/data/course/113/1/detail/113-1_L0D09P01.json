@@ -1,0 +1,128 @@
+{
+    "code": "L0D09P01",
+    "name": {
+        "zh": "材料科學",
+        "en": "Materials"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技半導體二甲",
+        "四半導國專二甲"
+    ],
+    "instructors": [
+        "鄭錫恩"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "R301"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "R301"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "R301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹組成各種物質之基本粒子”原子”之特性、 原子之鍵結與排列、材料之缺陷與性質之關聯性等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、材料分類簡介<br>2、原子結構與鍵結<br>3、金屬與陶瓷結構<br>4、高分子結構<br>5、材料缺陷<br>6、擴散<br>7、機械性質<br>8、電性<br>9、光性質<br>",
+        "en": "1. CLASSIFICATION OF MATERIALS<br>2. ATOMIC STRUCTURE AND INTERATOMIC BONDING <br>3. STRUCTURES OF METALS AND CERAMICS <br>4. POLYMER STRUCTURES <br>5. IMPERFECTIONS IN SOLIDS<br>6. DIFFUSION <br>7. MECHANICAL PROPERTIES <br>8. ELECTRICAL PROPERTIES<br>9. OPTICAL PROPERTIES<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解材料分類及材料相關之英文名詞定義如bonding energy, diffusion, vacancy, crystalline等",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解週期表之編排原則、原子結構與鍵結種類",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會製作FCC、BCC、以及鑽石晶體結構模型",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解材料缺陷種類、了解材料內原子擴散機制、了解材料內能帶結構形成原因",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會說明材料強化機制",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

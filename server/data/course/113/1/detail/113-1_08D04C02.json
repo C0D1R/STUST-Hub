@@ -1,0 +1,165 @@
+{
+    "code": "08D04C02",
+    "name": {
+        "zh": "英語聽講演練(三)(A)",
+        "en": "English Speaking and Listening Practice (III)"
+    },
+    "credit": "2",
+    "type": "管制選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "史帝夫"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "W0403"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "W0403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "2"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The aim of this course is to develop students’ listening and speaking skills needed in a wide range of social and cultural situations. Relevant grammar, culture issues and vocabulary will be covered in the course so as to prepare students to express their opinions effectively in English in different social and academic contexts.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "學生將依照以下情境進行英語聽講訓練:<br>1.全球問候禮儀<br>2.亞洲節慶<br>3.柬埔寨的塗鴉文化<br>4.家事<br>5.亞洲藝術節慶<br>6.世界旅遊<br>7.國際食物與餐桌禮儀<br>8.健康與健身<br>9.時尚與服裝<br>10.電腦科技與發明<br>11.電影<br>12.友誼<br>",
+        "en": "Students will develop listening and speaking ability in English in the following contexts:<br>1.Greetings around the world<br>2.Interesting festivals in Asia<br>3.Ancient graffiti discovered in Cambodia<br>4.Housework<br>5.The Asia Art Festival<br>6.Travel<br>7.International food and table manners<br>8.Health and Fitness<br>9.Fashion and Clothing<br>10.Computer Technology<br>11.Movies<br>12.Friendship<br>"
+    },
+    "weeklySchedule": "We will follow our course text looking at a variety of topics, including Business and Finance. There will be a focus on Listening and Speaking. The grading policy for this course will be Attendance and Participation 40%, Mid-Term 30% (15% Writing Paper; 15% Oral Exam); and Final 30% (15% Writing Paper; 15% Oral Exam).",
+    "exams": {
+        "midterm": "Written Exam, Oral Exam",
+        "final": "Written Exam, Oral Exam",
+        "other": "Quizzes, Presentations"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "To be able to appreciate the culture of different countries",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "To be able to speak sensibly and listen carefully in group discussions",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "To be able to convey messages concisely and clearly",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "To develop confidence in public speaking.",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "To be able to communicate in English effectively",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "To be able to research on a topic and think critically",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Listening Pro 3",
+        "author": "Blackler, J.",
+        "publisher": "Cengage Learning Asia Pte Ltd.",
+        "year": "2018",
+        "ISBN": "978-986-95861-8-4",
+        "edition": "2"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

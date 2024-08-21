@@ -1,0 +1,138 @@
+{
+    "code": "50D07901",
+    "name": {
+        "zh": "財務管理",
+        "en": "Financial Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電商三甲"
+    ],
+    "instructors": [
+        "葉雅倫"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0001"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0001"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "T0001"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以深入淺出的方式使同學了解財務管理的基本概念,進而應用於實務。",
+    "prerequisites": "會計學",
+    "syllabus": {
+        "zh": "1.\t財務管理導論<br>2.\t貨幣的時間價值<br>3.\t認識財務報表<br>4.\t風險、報酬與投資組合<br>5.\t證券評價<br>6.\t資金成本<br>7.\t資本預算<br>8.\t資本結構<br>9.\t股利政策<br>10.\t財務規劃與預測<br>11.\t營運資金管理<br>",
+        "en": "1.\tIntroduction to Financial Management<br>2.\tThe Time Value of Money<br>3.\tIntroduction to Finacial Statement<br>4.\tRisk,Return and Portfolio<br>5.\tValuing Bonds<br>6.\tThe Cost of Capital <br>7.\tCapital Budgeting<br>8.\tCapital Structure<br>9.\tDividend Policy<br>10.\tFinancial Planning and Forecasting<br>11.\tWorking Capital Management<br>"
+    },
+    "weeklySchedule": "Week  1 The Introduction of Financial Management<br>Week  2 The Analysis of Financial statements part I<br>Week  3 The Analysis of Financial statements part II<br>Week  4 The Financial Planning part I<br>Week  5 The Financial Planning part II<br>Week  6 The Time Value of Currency<br>Week  7 The Evaluation of Securities part I<br>Week  8 The Evaluation of Securities part II<br>Week  9 The Mid-term Exam<br>Week 10 The Expected Rate of Return &amp; The Risk Evaluation<br>Week 11 The Correlation of 2 Assets<br>Week 12 The Portfolio part I<br>Week 13 The Portfolio part II<br>Week 14 The Portfolio part III<br>Week 15 The Capital Budgeting Decision part I<br>Week 16 The Capital Budgeting Decision part II<br>Week 17 The Capital Budgeting Decision part III<br>Week 18 The Final Exam<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "課程作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "讓學生學習財務管理的基本觀念，以建立財務管理的基礎",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "讓學生了解報酬與風險的相關性，以建立財務投資的正確觀念",
+            "teachingMethods": [
+                "課堂講授",
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "從認識財務報表中思考如何執行企業診斷",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "讓學生學會財務預測、營運資金管理完成財務規劃",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "利用資本預算與投資專案分析，以加強投資與財務決策的能力",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "現代財務管理",
+        "author": "徐燕山  繆文娟 編著",
+        "publisher": "普林斯頓國際有限公司",
+        "year": "2023",
+        "ISBN": "978-957-9548-78-6",
+        "edition": "四版"
+    },
+    "referenceBooks": "<br>財務管理 Essentials of Corporate Finance, 9e<br>Ross Westerfield Jordan 著<br>楊雪蘭 編譯<br>華泰文化事業股份有限公司<br>2021年3月(三版二刷)<br>ISBN:978-986-341-363-9<br><br>",
+    "teachingSoftware": "",
+    "rules": ""
+}

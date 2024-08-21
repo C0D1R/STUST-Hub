@@ -1,0 +1,110 @@
+{
+    "code": "05D01A01",
+    "name": {
+        "zh": "全民國防教育-國防政策",
+        "en": "All-out Defense Education Military Training-National Defense Policies"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "軍訓選修"
+    ],
+    "instructors": [
+        "郭延彰"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "D105"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "D105"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "國防政策即為政府保障國家安全所採取的廣泛行動路線與指導原則。國家的一切國防活動，以及與國防有關的其他活動，均須依據國防政策之指導進行。使學生明瞭我國國防政策的內涵與主軸，係為建構「固若磐石」的國防，使他國不敢輕啟戰端。",
+    "prerequisites": "#選課重要須知：軍訓課程名稱更改為「全民國防教育」\n全民國防教育軍事訓練課程折減常備兵役現役役期或軍事訓練期間之上限，依兵役法第十六條第四項規定辦理。本校男學生因應折抵役期選課之學生，請詳閱本校開課規則，每門課均開課2小時1學分！折減現役役期者，每門課得折減4.5日。折減軍事訓練者，每門課最多得折減2日。在此告知，請同學選課自行考量。\n(一)82年前出生，折減現役役期：\n依每門課程總時數36小時(堂)計算，修習成績合格者，依每8堂課折算1日，得折減4.5日；5門課共180小時(堂)，不足1日不列入計算，至多得折減現役役期22日。\n(二)83年後出生，折減軍事訓練期間：\n依每8堂課折算1日，每門課最多得折減2日；5門課共80小時(堂)，至多得折減軍事訓練期間10日。(不得比照折減現役役期之課程規範)\n\n#選修全民國防軍訓訓練課程之男學生，需配合本校青年服勤動員編組，得以運用課程實施訓練。",
+    "syllabus": {
+        "zh": "第一部分課程，依教官專長領域設計<br>第二部分課程，大綱如下：<br>第一章　國防與政治<br>第二章　我國國家安全政策與法制<br>第三章　我國大陸政策與國防<br>第四章　我國國防政策<br>第五章 國防報告書<br>第六章 兵役實務及募兵制生涯規劃<br>第七章 愛國教育（莒光教學專題研討）",
+        "en": "The first part of the course, designed according to the field of instructor expertise<br>The second part of the course, the outline is as follows:<br>Chapter 1 National Defense and Politics<br>Chapter II China's National Security Policy and Legal System<br>Chapter III China's Mainland Policy and National Defense<br>Chapter IV China's National Defense Policy<br>Chapter V Defense Report<br>Chapter VI Military Service Practice and Recruitment System Planning<br>Chapter VII Patriotic Education (Study on Shuguang Teaching)"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "凝聚國人憂患意識，淬煉愛國愛鄉情操。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "深化全民國防共識，確保國家整體安全。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升防衛動員知能，實踐全民國防目標。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培育宏觀國際視野，增進國防安全知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

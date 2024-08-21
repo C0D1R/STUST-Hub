@@ -1,0 +1,167 @@
+{
+    "code": "G0D00101",
+    "name": {
+        "zh": "微積分(一)",
+        "en": "Calculus (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資工一甲",
+        "四資工產業一甲",
+        "四資工國專一甲"
+    ],
+    "instructors": [
+        "張勝麟"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "D301"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "D301"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "D301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹基本函數與單變數函數的極限,連續,微分與積分,及其相關技巧的應用.  <br>  <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.預備工作<br>2.極限與連續<br>3.導數<br>4.導數的應用<br>5.定積分<br>6.積分技巧  <br>",
+        "en": "1.Prerequisites for Calculus<br>2.Limits and Continuity<br>3.Derivatives<br>4.Applications of Derivatives<br>5.The Definite Integral<br>6.Techniques of Integration"
+    },
+    "weeklySchedule": "第一週 預備知識: 函數定義及其圖形、基本函數<br>第二週 反函數、指數函數與對數函數<br>第三週 三角函數及反三角函數<br>第四週 極限定義、極限的基本性質<br>第五週 無窮極限及在無窮遠處的極限、連續函數<br>第六週 導數的定義、基本的微分運算<br>第七週 連鎖律、反函數與隱函數的導函數<br>第八週 指數與對數函數的導函數<br>第九週 期中考<br>第十週 三角、反三角的導函數<br>第十一週 高階導函數、函數的極值與均值定理<br>第十二週 函數的遞增遞減與一階導數檢定法<br>第十三週 函數的凹性與二階導數檢定法、圖形的描繪<br>第十四週 導數在物理上的應用、極值的應用問題<br>第十五週 微分與微分近似值、羅必達法則 <br>第十六週 定積分、微積分基本定理 <br>第十七週 不定積分、函數曲線所圍的面積<br>第十八週 期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第六、八、十四、十七周章節筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解微積分基本觀念與演算的能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用微積分的技巧到專業領域。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能具備思考、分析及處理工程問題之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能設計程式語言處理微積分問題。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉及描述微積分的專業語言。",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "微積分",
+        "author": "張勝麟等",
+        "publisher": "復文書局",
+        "year": "2020",
+        "ISBN": "978-9865928-91-9",
+        "edition": "2"
+    },
+    "referenceBooks": "Calculus, E. H. Johnston and J. C. Mathews, 東華書局",
+    "teachingSoftware": "GeoGebra",
+    "rules": "1.上課嚴禁玩手機，違者每次扣學期成績5%。<br>2.每周會有平時考測驗，佔30%，需用行動裝置(平板電腦或手機)上網測驗，希望同學能把握每次的成績。<br>3.分組討論作業及上課講演習題(占學期成績20%)，每組3-4人。<br>4.期中、期末考為紙筆測驗，禁用任何行動裝置，各佔25%。"
+}

@@ -1,0 +1,127 @@
+{
+    "code": "M0M00102",
+    "name": {
+        "zh": "餐旅連鎖經營研究",
+        "en": "Hospitality Franchising Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研餐旅一甲"
+    ],
+    "instructors": [
+        "梁仲正"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0309"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "T0309"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "T0309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹餐旅franchise 加盟連鎖的歷史和發展，對於餐旅加盟連鎖的雙邊關係，加盟連鎖的成功經營管理、加盟連鎖餐館對現代餐旅業造成的影響，甚至談到加盟連鎖的management, 法規權責，訓練 ，行銷支援 ，材料管理。及從不同的管理角度切入餐旅加盟連鎖的利弊，優點缺點 探討加盟連鎖的不同功能為何。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. Hospitality加盟連鎖的定義 <br>2.餐旅加盟連鎖餐館現況 <br>3.餐旅加盟連鎖的利弊 <br>4.加盟連鎖契約<br>5.加盟連鎖的選擇 <br>6.標準化總部服務<br>7.跨國性加盟連鎖 <br>8.加盟連鎖概念的發展 <br>9.加盟連鎖餐館的管理機能<br>",
+        "en": "1.The definition and categorizing of hospitality franchising<br>2.Development of hospitality franchising <br>3.The advantage and disadvantage of franchising operation<br>4.Contract problems of franchising operation<br>5.The challenges of franchising operation system<br>6.Standardizing for operation procedures<br>7.International franchising <br>8.Consideration for customers’ expectation <br>9.management function for franchising operation<br>"
+    },
+    "weeklySchedule": "9/10  class regulation and introduction<br>9/17   off<br>9/24  Hospitality trends and 加盟連鎖的定義 <br>10/1  international hotel chains<br>10/8  international restaurant chains<br>10/15  restaurant franchise management 餐旅加盟連鎖的利弊<br>10/22  餐旅加盟連鎖的利弊<br>10/29  international餐旅加盟連鎖餐館現況<br>11/5    mid term exam  and  paper due<br>11/12  跨國加盟連鎖<br>11/19  research oral presentation<br>11/ 26  oral presentation<br>12/3  加盟連鎖契約<br>12/10   franchise contracts <br>12/17  oral presentation<br>12/24 加盟連鎖概念的發展<br>12/31  oral presentation<br>1/7  final exam  <br><br><br>",
+    "exams": {
+        "midterm": "期中交紙本報告",
+        "final": "口頭報告",
+        "other": "平時成績包括不定期小考、點名 課堂參與討論、及上課態度"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "Hospitality餐旅連鎖現況研究",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "Hospitality加盟連鎖概念的發展",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "餐旅連鎖管理相關之觀念技巧知識研究",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "餐旅加盟連鎖的利弊研究",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "跨國性加盟連鎖研究",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "老師編製中英文講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "老師編製中英文講義<br><br>餐飲加盟連鎖經營-Restaurant Franchising - Concepts, Regulations, and Practices作者：Mahmood A. Khan <br>譯者：張名玲 出版社：揚智 2017(第三版)<br>The Growth Strategies of Hotel Chains – Best Business Practice by Leading Companies, Onofre Martorell Cunill; Haworth Hospitality Press, 20011. 案例介紹 – <br><br>",
+    "teachingSoftware": "電腦 投影機 教學網頁  flip 數位學習 Print out",
+    "rules": "註1: 平時成績 40% 包括1-3次不定期小考、點名 課堂參與討論、及上課態度 (包括手機鈴響、上課睡覺及講話等影響上課秩序行為)。<br>註2：期中報告30% ;  期末報告30%以3人一組為限，最遲請於第三週前繳交名單(包括組員及組長)及名單，若有不清楚之地方請詢問任課老師。<br>註3：上課前請先做好預習之工作，上課中間將會有問題提問與討論，若表現不佳將會影響成績。<br>註4: 請準時上課，遲到超過15分鐘以上者視同曠課。因故缺席者請當日上課前一天或24小時之內以Email、電話或請同學告知老師。若為病假，事後請補上證明，否則仍以曠課論。<br>PS. 曠課5次以上以平時成績零分計<br><br><br>"
+}

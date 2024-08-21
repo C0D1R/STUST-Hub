@@ -1,0 +1,166 @@
+{
+    "code": "04D05102",
+    "name": {
+        "zh": "體育生活(三)：健身雕塑(C)",
+        "en": "Physical Education(III)：Fitness And Sculpture"
+    },
+    "credit": "1",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "四技國企二甲",
+        "四技國企二乙",
+        "四技資工二甲",
+        "四技資工二乙",
+        "四技資工二丙",
+        "四技商設二甲",
+        "四技商設二乙",
+        "四資工國專二甲"
+    ],
+    "instructors": [
+        "賈寶山"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": ""
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "『雕塑優美體態，塑造健美體魄』，認識自我的生理狀態，理解身體、肌肉的特徵與性質，了解關節角度與運動方向，以安全且有效的運動訓練方式達到個人的目標。",
+    "prerequisites": "注意事項：\n1、上課務必著運動服裝（棉質吸汗Ｔ恤或polo衫；深色運動褲）與運動鞋。\n2、上課請勿穿拖鞋(涼鞋、帆布鞋)與牛仔褲。\n3、考試時，服裝不符規定將不得參加考試。\n4、請準備毛巾及更換衣物。\n5、上課中禁止飲食、嚼食口香糖(早餐請於上課前30分食用完畢)。\n6、身體若有任何重大或慢性疾病，請務必告知任課教師。\n7、課堂中注意運動安全、並攜帶礦泉水。\n8、上課不遲到早退、不無故缺席。\n9、遵守上課規定。",
+    "syllabus": {
+        "zh": "1、肌肉的分類<br>2、肌力訓練的原則、種類<br>3、Free Weight<br>4、運動心跳測量與監控<br>5、間歇訓練<br>6、核心肌群（Core Muscles）<br>7、核心訓練<br>8、徒手肌力訓練<br>9、抗力球、藥球、彈力繩、彈力帶<br>10、代謝症候群與代謝疾病<br>11、體適能檢測",
+        "en": "1. Classification of muscles<br>2. Principles and types of muscle training<br>3, Free Weight<br>4, heart rate measurement and monitoring<br>5, interval training<br>6, Core Muscles (Core Muscles)<br>7, core training<br>8, free hand muscle training<br>9, resistance ball, medicine ball, elastic ropes, elastic bands<br>10. Metabolic syndrome and metabolic diseases<br>11, physical fitness testing<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "以健身塑身為目的培養日常運動習慣，建構健康生活",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習自我訂定運動處方能力，有效改善身體是能永續健康照護",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習自我訂定運動處方能力，有效改善身體是能永續健康照護",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升體能增進正面自我意象自信健全人格特質",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由運動參與擴大生活圈積極互動，相互關懷",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運動休閒及競技欣賞，培養運動賞析能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運動紓壓自我情緒管理，培養正面思考人生觀",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過小組互動，健身塑身經驗分享交流，強化團體意識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

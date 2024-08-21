@@ -1,0 +1,128 @@
+{
+    "code": "F0D37U01",
+    "name": {
+        "zh": "攝影棚實務",
+        "en": "Studio program production"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資傳二甲",
+        "四技資傳二乙"
+    ],
+    "instructors": [
+        "盧祐德"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "F303"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "F303"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "F303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為培養運用攝影棚製作電視節目之各項實務技能為核心<br>並加強影片藍綠幕特效之製作。課程內容包含:棚內節目之企劃要點、影棚各項設備操作之技能、影棚安全及人員分工編組之要點、影片後製特效製作、影棚節目之實務製作與評析。",
+    "prerequisites": "基礎影視節目製作",
+    "syllabus": {
+        "zh": "一、影棚作業概述 <br>二、數位影棚設備及開棚流程<br>三、影棚攝影機之架設及使用<br>四、影棚副控室設備操作說明<br>五、影棚燈光控制操作<br>六、影棚收音、播音、成音系統操作<br>七、影棚製作整合演練與討論<br>八、影片後製特效After Effect之運用",
+        "en": "1. Introduce to Studio<br>2. Production Team &amp; Studio Setting<br>3. Operating Studio Camera <br>4. Studio Control Room<br>5. Lighting Control<br>6. Sound Control<br>7. Scenery Design<br>8. Program Planning &amp; Evaluation<br>9. Application of After Effects\"<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "傳播基本知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "攝影棚相關設備之操作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "影棚團隊作業",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "色彩、美學於影棚之應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "新聞節目製作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

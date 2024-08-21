@@ -1,0 +1,123 @@
+{
+    "code": "1MD03L01",
+    "name": {
+        "zh": "性別關係",
+        "en": "Gender Relationships"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "社會科學領域"
+    ],
+    "instructors": [
+        "邱瀅儒"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "T0103"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0103"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0103"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程透過講述、分組討論、口頭報告、影片欣賞及案例分析等種種方式, 介紹性別關係的理論、性別差異及互動行為方式等, 幫助學生認識及了解性別關係，進而營造良好和諧的社會生活。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、性別的慨念(Concept of gender )：(ㄧ)生命源起(From conception to birth)。(二)性別角色(Gender roles )。(三)性別認定(Gender identity)。<br>二、性別差異(Gender difference)：(一)性別構造(Architecture and design of gender )。(二)性和性別差異(Sex /Gender difference)<br>三、性別與語言(Gender and language)：(ㄧ)非口語溝通(Nonverbal com-munication)。(二)親密距離(Intimate distance)。(三)傾聽(Listening)。 (四)溝通(Communication)。(五)符號(Sign)。<br>四、性別關係(Gender relationship)：(ㄧ)關係發展(Relationship development)。 (二)公開和隱私(Openness and privacy)。(三)性行為(Sexual behavior)。(四)性的奧秘(Anatomy of sex)。<br>五、案例分析：指導學生上網自覓與課程大綱相關案件，報告內容：(一)案由：時間、地點、案情摘要、資料來源。(二)案情分析。(三)提出預防措施。(四)提出解決方式。<br>六、分組討論主題：(一)南台人喜歡聽與不喜歡聽的五句話？(二)愛情迴紋針影片欣賞討論？(三)情侶間可能由於家人的反對或觀點改變以致於感情生變，分手方式有哪些？你覺得哪些方法較理性？等<br>",
+        "en": "A.\tConcept of gender ：a.From conception to birth. b.Gender roles. c.Gender<br>identity.<br>B. Gender difference：a.Architecture and design of gender. b.Sex /Gender difference.<br>C. Gender and language：a.Nonverbal communication.b.Intimate distance. c.Listening. d.Communication. e.Signs.<br>D. Gender relationships：a. Development of gende relationships.  b.Openness and privacy, c.Sexual behavior. d.Anatomy of sex.<br><br>"
+    },
+    "weeklySchedule": "第一週\t兩性關係課程設計及內容簡介<br>第二週\t性別角色及其發展(影片:小姐好辣)融入 SDGs 目標5：實現性別平等<br>第三週\t性別角色及其發展<br>第四週\t性別差異與性別刻板印象(融入 SDGs 目標5：實現性別平等)<br>第五週\t性別、媒體與身體意象(影片:愛情迴紋)<br>第六週\t友情,愛情與親密關係<br>第七週\t性騷擾與性侵害防治(融入 SDGs 目標5：實現性別平等)<br>第八週\t性騷擾與性侵害防治<br>第九週\t期中考週<br>第十週\t分手的藝術<br>第十一週\t婚姻中的性愛關係<br>第十二週\t婚姻中的性愛關係(影片:單程票)<br>第十三週\t家庭中的性別關係<br>第十四週\t家庭中的性別關係(繪本討論)<br>第十五週\t職場中的性別關係<br>第十六週\t職場中的性別關係(影片:北國性騷擾)<br>第十七週\t同志戀情<br>第十八週\t期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "學習單討論分享"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能認識性別慨念與性別差異。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能明悉與應用性別互動方式。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉與使用性別溝通方式",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能參與案例分析和完成報告。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "兩性關係與性別教育",
+        "author": "白秀玲 柯淑敏",
+        "publisher": "心理出版社",
+        "year": "2014",
+        "ISBN": "978-957-702-955-3",
+        "edition": "初版七刷"
+    },
+    "referenceBooks": "1.何穎怡譯，（民89）。不與男孩同一國。臺北市：女書文化。<br><br>2.王雅各主編，（民88）。性屬關係 : 性別與社會建構（上）；性別與文化（下）。臺北市 : 心理。<br><br>3.黃麗莉主編，（民88）。跳脫性別框框。臺北市：女書文化。 <br><br>4.畢恆達，（民85）。物情物語。台北：張老師出版社。<br>",
+    "teachingSoftware": "",
+    "rules": "1.上課勿玩手機<br>2.上課勿遲到早退"
+}

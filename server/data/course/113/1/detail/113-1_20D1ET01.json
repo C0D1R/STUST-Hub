@@ -1,0 +1,164 @@
+{
+    "code": "20D1ET01",
+    "name": {
+        "zh": "工程應用分析實務",
+        "en": "Engineering application and analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "五專電機四甲"
+    ],
+    "instructors": [
+        "凌拯民"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "B401"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "B401"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "B401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹MATLAB的基本原理、操作、運算以及數據的視覺化處理、圖形繪製與修飾、數據處理、數值計算、符號計算等；並透過範例介紹MATLAB的矩陣運算、符號運算、圖形功能以及程式設計等方面的內容。利用MATLAB程式語言進行工程應用相關的分析",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. MATLAB使用入門<br>2. MATLAB數值計算<br>3. MATLAB數值分析<br>4. 圖形處理功能<br>5. 圖形處理進階技術<br>6. MATLAB程式設計<br>7. Matlab 之進階應用<br>",
+        "en": "1. Introduction of Matlab<br>2. Numerical calculation of Matlab<br>3. Numerical analysis of Matlab<br>4. Basic plot function of Matlab<br>5. Advanced plot function of Matlab<br>6. Programming design of Matlab<br>7. Advanced technique of Matlab<br>"
+    },
+    "weeklySchedule": "1. MATLAB使用入門<br>2. MATLAB數值計算<br>3. MATLAB數值分析<br>4. 圖形處理功能<br>5. 圖形處理進階技術<br>6. MATLAB程式設計<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "上機測試",
+        "other": "作業--不定時"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學會開啟及儲存MATLAB的程式檔(M檔案)",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解MATLAB的線上求助功能",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解MATLAB的繪圖功能",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解MATLAB的向量和矩陣運算功能",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解MATLAB的程式控制流程",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Maltab程式設計(8.X/7.X版完全適用)",
+        "author": "洪維恩",
+        "publisher": "旗標出版股份有限公司",
+        "year": "2015",
+        "ISBN": "978-986-312-140-4",
+        "edition": "第二版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Matlab",
+    "rules": ""
+}

@@ -1,0 +1,115 @@
+{
+    "code": "20D1FK01",
+    "name": {
+        "zh": "嵌入式系統設計與實習",
+        "en": "Embeded Systems Design And Laboratory"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技控晶三甲"
+    ],
+    "instructors": [
+        "許毅然"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "B503"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "B503"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "B503"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "嵌入式系統有別於一般泛用型的電腦架構，如桌上型電腦，它是指支援特定應用之系統產品的電腦系統。本課程介紹嵌入式系統之基本架構與組成、嵌入式系統產品設計、及嵌入式程式設計相關技術，以建立對嵌入式系統之瞭解。本課程主要內容包含：嵌入式系統之架構與軟硬體組成元件、嵌入式系統之設計、嵌入式系統軟硬體整合、嵌入式系統程式設計等主題，並規劃嵌入式軟體設計實習，以增進學習效果。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 課程簡介<br>2. 瞭解嵌入式系統、基本架構與組成；<br>3. 瞭解嵌入式系統開發與設計之原理與技術；<br>4. 建立嵌入式軟體與硬體建構基本學能。",
+        "en": "1. The course introduction<br>2. Understand the embedded system, basic architecture and composition;<br>3. Understand the principles and technologies of embedded system development and design;<br>4. Establish basic learning skills for embedded software and hardware construction."
+    },
+    "weeklySchedule": "1.使用 App Inventor 2 開發 Android App<br>2.基本元件以及事件、方法使用 － 小鋼琴範例<br>3.事件驅動與條件判斷 － 溫度轉換範例<br>4.介面配置與繪圖元件 － 小畫家範例<br>5.迴圈與副程式–體感抽籤範例<br>6.Web網站資料擷取和 語音元件–紫外線即時監測<br>7.互動介面與觸控操作－有聲電子書範例<br>8.社交應用與微型資料庫 - 通訊錄範例<br>9. GPS 定位與Google 地圖應用<br>10.條碼掃描應用 － LBS 行動導覽範例<br>11.多重畫面與方向感測器應用 － 汽球遊戲範例<br>12.雲端資料存取 － 課堂表決器範例",
+    "exams": {
+        "midterm": "考試或報告",
+        "final": "考試或報告",
+        "other": "平時考或作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解何謂嵌入式系統及其相關的應用嗎？",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解ARM處理器的基本架構其相關的應用嗎？",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "有物件導向程式撰寫的經驗嗎？",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "有寫程式在智慧型手機或平板上執行的經驗嗎？",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "從運算思維到邏輯演算APP Inventor2",
+        "author": "蔡宜坦",
+        "publisher": "旗標股份有限公司",
+        "year": "2018",
+        "ISBN": "",
+        "edition": "3"
+    },
+    "referenceBooks": "1.嵌入式系統 使用 Arduino，張延任，2023/3，全華圖書股份有限公司",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,123 @@
+{
+    "code": "10D32903",
+    "name": {
+        "zh": "應用電子學及實習",
+        "en": "Applied Electronics and Practice"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技製造三甲"
+    ],
+    "instructors": [
+        "黃東雍"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "K408"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "K408"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "K408"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要介紹基本電子元件(如二極體、電晶體及運算放大器)原理及其應用電路，使修課同學具備電子元件使用與應用電路之分析及設計能力，授課方式為課堂講授與實習操作隔週交錯進行，使修課同學充分瞭解電子電路之功能與應用。",
+    "prerequisites": "電工學或電路分析之相關課程.",
+    "syllabus": {
+        "zh": "1.儀器操作: 三用電錶、示波器、訊號產生器與電源供應器之操作與使用<br>2.二極體元件: pn接面，二極體與稽納二極體之結構與特性<br>3.二極體應用電路: 整流電路與穩壓電路<br>4.電晶體元件: 雙極性接面電晶體之結構與特性<br>5.電晶體應用電路: 放大器電路與電壓隨耦器電路<br>6.運算放大器: 運算放大器之原理及其負回授應用電路<br>7.運算放大器應用電路: 反相放大器、非反相放大器、加法器、積分器與微分器",
+        "en": "1.Operation of Instrument: Operations of electric meter, oscilloscope, function generator and power supply.<br>2.Diode: pn junction, structure and characteristics of diode and Zener diode.<br>3.Application Circuits of Diode: Rectifier and Regurator.<br>4.Transistor: Structure and characteristics of bipolar junction transistor (BJT).<br>5.Application Circuits of BJT: Amplifier and voltage follower.<br>6.Operational Amplifier: Principles of operational amplifier (Op-amp), negative feedback circuits of Op-amp.<br>7.Application Circuits of Op-amp: Inverting amplifier, non-inverting amplifier, adder, integrator and differentiator."
+    },
+    "weeklySchedule": "1.儀器操作: 三用電錶、示波器、訊號產生器與電源供應器之操作與使用<br>2.二極體元件: pn接面，二極體與稽納二極體之結構與特性<br>3.二極體應用電路: 整流電路與穩壓電路<br>4.電晶體元件: 雙極性接面電晶體之結構與特性<br>5.電晶體應用電路: 放大器電路與電壓隨耦器電路<br>6.運算放大器: 運算放大器之原理及其負回授應用電路<br>7.運算放大器應用電路: 反相放大器、非反相放大器、加法器、積分器與微分器",
+    "exams": {
+        "midterm": "筆試+實作",
+        "final": "筆試+實作",
+        "other": "第4週、第8週、第13週、第17週 筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉三用電錶、示波器與訊號產生器之使用方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解基本電子元件之特性與功能，以及基本應用電路",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能以電子儀器執行電子應用電路之實驗量測，及數據之分析",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解基礎電子學之專業英文名詞",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "電機工程",
+        "author": "吳敏光、黃東雍譯",
+        "publisher": "滄海",
+        "year": "2010",
+        "ISBN": "9789861576480",
+        "edition": "1"
+    },
+    "referenceBooks": "1. 楊棧雲、蔡振凱、劉堂仁，電子學(上冊)，第九版，全華，06002027。譯自原著Thomas L. Floyd, Electronic Devices (Conventional Current Version), 9th Edition, Pearson.<br>2.簡明春、黃俊達編著，電子學實習—類比電路，高立<br>",
+    "teachingSoftware": "ppt",
+    "rules": "上課抄筆記！<br>課程講解時數與實習時數約各一半<br>第一週上課後考安全衛生，依照環安衛規定：必須｢滿分｣才可以做實習！<br>原則上每2週實習一次。<br>實習成績佔50%<br>"
+}

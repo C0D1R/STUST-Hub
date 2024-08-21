@@ -1,0 +1,129 @@
+{
+    "code": "90D23Y01",
+    "name": {
+        "zh": "資料探勘實務",
+        "en": "Data Mining"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資管三甲",
+        "四技資管三乙",
+        "四技資管三丙"
+    ],
+    "instructors": [
+        "黃仁鵬"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "T0708"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0708"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0708"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程熟悉Data Mining之基本理論與技術，並且有能力可從事Data Mining之實務。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.簡介<br>2.資料倉儲<br>3.資料前置處理<br>4.資料精簡<br>5.資料分類法<br>6.資料群集分析<br>7.關連法則探勘<br>8.時間序列分析",
+        "en": "1. An introduction of Data mining<br>2. Data Warehouse<br>3. Data preprocessing<br>4. Data reduction<br>5. Classification<br>6. Cluster Analysis<br>7. Association rules mining<br>8. Sequential patterns mining"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "應用資料探勘軟體的分析能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建構資料探勘的實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用與操作資料探勘系統的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能依使用者需求利用資料探勘技術解決問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效整合並呈現資料，擁有講演、撰寫書面報告與溝通的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

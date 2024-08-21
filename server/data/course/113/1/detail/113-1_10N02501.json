@@ -1,0 +1,115 @@
+{
+    "code": "10N02501",
+    "name": {
+        "zh": "感測器原理與應用",
+        "en": "Principle and application of Sensor"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四機械雙軌四"
+    ],
+    "instructors": [
+        "詹超"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "K002"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "K002"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "K002"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在工業自動控制系統中，感測器是基本的組成元件之一。課程重點包括感測器與物理量轉換的基本原理、訊號的傳遞與其處理方法、產業應用實例。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 機電系統、感測器原理<br>2. 訊號調理、類比數位轉換原理<br>3. 與尺寸、位移相關的量測<br>4. 與應變、 應力相關的量測<br>5. 與力量、扭矩、壓力相關的量測<br>6. 與熱流相關的量測<br>7. 與震動、波動相關的技術",
+        "en": "1. Foundmentals of Sensors &amp; Mechanical Measurement<br>2. Signal Conditioning<br>3. Displacement &amp; Dimensional Measurement<br>4. Strain and Stress: Measurement and Analysis<br>5. Measurement of Force and Torque<br>6. Measurement of Fluid Flow/ Temperature Measurement<br>7. Measurement of Motion/Vibration"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能熟悉感測器相關的專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能提升學生對感測器相關的產業應用的瞭解程度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由學理的基礎提升對感測器的設計、研發的興趣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由對感測器的學習，培養解決實際工業問題的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

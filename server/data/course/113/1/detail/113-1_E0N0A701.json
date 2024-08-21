@@ -1,0 +1,117 @@
+{
+    "code": "E0N0A701",
+    "name": {
+        "zh": "職場自主學習(一)",
+        "en": "Workplace learning(I)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技應日一甲"
+    ],
+    "instructors": [
+        "黃馨儀"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第11節",
+            "location": "T0103"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "體認職場自主學習的重要",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 教師介紹本系學生應具備的專業素養<br>2. 教師介紹職場應該具備之倫理<br>3. 學生分組討論<br>4. 每週一組口頭報告職場相關課題<br>5. 課程由導師協助授課與評分<br>6. 期末繳交報告<br>7. 其他未盡事宜，皆依本校相關辦法辦理。<br>",
+        "en": "1.  マネージメントとは何かを理解してもらう。<br>２．マネージメントとは何かを理解してもらうことで、実際に職場に活用してもらう。<br>３．いくつかのケーススタディを使って、マネージメントに関する知識を得てもらう。<br><br>1. This course requires students for understanding what management is.<br>2. It requires students for utilize their knowledge acquired through understanding management.<br>3. This course uses some case studies and asks students for learning and acquiring knowledge about management.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "增加學生對職場倫理之認知及專業責任之了解。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解社會之脈動及適應社會之能力。並透過討論，培養學生自主學習新事物之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養在職場之口頭表達與溝通能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養具備策畫及分析個案之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養在團體中協調、解決問題之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,127 @@
+{
+    "code": "J0N14L01",
+    "name": {
+        "zh": "文字與圖像編排設計",
+        "en": "Editorial Design In Typographic and Graphic"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技視傳二甲"
+    ],
+    "instructors": [
+        "陳鴻源"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "W0709"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "W0709"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "W0709"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程在於介紹平面設計領域中，圖與文設計元素在傳達編輯與應用的觀念，並導入排版軟體的教學與透過實作設計案例練習，使同學瞭解圖文編排與出版之相關作業，進而達到圖文編排設計專業的知識與與執行能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "•文字與圖像<br>•編排設計概論<br>•實例作品評析說明<br>•圖文作品創作與編排練習<br>•Indesign教學<br>•電子書編排設計<br>•整合性作品實作與發表<br>",
+        "en": "Typographic and Graphic<br>Outline of Editorial Design <br>Critical analysis on design works<br>Graphic creation and layout design<br>To learn how to use Indesign<br>Layout of digital book<br>Integrative works and presentation<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解文字造形、圖像與編排對傳達設計的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立兼具傳達設計及美學為考量的圖文編排基本觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟習數位化技巧並應用於編排設計上",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習編排設計專案之企劃構思",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "整合手繪與數位技巧於圖文編排設計專案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,122 @@
+{
+    "code": "03D11802",
+    "name": {
+        "zh": "課程發展與設計(國民小學)",
+        "en": "Curriculum Development and Design ( Elementary School)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "教育學程－小"
+    ],
+    "instructors": [
+        "鄭育萍"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "N107"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "N107"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在探究課程發展與設計的理論基礎、理論取向、方法模式和過程步驟及當前課程革新的趨勢與內涵，以培養師資生的課程發展與設計知能。<br><br>為培養具備新時代課程發展專業知能的教師，本課程兼具理論與實務，內涵包括12年國教素養導向學習架構、課程發展與設計的基本理念、學校本位課程規劃、單元課程設計要素與過程等。透過課程實踐的過程，培養修習者了解課程發展與設計原理、分析現行課程內涵、評鑑選取教材、以及設計單元課程教案的能力，並協助未來教師擴展課程視野、重新檢視自己的教育定位。<br><br>【專業素養指標】<br>1 了解教育發展的理念與實務<br>■1-3 了解我國教育政策、法規及學校實務，以作為教育實踐基礎。<br>3 規劃適切的課程、教學及多元評量<br>■3-1 依據課程綱要/大綱、課程理論及教學原理，以規劃素養導向課程、教學及評量。<br>■3-2 依據課程綱要/大綱、課程理論及教學原理，以協同發展跨領域/群科/科目課程、教學及評量。<br>■3-4 掌握社會變遷趨勢與議題，以融入課程與教學。<br>5 認同並實踐教師專業倫理<br>■5-3 透過教育實踐與省思，以發展溝通、團隊合作、問題解決及持續專業成長的意願與能力。<br><br>【課程核心內容】<br>1了解教育發展的理念與實務<br>■(2)主要教育理論與思想<br>■(6)我國主要教育政策、法規及實務<br>2了解並尊重學習者的發展與學習需求<br>■(1)主要身心發展理論及其教育應用<br>■(2)主要學習理論及其教育應用<br>■(3)主要學習動機理論及其教育應用<br>■(4)學習策略<br>■(5)身心、社經與文化等背景差異及其與學習、發展的關係<br>■(8)融合教育理論與實施<br>3規劃適切的課程、教學及多元評量<br>■(1)主要課程、教學與評量的理論<br>■(2)重要議題融入課程、教學與評量<br>■(3)我國課程、教學與評量的重要政策<br>■(4)12 年國民基本教育素養導向 (單科/跨領域統整/跨科統整)課程、教學及評量的發展及實踐<br>■(5)課程、教學與評量的創新及學習科技的應用<br>5認同並實踐教師專業倫理<br>■(5)教師自我反思、溝通互動與解決問題<br><br>【融入議題】<br>■品德教育<br>■本土教育<br>",
+    "prerequisites": "限學程學生選修(Professional education)",
+    "syllabus": {
+        "zh": "1. 教學計畫與作業之說明和討論<br>2. 十二年國民基本教育中小學課程特色分析<br>3. 十二年國民基本教育課程綱要總綱探討<br>4. 課程設計實例分享<br>5. 課程的意義與基本概念<br>6. 課程決定和設計的層級<br>7. 課程設計的理論取向<br>8. 課程設計的主要模式<br>9. 課程目標的建構、分類與敘寫<br>10. 課程經驗選擇的基本原則<br>11. 課程經驗組織的基本原則<br>12. 課程統整的意義與方法<br>13. 課程實施<br>14. 課程評鑑<br>15. 期末綜合與測驗<br><br>",
+        "en": "1.Explanation and Discussion of Teaching Plans and Assignments<br>2.Analysis of the Curriculum Guidelines of 12-Year Basic Education<br>3. Discussion on the Curriculum Guidelines of 12-Year Basic Education<br>4. A Case Study of Curriculum Development<br>5. Definition and Basic Concepts of Curriculum<br>6. The Level of Curriculum Decision and Design<br>7. Theoretical Approach to Curriculum Design<br>8. Model of Curriculum Design<br>9. Identifying Outcomes and Writing Objectives<br>10. Principles of Selection of Curricular Experience<br>11. Principles of Organization of Curricular Experience<br>12. Approaches to Curriculum Integration<br>13.Curriculum Implementation<br>14. Curriculum Evaluation<br>15. Overall Discussion and Assessment<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能認識課程發展與設計的基本理論與概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能不斷進行課程發展與設計的研究",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能設計適當的課程計畫加以實施",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能認識課程改革的理想與挑戰",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生具備學習單元的設計能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

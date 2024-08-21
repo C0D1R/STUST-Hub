@@ -1,0 +1,110 @@
+{
+    "code": "J0D37901",
+    "name": {
+        "zh": "創意生活產業概論",
+        "en": "Introduction to Creative Life Industries"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技創設一甲"
+    ],
+    "instructors": [
+        "賴孟玲"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "W0509"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "W0509"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程主要以文化創意產業為主軸，介紹說明創意產業概論之重要性。課程主要透過國內外文獻與相關案例引導學生認識、理解與感受「創意生活產業」的內涵以及發展脈絡，還有創意生活產業與創意生活設計的關係。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.創意生活的定義（國內定義、目前市場價值、產業誕生的政經背景）<br>2.如何觀察創意生活產業（從國內案例之服務面、場域面進行說明）<br>3.如何分析創意生活產業（用分析理解其服務面、產業面重要）<br>4.創意生活產業的參與（透過案例與實際操作進行學習）<br>5.創意生活產業與觀光（國內目前落日產業的興衰）<br>6.創意生活產業的考察（觀察生活面與現今的流行趨勢）<br>",
+        "en": "1.Definition of creative life.<br>2.Observing creative life industry methods.<br>3.Case study of creative life industry.<br>4.Creative life industry participation.<br>5.The relationship between creative living industry and sightseeing.<br>6.Investigation of creative life industry.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "行銷企劃：針對市場的內容進行設計產品的完成能力，加強學生對於本項學習的重點。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創意思考：針對創意商法產生有效益的創意，並且利用設計創意的方式有效的提供設計的方法進行設計容。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "設計知識：對於設計的基本能力有基礎的學習能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藝術美學：從藝術史的瞭解美學的概念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

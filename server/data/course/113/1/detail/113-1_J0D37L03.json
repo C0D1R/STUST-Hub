@@ -1,0 +1,124 @@
+{
+    "code": "J0D37L03",
+    "name": {
+        "zh": "創業概論",
+        "en": "Introduction to Entrepreneurship"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技創設四甲"
+    ],
+    "instructors": [
+        "陳一夫"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "W0601"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0601"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "這是一門綜合創意機會評估、商業模式規劃、新創公司發展、創業法規與資源申請等的整合性創業課程，目的是讓學生能對於創業家精神、創業正確認知、知識及資源有所了解外，也培養學生具有將創意構想事業化的企劃能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "創業理論基礎<br>創業機會與評估<br>商業模式規劃<br>工商登記與稅務<br>人力資源發展<br>創業資金取得<br>政府資源運用<br>商圈立地評估<br>整合行銷<br>品牌經營<br>創意保護<br>",
+        "en": "Introduction to Entrepreneurial Theory<br>Evaluation of Entrepreneurial Opportunity<br>Business Model Planning<br>Business Registration and Taxation<br>Human Resources Development<br>Venture Capital Application<br>Government Funding<br>Evaluation of Location<br>Integrated Marketing<br>Brand Management<br>Intellectual Property Rights Protection<br>"
+    },
+    "weeklySchedule": "09/12課程說明<br>09/19創業管理理論基礎<br>09/26創業整體評估<br>10/03創業機會評估<br>10/10放假<br>10/17創業機會評估工作坊<br>10/24商業模式規劃<br>10/31商業模式工作坊<br>11/07小組報告：ch3撰寫營運計畫書<br>11/14小組報告：ch4組織創業團隊、ch6人力資源管理<br>11/21小組報告：ch5工商登記與稅務<br>11/28小組報告：ch7創業的資金需求<br>12/05小組報告：ch9創業的財務規劃<br>12/12小組報告：ch8政府資源的運用<br>12/19小組報告：ch10商圈立地評估<br>12/26小組報告：ch11企業網站經營、ch12網路行銷<br>01/02小組報告：ch13創意保護<br>01/09小組報告：ch14品牌經營<br>",
+    "exams": {
+        "midterm": "商業模式規劃",
+        "final": "指定書目章節導讀與互動",
+        "other": "創業機會評估、導讀筆記"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "創業管理基本認知",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "創業機會評估",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "商業模式規劃",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "新創公司發展",
+            "teachingMethods": [
+                "其他",
+                "－導讀討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解創業法規及資源",
+            "teachingMethods": [
+                "其他",
+                "－導讀討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.魯明德、陳秀美編著(2021)，創業管理-微型創業與營運實務(第三版)，新北市：全華圖書。 <br>2.Adam, J. &amp; George, G.(2019)，商業模式設計書：你的最強營運思考工具，臺北市：本事出版。<br><br>",
+    "teachingSoftware": "無",
+    "rules": "1.為培養學習態度及確保學習品質，老師會每堂課點名並列入成績評量，生病或有要事未能出席請先請假告知原因，敬請大家注意！<br>2.小組討論及作業需各組員共同參與，學期末會進行「小組成員互評」，將作為加減分重要依據。<br>3.導讀筆記切勿複製別人的資料，手寫筆記且加上圖示分數會加分。<br>4.請同學尊重智慧財產權，使用正版教科書，不得非法影印，不得抄襲參考資料，以免觸犯智慧財產權相關法令。<br><br><br>"
+}

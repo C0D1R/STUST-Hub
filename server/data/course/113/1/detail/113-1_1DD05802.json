@@ -1,0 +1,122 @@
+{
+    "code": "1DD05802",
+    "name": {
+        "zh": "音樂前期製作",
+        "en": "Music Pre-Production"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技流音二乙"
+    ],
+    "instructors": [
+        "林岑芳"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "W1002"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "W1002"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程為音樂製作的完整流程，包含詞曲創作概念、音樂曲風、編曲概念、錄音及混音工程。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.製作概論<br>2.詞曲創作<br>3.音樂曲風概念<br>4.錄音室概述<br>5.錄音工程<br>6.混音工程",
+        "en": "1. Introduction to production<br>2. Songwriting<br>3. Music style concept<br>4. Recording studio overview<br>5. Recording engineering<br>6. Mixing engineering"
+    },
+    "weeklySchedule": "第一週(9/12) Intro<br>第二週(9/19) AI音樂製作/討論、手機音樂Demo製作1<br>第三週(9/26) AI音樂製作/討論、手機音樂Demo製作2<br>第四週(10/3) 效果器簡介、Demo Vocal修整介紹<br>第五週(10/10)平時作業1:風格寫作作業<br>第六週(10/17) 專題講座<br>第七週(10/24) 控制器、樂器頻率表、基礎旋律作曲法討論<br>第八週(10/31) 期中預備與複習 / Theremin初階動手做<br>第九週(11/7) 期中考週 當場匿名互評票選優秀作業獎勵<br>第十週(11/14) 專題講座<br>第十一週(11/21) 音樂製作欣賞討論<br>第十二週(11/28) 製作人練耳主題<br>第十三週(12/5) 製作人素質考驗主題<br>第十四週(12/12) 影像音樂的前期製作規劃 期末報告1<br>第十五週(12/19) 綜合討論 期末報告2 <br>第十六週(12/26) 期末報告3<br>第十七週(1/2) 期末報告4<br>第十八週(1/9)總結",
+    "exams": {
+        "midterm": "課堂展演",
+        "final": "個別報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認知專輯製作概論",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "具備編曲概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "具備詞曲版權知識",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備錄音工程概論與技能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備混音工程概論與技能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Cubase, AI相關etc.",
+    "rules": "課程性質：Demo製作（詳見intro ppt）、音樂製作行業概況認知與常識。<br>1. 期中作業25％ 期末作業35％ 平時成績40%<br>2. 期中作業為任何形式製作之音樂demo，一分鐘左右即可，詞/曲/編曲/歌唱/演奏內容不完整沒關係，前提是必須為本學期新作品。<br>3. 期末請做一份「歌曲（演奏曲亦可）」製作相關有內容、深度的上台報告，最好是自己的創作Demo（含剪輯、效果等處理）的作品。<br>*作業一律個人，若非獨立完成必須交代負責內容。凡選修本課程者視同默認：所有上傳資料之供課程公佈活動所使用之版權問題需自行負責。"
+}

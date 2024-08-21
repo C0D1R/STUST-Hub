@@ -1,0 +1,146 @@
+{
+    "code": "60D33H02",
+    "name": {
+        "zh": "國際英語商務會話",
+        "en": "Business English"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技國企二乙"
+    ],
+    "instructors": [
+        "許竹君"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "S513"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "S513"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course is for students who study English in a commercial context. The teaching material covers a wild range of business situations with regard to develop students' business skills.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Week 1--Introdoction / Class activity<br>Week 2--Unit 1 Face to Face<br>Week 3--Unit 2 Letters, faxes &amp; memos<br>Week 4--Double Tens Day<br>Week 5--Unit 1-2 quiz <br>Week 6--Unit 3 On the phone<br>Week 7--Unit 4 Summaries, Notes, Reports<br>Week 8--Unit3-4 quiz<br>Week 9--Mid-term exam<br><br>Week 10--video and class activity<br>Week 11--Unit 5 Working together<br>Week 12--Unit 6 International Trade<br>Week 13--Unit 5-6 quiz<br>Week 14--Unit 7 Money Matter<br>Week 15--Unit 8 Dealing with problems<br>Week 16--holidays<br>Week 17--Unit 7-8 quiz <br>Week 18--Final exam<br>",
+        "en": "Week 1--Introdoction / Class activity<br>Week 2--Unit 1 Face to Face<br>Week 3--Unit 2 Letters, faxes &amp; memos<br>Week 4--Double Tens Day<br>Week 5--Unit 1-2 quiz <br>Week 6--Unit 3 On the phone<br>Week 7--Unit 4 Summaries, Notes, Reports<br>Week 8--Unit3-4 quiz<br>Week 9--Mid-term exam<br><br>Week 10--video and class activity<br>Week 11--Unit 5 Working together<br>Week 12--Unit 6 International Trade<br>Week 13--Unit 5-6 quiz<br>Week 14--Unit 7 Money Matter<br>Week 15--Unit 8 Dealing with problems<br>Week 16--holidays<br>Week 17--Unit 7-8 quiz <br>Week 18--Final exam<br>"
+    },
+    "weeklySchedule": "Week 1    課程概述 <br>Week 2    辦公室會話：辦公室電話、商務書信：求職英文<br>Week 3    辦公室會話：辦公室電話、 商務書信：商務往來<br>Week 4    辦公室會話：辦公室社交、商務書信：商務往來<br>Week 5    辦公室會話：辦公室社交、商務書信：商務往來<br>Week 6    辦公室會話：出差暨旅遊、商務書信：商務往來<br>Week 7    辦公室會話：出差暨旅遊、商務書信：商務往來<br>Week 8    辦公室會話：出差暨旅遊、商務書信：商務往來<br>Week 9    期中考試<br>Week 10   辦公室會話：出差暨旅遊、商務書信：客服行政<br>Week 11   辦公室會話：出差暨旅遊、商務書信：客服行政<br>Week 12   辦公室會話：辦公室開會、商務書信：客服行政<br>Week 13   辦公室會話：辦公室開會、商務書信：職場人際<br>Week 14   辦公室會話：視訊會議暨電話會議、商務書信：職場人際<br>Week 15   辦公室會話：視訊會議暨電話會議、商務書信：職場人際<br>Week 16   辦公室會話：視訊會議暨電話會議、商務書信：職場人際<br>Week 17   辦公室會話：辦公室簡報、商務書信：職場人際<br>Week 18   期末考試",
+    "exams": {
+        "midterm": "期中考試",
+        "final": "期末考試",
+        "other": "課堂表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "基本商務書信格式",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "商務英語詞彙",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "英文書信往返",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "商務書信情境練習",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "商務英文大解密",
+        "author": "可蕾兒",
+        "publisher": "我識出版社",
+        "year": "2023年",
+        "ISBN": "9786269717422",
+        "edition": "2"
+    },
+    "referenceBooks": "征服職場 Day by Day：小桌曆英文超給力系列，賴世雄，長春藤出版社，2019年。<br>國際商展英語－看這本就夠了，克力斯．安森∕張瑪麗合著，哈福出版社，2017年。<br>",
+    "teachingSoftware": "office",
+    "rules": ""
+}

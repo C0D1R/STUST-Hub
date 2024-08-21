@@ -1,0 +1,111 @@
+{
+    "code": "D0N12201",
+    "name": {
+        "zh": "商業心理學",
+        "en": "Business Psychology"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜行流產攜二甲"
+    ],
+    "instructors": [
+        "邱國忠"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程共分為四個部份：<br>1.瞭解管理與商業心理學的沿革及與消費者行為/組織行為的相關性<br>2.瞭解個人相關的心理歷程－包括感覺與知覺/學習/記憶/認知歷程<br>3.瞭解個人的動機、態度及IQ/EQ對工作的作用以及人格心理學<br>4.瞭解社會認知、團體歷程、溝通及領導",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、商業心理學的沿革<br>二、研究方法<br>三、與消費者行為相關內容<br>1記憶<br>2態度<br>3人格<br>四、與組織行為相關內容<br>1動機<br>2團體歷程<br>五、其他商業心理學相關課題<br>",
+        "en": "1. The history of business psychology<br>2. Research method<br>3. Consumer behavior-related topics<br>(1)Memory<br>(2)Attitude<br>(3)Personality<br>4. Organizational behavior-related topics<br>(1)Motivation<br>(2)Group<br>5. Other relevant issues of business psychology"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解個體的心理與行為",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解群體的心理及行為",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "組織行為與領導",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "消費者行為的探討",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "個人的壓力調節",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

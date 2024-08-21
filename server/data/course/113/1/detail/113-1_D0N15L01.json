@@ -1,0 +1,115 @@
+{
+    "code": "D0N15L01",
+    "name": {
+        "zh": "新興零售議題",
+        "en": "Retail Development and Transformation"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技行流四甲"
+    ],
+    "instructors": [
+        "黃建榮"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0209"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0209"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0209"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "零售業是流通產業的第一線,環境、技術及消費行為的改變將使得零售<br>業不得不轉型來因應。近年由於個人通訊技術的發展與普及,再加上疫<br>情的推波助瀾,這迫使當代零售快速進入轉型期。本課程提供學生一個<br>觀察零售業業態變化的理論架構及探討技術在零業轉型上的應用,以培<br>養零售業轉型上所需要的專業知識與能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 零售業概論<br>2. 零售之輪理論<br>3. 零售業的本質<br>4. 業態與轉型競爭策略<br>5. 通路整合與零售轉型<br>6. 智慧零售<br>7. 個案探討",
+        "en": "1. Introduction to Retail Industry<br>2. The Wheel of Retail Theory<br>3. The essence of retail<br>4. Retail Transformation Strategies<br>5. Retail channel integration strategy"
+    },
+    "weeklySchedule": "1. 零售業概論(Introduction to Retail Industry)<br>2. 零售之輪理論(The Wheel of Retail Theory)<br>3. 零售業的本質(The essence of retail)<br>4. 業態與轉型競爭策略(Retail Transformation Strategies)<br>5. 通路整合與零售轉型(Retail channel integration strategy)<br>6. 智慧零售(Smart Retail)<br>7. 個案探討(Case study)<br>8. Retail Development and Transformation",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "基礎商管知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "行銷與銷售管理知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "行銷與流通整合能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "資訊科技應用能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "期中考: 20%<br>期末報告: 30%<br>平時出席、作業及平時考: 50%<br>出席狀況佔學期總成績10%, 一次點名未到扣2%，每次上課都會點名。<br>同學需進行分組。以組為單位，上課時會請同學進行討論。<br>上課時，同學一定要有書，教科書請自行協調購買。<br>討論之外，當老師講解課程內容或觀念時，請同學安靜聽講，聲音太吵者，影響老師上課者，將扣平常成績。<br>上課時，請不要玩手機和手機遊戲，違者扣平常成績。"
+}

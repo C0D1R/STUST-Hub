@@ -1,0 +1,113 @@
+{
+    "code": "40D1BA01",
+    "name": {
+        "zh": "自主學習(一)",
+        "en": "Independent Study (I)"
+    },
+    "credit": "1",
+    "type": "管制選修",
+    "classes": [
+        "四技化材一甲",
+        "四技化材一乙",
+        "四化材國專一甲"
+    ],
+    "instructors": [
+        "吳文昌"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程擬利用一學分的規劃，以學生自主學習的企圖心，促使其提升掌握自我學習的主導權。於學期初，由學生自訂學習內容，並與授課老師商議學習內容與考核方式。學期過程若有需更動學習計畫之處，由學生與授課老師共同商議。期末仍由教師評定成績等第。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.學生明列學習標的<br>2.學生闡述學習標的選取理由<br>3.師生共同討論學習計畫<br>4.學生依計畫自主學習<br>5.師生共同討論盤點學習成效<br>6.教師完成評定成績<br>",
+        "en": "1.The student set the study goals<br>2.The students explain why are the study goals selected<br>3.A study plan is constructed as a result of bilateral discussions by the student and the instructor<br>4.The student carry out the study plan<br>5.The student and the instructor review the performances<br>6.The instructor give the final grade<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能利用基礎化學基本知識及運算原理，完成實驗及結果報告。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析實驗數據並解釋實驗結果。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有系統的說明實驗流程與實驗結果。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能與同學、教學助理相互討論完成作業問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用電腦軟體處理實驗數據，並上網收集相關資料。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

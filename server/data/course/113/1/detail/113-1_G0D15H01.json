@@ -1,0 +1,129 @@
+{
+    "code": "G0D15H01",
+    "name": {
+        "zh": "視覺分析與控制實務",
+        "en": "Visual Analysis and Control Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資工四甲",
+        "四技資工四乙",
+        "四技資工四丙"
+    ],
+    "instructors": [
+        "郭俊麟"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "E0203"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "E0203"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "E0203"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "教導學生使其了解視覺計算系統開發的流程<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 電腦視覺及影像處理基本概念<br>2. OpenCV基本程式開發原理<br>3. OpenCV高階圖形使用者介面HighGUI<br>4. OpenCV影像處理<br>5. OpenCV影像轉換<br>6. OpenCV直方圖與匹配<br>7. OpenCV影像分割與形狀匹配<br>8. OpenCV圖訊識別<br>9. OpenCV機器學習演算法<br>10. OpenCV在Android系統上的應用",
+        "en": "1. Computer vision and image processing concepts<br>2. Introduction to OpenCV<br>3. HighGUI<br>4. Image processing<br>5. Image transform<br>6. Histogram and matching <br>7. Image segmentation and shape matching<br>8. Pattern recognition<br>9. Machine learning algorithm<br>10. OpenCV on Android"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解視覺計算系統開發方法與基本學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對視覺計算系統開發與實作問題有效辨識適當的設計方法並能體認正確嚴謹應用方法的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用開發與實作方法建立有效率的視覺計算系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現視覺計算系統開發與實作問題，讓不懂統計專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用視覺計算系統開發與實作技巧分析問題並正確解讀問題與分工",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

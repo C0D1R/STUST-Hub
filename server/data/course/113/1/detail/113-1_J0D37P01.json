@@ -1,0 +1,128 @@
+{
+    "code": "J0D37P01",
+    "name": {
+        "zh": "文創品牌與設計實務",
+        "en": "Brand of Cultural Creative  and Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "二技創設三甲",
+        "四技創設三甲"
+    ],
+    "instructors": [
+        "賴孟玲"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "W0509"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "W0509"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "W0509"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "企業的競爭力，來自好的品牌。文創品牌包括品牌設計與品牌活動，透過此刻成讓學生學習，文創品牌規劃的概念、價值以至於整體規劃設計，並透過設計、分析與實務操作，以了解完整的品牌規劃過程。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、何謂文創品牌：文創品牌的形成、價值及整體概念<br>2、文創品牌案例分析<br>3、文創品牌設計設計實務：品牌手冊<br>4、文創品牌設計設計實務：品牌活動<br>5、文創品牌的經營<br>6、文創品牌的延伸<br>",
+        "en": "1.What is the brand of cultural creativity?<br>2.Cultural creativity case analysis.<br>3.Cultural and creative brand design: brand book.<br>4.Cultural and creative brand design: brand activities.<br>5.Cultural and creative brand management.<br>6.Extension of cultural and creative brands.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生了解文創品牌的形成、價值及整體觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "解析市場上成功文創品牌與其創意設計思維",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "促進學生對文創品牌整體規劃設計的體會",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升學生對文創品牌設計之實務經驗",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生溝通協調之團體意識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

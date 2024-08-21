@@ -1,0 +1,110 @@
+{
+    "code": "1JD01001",
+    "name": {
+        "zh": "高齡福利制度與福祉規劃",
+        "en": "Elderly Welfare System and Welfare Planning"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技高福三甲"
+    ],
+    "instructors": [
+        "陳韻如"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "O101"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "O101"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "高齡化社會老人的需求和福利包含五個面向：健康醫療、經濟支持、心理調適與支持、生活照護需求及文康休閒。本課程介紹目前老人福利制度涵蓋內容及老人福祉規劃涵蓋範圍。未來因應社會快速高齡化，政府在政策及福利措施的規劃上，應做全面性的評估和思考，使政策、服務合而為一，有效落實老人福祉。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、老人福利制度之重要政策<br>二、老人福利制度之失智服務與老福機構<br>三、老人福利制度之社區照顧關懷據點與老人社會參與<br>四、老人福祉規劃之保障經濟安全<br>五、老人福祉規劃之健康維護與照顧服務",
+        "en": "1.Important policies of the welfare system for the elderly.<br>2.Service for the demented elderly and introduction to the welfare institutions for the elderly.<br>3.Community care and social participation of the welfare system for the elderly.<br>4.Ensurance of the economic security for the elderly.<br>5.Health maintenance and health care services for the elderly."
+    },
+    "weeklySchedule": "1.老人福利制度<br>安置頤養<br>經濟扶助<br>居家與社區照顧<br>文康休閒<br>老人保護與獨居關懷<br>2.老年人居家無障礙環境設施規劃<br>3.老年人居住選擇<br>4.創新高齡服務之國際倡議趨勢<br>5.從性別角度思考高齡福利政策之建構<br>6.共創超高齡世代的銀髮經濟<br>7.老人保險規劃<br>8.專題演講影片賞析<br>",
+    "exams": {
+        "midterm": "口頭及書面報告",
+        "final": "口頭及書面報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "協助學生了解老人福利制度之重要政策",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "協助學生了解老人福利制度涵蓋內容",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "協助學生了解老人福址規劃之趨勢",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "協助學生了解老人福址規劃涵蓋範圍",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

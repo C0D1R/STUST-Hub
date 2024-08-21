@@ -1,0 +1,128 @@
+{
+    "code": "70M08601",
+    "name": {
+        "zh": "商業智慧專題",
+        "en": "Seminar in Business Intelligence"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研企管二甲",
+        "碩全球經管二乙"
+    ],
+    "instructors": [
+        "鄭滄祥"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S309"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "S309"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "S309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "商業智慧乃是企業運用資料倉儲技術、線上分析處理技術、資料探勘與資料視覺化等技術，創造和累積商務知識與見解，進而改善商務決策品質。本課程將以實例操作的方式，著重於商業智慧的概念、資料處理的方式、線上分析處理以及視覺化的圖表分析技術等方面的講解，期望同學可運用資料視覺化工具，製作出合適的企業資料整合性視覺化報告，用以提升工作上的決策支援效能。",
+    "prerequisites": "計算機概論、資訊管理",
+    "syllabus": {
+        "zh": "1. 商業智慧基礎觀念<br>2. 資料的擷取、轉換和載入<br>3. 自主式商業智慧分析<br>4. 視覺化圖表製作<br>5. 地圖式的資料分析與呈現<br>6. 知識發掘與資料探勘<br><br>",
+        "en": "1. Introduction to Business Intelligence<br>2. Data Extract-Transform-Load<br>3. Self-Business Intelligence<br>4. Visual data analysis<br>5. Map analysis and presentation<br>6. Knowledge mining and data mining"
+    },
+    "weeklySchedule": "第1周. 商業智慧簡介 <br>第2周. Power BI與資料視覺化<br>第3周. 視覺化設計與操作<br>第4周. 以科技的角度說明資料整理基本技巧練習<br>第5-8周. 視覺資訊圖表操作探討(Data Visualization）<br>第9周.  期中專題操作<br>第10-11周. 數據工程（Data Engineer）- Power Query，以科學及技術的角度導引<br>第12-13周. 資料建模（Data Modeling）&amp; DAX <br>第14周. DAX量值管理<br>第15-16周. 金融大數據實戰應用儀表板，以工程與技術的角度進行討論<br>第17-18周. 應用個案探討及期末報告 (客群分析&amp;消費分析)",
+    "exams": {
+        "midterm": "上機考",
+        "final": "課堂展演+書面報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "掌握基本的OLAP資料處理運算技術",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能運用Excel作為前端分析工具",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具有建立視覺化圖表的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能對企業營運資料進行各種分析",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "將資料分析結果轉化為決策資訊的能力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "翻倍效率工作術 - 不會就太可惜的Power BI大數據視覺圖表設計與分析(第三版)",
+        "author": "文淵閣工作室",
+        "publisher": "碁峰",
+        "year": "2023",
+        "ISBN": "9786263243989",
+        "edition": "3"
+    },
+    "referenceBooks": "1.蘇志雄 宋龍華 謝邦昌 蕭育仁，Power BI金融大數據分析應用，碁峰，2021<br>",
+    "teachingSoftware": "Power BI Desktop",
+    "rules": "需要練習指定的作業及範例"
+}

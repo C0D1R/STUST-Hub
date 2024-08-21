@@ -1,0 +1,134 @@
+{
+    "code": "01D13L03",
+    "name": {
+        "zh": "基礎中文(一)",
+        "en": "Basic Chinese (Ⅰ)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專資工一甲"
+    ],
+    "instructors": [
+        "郭淑雅"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "D201"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "D201"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "五專一年級的中文訓練，著重在中文能力的紮根。因此，它將延續並深化九年一貫的國語文學習內容，透過經典文學與現代文學的選讀與賞析，強化學生閱讀書寫與文化特質的基礎能力，以達語文教育、文學教育與文化教育之目標。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.介紹閱讀要領，以期領略個中的樂趣<br>2.藉文學作品訓練邏輯推理與思辯能力<br>3.傳授語言與書寫的表達原理<br>4.探究文學作品中蘊含的人生哲理與文化特質<br>5.聽說讀寫綜合能力訓練<br>",
+        "en": "1.\tBuilding Reading Skills &amp; Exploring Interests in Reading.<br>2.\tImproving Logical Reason Skills<br>3.\tThe Expression of Language &amp; Writing  <br>4.\tExploring Its Life Philosophy behind the works. <br>5.\tEnhancing Abilities of Listening, Speaking, Reading &amp; Writing.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "描述語文表達的意義並撰寫文章與口頭報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探討文學作品的人生哲理，達到潛移默化的成效",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能融合統整所學知能，並以創新思維或作為，有組織有系統地解決各項問題及積極學習。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "有組織、有條理的表達與溝通，能表現出應對進退的適當禮節，專注聆聽交談對象的說話內容，並給予積極回應之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能積極服務與關懷他人，對於需要幫助的人能及時提供適切的需求，能以同理心去關懷周遭人事物並體驗服務真正意涵。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備中文、人文藝術的基本知能，並強化人文藝術的素養。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

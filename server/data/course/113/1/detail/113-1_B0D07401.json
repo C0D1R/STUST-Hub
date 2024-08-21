@@ -1,0 +1,148 @@
+{
+    "code": "B0D07401",
+    "name": {
+        "zh": "經濟學",
+        "en": "Economics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技休閒一甲"
+    ],
+    "instructors": [
+        "丁千容"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0312"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "T0312"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "T0312"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.經濟及財政相關之高普考",
+        "2.經濟及財政相關之專技人員考試"
+    ],
+    "description": "經濟學為管理學院共同必修課程。了解消費者行為是廠商行銷的基礎，成本及價格的決定是生產者必備的觀念，而總體經濟的利率、匯率及稅率知識已成為廠商及個人投資理財的基本常識。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.經濟學導論<br>2.供給與需求<br>3.供需量對價格的反應程度<br>4.消費者選擇<br>5.成本與廠商決策<br>6.完全競爭市場<br>7.不完全競爭市場<br>8.市場與管制<br>9.總體經濟的衡量<br>10.總合供需分析<br>",
+        "en": "1. Introduction to Economics<br>2. Supply and demand<br>3. The degree of response of supply and demand to prices<br>4. Consumer choice<br>5. Cost and vendor decision<br>6. Completely competitive market<br>7. Incompletely competitive market<br>8. Market and regulation<br>9. Measurement of the overall economy<br>10. Aggregate supply and demand analysis"
+    },
+    "weeklySchedule": "第一週(9/12)    經濟學簡介(Principles of Economics)<br>第二週(9/19)    相互依存與交易利得(Interdependence and the Gains from Trade)<br>第三週(9/26)    供給與需求的市場力量(The Market Forces of Supply and Demand)(一)<br>第四週(10/3)    供給與需求的市場力量(The Market Forces of Supply and Demand)(二)<br>第五週(10/10)   停課，國慶日<br>第六週(10/17)   彈性與其應用(Elasticity and Its Application)<br>第七週(10/24)   供給、需求與政府政策(Supply, Demand, and Government Policies)<br>第八週(10/31)   消費者、生產者與市場效率(Consumers, Producers, and the Efficiency of Markets)<br>第九週(11/7)    期中考(Midterm Exam)<br>第十週(11/14)   生產成本(The Costs of Production)(一)<br>第十一週(11/21) 生產成本(The Costs of Production)(二)<br>第十二週(11/28) 完全競爭市場(Competitive Markets)<br>第十三週(12/5)  獨占(Monopoly)<br>第十四週(12/12) 獨占性競爭(Monopolistic Competition)<br>第十五週(12/19) 寡占(Oligopoly)<br>第十六週(12/26) 一國國民所得的衡量(Measuring a Nation’s Income)<br>第十七週(1/2)   生產與經濟成長(Production and Growth)<br>第十八週(1/9)   期末考(Final Exam)",
+    "exams": {
+        "midterm": "期中考試/佔總成績比重35%",
+        "final": "期末考試/佔總成績比重35%",
+        "other": "出席, 作業, 平時表現(佔總成績比重30%)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解個別消費者的決策行為",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解個別消費者的決策行為",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "應用整體經濟的洞察力於經營管理上的問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解全球經濟狀況及分析其未來趨勢",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "經濟學(Gregory Mankiw: Principles of Economics 9/E)",
+        "author": "王銘正",
+        "publisher": "東華書局",
+        "year": "2020",
+        "ISBN": "978-957-9282-65-9",
+        "edition": "六版"
+    },
+    "referenceBooks": "1.Principles of Economics(8th ed.), 2017 N. Gregory Mankiw,華泰文化. ISBN：9789814780230<br>2.經濟學4/e, 2016 Paul Krugman, Robin Wells, 倪仁禧 謝振環 譯, 東華書局. (Paul Krugman, Robin Wells: Economics, 4th ed.). ISBN：9789574838622<br>3.經濟學(第五版), 2016 張清溪, 許嘉棟, 劉鶯釧, 吳聰敏, 雙葉書廊. ISBN：9789574337620<br>",
+    "teachingSoftware": "無",
+    "rules": "無"
+}

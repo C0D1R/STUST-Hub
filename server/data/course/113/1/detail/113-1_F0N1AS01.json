@@ -1,0 +1,118 @@
+{
+    "code": "F0N1AS01",
+    "name": {
+        "zh": "行銷學",
+        "en": "Foundation of Marketing"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技資傳二甲",
+        "夜四技視傳二甲",
+        "夜四技多樂二甲"
+    ],
+    "instructors": [
+        "黃瓊儀"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "W0406"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "W0406"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "W0406"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.TBSA初階商務企劃認證",
+        ""
+    ],
+    "description": "本課程乃有系統地探討行銷管理理論及其應用，強調重要觀念的解析，並以國內外實例與生活見聞來解釋學理的應用。藉以提升同學對行銷議題的興趣，並培養同學分析與解決行銷問題的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 行銷學的基本觀念<br>2. 行銷環境<br>3. 行銷資訊與行銷研究<br>4. 消費者市場與消費者行為<br>5. 組織市場與組織購買行為<br>6. 市場區隔、目標市場、定位<br>7. 產品基本概念與產品屬性<br>8. 新產品發展與產品生命週期<br>9. 服務之行銷管理<br>10. 價格訂定<br>11. 行銷通路管理<br>12. 零售、批發、物流<br>13. 推廣基本觀念<br>14. 廣告與促銷<br>15. 人員銷售、直效行銷、公關<br>16. 行銷執行與控制<br>17. 行銷道德",
+        "en": "1. Introduction of the Course and Marketing<br>2. The Marketing Environment<br>3. Marketing Information, Market Research, &amp; STP<br>4. Consumer Behavior &amp; Business Buyer Behavior<br>5. Product Strategies<br>6. Pricing Strategies<br>7. Midterm<br>8. Promotion Strategies<br>9. Placing Strategies<br>10. Online Marketing &amp; Global Marketing<br>11. Social Media Marketing<br>12. Social Responsibility and Ethics<br>13. Final Presentation<br>14. Final Presentation<br>15. Final Exam"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學生透過課堂個案討論，提出企業個案行銷問題的解決方案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能夠仔細觀察行銷事件、合理陳述問題，具有綜合、統整、判斷與推理的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生分組企劃與執行行銷專案，能夠在自身單項工作上具備分析及洞察工作團隊人性的能力，並得以具備管理工作場合的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生透過教師的課程講授，熟悉行銷理論演進。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

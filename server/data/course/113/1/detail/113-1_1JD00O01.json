@@ -1,0 +1,135 @@
+{
+    "code": "1JD00O01",
+    "name": {
+        "zh": "生物統計學",
+        "en": "Biostatistics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技高福三甲"
+    ],
+    "instructors": [
+        "胡小玫",
+        "陳美珠"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "E0204"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "E0204"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.建立邏輯推理和機率的初步概念。<br>2.建立生物統計學的基本概念－母全體、樣本及抽樣。<br>3.了解及正確判別各種變項的類別。<br>4.了解常態分佈。<br>5.了解在統計及處理不同的變項資料時，應選用何種適當的統計方法。<br>6.了解描述性統計學、及分析性統計學的基本應用－如何以樣本的統計值來推論母群體的母數。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、生物統計學緒論－統計的基本邏輯及概念<br>二、資料的整理與呈現<br>三、母全體、樣本及抽樣<br>四、等距變項的統計：等距變項的敘述-集中趨勢<br>五、等距變項的統計：等距變項的敘述-變異性<br>六、等距變項的統計：常態分佈及其應用<br>七、等距變項的統計：單一變項的推論Z-test<br>八、等距變項的統計：以二組樣本推論二個母全體Z-test<br>九、等距變項的統計：以一組或二組樣本推論一個或二個母全體 t-test<br>十、二項類別變項的統計－卡方檢定<br>十一、電子計算機試算<br>十二、One Way ANOVA（簡介）;二項等距變項的統計－簡單直線迴歸及相關<br>十三、分組讀報（作業報告）",
+        "en": "1.Statistical Concepts<br>2.Data sort out and present<br>3.Population &amp; Sample<br>4.Narration of isometric variables-Central tendency<br>5.Narration of isometric variables-Variability<br>6.Statistics of isometric variables: normal distribution and its applications<br>7.Statistics of equidistant variables: the inference of a single variable Z-test<br>8.Statistics of isometric variables: infer Z-test from two groups of samples<br>9.Binominal Variable; chi-square test<br>10.Variance<br>11.One-Way Analysis of Variance; One-Way ANOVA<br>12.Simple Liner Regression &amp; Correlation<br>13.Multivariate Analysis (1)<br>14.Multivariate Analysis (2)<br>15.Nonparametric Tests"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立邏輯推理和機率的初步概念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立生物統計學的基本概念－母全體、樣本及抽樣。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解及正確判別各種變項的類別。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解常態分佈。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解在統計及處理不同的變項資料時，應選用何種適當的統計方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解描述性統計學、及分析性統計學的基本應用－如何以樣本的統計值來推論母群體的母數。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

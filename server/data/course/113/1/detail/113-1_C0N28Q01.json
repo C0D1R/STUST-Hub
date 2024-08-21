@@ -1,0 +1,116 @@
+{
+    "code": "C0N28Q01",
+    "name": {
+        "zh": "中英翻譯理論與習作",
+        "en": "Theory and Practice of Translation: Chinese into English"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜二技應英三甲",
+        "夜四技應英三甲"
+    ],
+    "instructors": [
+        "周俊男"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "N202"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "N202"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "N202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course will focus more on translation practices than on translation theories. Students are required to do practices in class every week.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. Introduction to Translation<br>2. Verbs<br>3. Propositions<br>4. Pronouns<br>5. Relative Clauses<br>6. Nouns<br>7. Long Sentences<br>8. Introduction to Enghlish-Chinese translation<br>9. Addition<br>10. Addition<br>11. Reduction<br>12. Combination<br>",
+        "en": "1. Introduction to Translation<br>2. Verbs<br>3. Propositions<br>4. Pronouns<br>5. Relative Clauses<br>6. Nouns<br>7. Long Sentences<br>8. Introduction to Enghlish-Chinese translation<br>9. Addition<br>10. Addition<br>11. Reduction<br>12. Combination<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "Endow the students with the basic idea of how to perform Chinese-English translation.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Learn the basic ability to do a readable translation.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Study different translation strategies.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Students are required to be familiar with the strategy by doing many practices.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

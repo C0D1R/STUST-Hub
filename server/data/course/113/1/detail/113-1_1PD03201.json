@@ -1,0 +1,115 @@
+{
+    "code": "1PD03201",
+    "name": {
+        "zh": "創業名家講堂",
+        "en": "Entrepreneurial Spirit"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "綜合實踐領域"
+    ],
+    "instructors": [
+        "梁丹青"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "L508"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "L508"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "L508"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "自1980年代末，創業教育在全球爆炸性地成長，所有大專院校都有教授創業相關課程，本課程為通識「創業實務微學程」三門系列課程中的第一門課，由業界「創業教練」（具有創業經驗的業界與校友）帶領， 透過團隊分組創業個案討論與實作行動過程中， 實際體驗創業家所需具備的基本涵養、思維、精神與態度， 以及透過研討全球各大品牌創業與經營議題中發展創新解決方案（產品/服務/商業模式）所需克服的挑戰。 從而建立新創創業團隊所需之眼光、精神與執行力， 為真正踏入「新疫後商業市場」作準備。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.網路新時代的創業家<br>2.MICROSOFT　比爾．蓋茲：透過產品的「使用授權」創造財富，深諳稱霸市場的使力之道<br>3.DISNEY　華特．迪士尼：一路從創作者到製作人，再蛻變成創業家<br>4.FACEBOOK　馬克．祖克柏：把人們追求「想與人連結」的根本欲望，與網際網路結合起來<br>5.AMAZON　傑夫．貝佐斯：建立完整架構，才能保有成長能量，就算成為失敗專家也不怕<br>6.STARBUCKS　霍華．舒茲：以充滿渲染力的咖啡文化做為武器，不斷追求自我創新，終於大獲成功<br>7.UNIQLO　柳井正：否定現狀，需要付出10倍的努力。唯有能做到這一點的人與組織，才能立於不敗之地<br>8.APPLE　史蒂夫．賈伯斯：用高科技產品創造神話，打造一個堅持貫徹「用戶體驗」的品牌<br>9.期中調查-反饋/ 創業家心得報告<br>10.McDONALD'S　雷．克洛克：50多歲還在不斷精進的業務員，終於找到最棒的商品，成為超級富豪<br>11.TESLA　伊隆．馬斯克：胸懷大志，再結合技術創新與一流人才，發展成改變社會的重大力量<br>12.小米　雷軍：對蘋果賈伯斯的崇拜，讓他在中國重新發明了一套用戶體驗<br>13.UBER　崔維斯．卡拉尼克：改變「移動概念」的共享乘車企業！以浮動價格與資訊科技，解決隨時都在變動的乘車需求<br>14.AIRBnB　布萊恩．切斯基：運用閒置空間與資訊科技，發展出全球最大的住房網<br>15.YOUTUBE　查德．赫利：YouTube推出一年，就達到月平均觀看人數3,000萬，驚人成長的背後理念，就是「輕鬆好用」<br>16.支付寶　彭蕾：從阿里巴巴衍生出創新的支付與金融服務平台<br>17.GOOGLE　賴瑞．佩吉 &amp; 謝爾蓋．布林：兩位天才程式設計師組成的團隊，用全新搜尋技術改變世界<br>18.創業家精神個案分析<br>",
+        "en": "Since the late 1980s, entrepreneurship education has grown explosively around the world, introducing entrepreneurship-related courses encouraging entrepreneurship. This is the first course in the three-course series of general “Entrepreneurship Practice Micro-Course”, inviting “Entrepreneurship Coaches” (industry and alumni with entrepreneurial experiences) to share their experiences with students; through team entrepreneurial case discussion and practical action process, student learn and experience the basic self-discipline, thinking, spirit and attitude that an entrepreneur needs. The entrepreneurship and business issues of major global brands will be discussed to develop innovative solutions (products/services/business models).The course cultivates the vision, spirit, and execution abilities required by a new entrepreneurial team, and preparations will be made to enter the “post-epidemic business market”!"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "創業家精神,讓學生們透過課程達到今年計畫訂定的新目標「創業精神啟發」。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "邀請本校校友、過往培訓之新創企業與各個產業的創業家和業師,分享不同產業的創業家經驗。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養創業個案分析問題、解決問題的能力，並練習分組創業個案的撰寫與報告。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "個案討論：（1）分析討論創業家個案，創業家精神、產業趨勢與創業契機以及（2）疫後商業模式，分析疫後的新服務與商業案例。藉由課堂上討論，可以作為點子發想的參考；可以藉由案例反思目前的商業模式有無創新機會。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

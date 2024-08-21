@@ -1,0 +1,207 @@
+{
+    "code": "1LD06A01",
+    "name": {
+        "zh": "東亞國際關係史",
+        "en": "The History of Eastern Asian International Relations"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "楊子震"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "W0503"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "W0503"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "W0503"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以「戰爭」「和平」與「革命」為主軸，講授及討論二十世紀的東亞國際關係，期能帶領學習者嘗試由「斷絕」「延續」的角度探究歷史與文化的相互關連。在分析東亞近現代史結構變化的同時，並敦促學習者嘗試思索臺灣與東亞諸國家、地域間人群、商品、貨幣等的交流與影響。除按時間順序描述國際秩序的變貌，並適時介紹民眾層面的生活變遷。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程首先介紹西力東漸對東亞的衝擊，再就政治及經濟層面分析，循序講授辛亥革命、第一次世界大戰、殖民地化與近代化、第二次世界大戰、韓戰、越戰、文化大革命等歷史主題。並於可能的範圍內，兼論東亞女權運動的開展、婦女參政權的擴大、女性政經地位的轉變等性別平等議題。",
+        "en": "This course is an introduction to the modern history of East Asia. Starting with the western impact of East Asia, students will learn important events from political and economic perspectives including Xinhai Revolution, First World War, colonization and modernization, Second World War, Korean War, Vietnam War, and Cultural Revolution. In addition to political and economic discussions, we will also explore gender equality issues in East Asia like the development of women's rights movement, the popularization of women's voting right and the changing role of women in political and economic areas."
+    },
+    "weeklySchedule": "本課程預定以「社會」「文化」為主軸，討論東亞諸國間的相互關係。<br><br>一、東亞的近代──十九世紀<br>二、日俄戰爭與日韓合併──十九世紀末<br>三、世界戰爭與改造──一九一〇年代<br>四、社會主義與民族主義──一九二〇年代<br>五、新秩序的摸索──一九三〇世紀<br>六、亞洲太平洋戰爭與「大東亞共榮圈」──一九三五年～一九四五年<br>七、亞洲諸戰爭的時代──一九四五年～一九六〇年<br>八、越戰的時代──一九六〇年～一九七五年<br>九、經濟發展與民主革命──一九七五年～一九九〇年<br>十、邁向和解與合作的未來？──一九九〇年以後迄今",
+    "exams": {
+        "midterm": "出席缺曠",
+        "final": "紙筆測驗",
+        "other": "日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解二十世紀東亞國際關係的內涵及其發展演進。",
+            "teachingMethods": [
+                "課堂講授",
+                "成果驗收",
+                "參觀實習",
+                "啟發思考",
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由深化對歷史與文化的理解，從而強化本土意識，進而放眼國際。",
+            "teachingMethods": [
+                "課堂講授",
+                "成果驗收",
+                "參觀實習",
+                "啟發思考",
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有系統、有組織地整理所學知能。",
+            "teachingMethods": [
+                "課堂講授",
+                "成果驗收",
+                "參觀實習",
+                "啟發思考",
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能就所學以口頭或文字論述東亞國際關係史的「斷絕」與「延續」。",
+            "teachingMethods": [
+                "課堂講授",
+                "成果驗收",
+                "參觀實習",
+                "啟發思考",
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能對歷史整體有更深層、寬廣的認識了解。",
+            "teachingMethods": [
+                "課堂講授",
+                "成果驗收",
+                "參觀實習",
+                "啟發思考",
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "東亞近現代通史：從19世紀至今的地域史（上、下）",
+        "author": "和田春樹、後藤乾一、木畑洋一、山室信一、趙景達、中野聰、川島真",
+        "publisher": "聯經",
+        "year": "2024",
+        "ISBN": "9789570872989",
+        "edition": "初版"
+    },
+    "referenceBooks": "1. 艾瑞克．霍布斯邦（鄭明萱譯），《極端的年代1914-1991》上‧下（臺北：麥田，1996年）<br><br>2. 艾瑞克．霍布斯邦（賈士蘅譯），《帝國的年代》（臺北：麥田，1997年）<br><br>3. 東亞三國的近代史共同編寫委員會，《東亞三國的近現代史》（香港：三聯，2005年）<br><br>4. 安德魯．戈登著（李朝津譯），《二十世紀日本:從德川時代到現代》（香港：香港中文大學，2007年）<br><br>5．李德哈特（鈕先鍾譯），《第二次世界大戰戰史》上‧中‧下（臺北：麥田，2008年）<br><br>6. 蔣竹山、陳俊強、李君山、楊維真，《巨龍的蛻變：中國1840至2008─》（臺北：五南，2009年） <br><br>7．中日韓三國共同歷史編籑委員會，《超越國境的東亞近現代史》上‧下（香港：三聯，2013年）<br><br>8．李德哈特（林光餘譯），《第一次世界大戰戰史》上‧下（臺北：麥田，2014年）<br><br>9．保羅．甘迺迪（張春柏、陸乃聖譯），《霸權興衰史：1500至2000年的經濟變遷與軍事衝突》（臺北：五南，2014年，第三版）<br><br>10・周婉窈，《少年臺灣史：寫給島嶼的新世代和永懷少年心的國人》（臺北：玉山社，2014年）<br><br>11．約翰.托蘭（吳潤璿譯），《帝國落日：大日本帝國的衰亡 1936-1945》（新北：八旗文化，2015年）<br><br>12．周婉窈，《臺灣歷史圖說（第三版）》（臺北：聯經，2016年）<br><br>13．加藤陽子（黃美蓉譯），《日本人為何選擇了戰爭》（臺北：廣場，2016年）<br><br>14．北岡伸一（周俊宇、張智程、陳柏傑譯）《日本政治史》（臺北：麥田，2018年）<br><br>15. 張國城《國家的決斷：給台灣人看的二戰後國際關係史》（臺北：八旗文化，2019年）<br>",
+    "teachingSoftware": "",
+    "rules": "1．準時到課或全程出席有困難者，選課前建議請再三思。<br><br>2．課程進度得視實際需要調整。<br><br>3．詳細課程規範、評量方式等將於期初上課進行說明，請務必出席。<br><br>4．上課中嚴禁使用任何3C產品。<br><br>5．指定用書為課前預習、課堂討論所必需，請務必自行購入或確保長期借閱。<br>"
+}

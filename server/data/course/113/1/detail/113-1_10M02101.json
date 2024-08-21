@@ -1,0 +1,111 @@
+{
+    "code": "10M02101",
+    "name": {
+        "zh": "書報討論(三)",
+        "en": "Seminar(Ⅲ)"
+    },
+    "credit": "0",
+    "type": "必修",
+    "classes": [
+        "博研機電二甲",
+        "碩研機械二甲"
+    ],
+    "instructors": [
+        "劉雲輝"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第7節",
+            "location": "K007"
+        },
+        {
+            "day": "週三",
+            "period": "第8節",
+            "location": "K007"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程分成三大部分：專家學者專題演講、論文寫作與簡報技巧授課、學生專題研究或論文口頭報告。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.專家學者專題演講<br>2.基本寫作技巧<br>3.論文寫作<br>4.簡報製作<br>5.口語表達<br>6.學生專題研究或論文口頭報告 <br>",
+        "en": "1.expert speech on a special topic<br>2.foundamental writing technology<br>3.paper writing<br>4.briefing<br>5.expression<br>6.student report on a special topic"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "增進專業領域學術知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養心得報告寫作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養簡報技巧與提問能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養論文寫作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

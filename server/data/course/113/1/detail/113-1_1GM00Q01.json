@@ -1,0 +1,151 @@
+{
+    "code": "1GM00Q01",
+    "name": {
+        "zh": "高等管理理論",
+        "en": "Advanced Management Theories"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "博研經管一甲"
+    ],
+    "instructors": [
+        "洪一碩",
+        "張永佶"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "E0602"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "E0602"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "E0602"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Through the in-depth discussion of specific management theories, review of important literature, the guidance of professors and the peer observation and correction this course does not only try to help the students to get a wide range understanding of business management theories and improve the presentation and teaching abilities but also try to help the students to further clarify their future research direction.<br>This course focus on focuses on the mastery and application of management literature, with specific topics on a weekly basis, every student needs to present on assigned literature and discussing issues.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 策略的三構面<br>2. 價值<br>3. 效率<br>4. 資源<br>5. 結構<br>6. 競局<br>7. 統治<br>8. 互賴<br>9. 風險<br>10.生態<br>",
+        "en": "The scheduled topics are shown as follows:<br>1. The 3 dimensions of strategic management<br>2. Value perspective<br>3. Efficiency perspective<br>4. Resources perspective<br>5. Industrial structure perspective<br>6. Game theory perspective<br>7. Governance perspective<br>8. Interdependence perspective<br>9. Risk perspective<br>10.Ecology perspective"
+    },
+    "weeklySchedule": "1. The 3 dimensions of strategic management<br>2. Value perspective<br>3. Efficiency perspective<br>4. Resources perspective<br>5. Industrial structure perspective<br>6. Game theory perspective<br>7. Governance perspective<br>8. Interdependence perspective<br>9. Risk perspective<br>10.Ecology perspective<br>",
+    "exams": {
+        "midterm": "無",
+        "final": "期末報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "專業知識",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "資訊能力",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "問題分析",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "研究創新",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Complex organizations: a critical essy",
+        "author": "Charles Perrow",
+        "publisher": "McGraw-Hill",
+        "year": "1986",
+        "ISBN": "0-07-554799-6",
+        "edition": "3"
+    },
+    "referenceBooks": "Relevant academic papers informed before the class.",
+    "teachingSoftware": "Flip",
+    "rules": "attendance rate <br>discussion participation<br>final report"
+}

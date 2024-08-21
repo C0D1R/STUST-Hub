@@ -1,0 +1,115 @@
+{
+    "code": "F0N10401",
+    "name": {
+        "zh": "動態網頁程式設計",
+        "en": "Web Programming"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技資傳二甲"
+    ],
+    "instructors": [
+        "許擇瑋"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "W0606"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "W0606"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "W0606"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在學習設計網頁程式。透過PHP程式語言，將網頁動態呈現。並搭配MySQL管理資料庫。藉由實例的介紹，使學生了解動態網頁的開發與設計。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程介紹<br>2.PHP變數及資料型態<br>3.PHP的流程控制<br>4.PHP的函數<br>5.陣列、字串<br>6.表單處理<br>7.檔案存取<br>8.MySQL資料庫的使用<br>9.實例介紹",
+        "en": "1.Introduction to the course<br>2.Variants and data types of PHP<br>3.Procedure control<br>4.Functions<br>5.Arrays, Strings<br>6.Process of Forms<br>7.File access<br>8.The use of MySQL<br>9.Introduction to examples"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習動態網頁程式語言",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習建立一個動態網站",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習程式語言的邏輯概念與問題解決",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養團隊合作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

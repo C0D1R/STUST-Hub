@@ -1,0 +1,122 @@
+{
+    "code": "C0D5FD01",
+    "name": {
+        "zh": "英語故事的應用與實務",
+        "en": "The Application and Practice of English Story"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應英二甲"
+    ],
+    "instructors": [
+        "劉恬伶"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "N504"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "N504"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "English stories and picture books offer a variety of genres, rich language, colorful characters, and interesting storylines. They are not only the perfect tools to enhance learners’ English language learning and their understanding of the English culture but also an effective way to enhance English teaching. This course aims to train students with skills of teaching children's English through storytelling. Students will be taught how to select appropriate stories and make words come alive through voice, facial expression and body language. And, students will be provided and presented with various kinds of interesting stories and picture books to equip them with skills of teaching English to children.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "演示故事及繪本教案設計<br>故事及繪本提供什麼給外語學習者<br>介紹不同種類的故事與繪本<br>發音和押韻<br>故事及繪本與閱讀技巧<br>故事及繪本與語言習得<br>語言與文化學習<br>學習透過故事或繪本設計語言學習活動<br>",
+        "en": "Demonstration of a lesson plan with story and picture book<br>What a story or a picture book can offer for foreign language learners<br>Introducing different genres of stories and picture books<br>Pronunciation and rhymes<br>Reading skills and picture books<br>Picture books and language acquisition<br>Culture and language learning<br>How to design language learning activities with picture books<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "賞析具文學及藝術價值之故事",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解故事或繪本創作之理論與技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "如何挑選故事",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解如何將故事或繪本故事呈現給兒童的技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升智力及美學涵養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

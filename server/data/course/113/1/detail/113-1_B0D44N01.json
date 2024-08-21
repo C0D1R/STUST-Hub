@@ -1,0 +1,110 @@
+{
+    "code": "B0D44N01",
+    "name": {
+        "zh": "ESG與企業倫理",
+        "en": "ESG and Business Ethics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技休閒四甲"
+    ],
+    "instructors": [
+        "張婷玥"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "T0608"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "T0608"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.介紹企業倫理的立論基礎，主要內容為倫理學的基本概念。<br>2.探討企業倫理的主要議題，包含企業與各利益關係人的對應關係及權利義務。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "<br>(一）介紹企業倫理之內涵<br>（二）討論企業倫理與實踐態度<br>（三）探討企業倫理與人際關係<br>（四）企業倫理活動之規劃：休閒服務活動之設計<br>（五）企業倫理活動之實踐：休閒服務活動之實習<br>（六）企業倫理活動之檢討：休閒服務活動之反思與檢討",
+        "en": "<br>introduction<br>Ethical issues in business<br>Analysis of corporate ethics issues<br>Stakeholder management<br>Corporate citizenship<br>Moral philosophy<br>Manager's ethical development<br>Moral training of employees"
+    },
+    "weeklySchedule": "week 1:課程導論<br>week 2:單元一 企業的社會責任<br>week 3:單元一 企業的社會責任<br>week 4:單元三 專業經理人的經營倫理<br>week 5:單元三 專業經理人的經營倫理<br>week 6:倫理專題與討論(一)<br>week 7:單元二 道德法則與道德研判<br>week 8:單元二 道德法則與道德研判<br>week 9:期中考週<br>week 10:單元四 行銷倫理<br>week 11:單元四 行銷倫理<br>week 12:單元五 環境倫理<br>week 13:倫理專題與討論(二)<br>week 14:單元六 全球化經營的倫理問題<br>week 15:單元六 全球化經營的倫理問題<br>week 16:單元七 科技應用倫理<br>week 17:單元七 科技應用倫理<br>week 18:期末考週",
+    "exams": {
+        "midterm": "報告",
+        "final": "報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解企業倫理的內涵與實踐態度",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能利用電腦文書軟體進行個案報告",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能應用企業倫理之專業知識於時事或實務個案之討論",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能培養正確之企業公民的倫理觀",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "陳勁甫、許金田（2021），企業倫理：內外部管理觀點與個案，孫震、許士軍 審訂，新北市：前程文化，三版。",
+    "teachingSoftware": "略。",
+    "rules": "1. 請隨時留意Flipclass數位學習之課程訊息。 <br>2. 出席率與學習態度為本課程之重要成績評核項目。"
+}

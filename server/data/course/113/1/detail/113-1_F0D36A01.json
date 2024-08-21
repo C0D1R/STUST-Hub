@@ -1,0 +1,116 @@
+{
+    "code": "F0D36A01",
+    "name": {
+        "zh": "虛擬場景製作",
+        "en": "Virtual Studio Setting Learning"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資傳三甲",
+        "四技資傳三乙"
+    ],
+    "instructors": [
+        "洪士傑"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0608"
+        },
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "W0608"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "W0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程的目的在於創作3D虛擬場景，經由對一般場景創作軟體的熟練運用，未來銜接至虛擬攝影棚場景設計軟體的學習。學習者須能設計各種不同風格的虛擬場景，並掌握場景雕塑與美感的場景設計技巧。",
+    "prerequisites": "PS、AI",
+    "syllabus": {
+        "zh": "1.課程介紹<br>2.場景的設計流程與概念<br>3.場景創作分析<br>4.場景設計軟體的介紹<br>5.場景模型雕塑<br>6.材質設置、算圖設定<br>7.UV貼圖設置<br>8.燈光設置技法<br>9.場景整合應用<br>10.專案演練<br>11.作品評量<br>",
+        "en": "1.Course Introduction<br>2.3D Setting Design Processes<br>3.Types of Scene analysis<br>4.Introduction to the design software interface<br>5.Useing Mesh for Scene modeling<br>6.Materials &amp; Rendering setting<br>7.UV mapping &amp; Texturing<br>8.Lighting setting<br>9.Scene compound<br>10.Virtual Scene integrating Test<br>11.Final project<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "美學於虛擬場景製作之應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "虛擬場景節目企劃與製作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "動畫相關知識及技術於虛擬場景製作之應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "多媒體於虛擬場景製作之應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

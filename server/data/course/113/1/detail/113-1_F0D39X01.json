@@ -1,0 +1,116 @@
+{
+    "code": "F0D39X01",
+    "name": {
+        "zh": "數位影片專題製作",
+        "en": "Digital Video Production"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資傳四甲",
+        "四技資傳四乙"
+    ],
+    "instructors": [
+        "許擇瑋"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "W0608"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "W0608"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "W0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程將提供學生數位影像製作所需的理論與實務。<br>教授影片製作流程，劇本、企劃、拍攝、剪輯、完稿。<br>教導學生傳達想法、創意，應用於影片作品。<br>",
+    "prerequisites": "攝影，影片剪輯。",
+    "syllabus": {
+        "zh": "第1週，基礎理論<br>第2週，影片範例<br>第3-6週，劇本寫作<br>第7-8週，影片企劃<br>第9週，期中報告<br>第10-11週，基礎攝影<br>第12-13週，影片剪輯<br>第14-15週，特效製作<br>第16-17週，影片完稿<br>第18週，期末作品發表<br>",
+        "en": "Week 1, Basic Theory<br>Week 2, Film example<br>Weeks 3-6, Screenwriting<br>Weeks 7-8, Film planning<br>Week 9, Interim Report<br>Weeks 10-11, Film shoot<br>Weeks 12-13, Film clips<br>Week 14-15, Effects production<br>Week 16-17, Finished film<br>Week 18, Film Festival<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "劇本發想",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "拍攝企劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "攝影美學",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "製作與完稿",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

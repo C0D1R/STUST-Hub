@@ -1,0 +1,115 @@
+{
+    "code": "D0D1B801",
+    "name": {
+        "zh": "消費者行為",
+        "en": "Consumer Behavior"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技行流二甲"
+    ],
+    "instructors": [
+        "蘇子炘"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "T0208"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0208"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0208"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程針對消費者行為基礎、消費者的資訊處理與決策、消費者行為的微觀面與消費者行為的宏觀面四大部份講授，並針對中文個案做分析報告與討論。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、消費者行為基礎<br>二、消費者的資訊處理與決策<br>三、消費者行為的微觀面<br>四、消費者行為的宏觀面",
+        "en": "1.Introduction and Overview<br>2.Consumer Decision Process<br>3.Micro Perspective of Consumer Behavior<br>4.Macro Perspective of Consumer Behavior"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識消費者行為基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解認識消費者的資訊處理與決策",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識消費者行為的微觀面",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識消費者行為的宏觀面",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

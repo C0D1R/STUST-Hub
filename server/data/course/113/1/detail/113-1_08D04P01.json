@@ -1,0 +1,134 @@
+{
+    "code": "08D04P01",
+    "name": {
+        "zh": "英語圓桌會(一)(A)",
+        "en": "English Roundtable Forum (I)"
+    },
+    "credit": "2",
+    "type": "管制選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "李政源"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "W0401"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "W0401"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "In the roundtable discussion, students will have to assert their ideas and debate with others on a specific topic in English. Moreover, students will also cultivate the ability of analyzing information and expressing viewpoints for further exploration and discussion.<br>藉由分組討論特定議題的方式，來強化學生聽講英語的能力。學生必須以英語主導討論的進行以及學習以英語闡述意見與分析論述的技巧",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一 分組決定討論的組別<br>二 選擇欲進行的素材內容以及可供討論的問題。並須在課前繳交相關的計畫內容。<br>三 進行討論並輪流擔任桌長以引導討論。<br>四 針對同學發表討論內容作同儕互評。<br><br>",
+        "en": "1.Grouping for discussion<br>2.Choose topics for discussions and hand in projects about questions to lead discussion before the class starts.<br>3.Take turns to lead the discussions in class.<br>4.Do peer review after the discussion is done."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "To be able to discuss topics from different disciplines, and moral themes related to modern society",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to work together to have academic discussions on specific topics.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to express opinions and debate with others effectively in English.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to speak and listen in English to achieve effective interpersonal communication.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to use online resources to find information on specific topics",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to research on a topic and think critically.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

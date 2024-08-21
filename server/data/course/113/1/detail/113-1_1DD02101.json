@@ -1,0 +1,110 @@
+{
+    "code": "1DD02101",
+    "name": {
+        "zh": "流行音樂產業概論",
+        "en": "Introduction to Popular Music Industry"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技流音一甲"
+    ],
+    "instructors": [
+        "陳慧如"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0909"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0909"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程簡介流行歌曲之定義、流行音樂工作者之人格特質與職場倫理，並探討台灣及全球流行音樂產業之歷史、現況與趨勢。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、流行音樂之定義<br>二、流行音樂工作者之人格特質與職場倫理<br>三、台灣流行音樂產業之歷史與現況<br>四、全球流行音樂產業之現況與趨勢<br>",
+        "en": "1.Definition of Popular Music. <br>2.Personality Traits and Workplace Ethics of Pop Music Workers. <br>3.The History and Current Situation of Popular Music Industry in Taiwan.<br>4.Current Situation and Trends of Global Popular Music Industry."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解流行音樂之定義。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解台灣流行音樂產業之歷史與現況。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解全球流行音樂產業之現況與趨勢。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備口頭及書面報告之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

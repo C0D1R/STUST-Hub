@@ -1,0 +1,151 @@
+{
+    "code": "90N08501",
+    "name": {
+        "zh": "知識管理",
+        "en": "Knowledge Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技資管四甲"
+    ],
+    "instructors": [
+        "馮琡珺"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "T0210"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "T0210"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "T0210"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "從知識管理的11個面向，來探討知識管理，以作為企業知識管理的指引藍圖。",
+    "prerequisites": "無先修科目",
+    "syllabus": {
+        "zh": "週次  章名    課文頁數 <br>1    課程介紹 　<br>2    第1章    知識經濟導論—知識經濟時代 36<br>3    第2章    理論面觀點—知識管理的基礎理論 24<br>4    第3章    流程面觀點—知識管理生命週期 26 <br>5    第4章    管理面觀點—管理知識工作者 26<br>6    第5章    行為面觀點—推行知識管理下的員工行為 28<br>7    第6章    資本面觀點—商業智慧與智慧資本 24<br>8    第7章    策略面觀點—策略性知識資產 30<br>9    期中考 　<br>10   第8章    結構面觀點—組織學習與學習型組織 24<br>11   第9章    科技面觀點—知識管理科技與資料探勘 30<br>12   第10章   顧客面觀點—顧客知識與知識商務 24<br>13   第11章   績效面觀點—知識評量知識效能 20<br>14   第12章   法治面觀點—智慧財產權的佈局與保護 26<br>15   第13章   個案—中華汽車的知識管理 22<br>16   第14章   個案—統一超商的知識管理 14<br>17   企業經營者實務分享 　<br>18   期末考 　<br>",
+        "en": "Weeks Chapter        Pages<br>0     Introduction<br>1     Knowledge Economy Introduction -- Knowledge Economy Era 36<br>2     Theoretical Perspective -- Basic Theory of KM 24<br>3     Flow Perspective -- Life Cycle of KM 26<br>4     Management Perspective -- KM Manager 26<br>5     Behavior Perspective -- Implementing KM clerk behavior 28<br>6     Capital Perspective -- Business Intelligent and Intelligent capital 24<br>7     Strategic Perspective -- Strategic Knowledge Assets 30<br>8     Mid term Exam<br>9     Structural Perspective -- Organizational Learning and Learning Organization 24<br>10    Technology Perspective -- KM Technology and Data Mining 30<br>11    Customer Perspective -- Customer Knowledge and Knowledge Business 24<br>12    Accountability Perspective -- Knowledge Evaluation and Accountability 20<br>13    Legitimate Perspective -- Intellectual Property Protection 26<br>14    Case Study -- KM of \"中華汽車\"　　　　　　　　　　　　　　　22<br>15    Case Study -- KM of \"President SuperMarket\"<br>16    Knowledge share of Enterpreneur Management<br>17    Final Exam<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "對基礎知識觀念的創新、認知、呈現、流通、使用、再造或重復使用及管理，有能力瞭解、辨識、及體認和應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "有能力鑑賞和使用組織及機構內部的知識及知道如何克服典型知識管理的障礙",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解核心觀念、方法、技巧、及知識管理電腦系統工具進行知識管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道如何運用和整合各種知識管理系統的適當元素和功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "在組織知識的生產、製備、移轉、呈現、和交換過程中做好進階知識管理系統學習的準備",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "嚴謹的評估知識管理在現有企業和工業中的發展趨勢，思考發展出創新的可行性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能依系統需求組裝與選用適當的知識管理系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

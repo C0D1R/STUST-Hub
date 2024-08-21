@@ -1,0 +1,111 @@
+{
+    "code": "X0Q00601",
+    "name": {
+        "zh": "法學英文",
+        "en": "Legal English"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "碩專財法一甲",
+        "碩專財法二甲"
+    ],
+    "instructors": [
+        "許舜喨"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第11節",
+            "location": "S410"
+        },
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "S410"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "國際化的過程中英文是最重要的學習工具，即使學生程度不同，也希望於學年末可以讓大家都認識基礎的法律英文，進而增加出國或進一步研究的動力。本課程為介紹法學英文的基本詞彙及其意義，並透過案例研讀認識其實際使用文法及其在判決文意中之具體指涉。此外，亦將視學生需求簡介英美法律制度之歷史沿革及英美法律邏輯之真意，並配合英美法律電影賞析加深學生對於法學英文之興趣及印象。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 基礎英文<br>2. 基礎法律英文-字源<br>3. 用字遣詞<br>4. 句型結構<br>5. 修辭技巧<br>6. 案例摘要<br>7. 涉外法律文書<br>8. 法律意見書<br>",
+        "en": "basic legal English<br>vocabulary<br>grammar<br>case brief<br>legal opinion in writing<br>international litigation and arbitration<br>"
+    },
+    "weeklySchedule": "1.基礎英文<br>2. 基礎法律英文-字源<br>3. 用字遣詞<br>4. 句型結構<br>5. 修辭技巧<br>6. 案例摘要<br>7. 涉外法律文書<br>8. 法律意見書<br><br><br>a. basic legal English<br>b. vocabulary<br>c. grammar<br>d. case brief<br>e. legal opinion in writing<br>f. international litigation and arbitration<br>",
+    "exams": {
+        "midterm": "上台報告",
+        "final": "書面報告",
+        "other": "課堂表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解法律英文專業知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "增進翻譯法律專業之英文能力及理解力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建立對專業英文的正確態度",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "運用互動學習機會使得理論實務能相結合",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

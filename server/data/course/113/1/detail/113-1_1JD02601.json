@@ -1,0 +1,105 @@
+{
+    "code": "1JD02601",
+    "name": {
+        "zh": "身心機能活化運動",
+        "en": "Sports of physical and mental function activation"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "四技高福四甲"
+    ],
+    "instructors": [
+        "胡小玫"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "O304"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "中高齡健康活動管理屬於健康管理規劃中重要的一環，透過健康活動來實踐身心靈健康促進、防止中高齡者成為需介護者而能達到成功老化是其主要目的。本基礎研習課程規劃有(1)健康管理與活動管理之理論講座(2)情境模擬互動體驗課程，激發研習人員高層次的情意感受，能深化具備同理心的工作思維(3)樂齡身心機能活化運動與音樂照顧實務活動帶動，由了解初期的課程活動的規劃設計，到後來的專業及學生人力養成，能為健康活動管理者帶來另一個新的思考層面。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.身心機能活化運動在台實務解析與課程說明  2<br>2.溫熱運動I(活性溫熱組基礎動作說明、手肩背)  2<br>3.溫熱運動II(活性溫熱組手肩背膝腳)   2<br>4.手部筋力及伸展運動(手指棒)   4<br>5.全身協調及伸展運動(健康環)   4<br>6.團體競技運動(高爾槌球、賓果投擲)  2<br>7.團體活動分組競賽(高爾槌球、賓果投擲)  2<br>8.高齡者運動指導技巧  2<br>9.雲端科技與運動應用  2<br>10.綜合測驗/實務帶動   2<br>",
+        "en": "1.Course introduction for the sport of physical and mental function activation 2<br>2.Warm sport I 2<br>3.Warm sport II 2<br>4.The sport of hand strength and stretching 4<br>5.Whole body coordination and stretching 4<br>6.The sport of group competition 2<br>7.The competition of group 2<br>8.The skills of Seniors' sports instruction 2<br>9.The cloud technology applications in sports 2<br>10.Comprehensive test and practice 2<br>"
+    },
+    "weeklySchedule": "身心機能活化運動在台實務解析與課程說明 2<br>溫熱運動I(活性溫熱組基礎動作說明、手肩背) 2<br>溫熱運動II(活性溫熱組手肩背膝腳) 2<br>手部筋力及伸展運動(手指棒) 4<br>全身協調及伸展運動(健康環) 4<br>團體競技運動(高爾槌球、賓果投擲) 2<br>團體活動分組競賽(高爾槌球、賓果投擲) 2<br>高齡者運動指導技巧 2<br>雲端科技與運動應用 2<br>綜合測驗/實務帶動 2",
+    "exams": {
+        "midterm": "日常表現",
+        "final": "日常表現",
+        "other": "日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養中高齡健康活動管理人才",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "中高齡健康活動管理實務之體驗與操作學習",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養服務高齡者及身心障礙者之實務操作人員，增加服務種子人力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "受訓後成為健康活動管理指導者，擔任機構中辦理健康活動管理之服務人員",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

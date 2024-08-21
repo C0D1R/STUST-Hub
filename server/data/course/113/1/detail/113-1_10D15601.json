@@ -1,0 +1,160 @@
+{
+    "code": "10D15601",
+    "name": {
+        "zh": "工廠管理",
+        "en": "Management of Factory Facilities"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技製造四甲",
+        "四技製造四乙"
+    ],
+    "instructors": [
+        "曾信智"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "R402"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "R402"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "R402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程內容概述分別依以往、現況與未來趨勢作系列介紹，其內容包括工廠規模型態、組織制度、規劃管理、工作研究、品質管理、生產管制與工安衛生暨環保與應用實例講解。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一.廠務規劃與管理<br>二.工廠組織、計畫與運作<br>三.工廠佈置與品質管理<br>四.產品研發及工作研究<br>五.生產計畫與管制<br>六.物料與採購管理<br>七.成本分析與行銷管理<br>八.人力資源管理<br>九.專案管理<br>十.工業安全與環保<br>十一.案例講授",
+        "en": "1. Factory Planning and Management<br>2. Factory organization, planning and operation<br>3. Factory layout and quality management<br>4. Product development and work research<br>5. Production planning and regulation<br>6. Material and procurement management<br>7. Cost analysis and marketing management<br>8. Human resources management<br>9. Project management<br>10. Industrial safety and environmental protection<br>11. Case Teaching and Studying"
+    },
+    "weeklySchedule": "第1週：課程介紹、工廠管理概論、智慧製造簡介與全球化市場布局、產業發展趨勢；<br>第2〜3週：工廠佈置與設計、工廠組織與績效評估、產品生命周期管理與習作測驗；<br>第4〜5週：廠務及人資管理、團隊合作、危機管理、安全管理、實務案例與習作測驗；<br>第6〜7週：生產管理、生產計劃系統與產線流程控管、生產實務案例應用與習作測驗；<br>第8〜9週：作業管理、設備維護管理、自動化生產管理系統、實務案例與習作測驗；<br>第10〜11週：產品研發、數據分析與系統整合、技術創新案例、習作測驗與期中考試；<br>第12〜13週：供應鏈管理、物料採購管理、企業資源規劃管理、庫存管理與習作測驗；<br>第14〜15週：成本管理、品質管理、專案管理、精實績效管理、實務案例與習作測驗；<br>第16〜17週：綠能低碳與環境永續、ISO制度、工安環境管理、分組報告與習作測驗；<br>第18週：實務案例應用、課程總結與期末考試。<br>",
+    "exams": {
+        "midterm": "30%，筆試",
+        "final": "30%，筆試",
+        "other": "40%，課堂習作筆記、心得與分組報告、平時測驗與學習態度精神"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能具有廠務規劃與生產管理技術的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能具有生產實務與解析處理問題的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解工廠整合運用技術設備及其應用領域",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能具備對工廠生產與實務應用基本技術",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解生產管理與問題處理所運用工具與方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材及其相關參考資料",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "(1)王獻彰編譯，工廠管理-全華圖書公司，2010/05(ISBN:978-957-21-7613-9)。<br>(2)陳石棚、劉莉真編著，工廠管理，高立圖書公司，100/09(ISBN:978-957-584-193-5)。<br>(3)王士峰等編著，生產與作業管理，普林斯頓公司。<br>(4)謝財源編著，品質管理，中華民國品質管制學會。<br>(5)顏登通編著，高科技廠務，全華圖書公司(第三版)，99/05(ISBN:978-957-21-8092-1)。<br>",
+    "teachingSoftware": "教學影片。",
+    "rules": "1.請自備筆記；<br>2.請同學尊重智慧財產權，使用正版教科書，不得非法影印，以免觸犯智慧財產權相關法令。<br>"
+}

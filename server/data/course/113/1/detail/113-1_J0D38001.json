@@ -1,0 +1,135 @@
+{
+    "code": "J0D38001",
+    "name": {
+        "zh": "專案計畫與市場調查",
+        "en": "project planning and surveying"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "二技創設三甲",
+        "四技創設三甲"
+    ],
+    "instructors": [
+        "陳一夫"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "W0509"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "W0509"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以專案設計模式進行計劃與調查，讓學生了解設計前期作業的目標需求來源，並非天馬行空的想像，而是能達到「有目的」的設計，且能深入了解市場調查者與消費者、企業的關係。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.專案計畫與市場調查概念 <br>2.市場調查的程序 <br>3.次級與初級資料的蒐集 <br>4.訪談設計<br>5.問卷設計<br>6.問卷統計與分析方法<br>7.專案計畫內容與程序<br>8.專案預算規劃<br>9.專案執行與控制<br>10.專案提報與溝通技巧<br>",
+        "en": "1.The Basic Concept of Project Management and Market Survey<br>2.The Process of Market Survey<br>3.The First and Secondary Data Collection<br>4.Interview Design<br>5.Questionnaire Design<br>6.Statistics and Analysis Methods<br>7.The Content and Process of Project Planning<br>8.Budget Planning<br>9.Project Implement and Control<br>10.Project Presentation<br>"
+    },
+    "weeklySchedule": "09/09課程介紹<br>09/16市場調查內容與程序<br>09/23問題定義工作坊<br>09/23次級資料調查<br>09/30作業1：參考案例分析<br>10/07初級資料調查：訪談設計<br>10/14作業2：訪談大綱或問卷設計工作坊<br>10/21初級資料調查：問卷設計<br>10/28問卷/訪談調查<br>11/04問卷/訪談資料分析<br>11/11期中報告：專題市場調查報告<br>11/18專案計畫內容與程序<br>11/25專案計畫執行<br>12/02專案計畫進度控制<br>12/09專案預算規劃<br>12/16專案簡報與溝通技巧<br>12/23專案計畫書初稿研討(一)<br>12/30專案計畫書初稿研討(二)<br>01/06期末報告：專案計畫書報告<br><br><br><br>",
+    "exams": {
+        "midterm": "專題市場調查分析",
+        "final": "專案計畫書",
+        "other": "參考案例分析、訪談大綱或問卷設計"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識「專案計畫」的概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "認識「市場調查」的概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "體認市場調查與企業經營的關係",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "體認市場調查與行銷的關係",
+            "teachingMethods": [
+                "參觀實習"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學會市場調查的研究與分析方法",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "幫助學生瞭解市場調查在實務上之應用",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.洪錦魁(2024)，世界第1強ChatGPT Turbo自學魔法寶典，臺北市：深智數位。<br>2.莊銘國、卓素絹（2022），創新思考與商業文書撰寫，臺北市：五南圖書。<br>3.梁世武(2015)，市場調查(三版)，新北市：普林斯頓國際<br>4.蕭培元，2017，眾籌募資：實戰行銷策略，新北市：博碩文化。<br><br><br><br>",
+    "teachingSoftware": "word、excel、chatgpt",
+    "rules": "1.本課程獲USR萌芽型計畫補助印刷費與材料費。<br>2.為培養學習態度，老師會每堂課點名並列入成績評量，生病或有要事未能出席請先請假告知原因，敬請大家注意！<br>3.工作坊、小組討論、作業與報告需各組員共同參與，學期末會進行「小組成員互評」，將作為加減分重要依據。<br>4.請同學尊重智慧財產權，使用正版教科書，不得非法影印，不得抄襲參考資料，以免觸犯智慧財產權相關法令。<br><br><br><br><br>"
+}

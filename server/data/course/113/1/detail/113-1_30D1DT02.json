@@ -1,0 +1,187 @@
+{
+    "code": "30D1DT02",
+    "name": {
+        "zh": "電路學",
+        "en": "Electric Circuits"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電子二乙"
+    ],
+    "instructors": [
+        "蔣富成"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第1節",
+            "location": "P302"
+        },
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "P302"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "P302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹電路的變數、電路元件及各種電路的分析技巧與電路的響應，使學生了解電路分析的觀念及各種計算電路的方法，能在電路設計時應用既有的觀念與方法解決問題、加強工程實務基礎。",
+    "prerequisites": "物理(電學)、微分方程",
+    "syllabus": {
+        "zh": "1.電路的變數2.電路元件3.簡單的電阻性電路4.電路分析技巧5.電感電容及互感6.一階RL與RC電路的響應",
+        "en": "1.Circuit Variables2.Circuit Element3.Simple Resistive Circuits4.Techniques of Circuit Analysis5.Inductance, Capacitance, and Mutual Inductance6.Response of First-Order RL and RC Circuits"
+    },
+    "weeklySchedule": "1 電路變數2.電路元件3.電阻電路4.電路分析技巧5.運算放大器6.電感電容與電導7.一階電路8.RLC電路自然響應與步級響應9.弦波穩態分析",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "課堂觀察+筆試+出席率"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解電路分析觀念與各種電路計算方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "電路設計時應用既有的方法解決問題,加強實務基礎",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能選擇正確的元件或電路架構，改進電路的性能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉電路學基本知識，建立電子科技終身學習之科技基礎",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "透過作業書寫與討論訓練學生問題溝通",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "電路學(上)",
+        "author": "朱堃誠 李大輝 王信雄編譯",
+        "publisher": "滄海書局",
+        "year": "2020",
+        "ISBN": "978-986-7696-26-7",
+        "edition": "2"
+    },
+    "referenceBooks": "電路學概論 全華書局 賴柏洲  2020年第二版 978-986-503-497-9",
+    "teachingSoftware": "請上網自行下載",
+    "rules": "上課期間,請勿缺席,遲到,吃東西,划手機,聊天,睡覺期中考試,期末考試與平時考試答題務必將式子完整寫出,只寫答案或式子不完整不予計分!"
+}

@@ -1,0 +1,110 @@
+{
+    "code": "08D04I01",
+    "name": {
+        "zh": "英文閱讀(一)(A)",
+        "en": "English Reading (Ⅰ)"
+    },
+    "credit": "2",
+    "type": "管制選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "黃淑娥"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "T0210"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "T0210"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This elective English course is offered for all STUST students. It aims to enhance students’ English reading skills.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 能流暢地朗讀文章段落。<br>2. 能理解整篇文章大意。<br>3. 能分辨文章結構及類別。<br>4. 能啟發創意思考及批判思考能力。<br>",
+        "en": "1. Students will be able to read the texts fluently.<br>2. Students will be able to understand the texts.<br>3. Students will be able to identify the structure and genre of the texts.<br>4. Students will be able to develop creative and critical thinking skills.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能具備基本人文素養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以適當的英文用語表達意思及溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能流暢地讀出整篇文章及理解整篇文章大意",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備創意思考及批判思考能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

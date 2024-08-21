@@ -1,0 +1,116 @@
+{
+    "code": "1GM01001",
+    "name": {
+        "zh": "高等統計資料分析方法",
+        "en": "Advanced Statistical Data Analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研經管二甲"
+    ],
+    "instructors": [
+        "顏慧"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "E0601"
+        },
+        {
+            "day": "週三",
+            "period": "第7節",
+            "location": "E0601"
+        },
+        {
+            "day": "週三",
+            "period": "第8節",
+            "location": "E0601"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The objective of this course is to enhance the statistical data analytic ability for PhD students majored in business or social sciences, to help them analyze their research data appropriately. <br><br>The course content covers not only methodologies for analyzing the cross-sectional data but also those for analyzing the longitudinal data (time series, panel data, etc.). Because some of these techniques are rather advanced, students are expected to have some background in elementary statistical data analysis. <br><br>We will emphasize the concept of every given technique and its use, will demonstrate its application by examples, and will help students learn how to interpret the resulting output obtained from the widely used statistical package SPSS (Statistical Package for Social Sciences) , AMOS (Analysis of moment structures), STATA (statistical software for data science), and HLM (Hierarchical Linear Modeling), etc.",
+    "prerequisites": "Elementary Statistical Data Analytic Methods",
+    "syllabus": {
+        "zh": "1.\tRegression<br>2.\tLogistic Regression<br>3.\tAnalysis of Covariance (ANCOVA)<br>4.\tMediation Analysis<br>5.\tModeration Analysis<br>6.\tCommon Method Variance (CMV)<br>7.\tThe Multitrait-Multimethod Model<br>8.\tThe Latent Growth Curve Method (LGM)<br>9.\tThe Latent Class Model (LCM)<br>10.\tTime Series and Panel Data Analysis<br>11.\tHierarchical Linear Modeling (HLM)",
+        "en": "1.\tRegression<br>2.\tLogistic Regression<br>3.\tAnalysis of Covariance (ANCOVA)<br>4.\tMediation Analysis<br>5.\tModeration Analysis<br>6.\tCommon Method Variance (CMV)<br>7.\tThe Multitrait-Multimethod Model<br>8.\tThe Latent Growth Curve Method (LGM)<br>9.\tThe Latent Class Model (LCM)<br>10.\tTime Series and Panel Data Analysis<br>11.\tHierarchical Linear Modeling (HLM)"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "To be able to distinguish between cross-sectional data and longitudinal data.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to analyze cross-sectional data and longitudinal data using appropriate statistical methods.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to apply statistical packages for analysis and interpret their resulting outputs properly.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to understand the relative statistical analyses in journal articles.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

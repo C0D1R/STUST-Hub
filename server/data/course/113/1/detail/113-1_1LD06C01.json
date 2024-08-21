@@ -1,0 +1,115 @@
+{
+    "code": "1LD06C01",
+    "name": {
+        "zh": "當代表演敘事美學",
+        "en": "Narrative of Contemporary Performance Art"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "楊美英"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0407"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "T0407"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "T0407"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "劇場表演為多元藝術的總和。綜觀當代表演藝術的發展趨勢，從傳統劇場模式邁向非典型、日常生活的場域，以及跨領域的的合作與對話，蔚為風潮，更是文化創意產業的重要驅動力。對應台灣當代劇場版圖，自從八零年代以來蓬勃發展，繁花錦簇、眾聲喧嘩，形形色色的創新表演敘事美學，展現旺盛的活力。<br>本課程將以當代劇場生態的多元化角度切入，受到了挑戰傳統表演思維的影響，各種文化思潮、科技進步、藝術創新等力量介入，希望能夠透過文件閱讀、表演文本賞析、分組交流討論等方式，引介猶如萬花筒的當代劇場美學，包括劇場藝術的各種應用場域和社群，認識當代的表演敘事美學，諸如沉浸式、參與式劇場，觸及跨領域、跨文化的藝術創作，進行相關作品賞析與討論，從中認知當代表演敘事的表現手法、及其實踐的新內涵，學習合作與對話的重要精神，以期裨益創造力的增進與整合觀念的啟發。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、表演的定義<br>二、劇場的空間形式<br>三、總體劇場的概念<br>四、當代表演藝術的液體化趨勢：當空間成為敘事、當觀眾成為演員<br>五、舞蹈劇場、音樂劇場<br>六、科技與藝術、多媒體互動劇場<br>七、跨越或融入環境的劇場創作<br>八、表演與日常的疆界何在<br>九、表演的力量：民眾劇場、社區劇場<br>十、應用劇場的多元面向<br>",
+        "en": "<br>This course will be based on the diversification of contemporary theater ecology. It is hoped that through the reading of documents, performance analysis, group discussion and other methods, we will begin to understand the definition of the performance and the spatial form of the theater, and then introduce the aesthetics of contemporary theater like a kaleidoscope. Including a variety of application fields and communities of theater art, understanding contemporary performance narrative aesthetics, such as immersive, participatory theaters, touching cross-domain, cross-cultural artistic creation, appreciating and discussing related works, and recognizing contemporary performance narratives The expression of the technique, the new connotation of its practice, and the important spirit of learning cooperation and dialogue.<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "綜觀當代表演藝術的發展趨勢，吸收藝術美學的知識，瞭解人與空間的相對關係，啟發廣泛學習的興趣，擴展人文視野。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識當代表演敘事美學，諸如沉浸式、參與式劇場，進行相關作品賞析與討論，學習欣賞他人作品，及表達自身理念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認知當代表演敘事的表現手法、及其實踐的內涵，學習其中合作與對話的重要精神，參與分組活動，與人互助合作、交流並且共同努力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "開發多元的藝術美學潛能，提高對生活與藝術有感的能力，裨益創造力的增進與整合觀念的啟發。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,156 @@
+{
+    "code": "C0N2A101",
+    "name": {
+        "zh": "英文兒童文學",
+        "en": "English Literature for Children"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技應英二甲"
+    ],
+    "instructors": [
+        "張韶華"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "N309"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "N309"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "N309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The course will lead the students to read English literature for children and to help the students to improve the reading skill and to understand the western culture. In class, by discussing the contexts of the literary works, students can interpret the literary works from different perspectives",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.Explore literary works for children<br>2.Understand literary theories<br>3.Understand the background of literary works<br>4.Enhance aesthetic development through reading literary works",
+        "en": "1.Explore literary works for children<br>2.Understand literary theories<br>3.Understand the background of literary works<br>4.Enhance aesthetic development through reading literary works"
+    },
+    "weeklySchedule": "Week 1: Introduction, topic back to school<br>Week 2: topic: back to school<br>Week 3: topic: me, myself<br>Week 4: topic: me, myself<br>Week 5: topic: life<br>Week 6: topic: life<br>Week 7: topic: Grief and Loss<br>Week 8: topic: Grief and Loss<br>Week 9: mid-term book report<br>Week 10: topic: humor<br>Week 11: topic: humor<br>Week 12: topic: accepting differences<br>Week 13: topic: accepting differences<br>Week 14: topic: community<br>Week 15: topic: community<br>Week 16: topic: fairy tales<br>Week 17: topic: fairy tales<br>Week 18: final book report",
+    "exams": {
+        "midterm": "Mid-term oral and written book report",
+        "final": "Final oral and written book report",
+        "other": "homework and classroom activitities"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解英文兒童文學的種類",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解英文兒童文學的文化內涵",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "知道如何運用兒童文學在兒童英語教學",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "增進閱讀英文兒童文學的能力",
+            "teachingMethods": [
+                "分組討論",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "增進詮釋英文兒童文學的能力",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "attendance 15%<br>homework 35%<br>mid-term written and oral report 25%<br>final written and oral report 25%"
+}

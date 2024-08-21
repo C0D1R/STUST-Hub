@@ -1,0 +1,111 @@
+{
+    "code": "01D15Z01",
+    "name": {
+        "zh": "實用中文",
+        "en": "Applied Chinese"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專化材三甲",
+        "五專資工三甲"
+    ],
+    "instructors": [
+        "高碧玉"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "D203"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "D203"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "全球化時代的到來，現代公民必須具備倫理、民主、科學、美學、媒體、環境等素養，方有足夠的決斷力面對資訊多元的社會。本課程以此為依據選編相關相關篇章、設計對應之活動與討論內容，冀求人文素養、閱讀表達能力與現代公民素養之陶塑能相互融貫。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.導論<br>2.閱讀的功能與樂趣<br>3.書寫與表達基本原理<br>4.中文各項文類評析<br>5.文學作品中各項人生議題之探討<br>6.實用文書基本能力<br>7.聽說讀寫綜合表達訓練",
+        "en": "1. Introduction<br>2. The function and pleasure of reading<br>3. The basic principle in writing and expression<br>4. Evaluates all kind of Chinese literature type<br>5. The discussion of life issues in literary work<br>6. Practical word processing ability<br>7. The expression training: Hearing、speaking、reading and writing"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能理解各類型文本的意義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能統整所學的各類型知識並清晰表達",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能與同組成員積極正面的合作以完成課程所要求之任務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由文本之閱讀，能潛移默化，善盡做為世界公民與國家公民之義務。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

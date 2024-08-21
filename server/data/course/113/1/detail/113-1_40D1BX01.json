@@ -1,0 +1,127 @@
+{
+    "code": "40D1BX01",
+    "name": {
+        "zh": "自主學習(六)",
+        "en": "Self study (Ⅵ)"
+    },
+    "credit": "1",
+    "type": "管制選修",
+    "classes": [
+        "四技化材二甲",
+        "四技化材三甲",
+        "四技化材三乙",
+        "四技化材四甲",
+        "四技化材四乙"
+    ],
+    "instructors": [
+        "賴孝武"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程擬利用一學分的規劃，以學生自主學習的企圖心，引導學生了解可再生能源的種類、能源效率、或更先進更清潔的石化燃料科技技術，促使其提升掌握自我學習的主導權；此外，也讓學生做中學體驗可再生能源 (如太陽能) 轉變為化學能儲存 (如氫氣)，再轉變為電能、動能 (燃料電池車) 的流程，引導學生發想將可再生能源整合智慧化工與其創意探索相關應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.學生明列學習標的<br>2.學生闡述學習標的選取理由<br>3.師生共同討論學習計畫<br>4.學生依計畫自主學習<br>5.師生共同討論盤點學習成效<br>6.教師完成評定成績<br>",
+        "en": "1.The student set the study goals<br>2.The students explain why are the study goals selected<br>3.A study plan is constructed as a result of bilateral discussions by the student and the instructor<br>4.The student carry out the study plan<br>5.The student and the instructor review the performances<br>6.The instructor give the final grade<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "運用數學、科學及化學工程知識的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "設計工程系統單元或製程之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "專案管理、有效溝通、領域整合與團隊合作的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "發掘、分析、應用研究成果及因應複雜環境且整合性的問題的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識時事議題，瞭解工程技術對環境、社會及全球的影響並培養持續學習的習慣與能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解及應用專業倫理、認知社會責任及尊重多元觀點。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

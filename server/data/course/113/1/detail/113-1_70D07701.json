@@ -1,0 +1,128 @@
+{
+    "code": "70D07701",
+    "name": {
+        "zh": "民法",
+        "en": "Civil Law"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技企管二甲"
+    ],
+    "instructors": [
+        "魏虎嶺"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "S315"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S315"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "S315"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.律師、民間公證人",
+        "2.普考-財稅行政人員"
+    ],
+    "description": "民法係與我們日常生活最為密切相關的法律，它主要在規範私人間財產上與身份上的權利義務關係，藉著對民法基本概念的介紹，使學生對民法的體系與內容有初步的了解，在授課的內容上，則透過實例題的講解來闡釋民法的理論，並補充實務的見解，以培養學生解決法律問題的能力。",
+    "prerequisites": "有修過法學緒論等課程者為佳",
+    "syllabus": {
+        "zh": "1、導論-民法的意義與立法體例<br>2、權利主體與權利客體<br>3、權利變動論-以法律行為為中心<br>4、財產法(1)-債權與債務<br>5、財產法(2)-契約<br>6、財產法(3)-侵權行為<br>7、財產法(4)-所有權及擔保物權 <br>8、身分法(1)-親屬編<br>9、身分法(2)-繼承編<br>",
+        "en": "1. Introduction of the meaning and characteristic of Civil Code<br>2. Subject and Object of right<br>3. Juridical Acts<br>4. Property law (1) - Credit and Debt<br>5. Property law (2) - Contracts<br>6. Property law (3) - Torts<br>7. Property law (4) - Ownership &amp; Mortgage<br>8. Family Law - Marriage，Parents and Children，Guardianship<br>9. Succession Law - Heirs to Property，Succession to Property，Will"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "讓學生對民法有基本的認識，使其了解民法與吾人日常生活間的密切關係，而認知民法於經濟活動之實用性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生熟悉民法條文及其運用，以協助解決生活上常見的法律問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由案例研習，增強學生對法律案例之分析判斷與論述能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立法學專業知識及核心能力基礎，強化學生國家考試解題的實力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "教導學生於日常生活之中為法律生活的實踐，培養學生私法自治的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

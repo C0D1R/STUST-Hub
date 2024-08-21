@@ -1,0 +1,99 @@
+{
+    "code": "1CD04R01",
+    "name": {
+        "zh": "工廠安全衛生實習",
+        "en": "Industrial Safety and Health"
+    },
+    "credit": "0",
+    "type": "必修",
+    "classes": [
+        "四技產設一甲"
+    ],
+    "instructors": [
+        "程筑鈺"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要目標在使學生了解到工作場所中潛在危險因素，培養出良好的工業安全與衛生習慣，並具備預防及處理工業傷害的知識與技能，讓學生瞭解工業安全及衛生之重要性，且能規劃安全的工作環境，使用各種防護設施建立良好工作態度，減少工作事故發生，並能遵守工作守則，避免意外。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(一)作業安全衛生有關法規概要。<br>(二)職業安全衛生概念及安全衛生工作守則。 <br>(三)作業前、中、後之自動檢查。<br>(四)標準作業程序。<br>(五)緊急事故應變處理。<br>(六)其他與勞工作業有關之安全衛生知識。",
+        "en": "(1)Introduction to industrial safety and hygiene <br>(2) Safety and hygiene inspection. <br>(3) Work safety analysis and operating standard.<br>(4) Standard operating procedures.<br>(5) Response to emergencies.<br>(6) Other safety and health knowledge related to labor operations."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "工廠安全作業標準",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "機械危害與防護",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "個人防護具和作業服裝",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立安全衛生工作環境",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

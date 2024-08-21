@@ -1,0 +1,115 @@
+{
+    "code": "90M04301",
+    "name": {
+        "zh": "科技英文",
+        "en": "Technical English"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研資管二甲"
+    ],
+    "instructors": [
+        "林武國"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "T0713"
+        },
+        {
+            "day": "週三",
+            "period": "第7節",
+            "location": "T0713"
+        },
+        {
+            "day": "週三",
+            "period": "第8節",
+            "location": "T0713"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在使用英文進行科技相關學術與專業溝通能力，內容包含科技用語英文搜尋、科技英文閱讀、科技英文寫作、科技英文口語、科技英文報告等主題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 熟悉科技英文句型<br>2. 常用片語應用實例<br>3. 英文科技文章閱讀<br>4. 英語口頭報告<br>5. 自傳/履歷表撰寫<br>6. 簡報技能",
+        "en": "1. Technical English sentence introduction<br>2. Familiar with Practical phrase application<br>3. Technical English paper reading<br>4. Oral presentation in English<br>5. Biography/Resume Writing<br>6. Presentation Skills"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建構科技專業與英文語言知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生具備閱讀科技英文文章的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識科技時事議題使學生有終身學習的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備科技英文表達能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

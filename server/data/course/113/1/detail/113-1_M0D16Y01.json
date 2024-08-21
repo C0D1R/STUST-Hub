@@ -1,0 +1,241 @@
+{
+    "code": "M0D16Y01",
+    "name": {
+        "zh": "餐旅督導實務",
+        "en": "Hospitality Practical Operation and Supervision"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技餐旅三乙"
+    ],
+    "instructors": [
+        "胡永輝",
+        "劉國寧"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "T0303"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0303"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "T0303"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "T0303"
+        }
+    ],
+    "hours": {
+        "course": "4",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程內容結合餐旅專業知識與實務技能，培養學生有實務餐旅營運之能力，配合中餐、西餐、飲料調製、烘焙與宴會廳與實習旅館之實習設備實務操作演練，使學生具備經營管理與領導統御實務經驗，培養學生餐旅規劃與餐旅實際營運之能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 餐旅業歷史演進<br>2. 餐旅業經營型態與經營趨勢<br>3. 餐飲業內場各部門營運程序與營運控制<br>4. 餐飲業領導與統馭<br>5. 各種類型餐飲業供應形式規劃、營運與營運管理<br>6. 各種類型餐飲業供應形式規劃、營運與營運管理<br>7. 各種類型餐飲業供應形式規劃、營運與營運管理<br>8. 期中考<br>9. 旅館業內場各部門營運程序與營運控制<br>10. 旅館業外場各部門營運程序與營運控制<br>11. 餐飲業領導與統馭<br>12. 各種住宿經營形式規劃、營運與營運管理<br>13. 各種住宿經營形式規劃、營運與營運管理<br>14. 各種住宿經營形式規劃、營運與營運管理<br>15. 餐旅實務經營管理演練<br>16. 餐旅實務經營管理演練<br>17. 餐旅實務經營管理演練<br>18. 期末考",
+        "en": "1. History of Hospitality Industry<br>2. Hospitality Operational Style and Trend<br>3. Restaurant Operation and Operational Control<br>4. Restaurant Management and Leadership<br>5. Diversity Restaurant Service Plan and Operation<br>6. Diversity Restaurant Service Plan、Operation、and Operational Control<br>7. Diversity Restaurant Service Plan、and Operational Control<br>8. Midterm Exam<br>9. Hotel Operation and Operational、and Operational Control I.<br>10. Hotel Operation and Operational、and Operational Control II.<br>11. Hotel Management and Leadership<br>12. Diversity Lodging Service Plan Operation、and Operational Control<br>13. Diversity Lodging Service Plan Operation、and Operational Control<br>14. Diversity Lodging Service Plan Operation、and Operational Control<br>15. Hotel and Restaurant Practical Operation、and Operational Control<br>16. Hotel and Restaurant Practical Operation、and Operational Control<br>17. Hotel and Restaurant Practical Operation、and Operational Control<br>18. Final Exam<br>Hospitality Practical Operation and Supervision"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解餐飲服務的形式、技術與餐廳服務的服務流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解餐飲服務的形式、技術與餐廳服務的服務流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解旅館客房的組織、工作執掌和房務服務流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解旅館客房的組織、工作執掌和房務服務流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能操作各式口布褶法並獨立完成服務台佈置",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "實地操作體驗餐廳中餐餐桌與西餐餐桌器具擺放方式和善後工作‚並能分辨其不同與應該注意事項",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識旅館客房其機具、設備與材料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "實地操作房務服務流程‚包括房務工作車準備與各式床鋪整理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "體驗和組員團隊溝通協調與共同解決問題以期完成實務課程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "體驗和組員團隊溝通協調與共同解決問題以期完成實務課程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "體驗和組員團隊溝通協調與共同解決問題以期完成實務課程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備丙級餐旅服務之技術能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備丙級餐旅服務之技術能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備丙級餐旅服務之技術能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

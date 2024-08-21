@@ -1,0 +1,158 @@
+{
+    "code": "04D06A05",
+    "name": {
+        "zh": "體育生活(一)",
+        "en": "Physical Education(I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技商設一乙"
+    ],
+    "instructors": [
+        "陳志強"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": ""
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "四技一年級課程，上下學期共八項進度每三禮拜一進度進行實施教學：<br>A.體適能(徑賽項目)<br>B.籃球<br>C.射箭<br>D.羽球<br>E.體育通識(田賽項目)<br>F.桌球<br>G.排球<br>H.壘球",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "A.體適能(徑賽項目)：培養學生基本體能(心肺功能、肌力肌耐力、柔軟度、爆發力等)及短、中、長跑、接力賽等訓練<br>B.籃球：籃球基本動作及規則，團隊合作觀念養成。<br>C.射箭：射箭運動之基本動作，訓練學生手、眼睛神經之協調性。<br>D.羽球：羽球基本動作及規則。<br>E.體育通識(田賽項目)：跳高、跳遠及投擲鉛球等訓練。<br>F.桌球：桌球基本動作及規則，訓練學生眼、手之協調性及敏捷性。<br>G.排球：排球基本動作及規則，團隊合作觀念養成。<br>H.壘球：壘球基本動作及規則，訓練學生手、腳、眼睛之協調性。",
+        "en": "A. Fitness training :basic physical self-requirement is divided into the following units 1 Cardiopulmonary function 2 Muscle strength, muscle endurance 3 power 4 flexibility.<br>B. Baseball：basic actions and rules<br>C. Archery：basic actions and rules<br>D. Badminton：basic actions and rules<br>E. high jump, long jump, pole vaul and shot-put<br>F. Table tennis：basic actions and rules<br>G. Volleyball：basic actions and rules<br>H. Softball：basic actions and rules<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "健康身體是享受人活和工作勝任基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "因高齡化壽命的增加，學習自我照顧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習專業技能和學習運動技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "為人生目標全力以赴自我學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習健全人格，服務社會",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養運動藝術的內涵",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習情緒管理與人有良好互動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "紀律在運動競賽中嚴守",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

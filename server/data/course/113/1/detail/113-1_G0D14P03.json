@@ -1,0 +1,154 @@
+{
+    "code": "G0D14P03",
+    "name": {
+        "zh": "微處理機應用實務",
+        "en": "Microprocessor Principles and Applications"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資工二丙"
+    ],
+    "instructors": [
+        "吳建中"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "C306"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "C306"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "C306"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "單晶片微控制器廣泛的應用在各種電子產品當中，已成為日常生活中不可或缺的一部份，在眾多可攜帶型的電子產品中，如何更為省電以延長電池的使用時間，已成為不可忽視的課題，德州儀器工業股份有限公司(Texas Instruments，簡稱TI)所生產的MSP430混合訊號處理微控制器，極低耗。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、課程簡介 課程目的、進度、評分方式<br>二、MSP430整合式發展環境 <br>2.1MSP430發展工具-Flash Emulation Tool簡介<br>2.2MSP430 FET™ 安裝與設定<br>2.3Workbench™ 與FET™細部操作說明<br>2.4IAR Embedded Workbench™線上求助文件<br>三、MSP430F44x硬體結構<br>3.1記憶體結構<br>3.2CPU暫存器<br>3.3頻率鎖相迴路時脈模組 <br>3.4中斷結構<br>四、定址模式與指令集說明<br>4.1定址模式<br>4.2指令執行的時間與指令長度<br>4.3指令集簡介<br>4.4指令集說明<br>五、MSP430F44x I/O埠結構<br>5.1MSP430F44x I/O埠簡介<br>5.2P1, P2 埠介紹<br>5.3P3, P4, P5, P6 埠介紹<br>六、計時器<br>6.1 Watchdog Timer<br>6.2 Basic Timer1<br>6.3計時器A(Timer A)<br>6.4計時器B(Timer B)<br>七、類比數位轉換模組<br>7.1類比數位轉換模組介紹<br>7.2 12位元ADC動作原理說明<br>7.3 ADC12 控制暫存器<br>八、MSP430串列傳輸介面<br>8.1非同步串列傳輸模式(UART)<br>8.2控制暫存器<br>8.3UART串列非同步傳輸控制<br>8.4MSP430 SPI模式<br>九、比較器 A<br>9.1比較器A簡介<br>9.2比較器A概述<br>9.3比較器A控制暫存器<br>9.4比較器A的運用<br>程式演練<br>10.1步進馬達控制<br>10.2文字型LCD控制<br>10.3鍵盤按鍵控制",
+        "en": "一、Introduction 1.1 Microprocessors -Flash Emulation Tools <br>1.2 Features and Capabilities<br>二、Architectural Overview2.1Program Memory<br>2.2CPU registers<br>2.3Digitally-Controlled Oscillator and Frequency-Locked Loop<br>2.4 Interrupt Structure <br>三、Addressing Modes and Instruction Set Overview<br>3.1 Addressing Modes<br>3.2 Instruction Map<br>3.3Clock Cycles, Length of instruction<br>四Microprocessors I/O ports introduction <br>4.1 P1, P2 introduction<br>4.2 P3, P4, P5, P6 introduction<br>五、Timer<br>5.1 Watchdog Timer<br>5.2 Basic Timer1<br>5.3 A(Timer A)<br>5.4 B(Timer B)<br>六、Analog-to-Digital Converter<br>6.1ADC Description and Operation<br>6.2 Sampling<br>6.3 ADC12 Control Registers<br>七、Peripheral Interface<br>7.1UART Peripheral Interface, UART Mode<br>7.2Control and Status Registers<br>7.3Asynchronous Operation<br>八、Comparator _A<br>8.1 Comparator _A Description<br>8.2 Comparator _A Control Registers"
+    },
+    "weeklySchedule": "單元一：Wokwi與Tinkercad模擬平台介紹<br><br>模擬平台的重要性與用途<br>Wokwi與Tinkercad模擬平台特點與差異<br>基本模擬操作：建立電路、添加元件等<br>單元二：ESP32介紹與環境設定<br><br>ESP32概述與特點介紹<br>Arduino IDE安裝與設定<br>ESP32開發板支援與驅動程式安裝<br>單元三：基本程式結構與控制<br><br>Arduino語法回顧（變數、迴圈、條件語句等）<br>Blink範例：控制LED燈閃爍<br>輸出入控制：按鈕與LED的互動<br>單元四：中斷處理與計數器應用<br><br>中斷的概念與原理<br>使用中斷處理外部事件：按鈕中斷觸發<br>計數器應用範例：使用中斷計數外部事件<br>單元五：感測器與模擬訊號處理<br><br>感測器種類與選擇準則<br>模擬訊號的基礎與處理<br>光敏感測器、溫度感測器等應用範例<br>單元六：I2C通訊與感測器控制<br><br>I2C通訊協議介紹<br>使用I2C控制感測器：例如使用I2C接口的溫濕度感測器<br>單元七：無線通訊與網際網路連接<br><br>WiFi連接設定與基本操作<br>Web伺服器建立：遠端控制與監控<br>使用WebSocket實現雙向通訊<br>單元八：專案發展與實作<br><br>使用感測器數據進行決策<br>整合感測器數據到無線通訊應用<br>專題實作：例如智慧環境監控系統等<br>單元九：專案發展與展示<br><br>小組或個人專案的發展與實作<br>專案展示、分享和評估",
+    "exams": {
+        "midterm": "選擇+填充上機考試",
+        "final": "選擇+填充上機考試",
+        "other": "第8周期中實作考試，第17周期末實作考試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解硬體結構與基本邏輯原理等知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉發展工具之使用的實務能力",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能操作執行程式實驗並解釋程式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能與組員合作共同討論整合撰寫計時器程式",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "實驗報告能以文字及流程圖撰寫完整書面報告",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "ESP32 微處理機實習與物聯網應用含 AMA Fundamentals Level 先進微控制器應用認證 - 最新版(第三版)",
+        "author": "劉政鑫, 莊凱喬",
+        "publisher": "台科大",
+        "year": "2022",
+        "ISBN": "9865234831",
+        "edition": "3"
+    },
+    "referenceBooks": "[1]RAJ HMAML,\"Embbedded Systems Architecture,Programming and Design\",Mc GrawHill. [2]陳金龍,\"嵌入式系統設計與實習\",全威圖書 [3]陳俊宏,\"Embedded Linux 嵌入式系統 原理與實務,2e\",學貫出版社 [4]陳俊宏,\"Embedded Linux 嵌入式系統 實作演練\",學貫出版社 [5]黃國勝，\"嵌入式系統-I/O介面軟體實務\",全華圖書 [6]胡繼陽,\"嵌入式系統導論\",學貫出版社 [7]Graig Hollabaugh,\"Embedded Linux-Hareware, Software, and Interfacing\", Person Education",
+    "teachingSoftware": "Arduino IDE+ESP32 Tinkercad wokwi",
+    "rules": ""
+}

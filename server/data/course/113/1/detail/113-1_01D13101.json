@@ -1,0 +1,115 @@
+{
+    "code": "01D13101",
+    "name": {
+        "zh": "台灣文化與華語會話",
+        "en": "Taiwan Culture and Mandarin Conversation"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國商二甲"
+    ],
+    "instructors": [
+        "蔡宏慧"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "L004"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "L004"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "L004"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "his course is to help students develop communicative skills in Chinese. In addition to language instruction, it also offers a basic perspective on Taiwanese culture. Besides, there are other <br>teaching materials about Taiwanese popular culture. It is hoped that students can combine Mandarin with culture. At that same time, they can apply that in their daily life. <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1節日及台灣習俗簡介    2中國功夫及童玩介紹  3小吃文化   <br>4茶的文化    5流行音樂文化        6台語與華語歌曲介紹  <br>",
+        "en": "1 Introduction to holidays and Taiwan culture <br>2 Introduction to Chinese Kong-Fu and Chinese folk games <br>3 Culture about Taiwanese Snacks  <br>4 Tea culture <br>5 Culture about Taiwan popular music<br>6 Introduction to Chinese songs and Taiwanese songs<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學生能學習華語語言結構及語法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能將華語應用於日常生活中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能了解台灣文化並用華語跟台灣人溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能分組合作完成報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

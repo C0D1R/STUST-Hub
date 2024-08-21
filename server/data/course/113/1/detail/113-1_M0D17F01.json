@@ -1,0 +1,122 @@
+{
+    "code": "M0D17F01",
+    "name": {
+        "zh": "餐旅公關實務與人際關係",
+        "en": "Public Relations Practices and Interpersonal Relationship in Hospitality Industry"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技餐旅二甲"
+    ],
+    "instructors": [
+        "劉國寧"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "T0310"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0310"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "指導及強化學生在餐旅公關活動方面之企劃與執行力及人際關係之建立。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.公關概論與飯店公關範疇<br>2.公關人之條件及公關功能與角色<br>3.職工關係及客戶關係及公關對象<br>4.新聞記者會及廣告與公關<br>5.媒體關係與新聞稿寫作<br>6.餐旅客訴處理及社區關係和形象塑造與企業贊助<br>7.危機處理<br>8.人際關係定義<br>9.溝通技巧",
+        "en": "1.The purpose of this course is to provide students with the necessary tools and knowledge needed in ways that reflect the reality of the public relations management system in operation in the world today.<br>2.The course also serves to familiarize students with communication arts and make available numerous networking possibilities through companies, organizations, and professional memberships."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解基本餐旅公共關係管理及人際關係知識及應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對餐旅公共關係及人際關係管理上的問題有效的檢視其管理學理及應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能解析餐旅公共管關係個案，將其有效的撰寫成專業的新聞稿及透過人際溝通及交流舉行新聞發佈會。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效的應用MS office 軟體進而呈現專業性的報告及簡報。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能檢視現代餐旅公共管關係管理的運用並有效的建立及應用餐旅公共管關係管理的各項步驟。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

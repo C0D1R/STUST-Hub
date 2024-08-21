@@ -1,0 +1,118 @@
+{
+    "code": "B0D44902",
+    "name": {
+        "zh": "旅行業管理",
+        "en": "Travel Agency Management"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技休閒二乙"
+    ],
+    "instructors": [
+        "盧筱筠"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0311"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "T0311"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "旅行社管理課程，其教學主要內容有：旅行業之意義、特性、營運及其在觀光事業之地位和發展歷程。",
+    "prerequisites": "修過觀光概論",
+    "syllabus": {
+        "zh": "1. 旅運業概論 休閒餐旅業生涯規劃、課程簡介<br>2. 旅運業概論 旅行業概論<br>3.4. 旅運業概論 旅行業定義、分類、組織<br>5. 航空票務 航空公司的分類<br>6. 航空票務 機票的定義、種類<br>7. 航空票務 時差<br>8. 航空票務 空運行李<br>9. 期中考 期中考<br>10 校外參觀 觀光局旅遊服務中心、旅行社<br>11. 旅行社產品 旅遊銷售<br>12. 旅行社內部作業 出國相關手續<br>13. 領隊與導遊實務 定義、分類、條件<br>14. 領隊與導遊實務 帶團實務<br>15. 領隊與導遊實務 意外事件處理<br>16. 分組報告 分組報告<br>17. 分組報告 分組報告<br>18. 期末考 期末考<br>",
+        "en": "<br><br>Week1: Introduction to leisure and recreation industry and hospitality industry, Career planning about leisure and recreation and that of hospitality industry<br>2. Introduction to travel industry<br>3.4. Description , classification, organization of travel industry<br>5. Classification of airline<br>6. Description and classification of flight ticket<br>7. Time zone<br>8. airfreight luggage<br>9. midterm exam<br>10 Outside visit: Travel service center, Tourism bureau, and travel agency<br>11. Travel marketing<br>12. Internal affair, procedure of go<br>"
+    },
+    "weeklySchedule": "第一週   課程介紹/組別建立/旅行業的發展與沿革(第一章)<br>第二週   旅行業的組織與架構(第二章)<br>第三週   旅行社的分類(第三章)<br>第四週   旅行社的經營管理與旅遊趨勢(第四章)<br>第五週   分組討論/實作:建立組別商標, 名片設計, 旅行社命名, 室內空間規劃，組員職務分配<br>第六週   旅行社內部作業(第六章)<br>第七週   航空運輸與票務(第七章) / 實作作業繳交<br>第八週   票務補充(城市代碼) <br>第九週   期中考<br>第十週   旅遊產品規劃與包裝(第八章)<br>第十一週 分組討論:期末報告行程設計/廣告摺頁討論<br>第十二週 旅遊產品行銷(第九章)<br>第十三週 導遊實務 (第十章)<br>第十四週 領隊實務 (第十一章)<br>第十五週 抱怨與糾紛處理(第十三章)<br>第十六週 期末口頭報告(第一~四組)/完整實作報告繳交<br>第十七週 期末口頭報告(第五~八組)/完整實作報告繳交<br>第十八週 期末口頭報告(第九~十二組)/完整實作報告繳交<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "團體報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "旅行業之意義",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "旅行業之特性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "旅行業之營運",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "其在觀光事業之地位和發展歷程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "旅行業經營與管理",
+        "author": "陳嘉隆，沈冠亞",
+        "publisher": "華立圖書",
+        "year": "2023",
+        "ISBN": "ISBN: 978-957-784-993-9",
+        "edition": ""
+    },
+    "referenceBooks": "老師整理講義",
+    "teachingSoftware": "數位講桌, PPT",
+    "rules": "各項成績評量:上課出席 20% ,上課參與 15%, 分組實作:15%, 期中考: 20%, 期末口頭報告15%, 期末書面實作報告:15%<br>1.每堂必點名，請假請按照學校規定辦理手續。<br>2.其他相關課程規定隨課程進行保留調整空間，並於課堂中口頭宣達。<br>3.上課請尊重班上同學上課權益,請勿吵鬧、使用手機, 也請不要在課堂上私下交談。<br>4.開學第一週請務必到課了解課堂進行方式、課程要求、評分方式或提出對課程相關(調整)建議。<br>5.請同學尊重智慧財產權，使用正版教科書，不得非法影印，以免觸犯智慧財產權相關法令。"
+}

@@ -1,0 +1,128 @@
+{
+    "code": "30D1ED01",
+    "name": {
+        "zh": "單晶片微處理機實務",
+        "en": "Singlechip Microcontroller & Lab"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子二甲",
+        "四技電子二乙"
+    ],
+    "instructors": [
+        "謝文哲"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "J404"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "J404"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "J404"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學習單晶片微處理器8051CPU的整體架構，包括RAM、暫存器、計時/計數器、串列介面、中斷方式，進而撰寫控制程式控制硬體應用電路，包括LED閃爍控制、喇叭發音控制、LCD顯示控制、按鍵掃描、光控應用、中斷控制、RS232串列傳輸…等，以便有能力設計小型微處理器應用系統",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. ８０５１CPU簡介<br>2. ８０５１內部結構(RAM、暫存器、中斷)介紹<br>3. ８０５１計時/計數器介紹<br>4. ８０５１UART串列介面介紹<br>5. 實習板製作（Option）<br>6. LED閃爍控制<br>7. 喇叭控制實習<br>8. LCD顯示實習<br>9. 按鍵掃描實習<br>10. 光控應用實習<br>11. 中斷控制實習<br>12. RS232串列傳輸實習",
+        "en": "1. Introduction to ８０５１CPU<br>2. Hardware Summary of MCS-51: Memory Organization、Special Function Registers、I/O Structure<br>3. Operation of 8051’s Timer/Counter<br>4. Operation of 8051’s Serial Interface(UART)<br>5. Accomplishment of Experiment Board<br>6. LED flash Control Practice<br>7. Speaker Control Practice<br>8. LCD Display Control Practice<br>9. Keyboard Scanned Practice<br>10. Light-sensor applied Practice<br>11. Interrupt Control Practice<br>12. RS232 Serial Transmission Control Practice"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "由製作實習板及撰寫控制程式的訓練，培養設計小型微處理器應用系統之技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過實際動手製作各種硬體應用電路，培養偵錯能力進而建立工程實務能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "撰寫組合語言控制程式來控制硬體應用電路，增進學生資訊能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備選擇及整合元件，改善單晶片控制電路之能力，並對智慧財產權有所認知。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "撰寫實習報告及課堂中提問，培養學生撰寫技術報 告及口頭表達能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

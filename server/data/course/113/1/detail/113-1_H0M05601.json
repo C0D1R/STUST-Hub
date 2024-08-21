@@ -1,0 +1,134 @@
+{
+    "code": "H0M05601",
+    "name": {
+        "zh": "細胞學特論",
+        "en": "Food Toxicology"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩研食品一甲"
+    ],
+    "instructors": [
+        "楊煦星"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "I0702"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "I0702"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "動物細胞培養之設備與基本操作、動物細胞污染檢測以及生理活性試驗<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 動物細胞培養設備之需求<br>2. 動物細胞培養基本操作<br>3. 動物細胞的品質控制<br>4. 動物細胞培養污染之檢測<br>5. 以動物細胞進行安全性試驗<br>6. 以動物細胞進行生物活性分析",
+        "en": "1. Basic Equipments for Cell Culture<br>2. Basic Techniques for Cell Culture<br>3. The Quality Control for Cell Culture<br>4. Mycoplasma Detection<br>5. Safety Assays<br>6. Bioassays"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "動物細胞培養設備之需求",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "動物細胞培養基本操作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "動物細胞的品質控制",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "動物細胞培養污染之檢測",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以動物細胞進行安全性試驗",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以動物細胞進行生物活性分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,116 @@
+{
+    "code": "1GM00T01",
+    "name": {
+        "zh": "當代企業問題研討",
+        "en": "Seminar in Contemporary Business Research"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "博研經管一甲"
+    ],
+    "instructors": [
+        "周德光"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "E0602"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "E0602"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "E0602"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "In today’s rapidly changing global business environment, business researchers and managers need to be aware of emerging trends and issues and develop an understanding of how these trends may impact theories and practice. This course provides students opportunity to examine a number of contemporary business/management issues. The course will enable students to consider the complexity of these developing trends, explore related research literature, and hence increase comprehensive understanding on business research.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "In today’s rapidly changing global business environment, business researchers and managers need to be aware of emerging trends and issues and develop an understanding of how these trends may impact theories and practice. This course provides students opportunity to examine a number of contemporary business/management issues. The course will enable students to consider the complexity of these developing trends, explore related research literature, and hence increase comprehensive understanding on business research.",
+        "en": "\tIntroduction: Identify contemporary issues in business research.<br>\tContemporary issue I: Organizational Behavior and Theory<br>\tContemporary issue II: Marketing and Logistics<br>\tContemporary issue III: E-business and IT Application<br>\tContemporary issue IV: Finance and Accounting<br>\tContemporary issue V: Industrial Management<br>\tContemporary issue VI: Entrepreneurship and R&amp;D<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "Identify contemporary issues in business research.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Distinguish between various business majors and understand their respective major concerns.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Comprehend quality research practices.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Identify the value of conducting research on current topics in business.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,130 @@
+{
+    "code": "G0D06101",
+    "name": {
+        "zh": "視窗程式設計(A)",
+        "en": "Windows Programming"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資工二甲",
+        "四技資工二乙",
+        "四技資工二丙",
+        "四資工國專二甲"
+    ],
+    "instructors": [
+        "陳定宏"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "C303"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "C303"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "C303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹並學會使用最新的C#程式語言設計基本視窗程式。除了基本的console介面的程式以外，並能夠進一步寫出較為友善的視窗介面程式。內容包含C#的語法.Net framework的精神及直覺的視窗程式設計。",
+    "prerequisites": "對程式設計有熱情者尤佳",
+    "syllabus": {
+        "zh": "1.C#簡介<br>2.建立C#應用程式<br>3.變數資料型態與運算子<br>4.視窗應用程式的基本輸出入<br>5.選擇控制與條件敘述<br>6.迴圈結構<br>7.C#函數<br>8.字串與陣列<br>9.視窗應用程式的事件處理<br>10.視窗應用程式的工具列與功能表<br>11.繪圖與多媒體<br>12.建立多表單與多文件介面的應用程式<br>13.檔案與資料夾處理<br>14.物件導向程式設計",
+        "en": "1.Introduction:C#<br>2.C# applications<br>3.Variables, data types and operators<br>4.Basic I/O of Windows applications<br>5.Contol flow and conditional statements<br>6.Loop structure<br>7.C# functions<br>8.Strings and arrays<br>9.Even handle<br>10.Tool and menu components<br>11.Drawing geometric graphs and multimedia<br>12.Forms and Documents<br>13.Files and Directories<br>14.Object-oriented programming"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解物件導向觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會設計視窗程式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會有效應用程式設計編輯器",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用所學整合設計視窗程式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "綜合運用物件導向、NET Framework、繼承、介面、多型 (Polymorphism)、靜態類別、事件、例外處理、檔案存取等知識以解決現有的軟體問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

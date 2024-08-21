@@ -1,0 +1,105 @@
+{
+    "code": "20D1BQ01",
+    "name": {
+        "zh": "基礎數學演練(一)",
+        "en": "Problem Solving for Fundamental mathematics (I)"
+    },
+    "credit": "1",
+    "type": "系定選修",
+    "classes": [
+        "五專電機一甲"
+    ],
+    "instructors": [
+        "林正峰"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "I0306"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "例用解題演示，增強學生對基礎數學的瞭解",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.二元一次聯立方程式的解題演示<br>2.集合的解題演示<br>3.二次函數及方程式的解題演示<br>4.指數與對數的解題演示",
+        "en": "1.\tNumber system<br>2.\tTwo variables into a system of linear equations<br>3.\tQuadratic function<br>4.\tSet<br>5.\tExponent and logarithm"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學生能了解數學課程的基本觀念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練學生在學習過程中能運算解題及運用資訊科技來輔助計算的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓學生能將所學應用到其專業領域，使學生具備分析及處理實際問題之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過同儕學習演練、作業觀摩及相互評量，提升表達科學報告能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

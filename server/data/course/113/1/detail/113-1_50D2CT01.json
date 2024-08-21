@@ -1,0 +1,127 @@
+{
+    "code": "50D2CT01",
+    "name": {
+        "zh": "商務網站優化",
+        "en": "Business Website Optimization"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電商三甲"
+    ],
+    "instructors": [
+        "林培煌"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "T0807"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "T0807"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "T0807"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹商業網站的分類、功能、使用者介面設計、了解消費者的購買決策過程。並進一步根據網站的目的，描繪目標受眾並利用搜索引擎最佳化與廣告增加流量。並以網站分析軟體為工具提升改善轉換率並優化網站內容,以內容行銷留住顧客。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1 介紹商業網站的分類、功能、使用者介面設計<br>2. 介紹消費者的購買決策過程<br>3. 目標受眾描繪<br>4. 關鍵字最佳化工具使用<br>5. 網站分析工具使用<br>6. 買網路廣告<br>7. 內容行銷<br>",
+        "en": "1. Introduction of the classification, function, and user interface design of business websites<br>2. Introduction of consumer purchasing decision process<br>3. Profiling target audiences<br>4. Using keywords optimization tools<br>5. Using website analytics tools<br>6. Buying online ads<br>7. Content marketing<br>"
+    },
+    "weeklySchedule": "周次\t日期(一)\t商務網站優化<br>第01周\t9/9\t商務網站優化導論, 介紹以AI為工具協助商務網站優化<br>第02周\t9/16\t網頁標題、描述、關鍵字<br>第03周\t9/23\t受眾分析<br>第04周\t9/30\t受眾分析<br>第05周\t10/7\t關鍵字研究 <br>第06周\t10/14\t關鍵字研究 (平時考: 受眾分析)<br>第07周\t10/21\t網站搜尋引擎優化專案規劃<br>第08周\t10/28\tGoogle 我的商家,Amazon 商店<br>第09周\t11/4\t期中考_筆試<br>第10周\t11/11\t網站管理, Google搜尋中心( Google search console)<br>第11周\t11/18\t網站管理, Google搜尋中心( Google search console)<br>第12周\t11/25\t網站分析, Google  Analytics<br>第13周\t12/2\t網站分析, Google  Analytics<br>第14周\t12/9\t內容行銷, <br>第15周\t12/16\t內容行銷<br>第16周\t12/23\t內容行銷<br>第17周\t12/30\t期末考_筆試<br>第18周\t1/6\t網站優化,競爭者分析<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第6週平時考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解消費者購買決策過程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能具體描繪商業網站目標受眾",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能執行搜尋引擎關鍵字最佳化",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能使用網站效率分析軟體",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能根據網站受眾執行內容優化",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

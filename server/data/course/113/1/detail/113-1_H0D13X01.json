@@ -1,0 +1,229 @@
+{
+    "code": "H0D13X01",
+    "name": {
+        "zh": "食品工廠與管理",
+        "en": "Food Factory management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技食品四甲",
+        "四技食品四乙"
+    ],
+    "instructors": [
+        "黃韻如"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "I0701"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "I0701"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "I0701"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.食品技師",
+        ""
+    ],
+    "description": "使學生能了解食品工廠之營運狀況及管理，內容包含食品工廠組織、工廠設備規劃、生產管理、原物料管理、品質管理、新產品開發、人力資源及衛生安全管理。",
+    "prerequisites": "食品衛生安全",
+    "syllabus": {
+        "zh": "1.食品產業趨勢<br>2.食品工廠組織<br>3.工廠設備規劃<br>4.生產管理<br>5.原物料管理<br>6.品質管理<br>7.新產品研究與開發<br>8.人力資源管理<br>9.安全衛生管理",
+        "en": "1.Trends in the food industry<br>2.Factory organization <br>3.Factory equipment planning<br>4.Production Management<br>5.Raw material management<br>6.Quality management<br>7.Research and development of new product<br>8.Human resource management<br>9.Safety and hygiene management <br>"
+    },
+    "weeklySchedule": "週數 教學內容<br>1    課程簡介<br>2    食品工廠管理概論<br>3    食品工廠設置及安全衛生規劃<br>4    CAS及TQF認證制度<br>5    HACCP、ISO 9001<br>6    ISO 22000管理系統<br>7    生產管理系統<br>8    分組演練<br>9    期中考<br>10   倉儲與物流管理<br>11   財務管理<br>12   食品工廠衛生管理實務<br>13   食品業之品質管理<br>14   食品業之品質管理<br>15   食品企業人力資源開發與管理<br>16   食品企業的研發管理<br>17   食品企業資訊管理<br>18   期末考",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末考",
+        "other": "分組報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "食品工廠組織",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "工廠設備規劃",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "生產管理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "原物料管理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "品質管理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "新產品研究與開發",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "人力資源管理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "安全衛生管理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "食品工廠經營管理",
+        "author": "劉建功、藍群傑、韓建國、黃大維、黃瓊萱、鄭雅升、鄭建益、鄭明清、黃朝琴、張永吉、陳勁初、鄧佳蓉、劉雅玲、許碧曇",
+        "publisher": "華格納",
+        "year": "2020",
+        "ISBN": "978-986-362-689-3",
+        "edition": "三"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "ppt",
+    "rules": "1.準時上課<br>2.上課不要玩手機<br>3.上課時間請保持安靜，專心聽講，不要趴著睡覺、聊天<br>4.請同學上課用心學習與討論"
+}

@@ -1,0 +1,116 @@
+{
+    "code": "65D01C01",
+    "name": {
+        "zh": "商務溝通",
+        "en": "Business Communication"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國商三甲"
+    ],
+    "instructors": [
+        "艾米麗"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "E0509"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "E0509"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "E0509"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Business communication provides principles, concepts, and techniques, that are primordial for students to become effective business communicators. The course will focus on analysis of the psychology, planning, and principles of effective business writing, presenting, and team communication.<br>商務交流提供的原則、概念和技術，對於學生成為有效的商務交流者來說是非常重要的。本課程將重點分析有效商務寫作、展示和團隊溝通的心理學、規劃和原則。<br>",
+    "prerequisites": "The course is designed for students who have an acceptable level of English. Each student is responsible for obtaining the necessary grammar skills.",
+    "syllabus": {
+        "zh": "1.商務溝通簡介<br>2.團體溝通和艱難的對話<br>3.跨文化交流<br>4.有效的商業信息<br>5.用於商務溝通的社交媒體<br>6.有說服力的信息<br>7.壞消息<br>8.商務報告<br>9.商業提案<br>10.商業環境中的有效演示",
+        "en": "1.Introduction to business communication<br>2.Team communication and difficult conversations<br>3.Communication across cultures<br>4.Effective business messages<br>5.Social media for business communication<br>6.Persuasive messages<br>7.Bad news messages<br>8.Business reports<br>9.Business proposals<br>10.Effective presentations in business environment"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "吸收溝通過程、理論和概念以應用於商務溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養各種書面商務溝通技巧，例如電子郵件、備忘錄、報告和商務提案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養人際和團體溝通技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養成為全球領導者所需的跨文化商務溝通和分析技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

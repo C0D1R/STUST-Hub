@@ -1,0 +1,111 @@
+{
+    "code": "X0Q07F01",
+    "name": {
+        "zh": "科技法專題研討",
+        "en": "Seminar on Technology Law"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩專財法一甲"
+    ],
+    "instructors": [
+        "李莉娟",
+        "張瑞星"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第11節",
+            "location": "S410"
+        },
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "S410"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程對於包括數位匯流、物聯網、人工智慧、能源科技、精準醫療等領域之前瞻技術進展，對應應備之法制建構與法律議題，進行全面性之析介。<br>This seminar provides a comprehensive introduction to advanced technologies including, but not limited to, digital convergence, Internet of Things (IoT), artificial intelligence (AI), energy tech, and precision medicine, and their corresponding policies and legal issues.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程規劃為一學期之課程，前半部將講授科技法政策與總論，後半部則分從各前瞻技術領域，先概述我國現狀，再透過國際相關實務，反思我國應有之法制整備。授課重點概為：（一）第1-2周：科技法政策與總論；（二）第3-6周：數位匯流與物聯網；（三）第7-8周：人工智慧與智慧機械；（四）第10-12周：再生能源與智慧電網；（五）第13-14周：精準醫療與生物科技；（六）第15-17周：智慧財產。",
+        "en": "Week 1-2: Policy and the law of Technology: Past, Present, and the Future<br>Week 3-6: Digital Convergence and IoT<br>Week 7-8: Artificial Intelligence and Smart Manufacturing<br>Week 10-12: Renewable Energy and Smart Grid<br>Week 13-14: Precision Medicine and Bio-Tech<br>Week 15-17: Intellectual Property for the future"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備基礎法學相關基本知識與能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備有效處理法律問題基本知識與能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備瞭解參與國家政策規劃基本能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備跨領域法律基本知識與能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

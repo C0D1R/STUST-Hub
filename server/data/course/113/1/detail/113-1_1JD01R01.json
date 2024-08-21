@@ -1,0 +1,99 @@
+{
+    "code": "1JD01R01",
+    "name": {
+        "zh": "專題製作(一)",
+        "en": "Project Research(I)"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "四技高福三甲"
+    ],
+    "instructors": [
+        "彭巧珍"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "依據社會研究法的課程重點，請學生就高齡服務領域根據個人或小組的興趣與好奇,選擇一個主題進行探索,在指導教授的協助下,完成專題研究或製作",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.了解專題研究與製作的意義與目的<br>2.選擇研究主題<br>3.進行文獻探討<br>4.運用相關的研究方法<br>5.進行資料蒐集<br>6.資料分析與應用<br>7.研究成果分析與圖表製作<br>8.撰寫論文<br><br>",
+        "en": "1.Understand the significance and purpose of the project research and production<br>2.Select a research topic<br>3.Conduct literature discussion<br>4.Apply relevant research methods<br>5.Data collection<br>6.Data analysis and application<br>7.Research results analysis and charting<br>8.Writing a thesis<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "協助學生瞭解高齡服務的重要議題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立學生能運用專業技能對應社會需求的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進學生具備解讀資料分析及報告的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生能活用研究方法探討實務個案。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

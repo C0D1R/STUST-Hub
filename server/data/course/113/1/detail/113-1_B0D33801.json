@@ -1,0 +1,110 @@
+{
+    "code": "B0D33801",
+    "name": {
+        "zh": "中級日文(一)",
+        "en": "Intermediate Japanese  (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技休閒二甲"
+    ],
+    "instructors": [
+        "黃淑玲"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0608"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "T0608"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "將初級階段中所學的基本重要文型、文法項目，帶入簡短的會話，讓學習者在學習文法項目的同時，也能清楚地了解在何時、何地應使用何種句型，並透過動詞變化的講解，以及課堂上的反覆練習，使學習者能在日常生活中運用自如。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一週：自己紹介　　第八課  今何時ですか。<br>第二週：第八課  今何時ですか。　<br>第三週：会話のテスト。　単語の小テスト。<br>第四週：動詞的活用　<br>第五週：五段活用: 未然形  連用形<br>第六週：五段活用: 連用形  中止形  連體形  <br>第七週：五段活用: 連體形  假定型  命令形 <br>第八週：上一段活用  下一段活用  變格活用<br>第九週：期中考<br>第十週：第九課　学校へ行きます。<br>第十一週：第九課　学校へ行きます。<br>第十二週：会話のテスト。　単語の小テスト。<br>第十三週：第十課　一緒にテニスをしませんか。<br>第十四週：第十課　一緒にテニスをしませんか。<br>第十五週：会話のテスト。　単語の小テスト。<br>第十六週：第十一課　私は台湾料理が好きです。<br>第十七週：第十一課　私は台湾料理が好きです。<br>第十八週：期末試験<br>",
+        "en": "＊ 動詞的活用<br>  ～ないでください。------學習\"請不要~\"的表達法。<br>～ましょう。------學習\"勸誘表達\"<br>～てきます。～ていきます。～てかえります。------學習複合動詞<br>～ています。------學習\"現在進行式\"的用法。<br>～ているのは 。------學習連體修飾。<br>～だ。------學習常體和丁寧體。<br>～んです。------學習詢問或說明理由的強調表達。<br>～も～し、～も～。------學習並列敘述。"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習進階日語能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習休閒產業範疇之實務日語",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "設計日本觀光客之服務需求",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "輔導考取日語檢定證照",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

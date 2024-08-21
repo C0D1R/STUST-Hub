@@ -1,0 +1,110 @@
+{
+    "code": "50D2BW03",
+    "name": {
+        "zh": "專業英文",
+        "en": "English for Specific Purpose"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技電商四甲"
+    ],
+    "instructors": [
+        "朱大中"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "T0308"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "T0308"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹英文基本文法及應用，介紹工業管理及電子商務之專業英文基本核心單字，培養正確發音及閱讀能力，以提升學生專業英文實力。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 基本文法 I<br>2. 基本文法 II<br>3. 基本文法 III <br>4. 工業管理基本核心單字<br>5. 工業管理基本核心單字及發音 <br>6. 工業管理基本核心單字及閱讀<br>7. 電子商務基本核心單字<br>8. 電子商務基本核心單字及發音<br>9. 電子商務基本核心單字及閱讀<br>",
+        "en": "1. Basic Grammar I<br>2. Basic Grammar II<br>3. Basic Grammar III<br>4. Basic Core Vocabulary of Industrial Management<br>5. Basic Core Vocabulary of Industrial Management &amp; Pronuncination<br>6. Basic Core Vocabulary of Industrial Management &amp; Reading<br>7. Basic Core Vocabulary of Electronic Commerce<br>8. Basic Core Vocabulary of Electronic Commerce &amp; Pronunciation<br>9. Basic Core Vocabulary of Electronic Commerce &amp; Reading<br>"
+    },
+    "weeklySchedule": "Week 1-2:基本文法I-II<br>Week 3-4:基本文法II-III<br>Week 5-6:基本文法III-IV<br>Week 7:基本文法&amp;工業管理基本核心單字<br>Week 8:基本文法&amp;電子商務基本核心單字<br>Week 9:期中考<br>Week 10-11:工業管理基本核心單字及發音 <br>Week 12-13:電子商務基本核心單字及發音<br>Week 14-15:工業管理基本核心單字及閱讀<br>Week 16-17:電子商務基本核心單字及閱讀<br>Week 18:期末考 <br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "口試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解工業管理及電子商務之基本核心英文單字",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能以基本英文文法來應用專業英文基本核心單字",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能正確發音及閱讀基本專業英文報告",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能分析基本文法結構及基本核心單字之中英互譯",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Breakthrough Plus Book 4",
+        "author": "Miles Craven",
+        "publisher": "文鶴",
+        "year": "2017",
+        "ISBN": "9781380003232",
+        "edition": "2nd"
+    },
+    "referenceBooks": "Butler et al., Correct Writing (Sixth Edition), D.C. Health and Company, 1997.",
+    "teachingSoftware": "",
+    "rules": "Course schedule, teaching materials, evaluation etc. may be adjusted upon students' learning performance."
+}

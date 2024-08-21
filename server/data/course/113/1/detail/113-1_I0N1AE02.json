@@ -1,0 +1,139 @@
+{
+    "code": "I0N1AE02",
+    "name": {
+        "zh": "幼兒健康與安全",
+        "en": "Health and Safety for Young Children"
+    },
+    "credit": "3",
+    "type": "管制必修",
+    "classes": [
+        "夜二技教保三甲"
+    ],
+    "instructors": [
+        "卓美芳"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "W0404"
+        },
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "W0404"
+        },
+        {
+            "day": "週六",
+            "period": "第9節",
+            "location": "W0404"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 具備幼兒健康照顧及健康促進之基本知能<br>2. 瞭解幼兒可能發生的事故傷害及其預防與照護<br>3. 瞭解幼兒意外事件發生時的緊急處理原則<br>4. 學習幼兒急救之知識與技能<br>5. 了解教保人員於維護幼兒健康與安全發展中所扮演的角色<br>6. 具備幼兒健康及安全教育的教學能力",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 幼兒健康照護與及健康促進相關內容, 包含:<br>(1) 幼兒飲食與營養<br>(2) 幼兒健康生活促進<br>(3) 幼兒常見疾病及預防<br>(4) 正確用藥<br>(5) 幼兒身體活動<br>(6) 幼兒心理健康促進…等。<br>2. 幼兒可能發生的事故傷害及其預防與照護, 包含:<br>(1) 居家安全<br>(2) 交通安全<br>(3) 戶外安全<br>(4) 人身安全<br>(5) 食品安全…等。<br>3. 幼兒急救的知識與技能，包含:<br>(1) 急救概論<br>(2) 幼兒呼吸道異物梗塞時的急救<br>(3) 幼兒心肺復甦術<br>4. 實施幼兒健康及安全宣導活動,提升學生健康教育及安全教育的教學<br>能力",
+        "en": "1. Related contents of child health care and health promotion, including:<br><br>(1) Diet and nutrition of young children.<br>(2) Life health promotion for young children.<br>(3) Common diseases and prevention of young children.<br>(4) Medication.<br>(5) Physical activity for infants and young children.<br>(6) Promoting mental health of young children ... etc.<br>2. Injuries and prevention and care of young children, including:<br>(1) Home safety.<br><br>(2) Traffic safety.<br>(3) Outdoor safety.<br>(4) Personal safety.<br>(5) Food safety ... etc.<br>3. Knowledge and skills of first aid for young children, including:<br>(1) Introduction to First Aid.<br>(2) Hamrick First Aid.<br>(3) Cardiopulmonary resuscitation (CPR).<br>4. Implementing health and safety promotion activities for young children to<br>improve the teaching ability of students in health and safety education."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備幼兒健康照顧及健康促進之基本知能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解幼兒可能發生的事故傷害及其預防與照護",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解幼兒意外事件發生時的緊急處理原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習幼兒急救之知識與技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解教保人員於維護幼兒健康與安全發展中所扮演的角色",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備幼兒健康及安全教育的教學能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,139 @@
+{
+    "code": "1LD05R01",
+    "name": {
+        "zh": "口頭報告訓練",
+        "en": "Verbal report training"
+    },
+    "credit": "3",
+    "type": "管制必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "蔡逸佛"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "T0109"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "T0109"
+        },
+        {
+            "day": "週五",
+            "period": "第9節",
+            "location": "T0109"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程除了講述口頭報告的基本原理原則之外，更著重實際演練，藉著不同主題的練習，學習組織想法、安排結構，從經驗累積中建立上台的自信，並經由自己與同儕的觀察與反饋，逐步修正發表口頭報告的表現方式。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.觀察與自我修正<br>2.報告的基本準備工作<br>3.口語與肢體語言<br>4.克服焦慮<br>5.結構安排<br>6.問答與互動<br>7.危機處理<br>",
+        "en": "1.\tObservation and self-correction<br>2.\tBasic preparation for the report<br>3.\tSpeaking and body language<br>4.\tOvercome anxiety<br>5.\tStructural arrangement<br>6.\tQ&amp;A and interaction<br>7.\tCrisis management<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能具備邏輯思考的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備工作場域所需的中文表達基本能力，並與實務結合。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能整合所學知能運用在報告中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能組織有結構的內容進行簡報。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "上台報告能有適切的台風。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能在分組報告中與人互助合作、有效達成既定目標。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

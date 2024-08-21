@@ -1,0 +1,115 @@
+{
+    "code": "11N07701",
+    "name": {
+        "zh": "微處理機應用",
+        "en": "The Application of Microprocessor"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技車輛三甲"
+    ],
+    "instructors": [
+        "陳沛仲"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "R401"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "R401"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "R401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在工業自動控制系統中，感測器是基本的組成元件之一。課程重點包括感測器的基本原理、訊號的傳遞與其處理方法。使學生對感測器的設計與應用有基本的認識。",
+    "prerequisites": "修習本課程前的學生須曾修過普通物理或電工之類的相關課程。",
+    "syllabus": {
+        "zh": "1.微處理機的基本功能<br>2.微處理機的軟體開發工具<br>3.微處理機的應用電路<br>4.位置與位移感測<br>5.熱流相關的感測<br>",
+        "en": "1. Introduction of the microprocessor<br>2. Software development tools for microprocessor <br>3. Basic circuits for microprocessor applications<br>4. Position and displacement sensing<br>5. Thermal and fluid related sensing<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解單晶片微電腦系統架構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會使用單晶片微電腦的輸出入",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會使用單晶片微電腦的計時/計數器",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會使用單晶片微電腦的中斷功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

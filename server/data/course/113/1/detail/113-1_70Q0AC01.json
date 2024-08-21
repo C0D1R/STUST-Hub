@@ -1,0 +1,148 @@
+{
+    "code": "70Q0AC01",
+    "name": {
+        "zh": "財務管理專題",
+        "en": "Financial Management Topic"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專企管一甲",
+        "碩專企管二乙"
+    ],
+    "instructors": [
+        "呂昭顯"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "S307"
+        },
+        {
+            "day": "週六",
+            "period": "第9節",
+            "location": "S307"
+        },
+        {
+            "day": "週六",
+            "period": "第10節",
+            "location": "S307"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以案例加上Q&amp;A的方式講授如何編製商業企劃1-5年預估財務報表 (三大財務報表及財務報表分析)、專案型企劃成本效益分析 (成本效益分析)、專案型企劃資本預算評估準則 (資本預算)、創業融資管道及方式 (創業融資) 以及營業循環與現金循環管控，避免資金周轉不靈，黑字倒閉 (營業循環與現金循環)。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "˙\t講授如何編製商業企劃1-5年預估財務報表 (三大財務報表及財務報表分析) 7週<br>˙\t專案型企劃成本效益分析 (成本效益分析) 4週<br>˙\t專案型企劃資本預算評估準則 (資本預算) 3週<br>˙\t創業融資管道及方式 (創業融資) 2週<br>˙\t營業循環與現金循環管控，避免資金周轉不靈，黑字倒閉 (營業循環與現金循環) 2週<br>",
+        "en": "˙\tFinancial Statements and Financial Statement Analysis<br>˙\tCost-Benefit Analysis<br>˙\tCapital Budget<br>˙\tVenture Financing<br>˙\tOperating Cycle and Cash Cycle<br>"
+    },
+    "weeklySchedule": "第01週：Ch01 財務管理概論<br>第02週：Ch02 財務報表分析<br>第03週：Ch03 貨幣時間價值<br>第04週：Ch04 金融市場與機構<br>第05週：Ch05 股票市場<br>第06週：Ch06 債券市場<br>第07週：Ch07 報酬與風險<br>第08週：Ch08 投資組合管理<br>第09週：期中考試<br>第10週：Ch10 營運資金<br>第11週：Ch11 資金成本<br>第12週：Ch12 資本預算決策<br>第13週：Ch13 資本結構<br>第14週：Ch14 股利政策<br>第15週：Ch15 企業併購<br>第16週：Ch16 國際財務管理<br>第17週：Ch17 衍生性金融商品<br>第18週：期末考試",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "線上測驗、隨堂練習"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "以商業企劃做為財務個案教學的方式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "強調商業企劃的實作經驗，整合財務管理專業知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "營造團隊溝通、協調與創新思考的學習環境",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生製作商業企劃以及簡報的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "財務管理",
+        "author": "李顯儀",
+        "publisher": "全華圖書",
+        "year": "2023",
+        "ISBN": "9786263285453",
+        "edition": "6"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,123 @@
+{
+    "code": "20D1GD01",
+    "name": {
+        "zh": "電機實務校外實習(一)",
+        "en": "Off-Campus Internship of Electrical Engineering (Ⅰ)"
+    },
+    "credit": "9",
+    "type": "管制選修",
+    "classes": [
+        "五專電機五甲"
+    ],
+    "instructors": [
+        "陳有圳"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "800"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本系開設「校外實習」課程，修讀實習課程期間，除定期返校座談會或研習活動等外，應全職於實習機構實習。<br>課程目標：<br>1. 運用企業提供良好場所，培養學生勤勞樸實的精神。<br>2.「在工作中學習」，對理論與實務之結合產生更深的體認。<br>3. 訓練處世應對之道，培養團隊合作精神及職業倫理。<br>4. 訓練學生獨立自主、發掘問題及解決問題的能力。<br>5. 增進工程專題報告寫作能力及表達能力。<br>6. 提升學生工作上的競爭力，畢業後容易進入職場。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.了解職場倫理及應有之工作態度。<br>2.發掘問題及解決問題之能力訓練。<br>3.如何培養團隊合作精神<br>4.學習與操作職場相關專業技術及能力。<br>5.理論與實務相互結合之訓練。<br>6.實習報告撰寫與表達訓練。<br>",
+        "en": "1.Realize the work place ethics and the work attitude one should have<br>2.Train students to have problem finding and problem solving abilities<br>3.How to build team spirit<br>4.Train students to have the professional expertise and technical skills needed for their job.<br>5.Combine theory and practical training.<br>6.Internship report writing and presentation training"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解職場倫理及應有之工作態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "發掘問題及解決問題之能力訓練",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養團隊合作精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習與操作職場相關專業技術及能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理論與實務相互結合之訓練",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "實習報告撰寫與表達訓練",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

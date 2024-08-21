@@ -1,0 +1,110 @@
+{
+    "code": "B0D28003",
+    "name": {
+        "zh": "人力資源管理",
+        "en": "Human Resource Management"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技休閒四乙"
+    ],
+    "instructors": [
+        "柯伶玫"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0510"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0510"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程協助學生充分了解人力資源管理的基礎理論與各項功能活動，進而引發學生關注人力資源發展的相關議題和興趣。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 人力資源管理導論<br>2. 組織的形成<br>3. 訓練發展與績效管理<br>4. 員工報酬<br>5. 員工安全與勞資關係<br>",
+        "en": "1. Introduction to Human Resource Management<br>2. Acquiring Human Resources<br>3. Developing Human Resources<br>4. Rewarding Human Resources<br>5. Labour Management Relations<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能認知人力資源管理在組織發展中的角色與重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用人力資源管理的理論與實務知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能執行人力資源管理的技術與方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能養成工作紀律與職業道德",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

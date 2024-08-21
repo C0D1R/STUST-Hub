@@ -1,0 +1,172 @@
+{
+    "code": "E0D26501",
+    "name": {
+        "zh": "表達技巧與演練(一)",
+        "en": "Communicate skills and practice Ⅰ"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應日四甲",
+        "四技應日四乙"
+    ],
+    "instructors": [
+        "黑羽夏彥"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "T0109"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0109"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.日語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為接續商用日語會話(一)(二)的課程。課程情境假設為在日本企業工作，練習被認為在就職活動中或是<br>進公司後所需要的，相較前面課程更深度的會話。<br>另外也會學習與就職活動有關的知識與語言能力。",
+    "prerequisites": "日本語能力試験N2",
+    "syllabus": {
+        "zh": "一、以訓練中上級程度之會話為目標<br>二、假定商務場合並練習會話<br>三、練習履歷書的寫法與格式<br>四、模擬面試練習。<br>五、練習接待客人及發表時所使用之會話。<br>六、練習針對複雜話題之會話。",
+        "en": "一、中上級レベルの会話トレーニングを目標とする。<br>二、ビジネスの場面を想定した会話練習をする。<br>三、履歴書の書き方を練習する。<br>四、面接の練習をする。<br>五、接客やプレゼンに応じた会話の練習をする。<br>六、複雑な話題に応じた会話の練習をする。"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "客観的に自分を分析し、面接用の自己紹介ができるようにする。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "志望職種に関する知識と、その職種で必要とされる特殊な語彙を習得する。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "その職種の歴史と現状（台湾・日本）を把握する。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "敬語を使った会話ができるようにする。ビジネスマナーも習得する。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "資料を提示しながら、簡潔なプレゼンテーションができるようにする。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "一般的な履歴書の書き方を練習する。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "適切な表現を使って、自分の意見を論理的かつ平明に言う能力を習得する。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "相手の話を聞いて、意見の要点を把握・整理する能力を習得する。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "平均的な日本人と相対した際に、自然に振る舞える所作を習得する。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,115 @@
+{
+    "code": "15N08401",
+    "name": {
+        "zh": "自動變速箱原理與實務",
+        "en": "AT transmitting principle and practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技車輛四甲"
+    ],
+    "instructors": [
+        "蘇俊才"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "R402"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "R402"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "R402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹扭力變換器作用原理、行星齒輪系之減速比如何計算、各檔相關之控制元件作用、液壓控制系統內各種控制閥功能，並經由實務操作以學習自動變速箱拆裝之技巧。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1能了解自動變速箱機構及作用原理<br>2能計算各檔位減速比<br>3能拆裝分解自動變速箱零組件<br>4能閱讀汽車專業用之英文資料<br>",
+        "en": "1.Able to understand the mechanism and operation principle of automatic transmission<br><br>2Able to calculate the corresponding speed reduction ratio for various shifting <br><br>3Able to properly disconnect the parts in the automotive transmission <br><br>4Able to comprehend academic automotive articles in English<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解自動變速箱機構及作用原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能計算各檔位減速比",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能拆裝分解自動變速箱零組件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀汽車專業用之英文資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

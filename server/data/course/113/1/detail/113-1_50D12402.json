@@ -1,0 +1,148 @@
+{
+    "code": "50D12402",
+    "name": {
+        "zh": "初等微積分",
+        "en": "Elementary Calculus"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技工管一乙"
+    ],
+    "instructors": [
+        "林高正"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0206"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0206"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "T0206"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "微積分是科學的基礎，經由本課程的學習，不僅可訓練邏輯思考，還可將其應用在經濟、管理等領域。本課程內容為基本函數介紹及函數的極限、連續、微分及其應用。<br>",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.函數與圖形<br>2.極限與函數連續性<br>3.微分基本觀念<br>4.微分技巧<br>5.微分之應用<br>",
+        "en": "1.Functions and Graphs<br>2.Limit and Continity of Function<br>3.Basic Concept of Differentiation<br>4.Differential Technique<br>5.Differential Applications<br>"
+    },
+    "weeklySchedule": "一、預備知識：1.基礎邏輯；2.基礎集合論；3.實數數系；4.直角座標系統；5.三角函數。(第一、二、三週)<br>二、函數：1.函數的概念；2.函數的運算；3.一些特別的函數；4.函數圖形；5.求解函數之零點。(第三、四、五週)<br>三、極限：1.極限的意義；2.求極限的方法；3.單邊極限與連續性。(第六、七週)<br>四、導數：1.曲線斜率、導數與切線；2.基本微分公式；3.連鎖律；4.高階導數；5.微分與線性逼近；6.反函數的導數。(第八、十、十一週)<br>五、導數之應用：1.遞增與遞減函數；2.函數的極值；3.均值定理；4.凸性、凹性與反曲點；5.漸近線及函數作圖之要點；6.變率與相關變率；7.優化問題；8.不定型的極限。(第十二、十三、十四週)<br>六、不定積分：1.不定積分與基本積分公式；2.分部積分法；3.分項積分法；4.代換法；5.不定積分之應用。(第十五、十六、十七週)<br><br>",
+    "exams": {
+        "midterm": "筆試兩節課",
+        "final": "筆試兩節課",
+        "other": "每章結束隔週即可能平時考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解微積分基本概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉微積分計算技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能理解微積分應用方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能應用微積分解決生活及職場的問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "微積分",
+        "author": "姚任之",
+        "publisher": "滄海書局",
+        "year": "2013",
+        "ISBN": "978-986-650-722-9",
+        "edition": "修訂版"
+    },
+    "referenceBooks": "1.蕭龍生、田倜宇、黃振勝(2015)，微積分，第三版，高立圖書有限公司，台北市。<br>2.南台科技大學通識教育中心自然科學組(2009)，商用微積分，復文圖書有限公司，台南市。<br>3.郭滄海、劉松田、鄭國順(1983)，微積分，凡異出版社，新竹市。<br>4.項武義(1987)，微積分，再版，人間文化事業公司，台北市。<br>5.楊維哲(1993)，微積分，第八版，三民圖書公司，台北市。",
+    "teachingSoftware": "",
+    "rules": "1.依學校規定，為保障同學受教權，本課程第一週即正式上課。請同學務必進到“Flip數位學習”教學網頁下載並列印課程大綱。<br>2.因本課程為重要基礎學科，且內容為數學，為避免成績低劣，影響後續課程的學習，請勿缺課。"
+}

@@ -1,0 +1,116 @@
+{
+    "code": "1CD00Z01",
+    "name": {
+        "zh": "通用設計",
+        "en": "Universal Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技產設三甲",
+        "四技產設三乙"
+    ],
+    "instructors": [
+        "王文雄"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "X302"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "X302"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "X302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要介紹近年極受重視之通用設計概念，並配合設計討論及各國之實際產品說明，使選修學生能充分了解其理念，提升其設計能力。<br>This course introduces the universal design concepts that have been highly valued in recent years, and cooperates with design discussions to enable elective students to fully understand UD concepts and enhance their design capabilities.<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "透過以下各單元之介紹，培養修課同學對於UD設計理念之深入瞭解及實際應用於設計之能力。<br>1.發展背景<br>2.定義<br>3.UD七大基本原則<br>4.UD三附則<br>5.範例介紹<br>6.實際設計操作與討論<br><br>",
+        "en": "Through the introduction of the following units, the students will be trained to understand the UD design concept and the practical application of the design.<br>1. Development background<br>2. Definition<br>3. UD seven basic principles<br>4.UD three attachments<br>5. Introduction to the sample<br>6. Actual design operation and discussion<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識通用設計的發展及沿革，了解通用設計之精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成發現設計問題點的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "執行通用設計分析並進行設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能整合通用設計概念於產品設計之中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

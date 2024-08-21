@@ -1,0 +1,129 @@
+{
+    "code": "70Q03101",
+    "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專企管二甲",
+        "碩專企管二乙"
+    ],
+    "instructors": [
+        "簡俊成"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第5節",
+            "location": "S303"
+        },
+        {
+            "day": "週六",
+            "period": "第6節",
+            "location": "S303"
+        },
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "S303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.高考二級(企業管理科)、高考一級(策略規劃與問題解決)",
+        ""
+    ],
+    "description": "Strategic Management is a capstone course that requires a lot of effort by students. This is intended to be a big-picture course where you will learn main strategic concepts integrating the knowledge you have gained in the core business curriculum.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 策略管理與策略性競爭力<br>2. 外部環境分析<br>3. 內部環境分析<br>4. 事業層策略<br>5. 競爭敵對與競爭動態<br>6. 公司層策略<br>7. 購併與重整策略<br>8. 國際策略<br>9. 合作策略<br>10. 公司治理<br>11. 組織結構與控制<br>12. 策略領導 <br>13. 策略性創業家精神",
+        "en": "1. Strategic Management and Strategic Competitiveness<br>2. The External Environment Analysis<br>3. The Internal Environment Analysis<br>4. Business-Level Strategy<br>5. Competitive Rivalry and Competitive Dynamics<br>6. Corporate-Level Strategy<br>7. Acquisition and Restructuring Strategies<br>8. International Strategy<br>9. Cooperative Strategy<br>10. Corporate Governance<br>11. Organizational Structure and Controls<br>12. Strategic Leadership<br>13. Strategic Entrepreneurship"
+    },
+    "weeklySchedule": "第01週 課程簡介<br>第02週 策略性競爭力<br>第03週 願景管理<br>第04週 SWOT分析方法<br>第05週 外部環境分析<br>第06週 內部環境分析<br>第07週 SWOT分析小組報告<br>第08週 事業層策略<br>第09週 競爭敵對與競爭動態<br>第10週 市場競爭影片個案討論<br>第11週 五力分析小組報告<br>第12週 公司層策略（1）<br>第13週 公司層策略（2）<br>第14週 購併與重整策略<br>第15週 公司治理影片個案討論<br>第16週 商業模式設計小組報告<br>第17週 策略領導影片個案討論<br>第18週 期末考試",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "筆試",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解企業策略核心觀念。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉策略管理的程序。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "運用策略管理的工具。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "建立策略性思考的技能。",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養正確的學習態度與團隊精神",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "策略管理概論：應用導向，方至民，前程出版。",
+    "teachingSoftware": "",
+    "rules": ""
+}

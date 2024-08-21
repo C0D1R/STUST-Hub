@@ -1,0 +1,122 @@
+{
+    "code": "I0N1AG02",
+    "name": {
+        "zh": "幼兒園課室經營",
+        "en": "Preschool Classroom Management"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "夜二技教保四甲"
+    ],
+    "instructors": [
+        "沈玫宜"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第11節",
+            "location": "H206"
+        },
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "H206"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 探討幼兒園課室經營內涵與範圍及重要理論之概念及實施原則。<br>2. 學習幼兒園課室經營之策略與方法，增進教保專業工作能力與信心。<br>3. 學習並演練課室經營之技巧與策略，發展創新符合現代教育價值與成效之方法。",
+    "prerequisites": "幼兒發展、幼兒教保概論、幼兒園教保活動課程設計、幼兒園教材教法 (一)、幼兒觀察",
+    "syllabus": {
+        "zh": "學校就是一個小型社會 班級就是一個社群。本課程旨在探討幼兒園課室經<br>營常見之內容及問題，採用理論與實務並重之教學方法，來認識各派典幼兒<br>園課室經營理念及所可能衍生的不同班級經營型態之外；將透過師生互動及<br>小組研討方式，針對個案實例作分析與討論來澄清及統整個人的課室經營理<br>念，提升常規管理技巧，進而培養有效掌握班級秩序以及行政及教學的能力<br>等。<br>1. 幼兒園課室經營的內涵與範圍。<br>2. 幼兒園課室經營重要理論之概念與原則：幼兒發展特性影響班級經營的運<br>作:道德理論、社會互動理論、人格發展論、認知發展論等。<br>3. 新學期幼兒園班級行政工作及課室環境準備。<br>4. 制定班級規則之方法及執行引導技巧。<br>5. 幼兒課室常見問題行為輔導策略研討。<br>6. 幼兒園課程活動流程安排與實施。<br>7.人際溝通技巧: 與幼童、校內人員、家長、社區互動；教師協同教學常見<br>問題及溝通技巧演練。<br>8. 多元文化教育觀點的課室經營議題與現代趨勢。<br>9. 教師自我管理與成長&amp;省思:教師個人情緒管理、壓力管理及專業進修成長。",
+        "en": "In this course, we will use big and small group discussion to learn about various<br><br>of classroom management theories. Issues included:<br>1.Content and core value of Management of Young Children’s Classroom.<br>2.Impact of classroom management based on these important theories and<br>concepts (Moral development, psychosocial developmental theory, and Cognitive<br>Development, etc.)<br><br>3.Administrative work preparation and classroom management and classroom<br>layout design.<br>4.Practice of guiding and creating classroom rules with children.<br>5. Children’ common problem behavior in the classroom.<br>6.School activity guidance: arrangement skills of daily routine work and classroom<br>common problem identify.<br>7. Interpersonal communication skills: with children, colleagues, parents and the<br>community members, etc.<br>8. Discussion of Emerging trends in classroom management &amp; discipline under<br>multicultural environment.<br>9. Teacher’s self-management &amp; professional growth &amp; reflection: emotional<br>adjustment, stress adjustment and professional development, etc."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解幼兒園班級經營的重要學說與理論，概念與原則、策略與方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習並演練班級經營的實務技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "發展創新且符合現代教育價值與成效的班級經營新方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析探究他人優良班級經營經驗",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探究班級經營實務問題，增進擔任教師工作的能力與信心",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

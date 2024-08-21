@@ -1,0 +1,128 @@
+{
+    "code": "F0D39H01",
+    "name": {
+        "zh": "社群媒體行銷",
+        "en": "Social media marketing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資傳三甲",
+        "四技資傳三乙"
+    ],
+    "instructors": [
+        "黃瓊儀"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第1節",
+            "location": "W0508"
+        },
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "W0508"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0508"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "社群行銷建立學生學習如何幫助企業和用戶之間增加深入互動，同時可透過社群媒體、工具與許多方式有效接觸消費者、持續提供有價值的訊息，加深客戶對於企業的印象，進而形成客戶的忠誠度。本課程將從內容至議題操作以及各式社群平台經營之策略，如：Facebook、Instagram、Line、YouTube 等，建立學生新媒體社群行銷力。",
+    "prerequisites": "行銷學",
+    "syllabus": {
+        "zh": "1.社群媒體行銷趨勢與議題操作<br>2.內容行銷概論與策略<br>3.新媒體內容經營方法與實際操作<br>4.社群平台應用<br>5.社群經營- 數位工具應用<br>6.實務案例分享<br>",
+        "en": "1. Social media marketing trends and issues<br>2. Introduction to content marketing and strategy<br>3. New media content management methods and practical operations<br>4. Community platform application<br>5. Community Management - Digital Tools Application<br>6. Practical case sharing<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養學生團隊合作完成社群行銷專案之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生團隊合作完成社群行銷專案之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立學生熟悉社群媒體行銷之知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生社群媒體行銷實作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生社群媒體行銷效益評估之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

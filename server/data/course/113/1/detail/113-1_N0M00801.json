@@ -1,0 +1,124 @@
+{
+    "code": "N0M00801",
+    "name": {
+        "zh": "生產與作業管理",
+        "en": "Production and Operations Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩全球經管二甲"
+    ],
+    "instructors": [
+        "張嘉華"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "E0604"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "E0604"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "E0604"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The objective of this course is to introduce students the principles and concepts of operations management. Questions and discussions are welcome in the class.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Topics for this course include, but not limited to:<br>1. Introduction <br>a. Operations management<br>b. Competitiveness, strategy, and productivity<br>2. Forecasting<br>a.\tWeighted-average forecast<br>b.\tExponential smoothing forecast<br>c.\tLinear trend forecast<br>d.\tSeasonal relatives<br>e. Control charts to monitor forecast errors<br>3. Product Design<br>a. Quality Function Deployment<br>4. Capacity planning<br>a. Measuring capacity<br>b. Calculating processing requirements<br>c. Cost volume analysis<br>5. Process Selection and Facility Layout<br>a. Basic processing layouts<br>b. Line-balancing problems<br>6. Location Planning<br>a. Cost-profit-volume analysis<br>7. Quality Management<br>a. Determinants of quality<br>b. TOM<br>c. Six sigma<br>8. Quality control<br>a. Control charts<br>b. Run tests<br>c. Process capability<br>9. Master Scheduling &amp; MRP<br>10. Inventory management<br>a. EOQ<br>b. EPQ<br>c. Reorder point<br>d. Safety stock<br>e. Fixed-quantity vs. Fixed-interval ordering<br>f. Single-Period Model<br>11. Scheduling<br>a. Hungarian method<br>b. Johnson’s rule",
+        "en": "Topics for this course include, but not limited to:<br>1. Introduction <br>a. Operations management<br>b. Competitiveness, strategy, and productivity<br>2. Forecasting<br>a.\tWeighted-average forecast<br>b.\tExponential smoothing forecast<br>c.\tLinear trend forecast<br>d.\tSeasonal relatives<br>e. Control charts to monitor forecast errors<br>3. Product Design<br>a. Quality Function Deployment<br>4. Capacity planning<br>a. Measuring capacity<br>b. Calculating processing requirements<br>c. Cost volume analysis<br>5. Process Selection and Facility Layout<br>a. Basic processing layouts<br>b. Line-balancing problems<br>6. Location Planning<br>a. Cost-profit-volume analysis<br>7. Quality Management<br>a. Determinants of quality<br>b. TOM<br>c. Six sigma<br>8. Quality control<br>a. Control charts<br>b. Run tests<br>c. Process capability<br>9. Master Scheduling &amp; MRP<br>10. Inventory management<br>a. EOQ<br>b. EPQ<br>c. Reorder point<br>d. Safety stock<br>e. Fixed-quantity vs. Fixed-interval ordering<br>f. Single-Period Model<br>11. Scheduling<br>a. Hungarian method<br>b. Johnson’s rule"
+    },
+    "weeklySchedule": "Week 1:Introduction<br>Week 2-4:Forecasting<br>Week 5-6:System Design<br>Week 7-8:Quality Management<br>Week 9: Midterm Exam<br>week 10-11:Quality Control<br>Week 12:Inventory management<br>week 13-15:Inventory Control<br>Week 15:MRP<br>Week 16:JIT and Lean production<br>Week 17:Scheduling &amp; Supply chain management<br>Week 18:Final Exam",
+    "exams": {
+        "midterm": "繳交作業",
+        "final": "繳交作業",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解生產與作業管理基本知識與學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能具備應用管理知識解決實務問題之能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能整合作業系統或生產流程以提高企業營運績效",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能具備分析問題及構思解決方案之能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Operations Management",
+        "author": "William J. Stevenson",
+        "publisher": "McGraw-Hill",
+        "year": "2018",
+        "ISBN": "9780071107549",
+        "edition": "13"
+    },
+    "referenceBooks": "Operations Management, 10th Edition, by Chase, Jacobs and Aquilano, McGraw Hill 2. Methods, Standards, and Work Design, 11th Edition, by Niebel and Freivalds, McGraw Hill",
+    "teachingSoftware": "",
+    "rules": ""
+}

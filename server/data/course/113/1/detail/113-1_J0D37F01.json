@@ -1,0 +1,110 @@
+{
+    "code": "J0D37F01",
+    "name": {
+        "zh": "科技美學與設計",
+        "en": "Technological Aesthetics and Design"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技商設二甲"
+    ],
+    "instructors": [
+        "張景智"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "W0509"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "W0509"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程核心目的，是在於教授學生認識當代新科技應用於美學表現與創新設計之最新應用現況，與近期可能之發展趨勢。在此核心目的下，本課程主要有三大主軸：當代數位媒材之發展、應用當代數位媒材進行藝術美學創作之實務案例、應用當代數位媒材進行創新設計之實務案例。期望修畢本門課程之學生，能具備當代數位媒材之認識、運用當代數位媒材進行藝術創作之方式、運用當代數位媒材進行創新設計之方式。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.當代數位媒材發展與未來方向（Current Work / Future Study）<br>2.當代數位媒材應用於藝術美學之案例（Case Study）<br>3.當代數位媒材應用於創新設計之案例（Case Study）<br>4.當代數位媒材應用於美學創作與設計創新之實作（Design Practice）<br>",
+        "en": "1.The current work and future study of digital media development<br>2.Case study of applying digital media to artistic aesthetics<br>3.Case study of applying digital media to creative design<br>4.Case study of applying digital media to Aesthetic creation and design innovation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識當代科技發展與設計之間的關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識當代數位媒材技術之發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識當代科技發展與藝術美學表現之間的關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "與同學合作完成科技美學與設計作品",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

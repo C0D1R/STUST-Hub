@@ -1,0 +1,167 @@
+{
+    "code": "20D1DA02",
+    "name": {
+        "zh": "電子學實習(一)",
+        "en": "Electronics Laboratory (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技控晶二乙"
+    ],
+    "instructors": [
+        "賈證主"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "B500"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "B500"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "B500"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "熟悉二極體、雙極接面電晶體等半導體元件之電路工作特性，並經由實際的操作與量測以驗證各元件的特性。同時也會操作幾種基本的應用電路，如二極體整流電路、雙極電晶體、共射極放大器、共集極放大器、共基極放大器等等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、電子儀表介紹<br>2、被動元件之特性曲線測試<br>3、二極體之特性曲線測試<br>4、整流、濾波電路及穩壓電路<br>5、截波電路與箝位電路<br>6、雙極接面電晶體(BJT)特性曲線之測試<br>7、雙極接面電晶體(BJT)放大器偏壓電路之測試<br>8、雙極接面電晶體(BJT)之共射極、共集極及共基極放大器電路<br>9、串級放大器電路",
+        "en": "1.Introduction of Electronic Instruments<br>2.Testing of Passive Component Charateristics<br>3.Testing of Diode Charateristics<br>4. Rectifier, Filter and Regulator Circuits<br>5. Clipper and Clamper Circuits<br>6. Testing of Bipolar Junction Transistor(BJT) Ic-Vbe Charateristics<br>7. Testing of BJT Amplifier Bias Circuit<br>8. Common-Emitter, Common-Collector and Common-Base Amplifier of BJT<br>9. Multistage Transistor Amplifier"
+    },
+    "weeklySchedule": "第一週\t\t實習一　直流電源供應器<br>                實習二　示波器<br>                實習三　信號產生器<br><br>第二週\t\t實習四　二極體的認識與V-I特性曲線之測量<br>                實習五　整流電路實驗<br><br>第三週\t\t實習六　電晶體的認識與V-I特性曲線之測量<br>                實習七　共射極放大電路實驗<br><br>第四週\t\t實習八　電晶體共射極偏壓電路之設計<br>                實習九　共集極放大電路實驗<br><br>第五週\t\t實習十　共基極放大電路實驗<br>                實習十一　串級放大電路實驗<br><br>第六週\t\t實習十二　達靈頓電路實驗<br>                實習十三　截波電路與箝位電路實驗<br><br>第七週\t\t實習十四　無穩態多諧振盪器實驗<br>                實習十五　單穩態多諧振盪器實驗<br>                實習十六　雙穩態多諧振盪器實驗<br><br>第八週\t\t實習十七　史密特觸發器實驗<br>                實習十八　正弦波振盪器實驗<br><br>第九週\t\t實習十九　穩壓電路與定電流電路實驗<br>\t        <br>第十週           實習二十　印刷電路之製作<br>                實習二十一　場效電晶體FET的認識與應用<br><br>第十一週\t \t實習二十二　相放大器與同相放大器實驗<br>                實習二十三　加法器與減法器實驗<br><br>第十二週 \t實習二十四　定電壓電路與定電流電路實驗<br>                實習二十五　微分器與積分器實驗<br><br>第十三週\t\t實習二十六　比較器與史密特觸發器實驗<br>                實習二十七　無穩態多諧振盪器實驗<br><br>第十四週\t\t實習二十八　韋恩電橋振盪器實驗<br>                實習二十九　相移振盪器實驗<br><br>第十五週\t\t實習三十　TTL基本閘的認識<br>                實習三十一　CMOS基本閘的認識<br><br>第十六週\t\t實習三十二　基本閘的應用<br>                實習三十三　正反器的認識與應用<br><br>第十七週\t      \t實習三十四　計數器與數字顯示器<br>                <br>第十八週\t\t實習三十五　555定時器的認識與應用<br>",
+    "exams": {
+        "midterm": "無",
+        "final": "補考實作",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學會操作電源供應器、訊號產生器及示波器等三種儀器的基本功能",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "會量測二極體的I-V特性曲線",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解整流與濾波電路",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "會量測電晶體(BJT)的I-V特性曲線",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解電晶體(BJT)的偏壓及放大電路",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "電子學實驗",
+        "author": "蔡朝洋",
+        "publisher": "全華",
+        "year": "2020",
+        "ISBN": "9789865035013",
+        "edition": "七"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

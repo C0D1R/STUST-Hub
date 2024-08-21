@@ -1,0 +1,105 @@
+{
+    "code": "90N14101",
+    "name": {
+        "zh": "職場實務探索(三)",
+        "en": "Workplace Practice (III)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技資管四甲"
+    ],
+    "instructors": [
+        "陳垂呈"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第11節",
+            "location": "T0209"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本門課程預計讓學生以過去所學之專業科目為基礎，將之運用於實務工作中，體驗職場環境，培養就業競爭力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 工作態度與職場倫理<br>2. 工廠實務操作<br>3. 廠務實習<br>4. 工作報告撰寫<br>5. 抗壓力學習<br>6. 人際關係探討",
+        "en": "1. Work attitude and career ethics<br>2. Factory/company practice<br>3. Workplace affairs practical training<br>4. Work report writing<br>5. Pressure-resistant learning<br>6. Interpersonal relationship discussion"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "資管專業知識的理論基礎與實務相互結合，能熟練應用於職場。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備使用職場所需軟體工具的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能認清與感受目前的職場困境，並能調整自我調適，以最有效率之方式學習，快速進入狀況之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立積極正向的工作態度與責任感，養成能夠承受各種壓力的能力，塑造與團隊合作的精神，達成工作目標。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

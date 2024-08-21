@@ -1,0 +1,143 @@
+{
+    "code": "1LD07Q01",
+    "name": {
+        "zh": "故事魔法書",
+        "en": "story magic book"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "蔡蕙如"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "M206"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "M206"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "M206"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要從故事元素和各種載體引導學生進入故事的多元敘事。首先，講述有關故事的基本觀念，其次，剖析作品元素，以掌握故事多元敘事載體的原理。進而，引導同學創意發想，運用既有的故事元素、意象做實務創作及演說故事。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t導論：「史實、事件、故事、情節」的區分。<br>2.\t陳述故事的多元敘事藝術形式表現及各種多元載體。<br>3.\t評析故事，發掘故事的「元素、原型與意象」<br>4.\t創意發想，利用故事元素創作「新故事」。<br>5.\t綜合創作、詮釋及多元載體的口說故事。<br>",
+        "en": "1.\tIntroduction: The distinction between \"historical facts, events, stories, and plots\".<br>2.\tThe expression of multiple narrative art forms and non-carrier media for telling stories<br>3.\tAnalyze and analyze the story to discover the \"elements, prototypes and images\" of the story.<br>4.\tBe creative and use story elements to create new stories.<br>5.\tComprehensive creation, interpretation and oral storytelling with multiple media.<br>"
+    },
+    "weeklySchedule": "週別\t單元名稱\t教學內容<br>一\t相見歡\t課程說明：故事不只是故事<br>我所知所愛的故事拼圖<br>二\t概說：<br>故事定義/要素\t課程內容：故事概論–史實、故事、情節的區分<br>課堂活動:你說我聽、他說你聽<br>三\t單元(一)<br>桌遊故事你我他\t課程內容：故事元素(一)腳色先行–腳色原型、腳色三角形<br>課堂活動：猜猜我是誰<br>四\t同上\t課程內容：桌遊故事你我他–桌遊卡牌上的腳色設定與運用<br>課堂活動：我的桌遊卡圖人物<br>五\t單元(二)<br>解碼童話故事\t課程內容：故事元素(二)結構先行–故事山、皮克斯動畫創作原則、故事發展六步驟<br>課堂活動：一起攀登故事山<br>六\t同上\t課程內容：童話故事及再創作–你所不知道的童話故事<br>課堂活動：解構童話符碼<br>七\t業師講座\t具有故事感的影像構圖<br>八\t校外教學\t踏查、採錄、攝影故事影像(府城都心或321藝術聚落) sDGs目標4.7<br>九\t期中考\t自創一篇影像故事<br>十\t單元(三) 以圖串文以文說圖\t課程內容：故事元素(三)情節與情節單元(母題)<br>課程活動：「母題」積木的排列組合<br>十一\t同上\t課程內容：繪本、動漫與圖像(文)小說–各種圖文創作的形式與敘事方法<br>課堂活動：故事板．掰故事 AI人文創作- 請ChatGpt說故事<br>十二\t單元(四) 多樣式的小說與電影\t課程內容：故事元素(四)七大劇情故事類型<br>課堂活動：跳脫框架‧飛天遁地  <br>十三\t同上\t課程內容：科幻、懸疑、推理小說的故事弧線<br>課堂活動：關關難過、關關過<br>十四\t單元(五) 影視中的視覺符號\t課程內容：故事元素(五)故事的原型與意象<br>課堂活動：各類「原型」對對碰<br>十五\t同上\t課程內容：影視敘事中的意象運用  sDGs目標4.7<br>課堂活動：找尋鏡頭下所隱藏的原型與意象<br>十六\t單元(六) 故事行銷力<br> \t課程內容：故事元素(六)主題先行–說一口好故事<br>課堂活動：如果我有間公司…<br>十七\t同上\t課程內容：光影交錯的故事行銷–電玩、光桌說故事之敘事法<br>課程活動：故事人說天話地<br>十八\t期末考\t期末報告<br><br><br>課程進度，依實際上課情形而調整",
+    "exams": {
+        "midterm": "口頭報告",
+        "final": "口頭報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解故事的基本要素與元素",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "探索故事類型的文化意涵。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "掌握故事元素、原型及意象，重新創作。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "運用多元敘事媒體展現故事行銷力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備賞析及詮釋故事的能力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習在團隊中與人合作共創故事",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "設計製作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "【俄】弗‧雅‧普洛普，《故事型態學》，中華書局，上海，2006.11。<br>【俄】普落普，神奇故事的歷史根源，中華書局，上海，2006.11、<br>蘿蔔特‧麥基，《故事的解剖》，漫遊文化出版，台北市，2014.07 <br>約翰‧特魯比，《故事寫作大師班》，漫遊文化出版，台北市，2016.03 【日】松居直，《打開繪本之眼》，台北，南海出版，2013.6 <br>段義孚，《恐懼》，五南圖書出版社，台北，2002.9 <br>周慶華，《故事學》，國立編譯館，台北，2008.4<br>劉守華，《比較故事學》，上海文藝出版社，上海，1995.9 <br>邱于芸，《用故事改變世界》，遠流出版社，台北，2014.3<br>伍紅玉，《童話背後的歷史—西方童話與中國社會（1900-1937）》，學生書局，台北，2010.11<br>盧建彰，《會說故事，讓世界聽你的》，三采文化出版事業有限公司，2014.6<br>",
+    "teachingSoftware": "Flipclass,Kahoo",
+    "rules": "1.對故事有興趣者<br>2.能夠透配合課程活動"
+}

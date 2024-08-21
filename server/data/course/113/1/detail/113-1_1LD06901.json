@@ -1,0 +1,162 @@
+{
+    "code": "1LD06901",
+    "name": {
+        "zh": "日本歷史文化",
+        "en": "History and Culture of Japan"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "梁媛淋"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "K309"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "K309"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "K309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "臺灣位於東亞的樞紐，自西力東漸以來，島內的社會文化發展即深受東亞政治經濟局勢的影響。特別是近一百二十年以來的臺灣歷史，即可說是一部日本、中國大陸、美國三方勢力拉鋸抗衡的記錄。然而，相對於中國大陸、美國，學習者普遍對於日本的歷史與文化缺少了解。<br><br>本課程將通過對日本歷史的講授，敦促學習者對變遷中的「斷絕」與「延續」能有所理解，並期使學習者能對日本的政治、經濟、社會、文化發展過程具備基本的知識。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程以政治及經濟為分析主軸，由德川幕府的成立經緯開始，依序就明治維新、日本帝國的興亡、戰後民主日本的誕生等各時期的結構、發展以及始末加以講授。除介紹日本的傳統工藝與文化，並兼論現代日本的社會實況。",
+        "en": "This course introduces students to the critical periods in Japan history from the beginning of Tokugawa shogunate, to Meiji Restoration, the rise and fall of the Empire of Japan, and democracy in post-war Japan. The analytical framework of the course comes from both politics and economics to provide learners with a greater understanding of the development of Japan history. The course also looks at the Japanese traditional craft and culture as well as contemporary Japanese society."
+    },
+    "weeklySchedule": "第1週：導論<br>第2週：古代日本：王朝文化的奠基<br>第3週：中世日本：武家文化的發展<br>第4週：近世日本：庶民文化的開花<br>第5週：近現代日本：西化與近代化<br>第6週：日式建築（一）<br>第7週：日式建築（二）<br>第8週：神道與祭典<br>第9週：期中考<br>第10週：茶與禪（一）<br>第11週：茶與禪（二）<br>第12週：日本的食文化（一）<br>第13週：日本的食文化（二）<br>第14週：浮世繪<br>第15週：鬼與民話<br>第16週：日本傳統戲劇（一）<br>第17週：日本傳統戲劇（二）<br>第18週：期末報告<br>※各週課程內容可能因實際上課情況而有所調整、變動。<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能具備社會科學的基本知能。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "增強對媒體訊息保有開放、批判及省思的能力。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能於生活或學習中，適切因應地球村及國際化趨勢。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有系統、有組織地整理所學知能。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "從日本歷史變遷學習組織能力，並以口頭報告表述日本文化精髓。",
+            "teachingMethods": [
+                "分組討論",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能理解日本文化與歷史的意義，並於生活中展現對本土文化的思辨能力。",
+            "teachingMethods": [
+                "啟發思考",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教學投影片",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1. 楊永良（2016）《詳說日本文化史》致良出版<br>2. 高橋洋二編（1973）《別冊太陽：茶》平凡社<br>3. 高橋洋二編（1980）《別冊太陽：禅》平凡社<br>4. 高橋洋二編（1981）《別冊太陽：和菓子歳時記》平凡社<br>5. 陳炎鋒編著（1990）《日本浮世繪簡史》藝術家<br>6. 三浦正幸（2008）《日本古城建築圖典》商周出版<br>7. 渡邊義孝（2018）《台灣日式建築紀行》時報文化出版<br>8. 関沢まゆみ編（2019）《日本の食文化２米と餅》吉川弘文館<br>9. 関沢まゆみ編（2019）《日本の食文化６菓子と果物》吉川弘文館",
+    "teachingSoftware": "Microsoft powerpoint",
+    "rules": "1. 同學需出席一半以上的課程才能取得本課程學分。<br>2. 上課中不可以有聊天、看影片、聽音樂等干擾上課的行為。<br>3. 請同學尊重他人的智慧財產權，使用正版書籍，作業及報告不可抄襲網路文章或他人著作。"
+}

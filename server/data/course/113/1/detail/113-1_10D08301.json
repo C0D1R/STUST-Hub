@@ -1,0 +1,118 @@
+{
+    "code": "10D08301",
+    "name": {
+        "zh": "應用工程數學",
+        "en": "Applied Engineering Mathematics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技製造三甲",
+        "四技製造三乙",
+        "四技車輛三甲",
+        "四技車輛三乙"
+    ],
+    "instructors": [
+        "蕭瑞陽"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "K403"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "K403"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "K403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學習工程上需要的數學工具",
+    "prerequisites": "工程數學",
+    "syllabus": {
+        "zh": "1.矩陣代數<br>2.行列式<br>3.矩陣特徵植問題<br>4.複數代數<br>5.複數積分<br>6.殘值定理",
+        "en": "1.Algebra of Matrix<br>2.Determinant<br>3.Eigenvalue Problems of Matrix<br>4.Algebra of Complex Variables<br>5.Integration of Complex Variables<br>6.Residue Theorem"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解行列式原理及運算",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解特徵值問題及應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解複數代數運算",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解複數積分運算",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

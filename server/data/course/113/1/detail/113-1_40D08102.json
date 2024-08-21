@@ -1,0 +1,155 @@
+{
+    "code": "40D08102",
+    "name": {
+        "zh": "單元操作(一)",
+        "en": "Unit Operation I"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技化材三乙"
+    ],
+    "instructors": [
+        "吳文昌"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "I0307"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "I0307"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "I0307"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "1.化學技術士",
+        ""
+    ],
+    "description": "本學科之課程內容包括(1)質量守恆與物質均衡(2)能量守恆與熱量均衡(3)流體靜力學(4)動量、熱量與質量傳送的輸送方程式(5)總質量均衡與連續方程式(6)總動量均衡(7)在層流中殼動量均衡與速度分佈(8)流體流動的測量(9)連續的微分方程式(10)運動的微分方程式。<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本學科之課程單元主題包括:<br>(1)質量守恆與物質均衡 (2)能量與熱量單位 (3)能量守恆與熱量均衡 (4)流體靜力學 (5)一般分子動量、熱量與質量傳送的輸送方程式 (6)總質量均衡與連續方程式 (7)總動量均衡 (8)管中層流與亂流之設計方程式 (9)在層流中殼動量均衡與速度分佈 (10)流體流動的測量 (11)連續的微分方程式 (12)動量傳送或運動的微分方程式 (13)運動與連續微分方程式之運用  <br>",
+        "en": "The Units Topics of This Course Include :<br>(1) Conservation of Mass and Material Balances (2) Energy and Heat Units (3) Conservation of Energy and Heat<br>Balances (4) Fluid Statics (5) General Molecular Transport Equation for Momentum, Heat, and Mass Transfer (6) Overall Mass Balance and Continuity Equation (7) Overall Momentum Balance (8) Design Equations for Laminar and Turbulent Flow in Pipes (9) Shell Momentum Balance and Velocity Profile in Laminar Flow (10) Measurement of Flow of Fluids (11) Differential Equations of Continuity (12) Differential Equations of Momentum Transfer or Motion (13) Use of Differential Equations of Continuity and Motion<br>"
+    },
+    "weeklySchedule": "1~2weeks:Introduction to engineering priciples and units includes (1) Conservation <br>of Mass and Material Balances (2) Energy and Heat Units (3) Conservation <br>of Energy and Heat Balances<br>3~6weeks:Introduction to steady state mometum-transfer includes (1) Fluid Statics (2)<br>Overall Momentum Balance (3)Design Equations for Laminar and Turbulent Flow <br>in Pipes (4)Shell Momentum Balance and Velocity Profile in Laminar Flow (5)<br>Measurement of Flow of Fluids<br>7~8weeks:Introduction to steady state heat-transfer includes (1)Conduction heat <br>transfer (2)Steady state conduction and sharp factor<br>9 week :Midterm<br>10~12weeks: Introduction to steady state heat-transfer includes (3)Force convection <br>heat transfer inside pipe (4)heat exchanges<br>13~15weeks:Introduction to steady state mass-transfer includes (1)Introduction to <br>mass transfer and diffusion (2)Molecular diffusion in gases, liquids and<br>solids<br>16~17weeks: Introduction to unit operation and separation process (1)Evaporation<br>18week:Final test<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "作業，小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解單元操作之基本原理及應用此原理於各別單元，並具備化工製程之基本知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉流體流量以及壓差測定裝置，並能應用該裝置於流動摩擦實驗設備之設計",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考",
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能具備選擇幫浦以及配管技巧之基本實務能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能設計各種化工製程中流體輸送之設備單元",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能分析並解決化工製程中流體輸送之相關問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Transport Processes and Separation Process Principle (includes Unit Operations) Fourth edition",
+        "author": "Christie John Geankoplis",
+        "publisher": "滄海書局(Prentics Hall PTR)",
+        "year": "2014",
+        "ISBN": "978-1-29202-602-2",
+        "edition": "4"
+    },
+    "referenceBooks": "James R. Welty、Charles E. Wicka、Robert E.Wilson、Fundamentals of Momentum、Heat、and Mass Transfer 4th edition、WILEY、2000.",
+    "teachingSoftware": "板書，講義",
+    "rules": "無"
+}

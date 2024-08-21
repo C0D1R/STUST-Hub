@@ -1,0 +1,136 @@
+{
+    "code": "08D04C01",
+    "name": {
+        "zh": "英語聽講演練(三)(B)",
+        "en": "English Speaking and Listening Practice (III)"
+    },
+    "credit": "2",
+    "type": "管制選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "徐靜慧"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "S413"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "S413"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The aim of this course is to develop students’ listening and speaking skills needed in a wide range of social and cultural situations. Relevant grammar, culture issues and vocabulary will be covered in the course so as to prepare students to express their opinions effectively in English in different social and academic contexts.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "學生將依照以下情境進行英語聽講訓練:<br>1.全球問候禮儀<br>2.亞洲節慶<br>3.柬埔寨的塗鴉文化<br>4.家事<br>5.亞洲藝術節慶<br>6.世界旅遊<br>7.國際食物與餐桌禮儀<br>8.健康與健身<br>9.時尚與服裝<br>10.電腦科技與發明<br>11.電影<br>12.友誼<br>",
+        "en": "Students will develop listening and speaking ability in English in the following contexts:<br>1.Greetings around the world<br>2.Interesting festivals in Asia<br>3.Ancient graffiti discovered in Cambodia<br>4.Housework<br>5.The Asia Art Festival<br>6.Travel<br>7.International food and table manners<br>8.Health and Fitness<br>9.Fashion and Clothing<br>10.Computer Technology<br>11.Movies<br>12.Friendship<br>"
+    },
+    "weeklySchedule": "Week 1 Orientation<br>Week 2 Unit 4<br>Week 3 Unit 4<br>Week 4 Unit 5<br>Week 5 Unit 5<br>Week 6 Unit 6<br>Week 7 Unit 6<br>Week 8 Midterm speaking exam<br>Week 9 Midterm paper exam<br>Week 10 Midterm discussion<br>Week 11 Unit 10<br>Week 12 Unit 10<br>Week 13 Unit 11<br>Week 14 Unit 11<br>Week 15 Unit 12<br>Week 16 Unit 12<br>Week 17 Final speaking exam<br>Week 18 Final paper exam<br>",
+    "exams": {
+        "midterm": "紙筆測驗",
+        "final": "紙筆測驗",
+        "other": "第8, 17週: 口語測驗"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "To be able to appreciate the culture of different countries",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "To be able to speak sensibly and listen carefully in group discussions",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "To be able to convey messages concisely and clearly",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "To develop confidence in public speaking.",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "To be able to communicate in English effectively",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "To be able to research on a topic and think critically",
+            "teachingMethods": [
+                "實作演練",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Listening Pro 2",
+        "author": "Joseph Schier",
+        "publisher": "文鶴書局",
+        "year": "2018",
+        "ISBN": "978-986-9586-177",
+        "edition": "1"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "請尊重智慧財產權, 購買正版教科書"
+}

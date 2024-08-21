@@ -1,0 +1,115 @@
+{
+    "code": "E0M05101",
+    "name": {
+        "zh": "日本語學研究",
+        "en": "Japanese linguistics Reasearch"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研應日一甲"
+    ],
+    "instructors": [
+        "陳連浚"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "N507-1"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "N507-1"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "N507-1"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 閱讀日本語學相關研究論文，從多元<br>角度探討日本語的研究問題。<br>2. 閱讀日本語學入門專書，探討日本語<br>的世界。<br>3.上課方式以閱讀、講解、討論及發表為<br>主。<br>（5）『月刊 言語』大修館書店<br>3.上課方式以閱讀、講解、討論及發表為主。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.期初簡介課程內容<br>2.分發授課講義，預定討論主題如下<br>（1）日語的品詞與句子<br>（2）日語的活用與修飾<br>（3）日語的文法與文體<br>3.分發研究論文（約20篇），排定發表<br>順序<br>4.提交期末報告題目及全文<br>",
+        "en": "1.初日にこの授業の概要を紹介する。<br>2.プリントはその都度配るとする。講義<br>予定のテーマは次の通り。<br>（1）日本語の品詞と文。<br>（2）日本語の活用と修飾。<br>（3）日本語の文法と文体。<br>3.論文の写しを渡してから、発表の順番<br>を決める。<br>4.期末にレポートを提出してもらう。"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "閱讀日本語學入門專書，一同思考日本語的世界。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "閱讀日本語學相關研究論文，從多元角度探討日本語的研究問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "要求積極參與討論，學習研究日本語學如何發掘問題、解決問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "要求撰寫書面報告，提升日語論文撰寫能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,141 @@
+{
+    "code": "90D24401",
+    "name": {
+        "zh": "人工智慧",
+        "en": "Artificial Intelligence"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資管四甲",
+        "四技資管四乙",
+        "四技資管四丙"
+    ],
+    "instructors": [
+        "王智昊"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第1節",
+            "location": "E0402"
+        },
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "E0402"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "E0402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "因應人工智慧的浪潮，本課程目的在於培養學生人工智慧基礎概念，了解相關領域知識與技術。基中涵蓋不同技術原理的介紹，探究人工智慧各種應用、未來發展及倫理與道德之相關議題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 人工智慧簡介<br>2. 問題定義與求解<br>3. 知識與推理<br>4. 不確定性知識與推理<br>5. 機器學習<br>6. 溝通、知覺與動作<br>7. 人工智慧未來發展<br>8. 人工智慧倫理與道德",
+        "en": "1. Introduction to artificial intelligence<br>2. Problem solving<br>3. Knowledge and Reasoning<br>4. Uncertain Knowledge and Reasoning<br>5. Machine Learning<br>6. Communicating, Perceiving, and Acting<br>7. Future of artificial intelligence<br>8. Ethics of artificial intelligence"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識人工智慧相關軟體工具",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識人工智慧專業術語",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識人工智慧相關應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備人工智慧的基礎知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備人工智慧創新應用思考能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能進行人工智慧的簡報",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

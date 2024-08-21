@@ -1,0 +1,168 @@
+{
+    "code": "52D06801",
+    "name": {
+        "zh": "物料管理",
+        "en": "Material Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技工管二甲"
+    ],
+    "instructors": [
+        "林高正"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "T0002"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0002"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0002"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以探討存貨系統問題為主，其目地使學生了解物料管理之定義、組織及採購、備料、倉儲管理與管制之方法，以訓練學生了解物料管理與企業經營之目標連結在一起，強化從事相關工作之能力。<br>",
+    "prerequisites": "微積分",
+    "syllabus": {
+        "zh": "1. 物料管理基本觀念<br>2. 物料預測<br>3. 獨立需求存貨控制系統<br>4. 機率性存貨管制系統<br>5. 訂購點系統<br>6. 定期檢查系統<br>7. MRP存貨模式<br>8. 倉儲管理實務<br>9. 供應鏈觀念與整合篇<br>",
+        "en": "1. Introduction to Inventory Management&nbsp;<br>2. Forecasting<br>3. Independent Demand Ordering Systems<br>4. Inventory Control System with Probabilistic Demand<br>5. ROP System<br>6. Periodical Inventory Control System&nbsp;<br>7. Material Requirements Planning &amp; Capacity<br>8. Warehouse Management&nbsp;<br>9. Supply Chain Concept<br><br>"
+    },
+    "weeklySchedule": "一、導 論：1. 現代物料管理的角色；2. 物料管理的基本功能；3. 物料管理五大目標；4. 系統化物料管理；5. 物料管理的組織。 (第一、二週)<br>二、物料需求預測：1. 需求管理；2. 需求預測；3. 預測的基本原理；4. 預測的方法；5. 預測追蹤。 (第二、三週)<br>三、物料分類與編號：1. 物料分類的概念；2. 物料分類的方法；3. 物料編號的概念；4. 物料編號的方法；5. 條碼系統。 (第四、五週)<br>四、物料需求計劃(MRP)：1. MRP 基本原理；2. MRP 的投入與產出；3. MRP 的運算；4. 物料預算的編列；5. 製造資源規劃(MRP II)。 (第五、六週)<br>五、採購管理：1. 基本概念；2. 採購的方式；3. 採購合約；4. 功能規格的描述；5. 供應商評選；6. 價格與交期的決定；7. 採購績效評估。 (第七週)<br>六、存量管理：1. ABC分類；2. 存貨的概念與成本；3. 基礎存量管制模式；4. 動態存量管制模式；5. 隨機性存量管制模式簡介。 (第八、十、十一週)<br>七、倉儲基礎作業管理：1. 簡介；2. 物料盤點；3. 物料驗收；4. 催料作業；5. 領發料作業；6. 退料作業；7. 呆廢料處理。 (第十二週)<br>八、供應商管理：1. 簡介；2. 供應商管理的內涵；3. 供應商的關係形態與類型；4. 供應商的考核；5. 外包管理；6. 供應商管理的趨勢。 (第十三、十四週)<br>九、倉儲管理與倉儲系統：1. 倉儲管理之意義與功能；2. 倉儲位置、設計與佈置；3. 物料之存放與標示；4. 提升倉儲作業效率之作法；5. 倉儲安全管理；6. 倉儲搬運系統的設計；7. 倉儲搬運設備；8. 自動化倉儲系統(AS/RS)。 (第十四、十五週)<br>十、JIT 即時系統：1. JIT 的作業要點；2. JIT 與存量管制；3. 推式系統與拉式系統；4. JIT 看板系統；5. 電子化看板系統與供應鏈管理。 (第十五、十六週)<br>十一、物料管理的新趨勢：1. 現代物流管理系統；2. 網際網路與電子商務；3. 供應鏈管理與全球運籌管理；4. ISO 品保系統與物料管理；5. ISO 環保標準與物料管理。 (第十六、十七週)",
+    "exams": {
+        "midterm": "筆試一節課",
+        "final": "筆試一節課",
+        "other": "第 8 週與第 17 週各平時考一節課"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立系統化物料管理的知識。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養推動物料管理實務之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "建立評估物料管理計畫之優缺點的能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養推動物料管理系統運作協調與整合之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養進行物料管理相關業務口頭與書面報告之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Introduction to Materials Management",
+        "author": "Arnold, Chapman and Clive",
+        "publisher": "Pearson Education Inc.",
+        "year": "2011",
+        "ISBN": "978-013-137-670-0",
+        "edition": "7th"
+    },
+    "referenceBooks": "1. 張倫 (2013)，當代物料與倉儲管理，第二版，滄海書局。 2. 梁添富 (2020)，物料管理，第四版，全華圖書。 3. 洪振創、湯玲郎、李泰琳 (2016)，物料與倉儲管理，高立圖書。 4. Silver, E.A., Pyke, D.F. and Peterson, R. (1998), Inventory Management and Production Planning and Scheduling, Third edition, John Wiley &amp; Sons, New York. 5. Tersine, R.J. (1994), Principles of Inventory and Materials Management, Fourth edition, Prentice-Hall, Englewood Cliffs, New Jersey. 6. Graves, S.C., Rinnooy Kan, A.H.G. and Zipkin, P.H. (eds.) (1993), Handbooks in Operations Research and Management Science, Volume 4: Logistics of Production and Inventory, North Holland, Amsterdam.",
+    "teachingSoftware": "本課程備有投影片大綱、教學網頁與相關文獻電子檔。",
+    "rules": "依學校規定，為保障同學受教權，本課程第一週即正式上課。請同學務必進到“FlipClass”教學網頁下載並列印課程大綱與第一章講義備用。"
+}

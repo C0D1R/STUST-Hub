@@ -1,0 +1,105 @@
+{
+    "code": "1DD0BR01",
+    "name": {
+        "zh": "專修(三)DJ(A1)",
+        "en": "Major Ⅲ DJ"
+    },
+    "credit": "1",
+    "type": "管制選修",
+    "classes": [
+        "四技流音二甲"
+    ],
+    "instructors": [
+        "狄文斯"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第1節",
+            "location": "W1018"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程採用小班制教學方式，旨在教授「DJ」專長領域的相關理論、實務技巧以及職場倫理，旨在強化學生的DJ技能，同時培養學生的專業素養與敬業態度。學習成效將透過作業、考試等多元方式進行評量。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "課程內容包括：<br>1.DJ基礎介紹：了解什麼是DJ，DJ的歷史演變，常用的DJ設備，以及Rekordbox DJ軟體的使用。<br>2.電子音樂曲風多樣性：探索各種不同的電子音樂風格。<br>3.音樂管理與編排：學習如何整理歌單和編排歌曲順序。<br>4.接歌技巧的學習：掌握基礎與進階的DJ接歌技巧。<br>5.混音創作實踐：製作一個屬於自己的混音Mixtape，並獲得基礎DJ技能與知識。<br><br>此課程將幫助學生建立扎實的DJ基礎，並鼓勵創意與實踐相結合，讓學生能在音樂界展現自己的才華。",
+        "en": "This is a specially designed DJ course aimed at exploring the art and technique of DJing. The course content includes:<br>1.Introduction to DJing: Understand what a DJ is, the historical evolution of DJs, commonly used DJ equipment, and how to use Rekordbox DJ software.<br>2.Diversity in Electronic Music Styles: Explore various styles of electronic music.<br>3.Music Management and Arrangement: Learn how to organize playlists and arrange song sequences.<br>4.Mixing Skills Training: Master basic and advanced DJ mixing techniques.<br>5.Mixtape Creation: Produce your own mixtape while gaining fundamental DJ skills and knowledge.<br><br>This course will help students establish a solid foundation in DJing, encouraging a combination of creativity and practical application, enabling students to showcase their talents in the music industry.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解DJ專長領域之專業知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備DJ專長領域之創作能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "展現尊重、接納老師指導之學習態度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養自我提升、終身學習之態度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,127 @@
+{
+    "code": "90N13U01",
+    "name": {
+        "zh": "計算機與程式設計概論",
+        "en": "An introduction of Computer and Program Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技資管一甲"
+    ],
+    "instructors": [
+        "林武國"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0708"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0708"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0708"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "就資訊管理的人而言，計算机應歸屬為工具，基礎知識相當重要！本課程分為五個部分：電腦和資料、電腦硬体、電腦軟體、資料組織、及其它進階問題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.簡介<br>2.資料儲存<br>3.數字表示法<br>4 資料運算<br>5.計算機組織<br>6.電腦網路<br>7.作業系統<br>8.演算法<br>9.程式語言 <br><br>",
+        "en": "1. Introduction<br>2. Data Storage<br>3. Number Representation<br>4. Operation on Data<br>5. Computer Organization<br>6. Computer Networks<br>7. Operating System<br>8. Algorithms<br>9. Programming Languages <br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解程式語言的邏輯運算",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解網路管理的基礎理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能建立管理資訊專業知識的基礎理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用電腦軟體解決電腦實務問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解資訊科技的趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

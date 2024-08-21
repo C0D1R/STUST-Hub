@@ -1,0 +1,111 @@
+{
+    "code": "20D1AH01",
+    "name": {
+        "zh": "創意思考",
+        "en": "Creative Thinking"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技控晶一甲",
+        "四電機國專一甲"
+    ],
+    "instructors": [
+        "李宗勳"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "I0208"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "I0208"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "由思考模式、腦力激盪、案例賞析與創意思考的運用等角度進入，使學生對創意思考有所認識。並能理解各種創意思考方法的運用與操作。引發學生對創意的興致，並進而提昇創意思考的能力。藉由聯想增進個人創意思考能力，激發新的觀念來解決問題。<br> <br>Students will be aware of creative thinking from the perspectives of thinking mode, brainstorming, case appreciation and creative thinking, and will understand the use and operation of various creative thinking methods. Inspire students' interest in creative thinking, and then enhance the ability of creative thinking. Through Lenovo to enhance the ability of individual creative thinking, stimulate new ideas to solve problems.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1:課程簡介<br>2:創意思考模式：運用創意尋找與解決問題<br>3:腦力激盪：創意聯想訓練、聯想與衍伸<br>4:案例賞析：透過案例分享，了解創意思考之重要性<br>5:創意思考的運用<br>",
+        "en": "1: the course introduction<br>2: the creative thinking mode: using creativity to find and solve problems<br>3: brainstorming: creative association training, association and extension<br>4: creative thinking appreciation: through case sharing, understand the importance of creative thinking<br>5: the use of creative thinking"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "創意思考的模式與路徑分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創意聯想訓練",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用創意尋找與解決問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創意設計分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

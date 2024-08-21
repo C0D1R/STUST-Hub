@@ -1,0 +1,122 @@
+{
+    "code": "X0M0B701",
+    "name": {
+        "zh": "生技產業法律專題",
+        "en": "Seminar on Biotechnological Industry"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩研財法一甲"
+    ],
+    "instructors": [
+        "許舜喨"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "S410"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "S410"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在介紹生技產業中特定領域之規範及相關議題。從專利法中之活體可專利性要件開始，進而動物實驗最終至人體試驗相關倫理考量及產業規範。This seminar course aims to introduce regulations in certain key areas in Bio-industry, from the onset of patentability of living organisms, animal test and human trials to the ethical concerns and industrial applications.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 專利與活體生物材料 (patent and living subject matters)<br>2. 現行食品法規 (current food regulations)<br>3. 醫療器材(Medical devices)<br>4. 藥品 (Drugs)<br>5. 產學合作 (Industry-Academic cooperation)<br>6. 技術移轉 (Technology transfer)<br>",
+        "en": "1. (patent and living subject matters)<br>2. (current food regulations)<br>3. (Medical devices)<br>4. (Drugs)<br>5. (Industry-Academic cooperation)<br>6. (Technology transfer)"
+    },
+    "weeklySchedule": "1. general introduction of modern biotechnology<br>2. scope and application of modern biotechnology<br>3. regulations of biotechnology in Taiwan<br>4. IPRs and bio-innovation<br>5. NHS system and reviews<br>6. guest speech<br>",
+    "exams": {
+        "midterm": "上台報告",
+        "final": "書面報告",
+        "other": "課堂詢答"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "專業知識",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "期中"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "溝通協調能力",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "問題解決能力",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "倫理思維及社會關懷",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

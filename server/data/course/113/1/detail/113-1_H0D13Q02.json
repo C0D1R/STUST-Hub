@@ -1,0 +1,130 @@
+{
+    "code": "H0D13Q02",
+    "name": {
+        "zh": "營養學",
+        "en": "Nutrition"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技食品一乙"
+    ],
+    "instructors": [
+        "賴嘉萍"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "I0209"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "I0209"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "I0209"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "1.專技高考營養師",
+        "2.糖尿病衛教師"
+    ],
+    "description": "本科目以教導學生建立營養與食品之正確觀念為出發點，使同學了解營養學之基本知識，建立良好基礎。內容主要包含六大營養素的消化、吸收與代謝、生理功能、食物來源及需要量，並討論各生命階段之營養應用及教導均衡飲食的正確概念。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t營養學概論：營養素、營養評估、飲食與健康。<br>2.\t健康飲食規劃: 原理與方針、食品標示。<br>3.\t醣類：組成、分類、功能、消化、吸收、代謝、食物來源與需要量、相關的健康問題。<br>4.脂質：組成、分類、功能、消化、吸收、代謝、食物來源與需要量、相關的健康問題。<br>5. 蛋白質：組成、分類、功能、消化、吸收、代謝、食物來源與需要量、相關的健康問題。<br>6. 能量平衡:能量代謝、體重及身體組成。<br>7. 體重管理: 肥胖的成因、肥胖的健康風險、減重策略與治療。<br>8.維生素：脂溶性、水溶性。<br>9.礦物質與水分：巨量、微量及水分概論。<br>",
+        "en": "1.\tIntroduction (Nutrients, Nutrient Assessment, Diet and Health).<br>2.\tPlanning a Healthy Diet (Principles and Guidelines, Food Labels).<br>3.\tCarbohydrates (Types/Structure of Carbohydrates, Digestion and Absorption, Glucose Metabolism, Carbohydrate Intake.<br>4.\tLipids (Types/Structure of Lipids, Digestion and Absorption, Lipid Metabolism, Lipid Intake).<br>5.\tProteins (Types/Structure of Proteins, Digestion and Absorption, Protein Metabolism, Protein Intake).<br>6.\tEnergy Balance (Energy Metabolism, Body Weight and Body Composition).<br>7.\tWeight Management (Causes of Obesity, Health Risks of Obesity, Treatments and Weight-Loss Strategies).<br>8.\tVitamins (Water-Soluble Vitamins, Fat-Soluble Vitamins.<br>9.\tWater and Minerals (Water Intake and Balance, Major Minerals, Trace Minerals).<br>"
+    },
+    "weeklySchedule": "週次\t教學進度<br>1\t第1章：緒論<br>2\t第2章：醣類<br>3\t第3章：蛋白質<br>4\t第4章：脂質<br>5\t第4章：脂質<br>6\t第5章：維生素<br>7\t第6章：礦物質與水分<br>8\t第6章：礦物質與水分<br>9\t期中考<br>10\t第7章：能量平衡<br>11\t第8章：均衡飲食<br>12\t第9章：嬰兒期營養<br>13\t第9章：嬰兒期營養<br>14\t第10章：兒童與青春期營養<br>15\t第11章：懷孕期營養<br>16\t第12章：中老年期營養<br>17\t第13章：疾病營養<br>18\t期末考",
+    "exams": {
+        "midterm": "期中筆試",
+        "final": "期末筆試",
+        "other": "隨堂口試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "定義及討論現今社會的營養問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "定義、列出、區分及討論飲食中必須營養素對健康的角色",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "利用飲食指南及膳食標準，設計足夠營養的個人菜單以管理體重及維護健康",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "善用飲食指南預防及控制疾病",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "實用營養學",
+        "author": "謝明哲 總校閱 蔡秀玲、張振崗、戴瑄、葉寶華、鐘淑英、蕭清娟、鄭兆君、蕭千祐等著",
+        "publisher": "華格那企業有限公司",
+        "year": "2023",
+        "ISBN": "978-986-362-945-0",
+        "edition": "十版新修訂"
+    },
+    "referenceBooks": "陳相訓、楊萃渚、許淑真、陳冠如、夏先瑜、蘇家愷、張惠琴、陳立真、賴嘉萍、陳巧明、黃寶雄、李明賢，＜新編餐飲營養學＞，台中，華格那出版社，2010年9月。ISBN：9789866335839<br>徐成金 總校閱 徐成金、吳志忠、盧義發、蕭慧美、魏明敏、張菡馨、黃惠煐、楊新玲、吳淑惠、林錦華、呂孟純、陳宣穎、吳素珍、趙璧玉，＜營養學＞，台中，華格那出版社，2015年。ISBN：978-986-362-148-5",
+    "teachingSoftware": "PowerPoint",
+    "rules": "無"
+}

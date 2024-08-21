@@ -1,0 +1,115 @@
+{
+    "code": "B0M04501",
+    "name": {
+        "zh": "國際行銷專題",
+        "en": "Seminar in International Marketing"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研休閒一甲"
+    ],
+    "instructors": [
+        "張婷玥"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "T0609"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0609"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0609"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以行銷原理與行銷研究為基礎，討論休閒與餐旅產業之相關國際行銷研究與實務個案，以協助學生了解台灣本土國際行銷案例，迅速瞭解且掌握現今國際行銷的脈動及趨勢。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t區域經濟整合<br>2.\t文化與消費者行為<br>3.\t政治風險之管理\t<br>4.\t國際行銷研究<br>5.\t國際行銷策略<br>6.\t國際產品管理—基本概念與屬性\t<br>7.\t國際產品管理—策略規劃與控制\t<br>8.\t國際配銷管理—進入國際市場<br>9.\t國際配銷管理—通路決策<br>10.\t國際行銷溝通管理<br>11.\t國際價格管理<br>12.\t國際活動之組織與管理<br>",
+        "en": "1.\tRegional Economics Integration<br>2.\tCulture and Consumer Behavior<br>3.\tManagement of Political Risk\t<br>4.\tInternational Marketing Study<br>5.\tInternational Marketing Strategy<br>6.\tInternational Product Management (I)\t<br>7.\tInternational Product Management (II)<br>8.\tInternational Distribution Management (I)<br>9.\tInternational Distribution Management (II)<br>10.\tInternational Promotion Management<br>11.\tInternational Price Management<br>12.\tOrganization and Management of International Events<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "行銷原理與行銷研究為基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "討論休閒與餐旅產業之相關國際行銷研究與實務個案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以協助學生了解台灣本土國際行銷案例",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "迅速瞭解且掌握現今國際行銷的脈動及趨勢。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,128 @@
+{
+    "code": "1DD08E01",
+    "name": {
+        "zh": "進階舞台燈光設計",
+        "en": "Advanced Stage Lighting Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技流音三甲",
+        "四技流音三乙"
+    ],
+    "instructors": [
+        "葉家彰"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "W1002"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W1002"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W1002"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過這課程可以充分了解當代流行音樂舞台上室內劇場、戶外舞台舞台燈光專業能力，完整的職業技能專長，技術團隊的協調溝通，良善工作的精神，藝術的燈光美學、娛樂的光學視覺。學習舞台的燈光設計與執行，讓表演藝術經由更高科技的硬體技術輔助，深度品質的燈光視覺藝術呈現。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.瞭解進階燈光系統之工程圖設計。<br>2.具備基礎電學配電理論。<br>3.深入光學色彩設計應用能力。<br>4.發展進階舞台燈光設計光學色彩學。<br>5.進階舞台燈光設計。<br>6.室內與戶外演唱會執行。<br><br><br>",
+        "en": "1. Understand the engineering drawing design of advanced lighting system.<br>2. Possess basic electrical power distribution theory.<br>3. In-depth optical color design application capabilities.<br>4. Develop advanced stage lighting design optical color science.<br>5. Advanced stage lighting design.<br>6. Perform indoor and outdoor concerts."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解進階燈光系統之工程圖設計。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備基礎電學配電理論。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "深入光學色彩設計應用能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "發展進階舞台燈光設計光學色彩學。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "進階舞台燈光設計室內與戶外演唱會執行。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

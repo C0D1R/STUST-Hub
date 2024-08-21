@@ -1,0 +1,111 @@
+{
+    "code": "W0Q04701",
+    "name": {
+        "zh": "企業研究方法",
+        "en": "Business Research Methods"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "高企碩士班二甲"
+    ],
+    "instructors": [
+        "吳盛"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第5節",
+            "location": "E0603"
+        },
+        {
+            "day": "週六",
+            "period": "第6節",
+            "location": "E0603"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過本課程了解研究方法內容與重要性，使能具備研究分析能力。藉由介紹企業研究的各種方法及觀念，包含研究倫理、歷程、主題、設計及衡量、分析、設計與調查、觀察、實驗等方法;也經由資料分析之軟體操作，了解因素、群聚、區別分析、邏輯斯迴歸、變異數等等之應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.企業研究目標<br>2.研究程序<br>3.研究倫理<br>4.研究設計<br>5.研究方法<br>6.研究測量<br>7.研究分析<br>8.研究寫作<br>",
+        "en": "1.Business research objectives<br>2.Research procedures<br>3.Research ethics<br>4.Research designs<br>5.Research methodologies<br>6.Measurement<br>7.Data analysis tools<br>8.Report writing<br>"
+    },
+    "weeklySchedule": "研究的基本觀念<br>如何找研究資料及文獻<br>文獻管理軟體<br>問卷設計與製作<br>信度、效度、基本的敘述統計<br>因素分析<br>變異數分析<br>t-test<br>迴歸分析<br>結構方程式(SEM, ex:AMOS, LIRSEL, SmartPLS...)<br>個案研究<br>內容分析<br>彙總分析<br>如何寫研究論文<br>如何簡報論文",
+    "exams": {
+        "midterm": "報告及作業",
+        "final": "報告及作業",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解企業研究的各種方法及觀念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解研究歷程、研究題目、研究設計、抽樣設計、次級資料的收集",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解態度的衡量、問卷設計、調查法與觀察法、實驗法等",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解實際資料分析方法的軟體操作",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "論文就是要這樣寫",
+        "author": "張芳全",
+        "publisher": "心理出版社",
+        "year": "2021",
+        "ISBN": "9789860744293",
+        "edition": "5"
+    },
+    "referenceBooks": "韓乾，研究方法原理：論文寫作的邏輯思維，，第三版，五南，2020。<br>古永嘉、楊雪蘭/編譯，企業研究方法，華泰，2019。<br>蕭文龍，統計分析入門與應用：SPSS中文版+SmartPLS 3(PLS-SEM)，第二版，碁峰，2018。<br>顏志龍、鄭中平，給論文寫作者的統計指南：傻瓜也會跑統計，第二版，五南，2017。<br>顏志龍，傻瓜也會寫論文(量化+質化增訂版)：社會科學學位論文寫作指南，五南，2018。",
+    "teachingSoftware": "(1)SPSS for Windows (2)SEM相關軟體",
+    "rules": "應具備基礎統計學的觀念與能力"
+}

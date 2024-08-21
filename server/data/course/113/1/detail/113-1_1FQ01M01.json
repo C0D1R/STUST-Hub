@@ -1,0 +1,127 @@
+{
+    "code": "1FQ01M01",
+    "name": {
+        "zh": "質性研究理論與實務",
+        "en": "Qualitative Research: Theory and Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專教經二甲"
+    ],
+    "instructors": [
+        "胡小玫"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "N107"
+        },
+        {
+            "day": "週六",
+            "period": "第9節",
+            "location": "N107"
+        },
+        {
+            "day": "週六",
+            "period": "第11節",
+            "location": "N107"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "質性研究是一門蒐集與分析觀察、訪談與文本資料的研究方法論課程。然而，在重視利益相關人觀點、對話、溝通、透明度的當代，質性研究思維與方法愈趨重要。本課程旨在透過閱讀與實地操作過程，協助學生瞭解質性研究方法之長處及限制，同時介紹質化研究方法的觀點與研究過程、質化研究特質、典範觀點、研究倫理、寫作方式等。課程內容大致可分為三部分： 第一部分為質性研究的知識論、方法論與本體論的理論基礎與基本前提。 第二部分為較為常用的質性研究方法。第三部分為質性研究方法與策略的演練，修課的學生將依據其研究興趣與研究關懷，演練完整的研究過程，從探究研究主題、選擇研究方法、構思設計研究、研究提問、計畫書撰寫、APA格式等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程將包含以下主題：<br>課程導論<br>研究題目與研究設計<br>質化研究的典範及觀點<br>質化研究方法論一（民俗誌、現象學）<br>質化研究方法論二（詮釋學、敘事分析）<br>質化研究方法論三（紮根理論）<br>質化研究方法論四（批判理論、建構理論）<br>研究倫理<br>質性訪談研究<br>焦點團體研究<br>參與觀察質性研究：品質評估—信度、效度與推論<br>",
+        "en": "Course Schedule<br>Introduction: The nature of qualitative research<br>Research designs and traditions of qualitative inquiry<br>Crafting a research question<br>Approaches to qualitative inquiry (Ethnography and Phenomenology)<br>Approaches to qualitative inquiry (Interpretive and narrative)<br>Approaches to qualitative inquiry (Grounded theory)<br>Approaches to qualitative inquiry (Critical theory and Constructivism)<br>Ethical issues in social science research<br>The art of interviewing<br>Focus group research interview<br>Participatory observation<br>Issues of rigor, validity, reliability, and trustworthiness of qualitative data<br>"
+    },
+    "weeklySchedule": "一、質性研究的目的與類型<br>二、質性研究的發展與派典<br>三、質性研究與量化研究<br>四、質性研究的倫理與專業守則<br>五、質性研究參與者取樣方法<br>六、質性研究蒐集資料方法與記錄<br>七、質性研究資料分析之內涵<br>八、質性研究之品質指標與提升方法<br>九、質性研究之方法<br>十、行動研究之意涵與實施<br>十一、敘事探究之意涵與實施<br>十二、現象學研究之意涵與實施<br>十三、 詮釋學研究之意涵與實施<br>十四、扎根理論取向之意涵與實施<br>十五、個案研究之意涵與實施<br>十六、俗民方法學之意涵與實施<br>十七、民族誌之意涵與實施<br>十八、 歷史研究之意涵與實施",
+    "exams": {
+        "midterm": "期中作業",
+        "final": "期末報告",
+        "other": "日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識質性研究的知識論、方法論與本體論的理論基礎",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "運用不同質性研究方法",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "涵養質性研究思維與敏感度",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "討論教育研究歷程中涉及的倫理議題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建立研究知能與素養",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "質性研究方法與論文寫作",
+        "author": "鈕文英",
+        "publisher": "雙葉書廊",
+        "year": "2023",
+        "ISBN": "9789865492892",
+        "edition": "4"
+    },
+    "referenceBooks": "江吟梓、蘇文賢譯（2010）。教育質性研究：實用指南。台北：學富文化。<br>胡幼慧主編（1996）。質性研究：理論、方法及本土女性研究實例篇。台北市：巨流。<br>徐宗國譯（1990）。質性研究概論。台北：巨流。<br>高淑清（2008）。質性研究的十八堂課。台北：麗文。<br>畢恆達（2010）。教授為什麼沒告訴我：2010全見版。新北市：小畢空間。<br>畢恆達（2012）。研究倫理。瞿海源、畢恆達、劉長萱、楊國樞（編）社會及行為科學研究法（一）（頁35-61）。台北：東華。<br>陳向明（2002）。社會科學質的研究。台北市：五南。 <br>趙偉玟譯（2008）。教您如何做文化暨媒介研究。台北：韋伯文化。<br>蕭瑞麟（2006）。不用數字的研究：鍛鍊深度思考力的質性研究。台北：培生教育公司。<br>謝臥龍主編（2004）。質性研究。台北：心理。<br>",
+    "teachingSoftware": "",
+    "rules": ""
+}

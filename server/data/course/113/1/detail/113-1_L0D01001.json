@@ -1,0 +1,128 @@
+{
+    "code": "L0D01001",
+    "name": {
+        "zh": "電路學",
+        "en": "Electric Circuits"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技半導體二甲",
+        "四半導國專二甲"
+    ],
+    "instructors": [
+        "林正峰"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "R301"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "R301"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "R301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "電路學為光電工程系之基礎學科,內容主要教授學生認識電路變數與元件，熟悉基本電路的分析方法與技巧，以具備進行基本電路之解析與設計。本課程之上課方式主要以教師講授為主，輔以習作練習，評量方法除了學校規定的期中考與期末考外，並有不定時之平時測驗，成績評定還包括作業報告、課堂討論、出席率以及學習態度。",
+    "prerequisites": "微積分\n基本電學",
+    "syllabus": {
+        "zh": "1. 電路變數<br>2. 電路元件<br>3. 電阻性電路<br>4. 電阻性電路的分析方法<br>5. 電路理論<br>6. 儲能元件<br>7. RL 與 RC電路之完整響應<br>8. 雙儲能元件電路之完整響應<br>",
+        "en": "1. Electric Circuit Variables<br>2. Circuit Elements<br>3. Resistive Circuits<br>4. Methods of Analysis of Resistive Circuits<br>5. Circuit Theorems<br>6. Energy Storage Elements<br>7. The Complete Responses of RL and RC Circuits<br>8. The Complete Responses of Circuits with two Energy Storage Elements<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識基本的電路變數與電路元件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解基本電路分析理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "可以進行基本的電路分析與設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道重要的電路相關之英文專有名詞",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "如期繳交老師所指派的作業。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,123 @@
+{
+    "code": "10D09001",
+    "name": {
+        "zh": "微積分(一)",
+        "en": "Calculus(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技自控一甲"
+    ],
+    "instructors": [
+        "黃東雍"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "E0502"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "E0502"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "E0502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "微積分是工程科學裡最重要的基礎課程之一。它在電子、電機、機械、生物等領域中已有非常廣泛的應用，亦是專業科目(如工程數學)的先修課程。本課程是一學年的科目，分上、下學期。上學期內容為基本函數介紹及單變數函數的極限、連續、微分、積分、積分技巧與應用。",
+    "prerequisites": "高中(職)基本數學。",
+    "syllabus": {
+        "zh": "1. 預備知識<br>2. 極限與連續<br>3. 導數<br>4. 導數的應用<br>5. 定積分<br>6. 積分技巧<br>7. 定積分的應用",
+        "en": "1. Prerequisites for Calculus <br>2. Limits and Continuity.<br>3. Derivatives. <br>4. Applications of Derivatives. <br>5. The Definite Integral. <br>6. Techniques of Integration <br>7. Applications of the Definite Integral.<br>"
+    },
+    "weeklySchedule": "第一週 : 課程簡介<br>第二週 : 預備知識-何謂微積分&amp;函數<br>第三週 : 極限(一)-極限定義&amp;基本性質<br>第四週 : 極限(二)-無窮極限&amp;連續極限<br>第五週 : 微分(一)-導函數&amp;基本性質<br>第六週 : 微分(二)-三角函數<br>第七週 : 微分(三)-合成函數&amp;隱微分<br>第八-九週 : 複習&amp;期中考<br>第十週 : 微分應用(一)-極值<br>第十一週 : 微分應用(二)-二階導數<br>第十二-十三週 : 微分應用(三)-導數在物理上應用<br>第十四週 : 微分應用(四)-牛頓法&amp;微分近似<br>第十五週 : 微分應用(四)-估測誤差<br>第十六-十八週 : 複習&amp;期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第4週、第8週、第13週、第17週 筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能熟悉微積分的基本原理並具備計算能力",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論",
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "針對機械工程問題能有效適當的應用微積分",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能樂觀面對微積分問題，並以正向思考來解決問題",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用微積分的重要性",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "微積分",
+        "author": "邱創雄, 傅俊結, 張勝麟 (南臺科技大學微積分教學社群)",
+        "publisher": "復文圖書有限公司",
+        "year": "2020",
+        "ISBN": "9789865928919",
+        "edition": "2"
+    },
+    "referenceBooks": "任一｢微積分｣書籍",
+    "teachingSoftware": "無",
+    "rules": "上課抄筆記！<br>練習時採分組討論。"
+}

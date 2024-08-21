@@ -1,0 +1,128 @@
+{
+    "code": "08D04I02",
+    "name": {
+        "zh": "英文閱讀(一)(D)",
+        "en": "English Reading (Ⅰ)"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "曾瓊瑢"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "T0112"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "T0112"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This elective English course is offered for all STUST students. It aims to enhance students’ English reading skills.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 能流暢地朗讀文章段落。<br>2. 能理解整篇文章大意。<br>3. 能分辨文章結構及類別。<br>4. 能啟發創意思考及批判思考能力。<br>",
+        "en": "1. Students will be able to read the texts fluently.<br>2. Students will be able to understand the texts.<br>3. Students will be able to identify the structure and genre of the texts.<br>4. Students will be able to develop creative and critical thinking skills.<br>"
+    },
+    "weeklySchedule": "Week 1 Course Introduction + Unit 1<br>Week 2 Unit 1 Mapping the Human Brain<br>Week 3 Unit 1 Mapping the Human Brain<br>Week 4 Unit 1 Mapping the Human Brain<br>Week 5 Unit 2 It's About Time<br>Week 6 Unit 2 It's About Time<br>Week 7 Unit 2 It's About Time<br>Week 8 Review<br>Week 9 Midterm Examination<br>Week 10 Unit 3 Living with Bacteria<br>Week 11 Unit 3 Living with Bacteria<br>Week 12 Unit 3 Living with Bacteria<br>Week 13 Unit 4 A Changing World<br>Week 14 Unit 4 A Changing World<br>Week 15 Unit 4 A Changing World<br>Week 16 Unit 5 Cities Are Growing Up<br>Week 17 Holiday<br>Week 18 Final Examination<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能具備基本人文素養",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能以適當的英文用語表達意思及溝通",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能流暢地讀出整篇文章及理解整篇文章大意",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能具備創意思考及批判思考能力",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Inside Reading Intro",
+        "author": "Cheryl Boyd Zimmerman",
+        "publisher": "Oxford",
+        "year": "2020",
+        "ISBN": "9 780194 416269",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "平時成績 40% : 出席率 10% + (作業+ 小考+ 上課表現) 30%<br>期中考   30%<br>期末考   30%<br>*出席率以100%計算，缺席一節扣10%，扣完為止。事病假 6 節不扣分，須上系統請假，超過 6 節以曠課計算，公假及喪假不扣分，需出示證明。全勤者，期末學期成績加3分。<br><br>"
+}

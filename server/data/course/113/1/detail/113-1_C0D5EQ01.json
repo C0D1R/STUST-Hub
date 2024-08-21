@@ -1,0 +1,119 @@
+{
+    "code": "C0D5EQ01",
+    "name": {
+        "zh": "實用跨文化導覽英文",
+        "en": "Practical Tourism English for Cross-Cultural Interpretation"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應英四甲"
+    ],
+    "instructors": [
+        "黃郁琇"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "N007"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "N007"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "幫助學生具備流利英語導覽能力與實務演練",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1地理與氣候<br>2人口與語言<br>3宗教和寺廟<br>4儒學，傳統藝術<br>5傳統與現代建築，<br>6傳統禮儀<br>7送禮文化，飲食文化<br>8受歡迎的美食和夜市<br>9農曆新年、元宵節<br>10 端午節、鬼月，地方節慶<br>11台北<br>12日月潭新竹和台中<br>13台南<br>14 墾丁高雄<br>15東海岸<br>",
+        "en": "1.Geography and Climate<br>2 Population and Languages<br>3 Religions and Temples<br>4 Confucianism, Traditional Arts<br>5 Traditional and Modern Architecture,<br>6 Traditional Etiquette<br>7 The Gifting Culture, Food Culture<br>8 Popular Foods and Drinks, Night Markets<br>9 Chinese New Year, The Lantern Festival and Dragon Boat Festival<br>10 Field Trip<br>11 Ghost Month and the Moon Festival, Local Festivals<br>12 Taipei<br>13 Hsinchu and Taichung, Sun Moon Lake<br>14 Tainan<br>15 Kaohsiung, Kenting<br>16 East Coast<br>17 Final presentation<br>"
+    },
+    "weeklySchedule": "Course Schedule<br>1 Geography and Climate<br>2 Population and Languages<br>3 Religions and Temples<br>4 Confucianism, Traditional Arts<br>5 國慶日放假<br>6 Traditional and Modern Architecture, Traditional Etiquette<br>7 The Gifting Culture, Food Culture<br>8 Popular Foods and Drinks, Night Markets<br>9 Chinese New Year, The Lantern Festival and Dragon Boat Festival<br>10 Ghost Month and the Moon Festival, Local Festivals<br>11 Tainan<br>12 Field Trip<br>13 Taipei<br>14 Hsinchu and Taichung, Sun Moon Lake<br>15 Kaohsiung, Kenting<br>16 East Coast<br>17 Final presentation<br><br><br>",
+    "exams": {
+        "midterm": "Presentation",
+        "final": "Presentation",
+        "other": "Quiz, worksheet, activity"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "幫助學生具備流利英語導覽能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉英語導覽相關用詞與技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "具備導覽實務演練經驗",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備導覽知識和禮節",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Taiwan in Simple English: The Best Guidebook for Travelers and Tour Guides",
+        "author": "Peg Tinsley / Paul O'Hagan / Owain Mckimm",
+        "publisher": "寂天文化",
+        "year": "2021",
+        "ISBN": "9786263000650",
+        "edition": "4"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "評量方式: <br>平常課堂參與、小考 50%<br>期中報告 25%<br>期末報告 25%<br><br>"
+}

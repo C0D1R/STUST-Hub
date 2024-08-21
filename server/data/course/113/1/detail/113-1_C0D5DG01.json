@@ -1,0 +1,130 @@
+{
+    "code": "C0D5DG01",
+    "name": {
+        "zh": "英語正音",
+        "en": "English Pronunciation"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應英一甲"
+    ],
+    "instructors": [
+        "楊明倫"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "N309"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "N309"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "English Pronunciation is a course to assist students to develop a basic understanding of English pronunciation system and to correct their own pronunciation.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 課程介紹<br>2. 子音<br>3. 母音<br>4. 停頓<br>5. 連音<br>6. 語調<br>7. 韻律/節奏",
+        "en": "1.The introduction of the course<br>2.Consonants<br>3.Vowels<br>4.pausing<br>5.Linking<br>6.Intonation<br>7.Rhythm"
+    },
+    "weeklySchedule": "Weekly Schedule:<br>W1 09/10    Course Description + Chinese Pronunciation + English Consonants<br>W2 09/17    National Holiday: No Class  <br>W3 09/24    Consonants   Paragraph Reading I Due<br>W4 10/01    Consonants + Vowels <br>W5 10/08    Vowels<br>W6 10/15    Vowels + Consonants Test I   <br>W7 10/22    Vowels + Consonants Test II <br>W8 10/29    Vowels + Consonants Test II<br>W9 11/05    Midterm Exam Week Word Stress<br>W10 11/12   Word Stress<br>W11 11/19   Word Stress Test<br>W12 11/26   Sound Combination I<br>W13 12/03   Sound Combination II<br>W14 12/10   Linking + Pausing    Paragraph Reading Reflection Due<br>W15 12/17   Linking + Pausing Test  Paragraph Reading II Due<br>W16 12/24   Review<br>W17 12/31   Final Exam<br>W18 01/07   Final Exam Week Final Exam<br>",
+    "exams": {
+        "midterm": "無",
+        "final": "無",
+        "other": "口試, 筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "分辨英語中較易混淆的母音及子音",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "藉由聽力測培養學習者敏銳的辨音能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "字首與字尾子音群的練習",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "音節, 音調, 句子連音",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "重音的練習",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "李輝華. (2003). 英語發音學習法(三版) 高雄：麗文文化",
+    "teachingSoftware": "",
+    "rules": ""
+}

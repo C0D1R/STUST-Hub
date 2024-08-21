@@ -1,0 +1,99 @@
+{
+    "code": "B0Q03V01",
+    "name": {
+        "zh": "海外經營實務研討",
+        "en": "International Business Practice Seminar"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "碩專休閒二甲"
+    ],
+    "instructors": [
+        "楊蓓涵"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.讓學生培養國際觀<br>2.讓學生有機會使用外語<br>3.讓學生學習適應環境之能力<br>4.讓學生有機會應用相關專業領域之能力",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "參訪過程設計分組討論與合作完成研習報告，提升學員的團隊精神",
+        "en": "1.To get the experience of study abroad, and enhance international academic experience<br>2. To visit foreign enterprises for understanding the operation of the business management practices<br>3. To foster team spirit, and be able to complete the assigned project<br>4.The overseasoverseas learning trip cultivates the international perspectives of students<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "取得海外學習之經驗，增進國際學術經歷",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "參訪國外企業，了解經營管理實務之運作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培育團隊合作精神，完成指定專案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "海外參訪研習，培育國際視野",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

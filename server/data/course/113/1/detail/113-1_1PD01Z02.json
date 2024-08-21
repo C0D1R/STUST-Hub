@@ -1,0 +1,127 @@
+{
+    "code": "1PD01Z02",
+    "name": {
+        "zh": "創業實作",
+        "en": "Practice of Entrepreneurship"
+    },
+    "credit": "3",
+    "type": "管制必修",
+    "classes": [
+        "綜合實踐領域"
+    ],
+    "instructors": [
+        "陳宥任"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "L508"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "L508"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "L508"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "\t為深化創業實作教育，並銜接109學年度教育部創新創業教育計畫之創業實務微學程基礎課程，本課程結合教育部-創業實戰模擬學習平台(SOS-IPO)提供學生實際體驗創業過程，並輔導參與課程學生實際體驗從創業構想提案→商業化運作→公司設立→公司關閉等創業歷程，再藉由至新創公司見習之機會實際體驗創業初期所遭遇之問題。<br>\t課程規劃將以戰鬥營的方式連續8天的高強度課程，以學習到創業實務最重要的課題-創業管理與行動，並邀請校內三創教育種子教師及校外專家顧問進行密集授課，針對團隊創業歷程傳授相關經驗。<br>\t本課程將結合創業構想、作品實作、新創公司啟動、新創公司營運、新創公司盈餘結算與關閉、創見實習等實戰階段，幫忙學員探索出創業思維，共同打造其創業構想之可行性與價值性，讓其能夠成為未來新創產業的萌芽種子。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程主要以南臺創創戰鬥營、產學共育、鏈結「創業實戰模擬學習平臺」、企業見習、公司營運五階段行程規劃，說明如下：<br>1.\t南臺創創戰鬥營<br>(1)\t創新創意課程主題模組<br>(2)\t財務課程主題模組<br>(3)\t人資課程主題模組<br>(4)\t企劃課程主題模組<br>2.\t產學共育<br>(1)\t雙導師制Mentor方式<br>(2)\t奠定團隊發展創業之基礎<br>(3)\t強化『創業計畫』、『商業模式』<br>3.\t鏈結「創業實戰模擬學習平臺」<br>4.\t企業見習<br>(1)\t進行企業營運實戰<br>(2)\t培養產業基礎知能<br>(3)\t建立資訊統整能力<br>(4)\t體驗企業管理實務<br>(5)\t瞭解產業型態發展<br>5.\t公司營運<br>(1)\t團隊進行營運<br>(2)\t進行外部資源探索<br>(3)\t提升團隊成員創業力<br>(4)\t完成成立及關閉公司之動作",
+        "en": "This course is mainly STUST Camp, Industrial academic cultivation, Corporate internship, company operation five-stage planning, as follows:<br>1.\tSTUST Camp: 8 days of high-intensity course training, importing business-related courses<br>2.\tIndustrial academic cultivation: Two-mentor system Assist students in writing operational plans and business model adjustments<br>3.\tLink”EC-SOS”<br>4.\tCorporate internship: Go to corporate internship<br>5.\tcompany operation: Conducting company establishment and operation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能運用團隊自身具備的能力與資源",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠進行團隊合作與創意激盪和發想",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠將產品進行創意加值",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠提出有效的行銷方式並進行運作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠使團隊分工如同公司般運作及分工",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

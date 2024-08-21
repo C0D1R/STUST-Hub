@@ -1,0 +1,127 @@
+{
+    "code": "40D1BP01",
+    "name": {
+        "zh": "化工儀器實習(一)",
+        "en": "Chemical Engineering Instrument Practice I"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專化材三甲"
+    ],
+    "instructors": [
+        "蘇莉芸"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "I0605"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "I0605"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "I0605"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在訓練學生綜合化學分析儀器與實驗技巧，使其具備分析化學儀器的操作技術與處理、判讀實驗數據的能力，達到印證理論於實務的目標。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、表面張力的測定<br>二、溶液中之吸附<br>三、使用pH計測定弱酸弱鹼之解離常數液體的性質<br>四、乙酸酯類的水解速率<br>五、電解質導電度的測定<br>",
+        "en": "1. The surface tension<br>2. Adsorption of solution<br>3. The weak acid-base of dissociation constant<br>4. The hydrolysis of ethyl acetate<br>5. The conductivity of electrolytes<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能利用化學基本知識及運算原理，完成實驗報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析實驗數據並解釋實驗結果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有系統的說明實驗流程與實驗結果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有系統的說明實驗流程與實驗結果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能融入團隊並能完成自己所分擔的實驗工作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

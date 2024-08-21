@@ -1,0 +1,139 @@
+{
+    "code": "01N07501",
+    "name": {
+        "zh": "經濟與生活",
+        "en": "Economics and Life"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技自控一甲"
+    ],
+    "instructors": [
+        "梁文科"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "K401"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "K401"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "K401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為商管經濟類的課程，主要的教學目標在於讓學生們理解在日常生或中能夠運用到的經濟學基本概念。課程主要分成兩個部份：第一個部份為個體經濟學的基礎概念，包括消費者行為、生產者行為、市場結構等主題。第二個部份為總體經濟學的基礎概念，包括經濟成長、物價膨脹與失業等主題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一個單元需求與供給<br>第二個單元供需彈性與均衡<br>第三個單元消費者行為<br>第四個單元生產者行為<br>第五個單元國民所得<br>第六個單元經濟指標<br>第七個單元經濟成長",
+        "en": "Chapter 1. Demand &amp; Supply<br>Chapter 2. Elasticities of Supply and Demand and Equilibrium<br>Chapter 3. Consumer Behavior<br>Chapter 4. Producer Behavior<br>Chapter 5. National Income<br>Chapter 6. Economic Indicators<br>Chapter 7. Economic Growth"
+    },
+    "weeklySchedule": "1.經濟問題與經濟學(CH1)<br>2.分工與市場(CH2)<br>3.個人如何做選擇(CH3)<br>4.商業組織與金融資本(CH4)<br>5.企業的運作(CH5)<br>6.完全競爭市場(CH6)<br>7.價格制定廠商與市場(CH7)<br>8.各種生產要素的角色和收入本質(CH8)<br>9.政府與資源分派(CH9)<br>10.衡量整體經濟活動:國民所得的概念(CH13)<br>11.失業與通貨膨脹(CH14)<br>12.貨幣與金融體系(CH15)<br>13.總體經濟政策(CH16)<br>14.經濟成長(CH17)<br>",
+    "exams": {
+        "midterm": "考試",
+        "final": "考試",
+        "other": "小組討埨、出席率"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備經濟學之基本基本知能。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "具備統整所學之經濟概念，進而將其應用生活領域中之基本能力。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備表達對經濟概念之理解，聆聽其他同學之意見，進而針對相關議題進行討論之基本能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "有能力融洽的與他人溝通不同看法，展現良好的學習態度。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "將所學與實務結合，在面對經濟選擇時，要遵守倫理規範，具備理性思維及判斷之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "嘗試為自己和所關心的人做經濟規畫，發揮最大效益。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "基礎經濟學-思維與運用",
+        "author": "羅台雄",
+        "publisher": "五南書局",
+        "year": "2023",
+        "ISBN": "9786263660687",
+        "edition": "5"
+    },
+    "referenceBooks": "1. 經濟學 (2022)，朱敬一/ 毛慶生/ 林全/ 許松根/ 陳添枝/ 陳思寬/ 黃朝熙著，華泰文化。<br>2. 報章、雜誌",
+    "teachingSoftware": "無",
+    "rules": "第一次上課對於平時成績有重大影響，請勿任意缺席"
+}

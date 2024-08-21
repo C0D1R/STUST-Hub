@@ -1,0 +1,120 @@
+{
+    "code": "10M05401",
+    "name": {
+        "zh": "機電整合學",
+        "en": "Mechatronics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研機電一甲",
+        "碩研機械一甲",
+        "碩機械產業一甲",
+        "碩研機電一甲"
+    ],
+    "instructors": [
+        "王聖禾"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "K301-2"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "K301-2"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "K301-2"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "1.機電整合",
+        ""
+    ],
+    "description": "This course provides students with the basic training in mechatronics skills. Students taking this course will learn the functions of some frequently used mechatronics components and their applications.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、機電整合實務技術重點介紹<br>二、自動化設備電路結構與組成元件<br>三、自動化設備電路元件與各項工具介紹：各式開關及三用電錶等<br>四、電路元件功能說明與實作<br>實作1：保險絲、有段式按鈕與選擇性開關、指示燈串與並聯迴路。<br>(量測串聯時各燈電壓值)<br>實作2：選擇性開關組成邏輯電路(樓梯間燈迴路)<br>實作3：馬達起動停止電路(選擇開關，電流錶，指示燈)<br>實作4：馬達起動停止電路(繼電器，接鈕開關)<br>(自保電路，啟動顯示，馬達過電流保護並接過電流指示燈)<br>實作5：雙計時器控制兩顆燈交替閃爍<br>感測元件功能說明與實作<br>實作6：光電、近接、磁簧開關接法<br>實作7：PLC I/O接法及程式輸寫<br>",
+        "en": "1.Introduction of Mechatronics<br>2.Some basic Mechatronics components<br>3.The circuits formed by Mechatronics components<br>4.Practices<br>practice 1: simple serial and parallel circuits.<br>practice 2: building a simple on-off control circuit<br>practice 3: building a simple on-off control circuit for Motor<br>practice 4: building a simple on-off control circuit for Motor with timers<br>practice 5: building a simple blinking control circuit with timers<br>5.Sonsors and their applications.<br>6.PLC and ladder diagrams<br>7.Practices on PLC appliations.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能用機電元件製作基本控制迴路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用感測器",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用PLC作基本控制",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能撰寫PLC程式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,115 @@
+{
+    "code": "B0N16101",
+    "name": {
+        "zh": "休閒政策與法規",
+        "en": "Leisure Policies and Regulations"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技休閒三甲"
+    ],
+    "instructors": [
+        "石慶賀"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "T0608"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "T0608"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "T0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "我國目前及未來的休閒政策，我國及各國的觀光行政組織並說明觀光事業之法令規章，觀光法規之主要範圍及性質，進一步探討風景區、旅行業、領隊及導遊、觀光旅館業、國家公園、森林遊樂區等觀光事業的專屬法規、可能問題及改進之道。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1 導論 課程簡介與國家考考試<br>2. 定義 沿革與發展趨勢 S1 <br>3 我國觀光行政組織 S2<br>4. 我國觀光產業政策 S3 <br>5. 我國觀光現況WWW S4S5<br>7. 國外旅遊契約及案例分析民法債篇旅遊章節 S13 <br>8. 國外旅遊契約及案例分析民法債篇旅遊章節 S13 <br>9. 期中考<br>10. 旅行社法規S11 <br>11. 領隊導遊管理規則S12 <br>12. 民宿管理及法 S16<br>13. 國家公園分組討論 S7<br>14. 旅館業法規 S14<br>15. 旅館業法規(分組討論) S14<br>16. 國家風景區 S7 <br>17. 觀光遊樂業法規 S9<br>18. 期末考",
+        "en": "<br>1 Introduction Course Introduction and National Examination<br>2. Definition History and development trends<br>3 China Tourism Administration Organization<br>4. China's tourism industry policy<br>5. Current status of sightseeing in China<br>7. Foreign travel contract and case analysis of civil law debt travel chapter<br>8. Foreign travel contract and case analysis of civil law debt travel chapter<br>9. Midterm exam<br>10. Travel agency regulations<br>11. Leading tour guide management rules<br>12. Homestay Management and Law<br>13. National Park Group Discussion<br>14. Hotel industry regulations<br>15. Hotel Industry Regulations (group discussion)<br>16. National Scenic Area<br>17. Sightseeing and Recreation Industry Regulations<br>18. Final exam"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習我國之觀光行政體系及各級組織之架構。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探討及思考我國觀光政策之演變及現行之觀光發展計畫。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解我國之觀光相關法規及重要行政命令。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析及探討相關觀光案例",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

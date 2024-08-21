@@ -1,0 +1,116 @@
+{
+    "code": "65D01H01",
+    "name": {
+        "zh": "風險管理",
+        "en": "Risk Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國商四甲"
+    ],
+    "instructors": [
+        "張民昌"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "S415"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S415"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "S415"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The course provides students with a notion for identifying and evaluating risk, understanding how to make risk management decisions, and understanding how to manage the common, enterprise, and financial risks.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 風險管理的定義<br>2. 風險的識別和類型<br>3. 風險管理的決策過程<br>4. 風險管理技術和工具<br>5. 風險管理與公司治理<br>6. 保險與風險管理<br>",
+        "en": "1. General definition of risk management<br>2. The identification and types of risk<br>3. Decision-making process of risk management <br>4. Risk management techniques and tools<br>5. Risk management and corporate governance<br>6. Insurance and risk management<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能夠定義一般風險與財務風險",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠衡量一般風險與財務風險",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠管理一般風險與財務風險",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠理解金融監管之規定",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,122 @@
+{
+    "code": "C0D5F801",
+    "name": {
+        "zh": "科技英文",
+        "en": "Technology English"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應英三甲"
+    ],
+    "instructors": [
+        "李嘉宜"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "N310"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "N310"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在使用英文進行科技相關學術與商業溝通能力，內容包含科技用語英文搜尋、科技英文閱讀、科技英文寫作、科技英文口語、科技英文報告及等主題。融入文體教學法與職場英文核心能力培養以提升專業英語文能力與自學方式。認識科技文章及科技用語、 語法、文體、結構組織等特質，並探討產品報告及技術報告撰寫方式。認識科技時事議題，瞭解工程技術對環境、社會以及全球之影響，並能持續學習之能力。配合個案研討、分組討論以應用課堂中所學觀念。<br> This course helps the learners recognize grammar, style, and organization on technology and technical writings are concerned. Discussions include specific ways to technical presentation and technical writings. The objective of this course is to provide students with the ability to communicate in English for academic and business purposes in the field of technology, and to enhance their abilities in reading, writing, listening, speaking, and technical report writing in English. <br>The course will also involve coordination of case studies and group discussions to encourage students to apply what they have learned. <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "科技詞彙查詢技巧<br>如何學好科技英文<br>大腦導向英文學習策略<br>科技閱讀數位學習平台<br>科技英文詞彙查詢與自學<br>科技英文實用句型練習<br>科技英文段落分析與寫作<br>科技職場<br>科技名人 <br>科技時事議題<br>AR/AI應用與語言學習<br>Podcasting 實作<br>",
+        "en": "Search Techniques for Technical Terminology<br>Brain-based strategies<br>Learner autonomy and tech reading platform<br>New Jobs in Tech<br>The Startup World<br>Vocabulary and reading in the tech industry<br>Trending Technology<br>Chatting in the Tech Workplace<br>Famous People in Tech<br>Job Interview Preparation<br>AR/AI application and<br>Create Your Own Podcast<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建構科技專業與語言英文知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "跨領域整合能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識科技時事議題，環境、社會以及全球之影響。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創新思考及獨立解決問題之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "個案學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,147 @@
+{
+    "code": "M0D17701",
+    "name": {
+        "zh": "IT於商業與管理應用",
+        "en": "IT Applications in Business and Management"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技餐旅一甲"
+    ],
+    "instructors": [
+        "胡中州"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "S402"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "S402"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "資訊科技於商業和管理的應用日新月異，從早年商業自動化所介紹的商品條碼、商業流程再造、 POS（Point of Sale）銷售時點信息系統、供應鏈管理、ERP企業資源規劃系統、 CRM客戶關係管理系統、行動商務（m-Commerce）等，到今日的人工智慧（ Artificial Intelligence)、區塊鏈（ Block Chain）、雲計算（Cloud computing）、大數據（Big Data）等，資訊科技應用的新時代已經到來。為了讓學生能夠透過做中學的方式體驗資訊科技於商業與管理的新應用並兼顧南臺商管學院新生的特性，本課程設計三類學習經驗幫助學生及早理解資訊科技於商業與管理的重要性，拓展學生資訊科技應用的新視野，並進行有趣的實作體驗以培養自身專業對資訊科技的敏銳度。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "【物聯網互動做中學】透過簡單的程式方塊拖曳，達成快速的應用。<br>•理解物聯網（IoT）基本概念<br>•認識 ESP32開發板<br>•認識Arduino程式方塊<br>•做中學應用1<br>•做中學應用2<br>【個案學習】企業進行數位轉型案例之報告與討論<br>•認識如何準備與學習個案<br>•路易莎連鎖咖啡用AI抓住客人的胃<br>•樺美食品以智慧製造改造小美冰淇淋產線<br>•華元食品自動化品質管控提升產品良率<br>•飲料界「代工天王」歐典生技雲世代數位轉型<br>【人工智慧走一回】<br>•人工智慧（AI）的定義、發展與現況<br>•介紹Google的人工智慧實驗（AI Experiments）<br>•理解人工智慧如何運作<br>•人工智慧實驗實作1<br>•人工智慧實驗實作2<br>•思考人工智慧未來與展望",
+        "en": "【IoT Learning by Doing】Quick fun applications through simple programming skills.<br>•Basic concepts of the Internet of Things (IoT).<br>•The ESP32 (low-cost chip microcontrollers)<br>•Understand the Arduino program blocks<br>•Learning by Doing 1<br>•Learning by Doing 2<br>【Case Studies】Report and discussions of digital transformation cases.<br>•Understand how to prepare and learn from real cases<br>•Case 1 - Louisa Coffee<br>•Case 2 - Hwa Mei Food Company<br>•Case 3 - Hwa Yuan Foods Company<br>•Case 4 - Ou Dean Biotech Company<br>【A Venture into Artificial intelligence】<br>•Definition, development, and current state of artificial intelligence (AI)<br>•Introducing Google's AI Experiments<br>•Understand how AI works<br>•AI Experiment practice 1<br>•AI Experiment practice 2<br>•Thinking about the future outlook of artificial intelligence"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解資訊科技於商業與管理的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "拓展學生資訊科技應用的新視野",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "拓展學生資訊科技應用的新視野",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "拓展學生資訊科技應用的新視野",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養自身專業對資訊科技的敏銳度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養自身專業對資訊科技的敏銳度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養自身專業對資訊科技的敏銳度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

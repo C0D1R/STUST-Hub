@@ -1,0 +1,117 @@
+{
+    "code": "70N16P02",
+    "name": {
+        "zh": "職場自主學習(三)",
+        "en": "Workplace independent study III"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技企管二甲"
+    ],
+    "instructors": [
+        "馬美娟"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第11節",
+            "location": "S314"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學校教育從以前到現在大多以一教百的傳統教學方式，隨著知識來源多元化，科技的創新，逐漸轉移到以學生學習為中心的教學方式。各家公司/工廠因應業界的激烈競爭，員工所需具備之專業知能應不斷擴充與成長，而學校所教的內容無法趕上。所以，藉此課程，以職場上會面對的所有問題作為議題發揮，訓練學生獨立學習的能力，讓學生挖掘問題與學習找答案的方法；其次，從同儕的互動中學習，共同學習可以了解自己在學習中的不足之處，還可以訓練適當表達觀點，並懂得傾聽與接納和自己不同的見解；最後，讓學生具備自我評量的能力，學會為自己的學習成效負責。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "個人職業生涯的發展與人生的規劃息息相關，其中的變數包括了求學、成家立業、一直到退休養老，設立個人的職業目標，不同的角色擔負起不同的任務。本課程主要目標是<br>1. 發現興趣，學習知識，開發工作所需的技能。<br>2. 發展價值觀、動機和抱負。<br>3. 在職場工作中，能瞭解公司/工廠之經營理念、熟悉相關操作流程。<br>4. 接受組織文化，學會與人相處。<br>5. 承擔責任、發展和展示技能和專長。<br>6. 迎接工作的挑戰性。<br>",
+        "en": "The development of a personal career is closely related to the planning of the whole life. The related variables include studying, starting a family, continuing to retirement, setting up individual career goals, and different roles taking on different tasks. The main topics of this course include<br>1. Discover interest, learn knowledge, and develop the skills requirement for your job.<br>2. Develop values, motivations and ambitions.<br>3. In the workplace, you can understand the company/factory business philosophy and be familiar with the relevant operational procedures.<br>4. Accept organizational culture and learn to get along with others.<br>5. Take responsibility, develop and demonstrate skills and expertise.<br>6. Take the challenges of work."
+    },
+    "weeklySchedule": "第1週：<br>1.課程說明<br>2.意見溝通<br><br>第2週：<br>1.ChatGPT指令說明<br>2.ChatGPT指令練習<br>＊SDGs目標4：優質教育，確保有教無類、公平及高品質的教育，及提倡終身學習。<br><br>第3週：<br>1.讀書會說明/選書<br>2.書籍推薦：1《金字塔原理》、2《賽局教養法：讓孩子學會雙贏》、3《刻意練習：原創者全面解析，比天賦更關鍵的學習法》、4《巴黎侍者：城市黑暗中心的冒險，一位年輕作家眼中的底層巴黎》。<br>＊SDGs目標4：優質教育，確保有教無類、公平及高品質的教育，及提倡終身學習。<br><br>第4週： <br>1.訂定讀書計畫一<br>2.討論：如何與組員合作、如何與ChatGPT合作<br>＊SDGs目標4：優質教育，確保有教無類、公平及高品質的教育，及提倡終身學習。<br><br>第5週：<br>1.約談/討論<br><br>第6週：<br>1.約談/討論<br><br>第7週：<br>1.約談/討論<br><br>第8週：<br>1.約談/討論<br><br>第9週：期中考<br><br>第10週：<br>1.訂定讀書計畫二<br>2.討論：如何與組員合作、如何與ChatGPT合作<br>＊SDGs目標4：優質教育，確保有教無類、公平及高品質的教育，及提倡終身學習。<br><br>第11週：<br>1.約談/討論<br><br>第12週：<br>1.約談/討論<br><br>第13週：<br>1.約談/討論<br><br>第14週：<br>1.約談/討論<br><br>第15週：<br>1.職場案例討論一<br><br>第16週： <br>1.職場案例討論二<br><br>第17週：期末考<br><br>第18週：<br>1.課程整理/作業檢討<br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "口試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學生能夠透過此課程理解管理的專業知識和企業管理。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學生能夠可以就由此課程從不同視點中去分析營運的問題，並學習解決問題的方法。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學生能透過此研討來了解並學習到在職場上與同事的之間的工作態度以及合作是非常重要的。",
+            "teachingMethods": [
+                "啟發思考",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能透過此研討培養學生主動學習新的事務，並了解未來工作的環境以及場所。",
+            "teachingMethods": [
+                "分組討論",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.芭芭拉．明托(Barbara Minto)著/陳筱黠譯。《金字塔原理》。台北：城邦，2010。<br>2.雷伯恩（Paul Raeburn）、佐曼 （Kevin Zollman）著/王怡棻譯。《賽局教養法：讓孩子學會雙贏》。台北：天下文化，2020。<br>3.安德斯‧艾瑞克森, 羅伯特‧普爾著/ 陳繪茹譯。《刻意練習：原創者全面解析，比天賦更關鍵的學習法》。台北：<br>方智出版社，2017。<br>4.艾德華．奇索姆著/張家綺譯。《巴黎侍者：城市黑暗中心的冒險，一位年輕作家眼中的底層巴黎》。台北：麥田 出版社，2024。<br><br><br>",
+    "teachingSoftware": "ChatGPT",
+    "rules": "1、課程的內容與進度，將視實際授課狀況調整。<br>2、第1週請務必出席。<br><br>"
+}

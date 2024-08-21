@@ -1,0 +1,139 @@
+{
+    "code": "K0D39703",
+    "name": {
+        "zh": "遊戲設計學",
+        "en": "Game Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技多樂一丙"
+    ],
+    "instructors": [
+        "陳俊瑋"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0703"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0703"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "W0703"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "用程式語言開發android系統遊戲。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. Android 行動裝置平台：學習安裝Android Studio與開發環境設定<br>2. 開發語法：學習基礎JAVA語法<br>3. 應用程式資源：學習常用函式庫<br>4. 檔案資料處理：學習如何處裡外部檔案<br>5. 資源管理分配與生命週期：學習Android系統中的事件生命週期控管<br>6. 廣播事件與廣播接收元件：學習Android系統中廣播與接收事件<br>",
+        "en": "Develop android system games in programming language."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "介紹初始遊戲提案及簡易企劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "遊戲機制說明及勝負條件判斷設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "遊戲各次系統構成世界觀的層次介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "各次系統數值交互影響案例說明",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "關卡設計原則介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解獎勵方法與各種成就設計方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,127 @@
+{
+    "code": "G0D02301",
+    "name": {
+        "zh": "計算機網路",
+        "en": "Computer Network"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資工三甲"
+    ],
+    "instructors": [
+        "鄭錦楸"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "C303"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "C303"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "C303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要介紹網路協定及架構，包括OSI分成模型與TCP/IP通訊協定組合之相關內容，其中特別著重講述網路層與傳輸層之重要協定，期許學生獲許計算機網路必備的知識",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.網路基本概念<br>2.數據通訊<br>3.網路的組成元件<br>4.動手架設區域網路－以乙太網路為例<br>5.其它區域網路技術<br>6.廣域網路<br>7.無線網路<br>8.IP 基礎與定址<br>9.ARP 與 ICMP<br>10.IP 路由<br>11.IPv6 的發展<br>12.UDP 與 TCP<br>13.DNS<br>14.DHCP<br>15.網際網路<br>16.網路管理與安全",
+        "en": "1. Basic concept of network<br>2. Data communication<br>3. Network Devices<br>4. Ethernet<br>5. Other network technology<br>6. Wide area network<br>7. Wireless network<br>8. IP addressing<br>9. ARP and ICMP<br>10. IP routing<br>11. IPv6<br>12. UDP and TCP<br>13. DNS<br>14. DHCP<br>15. Internet<br>16. Management and security of network"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.能描述網路封包的路由方式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.能了解鏈結層、網路層與傳輸層各層定址方式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.能熟練電腦網路的正確設定方式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.能合作解決作業習題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5.能區分UDP與TCP之不同處。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

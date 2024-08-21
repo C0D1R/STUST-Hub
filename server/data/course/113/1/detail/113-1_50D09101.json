@@ -1,0 +1,128 @@
+{
+    "code": "50D09101",
+    "name": {
+        "zh": "系統模擬",
+        "en": "System Simulation"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技工管三甲",
+        "四技工管三乙"
+    ],
+    "instructors": [
+        "張嘉華"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0811"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "T0811"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0811"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "主要探討離散式模擬模式構建方法及其應用，首先將介紹模擬的基本理論，然後介紹模擬軟體ProModel，引導同學學習模擬進行的六大程序，最後介紹幾個在管理上常用到的模擬個案",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.\t模擬的基本概念<br>2.\t模擬常用的機率分配<br>3.\t隨機亂數的產生<br>4.\t蒙地卡羅技術<br>5.\t模擬進行的程序<br>6.\t模擬軟體的介紹<br>7.\t模擬模式的構建<br>8.\t資料的搜集與機率分配之選定<br>9.\t模式的編譯與執行<br>10.\t模式的確認與驗證<br>11.\t輸出結果分析<br>12.\t不同組合決策模式之評估<br>13.\t模擬在管理上應用個案介紹<br>",
+        "en": "1.\tIntroduction to simulation<br>2.\tDistributions<br>3.\tRandom number generators<br>4.\tMonte carlo<br>5.\tSimulation Procedure<br>6.\tIntroduction to eM-plant<br>7.\tModel building<br>8.\tData collection and Distribution fitting<br>9.\tModel translation and execution<br>10.\tModeling Verification and validation<br>11.\tOutput analysis<br>12.\tComparing Alternative System Configurations<br>13.\tCase study<br>"
+    },
+    "weeklySchedule": "Week 1 系統模擬介紹與flexsim基本操作說明<br>Week 2 投料方式對於生產績效之影響<br>Week 3 機台數目對於生產績效之影響<br>Week 4 派工方式對於生產績效之影響<br>Week 5 Random Seed的應用<br>Week 6 Tool Down<br>Week 7~8 Job Shop<br>Week 9 期中考<br>Week 10 Job Shop<br>Week 11 Flow Shop<br>Week 12 MM1 Model<br>Week 13 製造系統模擬<br>Week 14 實作Case 1<br>Week 15 實作Case 2<br>Week 16 實作Case 3<br>Week 17 實作Case 4<br>Week 18 期末報告",
+    "exams": {
+        "midterm": "繳交作業",
+        "final": "繳交作業",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解服務與製造系統的基本行為",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解系統模擬的概念與方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能具備使用模擬的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能具備動態系統評估與改善的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "FlexSim",
+    "rules": ""
+}

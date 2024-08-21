@@ -1,0 +1,116 @@
+{
+    "code": "G0M00701",
+    "name": {
+        "zh": "數位影像處理",
+        "en": "Digital Image Processing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研資工一甲",
+        "碩資工產業一甲"
+    ],
+    "instructors": [
+        "許智淵"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "C202"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "C202"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "C202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程內容包含基本影像強化技術，並對彩色影像處理作介紹，此外，對影像特徵擷取、深度學習，亦有相關探討。",
+    "prerequisites": "基礎程式設計能力",
+    "syllabus": {
+        "zh": "1. 緒論<br>2. 影像處理基礎<br>3. 空間域影像強化<br>4. 頻率域影像強化<br>5. 色彩學<br>6. 影像形態運算<br>7. 邊線、角點與區塊偵測<br>8. 光流<br>9. 深度學習<br>",
+        "en": "1. Introduction<br>2. Digital Image Fundamentals<br>3. Image Enhancement in the Spatial Domain<br>4. Image Enhancement in the Frequency<br>5. Colors<br>6. Morphological Image Processing<br>7. Edge, Corner and Blob Detection<br>8. Optical Flow<br>9. Deep Learning<br>"
+    },
+    "weeklySchedule": "Python 程式設計<br>數位影像基礎<br>幾何轉換<br>影像增強<br>頻率域影像處理<br>影像還原<br>色彩影像處理<br>影像分割<br>二值影像處理<br>小波與正交轉換<br>影像壓縮<br>特徵擷取<br>影像特效<br>深度學習<br>專案實作",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "書面報告",
+        "other": "課程討論"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解數位影像處理原理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "撰寫數位影像處理程式",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "製作數位影像處理專案",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "報告數位影像處理相關文獻",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1. 數位影像處理 Python程式實作 (2nd)，張元翔，全華，2020<br>2. 數位影像處理 (4th)，Gonzalez &amp; Woods，高立，2019<br>3. Python+OpenCV：機器學習+深度學習40大電腦視覺案例入門到實戰，李立宗，深智數位，2023",
+    "teachingSoftware": "",
+    "rules": "請同學尊重智慧財產權，使用正版教科書，不得非法影印，以免觸犯智慧財產權相關法令。"
+}

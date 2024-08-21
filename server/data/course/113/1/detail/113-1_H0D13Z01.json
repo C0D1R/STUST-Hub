@@ -1,0 +1,196 @@
+{
+    "code": "H0D13Z01",
+    "name": {
+        "zh": "應用微生物學",
+        "en": "Applied Microbiology"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技食品三甲"
+    ],
+    "instructors": [
+        "黃韻如"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "I0701"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "I0701"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "I0701"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.專技高考營養師",
+        "2.糖尿病衛教師"
+    ],
+    "description": "應用微生物學為食品與生技相關研究與產品開發之應用學科，本課包括對微生物生理特性的基本認知、生長影響因素、微生物於食品加工與生技產業之應用、微生物引起食品安全相關的食源性疾病、發酵食品應用之微生物、微生物檢驗及控制方法等內容。透過本課程可提升學生未來從事食品生技研究、食品安全衛生管理及食品與生技產品研發製造之實務能力。",
+    "prerequisites": "微生物學",
+    "syllabus": {
+        "zh": "1.\t微生物的型態及特性<br>2.\t微生物的培養方法及影響生長的因子<br>3.\t微生物於食品加工之應用<br>4.\t微生物於生技產業之應用<br>5.\t微生物酵素的應用<br>6.\t微生物引起食源性疾病及食品中毒<br>7.\t應用微生物檢驗方法<br>8.\t應用微生物控制方法及微生物標準<br>",
+        "en": "1.\tMicrobial scopes and characteristics <br>2.\tMethod for microorganism culture and factors that influence the microbial growth<br>3.\tApplication of microorganisms in food processing<br>4.\tApplication of microorganisms in biological technology industry<br>5.\tApplication of microbial enzymes <br>6.\tFoodborne illness and food poisoning caused by microorganisms<br>7.\tMethods for the microbiological examination <br>8.\tMethods for control of microorganisms and microbiological standards<br><br>"
+    },
+    "weeklySchedule": "週數 教學內容<br>1    課程簡介<br>2    微生物之過去與未來<br>3    微生物之分類與保存<br>4    細菌<br>5    細菌<br>6    古細菌<br>7    真菌<br>8    病毒<br>9    期中考<br>10   微生物之一般生理<br>11   微生物之代謝與酵素<br>12   微生物之感染與控制<br>13   微生物酵素之生產與純化<br>14   食品產業之應用微生物<br>15   基因改造作用之應用微生物<br>16   特化產業之應用微生物<br>17   藥劑及環保產業之應用微生物<br>18   期末考",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末考",
+        "other": "平時表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "微生物的型態及特性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "微生物的培養方法及影響生長的因子",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "微生物於食品加工之應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "微生物於生技產業之應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "微生物酵素的應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "微生物引起食源性疾病及食品中毒",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "應用微生物檢驗方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "應用微生物控制方法及微生物標準",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "應用微生物學",
+        "author": "王三郎",
+        "publisher": "高立圖書",
+        "year": "2017",
+        "ISBN": "9789863781288",
+        "edition": "六"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "ppt及影片",
+    "rules": "1.準時上課<br>2.上課不要玩手機<br>3.上課時間請保持安靜，專心聽講，不要趴著睡覺、聊天<br>4.請同學上課用心學習與討論"
+}

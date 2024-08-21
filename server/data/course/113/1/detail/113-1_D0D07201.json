@@ -1,0 +1,141 @@
+{
+    "code": "D0D07201",
+    "name": {
+        "zh": "品牌管理",
+        "en": "Brand Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技行流三甲",
+        "四技行流三乙"
+    ],
+    "instructors": [
+        "林美蘭"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "W0405"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "W0405"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0405"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.行銷企劃師 行銷顧問師",
+        ""
+    ],
+    "description": "品牌管理(Brand Management；BM)乃行銷的一個重要議題。然而BM的內容基本上仍是建立在行銷管理的基本架構上，可從關係觀點（relational view）、人際關係、心理學、社會學來探討各項行銷活動，因此其範圍包括規劃、設計、執行及稽核等課題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "ch 1 introduction 緒論<br>ch 2 customer based brand equity 以顧客為本的品牌權益<br>ch 3 品牌定位<br>ch 4 選擇品牌元素建構品牌權益<br>ch 5 設計行銷方案建構品牌權益<br>ch 6 整合行銷溝通建立品牌權益<br>ch 7 槓桿借用輔助品牌聯想建構品牌權益<br>ch 8 發展一組品牌權益衡量與管理系統<br>ch 9 衡量品牌權益來源：探取顧客的心智集合<br>ch 10 衡量品牌權益結果：探究市場績效<br>ch 11 設計與執行品牌建構策略<br>ch 12 產品命名與品牌延伸<br>ch 13 與時俱進管理品牌<br>ch 14 跨地理區與市場區隔的品牌管理<br>ch 15 結語<br><br><br>",
+        "en": "ch 1 introduction <br>ch 2 customer based brand equity <br>ch 3 brand positioning<br>ch 4 build brand equity for elect brand element <br>ch 5 design marketing project for brand equity<br>ch 6 integrated marketing communication to build brand equity<br>ch 7 to leverage aided brand association to build brand equity<br>ch 8 develop a brand equity measurement and management system<br>ch 9 sources of brand equity measurement<br>ch 10 results of brand equity measurement<br>ch 11 design and execute brand build strategy<br>ch 12 product naming and brand extension<br>ch 13 management brand follow current trend<br>ch 14 management brand for cross geographical and market segmentation <br>ch 15 conclusion <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "品牌相關知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "企劃流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "行銷與銷售管理知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進創意思考",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "擬定具體可行知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "團隊合作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

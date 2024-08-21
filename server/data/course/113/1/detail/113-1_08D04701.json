@@ -1,0 +1,169 @@
+{
+    "code": "08D04701",
+    "name": {
+        "zh": "海外研習培訓課程(一)",
+        "en": "Academic English for Study Overseas(I)"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "包尼爾",
+        "史帝夫"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第11節",
+            "location": "W0402"
+        },
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "W0402"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "W0402"
+        },
+        {
+            "day": "週四",
+            "period": "第11節",
+            "location": "W0404"
+        },
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "W0404"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "W0404"
+        }
+    ],
+    "hours": {
+        "course": "6",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "1.IELTS",
+        ""
+    ],
+    "description": "This is the first semester of a two semester program designed to help students get ready for studying abroad. Students will work on improving their academic speaking, listening, reading and writing skills.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程主要加強同學應考英檢測驗的英文能力；<br>聽－針對考試聽力訓練、訓練學生將聽力應用到短篇作文<br>說－兩人練習、訓練學生表達意見與喜好<br>讀－長篇學術文章閱讀、快速重點閱讀技巧<br>寫－看圖表寫作、文法加強<br>單字－建立廣泛的單字能力<br>定期給予學生模擬測驗，追蹤學生的進步幅度",
+        "en": "Listening<br>*Real life listening practices which teach students to listen for context<br>*Timed listening practices where students practice listening for main ideas and details.<br>*Practice listening to lectures (5+ minutes)<br>*Learning to listen for signaling in lecture language<br>*Simulated (IELTS)listening tests.<br><br>Speaking<br>*Pair work and small group discussions which focuses on specific test questions.<br>*Extensive practice expressing, explaining and giving reasons for opinions and preferences.<br>*Oral presentations that teach students how to organize topics.<br>*Simulated (IELTS) speaking tests.<br><br>Reading<br>*Intensive reading of medium-length academic passages<br>*Training in skimming and scanning<br>*Training in reading strategies such as surveying, predicting, and summarizing<br>*Training in how to recognize unknown vocabulary from context<br>*Simulated reading tests<br><br>Writing<br>*General grammar instruction<br>*Training on thought development in order to be able to logically express an opinion in writing<br>*Instruction and practice on describing graphs, charts, tables, maps, and diagrams in written English<br>*Practice writing in a timed atmosphere<br>*Frequent writing homework assignments<br>*Simulated (IELTS) writing tests<br><br>"
+    },
+    "weeklySchedule": "This skills-based course is designed to help students improve their test-taking skills, specifically those required to do well on the IELTS test. Authentic test materials will be used to explore a variety of topics (e.g. travel, business, environment), allowing students to familiarize themselves with test format and acquire relevant vocabulary. Students will learn how to express opinions, discuss topics at length, and compose both academic reports and opinion essays as is required in the IELTS test. Regular simulated tests will help students track their progress.<br><br>Materials for this course will be provided. No textbook required.",
+    "exams": {
+        "midterm": "Part IELTS Exam",
+        "final": "Full IELTS Exam",
+        "other": "Assignments, Quizzes"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習如何在正式與非正式場合與人互動",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習積極參與課程及與人合作",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習以英語溝通",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習如何談論工作相關主題",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "Useful links: www.bbc.co.uk/worldservice/learningenglish (great for practicing various aspects of ESL); https://www.abc.net.au/education/learn-english/study-english-ielts-preparation/7568250 (great website for speaking style questions and grammar activities); http://learnenglish.britishcouncil.org (provides information about all aspects of learning English and studying in the UK); http://www.ielts.org/ (the official website for IELTS); http://www.englishcentral.com/ (great for practicing listening skills); http://www.ielts-blog.com/ (great for looking at the type of mistakes students often make in IELTS writing); http://www.breakingnewsenglish.com/ (good website for contemporary news with an excellent vocab section).",
+    "teachingSoftware": "",
+    "rules": ""
+}

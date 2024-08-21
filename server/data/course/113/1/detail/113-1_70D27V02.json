@@ -1,0 +1,110 @@
+{
+    "code": "70D27V02",
+    "name": {
+        "zh": "ESG與企業倫理",
+        "en": "ESG and Business Ethics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技企管三乙"
+    ],
+    "instructors": [
+        "方妙玲"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "S510"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S510"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.介紹企業倫理的立論基礎，主要內容為倫理學的基本概念。<br>2.探討企業倫理的主要議題，包含企業與各利益關係人的對應關係及權利義務。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Part 1企業倫理的立論基礎<br>Part 2企業組織的利益關係人<br>Part 3企業組織的社會責任<br>Part 4專題討論：性別平等議題",
+        "en": "Part 1 Foundations of Business Ethics<br>Part 2 The Stakeholder Approach to Business, Society, and Ethics<br>Part 3 Corporate Social Responsibility<br>Part 4 Gender Equity<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解企業倫理的立論基礎，包含倫理、道德及價值的概念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "討論企業經營的倫理議題，引導學生認識企業倫理的意義，進而建立正向的企業經營價值觀。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提供系統性分析架構，並透過個案討論引導學生有組織、有條理的表達與溝通。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過個案討論，引導學生培養正確適宜的行事準則，並能建立職業道德的觀念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,134 @@
+{
+    "code": "50D2CQ02",
+    "name": {
+        "zh": "計算機與程式設計概論",
+        "en": "Introduction to computers and programming"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技工管一乙"
+    ],
+    "instructors": [
+        "廖顯宗"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0806"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0806"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在使學生了解資訊安全相關議題，且能使用HTML建置網頁，利用雲端環境撰寫程式以了解程式設計的脈絡及邏輯架構，並能夠使用大數據分析。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 雲端環境程式撰寫簡介<br>2. 數位資安介紹<br>3. HTML語言介紹與簡易實作<br>4. 虛擬實境(VR)與擴增實境(AR)介紹與簡易實作<br>5. 大數據分析及人工智慧簡介",
+        "en": "1. Introduction to Cloud Environment Programming<br>2. Introduction to Digital Information Security<br>3. Introduction and Implementation of HTML<br>4. Introduction to AR and VR<br>5. Introduction to Big Data Analysis and AI"
+    },
+    "weeklySchedule": "第一週      課程介紹<br>第二週      HTML (1)<br>第三週      HTML (2)<br>第四週      HTML (3)<br>第五週      HTML (4)<br>第六週      Chapter 1<br>第七週      Chapter 2<br>第八週      課程驗收(上機練習)<br>第九週      期中上機考<br>第十週      Chapter 3<br>第十一週    Chapter 4<br>第十二週    Chapter 5<br>第十三週    Chapter 6<br>第十四週    Chapter 7<br>第十五週    Chapter 8<br>第十六週    Chapter 9<br>第十七週    Chapter 10<br>第十八週    期末考 (筆試)",
+    "exams": {
+        "midterm": "期中考試",
+        "final": "期末考試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能在雲端環境下撰寫程式，以了解程式設計的脈絡及邏輯架構。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解資訊安全基礎知識，認識社交工程和勒索病毒，知道個人電腦和行動裝置的資安保護。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能以HTML實作簡易的網頁",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能了解並實作虛擬實境(VR)與擴增實境(AR)",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解常見的大數據工具，並知道如何使用大數據分析。了解人工智慧的相關應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "最新計算機概論2023",
+        "author": "施威銘研究室",
+        "publisher": "旗標",
+        "year": "2022",
+        "ISBN": "978-986-312-713-0",
+        "edition": "1"
+    },
+    "referenceBooks": "HTML5 CSS3網頁程式設計, 施威銘研究室, 旗標（2019）",
+    "teachingSoftware": "HTML,MS Power Point",
+    "rules": "1.請遵守秩序，上課中不得任意進出教室或交談。對於不守秩序或任意缺曠者，將由平時成績中扣分。<br>2.請遵守電腦教室規則，嚴禁攜帶食物和飲料進入。<br>3.指定的報告請準時繳交，逾期不收，以零分計。"
+}

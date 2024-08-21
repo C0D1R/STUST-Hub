@@ -1,0 +1,110 @@
+{
+    "code": "01D14001",
+    "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專電機一甲"
+    ],
+    "instructors": [
+        "洪千焙"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "I0306"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "I0306"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為引領五專部一年級的新生進入計算科學的領域，將於課程中針對電腦軟、硬體、作業系統、網路與資通訊技術、資訊安全、程式語言、演算法、資料結構等主題進行概略性的說明，以做為五專部一年級新生進入專才專業教育的基石。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.數字系統<br>2.資料表示法<br>3.計算機組織<br>4.電腦軟體與作業系統<br>5.網路通訊技術<br>6.物聯網與大數據<br>7.資訊安全<br>8.程式語言<br>9.演算法<br>10.資料結構<br>",
+        "en": "<br>1.Digital system<br>2. Data representation<br>3. Computer organization<br>4. Computer software and operating system<br>5. Network communication technology<br>6. Internet of Things and Big Data<br>7. Information security<br>8. Program language<br>9. Algorithm<br>10. Data structure"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立對資訊工程領域的基礎知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立探索自身興趣領域的基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解資訊技術的發展歷史、現況與趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解資訊技術的應用領域",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

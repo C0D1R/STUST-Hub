@@ -1,0 +1,111 @@
+{
+    "code": "E0D38G01",
+    "name": {
+        "zh": "翻譯入門(一)(A)",
+        "en": "Translation Practice (I)"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技應日三甲",
+        "四技應日三乙"
+    ],
+    "instructors": [
+        "陳柏伸"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "T0109"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "T0109"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "將日文文章翻成中文的課程。主要翻譯<br>內容以網路文章、雜誌以及新聞的文章<br>為主練習。並針對日後職場可能遇見的<br>翻譯項目進行課程調整，解說相關問題<br>",
+    "prerequisites": "本系三年級學生",
+    "syllabus": {
+        "zh": "1.日文和中文的差異在何處？<br>2.日翻中時應注意的問題點<br>3.加譯<br>4.減譯<br>5.需要參見的各工具書及網頁之解說<br>6.文章翻譯、討論",
+        "en": "1. 日本語と中国語における相違性<br>2. 日文中訳における注意点<br>3. 加訳<br><br>4. 減訳<br>5. ためになる道具やサイトの解説<br>6. 文章の翻訳、検討"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習中日翻譯基本要領， 培養翻譯者應有廣泛學習的認知。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由翻譯練習及討論，了解中文與日文基本的表達特色，提升日語讀、寫能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過大量閱讀日文文章，加強日文文章賞析能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過翻譯練習，並於課堂上講解翻譯心得，提升製作報告的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

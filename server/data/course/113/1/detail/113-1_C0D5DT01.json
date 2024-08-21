@@ -1,0 +1,110 @@
+{
+    "code": "C0D5DT01",
+    "name": {
+        "zh": "英語媒體文化創意",
+        "en": "English Media and Culture Creativity"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應英二甲"
+    ],
+    "instructors": [
+        "林尹星"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "N310"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "N310"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程的目的在於讓學生熟悉創意媒材的形式、媒體平台的運用，與創意產業多元發展的面貌，藉此開發學生學習與運用英語的機會。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "數位科技改變傳統媒體運作的型態，更改變了固有媒體消費的模式，媒體社群化、創意消費高度依賴視頻、網路直播與網紅的崛起，數位科技、社群媒體與移動平台不僅重新界定媒體的意義，同時亦重新塑造數位消費文化與創意產業的樣貌。在全球化媒體的運作型態下，本課程讓學生了解並運用台灣文化建立網路媒體，突破地域限制，進而建立更精進他們的英語。內容包括：媒體英語的運用、英語媒體的思維、自我建立英語媒體、媒體中的文化交流。",
+        "en": "Digital technology has changed the pattern of traditional media operations and the inherent media consumption model. Media community and creative consumption are highly dependent on the rise of video, live webcasting and internet celebrity. Students have to learn to define the meaning of the media, and also reshape the appearance of digital consumer culture and creative industries. Under the operating mode of global media, this course allows students to understand and use Taiwanese culture to build online media, break through geographical restrictions, and then build sophisticated English for them. The coursework includes: the use of media English, English media thinking, self-established English media, and cultural exchanges in the media."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "媒體英語的運用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "英語媒體的思維",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "自我建立英語媒體",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "媒體中的文化交流",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

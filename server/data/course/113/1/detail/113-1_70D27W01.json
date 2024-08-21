@@ -1,0 +1,122 @@
+{
+    "code": "70D27W01",
+    "name": {
+        "zh": "計算機與程式設計概論",
+        "en": "Introduction to Computers and Programming"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技企管一甲"
+    ],
+    "instructors": [
+        "汪世義"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "S309"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "S309"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以AI2程式語言為主，學習開發Android裝置上的App應用程式。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1&nbsp; App Inventor入門<br>2&nbsp; 元件與運算<br>3&nbsp; 流程控制與程序<br>4&nbsp; 專題製作",
+        "en": "1 Getting Started with App Inventor<br>2 Components and Devices<br>3 Process control and procedures<br>4 Thematic production"
+    },
+    "weeklySchedule": "第1週\t課程介紹<br>第2~9週\t結構化與模組化<br>第10~16週\t演算法<br>第16~18週\t互動程式設計",
+    "exams": {
+        "midterm": "上機考",
+        "final": "上機考",
+        "other": "報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解計算機與程式設計領域在商業上應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－上機考"
+                },
+                {
+                    "method": "平時",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "加強資訊科技於管理工作及生活中的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－上機考"
+                },
+                {
+                    "method": "期中",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "計算機領域相關證照內容之練習",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－上機考"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使用資訊科技之際顧到資訊倫理與企業倫理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "運算思維與App Inventor2程式設計",
+        "author": "簡良諭",
+        "publisher": "台科大圖書",
+        "year": "2022",
+        "ISBN": "9789865234492",
+        "edition": "初版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "App Inventor 2",
+    "rules": "若有可加選的名額，以第一次有上課者優先。<br>請第一次『上課前』先告知！<br>PS:第一次上課極為重要，務必前來了解此課程是否適合！<br>"
+}

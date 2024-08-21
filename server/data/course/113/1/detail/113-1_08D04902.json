@@ -1,0 +1,142 @@
+{
+    "code": "08D04902",
+    "name": {
+        "zh": "英文閱讀與寫作(B)",
+        "en": "English Reading and Writing"
+    },
+    "credit": "2",
+    "type": "管制選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "朱珊慧"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0113"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0113"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "2"
+    },
+    "languages": [
+        "1.英語",
+        "2.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course aims to help students expand vocabulary, develop reading skills and reading comprehension through reading a wide variety of articles related to our local cultures; meanwhile, students can link the reading texts to practice writing skills and are able to write at least two-paragraph long cohesive essays. By revising the drafts of their own writing, students will also gain self-editing experience. Since the reading texts are related to the local history and cultures of Taiwan, this course also prepares the students to become a global citizen with the perspectives of glocalization as well as consciousness of Taiwanization.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.幫助學生熟悉英文閱讀技巧,例如根據上下文判斷字義。<br>2.培養獨立閱讀英文文章之能力,例如如何掌握文章大意。<br>3.閱讀不同類型的文章,強化學生辨識文章組織結構之能力。<br>4.使學生熟悉英文寫作不同文體的寫作策略。<br>5.引導學生認識台灣歷史與文化，養成深具台灣主體意識兼具世界觀的公民。",
+        "en": "1.To familiarize students with English reading skills, such as getting meanings of the words from context<br>2.To develop students’ abilities to read English texts independently, such as understanding the main idea<br>3.To help students read different types of texts and to enhance their abilities of identifying the text structure<br>4.To familiarize students with writing strategies of different genres<br>5.Guide students to learn about Taiwanese history and cultures to raise students’ awareness of Taiwanization as well as becoming a global citizen with the perspectives of glocalization."
+    },
+    "weeklySchedule": "W1  placement test<br>W2  Unit 2 Animal Kingdom<br>W3  Unit 2 Animal Kingdom<br>W4  Unit 2 Animal Kingdom<br>W5  Unit 2 Animal Kingdom<br>W6  Unit 4 Food, Glorious Food <br>W7  Unit 4 Food, Glorious Food <br>W8  Unit 4 Food, Glorious Food<br>W9  Midterm Exam <br>W10  Unit 4 Food, Glorious Food<br>W11  Review <br>W12  Unit 5 Telling the Story <br>W13  Unit 5 Telling the Story<br>W14  Unit 5 Telling the Story <br>W15  Unit 5 Telling the Story<br>W16  Review <br>W17  Review <br>W18 Final Exam Week",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "實作筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "Discussion / learning topics from different disciplines, and moral themes related to modern society.",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "Students will have classroom discussions, work in groups, and complete assignments.",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "Students will communicate orally with one another in a relaxed environment.",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "Students will develop English reading and writing skills.",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "Students will use online resources to write, collaborate and edit written work.",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "Students will learn how to integrate with others via oral communication.",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Writing Essays from paragraph to essay 3",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

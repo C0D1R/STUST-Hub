@@ -1,0 +1,126 @@
+{
+    "code": "90D24A03",
+    "name": {
+        "zh": "計算機與程式設計概論",
+        "en": "Introduction of Computer and Program Design"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技資管一丙"
+    ],
+    "instructors": [
+        "張儀興"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "E0402"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "E0402"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "就資訊管理的人而言，計算机應歸屬為工具，基礎知識相當重要！本課程分為五個部分：電腦和資料、電腦硬体、電腦軟體、資料組織、及其它進階問題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.簡介<br>2.資料儲存<br>3.數字表示法<br>4 資料運算<br>5.計算機組織<br>6.電腦網路<br>7.作業系統<br>8.演算法<br>9.程式語言",
+        "en": "1. Introduction<br>2. Data Storage<br>3. Number Representation<br>4. Operation on Data<br>5. Computer Organization<br>6. Computer Networks<br>7. Operating System<br>8. Algorithms<br>9. Programming Languages"
+    },
+    "weeklySchedule": "第一週 計算機介紹<br>第二週 第一章 用拼塊建構程式運算思維<br>第三週 第二章 使用者介面<br>第四週 第三章 基礎運算<br>第五、六、七週 第四章 流程控制<br>第八週 第五章 程序應用<br>第八週 第六章 多媒體<br>第九週 期中考<br>第十週 第六章 多媒體<br>第十一週 第七章  繪圖與動畫<br>第十二週 第八章  電話簡訊與網路<br>第十三、十四週 第九章  清單<br>第十五、十六週  檔案與資料庫<br>第十七、十八週 專題報告<br>",
+    "exams": {
+        "midterm": "筆試及上機考",
+        "final": "專題報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解程式語言的邏輯運算",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解網路管理的基礎理論",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能建立管理資訊專業知識的基礎理論",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用電腦軟體解決電腦實務問題",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解資訊科技的趨勢",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "App Inventor 2 零基礎入門班",
+        "author": "文淵閣工作室",
+        "publisher": "碁峯",
+        "year": "2023",
+        "ISBN": "978-626-324-538-9",
+        "edition": "六"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "appinventor",
+    "rules": ""
+}

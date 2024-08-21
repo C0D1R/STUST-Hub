@@ -1,0 +1,136 @@
+{
+    "code": "C0N29101",
+    "name": {
+        "zh": "進階職場英語溝通",
+        "en": "Advanced Business Communication"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜二技應英三甲",
+        "夜四技應英三甲"
+    ],
+    "instructors": [
+        "黃郁琇"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "N202"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "N202"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "N202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程幫助學生加強工作場中所使用之英語能力，如會議、電話、協商、簡報、進行社交活動，以有效達成溝通之目的。<br><br>The course is designed to help students improve their English skills in the key areas of business communication: taking part in meetings, telephoning, negotiating, presenting and socializing. <br>Students will develop better understanding of English for business communication so that they can achieve their goals in different business contexts.<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 顧客關係建立<br>2. 電話英文<br>3. 簡報英文<br>4. 會議英文<br>5. 商業協商<br>",
+        "en": "1.Building a relationship<br>2.Using the telephone<br>3.Presentations<br>4.Meetings<br>5.Negotiation"
+    },
+    "weeklySchedule": "1  Unit 1 <br>2  Unit 2<br>3  Unit 3 <br>4  Unit 4<br>5  Unit 5<br>6  Unit 5<br>7  Unit 6<br>8  Unit 6<br>9  期中考<br>10  Unit 7<br>11  Unit 7<br>12  Unit 8<br>13  Unit 9<br>14 Unit 10<br>15 Unit 11 <br>16 Unit 12<br>17 元旦放假<br>18 期末考<br><br>",
+    "exams": {
+        "midterm": "Presentation ad Exam",
+        "final": "Presentation and Exam",
+        "other": "Quiz, worksheet, activity"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養學生職場必備之英語口說與寫作核心能力以進行商務對話、簡報、溝通協商、社交活動、以及書信來往。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生職場必備之英文聽讀核心能力以進行商務對話、溝通協商、會議討論、社交活動、以及書信往來。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "幫助學生熟悉並了解職場各種需要使用英文進行溝通的情境和專業程序。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期中"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "幫助學生在各種職場情境中靈活運用英語溝通能力以有效達成目的。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生思考整合和互助合作以\n完成工作計畫與案件之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "English for Key Business Skills: Networking, Presentations, Meetings, and Negotiations",
+        "author": "Barry Tomalin",
+        "publisher": "寂天",
+        "year": "2024",
+        "ISBN": "9786263002197",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "評量方式:<br>50 % 平常小考 課堂活動<br>15% 期中考<br>10% 期中報告<br>15% 期末考<br>10% 期末報告<br>"
+}

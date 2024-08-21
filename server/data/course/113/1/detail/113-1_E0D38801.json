@@ -1,0 +1,110 @@
+{
+    "code": "E0D38801",
+    "name": {
+        "zh": "資料分析與應用",
+        "en": "Data Analysis and Application"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應日一甲"
+    ],
+    "instructors": [
+        "陳信豪"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "N310"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "N310"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著大數據普遍運用，各行各業越來越重視人員在資料分析與應用的技能，如何運用資料分析手法，讓人一目了然立即掌握分析結果與重點，展現資料分析的價值，更具挑戰性。本課程著重於使用實際的案例資料，說明資料分析的流程，首先是讓學生瞭解資料的概念與定義，並學會資料的蒐集與處理、分析與彙整，進而能有效的進行資料的呈現與應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、資料分析的基礎概念<br>二、資料分析的基本工具<br>三、大數據之開放資料的介紹<br>四、問卷調查之規劃與設計<br>五、線上問卷的表單實作<br>六、資料的描敘性統計分析<br>七、資料的推論性統計分析<br>八、簡易繪圖與報表之製作<br>九、進階樞紐分析表之應用<br>十、統計圖表與資料視覺化<br>",
+        "en": "1. Basic concepts of data analysis<br>2. The basic tools of data analysis<br>3. Introduction of open data in a big data world<br>4. Planning and design of the questionnaire survey<br>5. Create forms of online questionnaire<br>6. Descriptive statistical analysis of data<br>7. Inferential statistical analysis of data<br>8. Make simple drawings and reports of data<br>9. The application of advanced pivot table<br>10. Charts and tables for data visualization<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解資料分析與應用的基本程序與方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用資料分析之相關套裝軟體的功能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備解讀資料分析產出的圖表及報告的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能活用資料分析方法於實務問題的個案。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

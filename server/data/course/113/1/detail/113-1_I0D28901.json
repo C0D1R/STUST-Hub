@@ -1,0 +1,115 @@
+{
+    "code": "I0D28901",
+    "name": {
+        "zh": "創意遊戲教學活動設計與實務(一)",
+        "en": "The instructional design for children creative games (Ⅰ)"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技幼保四甲"
+    ],
+    "instructors": [
+        "高家斌"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "W0503"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "W0503"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "W0503"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "近年來，創意在兒童教育產業的應用日趨頻繁，而創意遊戲的應用需求也快速增加，為了培養學生具備創意遊戲教學活動的設計能力，本課程透過情境教學方式，希望提升同學的創意遊戲教學的設計及實施知能，並實地體驗創意遊戲教學的教育過程，以增進同學對於創意遊戲教學活動的設計與指導能力，使其教學更爲生動且活潑有趣。課程內容係透過書籍閱讀、觀察體驗、遊戲實驗、網際科技應用和主題探討等互動學習方式進行。目的在帶領學生認識創意遊戲的內涵及熟悉幼兒創意遊戲教學活動的設計及實施技能。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "課程介紹<br>幼兒科學遊戲實務應用<br>幼兒科學遊戲活動設計<br>幼兒科學遊戲活動實施<br>食品科學活動設計與實施(一)<br>食品科學活動設計與實施(二)<br>幼兒氣球與遊戲活動設計(一)<br>幼兒氣球與遊戲活動設計(二)<br>親子創意活動設計<br>想像與創造的教學活動設計<br>幼兒積木課程的教與學<br>幼兒積木桌遊課程設計(一)<br>幼兒積木課程設計(二)",
+        "en": "Early childhood science game practice application<br>Early childhood science game activity design<br>Early childhood science game activity implementation<br>Design and implementation of food science activities (1)<br>Design and implementation of food science activities (2)<br>Children's balloon and game activity design (1)<br>Children's balloon and game activity design (2)<br>Parent-child creative activity design<br>Imaginative and creative teaching design<br>Teaching and learning of children's building blocks<br>Children's wooden table tour course design (1)<br>Design of children's building blocks (2)"
+    },
+    "weeklySchedule": "第一週：認識課程內容<br>第二週：介紹幼兒創意遊戲的基本概念和實際應用<br>第三週：學習如何設計適合幼兒的遊戲活動<br>第四週：探討如何實施幼兒遊戲活動<br>第五、六週：介紹與食品相關的科學活動，並實際設計活動<br>第七、八週：介紹與自然環境相關的科學活動，並實際設計活動<br>第九、十週：探討如何設計能夠增近親子關係的活動，並實際設計<br>第十一、十二週：探討如何讓設計讓幼兒能夠激發想像力與創造力的活動<br>第十三、十四週：探討如何有效地透過桌遊促進幼兒學習和互動，了解幼兒在遊玩桌遊時可能會遇到的問題<br>第十五～十八週：運用前些課程所學的科學活動知識，來設計一個桌遊活動。<br>",
+    "exams": {
+        "midterm": "報告",
+        "final": "報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解遊戲創意教學在幼兒教育的實施內涵",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解幼兒遊戲創意教學的實施方式",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "增進學生對於幼兒創意遊戲教學活動的專業知能",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "擴大學生對於幼兒創意遊戲教學實施之瞭解及視野",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

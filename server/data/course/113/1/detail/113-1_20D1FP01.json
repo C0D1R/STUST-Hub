@@ -1,0 +1,115 @@
+{
+    "code": "20D1FP01",
+    "name": {
+        "zh": "醫療器械檢測原理與實務",
+        "en": "Principle and Practice of Medical Device Detection"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技醫電三甲"
+    ],
+    "instructors": [
+        "楊弘吉"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "B002"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "B002"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "B002"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "主要說明醫療儀器檢測標準，以及IEC60601-1之要求與檢測原理，並介紹各項功能性之檢測技術。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.醫電設備標準發展介紹<br>2.醫電設備之分類與標示<br>3.IEC 60601-1之基本測試要求與檢測原理<br>4.醫電設備重要測試項目",
+        "en": "1.Introduction to the development of medical equipment standards<br>2.Classification and labeling of medical equipment<br>3.IEC 60601-1 basic test requirements and testing principles<br>4.Important test items for medical equipment"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "醫電設備標準發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "醫電設備電性安全檢測技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "醫電設備功能性檢測技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "IEC60601-1法規認識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

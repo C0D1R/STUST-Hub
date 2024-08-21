@@ -1,0 +1,115 @@
+{
+    "code": "E0N09I01",
+    "name": {
+        "zh": "日本文章導讀(一)",
+        "en": "Introduction to Japanese literature I"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技應日三甲"
+    ],
+    "instructors": [
+        "楊琇媚"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "T0112"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "T0112"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "T0112"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要是閱讀日文文章，透過文意的理解，來熟悉日語的用法，解說内容如下：<br>１動詞語尾活用<br>２接續詞運用<br>３文章組成、句子結構分析（例如複文<br>、修飾句、慣用句等）",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程希望透過研讀及理解上級日語程<br>度的文章,來提升同學的閱讀能力。使同<br>學在寫作時,可以運用更多的句型,具備更<br>正確的文法概念,並以培養上級日語能力<br>為學習目標。<br>(Ａ組)<br>⑴強調<br>⑵原因▪理由<br>⑶無關係<br>⑷否定<br>⑸傾向▪樣子▪狀態<br>⑹感情<br>⑺可能▪不可能▪容易▪困難<br>⑻斷定▪主張<br>⑼條件<br>⑽傳聞▪推量<br>(以上僅供參考,會視實際情形作適當調整)<br><br>⑴附加<br>⑵附帶▪非附帶<br>⑶願望▪感嘆<br>⑷例示▪並例<br>⑸比較<br>⑹話題<br>⑺逆接<br>⑻經過▪結論<br>⑼勸誘▪忠告▪禁止<br>⑽判斷▪評價<br>(以上僅供參考,會視實際情形作適當調整)",
+        "en": "中級日本語の文章を理解することによっ<br>て、中級日本語の力を着実に伸ばすこと<br>ができます。また、表現が応用できる<br>力をつけることを訓練します。最終的に<br>は中級日本語を習得させることを目標と<br>しています。<br>(Ａ組)<br>⑴強調<br>⑵原因▪理由<br>⑶無關係<br>⑷否定<br>⑸傾向▪樣子▪狀態<br>⑹感情<br>⑺可能▪不可能▪容易▪困難<br>⑻斷定▪主張<br>⑼條件<br>⑽傳聞▪推量<br>(以上は参考のみで、場合によって調整することもあります。)<br>⑴付加<br>⑵付帶▪非付帶<br>⑶願望▪感嘆<br>⑷例示▪並例<br>⑸比較<br>⑹話題<br>⑺逆接<br>⑻經過▪結論<br>⑼勸誘▪忠告▪禁止<br>⑽判断▪評價の視点<br>(以上は参考のみで、場合によって調整することもあります。)<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "分析文章中日語句型及語法， 奠定學生清晰的文法基礎。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析文章中日語句型及語法， 奠定學生清晰的文法基礎。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升學生分析文章的能力，培養日語文章的閱讀能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉課堂上所習得的文法槪念及文章閱讀，建立同學基礎的日語溝通技巧與能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

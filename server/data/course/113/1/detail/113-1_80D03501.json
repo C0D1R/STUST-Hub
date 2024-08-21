@@ -1,0 +1,127 @@
+{
+    "code": "80D03501",
+    "name": {
+        "zh": "貨幣銀行學",
+        "en": "Money and Banking"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技財金二甲"
+    ],
+    "instructors": [
+        "朱岳中"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "S413"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S413"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S413"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "貨幣銀行學的內容包含貨幣經濟的本質、金融體系、利率、外匯市場、中央銀行與貨幣政策、總體貨幣理論等主題。",
+    "prerequisites": "經濟學原理",
+    "syllabus": {
+        "zh": "1.導論<br>2.金融體系與利率、匯率<br>3.貨幣供需與貨幣政策<br>",
+        "en": "1. Introduction<br>2. Financial system and interest rates, exchange rates<br>3. Money supply and demand and monetary policy<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解貨幣銀行學的基本學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用理論方法解決金融實務問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現分析結果，並增強報告之溝通技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解全球貨幣金融情勢變動，調整自我適應社會環境變遷之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用貨幣金融思維之重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

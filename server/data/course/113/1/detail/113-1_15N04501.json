@@ -1,0 +1,147 @@
+{
+    "code": "15N04501",
+    "name": {
+        "zh": "汽車塗裝技術",
+        "en": "Automotive Painting Technology"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技車輛四甲"
+    ],
+    "instructors": [
+        "王平會"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "R402"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "R402"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "R402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "闡述汽車塗裝技術的核心概念，使具備有汽車塗裝技術的理論基礎，要成為汽車修補塗裝熟練的技術者，必需要累積多年經驗與直覺作基礎。若是施予適當的專業課程，學會正確的理論基礎，應可在短期間內就能熟練修補塗裝技術，並且可藉著正確知識與基本作業，解決現場發生之問題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.車輛塗裝概論<br>2.車輛塗裝裝備<br>3.新車塗裝<br>4.車輛塗裝補修方法<br>5.塗膜缺陷的原因與對策<br>",
+        "en": "1.Automotive Painting  Introduction<br>2.Automotive Painting equipment<br>3.New Automotive Painting <br>4.Automotive Painting repair method<br>5.The reason  and countermeasures of Coating film<br>"
+    },
+    "weeklySchedule": "1.車輛塗裝概論<br>2.車輛塗裝裝備<br>3.新車塗裝<br>4.車輛塗裝補修方法<br>5.塗膜缺陷的原因與對策<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "口試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生了解汽車塗裝之定義與目的，進而瞭解各塗料的功能與分類，塗裝前準備事項及 塗裝作業的安全與衛生。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解下地處理的程序與注意事項，進而了解底漆、補土、中塗漆的選用與施工要領。熟悉色及調色之基礎知識，並能了解調色方法及調色設備之作業應用。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "使能了解噴槍構造原理及型式，進而學會噴槍正確的使用方法及技巧。能了解防塗的目的，並能正確利用防塗材料及設備，進行防塗作業。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解塗膜缺陷的分類和型式，擬定對策找出修補方法。認識塗料的乾燥，並能正確利用拋光工具及材料，進行拋光作業。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "車輛塗裝技術",
+        "author": "曾文賢",
+        "publisher": "全華",
+        "year": "2012",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "王之政、王裕寧、張建興合著，汽車塗裝（第三版），全華圖書公司。2012年2月14日",
+    "teachingSoftware": "",
+    "rules": "出席率，上課表現"
+}

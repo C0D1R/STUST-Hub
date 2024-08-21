@@ -1,0 +1,115 @@
+{
+    "code": "1FM02801",
+    "name": {
+        "zh": "教育社會學研究",
+        "en": "Sociology of Education"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研教經一甲"
+    ],
+    "instructors": [
+        "鄭育萍"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "N107"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "N107"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "N107"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以社會學的觀點探討教育相關議題，如社會情境與教學、教育制度、組織、政策與教育過程的相互影響。課程將介紹教育社會學的發展、概念與理論以及於教育諸議題的應用，並提供學生運用教育社會學的架構與知識，分析當前台灣社會與教育互動之相關議題，並據此發想可能解決之道，培養學生觀察、分析教育議題，以及從事教育工作之反思與洞識能力。本課程上課包括課堂講授、課堂討論、反思筆記等方式進行。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.教育社會學理論概要<br>2.社會期待: 教育目的及功能的爭議<br>3.社會化與教育: 影響學校教育成效的社會歷程<br>4.社會階層化與教育: 教育機會不均等的原因<br>5.社會制度與教育: 決定教育格局的社會因素<br>6.科層體制: 學校運作的主要模式<br>7.社會變遷、社會問題與教育<br>8.學校組織特性的分析<br>9.學校組織的社會環境<br>10.班級社會體系的分析<br>11.教師角色的社會學分析<br>12.學生角色的社會學分析<br>13.班級社會體系中的師生關係<br>14.教育改革的社會學分析及教育社會學的展望<br>",
+        "en": "1.The theories of Sociology of Education<br>2.The debate of Goal and Function about Education<br>3.Socialisation and Education<br>4.Social Stratification and Education<br>5.Social System and Education<br>6.Bureaucracy<br>7.Social Change, Social Problem and Education<br>8.Analysis about Particularity of School as a Organisation<br>9.The School’s Environment<br>10.Analysis about the Class as a Social System<br>11.The Role of Teachers<br>12.The Role of Students<br>13.The Relationship between Teacher and Student in a Class<br>14.The Analysis about Innovation of Education<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1. 能了解教育社會學的發展演變、重要學說、研究方法與未來趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2. 能瞭解教育過程中的社會影響因素，並能運用理論以提升教育效能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3. 能具有教育社會學的視野，與對當前教育現況進行反思的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4. 培養學生以教育社會學議題，進行思辯與應用之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

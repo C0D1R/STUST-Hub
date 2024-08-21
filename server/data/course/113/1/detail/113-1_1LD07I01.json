@@ -1,0 +1,127 @@
+{
+    "code": "1LD07I01",
+    "name": {
+        "zh": "俄羅斯文化",
+        "en": "Russian Culture"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "陳桂容"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0310"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "T0310"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "T0310"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程將會對俄羅斯作概括性的介紹，包含：俄國現勢、地理位置、歷史、宗教、文學、藝術、風俗民情等等。也會對同學有興趣的主題作更深入的介紹。課堂中，老師也將分享其在俄羅斯留學期間所見所聞，位同學揭開其神秘面紗，讓同學正確地認識金磚四國之一的俄羅斯。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程分成八個主題。每個主題均詳細介紹俄羅斯真實而多元的文化內涵。同學可以藉著這些單元，認識到真正的俄羅斯。<br>1.俄羅斯現況<br>2.俄國歷史簡介<br>3.宗教：東正教<br>4.藝術：音樂、美術、電影、建築、民間藝術...<br>5.文學<br>6.觀光旅遊<br>7.飲食文化<br>8.風俗民情<br>",
+        "en": "This course is divided into eight topics. Each theme introduces the true and diverse cultural connotation of Russia in detail. Students can know the real Russia through these sections.<br>1. The condition of Russia nowadays<br>2. The short Russian history<br>3. Religion: the Orthodox Church<br>4. Art: music, painting, movie, architecture and folk art<br>5. Literature<br>6. Tourism<br>7. Diet<br>8. Customs<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能具備人文藝術的基本知能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現自己對本土及國際文化的理解。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以組織、有條不紊地語文來適切表達。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能負責盡職、秉持敬業精神完成各項任務。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能理解文化與歷史的意義，並於生活中展現反省、理性思辨的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,131 @@
+{
+    "code": "B0N09701",
+    "name": {
+        "zh": "休閒導論",
+        "en": "Introduction to Leisure and Recreation"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技休閒一甲"
+    ],
+    "instructors": [
+        "王嘉淳"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "T0608"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "T0608"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "T0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要目的在介紹休閒的基本概念以及休閒在現代社會的現況與發展。課程重點除了提供學生所應具備的基本休閒知識之外，也希望培養學生對休閒活動的樂趣，並對休閒產業具備完整的概念。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "休閒的歷史發展<br>休閒的本質<br>休閒的需求<br>休閒生活型態、性別與家庭<br>休閒娛樂與弱勢族群<br>休閒的經濟和政治重要性<br>休閒場所<br>休閒供給的政治架構<br>休閒與地方政府<br>商業部門的休閒<br>休閒與志工部門<br>教育與休閒<br>休閒與健康生活<br>休閒及其未來展望<br>",
+        "en": "Historical development of leisure<br>The essence of leisure<br>Leisure needs<br>Leisure lifestyle, gender and family<br>Recreation and disadvantaged groups<br>Economic and political importance of leisure<br>Leisure place<br>Political structure of leisure supply<br>Leisure and local government<br>Leisure in the business sector<br>Leisure and volunteer department<br>Education and leisure<br>Leisure and healthy life<br>Leisure and its future prospects"
+    },
+    "weeklySchedule": "第一週    課程介紹<br>第二週    影片賞析- <br>第三週    何謂休閒<br>第四週    影片賞析-<br>第五週    休閒與管理<br>第六週    影片賞析-<br>第七週    休閒服務與品質<br>第八週    影片賞析-<br>第九週    休閒行銷政策與策略<br>第十週    影片賞析-<br>第十一週  休閒風險與糾紛處理<br>第十二週  影片賞析-<br>第十三週  休閒活動企劃<br>第十四週  影片賞析-<br>第十五週  休閒產業之企業社會責任<br>第十六週  影片賞析-<br>第十七週  休閒產業的未來與發展<br>第十八週  期末考週***",
+    "exams": {
+        "midterm": "個人作業",
+        "final": "個人報告",
+        "other": "課堂作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解當今休閒概念、角色與功能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解休閒產業各部門，以及所需具備的專業能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解影響參與休閒活動的各種社會文化與個人因素",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解休閒產業未來發展與可能遇到的挑戰",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "發展休閒綜合知識技能與指出可能問題之所在",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "休閒遊憩概論",
+        "author": "張馨文、蔡宜均",
+        "publisher": "華立圖書",
+        "year": "2015",
+        "ISBN": "978-957-784-596-2",
+        "edition": "3"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

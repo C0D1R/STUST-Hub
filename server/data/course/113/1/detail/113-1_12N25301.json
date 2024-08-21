@@ -1,0 +1,129 @@
+{
+    "code": "12N25301",
+    "name": {
+        "zh": "實務專題(二)",
+        "en": "Senior Project (II)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技自控四甲"
+    ],
+    "instructors": [
+        "林育昇",
+        "林開政",
+        "蘇嘉祥"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第11節",
+            "location": "K404"
+        },
+        {
+            "day": "週六",
+            "period": "第11節",
+            "location": "K404"
+        },
+        {
+            "day": "週六",
+            "period": "第12節",
+            "location": "K404"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程是延續上個學期「實務專題(一)」的課程，是以「問題本位學習」的方法教學，即是以問題為焦點，以專題所涉及之問題的探究或問題的解決來組織或主導課堂活動。因此，「問題本位學習」所採取的是一種比較注重學生整合而全面發展的教學設計；亦即，學生在針對其專題的問題進行瞭解、並在問題解決方案的歷程之中，得到學習的成果。其可貴之處在於，學生在學習過程之中，可以培養樂觀進取、主動熱情的態度，並會對問題有較為宏觀的看法，也能提升他們解決真實生活問題的能力。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "一、 設計專題與概念設計—概念設計的修改與確認<br>二、 設計專題與具體設計—機構的具體化/控制系統的具體設計<br>三、 設計專題與細部設計—工程圖與電路圖的產出<br>四、 設計專題與實作測試—原型機的產出/實驗測試<br>五、 設計專題與設計表達—結案報告/技術文件的撰寫<br>六、 設計專題與設計表達—專利技術文件的撰寫",
+        "en": "1. Conceptual design<br>2. Design solidification<br>3. Detailed design<br>4. Prototype and test verification<br>5. Technical report writing<br>6. Patent application <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "概念設計的修改與確認",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "機構的具體化/控制系統的具體設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "工程圖與電路圖的產出",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "原型機的產出/實驗測試",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "結案報告/技術文件的撰寫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

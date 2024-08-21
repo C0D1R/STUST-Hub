@@ -1,0 +1,120 @@
+{
+    "code": "30D1FF01",
+    "name": {
+        "zh": "套裝軟體應用實習",
+        "en": "Suite Software Applications Practicum"
+    },
+    "credit": "2",
+    "type": "系定選修",
+    "classes": [
+        "五專電子一甲"
+    ],
+    "instructors": [
+        "謝文哲"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "J404"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "J404"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "J404"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "J404"
+        }
+    ],
+    "hours": {
+        "course": "4",
+        "practice": "4"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在今日的科技時代，能夠實際操作和應用套裝軟體是極為重要的技能。《套裝軟體應用實習》課程不僅讓學生了解套裝軟體的理論知識，更重要的是提供實際的操作經驗和實務技能。透過實際的操作和專案實作，學生將深入了解套裝軟體的各種應用方法和技巧。<br><br>本課程將融合理論與實務，使學生在理解套裝軟體的基本原理的同時，也能夠實際應用在各種情境中。課程中的實習活動和專案都是針對真實世界的問題和需求所設計，讓學生在學習過程中體驗真實的工作情境，並培養其解決問題的能力。<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "套裝軟體的基本操作與實務技能<br>文書處理軟體的實際應用與練習<br>資料庫管理軟體的操作實務<br>表格和資料分析軟體的實務技巧<br>報告和演示軟體的實際設計<br>真實世界的套裝軟體整合專案<br>",
+        "en": "Practical Operations and Skills of Suite Software<br>Hands-on Application and Exercise with Word Processing Software<br>Practicum on Database Management Software Operations<br>Practical Techniques in Spreadsheet and Data Analysis Software<br>Actual Design with Reporting and Presentation Software<br>Real-world Suite Software Integration Project<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "實際操作和熟練應用各種套裝軟體。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過實際操作，解決真實世界的問題和需求。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "整合和應用套裝軟體於具體的專案中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "評估並選擇最適合的套裝軟體工具完成專案任務。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

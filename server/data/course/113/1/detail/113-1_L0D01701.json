@@ -1,0 +1,128 @@
+{
+    "code": "L0D01701",
+    "name": {
+        "zh": "光學(一)",
+        "en": "Optics (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技半導體三甲"
+    ],
+    "instructors": [
+        "涂瑞清"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "R502"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "R502"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "R502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.LED工程師基礎能力鑑定考試",
+        ""
+    ],
+    "description": "講解光的基本傳播特性,幾何光學,波動光學,光的極化特性",
+    "prerequisites": "微積分,物理",
+    "syllabus": {
+        "zh": "1. 光的傳播<br>2. 幾何光學<br>3. 波動光學<br>4. 光的極化<br>",
+        "en": "1. The propagation of Light<br>2. Geometrical Optics<br>3. Wave Optics<br>4. Polarization of Light<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解光學基本原理在現代科技社會之應用,介紹光的傳播特性-對於光的傳播、海更斯原理、折射與反射、費瑪定理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解幾何光學: 透鏡、球面折射、薄透鏡與透鏡成像、透鏡組與成像、球面鏡反射與成像、光線追跡法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解波動光學: 波動與微分方程式、諧振波、波的疊加原理、同頻波疊加、駐波、異頻波疊加、群速與色散",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解光的極化:極化狀態定義、線性極化及軌跡描繪",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "圓極化、橢圓極化、極化器原理、Malus’s Law",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

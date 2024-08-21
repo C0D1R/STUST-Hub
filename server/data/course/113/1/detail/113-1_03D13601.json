@@ -1,0 +1,110 @@
+{
+    "code": "03D13601",
+    "name": {
+        "zh": "國語文概論",
+        "en": "Introduction to Chinese"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "教育學程－小"
+    ],
+    "instructors": [
+        "何銘鴻"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "W0401"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "W0401"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要期望學生對國語文有初步瞭解，提供學習語文領域的基本知識，培養學生未來進一步修習以及教導國語文的能力，並作為進階教材教法的基礎。<br>【專業素養指標】<br>1-3 了解我國教育政策、法規及學校實務，以作為教育實踐基礎。<br>2-2 了解並運用學習原理，以符合學生個別學習需求與發展。<br>3-1 依據課程綱要/大綱、課程理論及教學原理，以規劃素養導向課程、教學及評量。<br>3-3 具備任教領域/群科/科目所需的專門知識與學科教學知能，以進行教學。<br>3-5 應用多元教學策略、教學媒材與學習科技，以促進學生有效學習。<br>3-6 根據多元評量結果調整課程與教學，以提升學生學習成效<br>4-1 應用正向支持原理，共創安全、友善及對話的班級與學習環境，以養成學生良好品格及有效學習。<br>5-1 思辨與認同教師專業倫理，以維護學生福祉。<br>【課程核心內容】<br>1了解教育發展的理念與實務<br>(6)我國主要教育政策、法規及實務<br>2了解並尊重學習者的發展與學習需求<br>(2)主要學習理論及其教育應用<br>(3)主要學習動機理論及其教育應用<br>(4)學習策略<br>(5)身心、社經與文化等背景差異及其與學習、發展的關係<br>(6)學生特質與需求的辨識<br>3規劃適切的課程、教學及多元評量<br>(1)主要課程、教學與評量的理論<br>(2)重要議題融入課程、教學與評量<br>(5)課程、教學與評量的創新及學習科技的應用<br>(6)領域/學科(或科目)/群科專門知識與學科教學知能<br>(7)分科/分領域(群科)教材教法<br>4建立正向學習環境並適性輔導<br>(5)班級經營的意義、目的、內容與方法<br>(7)親師生關係<br>5認同並實踐教師專業倫理<br>(1)教師專業、倫理及其承諾<br>(5)教師自我反思、溝通互動與解決問題<br>【融入議題】<br>閱讀素養、媒體素養教育、媒體識讀",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 語文領域(國語)課程綱要<br>2. 語文領域(國語)的核心概念<br>3. 國音學、字音、字形、字義<br>4. 成語運用、詞彙運用<br>5. 修辭與文法<br>6. 詩、詞、文句閱讀理解<br>7. 國學常識<br>8. 應用文<br>9. 文言、白話閱讀理解<br>10.作文<br>",
+        "en": "1. Language field (Mandarin) syllabus<br>2. The core concepts of the language field (Mandarin)<br>3. Chinese phonology, phonetics, shape, meaning<br>4. Use of idioms and vocabulary<br>5. Rhetoric and Grammar<br>6. Reading comprehension of poems, words and sentences<br>7. Common Sense of Chinese Studies<br>8. Application<br>9. Classical and vernacular reading comprehension<br>10.Composition<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "加強師培生國語文學科內容知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "加強師培生國語文教學相關知能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "加強師培生國語文相關之評量與教師資格檢定知能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升師培生國語文課程與教學設計知能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

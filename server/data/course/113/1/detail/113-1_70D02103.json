@@ -1,0 +1,148 @@
+{
+    "code": "70D02103",
+    "name": {
+        "zh": "財務管理",
+        "en": "Financial Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技企管三丙"
+    ],
+    "instructors": [
+        "魏慧珊"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "S516"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S516"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "S516"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.證券營業員",
+        "2.理財規劃人員專業能力測驗"
+    ],
+    "description": "將財務管理主題以資產負債表之概念，區隔為「投資政策」「融資政策」兩大領域，讓學生瞭解如何評價債券、股票，計算資金成本與相關的資本結構理論。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1. 財務管理課程簡介<br>2. 貨幣的時間價值<br>3. 折現現金流量評價<br>4. 債券評價<br>5. 股票評價<br>6. 淨現值及其他投資準則<br>7. 資金成本<br>8. 資本結構<br>",
+        "en": "1. Introduction to Financial Management<br>2. The Time Value of Money<br>3. Discounted Cash Flow Valuation<br>4. Valuing Bonds<br>5. Valuing Stocks<br>6. Net Present Value and Other Investment Criteria<br>7. Cost of Capital<br>8. Capital Structure<br>"
+    },
+    "weeklySchedule": "週次\t日期\t授課內容及主題<br>1\t2024/09/10\t第0章補充教材<br>2\t2024/09/17\t中秋節(放假)<br>3\t2024/09/24\t第1章財務管理概論<br>4\t2024/10/01\t第1章財務管理概論<br>5\t2024/10/08\t第3章貨幣時間價值<br>6\t2024/10/15\t第4章債券與股票<br>7\t2024/10/22\t第4章債券與股票<br>8\t2024/10/29\t第5章報酬率與風險<br>9\t2024/11/05\t期中考<br>10\t2024/11/12\t第6章資本預算評估方法<br>11\t2024/11/19\t第7章 資本預算的管理<br>12\t2024/11/26\t第8章 資本結構與財務困難<br>13\t2024/12/03\t第9章 股利政策<br>14\t2024/12/10\t第11章 權益融資與上市櫃<br>15\t2024/12/17\t個案報告<br>16\t2024/12/24\t個案報告<br>17\t2025/12/31\t個案報告<br>18\t2025/01/07\t期末考",
+    "exams": {
+        "midterm": "考試",
+        "final": "考試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "講授財務管理的專業知識。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "具備創新思考能力，解決公司長期財務政策的問題。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "在生活或工作中，具備應用專業知識的能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "主動學習新觀念，以因應環境的變遷。",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "有條理的表達與溝通，能與人交換意見。",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能與夥伴維持良好的關係，達成工作績效。",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "財務管理：基礎與應用",
+        "author": "徐俊明",
+        "publisher": "新陸書局",
+        "year": "2021",
+        "ISBN": "",
+        "edition": "4"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

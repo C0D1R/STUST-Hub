@@ -1,0 +1,127 @@
+{
+    "code": "20D07402",
+    "name": {
+        "zh": "物理(一)",
+        "en": "Physics(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技控晶一乙"
+    ],
+    "instructors": [
+        "趙春棠"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "I0516"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "I0516"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "I0516"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "認識牛頓力學基本特性及物理意義並介紹其在日常生活應用的實例",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元一:一維空間運動<br>1. 位移<br>2. 速度<br>3. 加速度<br>4. 一維等加速度運動<br>5. 自由落體<br>單元二:向量和二維空間運動<br>1.向量與向量的特性<br>2.向量的分量<br>3.二維空間的位移，速度，加速度<br>4.二維空間運動<br>單元三:運動定律<br>1.力<br>2.牛頓第一運動定律<br>3.牛頓第二運動定律<br>4.牛頓第三運動定律<br>5.牛頓運動定律的應用<br>6.摩擦力<br>單元四:功與能 <br>1.功<br>2.動能與功-能項<br>3.重力位能<br>4.彈力位能<br>5.系統與能量守恆<br>6.功率<br>單元五:動量與碰撞<br>1.動量與衝量<br>2.動量守恆<br>3.碰撞<br>單元六:物理熱學<br>1.溫度與熱力學第零定律<br>2.溫度計與溫度度量<br>3.固體與液體的熱膨脹",
+        "en": "Unit 1 Motion in One Dimension<br>1.Displacement<br>2.Velocity<br>3.Acceleration<br>4.One-Dimensional Motion with Constant Acceleration<br>5.Freely Falling Object<br><br>Unit 2 Vectors and Two-Dimensional Motion<br>1.Vectors and Their Properties<br>2.Components of a Vector<br>3.Displacement,Velocity,and Acceleration in Two Dimensions<br>4.Motion in Two Dimensions<br><br>Unit 3 The Laws of Motion<br>1.Forces<br>2.Newton’s First Law<br>3.Newton’s Second Law<br>4.Newton’s Third Law<br>5.Applications of Newton’s Law<br>6.Forces of Friction<br><br>Unit 4 Work and Energy<br>1.Work<br>2.Kinetic Energy and the Work-Energy Theorem<br>3.Gravitational Potential Energy<br>4.Spring Potential Energy<br>5.Systems and Energy Conservation<br>6.Power<br><br>Unit 5. Momentum and Collisions<br>1.Momentum and Impulse<br>2.Conservation of Momentum<br>3.Collisions<br><br>Unit 6. Thermal Physics<br>1.Temperature and the Zeroth Law of Thermodynamics<br>2.Thermometers and Temperature Scales<br>3.Thermal Expansion of Solids and Liquids<br><br>"
+    },
+    "weeklySchedule": "Week 1.　模型、測量和向量<br><br>Week 2.　直線和平面運動<br><br>Week 3-4.　牛頓運動定律和應用<br><br>Week 5-6.　重力和能量守恆<br><br>Week 7-8.　功、動能和動量<br><br>Week 9. 期中考<br><br>Week 10-11.　碰撞與轉動<br><br>Week 12-13.　彈性、機械波和聲音<br><br>Week 14-15.　流體與振盪<br><br>Week 16-17.　溫度和物體的熱性質<br><br>Week 18. 期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解哥白尼所提的太陽為宇宙中心",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "知道物體的自由落體公式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能運用牛頓三大運動定律分析物體運動",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "知道地球以橢圓軌道繞太陽運轉",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "解月球繞地球運轉是因為地球的重力所牽引＿",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "普通物理學(上)",
+        "author": "Debora M. Katz 原著; 陳瑞山等譯",
+        "publisher": "歐亞",
+        "year": "2017",
+        "ISBN": "9789869443043",
+        "edition": "1"
+    },
+    "referenceBooks": "觀念物理 (Paul G. Hewitt 原著)，天下文化發行",
+    "teachingSoftware": "",
+    "rules": "修課一定要有教科書。若有經濟問題，可購買二手書，或向老師說明。"
+}

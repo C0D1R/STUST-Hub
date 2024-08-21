@@ -1,0 +1,115 @@
+{
+    "code": "50D12401",
+    "name": {
+        "zh": "初等微積分",
+        "en": "Elementary Calculus"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技工管一甲"
+    ],
+    "instructors": [
+        "黃振勝"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "W0403"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "W0403"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "W0403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "微積分是科學的基礎，經由本課程的學習，不僅可訓練邏輯思考，還可將其應用在經濟、管理等領域。本課程內容為基本函數介紹及函數的極限、連續、微分及其應用。<br>",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.函數與圖形<br>2.極限與函數連續性<br>3.微分基本觀念<br>4.微分技巧<br>5.微分之應用<br>",
+        "en": "1.Functions and Graphs<br>2.Limit and Continity of Function<br>3.Basic Concept of Differentiation<br>4.Differential Technique<br>5.Differential Applications<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解微積分基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉微積分計算技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能理解微積分應用方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用微積分解決生活及職場的問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

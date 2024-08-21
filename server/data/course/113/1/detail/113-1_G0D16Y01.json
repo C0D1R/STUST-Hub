@@ -1,0 +1,146 @@
+{
+    "code": "G0D16Y01",
+    "name": {
+        "zh": "多媒體軟體應用",
+        "en": "Multimedia Software Application"
+    },
+    "credit": "2",
+    "type": "系定選修",
+    "classes": [
+        "五專資工二甲"
+    ],
+    "instructors": [
+        "馮治平"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "E0203"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "E0203"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著電腦網路技術的成熟與普及，多媒體科技在生活中隨處可見。本課程將教導學生認識多媒體基本概念，使學生能接觸並認識多媒體軟體的基本介面與操作、實用的影像編修、音訊或影片的剪輯等，協助學生了解多媒體軟體及各種多媒體檔案製作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.多媒體概論<br>2.影像處理編修<br>3.音訊剪輯<br>4.視訊剪輯<br>",
+        "en": "1.Introduction to Multimedia<br>2.Image processing<br>3.Audio editing<br>4.Video editing"
+    },
+    "weeklySchedule": "w1. 課程簡介及分組<br>w2. Premiere Pro 工作流程<br>w3. 脚本寫作介紹<br>w4. 剪輯技巧運用 partA <br>w5. 剪輯技巧運用 partB<br>w6. 所有人繳交脚本上傳至 eros.ifong.org 主機<br>w7. 影片色調修整 partA<br>w8. 影片色調修整 partB<br>w9. 期中考<br>w10 動態路徑字幕 partA<br>w11 動態路徑字幕 partB<br>w12 遮罩技巧 partA<br>w13 遮罩技巧 partB<br>w14 去背技巧 partA<br>w15 去背技巧 partB<br>w16 去背技巧 partC<br>w17 期末作業繳交<br>w18 期末作業 presentation",
+    "exams": {
+        "midterm": "上機實測",
+        "final": "報告",
+        "other": "不定期以實作方法小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識多媒體技術的專業術語與知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能使用軟體製作與編輯多媒體",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能具備思考、規劃如何完成專案",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能團隊合作完成製作多媒體作品",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能團隊合作完成製作多媒體作品",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能團隊合作完成製作多媒體作品",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能具備正確的智慧財產權觀念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "影視後製全攻略--Premiere Pro/After Effects (適用CC)",
+        "author": "鄭琨鴻 嚴銘浩",
+        "publisher": "碁峰",
+        "year": "2023",
+        "ISBN": "978-986-502-985-2",
+        "edition": "第二版"
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "Adobe Premiere Pro 2023",
+    "rules": "期中前以組為單位交脚本，期末前以組為單位交一個影音作品"
+}

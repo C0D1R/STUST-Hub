@@ -1,0 +1,122 @@
+{
+    "code": "I0D29901",
+    "name": {
+        "zh": "幼兒文學賞析與創作",
+        "en": "Appreciation, analysis of children’s picture books"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技幼保二甲"
+    ],
+    "instructors": [
+        "沈玫宜"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "W0502"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "W0502"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "將透過幼兒繪本賞析(圖文創作、故事意涵、插畫藝術等)來引導學生學習如何選擇適合的繪本；進而學習如何進行童書創作及如何將繪本融入幼兒生活指引及課程教學。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "繪本的本質和特性<br>繪本的種類與選擇<br>圖畫書與親子關係<br>繪本的文學性<br>繪本插畫的美學內涵和藝術元素<br>繪本中的人生議題與生命意涵<br>繪本中的社會議題<br>繪本創作新趨勢<br>故事書創作DIY<br>繪本共讀與演奏技巧<br>",
+        "en": "Core concept and characteristic of children’s pictures books<br>Different types of children’s pictures books<br>Selection of children’s pictures books<br>Artistic element of children’s pictures books<br>Children’s pictures books and child-parenting relation<br>Subject learning in children’s pictures books<br>Current trend of children’s pictures books<br>Creation of children’s pictures books<br>Guide reading skill of children’s pictures books<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識各種不同類型的幼兒文學作品",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解如何選擇適合的文學作品與教學活動做結合",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探究繪本中藝術作品的內涵及創作概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習創作繪本及基本說故事技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習如何應用繪本融入幼兒教育教學活動帶領",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

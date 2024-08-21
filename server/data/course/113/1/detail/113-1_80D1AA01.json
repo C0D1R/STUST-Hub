@@ -1,0 +1,110 @@
+{
+    "code": "80D1AA01",
+    "name": {
+        "zh": "ESG與企業倫理",
+        "en": "ESG and Business Ethics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技財金三甲"
+    ],
+    "instructors": [
+        "陳孟修"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "S511"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "S511"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.以企業倫理為核心，結合ESG理念，講授企業倫理基礎理念、企業內部營運及其外部關係倫理議題。<br>2.探討ESG與企業倫理之實務個案。<br>",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1. ESG與企業倫理的基本概念<br>2. 企業倫理決策<br>3. ESG與企業社會責任<br>4. 公司治理<br>5. ESG與企業內部營運倫理<br>6. ESG與企業外部關係倫理<br>",
+        "en": "1. Fundamentals of ESG and Business Ethics<br>2. Business Ethical Decision-Making<br>3. ESG and CSR<br>4. Corporate Governance<br>5. ESG and Business Internal Operations Ethics<br>6. ESG and Business External Relations Ethics<br>"
+    },
+    "weeklySchedule": "第一篇 企業倫理導論<br>第1章 企業倫理的重要性<br>第2章 利害關係人關係、社會責任與公司治理<br>第3章 永續：社會與倫理層面<br><br>第二篇 倫理議題與企業倫理的制度化<br>第4章 企業倫理的制度化<br>第5章 企業倫理議題的形成<br><br>第三篇 決策的過程<br>第6章 倫理決策<br>第7章 個人因素：道德哲學與價值<br>第8章 組織因素：倫理文化的角色與關係<br><br>第四篇 全球經濟中實行企業倫理<br>第9章 開發有效的倫理方案<br>第10章 全球企業倫理議題<br>第11章 倫理領導<br>第12章 科技：倫理與社會責任議題",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "上課出席與上課表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解ESG與企業倫理的基本概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解ESG與企業社會責任",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解ESG與企業內部營運倫理",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解ESG與企業外部關係倫理",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "企業倫理：倫理決策訂定與案例(13版)",
+        "author": "張政學",
+        "publisher": "華泰文化公司",
+        "year": "2022",
+        "ISBN": "",
+        "edition": "13版"
+    },
+    "referenceBooks": "黎正中 ,企業倫理 , 華泰文化公司, 2008",
+    "teachingSoftware": "ppt",
+    "rules": "團隊呵做完成報告"
+}

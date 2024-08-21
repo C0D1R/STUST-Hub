@@ -1,0 +1,139 @@
+{
+    "code": "20N1A501",
+    "name": {
+        "zh": "C程式語言實習",
+        "en": "C Language Laboratory"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技電機三甲"
+    ],
+    "instructors": [
+        "吳智光"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "B502"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "B502"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "B502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使用C程式語言，運用判斷與迴圈的邏輯運算式來解決日常中與學術上的問題。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.常數與變數，資料型態與其間的轉換<br>2.運算式、運算子與敘述<br>3.選擇性敘述<br>4.迴圈<br>5.函數<br>6.陣列與字串<br>7.指標<br>8.結構與其它資料型態<br>9.檔案<br>10.動態記憶體配置與鏈結串列<br>11.物件導向程式設計",
+        "en": "1.Costant, Variable and Data types<br>2.Operator, Operand and Statement<br>3.Selection<br>4.Loop<br>5.Function<br>6.Array and String<br>7.Pointer<br>8.Data Structure<br>9.Files<br>10.Dynamic Memory Allocation<br>11.Object Oriented Programming"
+    },
+    "weeklySchedule": "第1週-上課方式與規則、與程式語言介紹<br>第2週-程式邏輯、程式設計、程式流程圖、與VC#的基礎<br>第3週-Visual Studio 環境使用<br>第4週-建立VC#應用程式<br>第5週-變數、資料型別與運算子<br>第6週-視窗應用程式的基本輸出入<br>第7,8週-選擇控制項與條件敘述<br>第9週-期中考試<br><br>第10,11週-迴圈結構<br>第12週-程序與函數<br>第13週-字串與陣列<br>第14週章-事件驅動程式設計<br>第15週-視窗應用程式的事件處理<br>第16週-視窗應用程式的工具列與功能表<br>第17週-多表單與模組的視窗應用程式<br>第18週-期末考試",
+    "exams": {
+        "midterm": "上機考試",
+        "final": "上機考試",
+        "other": "課堂練習"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解C語言的應用方向",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "知道C語言的基本結構、資料、型態與運算式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "知道如何運用C的流程控制",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "知道如何查詢函式功能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "知道如何建構C程式專案，並完成其程式功能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "知道如何由其他管道(例如網路)學習C語言的應用範例",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "程式設計 基本功與實務 範例解析－使用 C# (全華書號：06205 03)",
+        "author": "邱宏彬、邱奕儒",
+        "publisher": "全華圖書",
+        "year": "2022",
+        "ISBN": "978-626-328-335-0",
+        "edition": "4版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Visual Studio (C# 主控台)",
+    "rules": "1. 請勿遲到早退，不要滑手機，不要打電玩，上課時需於簽到單簽到。<br>2. 課堂實作練習，必須在經過老師或助教確認程式功能正確後，於第三節下課前上傳至本校FlipClass數位學習。<br>3. 其他請遵守B502電腦教室規範。"
+}

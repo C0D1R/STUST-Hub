@@ -1,0 +1,122 @@
+{
+    "code": "70D25201",
+    "name": {
+        "zh": "管理學",
+        "en": "Management"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技企管一甲"
+    ],
+    "instructors": [
+        "黃經智"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "S413"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "S413"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "管理是一門科學也是一種藝術。除了運用管理科技加強管理效能外，更應該重視管理的元素「人」。成功的管理者並沒有一定的模子，其管理成效需視情況而定。當代成功的管理者均於各種不同的管理環境中磨練而造就成功的企業。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.管理概念<br>2.管理思想<br>3.管理環境<br>4.決策的基礎<br>5.規劃與策略管理<br>6.組織的基本概念<br>7.組織設計<br>8.組織文化與變革<br>9.用人與人力資源管理<br>10.激勵理論<br>11.領導<br>12.群體與工作團隊<br>13.溝通與衝突管理<br>14.控制的基礎<br>15.控制工具與技巧<br>16.企業倫理與社會責任<br>",
+        "en": "1. Concepts of management<br>2. Management theory<br>3. Environment of management<br>4. Decision making<br>5. Planning and Strategic management<br>6. Concepts of organizing<br>7. Organization designing<br>8. Organization culture and change<br>9. Staffing and human resource management<br>10. Stimulating employee<br>11. Leadership<br>12. Groups and work Teams<br>13. Communication and Conflicts in organization<br>14. Control in organization<br>15. Control tools and skills<br>16. Business Ethics and social responsibility<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "掌握管理理論的重要觀念與實踐技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解企業組織有效運作的管理方法能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能整合運用管理功能以正確解決管理問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能區別不同國家文化的管理實務差異",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用資訊科技工具協助解決管理問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,115 @@
+{
+    "code": "J0N14F01",
+    "name": {
+        "zh": "基礎素描",
+        "en": "Base Drawing"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技視傳一甲"
+    ],
+    "instructors": [
+        "施閔傑"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "W0601"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "W0601"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "W0601"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "素描是研究造形美術最根本的訓練方式之一。換言之，就是畫者在平面的物質上，描繪出物體在空間中的位置，藉此掌握物體形象、明暗的基本訓練。商業設計組的重點宜在造形掌握的能力及描繪速度的養成。動畫組的重點宜在人體的結構和場景構圖的描繪能力的培養。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.準備週………講解本學期授課的內容與評量方式<br>2.素描初體驗…基礎練習(1)石膏幾何:構圖、形體與立體感<br>3.靜物素描……基礎練習(2)石膏球體表現與幾何練習<br>4.靜物素描……基礎練習(3)石膏綜合表現<br>5.靜物素描……材質表現練習(1)金屬<br>6.靜物素描……材質表現練習(2) <br>7.靜物素描……石膏與靜物素描(1)玻璃與其他<br>8.靜物素描……石膏與靜物素描(2)<br>9.期中考週<br>10.人像素描……人體構造解說與五官描繪練習(1) <br>11.人像素描……五官描繪練習(2) <br>12.人像素描……(臨摹)比例、輪廓掌握與明暗與調子變化(1)<br>13.人像素描……(臨摹)比例、輪廓掌握與明暗與調子變化(2)<br>14.人像速寫練習(1)(同學互畫)……不同性別的線條表現<br>15.人像速寫練習(2)<br>16.人像組合(1):人物群像描寫<br>17.人像組合(2):人物群像描寫<br>18.期末考週與作品總評<br>",
+        "en": "1. Introduction: course overview, grading and assessment<br>2. The fundamentals of drawing. Practice(1) Plaster geometry shapes: Form, Space and Value<br>3. Still life drawing: Practice (2): Sphere and multi-sided forms<br>4. Still life drawing: Practice(3): Approaching more complex cross forms <br>5. Still life drawing. Texture practice(1): Metal<br>6. Still life drawing. Texture practice(2)<br>7. Still life drawing and plaster geometry shape(1): Glass and others<br>8. Still life drawing and plaster geometry shape(2)<br>9. Mid-semester critique<br>10. Portrait drawing: (1)Anatomy and drawing the facial features<br>11. Portrait drawing: (2)Human head construction<br>12. Portrait drawing: Proportion, shape and tone(1)<br>13. Portrait drawing: Proportion, shape and tone(2)<br>14. Portrait sketch: Practice(1)group drawing- gender and shape<br>15. Portrait sketch: Practice(2)<br>16. Compositional portrait drawing: Exercise(1)<br>17. Compositional portrait drawing: Exercise(2)<br>18. Final portfolio and critique<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解素描的內涵，並培養手繪的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養構圖與造形的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能完成具有創意的素描作品",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能欣賞素描或具有創意的設計作品",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

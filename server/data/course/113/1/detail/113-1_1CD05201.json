@@ -1,0 +1,116 @@
+{
+    "code": "1CD05201",
+    "name": {
+        "zh": "互動藝術程式創作",
+        "en": "Interactive Art Programming"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技產設四甲",
+        "四技產設四乙"
+    ],
+    "instructors": [
+        "馮嘉慧"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "P403"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "P403"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "P403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著數位互動藝術的蓬勃發展，日本teamLab的體驗式互動藝術和台灣双融域的全浸體驗，數位互動展示逐漸多元化，從單純的螢幕操作擴展至廣域投影互動設計，結合感應技術、數據視覺化及多媒體元素，為觀賞者帶來前所未有的動態藝術體驗。<br><br>本課程將引領學生深入數位藝術的互動創作領域，課程中學習基礎生成式藝術程式語言如p5.js和Open Processing等，運用變數、邏輯判斷、迴圈和陣列等程式結構，創造互動內容並實現可視化的數位藝術成果，應用於前端網頁、展覽、演唱會背景，甚至創作獨特的NFT並在Opensea平台上架銷售。<br><br>課程將不僅限於技術技能的培養，更著重於激發學生的創意思維和數位藝術感知，創作出符合當代藝術趨勢的獨特動態藝術體驗，本課程為培養學生成為數位數位藝術領域創新人才。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.數位互動藝術概覽<br>認識國際上著名的數位互動藝術家案例<br>數位互動藝術的多樣性與應用範圍。<br><br>2.程式語言學習<br>介紹專為藝術創作而設的程式語言，包括p5.js和Open Processing。<br>學習基礎程式結構撰寫，如map函數、lerp函數、邏輯判斷、迴圈和陣列。<br><br>3.互動技術實踐<br>探索並實踐感應技術、數據視覺化和多媒體元素的應用。<br>通過不同實際操作練習，學生將創建可互動的視覺與聲音作品。<br><br>4.數位藝術作品實際創作與應用<br>應用所學知識於前端網頁設計與展覽布置等場合。<br><br>5.NFT上架應用<br>學習創作後上架獨特的數位藝術NFT作品於Opensea。<br><br>6.創作展示與評估<br>課程學生將展示作品。<br>",
+        "en": "1.Digital Interactive Art Overview<br>Learn about famous international digital interactive artists and their works.<br>Explore the diversity and applications of digital interactive art.<br>2.Programming Language Learning<br>Introduction to programming languages designed for artistic creation, including p5.js and Open Processing.<br>Learn basic programming structures, such as the map function, lerp function, logical decision-making, loops, and arrays.<br>3.Interactive Technology Practices<br>Explore and implement sensor technologies, data visualization, and the use of multimedia elements.<br>Through various practical exercises, students will create interactive visual and auditory artworks.<br>4.Practical Creation and Application of Digital Art<br>Apply the learned skills in front-end web design and exhibition arrangement.<br>5.NFT Listing Application<br>Learn to create and list unique digital art NFTs on Opensea.<br>6.Creative Display and Evaluation<br>Course students will display their projects.<br>"
+    },
+    "weeklySchedule": "第1週：課程介紹/介紹P5.JS和基本圖形繪製<br>第2週：互動藝術理論與P5.JS中的應用<br>第3週：P5.JS程式實作設計<br>第4週：P5.JS生成式藝術概念與案例研究<br>第5週：P5.JS創建動態生成藝術作品<br>第6週：P5.JS實作生成互動藝術<br>第7週：P5.JS中的事件處理<br>第8週：模擬自然系統與物理引擎概述<br>第9週：期中考：實作互動模擬專案<br>第10週：P5.JS中的音頻與視頻處理<br>第11週：API即時資料互動體驗<br>第12週：結合影音和數據的互動項目<br>第13週：NFT與區塊鏈基礎與上架<br>第14週：將P5.JS作品轉化為NFT<br>第15週：實作演練：創建並部署一個NFT藝術項目<br>第16週：開發計劃與設計<br>第17週：實作與測試<br>第18週：成果展示<br><br><br>",
+    "exams": {
+        "midterm": "實作",
+        "final": "成果展示",
+        "other": "實作"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.\t能了解數位藝術基礎學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "2.\t能訓練程式語法與人機互動的撰寫能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "3.\t能訓練場域與數位展示的規劃整合能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "4.\t能培養團隊展示合作的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "p5.js \nOpen Processing\nVisual Studio Code \nCodepen",
+    "rules": ""
+}

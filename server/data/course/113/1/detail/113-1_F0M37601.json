@@ -1,0 +1,116 @@
+{
+    "code": "F0M37601",
+    "name": {
+        "zh": "先進影像技術應用",
+        "en": "Advanced Imaging Technology Application"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研資傳一甲",
+        "碩研多樂一甲"
+    ],
+    "instructors": [
+        "楊斯嵐"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "W0604"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "W0604"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0604"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "先進影像技術泛指主流常用技術之外之附屬技術、特用技術，多數用於特殊的影像需求，如紀錄極高速的動作或水底，也包含目前新近的全景攝影、高空攝影…等等。本課程以先進器材的使用為基礎，研究生運用先進器材創造新的影像語言並發展成為論文。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、曠時攝影<br>曠時攝影又稱延時攝影、縮時攝影，故名思義就是每秒至數分鐘、數小時、數日、數年的拍攝。常用在需有流暢的視覺感受題材，如：人群、交通狀況、建築建造…等，是影片製作裡很常使用的手法。<br>二、高速攝影<br>高速攝影就是拍攝具有視覺外速度的目標，每秒至少可拍攝1000幀至上萬幀畫面。高速攝影通常用於科學研究、科普節目，例如撞擊測試、彈道、生物的移動等；另外也運用在電視、電影的特效。因拍攝手法相當具吸引力，網路瀏覽量都非常高，是增加曝光度的一種呈現方式。<br>三、高空攝影<br>高空攝影又稱空拍、空中攝影或航空攝影，原指從空中拍攝地球地貌，獲得俯視圖，常用平台包括飛機、直升機、空拍機…近年因空拍機發達，已幾乎成為標準拍攝畫面。高空攝影大多用於拍攝整體環境俯視圖，如：建築全貌、自然環境、戶外活動紀錄…等。<br>四、微距攝影<br>微距攝影又可稱為近攝，可以拍出肉眼不易看到的細節，是區別於常規攝影的一種特殊的攝影方法，以超近距離拍攝有關物體和主體，拍攝的題材多以植物、昆蟲、花卉、小動物居多，也是科普影片相當常用的技巧之一。<br>五、高畫質攝影<br>此為本系已有之系控設備與課程。高畫質攝影為高於Full HD（1920 x 1080）的解析度，其中如日前逐漸興起的4K（4096 x 2160）攝影便是高畫質攝影，不僅可改善現有畫質的影像雜訊顆粒，在後期製作有更彈性的調整空間，未來趨勢將逐漸朝向高畫質攝影前進。<br>六、全景攝影<br>全景照片(Panorama)就是視角比正常廣闊(水平90度以上，甚至是360度)，現今常運用在虛擬實境(VR)影片，並搭配VR頭戴式顯示觀看；也有透過360度影片拍攝，呈現在youtube…等播放平台上，這都是突破現在單一角度拍攝技巧。<br>七、水中攝影<br>水中攝影可紀錄水下景象，如水生動植物的生活、海底和河床的地質資料等，近年來也有許多攝影師喜好水中攝影所呈現的效果。因為在水裡多了立體效果，上下左右都可利用，也就有更多的發揮空間，而如何在水中保持所需的畫面，也是水中攝影的基本要求。色彩與燈光的控制也與水面截然不同。<br>八、星光攝影<br>星空攝影又稱為高感度攝影，透過器材在夜間或陰暗區域攝影時，此攝影經常處理公共安全的監視系統以及特殊的夜間拍攝，如拍攝夜行性動物。<br>九、長距攝影<br>長距攝影最容易理解的便是拍攝距離非常遙遠的目標，在一些動物生態節目中最常使用長距攝影作為拍攝的主要手法，拍攝演唱會、活動、運動攝影也都常使用長距攝影。<br>十、遙控攝影<br>在電視節目一般多是用多台攝影機進行拍攝，這樣製作出來的節目具有多角度，不同畫面的特點，導播就像是現場剪接師，必須即時處理來自不同攝影機的畫面，讓整個節目看起來更流暢，也就是要比其他人先預想畫面，成為現場重要的指揮者。<br><br>課程內容將視系控設備狀況，發展其中三至五項。修課同學再擇其一發展創作媒體。<br>",
+        "en": "1.Time-lapse photography<br>2.High-speed photography<br>3.Drone photography<br>4.Macro photography<br>5.high-definition photography<br>6.Panoramic photography<br>7.Underwater photography<br>8.Low-light photography<br>9.Long-distance photography<br>10.Remote control photography<br><br>The course content will develop three to five technologies depending on the condition of the University department equipment's.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "先進攝影設備之使用、操作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用先進技術創造影像語言",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "搜尋先進攝影技術發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解先進技術的優缺點",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

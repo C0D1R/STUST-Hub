@@ -1,0 +1,105 @@
+{
+    "code": "D0N14F01",
+    "name": {
+        "zh": "職場自主學習(三)",
+        "en": "Workplace independent study(Ⅲ)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技行流二甲"
+    ],
+    "instructors": [
+        "邱明琦"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第11節",
+            "location": "T0207"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "針對同學在學校所學習到的是與技能運用在工作職場上，並透過不斷的<br>改善以提升其實作之能力，藉以獲得更適合運用在職場的實務經驗。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、 職場知識與經驗之運用<br>二、 工作績效確認<br>三、 績效之改善<br>四、 作業標準化<br>五、 經驗累積",
+        "en": "workplace knowledge and experience application<br>work performance confirm<br>improvement of performance<br>operation standardize<br>experience accumulate"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "知識與技能之運用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "工作績效確認",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "績效之改善",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "作業標準化",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

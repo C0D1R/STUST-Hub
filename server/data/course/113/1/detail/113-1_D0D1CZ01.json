@@ -1,0 +1,152 @@
+{
+    "code": "D0D1CZ01",
+    "name": {
+        "zh": "銷售管理",
+        "en": "Sale Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技行流三乙"
+    ],
+    "instructors": [
+        "張信雄",
+        "鍾明志"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "E0501"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "E0501"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "E0501"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "銷售管理",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "現代銷售管理基本觀念的探索<br>現代銷售的特性<br>銷售管理的目標<br>銷售組織結構的設計<br>市場分析與銷售預測<br>如何建立銷售區域<br>關於限額問題的探討<br>產品計劃與管理",
+        "en": "The Basic Concept of Modern Sales Management<br><br>The Characteristics of Modern Sales<br><br>The Target of Sales Management<br><br>The Design of the Sales Structure<br><br>The Market Analysis and Sales Forecasting<br><br>How to Build Sales Territory<br><br>Quotas<br><br>Product Planning and Management"
+    },
+    "weeklySchedule": "1 行銷相關名詞定義及其扮演之角色/教學大綱介紹，現代銷售管理基本觀念探索<br>2 行銷活動的程序：行銷環境的分析及尋找市場機會/現代銷售特性<br>3 行銷活動的程序：STP與行銷組合/銷售管理目標<br>4 產品生命週期(PLC)與行銷活動對應的策略/銷售組織結構設計<br>5 雙十節:放假<br>6 新產品的普及理論/市場分析與銷售預測<br>7 推與拉型的策略/銷售預算成本分析<br>8 競爭性行銷策略/市佔率管理<br>9 期中考<br>10 成長策略/銷售區域建立<br>11 產品政策：產品的概念及產品的類型/配額問題探討<br>12 產品組合決策與產品線決策/產品規劃管理<br>13 品牌政策與PLC策略/銷售通路<br>14 價格政策：價格設定的環境要因與基本方針/訂價策略<br>15 複數產品的價格設定/銷售促進sales promotion<br>16 促銷訂價法/廣告管理<br>17 通路政策：行銷通路的定義與運作系統/銷售人員管理<br>18 期末考",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "筆試",
+        "other": "(暫定第四週)作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解銷售管理的基礎理論與其所扮演的角色",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解銷售策略制定的方法及分析市場戰略的應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "連結創新創意與創業，進而創造更多經濟價值",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能熟練獨立思考、邏輯分析及統整之能力，有效率地解決銷售問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉市場分析與銷售區域之建立，並充份整合運用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "現代銷售管理的理論與實務",
+        "author": "張信雄",
+        "publisher": "張信雄出版、復文圖書(印刷)",
+        "year": "2018",
+        "ISBN": "978-957-41-7631-1",
+        "edition": "9"
+    },
+    "referenceBooks": "台灣行銷科學學會、初階行銷企劃證照題型題庫、台灣行銷科學學會。<br>社團法人台灣商務策劃協會、TBSA商務企劃能力初級檢定學習手冊、北市:社團法人台灣商務策劃協會、2024。<br>楊浩偉、蔡清德、胡政源編著、現代零售管理新論、新北：新文京開發、2021。",
+    "teachingSoftware": "n.a.",
+    "rules": "1.Counseling: Students can contact me using the following ways if you have questions:<br>(1) Email me at any time at z0y@stust.edu.tw after class<br>(2) Meet me by making an appointment (without Sundays) <br>2.The reviewal of lessons is a must. <br>3.The syllabus is tentative and may be changed according to the interest of the class. <br>4. Please respect the intellectual property of others. Materials available may be protected by copyright and the intellectual property laws of Taiwan."
+}

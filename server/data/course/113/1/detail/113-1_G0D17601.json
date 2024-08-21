@@ -1,0 +1,115 @@
+{
+    "code": "G0D17601",
+    "name": {
+        "zh": "基本電學(一)",
+        "en": "Fundamental of Electric Circuit(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專資工二甲"
+    ],
+    "instructors": [
+        "張鴻德"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "D202"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "D202"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "D202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程分為三個部分介紹：基本直流觀念、基本直流分析、電容器與電感器。基本直流觀念將介紹電壓、電流、電阻、歐姆定律、功與能等基本概念；基本直流分析則探討串並聯電路、電路分析方法及網路理論；第三部分電容器與電感器則介紹了電容器與電感器元件的特性、在電路中充放電的行為等等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、簡　介<br>二、電壓與電流<br>三、電　阻<br>四、歐姆定律和功率<br>五、串聯與並聯電路<br>六、電路分析方法<br>七、電路網路理論<br>八、電容器與電感器",
+        "en": "1. Introduction<br>2. Voltage and current<br>3. Resistance<br>4. Ohm's law and power<br>5. Series circuit &amp; Parallel circuit<br>6. Circuit analysis<br>7. Network function and Network Theorem<br>8. Capacitor and Inductor"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解電阻、電容器與電感器的種類及其應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解電壓、電流、歐姆定律、功與能等基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能與組員合作共同討論設計電路能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以文字及圖表撰寫書面報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

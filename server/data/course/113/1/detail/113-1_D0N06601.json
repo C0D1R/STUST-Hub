@@ -1,0 +1,127 @@
+{
+    "code": "D0N06601",
+    "name": {
+        "zh": "管理學",
+        "en": "Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技行流一甲"
+    ],
+    "instructors": [
+        "李介里"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0206"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0206"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0206"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程在介紹基礎的管理理論與概念，包括企業環境分析、規劃、組織、領導與控制等管理功能，以及整合性的管理議題，使學生瞭解當代企業經營管理的本質與整體的概念。同時，透過課堂上的討論，使學生對個管理概念有深入的了解。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Ch1 典範改變中的管理內涵<br>Ch2 東西方管理理論的回顧<br>Ch3 企業經營環境<br>Ch4 全球經營環境<br>Ch5 企業倫理與社會責任<br>Ch6 決策<br>Ch7 規劃與策略<br>Ch8 組織概論<br>Ch9 新時代的組織結構<br>Ch10 組織文化與變革<br>Ch11 激勵<br>Ch12 領導<br>Ch13 溝通<br>Ch14 控制<br>Ch15 人力資源管理<br>Ch16 創新與創業精神",
+        "en": "Ch1 Managerial content of paradigm changing<br>Ch2 Review of East and West managerial theory<br>Ch3 Business operation environment<br>Ch4 Global operation environment<br>Ch5 Business ethics and social responsibility<br>Ch6 Decision<br>Ch7 Planning and strategy<br>Ch8 Organizational introduction<br>Ch9 New organizational structure<br>Ch10 Organizational culture and changing<br>Ch11 Motivation<br>Ch12 Leadership<br>Ch13 Communication<br>Ch14 Control<br>Ch15 Human resource management<br>Ch16 Innovation and entrepreneurship"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解管理理論的過去與未來的發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解企業經營環境趨勢及策略規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解組織發展及管理議題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解人力資源發展與社會責任",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解創業與創新發展趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

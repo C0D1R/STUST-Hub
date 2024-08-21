@@ -1,0 +1,115 @@
+{
+    "code": "B0N16N01",
+    "name": {
+        "zh": "解說教育與實務",
+        "en": "The Practice of Tourism Interpretation"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技休閒二甲"
+    ],
+    "instructors": [
+        "吳漢恩"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "T0312"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "T0312"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "T0312"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.本課程為教育部卓越計畫補助 旅遊就學程之程。<br>2.配合就業市場將迅速擴增及地區觀光產業需要，設計專業之實務訓練課程，舉辦戶外現場教學觀摩、導覽解說教案示範等紮實的養成教育訓練，期能培訓學生熟習導覽解說之專業技能，培訓",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一周 課程簡介<br>第二周 解說概論<br>第三周 解說媒體 <br>第四周 解說員 <br>第五周 解說原則<br>第六周 解說實例<br>第七周 室內與戶外解說<br>第八周 解說設施與器材<br>第九周 期中考<br>第十周 解說規劃<br>第十一周 戶外教育與解說<br>第十二周 生態旅遊與特殊遊客<br>第十三周 環境教育<br>第十四周 環境教育的內涵<br>第十五周 我國的環境教育<br>第十六周 術科頭報告<br>第十七周 術科頭報告<br>第十八周 期末考",
+        "en": "第一周 課程簡介<br>第二周 解說概論<br>第三周 解說媒體 <br>第四周 解說員 <br>第五周 解說原則<br>第六周 解說實例<br>第七周 室內與戶外解說<br>第八周 解說設施與器材<br>第九周 期中考<br>第十周 解說規劃<br>第十一周 戶外教育與解說<br>第十二周 生態旅遊與特殊遊客<br>第十三周 環境教育<br>第十四周 環境教育的內涵<br>第十五周 我國的環境教育<br>第十六周 術科頭報告<br>第十七周 術科頭報告<br>第十八周 期末考"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解解說的意義與重要性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習觀光旅遊解說理論並能實際運用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養對態導覽解說之能力，以加強解說技巧之訓練",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養服務精神及職業道德，使學生成為 術德兼備之觀光事業人才為目的。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

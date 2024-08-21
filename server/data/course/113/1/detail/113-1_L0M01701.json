@@ -1,0 +1,110 @@
+{
+    "code": "L0M01701",
+    "name": {
+        "zh": "專題研討(三)",
+        "en": "Seminar (III)"
+    },
+    "credit": "0",
+    "type": "選修",
+    "classes": [
+        "碩研半導體二甲"
+    ],
+    "instructors": [
+        "許進明"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "Q403"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "Q403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 利用個人研究領域心得或實驗上臺報告,增進表達能力並對不同領域知識能有廣泛瞭解<br>2. 邀請產學界專家專提演講 增進研究視野",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 分組演講與提問<br>2. 產學界專家演講<br>3. 心得報告撰寫",
+        "en": "1. Presentations of Research Results<br>2. Lectures from Industrial Expertise<br>3. Report Writing"
+    },
+    "weeklySchedule": "WK1-2 專題研討範例說明<br>WK3-9 分組演講與提問<br>Wk 10 期中專題研討檢討<br>WK11-17 分組演講與提問<br>WK18 期中專題研討檢討",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能具備光電工程專業知識",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能具備報告溝通表達能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能撰寫專業技術報告",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能使用一種外國語文於報告上",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,120 @@
+{
+    "code": "G0D10901",
+    "name": {
+        "zh": "計算機視覺概論",
+        "en": "Foundations Of Computer Vision"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資工三甲",
+        "四技資工三乙",
+        "四技資工三丙"
+    ],
+    "instructors": [
+        "席家年"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "C304"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "C304"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "C304"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹計算機視覺基礎概念與應用。",
+    "prerequisites": "具備影像處理、線性代數與程式能力為佳。",
+    "syllabus": {
+        "zh": "1. 計算機視覺簡介<br>2. 成像與取像<br>3. 色彩<br>4. 濾波與邊緣檢測<br>5. 特徵偵測與描述<br>6. 圖形識別與匹配<br>7. 三維視覺<br>8. 相機校正<br>9. 雙眼視覺<br>10. 性別平等意識",
+        "en": "1. Introduction<br>2. Image formation and capture<br>3. Color<br>4. Filtering and edge detection<br>5. Feature detection and description<br>6. Recognition and matching<br>7. 3D vision<br>8. Camera calibration<br>9. Stereo <br>10. Gender Equity Awareness<br>"
+    },
+    "weeklySchedule": "week 1.人類與計算機視覺簡介<br>week 2-3.成像與取像<br>week 4.色彩<br>week 5-6.影像轉換<br>week 7-8.濾波與邊緣檢測<br>week 9.期中考<br>week 10-12.特徵偵測與描述<br>week 13-14.圖形識別與匹配<br>week 15.三維視覺<br>week 16.相機校正<br>week 17.雙眼視覺<br>week 18.期末考<br>",
+    "exams": {
+        "midterm": "上機實作",
+        "final": "上機實作",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解計算機視覺基本學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能應用基本學理分析探索計算機視覺問題",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能將所學透過課程練習與講解報告以發展溝通表達能力",
+            "teachingMethods": [
+                "啟發思考",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能出席課程並參與練習以建立責任與倫理的涵養",
+            "teachingMethods": [
+                "其他",
+                "－課堂點名"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.鍾國亮, 影像處理與電腦視覺 第6版, 東華書局. <br>2.J.R. Parker, Algorithms for Image Processing and Computer Vision, 2nd Edition, Wiley Publishing. <br>3.Gary Bradski and Adrian Kaehler, Learning OpenCV: Computer Vision with the OpenCV Library, O'Reilly Media. <br>4.Robert Laganière, OpenCV 2 Computer Vision Application Programming Cookbook, Packt Publishing.<br>",
+    "teachingSoftware": "Microsoft Visual Studio 2010 或更新版本",
+    "rules": ""
+}

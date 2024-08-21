@@ -1,0 +1,127 @@
+{
+    "code": "M0N0BI02",
+    "name": {
+        "zh": "演講",
+        "en": "Lecture"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技休閒一甲"
+    ],
+    "instructors": [
+        "陳慧玲"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "T0003"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "T0003"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "T0003"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將透過邀請餐旅、觀光相關業界專家到校演講，藉由業界專家的職場經驗、了解各餐旅產業趨勢、並學習業界成功人士的經驗，培養學生具備國際觀、敬業合群、熱忱、溝通協調能力與正確之工作服務態度，以提升學生視野以及業界實務經驗，符合職場人才需求。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程將安排餐旅、觀光相關業界專家到校演講，演講主題依據業界專家背景與專長而定。",
+        "en": "This course arrangement different hospitality management to have speech. Students will have basic<br>ideas of the future trend in the hospitality industry."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解產業趨勢並學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能學習及瞭解團隊合作重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解人際關係與溝通的並應用人際溝通的技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進學校、職場、社會、家庭等實際的問題及解決能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解現代餐旅業趨勢的知識及學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

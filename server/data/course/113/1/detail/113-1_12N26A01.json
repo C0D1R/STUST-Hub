@@ -1,0 +1,139 @@
+{
+    "code": "12N26A01",
+    "name": {
+        "zh": "工程數學",
+        "en": "Engineering Mathematics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技自控二甲"
+    ],
+    "instructors": [
+        "戴子堯"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "K402"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "K402"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "K402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "講授一階與二階常微分方程式、拉氏轉換、線性微分方程式級數解之原理、解法與應用，使學生能應用數學原理於相關工程問題上。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.一階常微分方程式<br>2.二階線性微分方程式<br>3.拉普拉斯轉換<br>4.級數解<br>",
+        "en": "1. Understand and solve the First order differential and its applications.<br>2. Second order differential equations: <br>3. Laplace transform and its application in solving ODEs.<br>4. Series solutions of linear differential equations<br>"
+    },
+    "weeklySchedule": "第一週~第六週:一階微分方程式<br>第七週~第八週:二階線性微分方程式<br>第九週:期中考<br>第十週~第十二週:二階線性微分方程式<br>第十三週~第十五週:拉氏轉換<br>第十六週~第十七週:線性微分方程式之級數解<br>第十八週:期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "小考、作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解矩陣與行列式原理及熟悉解題技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "理解向量分析原理及熟悉解題技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "理解傅立葉級數與轉換原理及熟悉解題技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "讓同學可應用數學原理與理論至工程問題上",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "養成準時上課與專注的習慣",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "高等工程數學",
+        "author": "羅文陽編著",
+        "publisher": "高立圖書有限公司",
+        "year": "2010",
+        "ISBN": "978-986-412-764-1",
+        "edition": "第四版"
+    },
+    "referenceBooks": "1.Erwin Kreyszig, Advanced Engineering Mathematics, 歐亞書局有限公司<br>2. Dennis G.. Zill, Michael R.Cullen, Advanced Engineering Mathematics, 2nd Edition, 滄海書局<br>3.許桂敏編著, 工程數學（上）（下）,全華科技圖書股份有限公司<br>4.林秀美,陳鴻輝,黃炳章,工程數學,高立圖書有限公司.",
+    "teachingSoftware": "黑板為主",
+    "rules": ""
+}

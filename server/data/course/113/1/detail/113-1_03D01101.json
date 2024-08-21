@@ -1,0 +1,112 @@
+{
+    "code": "03D01101",
+    "name": {
+        "zh": "教育研究法",
+        "en": "Methods in Education Research"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "教育學程－中",
+        "教育學程－小"
+    ],
+    "instructors": [
+        "黃哲彬"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "W0401"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "W0401"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.國中小教師甄試",
+        "2.高普考教育行政類科"
+    ],
+    "description": "教導學生有關獨立研究的相關概念，主要包括研究題目、文獻探討、抽樣、研究工具的設計、及各種研究方法之認識，最後教導研究報告的撰寫及APA寫作格式。教學內容以理論與實務並重，期望學生深入了解，進而能學以致用。 <br><br>【專業素養指標】<br>■1-1 了解有關教育目的和價值的主要理論或思想，以建構自身的教育理念與信念。<br>2 了解並尊重學習者的發展與學習需求<br>■2-2 了解並運用學習原理，以符合學生個別學習需求與發展。<br>3 規劃適切的課程、教學及多元評量<br>■3-4 掌握社會變遷趨勢與議題，以融入課程與教學。<br>5 認同並實踐教師專業倫理<br>■5-3 透過教育實踐與省思，以發展溝通、團隊合作、問題解決及持續專業成長的意願與能力。<br><br>【課程核心內容】<br>1了解教育發展的理念與實務<br>■(1)教育本質、教育目的與內容<br>■(5)學校與教育行政制度的理念、實務與改革<br>2了解並尊重學習者的發展與學習需求<br>■(2)主要學習理論及其教育應用<br>■(5)身心、社經與文化等背景差異及其與學習、發展的關係<br>3規劃適切的課程、教學及多元評量<br>■(4)12 年國民基本教育素養導向 (單科/跨領域統整/跨科統整)課程、教學及評量的發展及實踐<br>■(8)探究與實作設計與實施<br>5認同並實踐教師專業倫理<br>■(5)教師自我反思、溝通互動與解決問題<br>■(6)教師專業社群與終身學習<br><br>【融入議題】<br>■科技教育<br>■閱讀素養<br>■媒體素養教育<br>■通用設計",
+    "prerequisites": "無。",
+    "syllabus": {
+        "zh": "1.教育研究的性質<br>2.研究題目與研究問題<br>3.文獻探討<br>4.抽樣的方法<br>5.研究工具<br>6.調查研究法<br>7.觀察研究法<br>8.歷史研究法<br>9.個案研究法<br>10.相關研究法<br>11.實驗研究法<br>12.因果比較研究法<br>13.質的研究法<br>14.研究報告的撰寫與評鑑",
+        "en": "1.nature of educational research<br>2.research subject and questions<br>3.literature review<br>4.methods of sampling<br>5.research tools<br>6.survey study<br>7.observational study<br>8.historical research<br>9.case study<br>10.correlation research<br>11.experimental research<br>12.casual comparative research<br>13.qualitative research<br>14.to acquire a through knowledge of composition and evaluation of research papers"
+    },
+    "weeklySchedule": "週數\t日期\t授課時間\t學/術科\t課程進度/內容<br>1\t9/9\t08:00~09:30\t學科\t課程說明/教育研究的性質和特徵<br>2\t9/16\t08:00~09:30\t學科\t教育研究的性質和特徵<br>3\t9/23\t08:00~09:30\t學科\t選擇研究主題<br>4\t9/30\t08:00~09:30\t學科\t文獻探討<br>5\t10/07\t08:00~09:30\t學科\t研究設計與研究假設(一)<br>6\t10/14\t08:00~09:30\t學科\t研究設計與研究假設(二)<br>7\t10/21\t08:00~09:30\t學科\t抽樣方法的設計 (期中考複習)<br>8\t10/28\t08:00~09:30\t學科\t研究工具的類型與編製(一)<br>9\t11/04\t08:00~09:30\t學科\t期中考<br>10\t11/11\t08:00~09:30\t學科\t研究工具的類型與編製(二)<br>11\t11/18\t08:00~09:30\t學科\t調查研究法(一)<br>12\t11/25\t08:00~09:30\t學科\t調查研究法(二)<br>13\t12/02\t08:00~09:30\t學科\t相關研究法<br>14\t12/09\t08:00~09:30\t學科\t實驗研究法(一)<br>15\t12/16\t08:00~09:30\t學科\t實驗研究法(二)<br>16\t12/23\t08:00~09:30\t學科\t歷史研究法<br>17\t12/30\t08:00~09:30\t學科\t質的研究<br>18\t1/06\t08:00~09:30\t學科\t行動研究/繳交期末報告<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "繳交報告",
+        "other": "其他週次是以平時討論及flipclass平台議題討論區回應問題"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "教導學生有關獨立研究的相關概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉研究報告的撰寫與評鑑",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解教育研究的基本概念與方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能理論與實務並重，期望學生深入了解，進而能學以致用",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "周新富",
+        "author": "教育研究法",
+        "publisher": "五南",
+        "year": "2021",
+        "ISBN": "978-957-11-8613-9",
+        "edition": "2版3刷"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "1.電腦 2.單槍投影機",
+    "rules": "30％期中：期中筆試測驗。<br><br>40％期末報告：由老師另行說明。<br><br>30％平常分數：<br>1.出席:若不克出席請同學務必跟老師請假，否則以曠課論。倘跟老師請假雖不予曠課計，但亦將記點，記點數將影響平常分數。<br>2.平時作業:<br>老師每次上課前，會在flipclass平台議題討論區針對每次課程內容建置相關問題，請同學上課後即可針對問題進行回應。<br>3.平時發言及個案研究討論情形。<br>4.為班上服務（如協助借麥克風、裝設器材、影印及各項事務處理等，酌予加分）。<br>"
+}

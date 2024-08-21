@@ -1,0 +1,129 @@
+{
+    "code": "80D14701",
+    "name": {
+        "zh": "基金管理",
+        "en": "Mutual Fund Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技財金四甲",
+        "四技財金四乙"
+    ],
+    "instructors": [
+        "朱岳中"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "S316"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "S316"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "S316"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.投信投顧業務員",
+        ""
+    ],
+    "description": "瞭解台灣目前的資產管理與共同基金的理論、實務與發展。藉由教學內容以期學生未來能於金融業從事相關業務，或具有投資基金相關商品的能力。",
+    "prerequisites": "金融市場",
+    "syllabus": {
+        "zh": "一、\t資產管理的概念<br>二、\t共同基金的類型<br>三、\t共同基金的風險與報酬<br>四、\t共同基金的募集與交易<br>五、\t海外基金<br>六、\t股票型基金的管理<br>七、\t債劵型基金的管理<br>八、\t基金績效的評估<br>九、\t資產管理的技術<br>十、\t特殊型基金<br>",
+        "en": "1. The concept of asset management<br>2. Types of mutual fund<br>3. The risks and rewards of mutual fund<br>4. The raising and trading of mutual fund<br>5. Overseas funds<br>6. Management of equity funds<br>7. Management of bond funds<br>8. Evaluation of fund performance<br>9. The technology of asset management<br>10. Special funds"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解目前資產管理的理論、實務與發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解目前共同基金的理論、實務與發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分辨與歸類各式的共同基金",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析與應用相關基金知識於基金虛擬操作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能評析資料及有條理地表達和溝通，並建立正確的金融觀念與態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

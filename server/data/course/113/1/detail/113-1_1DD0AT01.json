@@ -1,0 +1,141 @@
+{
+    "code": "1DD0AT01",
+    "name": {
+        "zh": "舞台設計",
+        "en": "Stage Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技流音三甲",
+        "四技流音三乙"
+    ],
+    "instructors": [
+        "梁靜謙"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "W0904"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "W0904"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "W0904"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "舞台設計經由分析故事、劇本、節目規劃、演出腳本等文本，將空間、燈光、音響、主視覺設計、服裝、道具、場景、音樂、影像、多媒體等多元的舞台構成元素，整合設計出理想的舞台空間。<br>本課程引導學生經由分析分析故事、劇本、節目規劃、演出腳本、演出者、音樂、燈光、音響及空間與設備，透過資料蒐集與討論後，進行舞台設計草圖及模型製作練習。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.舞台設計與實務課程介紹<br>2.演出形式內容規劃分析<br>3.舞台型式分析探討<br>4.舞台美術與視覺藝術應用探討<br>5.平面、多媒體影像設計探討<br>6.舞台、燈光、多媒體，設計創意整合討論<br>7.舞台設計草圖繪製<br>8.繪圖習作與討論<br>9.舞台模型製作工具、材料、參考書籍",
+        "en": "i. Introduction to Stage Design.<br>ii. Analysis and Discussion / the stage performance planning .<br>iii. Analysis and Discussion / the space and place in stage performance.<br>iv. Analysis and Discussion / the visual arts and stage design.<br>v. Analysis and Discussion / design for the stage, lighting and multimedia.<br>vi. Analysis and Discussion / Sketch, model, and document the design concept with precision drafting.<br>vii. Analysis and Discussion / How to create a scale model for stage design."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解流行音樂聲音與影像設計之基礎理論。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備運用數位工具完成流行音樂多媒體影音之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備流行音樂展演活動舞台、燈光、音響之設計與操作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備蒐集、分析、應用資料之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備結合各專業資源並運用創新方法發揮統整資源效益之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養表達溝通及合作協調能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

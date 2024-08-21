@@ -1,0 +1,139 @@
+{
+    "code": "50D06403",
+    "name": {
+        "zh": "統計學",
+        "en": "Statistics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電商二甲"
+    ],
+    "instructors": [
+        "方正中"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "T0002"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0002"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0002"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹統計方法的基本概念與Excel軟體分析統計資料的操作與解讀。內容包括資料的蒐集與整理，分析解釋等敘述統計及由樣本推論母體的估計檢定，迴歸分析，變異數分析，無母數統計，時間序列分析等。",
+    "prerequisites": "微積分",
+    "syllabus": {
+        "zh": "一、緒論<br>二、敘述統計<br>三、機率概論<br>四、隨機變數<br>五、常用之隨機變數<br>六、抽樣分配<br>",
+        "en": "1. Introduction<br>2. Descriptive Statistics<br>3. Introduction to Probability<br>4. Random Variables<br>5. Fundamental Random Variables<br>6. Sampling Distributions<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解統計方法與基本學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對管理問題辨識適當的統計方法，並用以建立管理決策",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用統計方法的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用統計方法分析管理實務資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用Excel 軟體分析資料並正確解讀報表",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現資料分析結果，讓不懂統計專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,123 @@
+{
+    "code": "M0D16C02",
+    "name": {
+        "zh": "地方美食與鑑賞",
+        "en": "Local Food and Appreciation"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技餐旅一甲",
+        "四技餐旅一乙"
+    ],
+    "instructors": [
+        "毛佩娟"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "T0402"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0402"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 探索台灣當地飲食文化特色及文化知識<br>2. 了解歷史變遷影響地方飲食文化之分佈。<br>3. 深度探討與鑑賞各地美食精隨。<br>Explore local food and culture with knowledge.<br>Understand history affects local food.  <br>Investigate with taste food around Taiwan<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "台灣飲食文化<br>歷史變遷 <br>年節習俗 各地特色 <br>節慶活動 宗教慶典  原住民 客家文化活動<br>小吃飲品 蔬食 米其林 穆斯林認證<br>",
+        "en": "Taiwanese Food and Culture<br>History<br>Event, Holiday, religions, <br>Aboriginal Hakka cultural activities<br>Street food, vegetarian, Michelins, and Muslims certify restaurants<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "探索台灣當地飲食文化特色及文化知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解歷史變遷影響地方飲食文化之分佈。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "深度探討與鑑賞各地美食精隨",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "辨別美食與餐飲業重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "檢視用美食評鑑轉成文字敘述",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

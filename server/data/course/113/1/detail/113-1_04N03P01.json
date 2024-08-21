@@ -1,0 +1,166 @@
+{
+    "code": "04N03P01",
+    "name": {
+        "zh": "體育生活：排球(A)",
+        "en": "Physical Education：Volleyball"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "夜四技車輛二甲",
+        "夜四技資傳二甲",
+        "夜四技視傳二甲",
+        "夜四技多樂二甲"
+    ],
+    "instructors": [
+        "林政達"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": ""
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": ""
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1 本學期課程除了延續上學期基本技巧練習外 開始組比賽 借由比賽作規則講解及裁判練習<br>2 加強發球技術<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1_3 周 <br><br>1 複習發球技巧<br>2 3人跑動傳球練習<br>3 分組比賽<br>4 規則講解<br><br>4_7 周<br><br>1 基本隊形講解<br>2 六人制排球比賽特性講解<br>3 分組比賽<br>4 規則講解<br>5 裁判法簡介<br><br>8_9 周<br><br>1 期中考 對牆壁擊反彈球(每球2分)<br><br>10_12 周<br><br>1 分組比賽<br>2 基本裁判手勢<br>3 裁判執法練習<br>4 規則講解<br><br>13_15 周<br><br>1 扣球基本步法<br>2 扣球動作分析<br>3 扣球型態介紹<br>4 分組比賽 <br><br>16_17 周<br><br>1 期末考 隔網2人攻擊線後對傳(每球2分)<br>2 比賽成績(20%)<br><br>18 周<br><br>1 學科筆試<br>",
+        "en": "Week 1 ~ Week 3<br>1. Review on service tips<br>2.\t3-man running pass practice<br>3.\tGames play<br>4.\tRules introduction <br><br>Week 4 ~ week 7<br>1.\tIntroduction of basic formation<br>2.\tFeatures of 6-man volleyball game<br>3.\tGames play<br>4.\tIntroduction of rules of volleyball<br>5.\tIntroduction of law of referee <br><br>Week 8 ~ week 9<br>Mid-term: underhand passing with wall<br><br>Week 10 ~ Week 12<br>1.\tGame play<br>2.\tReferee gestures<br>3.\tEnforcement of law of referee<br>4.\tRules explanation <br><br>Week 13 ~ Week 15<br>1.\tFootwork on smash<br>2.\tAnalysis on spiking <br>3.\tIntroduction of smashing types<br>4.\tGame play<br><br>Week 16 ~ Week 17<br>1.\tFinal test: 2-man passing behind attacking line <br>2.\tGame results<br><br>Week 18<br>Written exam<br>"
+    },
+    "weeklySchedule": "一 建構學生四技二年級選修興趣選項課程的基本認識及心理準備<br>二 建構學生修習體育生活課程的學習態度<br>三 建構學生基本休閒生活的技巧<br>四 養成學生運動一生 一生運動的良好習慣<br>五 建構學生良好團體意識特質的養成",
+    "exams": {
+        "midterm": "低手傳球術科測驗",
+        "final": "發球術科測驗",
+        "other": "出席率、學習態度、服裝儀容、上課態度"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立排球運動基礎觀念與體適能, 瞭解運動與健康人生的關係。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "透過排球運動,提升個人體能與運動傷害的預防,進而養成終身運動習慣。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "熟練個人基本動作與發展動作技巧,培養學生對排球運動的興趣及豐富休閒生活。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "應用排球技能,學習挑戰自我與耐力性,認知排球運動價值健全人格發展。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "以球會友,藉由排球運動達到人際關係的協和及良好的社會適應能力。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解比賽規則,進而有比賽能力,陶冶性情並能欣賞排球運動之美。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "透過排球比賽的緊張與刺激性,達到抗壓能力及自我情緒管理的學習,瞭解個體與團隊之間的關係與影響。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生從排球運動中學習並發揮團隊合作精神,能遵守規則及公平競爭精神",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "中華民國排球協會",
+    "teachingSoftware": "無",
+    "rules": "1.穿著運動服.運動褲.運動鞋.運動襪.上課.<br>2.上課不遲到.不無故缺席.<br>3.遵守上課規定"
+}

@@ -1,0 +1,159 @@
+{
+    "code": "D0D1BT02",
+    "name": {
+        "zh": "管理會計",
+        "en": "Managerial Accounting"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技行流二乙"
+    ],
+    "instructors": [
+        "黃文宏"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "T0204"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0204"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "從管理決策之角度來彙集成本資料，透過成本習性之了解來分析決策相關成本，並運用於各個管理層面之決策.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 導論 &amp; 成本行為分析及運用<br>2. 成本、數量與利潤之關係 &amp; 利潤規劃<br>3. 攸關成本及決策制定 &amp; 資本預算決策<br>4. 分批成本制 &amp; 作業基礎成本制<br>5. 標準成本 &amp; 彈性預算及製造費用分析<br>6. 分步成本制 &amp; 財報分析",
+        "en": "1. A Introduction to Managerial Accounting and Cost Concepts &amp; Cost Behavior: Analysis and Use<br>2. Cost-Volume-Profit Relationships &amp; Profit Planning<br>3. Relevant Costs for Decision Making &amp; Capital Budgeting Decisions<br>4. Systems Design: Job-Order Costing &amp; Activity-Based Costing<br>5. Standard Costs &amp; Flexible Budgets and Overhead Analysis<br>6. Process Costing &amp; Financial Statements Analysis"
+    },
+    "weeklySchedule": "C1 概論<br>C2 分批成本制<br>C3 分步成本制<br>C4 作業基礎成本法<br>C5  CVP分析<br>C6  CVP分析<br><br>&lt;&lt; Midterm Examination 期中考 &gt;&gt;<br><br>C7 增額分析<br>C8 訂價決策<br>C9 預算規劃<br>C10 預算控制與責任會計<br>C11 標準成本與平衡計分卡<br>Appendix貨幣時間價值<br>C12 資本投資規劃<br><br>&lt;&lt; Final Examination 期末考 &gt;&gt;<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "各章小考筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立運用經營數據之基本能力",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養以全觀角度面對瞭解問題",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "搜集並掌握不同方案之差異成本",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "強化實務與科學之攸關",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "管理會計(第九版)Managerial Accounting: Tools for Business Decision Making",
+        "author": "呂昭顯、黃文宏譯  Weygandt, Kimmel, & Kieso",
+        "publisher": "滄海書局 Wiley",
+        "year": "2023",
+        "ISBN": "978-626-96536-6-9",
+        "edition": "9"
+    },
+    "referenceBooks": "鄭丁旺、汪泱若、張錫惠著，成本噢管理會計，指南書局，2017。",
+    "teachingSoftware": "",
+    "rules": "1.曾修過會計<br>2.能自我要求出席<br>3.各章課後在堂及在家均有線上測驗<br>4.計分結構較複雜，首週第一節務必出席課程說明, 以免自誤<br>"
+}

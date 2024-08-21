@@ -1,0 +1,115 @@
+{
+    "code": "B0N15G01",
+    "name": {
+        "zh": "休閒創意產品開發",
+        "en": "Recreational Products Development"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技休閒四甲"
+    ],
+    "instructors": [
+        "蔡惠婷"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "T0506"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "T0506"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "T0506"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "竹子製作器物的淵源很早，最早是出現在春秋戰國時候的楚國，而台灣竹編工藝的技術，隨著時代的改變與進步，已融入各種新材料，嶄現新風貌。本課程旨在為了讓學生學習傳統工藝竹編藝術，並融合創意巧思，為傳統注入新生命。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.竹編的歷史與發展<br>2.認識竹材<br>3.基本竹編法--平面壓一編織法<br>4.基本竹編法--平面壓二編織法<br>5.基本竹編法--平面壓三編織法<br>6.米字型打底法（基本編織法）<br>7.斜編、直編、盤纏編<br>8.六角目的變化<br>9.竹編飾品<br>10.竹編扇自行創作<br>11.竹藝品的上漆與保存方法<br>12.作品的防潮處理",
+        "en": "1. History and development of bamboo knitting<br>2. Know bamboo<br>3. Basic Bamboo Weaving Method--Plane Pressing and Weaving Method<br>4. Basic Bamboo Weaving Method--Plane Pressing Two Weaving Method<br>5. Basic Bamboo Weaving Method--Plane Pressing Three Weaving Method<br>6. Meter type base method (basic weaving method)<br>7. Diagonal, straight, and entangled<br>8. Hexagonal purpose changes<br>9. Bamboo ornaments<br>10. Bamboo fan made by himself<br>11. Painting and preservation methods of bamboo art<br>12. Moisture treatment of the work"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解竹材料的特性及應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "基本竹編技藝學習與運用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備竹編教學教材的設計開發能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "高級竹藝品的鑑賞與分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

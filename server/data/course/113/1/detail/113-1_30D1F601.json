@@ -1,0 +1,115 @@
+{
+    "code": "30D1F601",
+    "name": {
+        "zh": "基本電學實習",
+        "en": "Basic Electrical Engineering Laboratory"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專電子一甲"
+    ],
+    "instructors": [
+        "陳昭綾"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "B500"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "B500"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "B500"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在科技迅速發展的時代，了解電學的基本知識和實際操作經驗成為學生未來發展的重要技能。《基本電學實習》課程旨在為大專生提供基本的電學知識和實驗操作技巧。透過實際的實驗操作，學生可以更加直觀地理解電學的基礎原理，從而提高他們的學習興趣和動手能力。<br><br>本課程不僅介紹電學的基本概念，還結合實驗室設備，讓學生親手體驗電學實驗，培養他們的實驗技能和科學研究能力。學生將學習如何使用各種測量儀器，進行電路的搭建和分析，並進一步探索電學的深層知識。<br><br>課程內容涵蓋從基本的電學原理到實際的實驗操作，希望透過實際操作的體驗，使學生能夠更深入地理解電學，為未來的大學學習或職業發展打下堅實的基礎。<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.實驗室安全與工具認識<br>安全規則與注意事項<br>常用工具與儀器介紹<br><br>2.基本電路元件實驗<br>電阻、電容器、電感的特性<br>元件的連接方式<br><br>3.Ohm定律實驗<br>使用電表測量電壓、電流與電阻<br>實驗驗證Ohm定律<br><br>4.系列與並聯電路實驗<br>系列電路的特性<br>並聯電路的特性<br><br>5.電磁學基礎實驗<br>電磁感應的現象<br>創建簡單的電磁裝置<br><br>6.AC和DC電源實驗<br>交流電與直流電的特性<br>使用示波器觀察交流電的波形",
+        "en": "1.Laboratory Safety and Tool Recognition<br>Safety Rules and Precautions<br>Introduction to Common Tools and Instruments<br><br>2.Basic Circuit Components Experiment<br>Characteristics of Resistors, Capacitors, and Inductors<br>Methods of Component Connection<br><br>3.Ohm's Law Experiment<br>Using Multimeters to Measure Voltage, Current, and Resistance<br>Experimental Verification of Ohm's Law<br><br>4.Series and Parallel Circuit Experiments<br>Characteristics of Series Circuits<br>Characteristics of Parallel Circuits<br><br>5.Basics of Electromagnetism Experiments<br>Phenomena of Electromagnetic Induction<br>Creating Simple Electromagnetic Devices<br><br>6.AC and DC Power Source Experiments<br>Characteristics of Alternating Current and Direct Current<br>Observing AC waveforms using an Oscilloscope."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習和掌握實驗室的基本安全規則，並熟悉電學實驗所需的工具和儀器。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過實驗操作，深入理解和掌握電學的基本原理，如Ohm定律、系列和並聯電路等。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "利用實際的實驗操作，培養學生的問題解決和批判性思考能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "鼓勵學生探索和嘗試，培養他們的終身學習和自主學習的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

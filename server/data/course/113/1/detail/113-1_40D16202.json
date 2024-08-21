@@ -1,0 +1,160 @@
+{
+    "code": "40D16202",
+    "name": {
+        "zh": "程序設計",
+        "en": "Process Design"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技化材四乙"
+    ],
+    "instructors": [
+        "陳澄河"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "I0706"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "I0706"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "1.高考及專門技術人員--化學工程師",
+        ""
+    ],
+    "description": "程序設計是應用化學、質能均衡、熱力學、單元操作、反應工程學、經濟學等工具從事與化工程序有關的發展與設計，期使化工程序得以符合安全、環保之要求，且能創造可接受的利潤。課程內容介紹化工程序常用之流程圖、程序合成方法、操作條件之設定準則，成本估計與經濟分析、程序安全設計等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 程序系統工程概論<br>2. 常用化工程序流程圖<br>3. 程序流程圖之結構與合成<br>4. 程序之操作條件設計準則<br>5. 程序之成本估計與經濟分析<br>6. 程序安全設計與危害分析",
+        "en": "1. Introduction to Process System Engineering<br>2. Flow Diagrams for Understanding Chemical Processes<br>3. The Structure and Synthesis of Process Flow Diagrams<br>4. Understanding Process Conditions<br>5. Estimation of Costs and Engineering Economic Analysis<br>6. Process Safety Design and Hazard Analysis"
+    },
+    "weeklySchedule": "第1週～第2週     1. 程序系統工程概論<br>第3週～第6週     2. 常用化工程序流程圖<br>第7週～第8週     3. 程序流程圖之結構與合成<br>第9週           4. 期中考<br>第10週          5. 程序之操作條件設計準則<br>第11週          6. 程序之成本估計、經濟分析、安全設計與危害分析<br>第12週          7. 業師授課<br>第13週         \t8. 業師授課<br>第14週～第15週   9. DWSIM模擬軟體演練<br>第16週～第17週  \t10. 期末報告<br>第18週          11. 期末考<br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "作業、心得報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能解釋程序中設備之用途及控制系統之運作方式。（理解）",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能估計程序所需資金成本及製造成本。（應用）",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能依據程序說明文件繪製程序流程圖。（知識）",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能仔細分析程序流程圖並撰寫程序說明文件。（分析）",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能識別程序之潛在危害因子及建議解決方式。（理解、綜合）",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能講述有關程序設計之英語文件內容。（知識）",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "化工程序設計概論",
+        "author": "呂維明‧錢義隆‧黃孝平‧余政靖 編著",
+        "publisher": "高立圖書",
+        "year": "2023",
+        "ISBN": "9789864127894",
+        "edition": "修訂三刷"
+    },
+    "referenceBooks": "1.書名 (Title)： Analysis, Synthesis and Design of Chemical Processes (4th Edition) (Prentice Hall International )，作者 (Author)：Richard Turton, Richard Bailie, Wallace B. Whiting, Joseph Shaeiwitz, Debangsu Bhattacharyya ISBN： 978-0132618120<br>2.化工程序設計,作者：徐武軍、張有義,出版社：五南圖書出版股份有限公司,出版日期：2007-08-08, <br>ISBN/ISSN：9571148075 <br>",
+    "teachingSoftware": "DWSIM 模擬軟體",
+    "rules": "1. 程序設計是應用化學、質能均衡、單元操作、反應工程學、經濟學等工具從事與化工程序有關的發展與設計，期使化工程序得以符合安全、環保之要求，且能創造可接受的利潤。<br>2. 本課程介紹化工程序常用之流程圖標準樣式、程序合成方法、操作條件之設定準則，固定成本與操作成本之估計、工程經濟分析。<br>3. 請同學將質能平衡、單元操作、動力學、熱力學等基本課程複習。"
+}

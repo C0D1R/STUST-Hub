@@ -1,0 +1,110 @@
+{
+    "code": "I0N1AO02",
+    "name": {
+        "zh": "幼兒學習評量",
+        "en": "Educational Assessment of Young Children"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "夜二技教保四甲"
+    ],
+    "instructors": [
+        "歐慧敏"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "W0405"
+        },
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "W0405"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "評量的目是為了解幼兒能力現況，作教師設計課程、改進學<br>及與家長溝通參考依據。有鑑於此，本課程之目的旨在協助<br>學生習 幼兒評量 的概念、 方法及步驟 ，進而引導 其於<br>幼兒園 情境中 記錄、整理與分析幼兒的發展與學習。<br>本課程之目標如下：<br>1. 能了解進行幼兒學習評量的意義與目；<br>2. 能辨別各種評量方法的概念、功能與使用時機 ；<br>3. 能嚐試運用各種評量方法蒐集 幼兒行為資料；<br>4. 能組織與解釋幼兒評量結果；<br>5. 能謹守對幼兒評量資料的倫理規範。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 幼兒學習評量的基本概念<br>(1) 評量、測量、測驗、評估和評鑑之區別<br>(2) 幼兒學習評量的意義<br>(3) 幼兒學習評量的目的<br>(4) 幼兒學習評量的倫理議題<br>2. 幼兒學習評量與教學<br>(1)幼兒學習評量與課程的關係<br>(2)幼兒學習評量的內容<br>(3)實施幼兒學習評量的時機<br>3. 幼兒學習評量的實施方式<br>(1) 資料蒐集方法<br>(2) 評量工具的信度與效<br>(3) 實施步驟<br>4. 發展評量工具<br>(1)發展評量<br>(2) 檢核表<br>(3) 評量表<br>5. 學習檔案評量<br>(1) 學習檔案評量的意義與價值<br>(2) 學習檔案評量的實施<br>(3) 學習檔案評量實例分享<br>6. 幼兒學習評量實務演練<br>(1) 評量計畫<br>(2) 蒐集與記錄評量資料<br>(3) 整理與分析評量資料<br>(4) 解釋與應用評量結果<br>(5) 運用評量報告進行親師溝通",
+        "en": "1.The basic concepts and principles of assessment in early<br>childhood and it apply in kindergarten: Relationship among<br>curriculum, teaching and assessment.<br>2.Legal, ethical and professional responsibility.<br>3.Why, what, and when to assess.<br>4.Documenting : collecting, receding, compiling and summarizing<br>information<br>5.Interpreting and using assessment information.<br>6.Organizing for assessment."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解評量的基本概念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識適合幼兒的評量方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立蒐集、記錄、組織與解釋幼兒之發展和學習資料的技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習結合課程與評量的方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "H0D15P01",
+    "name": {
+        "zh": "分子生物學",
+        "en": "Molecular biology"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技食品三甲"
+    ],
+    "instructors": [
+        "褚俊傑"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "I0303"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "I0303"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程以分子生物學基礎理論(如細胞生物學與基礎遺傳學)為主線，對生物DNA、RNA和蛋白質分子結構與功能、基因轉錄與轉譯等遺傳信息傳遞之調控等深入淺出詳加敘述，以讓讀者綜覽分子生物學領域內的基本知識。課程除了注意理論的應用性外，也注重病毒與細菌遺傳，低等真核生物之多樣性與分子演化等議題，希望能使修習本學科之同學對分生有基本且全面的認識。本課程提供了分子生物學概括性的介紹，包含遺傳學，基因工程和生物科技。讓修課學生能清楚了解重要的生物分子結構、分子在細胞裡所扮演的角色以及在醫學的相關知識。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一單元基本化學和生物原理<br>第1章 細胞和生物體<br>第2章 基本遺傳學<br>第3章 DNA、RNA 和蛋白質<br>第4章基因組和 DNA<br>第5章核酸的操作<br>第二單元 基因組<br>第6章聚合酶鏈反應<br>第7章 用於分析的克隆基因<br>第8章 DNA 測序<br>第9章基因組學與系統生物學<br>第三單元分子生物學的中心法則<br>第10章細胞分裂和DNA複製<br>第11章基因轉錄<br>第 12 章 RNA 的加工<br>第13章蛋白質合成<br>第14章蛋白質結構和功能<br>第15章蛋白質組學：蛋白質的全球分析<br>第四單元 調控基因表達<br>第16章 原核生物轉錄調控<br>第17章真核生物轉錄調控<br>第18章 RNA水平的調控",
+        "en": "Unit 1 Basic Chemical and Biological Principles<br>Chapter 1 Cells and Organisms<br>Chapter 2 Basic Genetics<br>Chapter 3 DNA, RNA, and Protein<br>Chapter 4 Genomes and DNA<br>Chapter 5 Manipulation of Nucleic Acids<br>Unit 2 The Genome<br>Chapter 6 Polymerase Chain Reaction<br>Chapter 7 Cloning Genes for Analysis<br>Chapter 8 DNA Sequencing<br>Chapter 9 Genomics &amp; Systems Biology<br>Unit 3 The Central Dogma of Molecular Biology<br>Chapter 10 Cell Division and DNA Replication<br>Chapter 11 Transcription of Genes<br>Chapter 12 Processing of RNA<br>Chapter 13 Protein Synthesis<br>Chapter 14 Protein Structure and Function<br>Chapter 15 Proteomics: The Global Analysis of Proteins<br>Unit 4 Regulating Gene Expression<br>Chapter 16 Regulation of Transcription in Prokaryotes<br>Chapter 17 Regulation of Transcription in Eukaryotes<br>Chapter 18 Regulation at the RNA Level"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "基本化學和生物原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "基因組成",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分子生物學的中心法則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "調控基因表達",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

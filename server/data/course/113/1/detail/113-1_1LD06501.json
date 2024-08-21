@@ -1,0 +1,127 @@
+{
+    "code": "1LD06501",
+    "name": {
+        "zh": "臺灣流行音樂概論(A)",
+        "en": "Taiwanese Popular Music Introduction"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "陳姿光"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "N207"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "N207"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "N207"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以臺灣流行音樂為內容，介紹臺灣流行音樂的歷史、各時期的音樂特色與經典作品、以及流行音樂文化，以提升學生的人文素養。經由瞭解代表性音樂人物的生命故事，來增長學生的生命智慧。課程實務部分，提供學生歌唱才藝展演與欣賞的機會，以增進演唱技能與鑑賞能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、流行歌曲的相關理論<br>二、各時期的音樂特色、經典作品、代表性人物<br>1. 日據時期<br>2. 1945-1980年<br>3. 校園民歌時期<br>4. 1980年代<br>5. 1990年代<br>6. 2000年以後<br>三、流行歌曲文化現象<br>1. 現場演唱會時代<br>2. 傳播媒體與娛樂場所<br>3. 歌唱選秀節目<br>",
+        "en": "Unit 1 Theories of popular music<br>Unit 2 Brief history of Taiwanese popular music<br>\t1932-1945<br>\t1945-1980<br>\t1980s<br>\t1990s<br>\tAfter 2000<br>Unit 3 Culture phenomenon<br>\tLive concert era<br>\tCommunication media and entertainment venues<br>\tSinging talent shows<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解臺灣流行音樂的歷史與文化現象",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "欣賞臺灣各時期流行音樂的風格與經典作品",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "省思代表性音樂人物的生命故事",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升歌曲演唱與鑑賞技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備表達個人意見以及與他人溝通的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

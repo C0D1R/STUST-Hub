@@ -1,0 +1,115 @@
+{
+    "code": "1JN00H01",
+    "name": {
+        "zh": "高齡生理保健",
+        "en": "Physical care for the elderly"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜二技高福三甲"
+    ],
+    "instructors": [
+        "蔡岡廷"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "O101"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "O101"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "O101"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "高齡生理保健是針對老年人身體運作之探討。本課程將介紹老人身體各個系統因老化而產生的變化，並以生理學為主軸延伸介紹相關知識與概念。由於老化的機制複雜，因此高齡生理保健對於非醫護領域出身者更為重要。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.生理學概論<br>2.老化的生物學基礎與生理改變<br>3.老年醫學概論<br>4.老年症候群與周全性老年評估<br>5.老年疾病預防與健康促進<br>6.老年認知功能障礙<br>7.老年衰弱與步態問題<br>8.老年多重疾病與藥物問題<br>9.長期照護概論",
+        "en": "1.Physiology<br>2.The effect of aging on physiology<br>3.Introduction of geriatrics<br>4.Geriatric syndrome and comprehensive geriatric assessment<br>5.Health promotion and disease prevention for the elderly<br>6.Cognitive disorders of the elderly<br>7.Frailty and gait problems<br>8.Polypharmacy<br>9.Introduction of longterm care"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學會生理專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會保健專業技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解衛教的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解溝通的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

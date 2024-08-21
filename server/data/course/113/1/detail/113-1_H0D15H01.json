@@ -1,0 +1,115 @@
+{
+    "code": "H0D15H01",
+    "name": {
+        "zh": "食品添加物",
+        "en": "Food Additive"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技食品三甲"
+    ],
+    "instructors": [
+        "詹于誼"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "I0303"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "I0303"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "I0303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "讓學生瞭解食品加工時需加入食品添加物之目的，亦講解其添加與食品成分之作用及其可能對人體具有之負面影響。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "介紹<br>防腐劑<br>殺菌劑<br>保色劑<br>膨脹劑<br>抗氧化劑<br>漂白劑<br>著色劑<br>香料<br>調味劑<br>粘稠劑<br>結著劑<br>食品工業用化學藥品及溶劑與載體<br>乳化劑<br>品質改良用、釀造用及食品製造用劑<br>營養添加劑<br>香辛料抽出物<br>",
+        "en": "Introduction<br>Preservatives<br>Bactericides<br>Color Fasting Agents<br>Leavening Agents<br>Antioxidants<br>Bleaching Agents<br>Coloring Agents<br>Flavorings<br>Flavorings Agents<br>Pasting Agents<br>Coagulating Agents<br>Chemicals, Solvents and Carriers for Food Industry<br>Emulsifiers<br>Food Quality Improvement, Fermentation and Processing Agents<br>Nutritional Enriching Agents<br>Spices Extracts<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "定義及討論現今食品添加物的問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習食品產業生產及品管的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "食品檢驗分析及安全管理的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "食品相關資訊分析及應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

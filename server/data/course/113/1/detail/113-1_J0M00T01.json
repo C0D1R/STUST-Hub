@@ -1,0 +1,118 @@
+{
+    "code": "J0M00T01",
+    "name": {
+        "zh": "創意產業研究",
+        "en": "Research on Creative Industry"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研產設一甲",
+        "碩研產設二甲",
+        "碩研視傳一甲",
+        "碩研視傳二甲"
+    ],
+    "instructors": [
+        "陳一夫"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "W0803"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "W0803"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "W0803"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將帶領學生了解創意產業之重要研究議題、發展現況與趨勢，以及創意產業群聚關鍵與人才培育機制，課程分為三部分實施，(一)課堂演講，(二)專書或論文選讀與口頭報告，(三)實地參訪與分組個案研究。<br>本課程將指定學生研讀專書及相關論文，於上課時段報告閱讀成果，並安排學生實地參訪創意產業聚落，與業者互動交流，進行創意產業個案分析及分組討論，並提出個案研究成果報告。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、創意產業概論<br>二、創意產業現況與未來發展方向<br>三、創意城市理論<br>四、創意階級理論<br>五、創意產業價值鏈<br>六、創意產業群聚<br>七、創意產業案例解析<br>（一）文化創意產業園區<br>（二）藝術村<br>（三）創意街區<br>（四）創意生活產業<br>（五）觀光工廠<br>（六）自造者空間<br>（七）地方創生 <br>",
+        "en": "1.Introduction of Creative Industry<br>2.The Situation and Trend of Creative Industry<br>3.Creative City Theory<br>4.Creative Class Theory<br>5.The Value Chain of Creative Industry<br>6.The Clusters of Creative Industry<br>7.The Case Study of Creative Industry<br>（1）Creative Industry Park<br>（2）Art Village<br>（3）Cultural Quarter<br>（4）Creative life Industry<br>（5）Maker Space<br>（6）Regional Revitalization<br>"
+    },
+    "weeklySchedule": "一、理論介紹<br>09/10課程介紹<br>09/24創意產業定義與範疇<br>10/01創意城市<br>10/08創意階層<br>10/15創意產業價值鏈<br>10/22創意產業群聚<br>10/29創意產業案例分析<br><br>二、創意產業研究<br>11/05 設計產業<br>11/12 工藝產業<br>11/19 動漫產業<br>11/26 音樂產業<br>12/03 遊戲產業<br>12/10 創意生活產業/觀光工廠<br>12/17 廣播電視產業<br><br>三、創意場域研究<br>12/24 文創產業園區/觀光工廠<br>12/31  藝術村/創意街區<br>01/07  地方創生",
+    "exams": {
+        "midterm": "創意產業文獻導讀",
+        "final": "創意產業文獻與案例評析",
+        "other": "課堂筆記與評論"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解創意產業範疇與發展現況",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "探索創意產業重要研究議題",
+            "teachingMethods": [
+                "座談"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學習創意產業研究與分析方法",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "掌握創意產業群聚與人才培育要素",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.\t周德禎等合著（2016），文化創意產業理論與實務，臺北市：五南。<br>2.\t張耀文、李秉儒、張智琦、張榕茜（2021）文化創意：產業、就業與創業，臺北市：全華圖書。<br>3.\t陳智凱、邱詠婷（2016），文創學，臺北市：東華。<br>4.\t楊敏芝（2009），創意空間：文化創意產業園區的理論與實踐，臺北市：五南。<br><br><br><br>",
+    "teachingSoftware": "",
+    "rules": "1.作業請於繳交期限內繳交，遲交將會扣該次作業成績，未交則不予計分。<br>2.為培養學習態度，上課請勿遲到，老師會視出席狀況點名，生病或有要事未能出席請事先請假告知。<br>3.引用文獻務必改寫，並詳列參考書目，以尊重智慧財產權。<br>"
+}

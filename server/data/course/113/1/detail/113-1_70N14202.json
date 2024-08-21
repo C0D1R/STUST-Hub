@@ -1,0 +1,139 @@
+{
+    "code": "70N14202",
+    "name": {
+        "zh": "企業資源規劃",
+        "en": "Enterprise Resource Planning"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技企管三甲"
+    ],
+    "instructors": [
+        "丁志宏"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "S309"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "S309"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "S309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "企業在火熱的市場上競爭，若想要保有一席之地，規劃一套有效率的企業資源規劃系統是商家的必備武器，因此若能想要在企業內部扮演重要管理人才，你必須了解何謂ERP，以及透過ERP可以帶給你的效益",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\tERP基礎觀念說明<br>2.\tERP對企業營運效益之影響<br>3.\tERP導入方法說明<br>",
+        "en": "1.\tDescription based on the concept of ERP<br>2.\tERP effect operational efficiency of enterprises<br>3.\tERP implementation methodology <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解何謂「企業資源管理（ERP）」",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解ERP在企業應用的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習如何使用鼎新ERP系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解企業業務職能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解企業生管職能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解企業資材職能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

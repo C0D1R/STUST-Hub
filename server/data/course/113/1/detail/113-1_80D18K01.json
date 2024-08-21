@@ -1,0 +1,116 @@
+{
+    "code": "80D18K01",
+    "name": {
+        "zh": "財務研究方法概論",
+        "en": "Introduction to Research Methods of Finance"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技財金三甲",
+        "四技財金三乙"
+    ],
+    "instructors": [
+        "林雅智"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "S404"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "S404"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "S404"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要針對大三同學的專題製作做一完整的介紹及實際演練，內容包括以下6個主題：<br>(1) 專題的意義、如何選擇適當的專題題目及專題報告應有的架構。<br>(2) 如何由資料庫蒐集相關之研究及文獻探討。<br>(3) 如何由資料庫、網路或問卷蒐集所需要的資料。 <br>(4) 資料分析軟體(SPSS或EXCEL)的功能及基本操作。<br>(5) 專題常用之研究方法的電腦操作及報表分析(內含樣本資料的整理與描述、平均數的比較與檢定、變異數分析、簡單及多元迴歸分析、卡方檢定等方法之電腦操作及報表分析)。<br>(6) 專題或研究報告的撰寫及口述式簡報之呈現。<br>",
+    "prerequisites": "統計學",
+    "syllabus": {
+        "zh": "(1) 專題(或研究)的意義、如何選擇適當的專題題目及專題報告應有的架構<br>(2) 相關之研究及文獻探討(內含兩小時圖書館電子資料庫之介紹及實際操作演練)。<br>(3) 資料蒐集(由資料庫、網路或問卷蒐集所需要的資料，內含兩小時經濟新報資料庫之介紹及實際操作演練)。 <br>(4) 資料分析軟體(SPSS或EXCEL)的功能及基本操作<br>(5) 樣本資料的整理與描述(含圖表)<br>(6) 平均數的比較與檢定<br>(7) 變異數分析<br>(8) 簡單及多元迴歸分析<br>(9) 卡方檢定<br>(10)專題或研究報告的撰寫(含參考文獻格式)<br>(11)口述式簡報之呈現<br>",
+        "en": "(1) Introduction to Research Methods <br>(2) Literature Survey<br>(3) Data Collection<br>(4) Introduction to software<br>(5) Analysis and Presentation of Data<br>(6) T Test (Test about Means of Populations)<br>(7) Analysis of Variance<br>(8) Simple and Multiple Regression <br>(9) Chi-square Test<br>(10) The Written Report<br>(11) Oral Presentation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解專題或研究報告應如何撰寫及口述式簡報之呈現",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用科學的方法，解決財務及管理問題的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能養成對課業或工作認真負責的態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解專題或研究報告常用之研究方法的電腦操作及報表分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

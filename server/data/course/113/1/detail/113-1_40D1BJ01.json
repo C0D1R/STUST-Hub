@@ -1,0 +1,147 @@
+{
+    "code": "40D1BJ01",
+    "name": {
+        "zh": "基礎化工(一)",
+        "en": "Basic chemical engineeringⅠ"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專化材二甲"
+    ],
+    "instructors": [
+        "李建輝"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "I0310"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "I0310"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "I0310"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為化工理論的基礎，培養學生具備化工基礎知識，包含質能均衡、物質的一般性質、界面化學與膠體、相平衡現象及電化學。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、質能均衡<br>二、氣體的性質<br>三、液體的性質<br>四、晶體的性質<br>五、界面化學<br>六、相與相平衡<br>七、電化學<br>",
+        "en": "1. Quality-energy balance<br>2. Properties of gases<br>3. Properties of liquids<br>4. Properties of crystals<br>5. Interface Chemistry<br>6. Phase and phase balance<br>7. Electrochemistry<br><br>"
+    },
+    "weeklySchedule": "週次\t章節\t課程主題<br>一\t\t課程介紹<br>二\t第一篇\t質能均衡-質能均衡基本概念<br>三\t第一篇\t質能均衡-化工程序涉及的質量均衡<br>四\t第一篇\t質能均衡-化工程序涉及的能量均衡<br>五\t第二篇\t氣體性質-真實氣體與理想氣體差異-真實氣體狀態方程式<br>六\t第二篇\t氣體性質-氣體的臨界性質-氣體的液化<br>七\t第二篇\t氣體性質-氣體的液化<br>八\t第三篇\t液體的性質-液體蒸氣壓與汽化熱<br>九\t\t期中考週<br>十\t第三篇\t液體的性質-液體的黏度-液體的表面張力<br>十一\t第四篇\t晶體的性質-晶系與晶格-立方晶系<br>十二\t第四篇\t晶體的性質-米勒指數-液晶<br>十三\t第五篇\t界面化學-界面活性劑的分類與應用<br>十四\t第五篇\t界面化學-吸附現象-奈米現象<br>十五\t第六篇\t相與相平衡-相與相率-單成分物系相平衡<br>十六\t第六篇\t相與相平衡—互溶二成分物系的氣-液相平衡<br>十七\t第六篇\t相與相平衡—二成分物系的液-液相平衡<br>十八\t\t期末考週<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "作業/報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解基礎化工課程教授內容並具備基本概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能看得懂基礎化工相關之專業名詞",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能充分了解基礎化工課程所教授內容在產業界的應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有系統的回答課堂上老師詢問之專業問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能藉由基礎化工的例題與習題之練習，具備分析與解決問題的能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用網際網路平台收集並研讀相關資料",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "基礎化工",
+        "author": "陳祈良/許維鴻",
+        "publisher": "全華圖書股份有限公司",
+        "year": "2020",
+        "ISBN": "國家教育研究院審定技審字第109138號",
+        "edition": "4"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

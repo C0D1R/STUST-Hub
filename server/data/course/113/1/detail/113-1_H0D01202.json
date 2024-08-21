@@ -1,0 +1,127 @@
+{
+    "code": "H0D01202",
+    "name": {
+        "zh": "化學",
+        "en": "Chemistry"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技食品一乙"
+    ],
+    "instructors": [
+        "詹于誼"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "I0309"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "I0309"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "I0309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要介紹化學的基本術語及原理，以醫護相關科系的角度來討論化學知識，讓學生能將其觀念應用於未來的食品生技相關課程。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "化學與測量<br>能量與物質<br>元素、離子與分子化合物<br>溶液<br>酸、鹼和鹽類<br>有機化學簡介",
+        "en": "Chemistry and Measurements<br>Energy and Matter<br>Elements, Ionic and Molecular Compounds<br>Solutions<br>Acids, Bases and Salts<br>Introduction to Organic Chemistry"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉各種濃度之定義與計算",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解週期表、化學鍵與凡得瓦爾力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立化學相關的基本觀念，厚植相關專業學科之基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會與同學一起討論課後練習題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解化學反應中之能量關係，了解化學品之性質與安全性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

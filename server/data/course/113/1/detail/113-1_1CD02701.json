@@ -1,0 +1,116 @@
+{
+    "code": "1CD02701",
+    "name": {
+        "zh": "使用者介面設計",
+        "en": "User Interface Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技產設二甲",
+        "四技產設二乙"
+    ],
+    "instructors": [
+        "葉儷棻"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "P403"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "P403"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "P403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程訴求人機介面基礎理論，讓學生體驗不同平台使用者介面差異，來探討設計方針和程序，並以實際產品案例與實作介面設計練習，了解使用者經驗設計方法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.什麼是使用者介面設計<br>2.使用者介面設計歷史的演進<br>3.介面設計師的種類與介紹<br>4.使用者介面設計原則與設計實務方法介紹<br>5.如何運用使用者經驗設計對應物聯網產品設計上的軟體提升<br>6.學習如何將使用者經驗視覺化<br>7.運用使用者經驗設計的實務方法<br>8.學習如何將使用者經驗視覺化，增加對設計上的幫助<br>",
+        "en": "1. What is the user interface design?<br>2. Evolution of user interface design history<br>3. Types and introductions of interface designers<br>4. User interface design principles and design practice methods<br>5. How to use user experience to design software upgrades corresponding to IoT product design<br>6. Learn how to visualize user experience<br>7. Practical methods designed using user experience<br>8. Learn how to visualize user experience and increase design assistance"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "養成使用者介面設計方法與學理基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能培養與創作媒體相關運用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成與創作出使用者經驗視覺化技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養創新介面設計實務技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

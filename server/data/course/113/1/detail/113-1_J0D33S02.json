@@ -1,0 +1,116 @@
+{
+    "code": "J0D33S02",
+    "name": {
+        "zh": "商業攝影",
+        "en": "Commercial Photograph"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "二技創設三甲",
+        "四技創設三甲"
+    ],
+    "instructors": [
+        "高軒然"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "W0702"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "W0702"
+        },
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "W0702"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以商業攝影的服務對象及目標為研究範疇，進行專題式的實務教學。課程的內容包括：攝影概論、相機原理、鏡頭光學、曝光控制、構圖分析、燈光實務，攝影棚專題實習及數位化影像後製等。<br><br>Taking the service target and target of commercial photography as the research scope, the topic-based practical teaching is carried out. The course includes: Introduction to Photography, Camera Principles, Lens Optics, Exposure Control, Composition Analysis, Lighting Practice, Studio Internship and Digital Image Post-production.<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.攝影觀念與技術介紹<br>2.數位攝影機原理/單眼數位相機解說<br>3.鏡頭光學原理與應用<br>4.景深<br>5.構圖<br>6.色溫 <br>7.曝光控制 <br>8.攝影棚燈光 <br>9.數位影像處理<br>10.專題實務（一）靜物攝影<br>11.專題實務（二）食品攝影<br>12.專題實務（三）人像攝影<br>13.專題實務（四）設計攝影<br>",
+        "en": "1.Photography concept and technology<br>2.Digital Camera Principle / Digital Camera Interpretation<br>3.Lens optics principle and application <br>4.Depth of field<br>5.Composition <br>6.Color Temperature <br>7.Exposure<br>8.Studio lighting<br>9.Special Projects I : Still Life Photography<br>10.Special Projects II: Food Photography<br>11.Special Projects III: Portrait Photography<br>12.Special Projects IV: Design Photography<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解攝影的相關技巧並能夠熟練地操作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "將攝影技巧運用於商品行銷",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "對於光線的敏銳度與環境感知能力培養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "數位影像美學的養成",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

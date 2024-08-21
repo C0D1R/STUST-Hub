@@ -1,0 +1,147 @@
+{
+    "code": "70N17901",
+    "name": {
+        "zh": "實務專題(一)",
+        "en": "Team Project I"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜二技企管四甲"
+    ],
+    "instructors": [
+        "賴明材"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第11節",
+            "location": "S414"
+        },
+        {
+            "day": "週二",
+            "period": "第11節",
+            "location": "S414"
+        },
+        {
+            "day": "週三",
+            "period": "第11節",
+            "location": "S414"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "實務專題主旨在於結合理論與實務，藉由指導老師之從旁輔導，訓練學生獨立思考、研究及應用所學之專業知識，以發掘與企業管理有關問題，繼而提出診斷或建議，同時培養處理專門性問題及研究報告撰寫之能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 體會企業經營決策的複雜。<br>2. 作為就業或升學的準備。<br>3. 培養學生分析及決策能力。<br>4. 從實作中瞭解經營管理的困難與問題。",
+        "en": "1. Experience the complexity of business decision-making.<br>2. Prepare for employment or progression.<br>3. Develop students' analytical and decision making skills.<br>4. Understand the difficulties and problems of business management from the implementation."
+    },
+    "weeklySchedule": "第1週 專題製作簡介<br>第2--4週 分組討論與確認題目<br>第5--6週 專題構想報告<br>第7--9週 分組討論--文獻探討<br>第10--12週 分組討論--研究假構確認<br>第13--14週 分組討論--收集資料<br>第15--16週 分組討論--資料分析<br>第17--18週 分組討論--結論與報告",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "書面報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "可以應用已學的專業知識，進行專門性問題的深入研究。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "熟練分析報告的撰寫。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉理論在實務應用的方式。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "熟練辦公室軟體以及統計分析工具的使用。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "EXCEL、SPSS",
+    "rules": ""
+}

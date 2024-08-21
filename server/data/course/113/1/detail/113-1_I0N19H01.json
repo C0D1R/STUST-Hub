@@ -1,0 +1,207 @@
+{
+    "code": "I0N19H01",
+    "name": {
+        "zh": "幼兒英文繪本賞析",
+        "en": "Appreciating English Picture Books"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜二技幼保四甲"
+    ],
+    "instructors": [
+        "張韶華"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第5節",
+            "location": "W0403"
+        },
+        {
+            "day": "週六",
+            "period": "第6節",
+            "location": "W0403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程在介紹英語繪本，讓學習者能進入繪本世界，具有多元文化觀",
+    "prerequisites": "基本英語能力",
+    "syllabus": {
+        "zh": "1. 幼兒英文繪本賞析課程介紹<br>2. 如何欣賞英語繪本<br>3. 如何和幼兒共享英語繪本<br>4. ABC英文字母世界<br>5. David Shannon的頑皮世界<br>6. Eric Carle的動物世界<br>7. Dr. Suess的神奇世界<br>8. Barbette Cole的幽默世界<br>9. Anthony Brown的後現代主義世界<br>10.其他英語繪本欣賞<br>11.學生繪本報告<br>",
+        "en": "1. Course introduction<br>2. How to appreciate English picture books<br>3. How to share picture books with young children<br>4. The ABC world<br>5. The naughty world of David Shannon<br>6. The animal world of Eric Carle<br>7. The magic world of Dr. Suess<br>8. The humorous world of Barbette Cole<br>9. The postmodern world of Anthony Brown<br>10.Other English picture books.<br>11.Presentation<br>"
+    },
+    "weeklySchedule": "What are picture books?<br>Board books for birth to age 2 (color, shape, A-z)<br>Board books for birth to age 2 (numbers, rhymes, opposite words)<br>Picture books for ages 2 to 8 (bedtime stories)<br>Picture books for ages 2 to 8 (fairy tales)<br>Picture books for beginning readers ages 5 to 7 (Children's experience))<br>Picture books for young readers ages 7 to 9<br>Picture books for any age<br>Picture books without word<br>Picture books with multicultural aspects <br>",
+    "exams": {
+        "midterm": "期中繪本教學演示",
+        "final": "期末繪本教學演示",
+        "other": "作業課堂活動"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "幼兒英文繪本賞析課程介紹",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "如何欣賞英語繪本",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "如何和幼兒共享英語繪本",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "ABC英文字母世界",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "David Shannon的頑皮世界",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "Eric Carle的動物世界",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "Dr. Suess的神奇世界",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "Barbette Cole的幽默世界",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "Anthony Brown的後現代主義世界",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "其他英語繪本欣賞",
+            "teachingMethods": [
+                "啟發思考",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學生繪本報告",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期中"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "Variety of English Picture Books<br>",
+    "teachingSoftware": "",
+    "rules": "Attendance and participation 15%<br>Homework 35%<br>Mid-term 25%<br>Final 25%"
+}

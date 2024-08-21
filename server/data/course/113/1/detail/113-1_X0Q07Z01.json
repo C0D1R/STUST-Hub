@@ -1,0 +1,110 @@
+{
+    "code": "X0Q07Z01",
+    "name": {
+        "zh": "大數據與個人資料保護法制專題研討",
+        "en": "Big Data & Data Protection Law Seminar"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩專財法一甲"
+    ],
+    "instructors": [
+        "郭戎晉"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "S411B"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "S411B"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程透過講解及互動討論，探討大數據等新興資通訊科技對於個人資料保護產生的影響與衍生的法律問題，培養修課同學對大數據與國內外個人資料保護法制之分析能力：<br>1、掌握影響個人資料保護的關鍵科技，除大數據外，同步了解人工智慧、區塊鏈、雲端運算及其他新興科技產生的影響。<br>2、以國內「個人資料保護法」為中心，帶領同學討論相關科技在個資法適用上所面臨的重要問題，以及相關問題有無合適的解決方案。<br>3、比較國際重要法制，例如歐盟「一般資料保護規則」(GDPR)、美國加州「消費者隱私保護法」(CCPA)及其他國家新興立法，對應思考國內個人資料保護法後續可能的發展方向。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、當前影響個人資料保護的重要新興科技<br>二、大數據發展與個人資料保護<br>三、人工智慧、區塊鏈、雲端運算及其他新興技術之影響<br>四、理解及掌握國內個人資料保護法<br>五、資料蒐集、處理與利用上之個別問題分析<br>六、國際重要立法比較：歐盟GDPR<br>七、國際重要立法比較：美國加州CCPA<br>八、其他新興個人資料保護立法<br>九、國際個人資料保護最新發展趨勢<br>十、同學報告與課堂討論<br>",
+        "en": "1. Overview of Emerging Technologies Related to Data Protection<br>2. Big Data &amp; Data Protection<br>3. Artificial Intelligence, Blockchain, Cloud Computing and others<br>4. Understanding Taiwan’s Personal Data Protection Law<br>5. Problems in Data collecting, Processing and Using<br>6. EU General Data Protection Regulation<br>7. US California Consumer Privacy Act<br>8. Other Emerging Personal Data Protection Legislation<br>9. Recent Trends in International Personal Data Protection<br>10. Presentation and Discussion<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使修課同學完整掌握影響個人資料保護的新興科技與衍生爭議。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解國內個人資料保護法主要規範內容與個案適用情形。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解國際新興個人資料保護立法，並能與國內立法進行比較。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "鼓勵同學跳脫傳統思維，培養同學面對嶄新科技與關聯法制議題的掌握與分析能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

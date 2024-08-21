@@ -1,0 +1,134 @@
+{
+    "code": "08D04G01",
+    "name": {
+        "zh": "英語聽講演練(一)(A)",
+        "en": "English Speaking and Listening Practice (Ⅰ)"
+    },
+    "credit": "2",
+    "type": "管制選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "王福祥"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0110"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0110"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The aim of this course is to enhance students’ listening and speaking abilities in everyday situations. Relevant grammar, culture issues and vocabulary will be covered in the course so as to prepare students to communicate in English for work, travel and everyday life.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "學生將依照以下情境進行英語聽講訓練:<br>1.解釋並描述娛樂活動<br>2.於購物場所進行溝通<br>3.描述職場相關工作<br>4.描述電腦使用的相關步驟<br>5.描述旅遊的計畫<br>6.使用適當的詞彙完成餐廳訂位<br>7.使用適當的詞彙要求飯店服務<br>8.描述交通工具與使用方法<br>9.討論環境保護的相關議題<br>10.描述駕駛習慣<br>11.描述居家的相關細節<br>12.討論健康的相關議題",
+        "en": "Students will develop listening and speaking ability in English in the following contexts:<br>1.Learn how to describe and explain about entertainment events<br>2.Learn how to communicate when you go shopping<br>3.Talk about what people are doing in an office<br>4.Talk about how to use computers<br>5.Talk about how to plan a trip<br>6.Learn how to make restaurant reservations<br>7.Learn how to request hotel services<br>8.Talk about the transportation you usually take and how to use it<br>9.Learn to talk about ways to protect the environment<br>10.Talk about driving habits<br>11.Talk about the type of house you live in<br>12.Talk about how to stay fit and healthy"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能欣賞不同國家的文化",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "於群體討論中能言之有物，並能仔細聆聽",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能清楚及簡潔傳達訊息",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養公開演說的信心",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以英語有效溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠探討主題，並批判性思考",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

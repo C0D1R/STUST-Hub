@@ -1,0 +1,134 @@
+{
+    "code": "I0N15201",
+    "name": {
+        "zh": "早期療育",
+        "en": "Early Intervention Practices"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜二技幼保四甲"
+    ],
+    "instructors": [
+        "陳春鳳"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第11節",
+            "location": "W0403"
+        },
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "W0403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "早期療育是提供給出生到五歲的兒童的多元服務，以促進他們的健康和福祉，提升他們的能力，並減少發展上的遲緩；補救現有或剛浮現的缺陷，預防功能惡化，並提升適任親職和家庭的整體功能。要達成這些目標，必須提供兒童個別化的發展、教育和治療性的服務，並結合對他們家庭的計畫性支持。<br>所以本課程以影片、參觀見習與照護實習，逐一介紹早期療育的意涵、成效、發展、立法及學理基礎、服務過程、各種療育內涵及保育員實務操作要領，並希望每位選修之學生有四小時以上之發展遲緩兒臨床評估與教學體驗。",
+    "prerequisites": "1.兒童發展 2.特殊幼兒教育 3.特殊幼兒教材教法 4.發展遲緩兒評估\n課程學習目標與核心能力之對應\t\n編號\t中文課程學習目標\t英文",
+    "syllabus": {
+        "zh": "1.緒論：早期療育的發展<br>2.早期療育的理論基礎<br>3.早期療育的服務<br>4.特殊幼兒的發現與評量<br>5.個別化教育計畫與個別化家庭服務計畫<br>6.課程設計與教保策略<br>7.專業團隊支援服務與資源整合<br>8.早期療育的親職教育、親子關係與親師溝通",
+        "en": "1.Introduction:The development of early intervention<br>2. The theoretical basis of early intervention<br>3. Early intervention services<br>4. The discovery and evaluation of special young children<br>5. Individualized education programs and individualized family service plans<br>6. Curriculum design and teaching strategies<br>7.Team of professionals support services and resource integration<br>8., Parenting education, parent-child relationships and parent-teacher communication in early intervention<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "１、了解透過醫療、教育及社會福利專業團隊的共同介入協助，對特殊幼兒及其家庭提供確實有效之幫助的學理基礎與方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "２、理解早期療育服務架構與特殊幼兒評量之學理及運作流程。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "３、參觀見習發展遲緩兒之通報轉介及評估機構印證早期療育相關知能與實務之現狀。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "４、演練個別化教育計畫(IEP)與個別化家庭服務計畫(IFSP)之實作經驗，熟悉其內容與操作流程。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "５、分析與比較家庭本位（home-based）的早期療育服務模式和機構本位(center-based)的早期療育服務模式之優缺點。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "６、激發珍重生命、積極投入早期療育，關懷特殊幼兒的教育愛。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

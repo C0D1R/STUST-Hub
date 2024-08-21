@@ -1,0 +1,167 @@
+{
+    "code": "G0D17C01",
+    "name": {
+        "zh": "Linux系統概論",
+        "en": "Introductory Linux system"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專資工二甲"
+    ],
+    "instructors": [
+        "吳智光"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "C301"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "C301"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "C301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Linux是一個功能強大而且開放的作業系統，除了提供完整的程式原碼，同時提供完成的網路伺服器的服務，本課程主要提供同學另一個作業系統的介紹與使用架設伺服器的機會。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 介紹Linux (1小時)<br>2. 介紹安裝方式(2小時)<br>3. Linux 指令介紹(4小時)<br>4. Linux 檔案系統(3小時)<br>5. 使用者帳號(2小時)<br>6. 套件安裝與管理(2小時)<br>7. 網路服務(3小時)<br>8. 工具程式 (4小時)<br>9. 核心編譯與升級 (3小時)<br>10. Webmin- 遠端管理(2小時)<br>11. SSH and telnet 伺服器架設 (2小時)<br>12. Apache- WWW 伺服器架設 (2小時)<br>13. VNC Server (2小時)<br>14. Squid- Proxy 伺服器架設 (2小時)<br>15. NAT and FIREWALL伺服器架設 (2小時)<br>16. DHCP 伺服器架設 (2小時)<br>17. vsftpd- FTP伺服器架設 (2小時)<br>18. NFS 伺服器架設 (2小時)<br>19. Samba 伺服器架設(2小時)<br>20. BIND - DNS 伺服器架設 (2小時)<br>21. Sendmail - MAIL 伺服器架設 (2小時)",
+        "en": "1. Intruduce to Linux (1小時)<br>2. Installation(2小時)<br>3. Linux Instruction(4小時)<br>4. Linux Filesystem(3小時)<br>5. User Account management(2小時)<br>6. Package installation and management(2小時)<br>7. Network service management(3小時)<br>8. Shell and Tools (4小時)<br>9. Kernel compilation and upgradation (3小時)<br>10. Webmin(2小時)<br>11. SSH and telnet Server (2小時)<br>12. Apache- WWW Server (2小時)<br>13. VNC Server (2小時)<br>14. Squid- Proxy Server (2小時)<br>15. NAT and FIREWALL (2小時)<br>16. DHCP Server (2小時)<br>17. vsftpd- FTP Server (2小時)<br>18. NFS Server (2小時)<br>19. Samba Server (2小時)<br>20. BIND - DNS Server (2小時)<br>21. Sendmail - MAIL Server (2小時)"
+    },
+    "weeklySchedule": "第 01 週 課程介紹<br>第 02 週 Ubuntu 桌面版本<br>第 03 週 X Window 基本操作<br>第 04 週 文字環境操作<br>第 05 週 帳號管理<br>第 06 週 檔案權限設定<br>第 07 週 套件管理<br>第 08 週 重導與檔案查詢<br>第 09 週 期中考<br>第 10 週 檔案打包與壓縮<br>第 11 週 管理程序<br>第 12 週 Shell Script 基礎<br>第 13 週 Shell Script 程式設計<br>第 14 週 排程<br>第 15 週 網路管理<br>第 16 週 SSH 伺服器<br>第 17 週 GRUB 與 Systemd<br>第 18 週 期末考",
+    "exams": {
+        "midterm": "上機考試、筆試",
+        "final": "上機考試、筆試",
+        "other": "課堂練習"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解Linux作業系統執行流程與環境的設定與系統之安裝",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用Linux指令進行系統命令與系統之管理與設定",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能將想法與創意轉換成架設Linux的伺服器提供相關的服務",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能辨識及閱讀外語的Linux文件與手冊令，並能進行開發",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析個別Linux服務的安裝與記錄檔的分析，並能加以設定與故障排除",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Ubuntu22系統管理與網路服務實務應用：晉升專業網管工程師×物聯網工程師實戰攻略",
+        "author": "王進德",
+        "publisher": "博碩",
+        "year": "2023",
+        "ISBN": "978-626-333-378-9",
+        "edition": "初版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Ubuntu 22",
+    "rules": "1. 請勿遲到早退，不要滑手機，不要打電玩，上課時需於簽到單簽到。<br>2. 課堂實作練習，若有特別註明，則必須在經過老師或助教確認內容正確後，於第三節下課前上傳至本校FlipClass數位學習。<br>3. 其他請遵守C301電腦教室規範。"
+}

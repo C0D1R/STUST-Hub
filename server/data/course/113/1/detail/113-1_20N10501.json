@@ -1,0 +1,136 @@
+{
+    "code": "20N10501",
+    "name": {
+        "zh": "電機機械",
+        "en": "Electric Machinery"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技電機三甲"
+    ],
+    "instructors": [
+        "王士豪"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "I0308"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "I0308"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "I0308"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.高普考、專技人員考試等",
+        ""
+    ],
+    "description": "本課程主要教授機械能與電能的轉換原理與實際應用技術, 主要內容包括交直流發電機與電動機等, 另外也專章討論變壓器原理與應用問題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 電機機械原理<br>2. 電機構造與繞線方式<br>3. 直流發電機分類與控制方法<br>4. 直流電動機分類與控制方法<br>5. 電樞反應與換向問題<br>6. 交流發電機原理與控制方法<br>7. 發電機並聯控制方法<br>8. 交流同步電動機原理與控制方法<br>9. 多相感應電動機原理與控制方法<br>10 單相交流電動機原理與控制方法<br>11. 特殊電機<br>12. 變壓器<br>",
+        "en": "1. Electromechanical fundamentals<br>2. Dynamo construction and winding<br>3. DC dynamo voltage relations-dc generators<br>4. DC dynamo yorque relations-dc motors<br>5. Armature reaction and commutation in dynamos<br>6. AC dynamo voltage relations-alternators<br>7. Paraller operation<br>8. AC dynamo torqure relations-synchronous motors<br>9. Polyphase induction dynamos<br>10 Single-phase motors<br>11. Specialized dynamos<br>12. Transformers<br>"
+    },
+    "weeklySchedule": "導論 - <br>     電工機械之分類<br>     基礎電磁理論<br>有刷發電機 -<br>     直流發電機之原理<br>     直流發電機之構造<br>     直流發電機之ㄧ般性質<br>     直流發電機之分類、特性及運用<br>     直流發電機之耗損及效率<br>有刷電動機 -<br>     直流電動機之原理<br>     直流電動機之構造<br>     直流電動機之一般性質<br>     直流電動機之分類、特性及運用<br>     直流電動機之耗損與效率<br>變壓器 - <br>     變壓器之基本原理與構造<br>     變壓器之特性<br>     變壓器之連結<br>     變壓器之開路與短路試驗<br>     特殊變壓器<br><br><br><br><br><br><br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學會有關電機工程與科技背景的基本知識。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學會各元件功率流程圖的分析。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解電動機、變壓器的應用。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學會設備規格與專業責任的重要性。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解工廠、家電與電機的相關性與基本外語專有名詞。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "B0D42O01",
+    "name": {
+        "zh": "遊憩管理(二)",
+        "en": "Recreation Management (II)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "二技休閒四甲"
+    ],
+    "instructors": [
+        "潘盈仁"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0003"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "T0003"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "主要為對於遊憩地區環境的理解與認識，並且授予環境觀察的專業訓練，在學理與實際案例交互佐證下，解析創造優良環境的原理與原則。",
+    "prerequisites": "要先修休閒導論",
+    "syllabus": {
+        "zh": "1、概論<br>2、調查分析 基礎調查、市場調查、景觀資源調查等<br>3、基本構想 計畫思想及主題<br>4、基本計畫 概念形成與具現化操作<br>5、基本設計 初步設計<br>6、實施設計 細部設計<br>",
+        "en": "1. Introduction<br>2. Investigation and analysis Basic investigation, market investigation, landscape resource investigation, etc.<br>3. Basic conception, plan idea and theme<br>4. Basic plan concept formation and actualization operation<br>5. Basic design Preliminary design<br>6. Implementation design, detailed design"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習戶外遊憩管理知識及相關方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "教導學生遊憩資源規劃能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟捻繪製ROC、LAC圖表",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "獲取新的遊憩資訊及潮流的變動趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

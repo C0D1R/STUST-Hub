@@ -1,0 +1,116 @@
+{
+    "code": "L0D05001",
+    "name": {
+        "zh": "積體電路製程",
+        "en": "Integrated Circuit Processingg Technology"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技半導體三甲",
+        "四技半導體三乙"
+    ],
+    "instructors": [
+        "鄭錫恩"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "R503"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "R503"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "R503"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "半導體產業為台灣重要產業之一, 本課程將介紹半導體產業鏈以及利用半導體材料製造積體電路之方法與製程特性。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "IC元件、設計、製造流程與未來趨勢<br><br>2、半導體材料特性<br>   結構、能帶特性、摻雜與缺陷<br><br>3、元件技術<br>--- 主被動元件<br>--- 記憶體<br><br>4、矽晶圓製備<br>--- 拉單晶與晶圓製備<br>--- 磊晶<br>--- 缺陷種類與檢測<br><br>5、污染防治<br>--- 無塵室<br>--- 金屬污染與清洗技術<br><br>6、積體電路製造流程<br><br>7、氧化製程<br>--- 閘氧化層<br>--- 氧化機構<br><br>8、離子植入與退火<br><br>9、薄膜製程<br>--- 物理氣相沉積<br>--- 化學氣相沉積<br><br>10、黃光製程<br>--- 光阻<br>--- 解析度與聚焦深度<br><br>11、蝕刻製程<br>--- 濕蝕刻<br>--- 電漿蝕刻<br><br>12、平坦化製程<br>--- 化學機械研磨法<br><br>13、低介電係數材料<br>---低介電係數材料在IC之應用與製備方法<br>",
+        "en": "1. INTRODUCTION TO THE SEMICONDUCTOR INDUSTRY<br>•Describe a basic IC fabrication sequence<br>•IC Device and Design<br>•Semiconductor Manufacturing Processes<br>•Future Trends<br>2. CHARACTERISTICS OF SEMICONDUCTOR MATERIALS <br>•Semiconductor Substrate and Dopants<br>•Band Gap and Resistivity<br>•Crystal Structures: Amorphous, Polycrystalline, and Single crystal<br>•Defects: Point defects, line defects, and plane defects <br><br>3. DEVICE TECHNOLOGY <br>•Devices<br>•Analog and digital•Memory chips<br><br>4. SILICON AND WAFER PREPARATION <br>•Single crystal preparation<br>•Wafer processing<br>•Epitaxy Grow<br>•Defects and inspection<br><br>5. CONTAMINATION CONTROL<br>•Types of contamination<br>•Contamination control<br><br>6. IC FABRICATION PROCESS FLOW <br><br>7. OXIDATION PROCESS<br>•gate oxide processes<br>•Oxidation mechanism<br><br>8. ION IMPLANT AND ANNEALING <br><br>9. THIN FILM DEPOSITION<br>•PVD <br>•CVD<br>•Electroplating<br><br>10. PHOTOLITHOGRAPHY<br>•Photoresists<br>•Alignment and exposure systems <br>•Resolution and depth of focus <br>11. ETCH PROCESS<br>•Wet and dry etch processes<br>12. PLANARIZATION<br>•CMP<br><br>13. LOW k TECHNOLOGY<br>•Applications of dielectrics in IC<br>•Preparation of low-k films<br><br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "可以具備積體電路(IC)技術的基礎知識與元件基本結構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "可以瞭解晶圓的製作流程與IC的製作流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "可以具備繪製一道黃光工程流程的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "可以實務製作一道黃光工程製程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

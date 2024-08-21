@@ -1,0 +1,105 @@
+{
+    "code": "1DD06U01",
+    "name": {
+        "zh": "專修(五)舞台設計(A1)",
+        "en": "Major Ⅴ Stage Design"
+    },
+    "credit": "1",
+    "type": "管制選修",
+    "classes": [
+        "四技流音三甲"
+    ],
+    "instructors": [
+        "馮建彰"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第4節",
+            "location": "W0903"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為小班教學，以教授「舞台設計」專長領域之相關理論、實務技巧以及職場倫理，強化學生繪圖技能及啟發設計創意思考，並培養學生專業素養與敬業態度。以作業、考試等方式評量學習成效。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、舞台設計基礎知識概念<br>二、舞台設計繪圖技能<br>三、舞台設計創新思考<br>四、舞台設計作品指導",
+        "en": "一、Basic knowledge of stage design<br>二、Stage design drawing skills<br>三、Innovative thinking on stage design<br>四、Guidance on stage design works"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解舞台設計專長領域之專業知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備舞台設計專長領域之技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "展現尊重、接納老師指導之學習態度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養自我提升、終身學習之態度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

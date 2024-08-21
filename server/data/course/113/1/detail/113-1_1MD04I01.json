@@ -1,0 +1,129 @@
+{
+    "code": "1MD04I01",
+    "name": {
+        "zh": "投資與理財(A)",
+        "en": "Investment and financial literacy"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "社會科學領域"
+    ],
+    "instructors": [
+        "林容萱"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "S413"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "S413"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "S413"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "理財與投資，是人人的需要有的基本知能，理財範圍分成賺錢、用錢、存錢、借錢、省錢與護錢等六種層面。其內涵包括考量人生規劃的投資、節稅、信託、保險等專業知識。本課程將介紹理財基礎知識，培養正確的理財觀念並能妥善運用投資商品，強化學生理財實務的知識，得以早日實現個人財富。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.理財範圍與人生階段2.記帳養錢3.存款種類4.證券介紹5.證券投資實務6.指數型投資7.共同基金8.基金交易實務9.信託介紹與個案10.信託運用實務11.保險保障計畫12.所得稅規劃與二代健保13.遺產與贈與稅務規劃14.購屋規劃15.總體經濟指標16.金融數據判讀",
+        "en": "1.Personal finance and life stage;2.Track your spending 3.Savings accounts;4.Introduce of securities;5.Practice of investment;6.Investment on ETF;7. Mutual Fund;8.Application of mutual fund;9.Trust and case;10.Practice of trust;11.Insurance planning;12.Tax planning 13.Inheritance tax and gift tax14.House Purchase planning;15.Microeconomic index;16.Financial indicator interpretation."
+    },
+    "weeklySchedule": "第1週<br>投資理財概要<br>第2~5週<br>證券投資基礎<br>第6~8週<br>投資實務<br>第9週期中考<br>第7~10週<br>共同基金<br>第11~13週<br>經濟指標解析<br>第14~16週<br>節稅與信託<br>第17~18週<br>不動產投資分析<br>第19週期末考<br><br><br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立正確理財知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "認識投資工具與運用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "多變金融環境下，能有系統有組織的制定個人財富自由計畫",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "提高理性思辨，於生活中有能力反省批判與解決財務問題",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "李顯儀 (2021)，投資理財規劃，全華圖書，3rd，ISBN:978-986-503-908-0",
+    "teachingSoftware": "FLIP CLASS",
+    "rules": "按時出席、務必交作業、參加考試，尊重智慧財產權"
+}

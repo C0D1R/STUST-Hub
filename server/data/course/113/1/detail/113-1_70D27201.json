@@ -1,0 +1,116 @@
+{
+    "code": "70D27201",
+    "name": {
+        "zh": "企業人才甄選實務",
+        "en": "Personnel Selection Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管二甲",
+        "四技企管二乙"
+    ],
+    "instructors": [
+        "黃經智"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S315"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "S315"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "S315"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為人力資源管理之進階課程，主要教授企業招募及甄選人才之技巧，協助學生建立未來從事任用工作之觀念與技能，並能瞭解企業招募選才活動的實務工作。本課程內容包括：就業環境、勞動法規、工作分析、招募策略、求職者篩選、甄選測量、甄選工具等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.就業市場與人力任用 <br>2.勞動法規與工作分析<br>3.人才招募策略<br>4.求職者篩選技巧 <br>5.甄選測量與決策 <br>6.甄選工具<br>7.面談技巧<br>",
+        "en": "1. Employment market and personnel staffing<br>2. Labor laws and job analysis<br>3. Talented person recruiting strategy<br>4. Job applicant screening tips<br>5. Selection measurement and decision<br>6. Selection tools<br>7. Interview skills<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能辨識就業市場趨勢、勞動法規的內涵及就業歧視問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對勞動市場的特性採用有效的人才吸引方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用甄選的學理與統計技術正確分析求職者的資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能主動學習並將上課所學知識用於撰寫研究文章",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

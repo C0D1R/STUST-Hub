@@ -1,0 +1,116 @@
+{
+    "code": "10M02801",
+    "name": {
+        "zh": "奈米材料結構分析",
+        "en": "Microstructure Characterization of Nanophase Materials"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研機電一甲",
+        "碩研機械一甲"
+    ],
+    "instructors": [
+        "王聖璋"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "K214"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "K214"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "K214"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "材料顯微結構分析是材料科學中最為重要的研究方法之一。準確、快捷的分析結果為材料的製備工藝、材料性能微結構表徵研究及其材料顯微結構設計提供可靠的實驗和理論依據。本課程主要介紹包括材料顯微結構形貌觀察、物相種類確定及其定量分析、微晶及納米粉體尺寸測定、塊材料及其微區成分分析和定量測定等；同時側重介紹進行上述顯微結構分析通常所採用的各種現代儀器的主要功能特性及其分析方法，其中包括X光繞射儀(XRD)、穿透式電子顯微鏡(TEM)、掃描電子顯微鏡(SEM)、電子探針(EPMA)、波譜儀(WDS)、能譜儀(EDS)、X光螢光分析儀(XRF)等，並且按排了相應的實驗。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.簡介<br>-什麼是奈米科技 ?<br>-如何檢測奈米材料<br>2. 晶體結構 (I)<br>-基本晶體理論<br>3. 晶體結構(II)<br>-反晶格空間<br>4. 晶體結構(III)<br>-立體投影<br>5. X光繞射分析技術 <br>6.電子束繞射分析技術<br>",
+        "en": "1. Introduction<br>-What is the nanotechnology ?<br>-How to characterize the nanophase materials<br>2. Crystal Structure (I)<br>-Basic theory of crystal<br>3. Crystal Structure (II)<br>-Reciprocal lattice<br>4. Crystal Structure (III)<br>-Stereographic projection<br>5.X-Ray Characterization (I)"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能認知材料晶體結構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解知晶體結構分析方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠瞭解X光繞射應用在晶體分析中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠鑑定XRD材料晶相",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

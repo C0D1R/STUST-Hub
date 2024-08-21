@@ -1,0 +1,115 @@
+{
+    "code": "60D32A02",
+    "name": {
+        "zh": "企業概論",
+        "en": "Introduction of Business"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國企一乙"
+    ],
+    "instructors": [
+        "曾盛杰"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "S511"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S511"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "S511"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為企業管理領域的入門課程，在課程設計上，乃是希望讓同學對企業有著基本但又完整的了解。並且希望讓同學對以下課題有所認識：企業存在於社會的價值、企業的類型，以及企業如何運作。修課同學在期末必須進行分組，完成指派之作業，並且提出書面報告。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t簡介<br>2.\t企業的意義<br>3.\t全球經營環境<br>4.\t企業的利害關係人<br>5.\t企業與政府<br>6.\t台灣經濟與企業發展概觀<br>7.\t台灣經濟中的企業群像<br>8.\t行銷管理<br>9.\t生產與作業管理<br>10.\t人力資源管理<br>11.\t財務管理<br>12.\t創業與創新精神<br>",
+        "en": "1.\tIntroduction<br>2.\tConcepts of Business<br>3.\tGlobal Business Environment<br>4.\tStakeholders<br>5.\tBusinesses and Governments<br>6.\tTaiwan Economy and Businesses Development<br>7.\tDifferent Kinds of Business in Taiwan<br>8.\tMarketing Management<br>9.\tProduction and Operations Management<br>10.\tHuman Resource Management<br>11.\tFinancial Management<br>12.\tEntrepreneurship and Innovation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解企業創立及運作本質的相關知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用相關知識，分析企業的經營作為",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能與他人合作，來探討企業案例",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確應用企業知識的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

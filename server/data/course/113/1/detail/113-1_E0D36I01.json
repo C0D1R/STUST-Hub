@@ -1,0 +1,122 @@
+{
+    "code": "E0D36I01",
+    "name": {
+        "zh": "職場倫理",
+        "en": "Work place ethics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應日三甲"
+    ],
+    "instructors": [
+        "黃幼欣"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "N504"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "N504"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "身為一個現代公民生活在千變萬化的現代社會中，每天都必須面臨各式各樣道德面挑戰，該如何自處於這樣多元難決擇環境中就成為每個人必修的課題。倫理道德雖看不見也模不著，但卻是影響並規範著我們每一個人的行為。    進入職場除了外在專業知識豐富外，內在倫理素養即是讓這些所學發揮極致，並使社會產生向上延伸力量的來源。本課程即在讓同學了解職業與倫理素養的重要性，激發同學去思考並實踐於日常生活及將來職場中。  本課程分理論面及實踐面兩部分，各分別由兩位老師帶領整個課程進行。理論部分著重在書面理論教導及問題的思辨方面；實踐部分則會邀請業界專家親臨指導。上課除了教師及業師的教導外，同學亦須配合主題分組探討並加以報告。另外，透過東方與西方、台灣與日本的倫理觀念的介紹解說以及實例的探討，來強化同學美學素養、倫理素養。也藉由各產業專家代表的現身說法，引導同學在潛意識中塑造更符合時代意義的美學觀、倫理觀。 <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、職場倫理理論  <br> (1)職場倫理內涵與思辨  <br> (2)職場倫理延伸思辨<br><br>2、職場業師實踐指導  <br> (1)科技職場倫理  <br> (2)商業職場倫理  <br> (3)翻譯職場倫理  <br><br>3.台灣與日本職場倫理的大不同 <br>（1）日本文化中的集團主義與忠誠意識  <br> (2)台灣文化中的打拼精神 <br>",
+        "en": "1、Theories of ethics in working place<br> (1) The connotation and considerations of ethics in working place<br> (2) Extending of speculation of ethics in working place<br>2、Guiding of teacher in industries<br> (1)Technology ethics in working place<br> (2)Business ethics in working place <br> (3)Translation ethics in working place<br> 3.The differentiation between the ethics in working place of Taiwan and Japan <br> (1)The groupsim and loyalty in the Japanese culture<br> (2)The working hard spirit in the Taiwanese culture<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "本課程欲透過每週不同主題，讓同學了解到職業倫理與工作態度的重要性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "採個案探討的方式，讓同學透過分組辯論的過，程中，建立合乎論理道德又有助於事業的工作價值觀及應用原則。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "本課程不著重於正確「答案」的教導，而在於學生能夠實際透過內在的思考論辯中，去尋求最適當的解決方式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過業解專家的演講，清楚認知職場面面觀，了解順應社會，得以讓學生擁有可以自我適應社會環境變遷的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓同學可以透過對「職場倫理」的認識，進而擴展到對「美德倫理」、「生物倫理」、「生態倫理」、「教育論理」、「環境倫理」等各面向的尊重關懷及 重視。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

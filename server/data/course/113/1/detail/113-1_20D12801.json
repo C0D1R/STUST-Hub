@@ -1,0 +1,127 @@
+{
+    "code": "20D12801",
+    "name": {
+        "zh": "MatLab工程應用",
+        "en": "The Engineering Applications of Matlab"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技醫電三甲"
+    ],
+    "instructors": [
+        "侯春茹"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "B503"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "B503"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "B503"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹MATLAB的基本原理、操作、運算以及數據的視覺化處理、圖形繪製與修飾、數據處理、數值計算、符號計算等；並透過範例介紹MATLAB的矩陣運算、符號運算、圖形功能以及程式設計等方面的內容",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "課程大綱 1. MATLAB使用入門<br>2. MATLAB數值計算<br>3. MATLAB數值分析<br>4. 圖形處理功能<br>5. 圖形處理進階技術<br>6. MATLAB程式設計<br>7. Simulink 使用入門<br>8. Matlab 之進階應用<br> <br>",
+        "en": "1. Introduction of Matlab<br>2. Numerical calculation of Matlab<br>3. Numerical analysis of Matlab<br>4. Basic plot function of Matlab<br>5. Advanced plot function of Matlab<br>6. Programming design of Matlab<br>7. Simulink<br>8. Advanced technique of Matlab  <br>"
+    },
+    "weeklySchedule": "第1週  認識Matlab<br>第2週  Matlab基本運算<br>第3週  向量與矩陣的運算<br>第4週  二維平面繪圖<br>第5週  三維空間繪圖、特殊圖形繪製<br>第6週  使用M檔案與函數<br>第7週  程式控制流程<br>第8週  程式設計測驗<br>第9週  期中考週<br>第10週  程式控制流程<br>第11週 字串的處理<br>第12週 其他資料型態<br>第13週 基礎數值分析<br>第14週 曲線擬合與插值法<br>第15週 微積分與微分方程式<br>第16週 檔案處理 <br>第17週 程式設計測驗<br>第18週 期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學會開啟及儲存MATLAB的程式檔(M檔案)",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解MATLAB的線上求助功能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解MATLAB的繪圖功能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解MATLAB的向量和矩陣運算功能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解MATLAB的程式控制流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "MATLAB程式設計入門",
+        "author": "陳啟川",
+        "publisher": "高立",
+        "year": "2023",
+        "ISBN": "9789863783404",
+        "edition": "1"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Matlab",
+    "rules": ""
+}

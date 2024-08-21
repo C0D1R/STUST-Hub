@@ -1,0 +1,128 @@
+{
+    "code": "60D31N01",
+    "name": {
+        "zh": "國際財務管理",
+        "en": "International Financial Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國企三甲",
+        "四技國企三乙"
+    ],
+    "instructors": [
+        "林容璟"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S514"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "S514"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "S514"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹企業在國際化經營的趨勢下如何做好風險管理與財務管理。內容包括國際金融環境與金融工具的介紹，以及多外匯交易業務.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 國際財務管理概論<br>2. 國際金融市場的介紹<br>3. 匯率的決定<br>4. 即期外匯市場<br>5. 外匯衍生性商品<br>6. 外匯交易制度<br>7. 匯率的分析與預測",
+        "en": "1. The international monetary environment<br>2. The foreign exchange market<br>3. Foreign exchange rate determination<br>4. Spot exchange market<br>5. Deteritives of foreign exchange<br>6. Trading mechanisms of foreign exchange market<br>7. Exchange rate forecasting<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解國際金融環境",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能知道匯率的意義與運作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能養成關注國際金融變化的習慣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析匯率變動對企業經營之影響",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解國際企業管理的重要議題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

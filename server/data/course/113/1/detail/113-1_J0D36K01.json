@@ -1,0 +1,139 @@
+{
+    "code": "J0D36K01",
+    "name": {
+        "zh": "商業包裝",
+        "en": "Commercial package"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技商設二甲"
+    ],
+    "instructors": [
+        "郭志忠"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "W0701"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "W0701"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0701"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程活動將透過理論及概念的講授，並輔以作業練習與討論的方式，使學生學習到包裝設計的基本知識及運用能力。內容涵蓋(1)說明包裝設計的種類、定義、沿革。(2)培養學生對包裝設計概念上的獨立思考與評價能力。(3)藉由商業包裝設計為範疇，使學生瞭解商業包裝設計思考與相關細節，激發學生對商品包裝設計的創造力，並透過（4）專案式的團隊實作，累積學生在包裝設計方面的設計經驗。",
+    "prerequisites": "平面構成、立體構成",
+    "syllabus": {
+        "zh": "1、何謂現代包裝<br>2、包裝與產品、企業形象、市場之關係<br>3、包裝設計之考慮面向<br>4、現代包裝的定義與分類<br>5、包裝材料、形式與結構<br>6、包裝視覺圖文探討<br>7、設計實作（一）包裝彩盒設計<br>8、具展示功能的包裝彩盒<br>9、 期中考<br>10、系列化包裝設計賞析<br>11、包裝作品發表與展示<br>12、包裝結構設計探討<br>13、設計實作（二）提運禮盒設計<br>14、禮盒包裝專案企畫<br>15、綠色包材與環保包裝<br>16、禮品包裝設計實作<br>17、發表與分享<br>18、期末考<br>",
+        "en": "1.What is modern packaging? Definition and classification of modern packaging <br>2, packaging and products, corporate image, market relationship <br>3, wrapping paper practice --- basic  <br>4, wrapping paper practice --- application <br>5, packaging materials and structure <br>6, design practice(一):packaging color box design <br>7, packaging color box with display function <br>8, midterm examination <br>9, publication and comments <br>10, series packaging design appreciation <br>11, case study and grouping <br>12, series packaging design project painting <br>13, design practice (二):series packaging design <br>14, packaging visual graphics and text creative thinking <br>15, serialized packaging color map design <br>16, serialized packaging design correction <br>17, works presentation and oral briefing  <br>18, final exam<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立包裝的基本觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識包裝材料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成對包裝形式與結構的思考",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養包裝美學視覺設計表現能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "包裝設計企劃能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生具備設計美學與服務的責任心",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

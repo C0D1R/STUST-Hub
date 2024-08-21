@@ -1,0 +1,116 @@
+{
+    "code": "D0D1D301",
+    "name": {
+        "zh": "門市銷售管理技巧",
+        "en": "Retail’s Sales Management Skills"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技行流四甲",
+        "四技行流四乙"
+    ],
+    "instructors": [
+        "莊勝雄"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0212"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0212"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0212"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "期望學生們以後畢業後到藥妝店職場，可幫藥妝店做好美妝採購與開發；開發更多的品項產品，做好門市銷售之市場區隔分析到產品定位策略。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "藥妝店所需之品類經營管理、店頭陳列佈置；還有門市銷售技巧、溝通與人際關係的重要性，進而到做好顧客關係管理。",
+        "en": "The category management and store display layout required by drugstores; as well as store sales skills, the importance of communication and interpersonal relationships, and then to do a good job in customer relationship management."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "品類經營管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "門市銷售技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "美妝採購的實務技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "美妝開發的實務技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

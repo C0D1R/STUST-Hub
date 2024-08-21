@@ -1,0 +1,115 @@
+{
+    "code": "J0N14A01",
+    "name": {
+        "zh": "展演設計實務",
+        "en": "Display design practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技視傳四甲"
+    ],
+    "instructors": [
+        "江玉婷"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "W0701"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "W0701"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "W0701"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將導引學生瞭解展示設計的基本原理與操作概念，並且瞭解材質、空間造型等展示設計的要素表現在空間設計上，同時藉由各種不同類型的展示空間實例闡述展示設計的實務過程。課程藉由展示設計的基本理論、構成要素、規畫與設計流程、以及相關案例之介紹、分析與討論，進行展示設計專業知識之建構，並輔以展示空間規劃與設計之課堂實例操作、空間裝置創作，以達理論與實務結合之目標。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "A. 認知<br>1. 展示四大基本構成要素：對象、主題、媒體與空間之相互關係之認識。<br>2. 展示設計藝術概論、展示設計原理、展示設計基礎、展示設計作品賞析。<br>B. 技能<br>1. 空間、環境視覺設計的草圖發想與模型製作能力。<br>2. 熟悉平面、立體、空間造形之設計運用。<br>C. 情意<br>1. 具備環境空間設計、造型設計、平面設計及各種傳播方式設計的能力。<br>2. 展示設計的演變與發展之認識。<br>",
+        "en": "Through the definition of the exhibition design, the basic theory, the constituent elements, the planning and design process, and the explanation and discussion of the relevant cases, the construction of the professional knowledge of the exhibition design, supplemented by the actual practice of the classroom design space, to achieve the theory and The goal of combining practice. This course will take the different types of exhibition space as a case, construct the knowledge theory related to the performance of the exhibition design, conduct practical training on the design and development of the exhibition theme, and complete the integration of the exhibition design by teamwork. The course arrangement is a special-oriented training course for the performance design. In addition to the lecture content, it is combined with the collection and analysis of relevant cases, as well as the design development and discussion of the group. Finally, the theme space planning and design performance of the exhibition is fully presented.<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "設計知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "數位設計技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "手繪設計技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創意思考",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

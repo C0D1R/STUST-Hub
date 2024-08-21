@@ -1,0 +1,140 @@
+{
+    "code": "L0D04901",
+    "name": {
+        "zh": "高等半導體元件物理",
+        "en": "Advanced Semi Comdutor Device Physics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技半導體三甲",
+        "四技半導體三乙"
+    ],
+    "instructors": [
+        "鄒文正"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "R501"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "R501"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "R501"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程為半導體元件物理課程之延續，內容主要以P-N接面的相關知識為基礎，講授各類半導體電晶體元件之特性與應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、pn接面之半導體特性。<br>2、雙極性電晶體<br>3、金屬-半導體接面與半導體異質接面<br>4、金氧半場效電晶體<br>5、接面場效電晶體<br>",
+        "en": "1. The semiconductor characteristics of PN junction <br>2. The bipolar transistor<br>3. Metal-semiconductor and semiconductor heterojunctions<br>4. Metal-oxide-semiconductor field-effect transistor<br>5. The junction field-effect transistor<br>"
+    },
+    "weeklySchedule": "Week 1-2:pn接面之半導體特性<br>Week 3-6:雙極性電晶體<br>Week 7-8:金屬-半導體接面與半導體異質接面<br>Week 9:期中考<br>Week 10-14:金氧半場效電晶體<br>Week 15-17:接面場效電晶體<br>Week 18:期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "隨堂測驗"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能詮釋半導體電晶體元件之專有名詞與基本知識。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解各種半導體電晶體元件之基本原理與相關計算。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解各種半導體電晶體元件之動作原理。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解各種半導體電晶體元件之應用與發展。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "半導體物理與元件",
+        "author": "Donald A. Neamen",
+        "publisher": "滄海書局",
+        "year": "2012",
+        "ISBN": "978-986-157-825-5",
+        "edition": "第4版"
+    },
+    "referenceBooks": "1、半導體元件物理與製作技術(第三版)，施敏、李明逵 著，黃調元 譯，國立交通大學出版社，高立圖書代理 2、半導體元件，吳孟奇 等譯，東華書局",
+    "teachingSoftware": "",
+    "rules": ""
+}

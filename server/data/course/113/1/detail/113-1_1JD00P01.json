@@ -1,0 +1,122 @@
+{
+    "code": "1JD00P01",
+    "name": {
+        "zh": "社區照護服務",
+        "en": "Community Care Service"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技高福三甲"
+    ],
+    "instructors": [
+        "劉明宜"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "O101"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "O101"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "旨在促使學生能以社區照護服務之架構為主，建立疾病預防及健康促進的概念，藉以幫助所有需要照護或支持的人有尊嚴地並能自立支援的獨立且幸福地生活在「社區」(community)中，以落實在地老化的目標。期學生能學習藉由三段五級預防工作的重點，及社區評估的技巧，以家庭為單位，社區民眾為對象，深入了解社區民眾之健康問題，並於照護過程中應用、及整合相關的學理知識進行衛教，提供預防性綜合性的照護服務，以解決並滿足社區民眾之健康需求。並希望透過課程的講授，引導學生思考如何整合在地照護與社會服務資源，建立以社區為基礎的整合式多元連續服務，達成健康促進、預防失能、以及落實在地老化、在地便利的社區照顧。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、社區照護服務緒論<br>二、衛生行政組織概念及現況<br>三、健康教育與促進健康<br>四、流行病學概論<br>五、傳染病防治與護理<br>六、生命統計<br>七、家庭評估與照護<br>八、婦幼衛生與照護<br>九、中老年病的防治與照護<br>十、整體性照護與居家照護<br>十一、社區發展與照護評估<br>十二、社區整合式多元連續服務<br>十三、社區照護服務實務",
+        "en": "1.Introduction of the community care service<br>2.The concept and current situation of health administrative organization<br>3.Health education and health promotion<br>4.Introduction of Epidemiology<br>5.The prevention and care of infectious disease<br>6.Vital statistics<br>7.Family assessment and care<br>8.Maternal and child health and care<br>9.Prevention and treatment of middle-aged and elderly diseases<br>10.Holistic care and home care<br>11.Community development and care assessment<br>12.Community integrated multi-continuous service<br>13.Community care service practice"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立疾病預防及健康促進之社區照護服務的概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用所學的技能於社區照護服務中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "秉持家庭為單位，社區民眾為對象之整合式多元連續照護信念與態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解並學習社區評估的技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "利用所學，提供預防性綜合性的照護服務，以解決並滿足社區民眾之健康需求與福祉",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

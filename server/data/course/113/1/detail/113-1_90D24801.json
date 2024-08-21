@@ -1,0 +1,134 @@
+{
+    "code": "90D24801",
+    "name": {
+        "zh": "IT於商業與管理應用",
+        "en": "IT Applications in Business and Management"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技資管一甲"
+    ],
+    "instructors": [
+        "陳偉業"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "T0708"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "T0708"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "資訊科技於商業和管理的應用日新月異，資訊科技應用的新時代已經到來。為了讓學生能夠透過做中學的方式體驗資訊科技於商業與管理的新應用，並兼顧資管系新生的特性，設計三類課綱，分別介紹如下：聚焦於IoT物聯網應用、企業運用資訊科技進行數位轉型成功案例介紹、人工智慧的源起、發展現況及人工智慧實驗探索。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 物聯網系統概念  <br>2. 開發板設定及雲端設備管理  <br>3. 感測元件介紹及設定   <br>4. 物聯網系統設計   <br>5. 企業數位轉型成功案例介紹 <br>6. 人工智慧概念      \t<br>7. 人工智慧影像辨識與應用",
+        "en": "1.\tConcept of IoT Systems<br>2.\tThe Settings of IoT Development Board and Cloud Management<br>3.\tDesign and Integration of Multiple Sensor Devices<br>4.\tSystem Design of IoT Systems<br>5.\tEnterprise Digital Transformation – Case Study<br>6.\tConcept of Artificial Intelligence<br>7.\tAI Image Recognition and Application<br>"
+    },
+    "weeklySchedule": "1. 物聯網系統概念  2hr<br>2. 開發板設定及雲端設備管理  4hr<br>3. 感測元件介紹及設定    8hr<br>4. 物聯網系統設計   6hr<br>5. 企業數位轉型成功案例介紹 6hr <br>6. 人工智慧概念       2hr\t<br>7. 人工智慧影像辨識與應用 8hr<br><br>",
+    "exams": {
+        "midterm": "上機實測",
+        "final": "口頭報告",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能熟悉物聯網系統程式設計",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用開發工具來開發物聯網系統應用",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能以團隊合作及創新方式開發物聯網系統應用。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能了解企業數位轉型成功關鍵因素",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用工具來開發人工智慧應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習業界較新技術並能應用於課程所要求的應用系統開發",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

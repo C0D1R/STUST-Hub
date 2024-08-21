@@ -1,0 +1,127 @@
+{
+    "code": "22D14301",
+    "name": {
+        "zh": "電機機械概論",
+        "en": "Introduction to Electric Machinery"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "五專電機四甲"
+    ],
+    "instructors": [
+        "洪得峻"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "I0206"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "I0206"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "I0206"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要針對非電機背景的學生授課故從最基本的電力供電系統開始介紹再以電能機械能之間的轉換原理應用到各種電機機械並以磁路分析介紹電機的設計概念與實務",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.電力介紹<br>2.交流三相電路<br>3.電機原理<br>4.變壓器<br>5.直流電機<br>6.交流電機<br>7.電機設計<br>8.電機應用與實務",
+        "en": "1.Electrical Power System<br>2.AC and 3-phase Circuts<br>3.Electric Machinery Principles<br>4.Transformers<br>5.DC Electric Machinery<br>6.AC Electric Machinery<br>7.Electric Machinery Desgin<br>8.Electric Machinery Application and Practice"
+    },
+    "weeklySchedule": "第1章　磁路<br>第2章　變壓器<br>第3章　機電能量轉換<br>第4章　感應 (非同步) 電機<br>第5章　同步電機<br>第6章　單相馬達<br>第7章　直流電機<br>第8章　特殊電機<br>第9章　暫態與動態<br>第10章　功率半導體轉換器<br>第11章　風能系統",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末考",
+        "other": "平時作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解磁場的特性與作用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解各種形式電機的基本操作原理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解各種形式電機的基本操作原理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能了解電機的基本控制原理與應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能具備各種電機的專用英文術語",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "電機機械",
+        "author": "P. C. Sen",
+        "publisher": "歐亞書局",
+        "year": "2017",
+        "ISBN": "978-986-93282-8-9",
+        "edition": "初版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,123 @@
+{
+    "code": "G0M04S01",
+    "name": {
+        "zh": "專題研討(一)",
+        "en": "Seminar (I)"
+    },
+    "credit": "0",
+    "type": "必修",
+    "classes": [
+        "碩研資工一甲",
+        "碩資工產業一甲"
+    ],
+    "instructors": [
+        "張鴻德"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "C202"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "C202"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程擬以學生上台報告研究文獻，讓學生了解最新的資訊技術與學術倫理相關文獻探討",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.論文寫作技巧<br>2.論文架構介紹<br>3.簡報製作技巧與注意事項<br>4.分組報告演練<br>",
+        "en": "1. How to write a research paper.<br>2. Introduction of general paper format<br>3. How to make a presentation and notices<br>4. presentation exercise"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "閱讀相關文獻或傾聽演講，以瞭解資訊產業發展現況",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "研讀相關外語文獻，並進行討論與分享",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探究資訊系統問題發生緣由，並進行歸類",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "撰寫書面報告並進行講演",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "嘗試運用各種演算法、技術或工具解決發生之資訊問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

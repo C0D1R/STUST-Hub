@@ -1,0 +1,115 @@
+{
+    "code": "50D2D201",
+    "name": {
+        "zh": "Excel VBA程式設計與應用實務",
+        "en": "Excel VBA Program Design and Application"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電商三甲"
+    ],
+    "instructors": [
+        "陳淑玲"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0807"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0807"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "T0807"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "VBA是一種在Excel中即可編寫的程式語言，透過撰寫 VBA 語言和巨集，我們可以把許多與 Excel 相關的工作流程自動化，大幅增加工作上效率。本課程旨在提高工作效能運用Excel 巨集和VBA程式去簡化重覆的工作流程，巨量資料的整理和資料分析。<br><br>VBA is a programming language that can be written in Excel. By writing VBA language and macros, we can automate many Excel-related workflows, which greatly increases work efficiency. This course is aimed to improve working efficiency using Excel macros and VBA programs to simplify repetitive workflows, organize and analyze large amounts of data.",
+    "prerequisites": "計算機與程式設計概論",
+    "syllabus": {
+        "zh": "1. Excel 巨集<br>2. VBA變數和語法<br>3. 流程控制<br>4. 陣列<br>5. 函數<br>6. 物件和屬性<br>7. 自訂表單與控制項<br>8. 圖表物件<br>9. VBA 專題製作<br>",
+        "en": "1. Excel Macro<br>2. VBA Variables and Syntax<br>3. Process Control<br>4. Array<br>5. Process Control<br>6. Functions<br>7. Objects and Properties<br>8. Chart Objects <br>9. VBA Projects<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能使用適當的的方法解決實務上的問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將使用者的需求轉換成程式語法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "正確分析和與呈現結果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能正確地操作與編輯軟體",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

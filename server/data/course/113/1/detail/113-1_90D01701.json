@@ -1,0 +1,115 @@
+{
+    "code": "90D01701",
+    "name": {
+        "zh": "物件導向程式設計",
+        "en": "Object-Oriented Programming"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資管二甲"
+    ],
+    "instructors": [
+        "王智昊"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "E0402"
+        },
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "E0402"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "E0402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "To teach basic components of object-oriented programming languages, object oriented theory, and how to write a program.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "物件導向程式基本介紹<br>物件導向程式基本單元<br>物件導向程式的運算式<br>物件導向程式的陳述式<br>物件導向程式設計<br>進階物件導向程式設計",
+        "en": "Introduction to Object-Oriented Programming Languages<br>Basic Units of Object-Oriented Programming Languages<br>Object-Oriented Language Operators<br>Object-Oriented Language Statements<br>Object-Oriented Programming<br>Advanced Object-Oriented Programming"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解物件導向程式的基本單元與陳述式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解物件導向程式語言跨平台的特性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解基礎的物件導向程式設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能用程式語言設計物件導向的程式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

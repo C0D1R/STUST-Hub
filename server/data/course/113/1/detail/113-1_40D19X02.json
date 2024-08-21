@@ -1,0 +1,127 @@
+{
+    "code": "40D19X02",
+    "name": {
+        "zh": "化學技術實習(B)",
+        "en": "Chemical Technology Laboratory"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技化材三甲"
+    ],
+    "instructors": [
+        "江禎立"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "I0602"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "I0602"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "I0602"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在訓練學生綜合化學分析儀器與實驗技巧，使其具備分析化學儀器的操作技術與處理、判讀實驗數據的能力，達到印證理論於實務的目標。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "實習一：紫外線光譜儀之應用(I)—染料分析<br>實習二：紫外線光譜儀之應用(II)—雙成份混合物之定量分析<br>實習三：紅外線光譜儀之應用—官能基與結構鑑定<br>實習四：HPLC的應用—糠醛的定量分析<br>實習五：G.C. 的應用—有機混合物的分析<br>實習六：含六價鉻金屬離子廢水處理及原子吸收光譜儀的應用<br>實習七：化學貯氫—硼氫化鈉產氫與反應動力分析<br>實習八：金屬的光澤電鍍與微小硬度計的應用<br>實習九：溶解度積的測定<br>實習十：高分子材料的耐熱變形溫度測試",
+        "en": "Experiment 1: Determine the concentrations of reactive black 5 using UV-Visible spectrometer.<br>Experiment 2: Quantitative analysis of a mixture containing two components using UV-Visible spectrometer.<br>Experiment 3: Identify the functional groups of organic compounds using Fouier-transform infrared spectroscopy.<br>Experiment 4: Quantitative analysis of furfural solutions using high performance liquid chromatography (HPLC).<br>Experiment 5: Determine the compositions of a organic mixture using gas chromatograph.<br>Experiment 6: Separation of Cr(VI) from wastewater and analysis of Cr(III) by atomic absorption spectrophotometer.<br>Experiment 7: Kinetic study of hydrogen generation throgh the reaction of sodium borohydride with water.<br>Experiment 8: Fine quality electroplating of nickel on the surface of copper.<br>Experiment 9: Determine the solubility product of silver acetate by Volhard method.<br>Experiment 10: Determine the Heat Distortion Temperatures of some polymer materials."
+    },
+    "weeklySchedule": "第一週：(1)實驗內容介紹；(2)編組；(3)實驗室整理；(4)實驗室安全與規則介紹；(5)工業安全、環境、衛生教育<br>第二週：中秋節放假<br>第三週：各個實驗的原理與步驟講解<br>第四週～第五週：實習一 紫外線光譜儀之應用--染料分析<br>第六週：實習二：雙成份混合物之U.V.定量分析<br>第七週～第八週：實習三 紅外線光譜儀之應用—官能基與結構鑑定<br>第九週～第十週：實習四 糠醛的定量分析—HPLC的應用<br>第十一週～第十二週：實習五 G.C.的應用—有機混合物的分析<br>第十三週～第十四週：實習六 含六價鉻金屬離子廢水處理及原子吸收光譜儀的應用<br>第十五週：實習八：金屬的光澤電鍍與微小硬度計的應用<br>實習十六：實習九：溶解度積的測定<br>實習十七：實習十：高分子材料的耐熱變形溫度測試<br>第十八週 期末考<br>",
+    "exams": {
+        "midterm": "實習報告考核",
+        "final": "筆試",
+        "other": "實作考核"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能利用化學基本知識及運算原理，完成實驗報告",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能分析實驗數據並解釋實驗結果",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能有系統的說明實驗流程與實驗結果",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用電腦軟體處理實驗數據，並上網收集相關資料",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能融入團隊並能完成自己所分擔的實驗工作",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "化學技術實習",
+        "author": "陳志彥 王振乾",
+        "publisher": "自編講義交學生影印",
+        "year": "2024",
+        "ISBN": "無",
+        "edition": "20"
+    },
+    "referenceBooks": "1.定量分析與實驗，楊寶旺等箸，高立圖書公司。 2.電化學原理與應用，黃進益譯，高立圖書公司。 3.儀器分析，劉興鑑、孫逸民、陳玉舜、趙敏勳、謝明學，高立圖書公司。",
+    "teachingSoftware": "(1)HPLC操作及分析軟體 (2)GC 操作及分析軟體 (3)UV/Vis 光譜儀操作及分析軟體 (4)FT-IR 操作及分析軟體 (5)AA操作及分析軟體 (6)微小硬度計操作及分析軟體",
+    "rules": "1.所有的修課同學必需在第一週參加安全講習與分組，未到者，依勞動部的規定將不得進實驗室做實驗。<br>2.要隨修本課程的同學特別注意: 必需在第一週參加安全講習與分組後，才可以選課。<br>3.由於研習的專業課程不同，非化材系同學若未經老師允許，請勿修課！<br>"
+}

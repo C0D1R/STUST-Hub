@@ -1,0 +1,117 @@
+{
+    "code": "1FM02101",
+    "name": {
+        "zh": "教育專題研討(一)",
+        "en": "Educational Monograph Deliberation"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "碩研教經一甲"
+    ],
+    "instructors": [
+        "歐慧敏"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "N107"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "綜合教育各領域，獨立研究一相關重要議題，包含：研究主題與研究目的之確定；研究問題之釐清與界定；撰寫內容項目與格式；獨立研究方法之討論，資料蒐集與分析；研究結果之討論和敘寫；結論與建議之撰寫，以及報告成效之評鑑。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "一、研究資料蒐集與分析方法綜合探討（一）。<br>二、研究資料蒐集與分析方法綜合探討（二）。<br>三、教育領域專題研究主題（教育社會學）綜合探討。<br>四、教育領域專題研究主題（教師專業與師資培育1）綜合探討。<br>五、教育領域專題研究主題（教師專業與師資培育2）綜合探討。<br>六、教育領域專題研究主題（教育行政）綜合探討。<br>七、教育領域專題研究主題（學校經營）綜合探討。<br>八、教育領域專題研究主題（教育改革）綜合探討。<br>九、獨立研究主題確立，問題釐清與界定，研究方法討論，資料蒐集與分析，報告撰寫。<br>十、獨立研究作品之報告與評鑑。",
+        "en": "1. Research data collect and analytical methods comprehensive discussion (一)<br>2. Research data collect and analytical methods comprehensive discussion (二) <br>3. Monograph research topic on educational area (Sociology of Education) comprehensive discussion <br>4. Monograph research topic on educational area (Teacher Specialized and Teacher Education 1) comprehensive discussion <br>5. Monograph research topic on educational area (Teacher Specialized and Teacher Education 2) comprehensive discussion<br>6. Monograph research topic on educational area (Educational Administration) comprehensive discussion<br>7. Monograph research topic on educational area <br>(School Management) comprehensive discussion<br>8. Monograph research topic on educational area <br>(Educational Innovation) comprehensive discussion <br>9. Independent research topic confirmation, questions clarification and distinguish    <br>10.The report and evaluation of independent research production"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養綜合探討各種教育議題之基本知能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養分析各種教育議題及獨立研究之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養論文寫作能力及增進學術研究之興趣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養能以合作學習方式進行專題探討",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能進行獨立研究試作與報告發表",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

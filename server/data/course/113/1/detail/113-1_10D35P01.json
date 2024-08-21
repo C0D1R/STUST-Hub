@@ -1,0 +1,118 @@
+{
+    "code": "10D35P01",
+    "name": {
+        "zh": "智慧微處理機控制實務",
+        "en": "Intelligent Microprocessor Control"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控三甲",
+        "四技自控三乙",
+        "四技車輛三甲",
+        "四技車輛三乙"
+    ],
+    "instructors": [
+        "陳沛仲"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "R401"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "R401"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "R401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹目前市面上常用之單晶片控制器(Arduino、樹梅派等)之基礎。認識單晶片的種類、功能與使用。並介紹程式的開發環境與撰寫，透過實際應用案例的介紹，完成單晶片控制程式的開發。30%原理講授、70%實務操作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.介紹單晶片處理器<br>2.介紹開發工具的使用<br>3.基本單晶片控制器實驗<br>4.輸出入實驗(顯示、按鍵、RS232等)<br>5.繼電器控制、聲音控制、LCD介面實驗<br>6.感測器整合實驗<br>",
+        "en": "1.Introduction of microprocessor<br>2.Integration Development Environment <br>3.Experiment: Basic control<br>4.Experiment: Input, output, serial buttins<br>5.Experiment: Relay, Sound, LCD interface<br>6.Experiment: Sensor Integration"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解單晶片微電腦系統架構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會使用單晶片微電腦的輸出入",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會使用單晶片微電腦的計時計數器",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會使用單晶片微電腦的IO通道與外界通訊",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

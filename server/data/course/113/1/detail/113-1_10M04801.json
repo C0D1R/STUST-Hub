@@ -1,0 +1,120 @@
+{
+    "code": "10M04801",
+    "name": {
+        "zh": "高等物理冶金",
+        "en": "Advanced Physics Metallurgy"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研機電一甲",
+        "碩研機械一甲"
+    ],
+    "instructors": [
+        "戴子堯"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第1節",
+            "location": "K214"
+        },
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "K214"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "K214"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "物理冶金學是對想瞭解材料、機械與冶金者所必須學習的一們基本學科，其以物理科學的觀點解釋材料之種種物理性質與機械性質的學問，並研究其在工業應用上對於各種技術問題的改進與發展。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.分析方法<br>2.金屬的構造<br>3.晶體結合<br>4.差排導論<br>5.晶界的要素<br>6.空孔<br>7.退火<br>8.相圖<br>9.擴散<br>10.孕核與成長動力學<br>",
+        "en": "1.Analytical methods<br>2.The structures of metals<br>3.Crystal binding<br>4.Introduction of dislocations<br>5.Elements of grain boundaries<br>6.Vacancies<br>7.Annealing<br>8.Phases<br>9.Diffusion<br>10.Nucleation and growth kinetics<br>"
+    },
+    "weeklySchedule": "第一週:分析方法<br>第二週~第三週:金屬的構造<br>第四週:晶體結合<br>第五週~第六週:差排導論<br>第七週:晶界的要素<br>第八週:空孔<br>第九週:期中考<br>第十週:退火<br>第十一週~第十二週:相圖<br>第十三週~第十四周:孕核與成長動力學<br>第十五週~第十七週:分組討論報告<br>第十八週:期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "口頭報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解材料微結構觀察與量測方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能建立材料微結構變化與機械性質之關連",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀物理冶金之英文資料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "孕核與成長動力學",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "物理冶金",
+        "author": "劉偉隆等編譯",
+        "publisher": "全華科技圖書股份有限公司",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.Robert E. Reed-Hill, Physical metallurgy principles, 3rd edition, PWS publishing company.<br>2.George E. Dieter, Mechanical Metallurgy, McGraw-Hill book company.<br>",
+    "teachingSoftware": "黑板、單槍投影機",
+    "rules": ""
+}

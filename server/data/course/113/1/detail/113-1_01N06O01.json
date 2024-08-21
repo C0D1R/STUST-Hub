@@ -1,0 +1,124 @@
+{
+    "code": "01N06O01",
+    "name": {
+        "zh": "專業英語溝通(二)",
+        "en": "English communication for specific purposes (II)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "夜行流產攜二甲"
+    ],
+    "instructors": [
+        "蔣宗益"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.TOEIC",
+        "2.BULATS"
+    ],
+    "description": "The course is designed to enhance intermediate level students’ English listening, speaking, reading and writing skills in four major fields—Engineering, Hospitality &amp; Tourism, Business &amp; Management and Workplace. Students will learn to deal with topics such as making presentations, business trips, business writing, communicating about employee issues, giving advice and assistance, health, safety, complaints and apologies, working life, etc, by listening to and practicing different types of dialogues, reading and discussing relevant texts (around 600-1000 headwords). The genres include instruction, description, classification, charts, graphs and business letters.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "專業英語溝通課程分為四大領域<br>1.工程：<br>工程領域涵蓋的主題範圍如下：<br>(1) 雲端技術<br>(2) 生物科技<br>(3) 先進的車輛<br>(4) 指示燈<br>(5) 電器/電子設備<br>(6) 未來的科技世界<br>工程領域之英語學習目標：<br>(1) 面試<br>(2) 職涯規劃<br>(3) 產品販賣與服務<br>(4) 表達正反意見<br>(5) 說服及影響他人<br>(6) 關於產品/企劃/設備的溝通話術<br>2. 餐飲&amp;旅遊:<br>(1) 投訴和道歉<br>(2) 錯誤和問題<br>(3) 給予諮詢和援助<br>(4) 電話溝通問題<br>(5) 查詢舉行研討會和會議的相關事宜<br>(6) 處理支付<br>(7) 解說和培訓<br>(8) 內務管理工作<br>(9) 健康，安全和保全<br>(10) 國家和文化<br>(11) 探索不同的文化<br>(12) 職場人生<br>(13) 工作申請<br>(14) 面試<br>3. 商務&amp;管理<br>(1) 會議參與<br>(2) 公司及產品介紹<br>(3) 商務報告<br>(4) 成功協商<br>(5) 定價策略<br>(6) 出差<br>(7) 科技<br>(8) 市場研究<br>(9) 解決問題<br>4. 職場:<br>(1) 簡報英語<br>(2) 出差<br>(3) 基本商務寫作技巧<br>(4) 員工議題<br>(5) 職場健康<br>",
+        "en": "English communication for specific purposes course is divided into four major areas.<br>1.\tEngineering:<br>Topics:<br>(1)\tCloud technology<br>(2)\tBio Tech<br>(3)\tAdvanced Vehicles<br>(4)\tLED<br>(5)\tElectrical appliances/Electronic equipment<br>(6)\tFuture technology world<br>In this course, you will learn the language functions:<br>(1) Job interviews<br>(2) Creating a career plan<br>(3) Selling products and services<br>(4) Expressing agreement and disagreement<br>(5) Influencing and persuading people<br>(6) Clear communication of products / projects / appliances<br>2. Hospitality &amp; Tourism:<br>(1)\tComplaints and apologies<br>(2)\tMistakes and problems<br>(3)\tGiving advice and assistance <br>(4)\tTelephone communication problems <br>(5)\tConference and meeting enquiries<br>(6)\tHandling payments<br>(7)\tExplaining and training <br>(8)\tWorking in housekeeping <br>(9)\tHealth, safety and security <br>(10)\tCountries and cultures<br>(11)\tExploring different cultures<br>(12)\tWorking life<br>(13)\tJob applications<br>(14)\tJob interviews <br>3. Business &amp; Management<br>(1)\tParticipating in a Meeting <br>(2)\tIntroducing Companies and Products<br>(3)\tBusiness reports<br>(4)\tNegotiating for Success<br>(5)\tPricing strategy<br>(6)\tTraveling on Business <br>(7)\tTechnology <br>(8)\tMarket research <br>(9)\tSolving Problems <br>4. Workplace<br>(1)\tMaking Presentations <br>(2)\tBusiness Trips <br>(3)\tBasic Writing Tasks<br>(4)\tEmployee Issues<br>(5)\tJob Health"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備專業英語基本知能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習以網路查詢資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習各國文化",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "英語聽說讀寫實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習以英語達到溝通目的",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備人文素養及省思能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "03D13501",
+    "name": {
+        "zh": "社會學習領域概論",
+        "en": "Introduction to Social Studies"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "教育學程－小"
+    ],
+    "instructors": [
+        "陳信豪"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "N403"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "N403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要期望學生對社會學習領域有初步瞭解，提供學習社會學科的基本知識，如人類學、歷史學、地理學、心理學、社會學、政治學、經濟學、法律學等，培養學生未來進一步修習以及教導人文社會學科的能力，並作為進階教材教法的基礎。<br><br>【專業素養指標】<br>1 了解教育發展的理念與實務<br>1-3 了解我國教育政策、法規及學校實務，以作為教育實踐基礎。<br>2 了解並尊重學習者的發展與學習需求<br>2-2 了解並運用學習原理，以符合學生個別學習需求與發展。<br>3 規劃適切的課程、教學及多元評量<br>3-3 具備任教領域/群科/科目所需的專門知識與學科教學知能，以進行教學。<br>3-4 掌握社會變遷趨勢與議題，以融入課程與教學。<br><br><br>【課程核心內容】<br>1了解教育發展的理念與實務<br>(3)教育與社會變遷及進步<br>(4)教育與社會流動及公平<br>2了解並尊重學習者的發展與學習需求<br>(2)主要學習理論及其教育應用<br>(3)主要學習動機理論及其教育應用<br>(4)學習策略<br>(5)身心、社經與文化等背景差異及其與學習、發展的關係<br>(6)學生特質與需求的辨識<br>3規劃適切的課程、教學及多元評量<br>(2)重要議題融入課程、教學與評量<br>(4)12 年國民基本教育素養導向 (單科/跨領域統整/跨科統整)課程、教學及評量的發展及實踐<br>(5)課程、教學與評量的創新及學習科技的應用<br>(6)領域/學科(或科目)/群科專門知識與學科教學知能<br>(7)分科/分領域(群科)教材教法<br>(8)探究與實作設計與實施<br><br><br><br>【融入議題】<br>十二年國教19項議題融入<br>性別平等教育*<br>人權教育<br>環境教育*<br>品德教育<br>生命教育<br>法治教育<br>能源教育<br>家庭教育*<br>多元文化教育<br>閱讀素養<br>戶外教育<br>國際教育<br>原住民族教育<br>勞動教育<br>媒體素養教育<br>理財教育<br>消費者保護教育<br>修復式正義<br>",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.社會學習領域課程綱要<br>2.社會學習領域的核心概念<br>3.多元與差異<br>4.社會體系<br>5.社會互動<br>6.人與文化<br>7.人類、空間與場域<br>8.經濟與生活<br>9.政治與法律<br>10.社會學習領域在教學上的應用<br>",
+        "en": "1. The curriculum guidelines of social studies<br>2. The core concepts of social studies<br>3. Pluralism and difference<br>4. Social system<br>5. Social interaction<br>6. People and culture<br>7. Human, space and field<br>8. Economy and life<br>9. Politics and law<br>10. The application of social studies in teaching<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備社會學習領域的基本概念與知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解社會學習領域課程綱要與能力指標內涵。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "激發探索社會學習領域的熱忱並培養熱心探究的態度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解及分析社會現象與問題，並應用於社會學習領域教學。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

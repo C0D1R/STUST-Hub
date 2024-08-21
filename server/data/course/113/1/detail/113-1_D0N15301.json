@@ -1,0 +1,112 @@
+{
+    "code": "D0N15301",
+    "name": {
+        "zh": "物流個案分析",
+        "en": "Logistics case study"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜行流產攜四甲"
+    ],
+    "instructors": [
+        "李治綱"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.美國sole物流國際證照",
+        ""
+    ],
+    "description": "引導學生了解實際的物流個案, 並分析物流個案, 藉以了解實務公司對物流問題之解決方式, 並透過理論之探討,讓理論與實務能交互驗證, 藉以讓學生學習問題之解決方式",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Outline)<br>1.個案分析之概論<br>2.個案分析之方法<br>3.個案教學<br>4.個案方析之撰寫<br>5.實務個案之探索<br>6.實務個案討論",
+        "en": "1.Introduction to case study<br>2.The procedure for case study<br>3.The teaching of case study<br>4.The writing of case study<br>5.To explore some practical case<br>6.The discussion of practical case"
+    },
+    "weeklySchedule": "1 課程介紹 <br>2 競爭優勢分析<br>3 程序分析<br>4 (品質)績效分析<br>5 成本分析<br>6 收益分析<br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解物流與供應鏈管理之基本知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能具備羅極力與實務經驗進而創新思維",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能透過分析物流個案之過程，從中獲得整合與解決問題之能力",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能分析與評估問題之各面向，進而發現問題之能規劃解決問題之方式",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能體認工作態度與團隊合作在職場之重要性，並能接受分工合作的工作方式",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "講義-參考文獻-期刊論文",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1. 物流運籌管理，作者：中華民國物流協會，版次：第四版三刷，出版社：前程文化(2020)。<br>2. 服務業管理個案分析, 作者: 伍忠賢, 全華圖書股份有限公司。<br>3. 零售業個案分析, 作者: 張保隆/伍忠賢, 全華圖書股份有限公司。<br>4. 行銷個案分析, 作者: 于卓民譯, 智勝文化。<br>5. 生產管理-實務個案分析, 作者: 張保隆/伍忠賢, 五南圖書。",
+    "teachingSoftware": "",
+    "rules": ""
+}

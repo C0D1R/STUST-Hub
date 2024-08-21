@@ -1,0 +1,148 @@
+{
+    "code": "80D1AD01",
+    "name": {
+        "zh": "ESG與債券市場",
+        "en": "ESG and Bond Markets"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技財金三甲",
+        "四技財金三乙"
+    ],
+    "instructors": [
+        "王慶昌"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "S511"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "S511"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S511"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程漸進式的引導初學者充分了解債券市場的結構、趨勢、分析技巧、債券型投資組合管理方法、以及ESG概念下的債券市場的發展。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.ESG與債券市場基本特徵<br>2.債券之定價<br>3.債券收益率之衡量<br>4.債券價格之波動性<br>5.ESG債券的報酬與風險<br>6.利率期限結構理論<br>7.政府債券與公司債券之特徵<br>8.ESG與債券投資組合管理策略<br>",
+        "en": "1.ESG and Fundamental Features of Bonds<br>2.Pricing of Bonds<br>3.Measuring Yield of Bonds<br>4.Bond Price Volatility<br>5.Return and Risk of ESG Bonds<br>5.The Term Structure of Interest Rates<br>6.The Features of Treasury Securities and Corporate Debt Instruments Markets <br>8.ESG and Bond Portfolio Management Strategies<br>"
+    },
+    "weeklySchedule": "1.債券市場與ESG介紹(第1-3週)<br>2.一般債券與ESG債券之定價 (第4-5週)<br>3.一般債券與ESG債券收益率之衡量 (第6-8週)<br>4.一般債券與ESG債券價格之波動性 (第9-11週)<br>5.利率期限結構理論 (第12-13週)<br>6.政府債券與公司債券之特徵 (第14週)<br>7.附帶選擇權條款之債券 (第15週)<br>8.債券投資組合管理策略 (第16-18週)<br>9.利率期貨與利率選擇權 (第18週)",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "分組作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解債券的基本特徵與交易技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能分析債券市場的趨勢",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能使用債券知識管理債券投資組合",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能規劃與設計企業融資方案",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

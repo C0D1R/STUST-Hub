@@ -1,0 +1,116 @@
+{
+    "code": "10D16501",
+    "name": {
+        "zh": "光電量測技術",
+        "en": "Electro-Optics Measurement Techniques"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技製造三甲",
+        "四技製造三乙"
+    ],
+    "instructors": [
+        "劉乃上"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "K404"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "K404"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "K404"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將介紹光電量測原件的基本原理並概述各種光電量測技術的發展情形，同時將介紹光電量測訊號的分析方法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程介紹<br>2.光電量測之幾何光學與波動光學基礎<br>3.雷射原理與應用<br>4.光學元件的認識與使用<br>5.偵測器，光電信號檢測與處理<br>6.光學量測技術與應用<br>7.光譜技術",
+        "en": "1. Introduction<br>2. Fundamental of Electro-Optical Measurement: Geometry and Wave Optics<br>3. Principle and Application of Laser<br>4. Components for Electro-Optical Measurement<br>5. Photodetector, Data Acquisition and Processing<br>6. Technology and Application of Optical Measurement Methods<br>7. Spectral Technique"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "幾何光學",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "波動光學",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "光電量測技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "光譜技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

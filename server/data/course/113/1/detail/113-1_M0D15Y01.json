@@ -1,0 +1,219 @@
+{
+    "code": "M0D15Y01",
+    "name": {
+        "zh": "餐旅網路行銷",
+        "en": "Internet Marketing for Hospitality Industry"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技餐旅四甲",
+        "四技餐旅四乙"
+    ],
+    "instructors": [
+        "喬懷恩"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "T0309"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0309"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程在說明新世代的網路如何協助傳統餐旅業在產品銷售、推廣上的應用，透過課堂講解、個案研討、綜合討論的方式加強學生對網路行銷的瞭解。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.網路經濟導論：闡述網路行銷，並比較網路經濟與傳統經濟之差異。<br>2.網路行銷之消費者特質：介紹網路行銷之市場現況與消費者行為。<br>3.網路行銷之產業特性：討論網路行銷之產業特性與廠商價值活動。<br>4.網路行銷之策略規劃：透過外部環境與內部資源分析規劃競爭策略。<br>5.網路行銷之產品策略：探討網路行銷之產品類型、品牌及策略。<br>6.網路行銷之訂價策略：說明網路行銷之特性與訂價策略之關係。<br>7.網路行銷之通路與溝通策略：介紹網路之配銷工作與整合行銷溝通。<br>8.網路行銷之經營模式與相關議題：討論網路行銷之顧客關係管理、道德規範與法律議題。<br>",
+        "en": "1.The theory of internet marketing<br>2.Internet marketing and the Consumers<br>3.Internet marketing and the Industrial <br>4.Internet marketing and its strategy planning<br>5.Internet marketing and product strategy<br>6.Internet marketing and price strategy<br>7.Internet marketing and distribution strategy<br>8.The other topic for this class<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解網路行銷的基本理念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解網路行銷的基本理念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解網路行銷的手法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "選擇一知名產品分析其網路行銷過程及手法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "選擇一知名產品分析其網路行銷過程及手法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "選擇一個知名產品製作網路行銷的報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "選擇一個知名產品製作網路行銷的報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "選擇一個知名產品製作網路行銷的報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "選擇一個知名產品製作網路行銷的報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "選擇一個知名產品製作網路行銷的報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析並報告特定行銷報告的優點及缺點",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析並報告特定行銷報告的優點及缺點",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析並報告特定行銷報告的優點及缺點",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

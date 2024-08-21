@@ -1,0 +1,128 @@
+{
+    "code": "1DD04F01",
+    "name": {
+        "zh": "舞台燈光實務",
+        "en": "Stage Lighting Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技流音二甲",
+        "四技流音二乙"
+    ],
+    "instructors": [
+        "廖惇根"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "W1001"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "W1001"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "W1001"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程藉由舞台燈光系統之實務操作，使學生熟悉燈光器材之應用方式，並增進舞台燈光基礎理論之理解。藉由舞台燈光作品之設計發想與視覺呈現，發展學生燈光設計能力，並培育團隊合作精神與團隊工作之組織能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、舞台燈光與展演空間<br>二、燈具與燈光控制器<br>三、基本電學與燈光迴路<br>四、燈光系統實作<br>五、燈光設計實作",
+        "en": "1.Stage lighting and show space<br>2.The lighting and lighting controller<br>3.The basic electricity and lighting circuit<br>4.The lighting system implementation<br>5.Lighting design(Drawing and Practice)<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉燈光器材之應用方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備燈光系統之操作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "展示燈光整體概念與表演舞台畫面應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "展現團隊合作之敬業態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培育團隊工作之組織能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

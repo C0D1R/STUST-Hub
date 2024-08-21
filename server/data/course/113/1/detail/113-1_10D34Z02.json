@@ -1,0 +1,145 @@
+{
+    "code": "10D34Z02",
+    "name": {
+        "zh": "機械工程實驗",
+        "en": "Mechanical Engineering Experiment"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技自控三乙"
+    ],
+    "instructors": [
+        "施銘賢",
+        "陳冠仁"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "K403"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "K403"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "K403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生認識傳熱之理論與實驗方法及其應用，瞭解機械工程實驗的目的，以及各種材料機械性質之意義，進而熟悉機械工程實驗設備的構造和操作方法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "前半部<br>I.熱傳導實驗：測定各種金屬之熱傳導係數<br>1. 軸向傳導：測量鋁與不鏽鋼沿著軸向之熱傳導係數<br>2. 徑向傳導：測量鋁與不鏽鋼沿著徑向之熱傳導係數<br>II.熱對流實驗：分析自然對流與強制對流之熱對流係數並歸納經驗公式<br>3. 垂直熱平面自然對流對流係數量測<br>4. 垂直熱平面強制對流對流係數量測<br>III.熱輻射實驗：探討不同表面性質的金屬板的輻射吸熱率及溫度隨時間變化的情形<br>5. 原面、粗面的輻射吸熱率及溫度隨時間變化的情形<br>6. 鍍面、黑面的輻射吸熱率及溫度隨時間變化的情形<br>IV.熱交換器實驗：分析套管式熱交換器在冷風速度改變與順流及逆流時的熱交換效率之變化與總括熱傳係數之變化<br>7. 順流的熱交換效率之變化與總括熱傳係數之變化<br>8. 逆流的熱交換效率之變化與總括熱傳係數之變化<br>後半部<br>一、緒論<br>二、強度試驗<br>三、硬度試驗<br>四、衝擊試驗<br>五、疲勞試驗<br>六、顯微鏡檢驗",
+        "en": "Front part:<br>I. Heat Conduction Experiment: Measure heat conduction coefficient of four different metals<br>II. Heat Convection Experiment: Measure heat convective coefficient of natural convection and forced convection from vertical heated plate. Correlate results from experimental results.<br>III. Heat Radiation Experiment: Evaluate radiative heat absorption rate and temperature rising rate of different metal surface under exposure of infrared light.<br>IV. Heat Exchanger Experiment: Evaluate heat exchange efficiency and overall heat convective coefficient of concentric-circular-tube type heat exchanger.<br><br>Rear prat:<br>一、Introduction<br>二、Strength Tests<br>三、Hardness Tests<br>四、Impact Test<br>五、Fatigue Test<br>六、Microscope Inspection"
+    },
+    "weeklySchedule": "第一章 熱傳概論<br>第二章 熱傳導實驗<br>第三章 熱對流實驗<br>第四章 熱輻射實驗<br>",
+    "exams": {
+        "midterm": "期中書面報告",
+        "final": "期末書面報告",
+        "other": "課程進度討論"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "課程介紹",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "熱傳導實驗",
+            "teachingMethods": [
+                "分組討論",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "熱對流實驗",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "熱交換器實驗",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "熱輻射實驗",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

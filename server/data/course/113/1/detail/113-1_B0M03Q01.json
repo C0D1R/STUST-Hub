@@ -1,0 +1,110 @@
+{
+    "code": "B0M03Q01",
+    "name": {
+        "zh": "文化與休閒研究",
+        "en": "Research on Culture and Leisure"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩研休閒一甲"
+    ],
+    "instructors": [
+        "施鴻瑜"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0609"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0609"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將介紹文化與休閒的關係。藉由對文化的了解與探討，學生將認識到文化的意義以及對<br>休閒的影響。藉由結合文化的相關議題來拓展休閒行為的面向並發展出新型態的休閒活動。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 導論：定義文化<br>2. 認識不同的文化/多元文化<br>3. 確認文化的構成要素<br>4. 分析不同文化的差異性<br>5. 文化管理的策略<br>6. 連結文化與休閒<br>7. 文化與休閒阻礙 <br>8. 跨文化休閒<br>9. 個案分析I<br>10. 個案分析II<br>",
+        "en": "1. Introduction: defining culture<br>2. Recognize different cultures / multiculturalism<br>3. Confirm the constituent elements of culture<br>4. Analysis of differences in different cultures<br>5. Cultural management strategy<br>6. Linking culture and leisure<br>7. Cultural and leisure barriers<br>8. Cross-cultural leisure<br>9. Case Study I<br>10. Case Analysis II"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "介紹文化與休閒的關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由對文化的了解與探討",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生將認識到文化的意義以及對休閒的影響",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由結合文化的相關議題來拓展休閒行為的面向並發展出新型態的休閒活動。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

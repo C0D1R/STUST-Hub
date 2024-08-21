@@ -1,0 +1,116 @@
+{
+    "code": "1LD07H01",
+    "name": {
+        "zh": "生活美學與藝術療癒",
+        "en": "Aesthetics of Life and Therapy of Arts"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "楊淑娥",
+        "薛清江"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "M204"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "M204"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "M204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程從生活美學出發，帶領學生覺知情緒狀態；並結合藝術自我療癒與諮商心理學，培養學生從繪畫、音樂、舞蹈律動中學習自我療癒與關懷、同理陪伴他人的能力，實踐自我照顧的幸福人生。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.生活美學與藝術治療概論。<br>2.生活美學(一)：審美經驗與生命美感<br>3.生活美學(二)：茶、咖啡與飲食中的哲思<br>4.情緒哲學(一)：情緒與自我認知<br>5.情緒哲學(二)：情緒與人際互動<br>6. 藝術治療(一)：藝術媒材。<br>7. 藝術治療(二)：投射性繪畫。<br>8. 藝術治療(三)：主題畫。<br>9. 藝術治療(四)：音樂與繪畫。<br>10. 藝術治療(五)：園藝治療。<br>",
+        "en": "1.The Introduction of Aesthetics of Life and Therapy of Arts <br>2.Aesthetics of Life(1)：Aesthetic experience and Beauty of life<br>3.Aesthetics of Life(2)：The Philosophy of tea and coffee<br>4.The Philosophy of Emotion(1)：Emotions and self-awareness<br>5. The Philosophy of Emotion(2)：Emotions and interpersonal interaction<br>6. Therapy of Arts (1)：the media of arts。<br>7. Therapy of Arts (2)：projective painting<br>8. Therapy of Arts (3)：topic painting<br>9. Therapy of Arts (4)：music and  painting<br>10. Therapy of Arts (5)：Horticultural Therapy。<br>"
+    },
+    "weeklySchedule": "1.生活美學與藝術治療概論。<br>(本課程各專題符合SDGs目標4：優質教育，確保有教無類、公平及高品質的教育，及提倡終身學習。)<br>2.生活美學(一)：審美經驗與生命美感<br>3.生活美學(二)：茶、咖啡與飲食中的哲思<br>4.情緒哲學(一)：情緒與自我認知<br>5.情緒哲學(二)：情緒與人際互動<br>(本專題符合SDGs目標5：性別平等，實現性別平等，消除所有地方婦女的各種形式的歧視。)<br>6.藝術治療(一)：藝術媒材。<br>7.藝術治療(二)：投射性繪畫。<br>8.藝術治療(三)：主題畫。<br>9.藝術治療(四)：音樂與繪畫。<br>",
+    "exams": {
+        "midterm": "期中替代作業",
+        "final": "期末心得報告",
+        "other": "平時作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習生活美學做為情緒覺知與自我瞭解的工具。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習透過表達性藝術做為自我療癒的工具。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習藉由表達性藝術做為瞭解與陪伴他人的工具。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學習運用表達性藝術做為有效溝通的媒介。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "文學與音樂中的哲思",
+        "author": "薛清江",
+        "publisher": "麗文出版社",
+        "year": "2019",
+        "ISBN": "978-986-490-163-0",
+        "edition": "初版"
+    },
+    "referenceBooks": "1.梁翠梅（2011）。治療—身心靈合一之道。台北：華都文化。<br>2.許智傑、謝政廷譯（2011）。來畫圖吧-從分析心理學的觀點了解兒童繪畫與遊戲的意義。台北：心理出版社。（原書Foks-Appleman T.出版於2007） <br>3.呂素貞（2005）。超越語言的力量。台北：張老師<br>4.翁靜雪（2000）。孩子的畫中有畫。台北：桂冠<br>5.翁靜雪（2000）。傾聽!孩子畫裡有聲音。台北：健行。<br>",
+    "teachingSoftware": "PPT、FLIPCLASS",
+    "rules": "配合學校要求，上課禁止使用手機。<br>期中報告：期中考替代作業。<br>期末報告：自主學習成果報告一篇，至少1000字以上。<br>"
+}

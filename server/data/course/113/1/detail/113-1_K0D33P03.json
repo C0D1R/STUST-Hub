@@ -1,0 +1,139 @@
+{
+    "code": "K0D33P03",
+    "name": {
+        "zh": "設計繪畫",
+        "en": "Design painting"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技多樂一丙"
+    ],
+    "instructors": [
+        "陳佩鈺"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "W0603"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0603"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0603"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "繪畫是一切設計的基礎。在這個以電腦為完稿訴求的年代，靈活運用繪畫及其他設計資源，也成為創造個人風格之其一途徑。本課程架構於繪畫的過程中，培養對周遭事物之敏感度；而對物體的了解，感性的感官聯想，啟發學生在繪畫中思考，運用繪畫能力，創造出自我風格。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 形的掌握技巧：學習以方格法、比例法等方法繪製正確的物體形態。<br>2. 空間透視原理：學習依據空間透視原理以正確繪製空間中的物體。<br>3. 明暗掌握技巧：學習以手繪工具分辨細微的明暗色階。<br>4. 光影原理：學習光線照射物體所產生的明暗與陰影型態。<br>5. 構圖原理：學習依據構圖原理進行畫面上的佈局以產生良好的構圖。<br>6. 材質與肌理：學習掌握各種材質的特性與肌理並以手繪工具表現之。<br>",
+        "en": "The Basics. In fact, prequel would be a better word for this new book, since it is aimed towards the novice designer. Whereas Sketching shows you how to draw various aspects of shape and form, and serves more as a reference book, The Basics explains things in more detail, taking the reader by the hand and guiding him step by step through all the various aspects of drawing that novice designers come up against.<br><br>The Basics explains the rudiments of learning to draw both clearly and comprehensively, using step-by-step illustrations, examples, and strategies. You will learn to use and master the different techniques and also how to apply sketches in the design process.<br><br>It is the perfect book for those just starting out in sketching, for the first years of art and design courses, and for those who wish to revise the basics of good sketching; it is a simple and efficient way of learning all you've ever wanted to know but have never had explained to you.<br><br><br>1. Shape control skills<br>2. spatial perspective<br>3. Light and dark <br>4. Principle of light and shadow<br>5. Composition principle<br>6. Material and texture"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "形的掌握技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "空間透視原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "明暗掌握技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "光影原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "構圖原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "材質與肌理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,128 @@
+{
+    "code": "15N01901",
+    "name": {
+        "zh": "熱力學",
+        "en": "Engineering Thermodynamics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技車輛三甲"
+    ],
+    "instructors": [
+        "張竣凱"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "R401"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "R401"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "R401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "首先本課程介紹熱力學之基本定理與觀念，包括物質的組成與其特性，如溫度，壓力，比容及其相關氣體方程式等，然後經由熱與功之能量轉換與守恆，導出熱力學第一定律，然後探討熱力學第二定律，由卡諾循環、熱機與冷凍機及熵與焓的觀念，應用至實際例如原動力廠、冷凍機械、Otto與Diesel引擎等，有關熱工機械運轉、能量轉換、效率之問題。",
+    "prerequisites": "物理、微積分",
+    "syllabus": {
+        "zh": "第一章 熱力學基本觀念<br>熱力學與能量，因次與單位，密閉與開放系統，系統的性質，狀態與平衡，過程與循環，能量之形式，能量與環境，溫度與熱力學第零定律，壓力，液體壓力計，氣壓計與大氣壓力<br>第二章　純質的性質，純質，純質的相，純質的相變化過程，相變化過程的性質圖，性質表，理想氣體狀態方程式，壓縮性因數 ── 偏離理想氣體特性的量度，其它狀態方程式，比熱，理想氣體的內能、焓及比熱，固體與液體的內能、焓及比熱<br>第三章　熱、功與質量的能量傳遞，熱傳遞，功的能量傳遞，機械形式的功，非機械形式的功，質量不滅定律，流功與流動流體的能量<br>第四章　熱力學第一定律，熱力學第一定律，密閉系統之能量平衡，穩流系統之能量平衡，若干穩流工程裝置，非穩流過程之能量平衡<br>第五章　熱力學第二定律，第二定律概述，熱能貯器，熱機，能量轉換效率，冷凍機與熱泵，永動機，可逆與不可逆過程，卡諾循環，卡諾原理，熱力溫標，卡諾熱機，卡諾冷凍機與熱泵<br>第六章 熵，熵，熵增原理，純質的熵改變，等熵過程具有熵的性質圖，熵是什麼？ T ds關係式，液體與固體的熵改變，理想氣體的熵改變，可逆穩流功，壓縮機功之最小化，穩流裝置的等熵效率，熵平衡<br>",
+        "en": "1. The basic conceptions of thermodynamics<br>Thermodynamics and energy, dimension and units, closed and opened system, state and balance, process and cycle, types of the energy.<br>2. The properties of the material<br>Pure material, phases of pure materials, phase varied process of pure material, property chart, ideal gas, specific heat, internal energy.<br>3.Energy Transfer by Heat, Work, and Mass <br>Heat transfer, energy transfer of the work, mechanical work, non- mechanical work, mass conservation law.<br>4.The First Law of Thermodynamics<br>The first law of thermodynamics, the energy balance of closed system, the energy balance of opened system, some engineering devices of steady flow system.<br>5.The Second Law of Thermodynamics<br>The basic of second law, heat reservoir, heat engine, the energy transformation efficiency, refrigerator and heat pump, reversible and irreversible.<br>6.Entropy<br>Entropy, increase of entropy principle, entropy change of pure material, isotropic process, Mollier chart, what is entropy, entropy change of liquid and solid.<br>7. Power cycle<br>Basic consideration of the power cycle, Carnot cycle, Otto and Diesel cycle, Stirling and Ericsson cycle, Carnot steam cycle, Brayton cycle, Rankune cycle.<br>8. Refrigeration and air conditioning<br>Refrigerator heat pump, Steam compressed refrigeration cycle, refrigerant, heat pump system, dry air and atmosphere, specific humidity and relative humidity."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉熱力學之基本觀念及術語，及常見的工作媒介",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能使用分析方法建立能量平衡方程式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用熱力學第二定律於工程問題，並了解混合物之狀態與性質之關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能使用熱力學方法於實際的熱工機械中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀熱力學相關之專業英文資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

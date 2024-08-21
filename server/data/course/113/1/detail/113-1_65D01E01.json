@@ -1,0 +1,120 @@
+{
+    "code": "65D01E01",
+    "name": {
+        "zh": "財務報表分析",
+        "en": "Financial Statement Analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國商三甲"
+    ],
+    "instructors": [
+        "莊建富"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "E0410"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "E0410"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "E0410"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The course is designed to prepare students to understand how to read, interpret, and analyze financial statements. Throughout the course, the instructor will help you in mastering fundamental concept, valuation techniques &amp; models, and computer analytical skills by analysis of several real financial statements. Specifically, students are able to: <br>1.\tApply ratio analysis to understand and assess firm’s performance<br>2.\tInterpret numbers in the financial statements <br>3.\tUnderstand financial statement disclosures in an informed manner <br>4.\tCompare companies financially, understand cash flow, and grasp basic financial issues and risk analysis concepts<br>5.\tDevelop a more efficient and effective approach to researching, interpreting, and analyzing financial statements.  <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、簡介<br>2、財務報表分析的目標<br>3、財務報表分析的工具與技術<br>4、流動資產分析<br>5、非流動資產分析<br>6、負債分析<br>7、股東權益分析<br>8、損益表分析-I<br>9、損益表分析-II<br>10. 每股盈餘-計算與評估<br>11. 現金流量表<br>12. 會計師查核意見 - 意義及重大性<br>13、短期流動性分析<br>14、資本結構與長期償債能力分析<br>15、投資回報率和資產利用率分析<br>16、財務報表綜合分析<br>",
+        "en": "1.Introduction<br>2.Objectives of Financial Statement Analysis<br>3.Tools and Techniques of Financial Statement Analysis<br>4.Analysis of Current Assets<br>5.Analysis of Noncurrent Assets<br>6.Analysis of Liabilities<br>7.Analysis of Stockholders’ Equity<br>8.Analysis of the Income Statement-I<br>9.Analysis of the Income Statement-II<br>10.Earnings Per Share - Computation and Evaluation<br>11.Statements of Cash Flows<br>12.The Auditor’s Opinion - Meaning and Significance<br>13.Analysis of Short-Term Liquidity<br>14.Analysis of Capital Structure and Long-Term Solvency<br>15.Analysis of ROI and of Asset Utilization<br>16.Comprehensive Analysis of Financial Statements<br>"
+    },
+    "weeklySchedule": "Introduction Financial Statements<br>The Objectives and Categories of Financial Statement Analysis<br>Application and Techniques of Financial Statement Analysis<br>Analysis of Current Assets<br>Analysis of Noncurrent and Long term Assets<br>Analysis of Liabilities<br>Analysis of Stockholders’ Equity<br>Analysis of the Income Statement-I<br>Analysis of the Income Statement-II<br>Earnings Per Share - Computation and Evaluation<br>Statements of Cash Flows<br>The Auditor’s Opinion - Meaning and Significance<br>Analysis of Short-Term Liquidity<br>Analysis of Capital Structure and Long-Term Solvency<br>Analysis of ROI and of Asset Utilization<br>Comprehensive Analysis of Financial Statements<br>Group Presentations",
+    "exams": {
+        "midterm": "30%",
+        "final": "40%",
+        "other": "30%"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解財務報表分析的解讀及實際運用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "財務報表分析各個重要子題的介紹及探討",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備財務報表實際分析的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解財務報表分析人員需具備的專業倫理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Financial Statement Analysis",
+        "author": "Subramanyam",
+        "publisher": "華泰書局",
+        "year": "2022",
+        "ISBN": "789577296894",
+        "edition": "11"
+    },
+    "referenceBooks": "Financial Statement Analysis: A Practitioner's Guide 4th <br>ISBN-10 ‏ : ‎ 9780470635605<br>ISBN-13 ‏ : ‎ 978-0470635605<br>Martin S. Fridson (Author), Fernando Alvarez (Author)",
+    "teachingSoftware": "The Excel or other dinancial software",
+    "rules": "The course is designed to prepare students to understand how to read, interpret, and analyze financial statements. Throughout the course, the instructor will help you in mastering fundamental concept, valuation techniques &amp; models, and computer analytical skills by analysis of several real financial statements. Specifically, students are able to Apply ratio analysis to understand and assess firm’s performances."
+}

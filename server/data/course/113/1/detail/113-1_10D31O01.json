@@ -1,0 +1,110 @@
+{
+    "code": "10D31O01",
+    "name": {
+        "zh": "工程‧倫理與社會",
+        "en": "Topics of Engineering and Society"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技自控三甲"
+    ],
+    "instructors": [
+        "許藝菊"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "E0504"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "E0504"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要分兩部分，一是STS概論：介紹STS，及引導同學熟悉關於STS的重要議題與案例。二是專題：是以能源工程問題為主體，著重蒸汽機到核能發電之科技發展過程與社會發展的相互關係，並以STS所涉及之問題的探究或問題的解決來組織或主導課堂活",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1熟悉STS：熟悉STS的重要議題與案例<br>2專業反思：促使STS概念與反省性內化至同學思考與專業。<br>3自我成長：帶進STS概念到自己的人生和專業進行實踐、實作、體驗<br>4培養其論述能力",
+        "en": "1. Familiar with STS: Familiar with important issues and cases of STS<br>2. Professional reflection: Promote STS concept and introspection internalization to classmates thinking and professional.<br>3. Self-growth: Bringing the concept of STS to your own life and professional practice, implementation, experience<br>4. cultivate their ability to discuss"
+    },
+    "weeklySchedule": "在傳統社會文化中，對於一個好老師的定義就是要不斷的教給學生許多內容知識，這對於學生是不夠的。本課程以學生為中心的學習: 教師本身是一位教學活動的設計者與促進者，提供資訊以及營造情境，讓學生能主動探索問題、蒐集更多的證據、從事溝通分享。將從個案研究、小組討論、角色扮演、做決定遊戲、等項，供學生進行主動的學習與研討。<br><br>1.\t理論<br>規範倫理學的理論<br>2.\t原則<br>倫理可不可以教<br>What money cannot buy<br>3.\t實際案例以說明專業倫理的原則(道德推理)<br>科技公民社群的在地營造<br>4.展現在道德上的兩難困境(道德抉擇)<br><br><br>課程規章<br> \t沒有遲交/補交作業<br>\t上傳錯誤作業者無法過期後補交，請確實檢查檔案正確。<br> \t沒有期末加分作業<br> \t非課堂上需要手機時，請把手機收起來，否則一次扣總分一分(可連續扣分)<br> \t若有上課小組活動，未參與活動者(如玩手機、睡覺者)，將零分計算。<br> \t抄襲者與被抄襲者皆零分，網路/他人作品請註明出處，並改寫或「引號標註原文」<br><br>第1週\t課程說明<br>第2週\t倫理可不可以教PPT<br>\t課程定位<br>第3週\t如果可以隱形一天，你會做? (我們真的知道甚麼是倫理道德嗎?)<br>\t道德/倫理的定義<br>價值觀的定位與取捨<br>\t價值觀都一樣嗎?由甚麼決定<br>生長時空塑造，隨當下環境調整<br>\t做好人的條件?<br>道德判斷+道德能力<br>第4週\t規範倫理學的理論 PPT <br>第5週\t<br>第6週\tWhat money cannot buy (效益論)<br>第7週\tSTS_科技公民社群的在地營造<br>第8週\t黑天鵝、灰犀牛談風險<br>第9週\t期中考週<br>第10週\tSTS_台灣能不能(案例探討)<br>第11週\tGroup role report<br>第12週\tWorld café_台灣能不能<br>第13週\t<br>第14週\t<br>第15週\t<br>第16週\tPoster <br>第17週\t<br>",
+    "exams": {
+        "midterm": "作業",
+        "final": "口頭報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉「工程．倫理與社會」：熟悉「工程．倫理與社會」的重要議題與案例",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "專業反思：促使「工程．倫理與社會」概念與反省性內化至同學思考與專業。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "自我成長：帶進「工程．倫理與社會」概念到自己的人生和專業進行實踐、實作、體驗",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養其論述能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

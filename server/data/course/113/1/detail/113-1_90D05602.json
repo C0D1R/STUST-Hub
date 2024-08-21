@@ -1,0 +1,115 @@
+{
+    "code": "90D05602",
+    "name": {
+        "zh": "管理數學",
+        "en": "Management Mathematics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資管一乙"
+    ],
+    "instructors": [
+        "童冠燁"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第1節",
+            "location": "T0505"
+        },
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "T0505"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "T0505"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程教導學生在管理科學領域上常用的基礎數學工具，特別是著重在基礎線性代數，以利後續眾多課程之學習。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 線性方程組<br>2. 矩陣<br>3. 行列式<br>4. 向量空間<br>5. 線性規劃—圖解法<br>6. 線性規劃—單形法(Simplex method)<br>",
+        "en": "1. Linear Equations<br>2. Matrix<br>3. Determinants<br>4. Vector Space<br>5. Linear Programming-Graphical Approach<br>6. Linear Programming-Simplex Method"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能以科學方法解決管理問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解管理科學上常用的數學工具",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將問題加以轉換建立數學模式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確應用數學方法的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

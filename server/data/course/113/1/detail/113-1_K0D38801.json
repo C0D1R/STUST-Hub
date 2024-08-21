@@ -1,0 +1,129 @@
+{
+    "code": "K0D38801",
+    "name": {
+        "zh": "遊戲品保",
+        "en": "Quality Assurance on Game Development"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技多樂四甲"
+    ],
+    "instructors": [
+        "張明裕"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "W0603"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "W0603"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程所謂之遊戲品保即是遊戲發展與製作之過程中，透過遊戲製作團隊內以及團隊之外人員以玩遊戲的測試方式找出遊戲進行時所發生的錯誤(BUG)並於專案時限內加以改正的過程，確保該款遊戲發行時所必須保有的遊戲品質。<br>課程內容在於培養學生具備基本的遊戲品保工作能力。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t遊戲專案團隊組成與工作分配<br>2.\t遊戲專案會議與管理<br>3.\t遊戲開發里程碑之各階段品保測試工作<br>4.\t遊戲品保工作:團隊內測試工作<br>5.\t遊戲品保工作:團隊外測試工作<br>6.\t遊戲錯誤分類與品質評估方法<br>",
+        "en": "1.\tCreate working groups and dispatch jobs in game development<br>2.\tManage the progress of game production and meetings<br>3.\tJobs required in quality assurance for each milestone about developing a game project<br>4.\tIntra-team test works on the quality assurance<br>5.\tInter-team test works on the quality assurance<br>6.\tTypes of errors to be corrected and the rapid evaluation method on a game project with its quality assurance<br>"
+    },
+    "weeklySchedule": "週次\t教學進度\t                 <br>1\t遊戲專案管理\t         \t<br>2\t遊戲概念開發\t         \t<br>3\t遊戲設計元素\t         \t<br>4\t遊戲設計文件\t         \t<br>5\t遊戲美術與音效文件  \t\t<br>6\t遊戲專案製作文件\t        \t<br>7\t建立遊戲品保測試計劃\t\t<br>8\t遊戲專案品保測試管理\t\t<br>9\t期中報告<br>10\t測試管理與品保問題討論(一)\t\t<br>11\t測試管理與品保問題討論(二)\t\t<br>12\t測試管理與品保問題討論(三)\t\t<br>13\t測試管理與品保問題討論(四)\t\t<br>14\t測試管理與品保問題討論(五)\t\t<br>15\t測試管理與品保問題討論(六)\t\t<br>16\t測試管理與品保問題討論(七)\t\t<br>17\t測試管理與品保問題討論(八)\t\t<br>18\t期末報告\t                <br>",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "出席與課"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.\t遊戲專案團隊組成與工作分配",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "2.\t遊戲專案會議與管理",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "3.\t遊戲開發里程碑之各階段品保測試工作",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "4.\t遊戲品保工作:團隊內外測試工作",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "5.\t遊戲錯誤分類與品質評估方法",
+            "teachingMethods": [
+                "實作演練",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Game Development Essentials: Game Project Management 遊戲開發管理概論-遊戲軟體專案管理",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "略",
+    "teachingSoftware": "MS Office",
+    "rules": "略"
+}

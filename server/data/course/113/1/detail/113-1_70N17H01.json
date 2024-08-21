@@ -1,0 +1,115 @@
+{
+    "code": "70N17H01",
+    "name": {
+        "zh": "品牌推廣企劃",
+        "en": "Brand promotion planning"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技企管三甲"
+    ],
+    "instructors": [
+        "黃峰蕙"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "S315"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "S315"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "S315"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "帶領學生認識品牌的廣告設計，透過團隊的方式來選擇品牌並設計廣告，進而培養學生的創意能",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1. 廣告的基本概念<br>2. 廣告與消費者行為<br>3. 品牌與廣告<br>4. 廣告創意策略<br>5. 廣告文案<br>6. 廣告視覺設計<br>7. 品牌與品牌管理<br>8. 品牌識別<br>9. 品牌權益<br>10. 選擇品牌元素<br>11. 品牌次級聯想<br>12. 品牌定位策略",
+        "en": "1. Fundamentals of Advertising<br>2. Consumer Behaviors and Advertising<br>3. Brands and Advertising<br>4. Creative Strategies for Advertising<br>5. Advertising Copywriter<br>6. Advertising Design <br>7. Brand and Branding Management<br>8. Brand Identity<br>9. Brand Equity<br>10. How to Choose Brand Elements<br>11. Brand Sub-association<br>12. Brand Positioning Strategy"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識品牌行銷及廣告的設計與製作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養創意廣告設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增加以資訊科技來溝通的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "練習團體創作廣告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,127 @@
+{
+    "code": "H0D00302",
+    "name": {
+        "zh": "生物化學",
+        "en": "biochemistry"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技食品二乙"
+    ],
+    "instructors": [
+        "趙品淳"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "I0309"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "I0309"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "I0309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "生物化學在近二十年來進步神速，同時為進入生命科學之重要基礎學科，尤其對於進一步修讀生化工程學、分子生物學，基因工程學者，更需熟讀，無論對於學術或生技產業都是息息相關的重要基礎科學。 <br>",
+    "prerequisites": "具生物學及普通化學之基本觀念",
+    "syllabus": {
+        "zh": "1. 生物化學反應溶劑:水<br><br>2.胺基酸與胜肽<br><br>3. 蛋白質的3D結構<br><br>4. 蛋白質特性及純化技術<br><br>5. 酵素<br><br>6.酵素動力及其控制機制<br><br>7.生物膜上之脂質及蛋白質<br><br>",
+        "en": "1. Water:The solvent for biochemical reaction<br><br>2. Amino acids and peptides<br><br>3. The three-dimensional structure of proteins<br><br>4. protein purification and characterization Techniques<br><br>5. The behavior of proteins: Enzymes<br><br>6. The behavior of proteins: Enzymes, mechanisms, and Control<br><br>7. Lipids and proteins are associated in biological membranes <br><br> <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解細胞之結構與生物化學關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解蛋白質組成及3D結構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解蛋白質純化製程原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解酵素作用機制及動力學模式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "解析生物化學與目前生技與醫學的演進",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

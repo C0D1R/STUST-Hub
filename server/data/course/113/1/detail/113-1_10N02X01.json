@@ -1,0 +1,122 @@
+{
+    "code": "10N02X01",
+    "name": {
+        "zh": "品質管理",
+        "en": "Quality Management"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜四機械雙軌四"
+    ],
+    "instructors": [
+        "吳忠春"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "R501"
+        },
+        {
+            "day": "週五",
+            "period": "第9節",
+            "location": "R501"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為使學生瞭解並熟悉在工業生產作業中，與品質有關的各種分析計劃與管制的方法。對於各種品管方法充份了解，並靈活應用。對於品質管理的制度及觀念有全盤認識。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 品質管理概論<br>2. 品質改善工具（品管七大手法）<br>3. 計量值管制圖<br>4. 計數值管制圖<br>5. 製程能力分析<br>6. 量測系統<br>7. 允收抽樣計畫<br>8. 其他品質相關議題",
+        "en": "1. Introduction of Quality Management <br>2. Quality Improvement tools (QC 7 tools)<br>3. Variable control charts<br>4. Attribute control charts<br>5. Process capability analysis<br>6. Measurement System Analysis (Gauge R&amp;R)<br>7. Acceptance Sampling<br>8. Other QC related topics"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "品質改善工具（品管七大手法）",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "製程能力分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "量測系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "允收抽樣計畫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "品質管理與制度建立指標",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

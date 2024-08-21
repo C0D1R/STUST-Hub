@@ -1,0 +1,119 @@
+{
+    "code": "08D04S01",
+    "name": {
+        "zh": "英文時事論壇：ESG與永續",
+        "en": "English Current Affairs Forum: ESG and Sustainability"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "夏幼川"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "T0211"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "T0211"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本門課程的設計核心為【中英雙語學習】結合【ESG關鍵趨勢】與【永續發展議題】。每週課堂進度循序漸進，修課學生預期能夠以提升英語理解與溝通能力為主軸，同時引導初步瞭解企業ESG、淨零碳排、氣候變遷、再生能源、聯合國永續發展目標SDGs等全球趨勢議題。<br><br>課堂內容整合上述議題的新聞時事、文章資料、影音素材、領袖談話、論壇會議等，透過授課教師歸納分類整理後建立教學資料庫，以中英翻譯對照的導讀方式，融合日常生活案例說明，帶領學生輕鬆理解相關知識，並擴展雙語教學的高度與廣度。 <br><br>課程規劃旨在協助學生掌握「高效率的英語學習策略」，認識了解「ESG與永續發展入門概念」，逐步成為「領袖層級的跨領域人才」。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.商務英語理解溝通與表達技巧<br>2.ESG入門篇:中英雙語導讀、字彙句型解析、議題探討<br>3.ESG氣候變遷:中英雙語導讀、字彙句型解析、議題探討<br>4.ESG淨零碳排:中英雙語導讀、字彙句型解析、議題探討<br>5.ESG氣候變遷:中英雙語導讀、字彙句型解析、議題探討<br>6.ESG再生能源:中英雙語導讀、字彙句型解析、議題探討<br>7.聯合國永續發展目標SDGs:中英雙語導讀、字彙句型解析、議題探討<br>8.世界高峰領袖論壇:中英雙語導讀、字彙句型解析、議題探討<br>",
+        "en": "1.Business English comprehension, communication, and delivery skills.<br>2.Introduction to ESG: Bilingual guidance in Chinese and English, vocabulary and sentence structure analysis, discussion on issues.<br>3.ESG Climate Change: Bilingual guidance in Chinese and English, vocabulary and sentence structure analysis, discussion on issues.<br>4.ESG Net Zero Carbon Emissions: Bilingual guidance in Chinese and English, vocabulary and sentence structure analysis, discussion on issues.<br>5.ESG Climate Change: Bilingual guidance in Chinese and English, vocabulary and sentence structure analysis, discussion on issues.<br>6.ESG Renewable Energy: Bilingual guidance in Chinese and English, vocabulary and sentence structure analysis, discussion on issues.<br>7.UN Sustainable Development Goals (SDGs): Bilingual guidance in Chinese and English, vocabulary and sentence structure analysis, discussion on issues.<br>8.World Leader Summit: Bilingual guidance in Chinese and English, vocabulary and sentence tructure analysis, discussion on issues."
+    },
+    "weeklySchedule": "1.商務英語理解溝通與表達技巧<br>2.我國2030雙語政策資料應用至個人英語學習建構<br>3.ESG入門篇:中英雙語導讀、字彙句型解析、議題探討<br>4.ESG氣候變遷:中英雙語導讀、字彙句型解析、議題探討<br>5.ESG淨零碳排:中英雙語導讀、字彙句型解析、議題探討<br>6.ESG氣候變遷:中英雙語導讀、字彙句型解析、議題探討<br>7.ESG再生能源:中英雙語導讀、字彙句型解析、議題探討<br>8.聯合國永續發展目標SDGs:中英雙語導讀、字彙句型解析、議題探討<br>9.世界高峰領袖論壇:中英雙語導讀、字彙句型解析、議題探討<br><br>1. Business English comprehension, communication, and delivery skills.<br>2. Incorporating 2030 bilingual policy database into personal English learning framework.<br>3. Introduction to ESG: Bilingual guidance in Chinese and English, vocabulary and sentence structure <br>  analysis, discussion on issues.<br>4. ESG Climate Change: Bilingual guidance in Chinese and English, vocabulary and sentence structure <br>  analysis, discussion on issues.<br>5. ESG Net Zero Carbon Emissions: Bilingual guidance in Chinese and English, vocabulary and <br>  sentence structure analysis, discussion on issues.<br>6. ESG Climate Change: Bilingual guidance in Chinese and English, vocabulary and sentence structure <br>  analysis, discussion on issues.<br>7. ESG Renewable Energy: Bilingual guidance in Chinese and English, vocabulary and sentence <br>  structure analysis, discussion on issues.<br>8. UN Sustainable Development Goals (SDGs): Bilingual guidance in Chinese and English, vocabulary  <br>  and sentence structure analysis, discussion on issues.<br>9. World Leader Summit: Bilingual guidance in Chinese and English, vocabulary and sentence structure   <br>  analysis, discussion on issues.<br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能夠培養領袖氣息的正向人格特質與溝通表達力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠提升ESG議題之英語聽力與閱讀理解。\n能夠強化ESG議題之英語口說與寫作表達。\n能夠建立ESG議題之英語字彙能量。\n能夠架構ESG議題之英語句型認知。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能夠使用網路資源搜尋與趨勢議題相關的訊息",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠了解ESG概念及其對企業長期價值的影響。\n能夠認識SDGs聯合國永續發展目標。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "教師自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

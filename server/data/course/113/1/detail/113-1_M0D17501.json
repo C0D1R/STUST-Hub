@@ -1,0 +1,142 @@
+{
+    "code": "M0D17501",
+    "name": {
+        "zh": "菜單設計與成本控制",
+        "en": "Menu Design and Cost Control"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技餐旅四甲"
+    ],
+    "instructors": [
+        "林政陞"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "T0309"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "T0309"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "菜單設計要領，針對菜單的種類、菜單編排要點、中西式菜單的架構與特色、菜單設計的程序、菜單定價的策略與方法、菜單的製作原則與要求、菜單的分析與修正、成本結構等，分別詳加介紹，內容深入淺出。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.學習菜單設計基本概念，含菜單內容、結構、製作原則、分析及評估，成本結構與成本支出，課程如下<br>第一章　緒　論<br>第二章　菜單的內容<br>第三章　菜單的結構<br>第四章　菜單設計程序<br>第五章　菜單的定價及策略<br>第六章　菜單的製作<br>第七章　菜單之評估",
+        "en": "Chap.1 Introduction<br>Chap.2 Menu Content<br>Chap.3 Menu Struction<br>Chap.4 Menu Design Procedure<br>Chap.5 Price &amp; Policy<br>Chap.6 Food Preparation<br>Chap.7 Menu Analysis"
+    },
+    "weeklySchedule": "學習菜單設計基本概念，含菜單內容、結構、製作原則、分析及評估，成本結構與成本支出，課程如下<br>第一章　緒　論<br>第二章　菜單的內容<br>第三章　菜單的結構<br>第四章　菜單設計程序<br>第五章　菜單的定價及策略<br>第六章　菜單的製作<br>第七章　菜單之評估",
+    "exams": {
+        "midterm": "期中報告(個人菜單設計)",
+        "final": "期末報告(個人成本設計)",
+        "other": "期末報告(個人)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能分辨菜單類型",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解設計菜單的元素並能設計菜單",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解設計菜單的元素並能設計菜單",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能暸解餐飲成本結構並計算成本",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能分析菜單的獲利",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能分析菜單的獲利",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自編教材(學業界實務經驗教學)",
+    "teachingSoftware": "",
+    "rules": "1.需準時繳交期中與期末報告(會提前複習考試重點)"
+}

@@ -1,0 +1,117 @@
+{
+    "code": "G0D15S01",
+    "name": {
+        "zh": "人工智慧與雲端運算",
+        "en": "Artificial Intelligence in the Cloud"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資工四甲",
+        "四技資工四乙",
+        "四技資工四丙"
+    ],
+    "instructors": [
+        "許子衡"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "C303"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "C303"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "C303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為特定雲端運算平台的機器學習相關技術之實習與應用課程。主要教授雲端機器學習平台與工具之相關基礎知識，引導學生建置雲端數據伺服器，並導入、使用雲端機器學習工具。內容包括：雲端平台操作基礎、雲端數據伺服器建置流程、平台預設機器學習模型之使用、自建機器學習模型之方法等，並透過Python語言實作機器學習應用，協助學生掌握機器學習實際應用之知識與技術。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.雲端運算平台簡介<br>2.雲端數據伺服器建置與操作<br>3.機器學習流程回顧<br>4.雲端機器學習模型介紹<br>5.模型訓練<br>6.機器學習效能評估<br>7.Python 語言基礎<br>8.Python 機器學習應用<br>",
+        "en": "1.Introduction of a cloud computing platform<br>2.Build up a cloud data server<br>3.A brief review of machine learning process<br>4.Introduction of cloud machine learning tool kits<br>5.Model Training<br>6.Performance measurement of machine learning<br>7.Python language basics<br>8.Develop applications of machine learning using Python<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立開發機器學習系統之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建構機器學習基礎資訊與應用能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練資料處理與資料加值能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養機器學習應用規劃能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,141 @@
+{
+    "code": "K0D10101",
+    "name": {
+        "zh": "物件導向程式設計",
+        "en": "Object Oriented Programming"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技多樂二甲",
+        "四技多樂二乙",
+        "四技多樂二丙"
+    ],
+    "instructors": [
+        "楊政達"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "W0708"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0708"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0708"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程透過Action Script 3.0程式語言，讓學生理解物件導向的設計模式。課程中描述單純與複雜資料類型之差異，教導類別的設計概念、事件應用、資料處理、影音控制、外部資料存取、遊戲模式設計等全方位之練習。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. ActionScript基本撰寫規則<br>(1) 影格概念<br>(2) 圖層概念<br>(3) 內部配置及外部類別產生概念<br>(4) 內部程式及外部程式概念<br>(5) 獨立物件及子物件概念<br>(6) 類別物件(元件庫)及實體物件概念<br>2. ActionScript基本語法<br>(1) 變數、資料類型、運算子<br>(2) 函式、事件、流程控制<br>(3) 陣列<br>3. 物件導向與類別概念應用範例<br>(1) 轉盤物件繼承範例<br>(2) 剪刀、石頭、布遊戲範例<br>(3) 物件顯示層次切換範例、物件飽和度之極限概念範例<br>4. 多媒體應用範例<br>(1) 不同聲音頻道、大小切換及調整範例<br>(2) 影片配置、配樂、字幕顯示整合範例<br>(3) 影格事件與Timer類別之應用 --- 傳統小時鐘(含數字時鐘、指針時鐘)之製作。<br>(4) 物件伸縮、透明度變換設計範例<br>(5) 網站連結範例<br>5. 基礎遊戲設計應用範例 --- 打地鼠遊戲<br>6. 專案遊戲基本設計技巧<br>(1) 角色操作<br>1.透過鍵盤<br>2.透過鍵盤<br>3.透過鍵盤及滑鼠之整合設<br>(2) 道具獲取<br>1.道具隨機出現<br>2.道具定點隨機出現<br>3.道具說明回<br>(3) 主角攻擊<br>1. 近身攻擊<br>2. 遠程攻擊<br>3. 集氣攻擊<br>4. 頭頂腳踩攻擊<br>(4) 場景變換<br>1. 傳送點及出生點設計<br>2. 透過遮色片之山洞設計<br>3. 子物件及獨立物件之位置跟隨判別<br>4. 大地圖之捲<br>",
+        "en": "1. Introduction to C++ programming language<br>2. Computational thinking<br>3. Object-oriented concept and technology<br>4. Application of object-oriented programming skill"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1. ActionScript基本撰寫規則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2. ActionScript基本語法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3. 物件導向與類別概念應用範例",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4. 多媒體應用範例",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5. 基礎遊戲設計應用範例 --- 打地鼠遊戲",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6. 專案遊戲基本設計技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

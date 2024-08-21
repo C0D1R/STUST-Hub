@@ -1,0 +1,127 @@
+{
+    "code": "1CM01402",
+    "name": {
+        "zh": "整合設計與產業創新",
+        "en": "Integrative Design and Industry Innovation"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研產設一甲",
+        "碩研產設二甲",
+        "碩研視傳一甲",
+        "碩研視傳二甲"
+    ],
+    "instructors": [
+        "吳啟華"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "X303"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "X303"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "X303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "數十年來，資通訊科技的飛速發展，包含AI、AR/VR、數位孿生等新技術，掀起新一波的產業革命，揭示從生產手段上根本創新的可能性，促使對設計（作為人造物工學）知識技能的反思。<br>在此脈絡下，將「整合」視為設計專業的核心特徵，本課程將廣泛討論一系列產業相關的新興議題，並帶領學習者進行深入的個案研究，以培養能掌握產業趨勢並體現於設計的能力。",
+    "prerequisites": "高等工業設計或高等互動設計、研究方法與學術倫理",
+    "syllabus": {
+        "zh": "本課程分為三個部份：<br>（一）文本閱讀與專題討論（三週加三週）<br>1.1 平行世界與脫離現實的可能：Ready Player One到Matrix<br>1.2 社會建構與元宇宙的美景：Free Guy到サマーウォーズ(Summer wars)<br>1.3 綜合討論：現實與虛擬重合之下的設計整合<br>1.4 機器倫理與可課責性：人的代價<br>1.5 去中心化與信任：從參與式決策到區塊練技術<br>1.6 綜合討論：對產業創新的引領能力與設計專業的角色變遷<br>（二）產業研究（六週）<br>學生專題報告（建議方向：社會設計、地方創生的制度設計）<br>(三）設計個案研究與實踐（六週）<br>學生專題報告與討論",
+        "en": "This course further breaks down as follow,<br>1) Seminar (6 weeks)<br>1.1 Parallel existence and when things gone physical: Matrix and Ready Player One<br>1.2 Social reality and the meta-verse vision: Free Guy to サマーウォーズ(Summer wars)<br>1.3 Summarizing Discussion: Integrative Design in the Limbo<br>1.4 Machine ethics and accountability: price of Homo Sapiens<br>1.5 Decentralization and the core of Trust: Participatory decision-making and block-chain<br>1.6 Summarizing Discussion: Leading Industry Innovation with Contingent Role of Design<br><br>2) Industry research (6 weeks)<br>Student project, topics non-designated.<br><br>3) Design analysis and practice (6 weeks)<br>Student project, topics non-designated."
+    },
+    "weeklySchedule": "（一）文本閱讀與專題討論（三週加三週）<br>1.1 平行世界與脫離現實的可能：Ready Player One到Matrix<br>1.2 社會建構與元宇宙的美景：Free Guy到サマーウォーズ(Summer wars)<br>1.3 綜合討論：現實與虛擬重合之下的設計整合<br>1.4 機器倫理與可課責性：人的代價<br>1.5 去中心化與信任：從參與式決策到區塊練技術<br>1.6 綜合討論：對產業創新的引領能力與設計專業的角色變遷<br><br>（二）產業研究（六週）<br>學生專題報告（建議方向：社會設計、地方創生的制度設計）<br><br>（三）設計個案研究與實踐（六週）<br>學生專題報告與討論",
+    "exams": {
+        "midterm": "書面報告、口頭報告",
+        "final": "書面報告、口頭報告",
+        "other": "日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "對科技與社會(STS)領域有基礎認識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "強化批判閱讀與思考能力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養跨領域議題的思辯與討論能力",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "精進設計整合呈現能力",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "本課程期末嚴格要求產出一篇研究報告。"
+}

@@ -1,0 +1,171 @@
+{
+    "code": "04D03707",
+    "name": {
+        "zh": "體育生活(三)：羽球(G)",
+        "en": "Physical Education(III)：Badminton"
+    },
+    "credit": "1",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "四技製造二甲",
+        "四技製造二乙",
+        "四技工管二甲",
+        "四技工管二乙",
+        "四技電商二甲",
+        "四技多樂二甲",
+        "四技多樂二乙",
+        "四技多樂二丙",
+        "四機械國專二甲"
+    ],
+    "instructors": [
+        "蘇素月"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": ""
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.基本動作綜合練習<br>2.規則及裁判法 <br>3.單雙打戰術之運用 <br>4.分組循環比賽",
+    "prerequisites": "注意事項:\n1. 術科測驗60%(期中考30% 期末考30%) 筆試20% 平時20% \n2. 穿著運動服及運動鞋\n3．準時上下課\n4. 上課前熱身運動減少運動傷害\n5. 上課認真學習、上課時間不可用餐、抽煙等。",
+    "syllabus": {
+        "zh": "第一週<br>1. 介紹課程大綱及各項注意事項。<br>2. 場地分配、車輛停放地點排練整齊。<br>3. 器材準備確實，加強球拍、球的選購。<br>4. 加強穿著運動服裝，準時上、下課。<br><br>第二~七週<br>1. 複習上學期所學基本動作。<br>2. 加強上課前的熱身動作，減少運動傷害。<br>3. 正、反拍、短球、發球講解示範說明。<br>4. 發球重點說明 (說明測驗要點)。<br>5. 各種擊球方式及步法移動介紹。<br><br>第八、九週<br>期中考<br>發球測驗 (雙打發球區分六等份，10, 9, 8, 7, 6, 5, 每人發10球)<br><br>第十~十五週<br>1. 場地介紹 (單打)。<br>2. 規則說明 (單打)。<br>3. 單、雙打分析，戰略說明。<br>4. 殺球介紹示範，分組練習。<br><br>第十六~十七週<br>期末考<br>雙打分組比賽測驗 (裁判、擊球法、比賽反應、步法移位動作、規則等)。",
+        "en": "Week 1<br>1. Course introduction<br>2. Grouping<br>3. Reminding of purchasing the racket and shuttles.<br>4. Appropriate sportswear and being in class on time. <br><br>Week 2 ~ Week 7 <br>1. Review skills learned during the last semester.<br>2. Warm-up before starting in order to reduce injuries.<br>3. Demonstration on forehand and backhand grips as well as serve. <br>4. Key points on serving.<br>5. Introduction on hitting methods and footwork.<br><br>Week 8 ~week 9<br>Mid-term <br>Service test (6 scoring areas draw in doubles service area) every one has 10 shuttles   <br><br>Week 10 ~ week 15<br>1. Introduction of singles<br>2. Introduction of rules of singles<br>3. Analysis on singles and doubles<br>4. Demonstration on smashing and practice<br><br>Week 16~ week 17<br>Final test        <br>Doubles (play, umpire, hitting, game reaction, footwork, rules)<br>"
+    },
+    "weeklySchedule": "一.1.課程簡介及修課須知說明<br>   2.師生溝通與分組<br>   3.穿著運動服裝，準時上、下課<br>二.1.加強上課前的熱身動作，減少運動傷害<br>   2.單打規則複習及發球規則講解 <br>   3.單打半場比賽分組練習<br>三.1.雙打規則講解<br>   2.發短球介紹<br>   3.高遠球發球練習<br>四.綜合練習:高遠球發球練習、長球、雙打比賽練習<br>五.綜合練習:發短球、高遠球發球練習、長球、雙打比賽練習<br>六.1.全場攻守練習<br>   2.雙打戰略戰術<br>   3.分組練習<br>七.1.全場攻守練習<br>   2.雙打練習<br>   3.裁判實習<br>八.期中術科測驗:<br>九.期中術科測驗:<br>十.1.雙打隊型介紹、規則研討、裁判手勢及實習<br>   2.雙打分組循環賽<br>十一.雙打分組循環賽及裁判實習。(分組比賽名次依序給分，除羽球技術特佳之同學外，最高分 95 分，最低分  <br>     60 分。)<br>十二.雙打分組循環賽及裁判實習<br>十三.雙打分組循環賽及裁判實習<br>十四.雙打分組循環賽及裁判實習<br>十五.期末術科測驗:<br>十六.期末術科測驗:<br>十七.期末術科測驗:<br>十八.筆試測驗(規則及常識測驗)<br>",
+    "exams": {
+        "midterm": "1撿球連續5球  2.發長球左右5球 3.長遠球對傳",
+        "final": "體育常識測驗",
+        "other": "實作演練與分組測驗"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過羽球其運動的正確學習，提升個人的體適能及正確的運動態度與技能",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "透過羽球運動技巧的訓練，養成終生運動的習慣，享受高齡化的社會",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "透過羽球運動尋找適合的球伴，以從中培養良好的人際關係及健康的生活",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "從羽球比賽養成與他人互動和發展友誼的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "透過羽球比賽養成與他人互動和發展友誼的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "經由羽球比賽，訓練個人的抗壓性及情緒管理，進而培養勝不驕敗不餒的運動精神",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "透過羽球運動培養團隊精神，以團體的目標強化團隊的互助合作精神",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "經由羽球比賽及影片欣賞，培養對運動藝術與美個欣賞能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "中華民國羽球協會網站<br>http://www.ctb.org.tw/default.asp<br>羽毛球訓練技術(江明宏 信宏出版社，2005)<br>羽毛球拍打技巧(江明宏 信宏出版社，2005)<br> 羽球運動-教學與訓練.涂國誠 2007.品度出版<br>",
+    "teachingSoftware": "1.上網查詢羽球規則及比賽新資訊。\n2.flipClass數位學習",
+    "rules": "1.穿著適合運動之服裝及遵守上課規定。<br>2.如有重大或慢性疾病,請事先告知教師。<br>3.上課不遲到，不無故缺席。<br>4.請自備球拍及球。<br>5.注意運動安全。<br>6.課程評分依據:<br> (1)平時分數:上課服裝、出席率、學習態度占40%、曠課次數勿超過4次8節(含4次)導致平時成績嚴重扣分不及格。<br> (2)期中、期末術科測驗50%<br> (3)筆試-常識與規則佔10%<br>"
+}

@@ -1,0 +1,127 @@
+{
+    "code": "I0N13201",
+    "name": {
+        "zh": "特殊幼兒教育",
+        "en": "Special Education for Young Children"
+    },
+    "credit": "3",
+    "type": "管制必修",
+    "classes": [
+        "夜二技教保三甲"
+    ],
+    "instructors": [
+        "陳志盛"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第4節",
+            "location": "W0404"
+        },
+        {
+            "day": "週六",
+            "period": "第5節",
+            "location": "W0404"
+        },
+        {
+            "day": "週六",
+            "period": "第6節",
+            "location": "W0404"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "從大腦發展與身心機能之關係開始，介紹特殊幼兒之成因與基本因應之道。然後介紹特殊幼兒之教育與輔導重點、各類特殊幼兒之定義與身心特質。最後介紹教育與輔導特殊幼兒之診斷、課程、安置與未來展望。<br><br><br>素養指標：<br>【專業素養2】<br>2-1 了解並尊重學生身心發展、社經與文化背景之差異，以作為教學及輔導之依據。<br>2-2 了解並運用學習原理，以符合學生個別之學習需求及發展。<br>2-3 了解特殊需求學生之特質與鑑定歷程，以提供適切之教育及支持。<br><br>核心內容：<br>【專業素養2】<br>(5)特殊需求幼兒身心特質、教學及輔導、(6)幼兒園融合教育理論及實施、(7)特殊教育幼兒之個別化教育計畫（IEP）。",
+    "prerequisites": "兒童發展\n兒童行為觀察與紀錄\n教育心理學",
+    "syllabus": {
+        "zh": "一、課程簡介         二、特殊幼兒教師的心理準備<br>三、特殊兒童與其教育重點概述<br>四、腦發展與身心機能發展之關係  五、身心障礙幼兒早期教育<br>六、智能障礙幼兒教育            七、學習障礙幼兒教育<br>八、自閉症與嚴重情緒障礙幼兒教育<br>九、肢體障礙與身體病弱幼兒教育<br>十、視覺障礙與聽覺障礙幼兒教育<br>十一、溝通障礙幼兒教育<br>十二、多重障礙幼兒教育           十三、資賦優異幼兒教育<br>十四、嬰幼兒特殊教育診斷、安置與課程 <br>十五、特殊幼兒親職教育 <br>十六、我國嬰幼特殊教育發展之現況未來願景",
+        "en": "Week 1-3.The preliminary conceptions of special education. .(1)The definition of exceptional young children. (2)The historical development and legal foundations of special education.<br>Week 4-14 The categories assessment and educational services of exceptional young children .(1)Mental retardation.(2)Communication disorders.(3)Autism.(4)Hearing impairments. (5)Visual impairments.(6)Orthopedically impairments.(7)Gifted, creative and talented.<br>Week 15 .Exceptional young children and families(1).Support to families of exceptional young children .(a)To recognize the families of exceptional young children.(b)To recognize the support systems to the families of exceptional young children. (2)Parent-teacher interaction."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能正確描述各類特殊幼兒的定義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解各類特殊幼兒的主要成因與身心特質",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能統整幼兒發展、全人教育與生態評量的理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "樂意積極為特殊幼兒探索合適的照護策略與方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養尊重個別差異，接納多元文化的態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

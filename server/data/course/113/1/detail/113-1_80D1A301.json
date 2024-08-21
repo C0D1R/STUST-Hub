@@ -1,0 +1,131 @@
+{
+    "code": "80D1A301",
+    "name": {
+        "zh": "金融大數據分析",
+        "en": "Big Data in Finance"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技財金三甲",
+        "四技財金三乙"
+    ],
+    "instructors": [
+        "王靜怡"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "S511"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "S511"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "S511"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著資訊科技的發展，使得資料倉儲的成本降低，隨之產生巨量的資料。而開源程式的蓬勃發展，使資料分析工具日益強大，因此產生了大數據分析的技術，使人們可試圖在龐雜的巨量資料中，找出其中的商業意涵。金融大數據分析即一門結合巨量資料管理、資料管理、統計建模分析與資料視覺化的跨領域技術。本門課將以應用廣泛的 Python 語言，作為金融大數據處理與分析的工具，透過資料庫、統計分析、與資料視覺化等技術，實作金融資料建模與分析。",
+    "prerequisites": "Basic Concept of Finance, Statistics, and Programming.",
+    "syllabus": {
+        "zh": "1.\tPython程式語言的基礎語法。<br>2.\t資料蒐集與網路爬蟲<br>3.\t資料存取與SQL<br>4.\t資料處理與Pandas<br>5.\t資料分析與Scipy<br>6.\t資料視覺化與Matplotlib<br>",
+        "en": "1.\tFundamental of Python<br>2.\tData Collection and Web Crawler<br>3.\tData Storage and SQL<br>4.\tData Processing and Pandas<br>5.\tData Analysis and Scipy<br>6.\tData Visualization and Matplotlib<br>"
+    },
+    "weeklySchedule": "第1-3週 Python程式語言的基礎語法<br>第4-6週 資料蒐集與網路爬蟲<br>第7-8週 資料存取與SQL<br>第9週 期中考<br>第10-12週 資料處理與Pandas<br>第13-15週 資料分析與Scipy<br>第16-17週 資料視覺化與Matplotlib<br>第18週  期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試或報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能夠熟練使用統計學與投資學等的專業能力",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠運用商業應用建模與分析於實務面的技能與技巧",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠運用程式能力，整合並解決財務/商業應用方面的問題",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠具備上台簡報告與溝通的技巧",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "Python",
+    "rules": "1.課程講義會上傳到FlipClass，請同學自行下載使用。<br>2.本課程相當重視出席率及實作，請同學要常常到課，以免影響課程成績。"
+}

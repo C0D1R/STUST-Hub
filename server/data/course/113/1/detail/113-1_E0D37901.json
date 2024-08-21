@@ -1,0 +1,111 @@
+{
+    "code": "E0D37901",
+    "name": {
+        "zh": "媒體日文",
+        "en": "Media Japanese"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應日三甲",
+        "四技應日三乙"
+    ],
+    "instructors": [
+        "朱婉婷"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "N305"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "N305"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "言語の使用目的を自己表現、情報伝達の二つに大別した場合、メディア言語は後者に特化している点が特徴です。情報伝達文にはほとんど無限の応用範囲が想定でき、メディア日本語はそうした応用の第一歩と言えるでしょう。一方、現実にはメディア言語は基本的に「書き言葉」であり、習熟するには「読む」ことと「書く」こととを平行して練習すべきです。この科目では、まずメディア日文の原則とルールを把握し、次に「書く」場合の技法を習得することを眼目とします。メディアに特有の表現や文型を知ることには、必ずしも重点を置きません。新聞、テレビなど伝統メディアの日本語だけでなく、インターネット、SNS、ブログ、メールなどウェブ・メディアも、可能な限りカバーすることとします。文学的な表現や細部の技巧については、この科目では基本的に扱いません。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "2時数の授業ですので、前回授業で書いた習作の復習・コメント・討論、新しいサンプル教材を読みメディア日本語のパターンを知ること、学生諸君が自分で書いてみることの3部分に分けた授業とします。主な内容は<br>　・メディア日本語の種類、原則、ルールは何か。3～5回程度。<br>　・自己表現文と情報伝達文について。3回程度。<br>　・客観性を重んじた文章とはどのようなものか。個性は？　3回程度。<br>　・メディアによる表現の違い。応用する場合に注意すべきこと。3回程度。<br>　・メディア言語のクセ、制限、禁止表現。3回程度。<br>　・応用の範囲。第1学期では報告など初歩的な応用の練習。3回程度。<br>",
+        "en": "Considering the 2 hours class, one session shall be divided basically into 3 parts: review, comments and discussion; to read new samples and to understand various patterns of media Japanese; to write for training. Principal class contents are as follows:<br>-variety, principles and rules of media Japanese –3 to 5 sessions;<br>-difference of style between self-expression/communication – around 3 sessions;<br>-objectivity and individuality – around 3 sessions;<br>-difference of style among various media – around 3 sessions;<br>-features and restrictive rules of media Japanese – around 3 sessions;<br>-application range and elementary training of application – around 3 sessions.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "現代の各種メディアに現れる日本語の実態を知る。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "現代社会を生きる社会人としての各種メディアの適切な理解と利用方法（リテラシー）を身につける。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "現代社会における各種メディアを用いた日本語のコミュニケーションの方法を学び練習する",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "各種メディアに現れる言語や情報などを通じて、思考力や問題解決能力を養成する。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

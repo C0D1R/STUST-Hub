@@ -1,0 +1,144 @@
+{
+    "code": "G0D16701",
+    "name": {
+        "zh": "嵌入式系統實習",
+        "en": "Embedded Systems Design  Lab"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專資工三甲"
+    ],
+    "instructors": [
+        "薛雲太"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "J405"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "J405"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "J405"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "J405"
+        }
+    ],
+    "hours": {
+        "course": "4",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將介紹嵌入式系統的相關知識，包含了計算機結構、即時作業系統、C語言等內容，並搭配相關的實習項目如下：周邊實驗、網路通訊實驗、資料庫實驗、Web Server實驗。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 嵌入式系統簡介<br>2. 嵌入式硬體平台介紹—以樹梅派為例<br>3. 基本Linux作業系統指令操作實作<br>4. ARM 硬體架構介紹<br>5. Raspberry Pi 的系統安裝實作<br>6. Raspberry Pi供電系統介紹<br>7. Raspberry Pi 的 Toolchain系統安裝實作<br>8. Python語言實作<br>9. 周邊系統實作<br>a.GPIO實作<br>b.Motor實作<br>c.Sensors實作<br>d.Network實作<br>10. 網頁伺服器系統實作<br>a. apache2架設與實作<br>b. flask架設與實作<br>c. 網站分享感測資料<br>11  資料庫系統架設與實作<br>a. mySQL架設與實作<br>b. phpmyadmin架設與實作<br>",
+        "en": "1. Introductions<br>2. Embedded hardware platform—using Raspberry Pi<br>3. Embedded Linux Operating System setup and Lab<br>4. ARM hardware platform<br>5. Raspberry Pi setup and Lab<br>6. Raspberry Pi power supply system<br>7. Raspberry Pi Cross compiler setup<br>8. Python Labs<br>9. peripherals Labs<br>a.GPIO Lab<br>b.Motor Lab<br>c.Sensors Lab<br>d.Network Lab<br>10. Webserver setup and Lab<br>a. apache2 setup and Lab<br>b. flask setup and Lab<br>c. sharing sensing data Lab<br>11 Database setup and Lab<br>a. MySQL setup and Lab<br>b. phpmyadmin setup and Lab"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "嵌入式硬體平台介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "嵌入式軟體環境架設與實作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "周邊系統實作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "資料傳遞與分享技術實作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "系統整合實作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "期末專題製作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

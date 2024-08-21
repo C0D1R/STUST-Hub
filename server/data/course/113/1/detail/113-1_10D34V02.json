@@ -1,0 +1,116 @@
+{
+    "code": "10D34V02",
+    "name": {
+        "zh": "汽車綜合檢修實習(一)",
+        "en": "Automobile Repair Practice (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技車輛三乙"
+    ],
+    "instructors": [
+        "許哲嘉"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "R101"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "R101"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "R101"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.1.乙級汽車修護技術士證照",
+        "2.2.丙級機車修護技術士證照"
+    ],
+    "description": "對汽車進行診斷、檢測、維修並教授汽車修護廠規劃與管理的專門知識。",
+    "prerequisites": "汽車原理相關課程",
+    "syllabus": {
+        "zh": "1.汽車引擎檢修。<br>2.汽車底盤檢修。<br>3.汽車電系檢修。<br>4.全車綜合檢修。<br>5.輪胎與輪圈檢測、平衡與維修。<br>6.汽車修護工具及設備簡易故障排除及安檢。",
+        "en": "1.automotive engine inspection and repair<br>2.automotive chassis check and repair<br>3.automotive electrics diagnosing and troubleshooting<br>4.automobile comprehensive check and repair<br>5.engine components disassembling, inspection and assembling<br>6.automotive chassis components disassembling, inspection and assembling<br>7.automotive electrics disassembling, inspection and assembling<br>8.tire and wheel inspection, balance and service<br>9.automotive repairing tool, troubleshooting and safety check"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉引擎控制系統專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升對汽車的檢修的興趣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以學理念解釋感測元件故障波形",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀專業手冊",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

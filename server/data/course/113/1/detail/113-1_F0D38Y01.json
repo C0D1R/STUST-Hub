@@ -1,0 +1,116 @@
+{
+    "code": "F0D38Y01",
+    "name": {
+        "zh": "後製影像特效",
+        "en": "Video Post-production and VFX Program"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資傳二甲",
+        "四技資傳二乙"
+    ],
+    "instructors": [
+        "吳秉澤"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "W0608"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "W0608"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "W0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "具備動態影像設計的能力，已經是每個影像相關工作者不可或缺的能力，如今企業影片內容需求越來越多，你會需要更多技術來完成整個影片的製作。<br><br>課程主要以 Adobe After Effect 視訊特效軟體為主軸，整合 PhotoShop、Illustrator 素材與其它相關軟體工具，讓同學了解影片製作所須進行的軟體間整合的觀念！進而激發學生對影視特效藝術的興趣，提高其鑑賞能力，並增進學生對各類型影視特效的認識，擴充對藝術的認知。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "影片製作流程介紹<br>After Effects的介紹<br>認識AE的Transform動畫<br>遮罩(Mask)的操作與運用與內建特效使用<br>3D Layer的使用與<br>燈光鏡頭的運用<br>Keying去背<br>文字特效<br>粒子特效<br>Track Motion特效整合",
+        "en": "1.\tIntroduction to the film production process<br>2.\tIntroduction to After Effects<br>3.\tMeet AE's Transform animation<br>4.\tMask operation and use and built-in effects<br>5.\tThe use of 3D Layer and<br>6.\tUse of light lens<br>7.\tKeying to back<br>8.\tText effects<br>9.\tParticle effect<br>10.\tTrack Motion effects integration<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "加強同學間的相互討論、研究",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升影像視覺、色彩的運用與掌控",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培育特效製作概念，對於影視製作發想能有更獨特的看法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過課程的學習，能夠獨立製作特殊動畫效果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

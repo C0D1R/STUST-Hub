@@ -1,0 +1,111 @@
+{
+    "code": "1DD02Q02",
+    "name": {
+        "zh": "創業概論",
+        "en": "Introduction to Entrepreneurship"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技流音四乙"
+    ],
+    "instructors": [
+        "徐志杰",
+        "葉家彰"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "W1012"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "W1012"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將引領學習者了解企業家精神(Entrepreneurship)與創新的本質意涵。課程中學生將從理論基礎與實務案例的討論中獲得創業所需具備之專業知識與心態,並認知到創業的可能風險。完成本課程後，學生將具備創業所需之專業知識，包含市場分析與撰寫營運計劃書之能力。這些專業知識與技能可以廣泛應用於各種商業環境與情況中，讓學生未來不論在創業或職場中更具競爭力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.什麼是企業家精神(Entrepreneurship)？<br>2.你的創業想法是什麼？這個想法將如何影響市場的變化？<br>3.你的創業計畫是什麼？<br>4.你想如何執行你的創業計畫？<br>",
+        "en": "1.What is entrepreneurship? <br>2.Develop your startup idea: what do you bring to the market?  <br>3.What is your business plan? <br>4.How do you make it work? <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解創業所需具備的專業知識與心態",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習創業理論的方法與原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探索有利於創業的可能資源",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "將創業理論概念應用於你的想法中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

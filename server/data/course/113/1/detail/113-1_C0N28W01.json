@@ -1,0 +1,116 @@
+{
+    "code": "C0N28W01",
+    "name": {
+        "zh": "英語聽力訓練",
+        "en": "English Listening Comprehension Practice"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜二技應英三甲",
+        "夜四技應英一甲"
+    ],
+    "instructors": [
+        "周俊男"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "N310"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "N310"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "N310"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "English listening and oral training lessons are designed for all college students to improve their abilities of listening and speaking. Hopefully, they can have a fluent English conversation ability.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "學生將能做到下列聽講活動練習：<br>1.辨識名稱地點並簡要介紹自己。<br>2.辨識人物外表特色並描述朋友及家人。<br>3.理解個人時程表並安排會面及活動。<br>4.推論及辨識物品位置並與家人朋友協議。<br>5.理解方向指引並能詢問及指引方向。<br>6.理解特殊狀況及經歷並談論周末計畫及活動。<br>8.掌握基本對話技巧。<br>9.運用正確文法要點進行溝通。<br>",
+        "en": "Students will be asked to do the following listening and speaking practices:<br>1.Identify names and locations and make a self-introduction to a group of people.<br>2.Identify physical features and describe friends and family members.<br>3.Understand personal schedules and make a date.<br>4.Identify locations of objects and negotiate with parents and friends.<br>5.Follow map directions, ask for and give directions.<br>6.Understand situations and topics and talk about weekends.<br>7.Develop sub-skills of listening.<br>8.Manage basic interaction skills.<br>9.Demonstrate the control of communication using the correct grammar.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "習得英文日常生活會話字彙、用法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "聽懂英文日常生活會話",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升專注力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成團隊合作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

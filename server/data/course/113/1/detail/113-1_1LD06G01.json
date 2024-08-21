@@ -1,0 +1,175 @@
+{
+    "code": "1LD06G01",
+    "name": {
+        "zh": "商業美學與文創藝術─在地文化與城市文創",
+        "en": "Business Aesthetics，Local Culture and City Creative Arts"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "蕭百芳"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "N201"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "N201"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "N201"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "由當前國際上的文創趨勢與實例，了解各國文創產業的策略，再反觀台灣當今文創藝術的現況，討論台灣文創藝術實例的可行性、前瞻性與未來性。為了讓學生有實作的經驗，引導學生關懷學校所在地的古都台南，嘗試討論府城文創的議題，關注府城文化園區，，希望學生能以住民、市民以及公民的身份，到文化園區作實際的五感接觸後，應用課程所學，讓在地文化得以永續經營。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "如課程概述，為讓課程活化應用，且以保存文化資產的全民教育，以及社區住民對於社區文化維護的自覺意識為職志，課程主軸有四大單元，以貼近「在地文化與城市文創」。如下：<br>一、品牌藝術與文創商機一~三<br>二、再生空間的文創美學一~六<br>三、城市魅力與旅遊文創商機一~四<br>四、影像藝術的城市行銷美學一~三<br>",
+        "en": "In order to make this course more practical, and to achieve the goals of establishing citizen consciousness for reservation and maintenance of cultural assets and community culture, there are 4 topics in this course:<br>1.\tBrand art and business opportunities for cultural creation (1)~(3)<br>2.\tAesthetics of cultural creation for the revival space (1)~(6)<br>3.\tCity charm and business opportunities of cultural creation for traveling (1)~(4)<br>4.\tCity marketing aesthetics of filming and image art (1)~(3)<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "統合日常生活、商業與文創藝術資訊，建立商業美學基礎知識(I3)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解當今國際文創藝術趨勢，對照與檢視台灣文創藝術目前的發展。(C2)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能統整所學的文創藝術知識與商業專業知識，提出具體可行的創新思維。(E3)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "形塑商業美學及文創藝術涵養(I2)。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能善用言語或肢體語言適切表達所欣賞城市文創作法(G3)。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "積極參與團體活動與人互助合作(H5)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "關懷保護在地文化，展現永續發展的價值。(J4)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "詮釋當代公民應具備維護在地文化的基本知能。(A2)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "並於生活中展現理性批判能力。(I4)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

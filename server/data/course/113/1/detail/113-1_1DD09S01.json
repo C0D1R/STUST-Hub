@@ -1,0 +1,112 @@
+{
+    "code": "1DD09S01",
+    "name": {
+        "zh": "樂團合奏(二)",
+        "en": "Popular Music Ensemble II"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技流音二甲",
+        "四技流音二乙"
+    ],
+    "instructors": [
+        "莊承翃"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "W1021"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "W1021"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "本課程旨在培育學生的Live Band表演能力，藉由演奏經典曲目讓學生不僅可以磨練主修樂器的演奏詮釋，更能學習與其他樂器的配合與包容，強化學生聆聽力、編曲能力以及團體合作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、各類型流行歌曲之風格與詮釋<br>二、樂團合奏技巧<br>三、經典曲目之演奏",
+        "en": "1. All Types of Popular Music Genres and the Interpretation in Music Performance.<br>2. Developing Ensemble Skills .<br>3. Performing Classic Popular Songs."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "一、瞭解各類型流行歌曲之風格及詮釋方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "二、瞭解樂團合奏之技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "三、具備音樂創作或展演之模仿與創新能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "四、培養樂團成員之默契及團隊分工合作精神。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

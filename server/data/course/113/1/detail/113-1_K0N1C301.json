@@ -1,0 +1,175 @@
+{
+    "code": "K0N1C301",
+    "name": {
+        "zh": "多媒體網頁設計",
+        "en": "Multimedia Web Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技多樂三甲"
+    ],
+    "instructors": [
+        "楊政達"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "W0708"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "W0708"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "W0708"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以網頁設計為基礎，應用html、css、javascript，jquery方式完成動態介面的設計。建立學生於網頁設計的基本知識，以實作呈現響應式網頁技術。培養學生的基礎多媒體程式設計的基本能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.網頁使用性介紹<br>2.網頁優化介紹(SEO)<br>3.RWD 網頁規劃與設計<br>4.visual studio code 使用<br>5.HTML基本教學<br>6.CSS基本教學<br>7.javascrip基本教學<br>8.jquery基本教學<br>9.bookstrap基本教學<br>",
+        "en": "1.Introduction to Web Usability<br>2.Introduction to Search Engine Optimization(SEO)<br>3.RWD Web planning and design<br>4.Slicing illustrator/photoshop into HTML<br>5.HTML<br>6.CSS<br>7.Javascrip<br>8.jquery<br>9.bookstrap<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.網頁使用性介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.網頁優化介紹(SEO)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.RWD 網頁規劃與設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.visual studio code 使用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5.HTML基本教學",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6.CSS基本教學",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "7.javascrip基本教學",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "8.jquery基本教學",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "9.bookstrap基本教學",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

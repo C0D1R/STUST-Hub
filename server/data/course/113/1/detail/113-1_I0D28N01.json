@@ -1,0 +1,110 @@
+{
+    "code": "I0D28N01",
+    "name": {
+        "zh": "跨語言文化溝通(二)",
+        "en": "Cross-language and cultural communication(Ⅱ)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技幼保二甲"
+    ],
+    "instructors": [
+        "魏欣儀"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "W0502"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "W0502"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "認識幼兒園會接觸的英語詞彙，以及所需的英文表達溝通；另外並選讀英文繪本，以循序漸進的方式培養聽、說、讀、寫四個能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 幼兒園相關英文用語<br>2. 幼兒園生活英語對話<br>3. 英文繪本選讀<br>4. 英語溝通表達",
+        "en": "1. English vocabulary for kindergarten<br>2. English conversation in kindergarten<br>3. Selected Readings in English Picture Books<br>4. English communication"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識幼兒園相關之英語詞彙",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉英文繪本",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進聽說讀寫之技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養幼兒園英語教學之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

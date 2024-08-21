@@ -1,0 +1,111 @@
+{
+    "code": "1CD03A01",
+    "name": {
+        "zh": "使用者經驗設計",
+        "en": "Introduction to user experience design"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技產設三甲"
+    ],
+    "instructors": [
+        "張育銘"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "E0507"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "E0507"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "讓同學們瞭解使用者經驗設計的基本概念，演進，流程與相關的心理學,設計研究方法論,透過案例與論文討論，去學習UX相關知識與方法，深化使用者經驗設計的基礎架構，並運用在實際設計專案上。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.使用經驗設計（ＵＸ）的基本概念與內涵<br>2.UX演進<br>3.UX流程<br>4.UX運用的基本設計心理學<br>5.UX的指標<br>6.UX的改善：使用性研究的運用<br>7.UX的案例討論<br>",
+        "en": "1. Basic understanding in the concepts and connotations of using experience design (UX)<br>2.UX evolution<br>3.UX process<br>4. Basic design psychology of UX application<br>5. UX indicators<br>6. UX improvement: the usability research application<br>7.UX case discussion"
+    },
+    "weeklySchedule": "週\t日期\t課程內容<br>1\t9/12\t課程簡介與意見交流\t提出分組名單<br>2\t9/19\t從自身經驗來了解UX與UX-D\t發表與討論(評分)<br>3\t9/26\tDiscover-調查與使用者調查方法&amp;實務\t為了理解使用者，發覺使用者的問題或需求為目標，實際進度得由各組進行微調<br>4\t10/3\tDiscover-調查與使用者調查方法&amp;實務\t<br>5\t10/10\t放假\t<br>6\t10/17\tDiscover-使用者分析\t<br>7\t10/24\tDefine-定義&amp;描繪使與者\t<br>8\t10/31\t第一次發表: 願景\t發表與討論(評分)<br>9\t11/7\tDevelop-構想發展\t為了解決使用者問題/需求為目標，展開設計上之構想與測試。實際進度得由各組進行微調<br>10\t11/14\tDevelop-構想發展&amp;挑選\t<br>11\t11/21\tDevelop-細部構想與製作\t<br>12\t11/28\t第二次發表: 創新(含概念草模)\t發表與討論(評分)<br>13\t12/5\tDevelop-使用者測試&amp;評估\t為了製作最終成品為目標，實際進度得由各組進行微調<br>14\t12/12\tDevelop-問題發現與修正\t<br>15\t12/19\tDeliver-精模&amp;展示DM製作\t<br>16\t12/26\tDeliver-精模&amp;展示DM製作\t<br>17\t1/2\t第三次展示發表: 設計總成(含精模與展板)\t發表與討論(評分)<br>18\t1/9\t期末考周\t繳交期末報告<br>",
+    "exams": {
+        "midterm": "發表報告",
+        "final": "發表報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "增進設計知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "強化設計研究能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "提升解決問題能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "設計理念表達",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "UX從新手開始：使用者體驗的100堂必修課<br>使用者經驗的要素｜跨屏時代的使用者導向設計 第二版<br>深入理解工業設計：應用於使用者經驗與互動設計的原則<br>",
+    "teachingSoftware": "",
+    "rules": "教學與作業方式<br>首先針對主題在教師的說明之後，要求同學研讀資料後提出並經由集體討論，更清楚的瞭解UXD(UX-D)的理念。並由分組同學以實際操作的過程，循序演進以體驗設計的實際方法。<br>課題：各組選定之演練主題進行設計研究的演練<br>分組：約5人為一組<br>"
+}

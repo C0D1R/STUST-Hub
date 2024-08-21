@@ -1,0 +1,127 @@
+{
+    "code": "E0N0AD01",
+    "name": {
+        "zh": "日語導覽入門",
+        "en": "Tourism guidance in Japanese"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技應日四甲"
+    ],
+    "instructors": [
+        "王信心"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "T0113"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "T0113"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "T0113"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要目的是在幫助學生學習觀光導覽相關用語、導覽技巧，並培養以日語介紹台灣(特別是台南及台南週邊鄉市鎮)具特色的觀光景點的能力。<br>此外，也要提昇學生「一葉以知秋」的研究能力，透過各種資訊的蒐集來洞悉日本觀光客的喜好，如此才能比別人更早一步理解日本遊客想要看什麼?玩什麼?吃什麼?買什麼?進而嚐試設計出會受日本人喜歡的旅遊行程。<br>最後，還須培養學生溝通協調及遇事能冷靜思考、解決問題的能力。<br>",
+    "prerequisites": "1.具有經常自動自發上網收集並匯整資料的能力。\n2.具有敢於開口說日語的勇氣。",
+    "syllabus": {
+        "zh": "本課程主要目的是讓學生學習觀光導覽相關用語、導覽技巧，並培養以日語介紹台南及台南附近城市的觀光景點的能力。<br>課堂活動包括觀光相關語彙的學習、聽力訓練、導覽技巧、口語發表能力的訓練。課程內容是導覽台南、高雄、嘉義地區的名勝‧古蹟。以及介紹文化、宗教習俗活動、特色名產。 主要主題有:<br>1. 孔廟、赤崁文化園區、億載金城、安平古堡…<br>2. 關子嶺溫泉風景區、四草綠隧道、台江國家公園…<br>3. 特色街道漫步(神農街、正興街、國華路、海安路)<br>4. 鹽水蜂炮、七夕成人禮…的介紹<br>5. 台南特色小吃及伴手禮<br>6. 高雄或嘉義特色景點<br>",
+        "en": "This course is designed to provide the student with an opportunity to learn tour guide skills with Japanese vocabulary. This course also develops student’s ability to use Japanese to introduce scenic attraction in Tainan and nearby cities. <br><br> The course provides speaking and listening skills in Japanese language for tour guide. The content of this course includes a tour of places of great attraction and historic buildings with a culture introduction, religious customs and local products and souvenirs of Tainan, Kaohsiung and Chiayi in the classroom. Main topics include…<br>  1. Confucius Temple, Fort Provintia,Erkunshen Fortress, Anping Fort<br>  2. Guanziling Hot Spring, Sicao Wetlands, Taijiang National Park<br>  3. introduction of the  famous Street   ( Shennong St ., Zhengxing St., Guohua St.,  Hai’an Rd.,)<br>  4. introduction of Beehive fireworksandComing of age<br>  5. local cuisine and products and souvenirs of Tainan<br><br>  6. popular tourist places of interest of of Kaohsiung and Chiayi<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "達到日語聽‧說無礙的程度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠將手邊的中文旅遊資料快速翻譯成日文，並能以口說來介紹。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "介紹景點(地理)或文化歷史時能條理分明，另人易懂。如有遊客提問必須快速掌握對方想要知道的資訊重點，而不要答非所問。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "習得當受導覽之遊客發生嚴重或難解之問題時，要如何冷靜應對，並協助尋求種種資源來解決難題的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "彙整從台灣、日本網頁獲得的資訊來分析\n日本遊客的喜好，以企劃出受歡迎的旅遊行程。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

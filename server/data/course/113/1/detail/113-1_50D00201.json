@@ -1,0 +1,115 @@
+{
+    "code": "50D00201",
+    "name": {
+        "zh": "工作研究",
+        "en": "Work Study and Applications"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技工管三甲"
+    ],
+    "instructors": [
+        "李慈賢"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "T0802"
+        },
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "T0802"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "T0802"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過本課程，同學們可得到效率及改善的觀念以及合理化改善的基本手法。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.解決問題的工具<br>2.操作分析<br>3.人力工作設計<br>4.時間研究<br>5.評比<br>6.寬放<br>7.工作抽查\"<br>",
+        "en": "1.Problem-solving tools  <br>2. Operation analysis  <br>3. Manual work design  <br>4. Time study  <br>5. Performance rating  <br>6. Allowances  <br>7. Work sampling<br>"
+    },
+    "weeklySchedule": "工作研究是工業工程師的基本專業，其內容包含動作研究及時間研究二部分。動作研究與時間研究乃檢討如何應用程序與作業分析及動作經濟原理，使動作單純化、標準化以減少生產中不必要之浪費，並合理地對系統中的工作訂定各項作業標準及獎工制度以提高工作效率的一種科學。其相關的課程包含人因工程及工業安全衛生等，這些知識對提昇工作人員安全及工作品質有相當的助益。",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第6週及第15週筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養工作研究專業知識之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "訓練工作研究管理實務之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "提升工作研究計畫評估之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "增進工作研究書面報告之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

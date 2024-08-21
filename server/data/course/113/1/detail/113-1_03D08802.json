@@ -1,0 +1,105 @@
+{
+    "code": "03D08802",
+    "name": {
+        "zh": "導師時間(D)",
+        "en": "Tutor Meeting"
+    },
+    "credit": "0",
+    "type": "必修",
+    "classes": [
+        "教育學程－小"
+    ],
+    "instructors": [
+        "陳信豪"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "N102"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在導引學生逐步完成智能、技能與情意的學習，輔導學生培養所需的基本能力與專業素養。",
+    "prerequisites": "無特殊要求。",
+    "syllabus": {
+        "zh": "1.認知導師的角色與功能<br>2.充實學生生活內涵<br>3.培養學生求知的興趣<br>4.建立學生道德的行為<br>5.加強學習輔導<br>6.培養正向的自我概念<br>7.預防偏差行為<br>8.增進師生情誼 <br>",
+        "en": "1. To recognize the role and function of the tutor<br>2. Enrich the content of students’ life<br>3. To cultivate students' interest in anxiety of knowledge<br>4. To establish students’ moral behavior<br>5. Strengthen counseling in study<br>6. Develop a positive self-concept<br>7. Prevent deviation behavior<br>8. Enhance the friendship between teachers and students<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "輔導學生之生涯發展、專業學習與生活教育使其正常發展，養成健全人格。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "輔導學生運用學校資源，必要時，提供學生學習或心理困擾轉介服務。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "彈性運用導師時間，作為個別談話、班級座談及其他相關輔導或聯誼活動，增進師生情感。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "督導班級幹部負責填寫「班會與導師時間紀錄簿」並於期中考周和期末考周繳回諮輔組查閱",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

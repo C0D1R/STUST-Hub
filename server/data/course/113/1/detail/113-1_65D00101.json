@@ -1,0 +1,116 @@
+{
+    "code": "65D00101",
+    "name": {
+        "zh": "會計學(一)",
+        "en": "Accounting(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國商一甲"
+    ],
+    "instructors": [
+        "許淑鈴"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "S513"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S513"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S513"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The objective of the course emphasizes the construction of the basic financial accounting statements – the income statement, balance sheet, and cash flow statement – as well as their interpretation. We identify, explain and conduct the steps in the accounting cycle. We also explain the nature of a merchandising company and prepare all related entries for it. This course covers the topics in Financial Accounting, with a focus on the asset side of the balance sheet: Cash, accounts and notes receivable, inventory, marketable securities, equity investments, PPE, and intangibles.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、課程簡介 <br>課程目的、進度、評分方式 <br><br>二、會計基本概念 <br>1.會計的定義 <br>2.會計資訊的使用者 <br>3.會計發展的相關機構 <br><br>三、會計基本理論 <br>1.財務會計理論體系 <br>2.會計資訊的品質特性 <br>3.會計基本環境假設 <br>4.基本會計原則 <br>5.會計的操作限制 <br><br>四、會計科目與 借貸法則 <br>1.交易的定義 <br>2.會計科目的意義及其分類 <br>3.會計基本方程式的意義 <br>4.借貸法則及其運用 <br><br>五、會計處理程序 <br>1.會計循環的定義 <br>2.分錄與普通日記簿 <br>3.過帳與總分類帳 <br>4.試算與試算表 <br>5.調整與調整後試算表 <br>6.結帳與結帳後試算表 <br>7.編製財務報表 <br><br>六、買賣業會計 <br>1.銷貨收入的會計處理 <br>2.進貨的會計處理 <br>3.銷貨成本的計算 <br>5.編製財務報表 <br><br>七、存貨 <br>1.存貨的意義 <br>2.存貨數量的衡量 <br>3.存貨成本流動假設 <br>4.存貨的續後評價 <br>5.存貨的估計方法 <br><br>八、現金與內部控制 <br>1.現金及銀行存款的定義 <br>2.零用金制度 <br>3.內部控制 <br><br>九、應收款項 <br>1.應收帳款的意義及其評價 <br>2.應收票據的意義及其性質 <br>3.應收票據的評價及貼現 <br><br>十、固定資產及無形資產 <br>1.固定資產的意義 <br>2.折舊之計算 <br>3.固定資產之處分 <br>4.無形資產的會計處理",
+        "en": "The course will cover the following important topics:<br>1. Accounting in Business<br>2. Analyzing and Recording Transactions<br>3. Adjusting Accounts and Preparing Financial Statements<br>4. Completing the Accounting Cycle<br>5. Accounting for Merchandising Operations<br>6. Inventories and Cost of Sales<br>7. Accounting Information Systems<br>8. Cash and Internal Controls<br>9. Accounting for Receivables<br>10. Long-Term Assets"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能體認正確嚴謹應用會計方法的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對管理問題有效辨識適當的會計方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用會計方法分析管理實務資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現資料分析結果，讓不懂會計專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

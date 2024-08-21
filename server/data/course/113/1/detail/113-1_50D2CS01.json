@@ -1,0 +1,115 @@
+{
+    "code": "50D2CS01",
+    "name": {
+        "zh": "商品攝影",
+        "en": "product photography"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電商二甲"
+    ],
+    "instructors": [
+        "丁介人"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "T0806"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "T0806"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "T0806"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹商品攝影之內容，培養學生商品攝影實作的能力，以提供電子商務及各種應用之需要。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "商品攝影概論<br>攝影機操作<br>打光<br>道具布景<br>修圖<br>商品主題攝影<br>人像主題攝影<br>美食主題攝影<br>男友視角攝影<br>",
+        "en": "Introduction to Commodity Photography<br>camera operation<br>Lighting configuration<br>props set<br>edit image<br>Commodity themed photography<br>Portrait Themed Photography<br>Food Themed Photography<br>boyfriend perspective photography<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能統合業主的需求與進度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠製作有獨特的作品",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能正確操作攝影器材與修圖軟體",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠製作符合業主需求之作品",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

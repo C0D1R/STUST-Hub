@@ -1,0 +1,129 @@
+{
+    "code": "10D25701",
+    "name": {
+        "zh": "精密機械概論",
+        "en": "Introduction to Precision Engineering"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控一甲",
+        "四技自控一乙"
+    ],
+    "instructors": [
+        "吳俊穎"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "K302"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "K302"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "K302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "本課程儘量避免艱深的理論與數學，而以觀念的介紹與建立為目標。另外以相關的圖片和影片作為輔助教材，以增進同學們對課程的理解與認識。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.概論<br>2.精度觀念<br>3.精密量測工具<br>4.傳統工具機<br>5.非傳統工具機<br>6.精密加工技術與先進科技第十二週: 超精密微細加工的動向",
+        "en": "1. Introduction<br>2. Accuracy<br>3. Precision Measurement Tools<br>4. Traditional Machine Tools<br>5. Non-Traditional Machine Tools<br>6. Precision Machining Technique and Advanced Technology<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉精密機械及工程分析流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉分析軟體的操作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "執行結構強度與振動分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "由實際案例提出改善方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成準時上課與專注的習慣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

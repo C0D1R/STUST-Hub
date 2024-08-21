@@ -1,0 +1,115 @@
+{
+    "code": "J0D38P01",
+    "name": {
+        "zh": "版印設計",
+        "en": "Printing Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技創設二甲"
+    ],
+    "instructors": [
+        "童鼎鈞"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "W0601"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "W0601"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "W0601"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "培養具有版印設計概念及實務經驗之專業平面設計人才，教學以版印技術與設計應用相輔相成。<br>Cultivate professional graphic design talents with printing design concepts and practical experience. Teaching uses printing technology and design application to complement each other.",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "(1) 版印設計概念介紹 <br>(2) 版印設計的分類及原理特性簡介 <br>(3) 印版製作方法與流程講解 <br>(4) 版印設計注意事項與材質的選擇 <br>(5) 創意版印設計與成品製作<br>",
+        "en": "(1) Introduction to Printing Design Concept <br>(2) Introduction to the classification and principle characteristics of printing design<br>(3) Printing plate making method and process explanation <br>(4) Matters needing attention in print design and material selection <br>(5) Creative printing design and finished product production<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "對於版印設計工作流程具備基本認識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解版印設計排版輸出等。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備基礎影像整合處理、文字編排與輸出集檔等作業能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備版印設計創意製作之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

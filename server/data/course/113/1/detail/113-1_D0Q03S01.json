@@ -1,0 +1,116 @@
+{
+    "code": "D0Q03S01",
+    "name": {
+        "zh": "行銷流通議題研討",
+        "en": "Topics on Marketing and Logistics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專行流一甲"
+    ],
+    "instructors": [
+        "薛健宏",
+        "鍾明志"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第12節",
+            "location": "T0212"
+        },
+        {
+            "day": "週六",
+            "period": "第13節",
+            "location": "T0212"
+        },
+        {
+            "day": "週六",
+            "period": "第14節",
+            "location": "T0212"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "此一課程透過各種專業主題之介紹，來深化理解理論與實務運用之關聯，使其掌握抽象理論之內含，進而擴大實務應用之精確性及可能性。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 行銷與物流常用的計量方法之探討<br>2. 數位行銷與廣告<br>3. 行銷研究之應用，針對行銷研究進行應用性介紹，期望學生能了解行銷研究之專業技能與其應用。<br>4. 服務品質,顧客價值和關係品質的介紹與分析<br>5. 利用\"價格\"與\"數量\"手段處理需求問題的管理實務. 應用範例包括: 航空公司, 美國大聯盟, 電子商務公司(Priceline), 迪士尼樂園, 鐵路公司等.<br>6. 數量分析在供應鏈與行銷決策分析<br>7. 供應鏈管理與資訊科技創新(supply chain management and IT innovation)<br>8. 商業4.0之發展趨勢與研究議題探討<br>9. 日本CVS在東協的業態發展競爭策略<br>10. 我們將會從行銷管理切入,再擴及零售管理,促銷管理與成本管控, 讓學生了解整個行銷管理在做的事及零售業管理應該知道的事<br>11. 介紹國內及國際物流產業概況與發展趨勢<br>12. 數位行銷的契機:虛實整合(020)之接軌<br>13. 企業文化之探討<br>14. (1)產品、商品、品牌與強力品牌(2)品牌定位(3)建構強力品牌(4)品牌相關議題與研究<br>15. 多元迴歸分析、變異數分析與深度訪談",
+        "en": "1. Quantitative Method for Marketing and Logistics <br>2. Digital Marketing and Advertising <br>3. Marketing Research <br>4. Service Quality, Customer Value and Relationship Quality <br>5. Application of Price and Quantity<br>6. Quantitative Method in Supply Chain <br>7. Supply Chain Management and IT Innovation<br>8. Commerce 4.0 <br>9. The Strategy of Japanese CVS in ASEAN <br>10. Retailing and Marketing <br>11. Trend analysis for Logistics Industry <br>12. O2O<br>13. Corporate Culture <br>14. Brand Equity <br>15. Multivariate Analysis and Depth Interview<br>"
+    },
+    "weeklySchedule": "1.管理與管理者<br>2.管理思想演進<br>3.企業經營環境<br>4.流通<br>5.企業社會責任與管理道德<br>6.規劃<br>7.決策<br>8.策略管理<br>9.期中考<br>10組織與組織設計<br>11.組織文化與組織變革<br>12.人力資源管理<br>13.激勵理論<br>14.領導<br>15.控制<br>16.行銷<br>17.其他行銷與流通相關議題<br>18.期末考",
+    "exams": {
+        "midterm": "日常表現",
+        "final": "書面報告",
+        "other": "暫無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "幫助學生了解學術上行銷管理的近況發展",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "幫助學生了解學術上流通管理的近況發展",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "幫助學生在行銷管理發展上創造學術貢獻",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "幫助學生在流通管理發展上創造學術貢獻",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "教師自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "無"
+}

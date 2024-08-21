@@ -1,0 +1,139 @@
+{
+    "code": "20D1EV01",
+    "name": {
+        "zh": "磁性元件設計概論",
+        "en": "Introduction to Magnetic Elements"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "五專電機四甲"
+    ],
+    "instructors": [
+        "洪得峻"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "I0303"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "I0303"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "I0303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "磁性元件廣泛應用於通訊、切換式電源、照明、充電器、電機驅動、智能電網及電動汽車等系統中，需依特定規格量身訂製之設計件。本課程首先從電磁理論出發，復習基本電磁感應原理，其次再針對常用的磁性材料進行介紹，並探討磁路分析、磁性元件模型及繞線，課堂中再導入電感器、電磁鐵、變壓器、濾波器、電源轉換電路、馬達及發電機等重要磁性元件及電機機械的應用設計，並輔以電腦輔助設計工具，最後闡述磁性元件發展趨勢及挑戰。本課程主要作為理工科同學的入門課程。以簡、易、淺、明為教學目標，並透過簡單的設計案例，令同學了解磁性元件的設計原理與方法，增進學生對於磁性元件的理解與設計能力的培養。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 電磁基礎<br>2. 磁性材料及繞線<br>3. 磁路分析<br>4. 磁性元件建模<br>5. 磁性元件損耗分析<br>6. 電感器、電磁鐵設計<br>7. 變壓器設計<br>8. 類比濾波器設計<br>9. 電源轉換電路<br>10. 馬達、發電機<br>11. 磁性元件發展趨勢",
+        "en": "1. Electromagnetic Induction<br>2. Magnetic Materials and Winding<br>3. Magnetic Circuit Analysis and Simulation<br>4. Modeling of Magnetic Elements<br>5. Losses<br>6. Design of Inductors and Electromagnetic Actuators<br>7. Transformer Design<br>8. Analog Filter Design<br>9. Power Converter Circuits<br>10. Motor and Generator<br>11 The Trends of Magnetics"
+    },
+    "weeklySchedule": "第1章磁學基礎<br>第2章磁性材料及其特性<br>第3章磁心<br>第4章窗口的利用、勵磁導線和絕緣<br>第5章變壓器的設計折中<br>第6章變壓器—電感器的效率、調整率和溫升<br>第7章功率變壓器設計<br>第8章用開氣隙的磁心設計直流（DC）電感器<br>第9章採用粉末磁心的直流（DC）電感器設計<br>第10章交流（AC）電感器的設計<br>第11章恆壓變壓器（CVT）<br>第12章三相變壓器設計<br>第13章反激變換器及其變壓器設計<br>第14章正激變換器及其變壓器和輸出電感器設計<br>第15章輸入濾波器設計<br>第16章電流變壓器設計<br>第17章繞組電容和漏感<br>第18章靜音變換器設計<br>第19章旋轉式變壓器設計<br>第20章平面變壓器<br>第21章設計公式的推導<br>第22章自耦變壓器設計<br>第23章共模電感器設計<br>第24章串聯飽和電抗器設計<br>第25章自飽和磁放大器<br>第26章給定阻值電感器設計",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末考",
+        "other": "平時作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "電磁基礎",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "磁性材料及繞線",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "磁路分析,磁性元件建模,磁性元件損耗分析",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "電感器、電磁鐵設計、變壓器設計、類比濾波器設計",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "電源轉換電路、馬達、發電機",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "磁性元件發展趨勢",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "變壓器與電感器設計手冊-第4版",
+        "author": "Colonel We.T.Mclyman 著 周京華 等 譯",
+        "publisher": "中國電力出版社",
+        "year": "2014",
+        "ISBN": "9787512350625",
+        "edition": "4"
+    },
+    "referenceBooks": "https://www.520101.com/html/ebook/1936547472.html<br>變壓器與電感器設計手冊-第3版<br>ISBN:7512350627<br>ISBN-13:9787512350625",
+    "teachingSoftware": "",
+    "rules": ""
+}

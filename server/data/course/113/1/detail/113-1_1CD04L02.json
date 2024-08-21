@@ -1,0 +1,115 @@
+{
+    "code": "1CD04L02",
+    "name": {
+        "zh": "材料與製程",
+        "en": "Material and process selection"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技產設二乙"
+    ],
+    "instructors": [
+        "劉大琦"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "X302"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "X302"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "X302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程主要以工業設計材料應用與製成技術進行教學，由基本的3D圖面開始進行拆模分件基本知識，到了解產品成型的條件內容與機構結合方法，並建立產品組裝流程之重要性，且考量不同成型之限制條件，讓學生建立基本產品材料與製程上概念。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1/3D圖面與製程之基本概念<br>2/產品成型條件與結合方式<br>3/產品設計與商品組裝流程之關係<br>4/複合材料之應用與不同製程成型方式<br>5/產品解構與實例說明<br>6/整合性創新機構之應用",
+        "en": "1. 3-dimensional mechanical drawing and manufacturing processes<br>2. Introduction to production and operation management<br>3. Introduction to product design and assembly<br>4. Introduction to multiple materials and manufacturing processes<br>5. Introduction to product disassembly<br>6. Introduction how to apply new manufacturing processes to product design"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "3D圖面與模具製成程之概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "產品設計與組裝流程之關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "複合材料應用與成型方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "整合性創新機構之應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

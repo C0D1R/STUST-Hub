@@ -1,0 +1,128 @@
+{
+    "code": "H0D14E01",
+    "name": {
+        "zh": "微生物實驗",
+        "en": "Experiment of Microbiology"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技食品二甲",
+        "四食品國專二甲"
+    ],
+    "instructors": [
+        "林家妤"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "I1005"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "I1005"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "I1005"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "顯微鏡的基本介紹、細菌簡單染色法、鑑別染色法、過濾法、加熱法及高溫高壓處理法、培養基的製備及無菌操作技術、細菌的接種、培養、分離及保存",
+    "prerequisites": "生物學",
+    "syllabus": {
+        "zh": "1. 顯微鏡的使用及菌種觀察<br>2. 培養基的製備<br>3. 各種滅菌法<br>4. 微生物的大小測量與型態觀察<br>5. 細胞數量的測量<br>6. 革蘭氏染色<br>7. 斜面培養與真菌菌絲培養",
+        "en": "1.The usage of microscopy and the observation of microbial strain<br>2.The preparation of cultural media<br>3.The different methods of sterilization<br>4. Measurement of the microbial size and Observation its morphology <br>5.count of the amount of cell<br>6.Gram stain<br>7.The culture of fungal mycelium with slant"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解研究設計及資料收集方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會無菌操作技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會資料分析及整理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道如何將資料作出推論與預測",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能與同學討論完成練習題目",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,115 @@
+{
+    "code": "08D03N01",
+    "name": {
+        "zh": "越南語言與文化(A)",
+        "en": "Vietnam Language and Culture"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "黎幸草"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "T0311"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0311"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0311"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程提供越南實用詞語、常用的詞語，在短期內能聽、說、讀、寫常用越南語，例如：自我介紹、打招呼等，除此之外，能更了解越南傳統文化，越南美食，越南的觀光經典及奇特色。上課時先進行會話練習，鼓勵學員課堂上多多利用越南語交談、練習發音、語法、辭彙，進而開始了解語言的使用方法<br><br>This course is designed to give the full introduction for beginners who start learning Vietnamese language",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 越南語字母、音調、拼字與發音<br>2. 數字<br>3. 日常生活會話<br>4. 文法<br>5. 越南文化",
+        "en": "1. Introduction of Vietnamese alphabets, tones, spelling and pronunciation.<br>2. How to say numbers using Vietnamese.<br>3. How to use Vietnamese language in daily conversation regarding to relationships.<br>4. Vietnamese grammar in use.<br>5. Understand of Vietnamese culture.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能建立國際化的視野",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解越南的傳統文化，並接納包容不同的文化差異",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "當到越南旅遊時，能應用越南語做簡單的溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能學會基礎的越南語聽、說能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,117 @@
+{
+    "code": "B0D05001",
+    "name": {
+        "zh": "領隊與導遊實務",
+        "en": "The Practice of Tour Leader"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "二技休閒四甲",
+        "四技休閒二甲",
+        "四技休閒二乙"
+    ],
+    "instructors": [
+        "潘盈仁"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "T0003"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "T0003"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "T0003"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.本課程為教育部卓越計畫補助 旅遊就學程之課程,其中八周由旅行業者專家授課。<br>2.所有課程內容的規劃與安排，將完全依據考選部導遊領隊證照考試內容而設計，並由授課老師親自設計課程與練習題目，以輔導學生考取領隊導遊執照。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "課程大綱 週次 日期 主題名稱 授課業界專家<br>1 9/15 課程簡介 　　　 蔡必昌<br>2. 9/22 領隊導遊概論 蔡必昌<br>3 9/29 領隊導遊概論　 蔡必昌<br>4. 10/6 旅遊契約 　　 順一旅行社王致遠總經理<br>5. 10/13 急救常識 　　 微風旅行社游勇訓總經理<br>6. 10/20 航空票務 　　 家樂福旅行社 陳愛玲經理<br>7. 10/27 出入境手續及法規 微風旅行社游勇訓總經理<br>8. 11/3 旅遊安全與緊急事件處理 家樂福旅行社 陳愛玲經理<br>9. 期中考1小時<br>10. 11/17 領隊帶團及旅遊現況 良友旅行社 張惠文 經理<br>11 11/24 導覽解說 高雄導遊公會理事長陳錫堅 導遊職前訓練講座<br>12 12/1 旅客心理 高雄導遊公會理事長陳錫堅 導遊職前訓練講座<br>13. 12/8 兩岸關係及現況 王百祿 家樂福旅行社 經理 導遊職前訓練講座<br>14 12/15 總複習考試及觀光政策 蔡必昌 <br>15 12/22 兩岸條例 王百祿 家樂福旅行社 經理 導遊職前訓練講座<br>16 12/29 總複習考試及國際禮儀 蔡必昌<br>17. 1/5 總複習考試及觀光法規 蔡必昌<br>18. 1/12 期末考2小時",
+        "en": "Course Outline Week Time Date Subject Name Teaching Industry Expert<br>1 9/15 Course Description Cai Bichang<br>2. 9/22 Introduction to the Leading Tour Guide Cai Bichang<br>3 9/29 Introduction to the Leading Tour Guide Cai Bichang<br>4. 10/6 Travel Contract General Manager of Shun Yi Travel Agency Wang Zhiyuan<br>5. 10/13 First Aid General Manager General Manager of the Breeze Travel Agency<br>6. 10/20 Air Ticketing Carrefour Travel Agency Manager Chen Ailing<br>7. 10/27 Exit and Entry Procedures and Regulations General Manager of Breeze Travel Agency<br>8. 11/3 Travel Safety and Emergency Management Carrefour Travel Agency Manager Chen Ailing<br>9. 1 hour of midterm exam<br>10. 11/17 Leading team and tourism status Liangyou Travel Agency Zhang Huiwen Manager<br>11 11/24 Guided explanations Chairman of the Kaohsiung Guides Association Chen Xijian Guided Pre-employment Training Seminar<br>12 12/1 Passenger Psychology Chairman of the Kaohsiung Guides Association Chen Xijian Guided Pre-employment Training Seminar<br>13. 12/8 Cross-strait relations and current situation Wang Bailu Carrefour Travel Agency Manager Guided Pre-employment Training Seminar<br>14 12/15 Total Review Examination and Tourism Policy Cai Bichang<br>15 12/22 Cross-Strait Regulations Wang Bailu Carrefour Travel Agency Manager Guided Pre-employment Training Seminar<br>16 12/29 Total Review Examination and International Etiquette Cai Bichang<br>17. 1/5 General Review Exam and Sightseeing Regulations Cai Bichang<br>18. 1/12 final exam 2 hours"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "輔導考取考試院之專業技術人員導遊、領隊考試",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識旅行業之業務範籌與其他觀光產業之搭配",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "領隊導遊帶團實務及技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養具服務熱忱之旅遊專才",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

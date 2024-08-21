@@ -1,0 +1,167 @@
+{
+    "code": "10N03801",
+    "name": {
+        "zh": "微機電系統",
+        "en": "Micro-Electro-Mechanical-Systems"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技自控四甲"
+    ],
+    "instructors": [
+        "楊博華"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "K404"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "K404"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "K404"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "讓學生對於微機電系統有總體的概念，其市場應用與理論基礎的範圍，之後再針對微加工製程進行介紹，包括光學微影製程、微機電材料科學、體型微細加工、面型微細加工、封裝測試等。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1. 微機電系統之簡介<br>2. 微機電系統之應用與市場<br>3. 微影技術<br>4. 薄膜沉積<br>5. 蝕刻技術<br>6. 封裝接合技術<br>7. 其他微製造技術",
+        "en": "1. Introduction to MEMS<br>2. Introduction to MEMS Applications and Marketing<br>3. Lithography<br>4. Thin film deposition<br>5. Wet etching<br>6. Dry etching<br>7. LIGA Process"
+    },
+    "weeklySchedule": "1. 課程簡介<br>2. 基礎知識 <br>3. 固體材料的製造技術 <br>4. 單晶、多晶薄膜的製造 <br>5. 電子資訊產業簡介<br>6. 微系統之硬體與軟體  <br>7. 類比與數位轉換器 <br>8. 與微系統相關的元件與應用 <br>9. 期中考 <br>10. 微系統的組成、製作及有關的產業 <br>11. 與微系統設計相關的產業 <br>12. 光學微影技術與光罩 <br>13. 封裝與測試產業 <br>14. 微機電系統技術 <br>15. 微致動器 <br>16. 微感測器 <br>17. 奈米科技 <br>18. 期末考",
+    "exams": {
+        "midterm": "Open Book",
+        "final": "Open Book",
+        "other": "以出席率替代"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解微機電系統與相關的應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解光學微影技術與光罩設計",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解體型微細加工技術",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解面型微細加工技術",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能搜尋應用於微機電技術的各種材料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "積體電路與微機電產業",
+        "author": "曲威光",
+        "publisher": "全華圖書股份有限公司",
+        "year": "2013",
+        "ISBN": "978-957-21-9185-9",
+        "edition": "初版"
+    },
+    "referenceBooks": "取消",
+    "teachingSoftware": "無",
+    "rules": "請各位同學要有智慧財產權觀念，課本不得非法影印。"
+}

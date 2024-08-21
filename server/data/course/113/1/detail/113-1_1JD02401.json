@@ -1,0 +1,127 @@
+{
+    "code": "1JD02401",
+    "name": {
+        "zh": "Aroma care芳香照護實務",
+        "en": "Practice of Aromatherapy"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技高福四甲"
+    ],
+    "instructors": [
+        "胡小玫"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "O304"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "O304"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "O304"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在幫助學生取得芳香照護師的專業資格。包含人體生理學與解剖學、整體治療概論、芳香療法理論與按摩實務，教導學生如何建立個案資料並追蹤長期影響效益。期藉由增進學生在此專業領域之認識與體驗，提昇其在高齡服務中健康照護實務之成效。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.人體解剖學及生理學<br>2.整體治療方式及整合生物學 <br>3.芳香療法理論概要<br>4.皮膚、接觸技巧與按摩 <br>5.個案演練與按摩操作 <br>6.單方精油詳介 <br>7.植物油與純露詳介 <br>8.個案資料記錄與報告撰寫<br>9.認證考試與講演練習Ⅰ <br>10.認證考試與講演練習Ⅱ <br>11.居家百寶箱:居家常見症狀用油與DIY <br>",
+        "en": "1.Human anatomy and physiology <br>2.Holistic treatment and integrated biology <br>3.Introduction of aromatherapy theory <br>4.Introduction of skin, contact skills and massage <br>5.Case drills and massage operations <br>6.Detailed introduction of unilateral essential oil <br>7.Detailed introduction of vegetable oil and pure dew <br>8.Case record and report writing <br>9.Certification exams and lecture exercises I <br>10.Certification exams and lecture exercises II <br>11.Common symptoms of essential oil at home and DIY<br>"
+    },
+    "weeklySchedule": "人體解剖學及生理學/芳療生理臨床應用<br>整體治療方式及整合生物學<br>整體治療方式及整合生物學<br>芳香療法理論概要<br>皮膚、接觸技巧與按摩<br>個案演練與按摩操作<br>單方精油詳介<br>植物油與純露詳介<br>個案資料紀錄與報告撰寫<br>認證考試與講演練習Ⅰ<br>認證考試與講演練習Ⅱ<br>居家百寶箱：居家常見症狀用油與DIY",
+    "exams": {
+        "midterm": "日常表現",
+        "final": "期末作業",
+        "other": "日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解芳香療法在高齡服務中健康照護之實務運用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能針對不同狀態，需要被照顧的個案，在不同環境中給予適當的芳香照護與關懷",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能正確執行按摩技巧實務",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能正確說出3種居家常見症狀用油並能自行調製",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能針對不同狀態，需要被照顧的個案，在不同環境中給予適當的芳香照護與關懷",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "PPT",
+    "rules": ""
+}

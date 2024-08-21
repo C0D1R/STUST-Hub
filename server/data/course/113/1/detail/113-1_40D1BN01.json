@@ -1,0 +1,127 @@
+{
+    "code": "40D1BN01",
+    "name": {
+        "zh": "化工裝置實習(一)",
+        "en": "Chemical Engineering Equipment Laboratory (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專化材三甲"
+    ],
+    "instructors": [
+        "賴孝武"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "I0711"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "I0711"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "I0711"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "藉由實作讓同學了解化工裝置理論與實務之相互配合與印證，從中熟悉化工裝置之基本操作、維護與管理，培養實驗廢棄物減量及污染防治之概念與習慣，使同學具備對工作職業安全、衛生知識及環保的理解與實踐。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t工廠安全防護演練<br>2.\t配管操作<br>3.\t流體輸送裝置操作─離心泵<br>4.\t流體輸送裝置操作─壓縮機<br>5.\t流量測量─流量計組合實驗<br>6.\t流體流動操作─雷諾數實驗裝置<br>7.\t流體流動操作─流體流動實驗裝置操作<br>8.\t熱交換器操作─雙套管熱交換器<br>9.\t熱交換器操作─殼館熱交換器<br>10.\t真空蒸發裝置操作<br>11.\t蒸餾裝置操作<br>",
+        "en": "1.\tFactory Safety Protection Drill<br>2.\tPiping Operation<br>3.\tFluid Transport Device Operation – Centrifugal Pump<br>4.\tFluid Transport Device Operation – Compressor<br>5.\tFlow Measurement – Flowmeter Combination Experiment<br>6.\tFluid Flow Operation – Reynolds Number Experimental Device<br>7.\tFluid Flow Operation – Fluid Flow Experimental Device Operation<br>8.\tHeat Exchanger Operation – Double Pipe Heat Exchanger<br>9.\tHeat Exchanger Operation – Shell and Tube Heat Exchanger<br>10.\tVacuum Evaporation Device Operation<br>11.\tDistillation Device Operation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過理論與實務之相互配合與印證，具備以符號、文字或口語表達專業內涵之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉化工裝置之基本操作、維護與管理，展現規劃、執行及溝通表達之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備職業安全衛生、職業倫理、良好工作習慣及關心環境與環保之素養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "表現團隊合作的精神及良好品德之素養，並以系統思考及科技運用的能力應用於化工產業的問題解決。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能思辨勞動法令規章與相關議題，省思自我的社會責任。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

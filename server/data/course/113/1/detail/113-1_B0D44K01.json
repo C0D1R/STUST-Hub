@@ -1,0 +1,134 @@
+{
+    "code": "B0D44K01",
+    "name": {
+        "zh": "計算機與程式設計概論",
+        "en": "Introduction to Computer and Programming"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技休閒一甲"
+    ],
+    "instructors": [
+        "楊智晶"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "T0509"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "T0509"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹網際網路之歷史沿革及電腦與網路新世代之運用",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "生活科技<br>電子書之製作<br>電腦與網路新世代<br>電腦資料表示法與數字系統<br>電腦硬體世界<br>電腦軟體<br>多媒體概說<br>檔案與資料庫<br>如何利用圖書館資源找資料?<br>圖書館各類型圖書資料的介紹與利用<br>圖書館各類型電子資料庫的利用<br>通訊網路入門與應用<br>網際網路新世代<br>全球資訊網<br>Web流行資源<br>資訊倫理與法律研究<br>輕輕鬆鬆學Word<br>Excel快速學習入門<br>Powerpoint簡報製作不求人",
+        "en": "Living Technology<br>Production of e-books<br>Computer and network new generation<br>Computer data representation and digital system<br>Computer hardware world<br>Computer software<br>Multimedia overview<br>Archives and databases<br>How to use library resources to find information?<br>Introduction and utilization of various types of library materials in the library<br>Utilization of various types of electronic databases in libraries<br>Communication network entry and application<br>Internet new generation<br>world Wide Web<br>Web popular resources<br>Information Ethics and Legal Research<br>Easy to learn Word<br>Getting started with Excel Quick Learning<br>Powerpoint newsletter production is not asking for people"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養具備休閒專業領域之電腦知識學能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解電腦與網路之歷史沿革及新世代之科技運用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備各類網際網路的連線上網技巧、了解網路資源之檢索方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "擁有電腦及相關設備之基本知識，並能使用電腦處理文書與專業事務。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "配合圖書館電子資料庫之操作演練及休閒系相關網路資源之蒐集學習,做為將來攥寫報告專題、獨立研究思考之能力培養。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "有組織、有條理的表達與溝通，能表現出應對進退的適當禮節，專注聆聽交談對象的說話內容，並給予積極回應之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

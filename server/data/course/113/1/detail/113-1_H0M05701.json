@@ -1,0 +1,172 @@
+{
+    "code": "H0M05701",
+    "name": {
+        "zh": "食品生物技術特論",
+        "en": "Advanced Food and Biotechniques"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研食品一甲"
+    ],
+    "instructors": [
+        "陳柏庭"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "I0702"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "I0702"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "I0702"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "生物技術基本定義為『利用生命現象的基本組成成分如：組織、細胞或生物分子來解決問題或製造出有用的產品』。本課程將介紹分子生物學上常見的各項技術相關原理與方法，分為六大主軸，以增進學生熟悉現代分子生物技術並能應用於生物科技之研發。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元一：生物技術概論：DNA 基本技術、RNA及轉錄相關技術<br>單元二：蛋白質及免疫技術、PCR、限制酶及其他核酸酵素、基因選殖、基因轉殖與剔除<br>單元三：生物技術之應用：基因體學、蛋白質體學<br>單元四：生物科技之產業應用：食品科技、人類健康管理與疾病診斷<br>單元五：倫理考量：國家政策與風險管理、人權問題、生物科技的未來發展<br>單元六：生物資訊：相關網路資源簡介",
+        "en": "Part I: Brief review of the underlying science: a. the nature of living things- how they function, genetic behavior, principle of genetic manipulation of organisms, rDNA technology.<br>Part II: Enabling technologies of biotechnology: cell and tissue culture, electrophoresis and blotting, molecular markers, PCR and DNA synthesis, genomic mapping and DNA sequencing, storage and retrieval of genetic informatiog.<br>Part III: Approach of biotechnology: structure of genomics, functional genomics, modifying protein production and function.<br>Part IV: Specific applications: food biotechnology, human health and diagnostics, industrial applications,"
+    },
+    "weeklySchedule": "1.生物技術發展歷史<br>2.生物技術的原理<br>3.生物技術設計概念<br>4.生物技術應用與整合<br>",
+    "exams": {
+        "midterm": "報告",
+        "final": "報告",
+        "other": "報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學生應該能夠了解生物技術在人類健康議題之應用",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學生應該學會微生物基本操作原理及動物的改造。",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學生應該學會科學儀器操作原理與步驟",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學生將可以學習各種生物醫學資料庫。",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學生將可以學習閱讀外文文獻並進行口頭報告",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

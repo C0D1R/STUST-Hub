@@ -1,0 +1,99 @@
+{
+    "code": "C0N2C801",
+    "name": {
+        "zh": "拉美音樂和歌曲",
+        "en": "Latino music songs and dance"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜二技應英四甲"
+    ],
+    "instructors": [
+        "安迪"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Bienvenidos a la musica latina. After the first two semesters you should have a very basic understanding of Spanish now. With this you will be able to enjoy the songs and develop an understanding of the lyrics.<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "正如本學期的標題所示，重點將放在 la musica latina 上； 你可能不知道的是，很多拉丁音樂都與舞蹈有著千絲萬縷的聯繫。 因此，您還將在本課程中了解不同的拉丁舞風格，包括探戈、巴查塔、梅倫格和莎莎舞。<br><br><br>",
+        "en": "As the title of this semester suggests the focus will be on la musica latina; what you may not know is that much of Latin music is inextricably linked to the dance. So, you will also be introduced to different Latin dance styles during this course including the tango, bachata, merengue and salsa."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解不同風格的歌曲",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Bachata 和 Merengue 他們來自哪裡？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "莎莎和古巴",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探戈與阿根廷",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

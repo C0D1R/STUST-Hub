@@ -1,0 +1,163 @@
+{
+    "code": "B0M43M01",
+    "name": {
+        "zh": "休閒趨勢分析及評估",
+        "en": "Leisure Trend Analysis and Evaluation"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研休閒二甲"
+    ],
+    "instructors": [
+        "丁千容"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "T0610"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0610"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0610"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Tourism demand forecasting play a key role in operational decisions, market planning and financial analysis. This course provides the student with the tools and methods necessary to understand, analyze, and apply tourism demand forecasting models.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 導論<br>2. 預測方法與評估<br>3. 觀光預測程序<br>4. 簡單外插法及分解法<br>5. 指數平滑法及自我回歸法<br>6. Box-Jenkins法<br>7. 迴歸分析法<br>8. 結構性計量經濟模式<br>9. 質性預測方法<br>10. 評估方法",
+        "en": "1. Introduction<br>2. Alternative forecasting methods and evaluation<br>3. The tourism forecasting process<br>4. Basic extrapolative models and decomposition<br>5. Intermediate extrapolative methods<br>6. An advanced extrapolative method<br>7. Causal methods- regression analysis<br>8. Causal methods- structure econometric models<br>9. Qualitative forecasting methods<br>10. Evaluation methods"
+    },
+    "weeklySchedule": "第一週(9/11) 課程介紹<br>第二週(9/18) 敘述性統計分析<br>第三週(9/25) 期末書面報告-第一部份-練習A<br>第四週(10/2) 迴歸分析(一)<br>第五週(10/9) 迴歸分析(二)<br>第六週(10/16) 變異數分析<br>第七週(10/23) 期末書面報告-第二部份-練習B<br>第八週(10/30) 單根、共整合與誤差修正項<br>第九週(11/6)  期中考週<br>第十週(11/13)   向量自我迴歸模型與向量誤差修正模型<br>第十一週(11/20) 期末書面報告-第三部份-練習C<br>第十二週(11/27) 因數分析<br>第十三週(12/4)  信度、效度分析<br>第十四週(12/11) 大數據與資料採礦(一)<br>第十五週(12/18) 大數據與資料採礦（二）<br>第十六週(12/25) 期末口頭報告(一)<br>第十七週(1/1) 放假<br>第十八週(1/8) 期末口頭報告(二)",
+    "exams": {
+        "midterm": "照常",
+        "final": "口頭、書面報告(佔總成績比重90%)",
+        "other": "作業, 平時表現(佔總成績比重10%)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解休閒產業的趨勢",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "分析預測休閒產業未來發展趨勢",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "具有運用數學模式預測的技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "對預測結果的具備解釋及評估能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.自製投影片<br>2.市場調查實務-問卷設計與研究分析(第二版)，2016吳柏林，謝名娟，新陸書局，ISBN：9789865761875<br>3.財務計量-Eviews的應用(一版修訂)，2011 鍾惠民，周賓凰，孫而音，新陸書局，ISBN：9789866333071<br>",
+    "teachingSoftware": "E-views",
+    "rules": "無"
+}

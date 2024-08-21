@@ -1,0 +1,114 @@
+{
+    "code": "01D16202",
+    "name": {
+        "zh": "專二英文(一)",
+        "en": "Pre-Intermediate English I"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專電機二甲"
+    ],
+    "instructors": [
+        "蔡逸佛"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "I0210"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "I0210"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course focuses on improving students' ability to communicate in everyday contexts, through listening and speaking. The course will cover a range of topics, such as life, health, travel, challenges and more. Students will learn how to express their opinions, preferences, and experiences, and how to engage in conversations with others. Throughout the course, students will practice their listening skills by listening to short talks, dialogues, and interviews on various topics. They will learn how to identify key ideas, details, and opinions, and how to follow and respond to a conversation. In addition, students will practice their speaking skills through pair work and group work activities, in which they will learn how to express their ideas clearly and effectively, how to ask and answer questions, and how to give and receive feedback.",
+    "prerequisites": "專一英文(一)、專一英文 (二)",
+    "syllabus": {
+        "zh": "學生將在課程中利用上學年學得的基礎聽講技巧，培養日常的英語溝通技巧，並學習如何:<br>1.\t比較事物<br>2.\t討論未來<br>3.\t討論優缺點<br>4.\t談論健康的議題<br>5.\t給予建議<br>6.\t講述能力<br>7.\t講述人生中的大事件<br>8.\t詢問更多訊息<br>9.\t討論挑戰<br><br>學生也將在課程中整合上學年學習過的基礎文法，並學習以下的進階文法知識:<br>1.\t現在簡單式與現在進行式<br>2.\t過去簡單式 (規則與不規則變化)<br>3.\t現在完成式與過去簡單式<br>4.\t以Will為首的未來式<br>5.\t時間子句<br>6.\t不定詞<br>7.\t過去進行式與過去簡單式<br>8.\t過去完成式",
+        "en": "By the end of this course, students will be able to communicate confidently and effectively in everyday contexts, on a range of situations:<br>1.\tComparing Things<br>2.\tDiscussing Future<br>3.\tDescribing Pros and Cons<br>4.\tTalking about Health<br>5.\tGiving Suggestions<br>6.\tTalking about Abilities<br>7.\tTalking about Events in Your Life<br>8.\tGetting More Information<br>9.\tDiscussing Challenges<br><br>Throughout the course, students will demonstrate their proficiency in English by mastering the following grammar concepts:<br>1.\tSimple Present vs. Present Continuous<br>2.\tSimple Past (Regular vs. Irregular)<br>3.\tPresent Perfect vs. Simple Past<br>4.\tFuture with Will<br>5.\tTime Clauses<br>6.\tInfinitives<br>7.\tPast Continuous vs. Simple Past<br>8.\tPast Perfect<br>"
+    },
+    "weeklySchedule": "1. Students learn words using meaningful word parts: roots, prefixes, and suffixes.<br>2. Students learn English reading skills, such as getting the meaning of words from context.<br>3. Students develop the ability to read English articles independently, such as understanding the main idea.<br>4. Students practice using reference books.<br>5. Students read different types of articles to enhance the ability of identifying text structure.<br>6. The topics of reading articles may include education, culture, language learning, media, film, technology, art, globalization, and social sciences.<br><br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "口試",
+        "other": "平時成績+課堂作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "Discussion / learning topics from different disciplines, and moral themes related to modern society.",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "Students will communicate orally with one another in a relaxed environment.",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "Students will learn to communicate orally in English and to convey messages to both their teacher and their classmates.",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "Students will learn how to integrate with others via oral communication.",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "world English 2",
+        "author": "",
+        "publisher": "Crane Publishing",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

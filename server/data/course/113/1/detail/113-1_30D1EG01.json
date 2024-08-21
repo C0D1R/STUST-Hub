@@ -1,0 +1,129 @@
+{
+    "code": "30D1EG01",
+    "name": {
+        "zh": "獨立學習(五)",
+        "en": "Independent Study (V)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "四技電子四丙"
+    ],
+    "instructors": [
+        "王立洋"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "J301"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程擬利用一學分的規劃，以學生自主學習的企圖心，促使其提升掌握自我學習的主導權。於學期初，由學生自訂學習內容，並與授課老師商議學習內容與考核方式。學期過程若有需更動學習計畫之處，由學生與授課老師共同商議。期末仍由教師評定成績等第。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.學生明列學習標的<br>2.學生闡述學習標的選取理由<br>3.師生共同討論學習計畫<br>4.學生依計畫自主學習<br>5.師生共同討論盤點學習成效<br>6.教師完成評定成績",
+        "en": "1.The student set the study goals<br>2.The students explain why are the study goals selected<br>3.A study plan is constructed as a result of bilateral discussions by the student and the instructor<br>4.The student carry out the study plan<br>5.The student and the instructor review the performances<br>6.The instructor give the final grade"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "訓練選擇合適之方式解決問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練論文搜尋、研讀與分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練問題發掘與分類規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練選取並進行學習標的",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練如何製作研究成果簡報",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練心得報告撰寫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

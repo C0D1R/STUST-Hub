@@ -1,0 +1,122 @@
+{
+    "code": "50D2CQ03",
+    "name": {
+        "zh": "計算機與程式設計概論",
+        "en": "Introduction to computers and programming"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技電商一甲"
+    ],
+    "instructors": [
+        "陳淑玲"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0807"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0807"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在使學生了解資訊安全相關議題，且能使用HTML建置網頁，利用雲端環境撰寫程式以了解程式設計的脈絡及邏輯架構，並能夠使用大數據分析。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 雲端環境程式撰寫簡介<br>2. 數位資安介紹<br>3. HTML語言介紹與簡易實作<br>4. 虛擬實境(VR)與擴增實境(AR)介紹與簡易實作<br>5. 大數據分析及人工智慧簡介",
+        "en": "1. Introduction to Cloud Environment Programming<br>2. Introduction to Digital Information Security<br>3. Introduction and Implementation of HTML<br>4. Introduction to AR and VR<br>5. Introduction to Big Data Analysis and AI"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能在雲端環境下撰寫程式，以了解程式設計的脈絡及邏輯架構。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解資訊安全基礎知識，認識社交工程和勒索病毒，知道個人電腦和行動裝置的資安保護。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以HTML實作簡易的網頁",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解並實作虛擬實境(VR)與擴增實境(AR)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解常見的大數據工具，並知道如何使用大數據分析。了解人工智慧的相關應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

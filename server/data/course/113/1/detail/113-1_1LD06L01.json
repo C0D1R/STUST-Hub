@@ -1,0 +1,115 @@
+{
+    "code": "1LD06L01",
+    "name": {
+        "zh": "台灣原住民文化探討",
+        "en": "Taiwan aboriginal culture"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "盧彥光"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "S416"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "S416"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "S416"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "「台灣原住民文化探討」課程，以歷史的發展過程、原住民生活空間與文化的介紹、原住民第一人稱的文本閱讀為主軸，並以部落行腳經驗､原住民工藝活動連結部落的活力，以及影音多媒體與學生的主題報告，營造課程的多面向。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "課程大綱\t1. 導論<br>1-1.原住民的社會處境及地位<br>1-2.台灣人的圖像<br>1-3.南島語族的分佈､起源及文化特徵<br>2. 雪山的守護者<br>2-1.泰雅族（與大自然共存的老靈魂：泰雅族的嘎嘎文化）<br>2-2.賽夏族（與矮靈共舞）<br>3. 玉山的英雄<br>3-1.布農族（高山上的行者）<br>3-2.鄒族（庫巴之火）<br>4. 大武山的琉璃<br>4-1.排灣族（文化高度發展的族群）<br>4-2.魯凱族（神聖的百合花）<br>5. 美麗的稻穗<br>5-1.阿美族（母系社會的遺留）<br>5-2.卑南族（東台灣勇猛的戰士）<br>6. 婆娑海洋<br>6-1.達悟族（典型的海洋文化）<br>7. 文化與民族的交融（新七族）<br>7-1.邵族<br>7-2.噶瑪蘭族<br>7-3.太魯閣族<br>7-4.撒奇萊雅族<br>7-5.賽德克族<br>7-6.拉阿魯哇族<br>7-7.卡那卡那富族<br>8-1.不朽的傳說（歷史故事）<br>",
+        "en": "1. Introductory remarks<br> 1-1. autochthonal social situations and status<br> 1-2. Taiwanese image<br> 1-3. Austronesian family of language distribution, origin and cultural characteristic<br> 2. Hsuehshan protector<br> 2-1. Atayal<br> 2-2. Saisiyat<br> 3. Yushan's hero<br> 3-1. Bunun<br> 3-2.Tsou<br> 4. Mt. Dawu's colored glaze <br>.4-1.Paiwan<br> 4-2.Rukai<br> 5. Beautiful ear of rice<br> 5-1. Amis<br> 5-2.Puyuma<br> 6. Wavy sea<br> 6-1. Tao<br>.7. The culture and the nationality blend (new seven races)<br> 7-1. Thao<br> 7-2. Kavalan <br> 7-3. Taroko<br> 7-4. Sakizaya<br> 7-5. Seediq<br> 7-6. Hla’alua<br> 7-7. Kanakanavu<br> 8-1. immortal history<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "詮釋並表達各族原住民文化的內涵。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "整合原住民各族文化，分析各族的異同。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "規劃學習原住民文化之靜態及動態面向時程表。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "積極關注原住民文化活動，提高對其文化的態度與思考。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

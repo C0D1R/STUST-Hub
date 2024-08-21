@@ -1,0 +1,127 @@
+{
+    "code": "1LD04Z01",
+    "name": {
+        "zh": "電影與性別議題",
+        "en": "Film and Sexual issues"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "彭易璟"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "E0507"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "E0507"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "E0507"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以全人的教育為新課綱課程發展主軸，讓學生為適應現在生活、面對未來挑戰，所應具備的知能與態度。<br>A.本著「健康促進」的概念，期使學生除了追求專業知能，更能修習有益於生活、學習與工作的健康課程，開設性別課程使學生增強 (empowering)其掌控和改善個人健康之能力。<br>B.整合正向的18禁專業資源，健康地進駐於各個成長中的生命經驗，讓課堂知識體系，扣合性教育這最迫切的內容，回應「性教育」與「愛的教育」對生命個體的全人啟發，開展穩定關係的能力。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "鼓勵學生探討自己有興趣課程主題，也彌補過去過度重視學生表現的「結果」。透過「網站半自學」互動逐步建立學習歷程檔案，記錄下學生包括觀察生活中的性別空間、校園情侶、完美情人、多元成家、分手藝術、好好愛企劃書等課程內容與活動，去問題化_擺脫對「性」的負向（Sex-negative）觀點，在自尊與愛人為基礎，致力於性別交往相關生活技能的性健康促進，敦勵學生學習性健康行為所需之生活常識與相應的技巧（life skill），發展維持有意義的性別關係。",
+        "en": "This thesis encourages students to discuss their interested course theme and compensates for the consequence of excessively valuing students’ performance. Through “semi-studying mode of the website”, the author gradually establishes the experience recording based on interaction and records students’ course contents and activities, including observation on the gender space of life, campus lovers, perfect lovers, multi-element foundation, breakup arts and proposal of love. The author gets rid of the sex-negative opinions, respects themselves and loves others, devotes itself to promote sexual health of sexual contact in life skills, supervises necessary life common sense and life skills required by students’ sexual behavior of learning health, develops and maintains the meaningful sexual relationship."
+    },
+    "weeklySchedule": "第1週依戀的課堂： 一、依戀的課堂V.S.地方與人文 二、依戀V.S.依賴的差異<br><br>第2-3週依戀與地方感：一、依附理論 -成人依戀風格二、課程精神說明<br><br>第4-5週依戀的議題與演講：一、依戀內建模式 V.S.活化性別意象二、圓桌線上專區互動<br>業師演講：從變裝秀看活化性別意象<br><br>第6週場域有我：一、場域人物敘寫規劃 二、創生的場域 三、依戀風格解析<br><br>第7週社會韌性：一、零廢棄的蚵學視界 二、蚵學與布布經心<br><br>第8-9週依戀的愛堅守：一、人物敘事 二、環境依戀<br><br>第10週場域踏查：一、活動介紹：七大月老文化 二、地方感<br><br>第11-12週完整的愛：一、追逃模式 二、客體關係 三、幸福公式<br><br>第13-14週性別氣質：一、性別光譜 二、多元性別：不同視界的社會觀察<br><br>第15-16週健康新關係：一、分手金句 二、依戀失落與關係重建<br><br>第17週：場域連結社會實踐：一、月老的好緣連線 二、巧客的「布．可思議」<br><br>第18週學習地圖總整理：「永恆的依戀與地方感」的人文社會實踐",
+    "exams": {
+        "midterm": "筆試，小組作業與線上互動題",
+        "final": "無筆試，小組作業與分組報告",
+        "other": "小組討論"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "切實運用知識於生活情境",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "去問題化的生活技巧",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "生活技能的性健康促進",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "結合校內外資源進行探究與實作",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "開展穩定關係的全人啟發",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義：「永恆的依戀與地方感」",
+        "author": "彭易璟",
+        "publisher": "巨流圖書",
+        "year": "2022",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "約翰‧鮑比 John Bowlby《依戀理論三部曲1：依附》小樹文化，2020。 深刻了解依戀理論的源頭、看見童年時期的依附關係如何影響人們，重啟與他人親密關係中的開關。",
+    "teachingSoftware": "自製ppt",
+    "rules": "歡迎各位修習此門課程，第二週之後加選的同學請與老師討論後再加入，注意事項如下:<br>1.引領性別平等，整理依戀主題與地方感的連結，啟動幸福公式，是重視「課堂分享與表達」的生命營養課程.<br>2.以PBL方式上課，計有3次上網經驗分享，1次戶外活動+布品創生，1次業師演講活動.重要課程活動務必到堂<br>3.避免課堂中吃東西、聊天、睡覺，不帶上課教材.<br>4.課堂中滑手機屢勸不聽者，手機交由老師及全班同學保管.<br>5.出席佔20%，上課未到者以曠課登記，遲到者請當堂到老師處註銷。 3 次未到堂，考慮給予不及格分數."
+}

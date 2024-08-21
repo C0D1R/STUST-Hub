@@ -1,0 +1,113 @@
+{
+    "code": "90N13N01",
+    "name": {
+        "zh": "職場自主學習(三)",
+        "en": "Workplace Independent Study (III)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技資管二甲"
+    ],
+    "instructors": [
+        "汪美香"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第11節",
+            "location": "T0407"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學校教育從以前到現在大多以一教百的傳統教學方式，隨著知識來源多元化，科技的創新，逐漸轉移到以學生學習為中心的教學方式。各家公司/工廠因應業界的激烈競爭，員工所需具備之專業知能應不斷擴充與成長，而學校所教的內容無法趕上。所以藉此課程，以職場上會面對的所有問題作為議題發揮，訓練學生獨立學習的能力，讓學生挖掘問題與學習找答案的方法；其次，從同儕的互動中學習，共同學習可以了解自己在學習中的不足之處，還可以訓練適當表達觀點，並懂得傾聽與接納和自己不同的見解；最後，讓學生具備自我評量的能力，學會為自己的學習成效負責。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 發現興趣，學習知識，開發工作所需的技能<br>2. 發展價值觀、動機和抱負<br>3. 在職場工作中，能瞭解公司/工廠之經營理念、熟悉相關操作流程<br>4. 接受組織文化，學會與人相處<br>5. 承擔責任、發展和展示技能和專長<br>6. 迎接工作的挑戰性<br>",
+        "en": "1. Discover interest, learn knowledge, and develop the skills requirement for your job.<br>2. Develop values, motivations and ambitions.<br>3. In the workplace, you can understand the company/factory business philosophy and be familiar with the relevant operational procedures.<br>4. Accept organizational culture and learn to get along with others.<br>5. Take responsibility, develop and demonstrate skills and expertise.<br>6. Take the challenges of work.<br>"
+    },
+    "weeklySchedule": "1.「如何學習」<br>2.「學什麼」<br>3.輔助工具<br>4.討論與分享<br>",
+    "exams": {
+        "midterm": "出席、參與",
+        "final": "報告",
+        "other": "出席、參與"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學生能夠應用資訊管理的專業技能於職場",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學生能夠從不同視點中去分析營運的問題，並學習解決問題的方法",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學生能夠學習正確的職場工作態度以及同事之間互相合作",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生主動學習新的事物，並了解未來工作的環境以及場所",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

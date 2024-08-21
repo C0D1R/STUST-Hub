@@ -1,0 +1,192 @@
+{
+    "code": "N0M02601",
+    "name": {
+        "zh": "組織與領導",
+        "en": "Organization and Leadership"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩全球經管一甲"
+    ],
+    "instructors": [
+        "張永佶"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "E0604"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "E0604"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "E0604"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Managers need to develop their interpersonal or people skills if they are going to be effective in their jobs. Organizational behavior (OB) is a field of study that investigates the impact that individuals, groups, and structure have on behavior within an organization, and then applies that knowledge to improve an organization’s effectiveness. Because OB is concerned with employment-related situations, it emphasizes behavior on the job, absenteeism, employment turnover, productivity, human performance and management. Organizational behavior offers both challenges and opportunities for managers. It recognizes differences and helps managers to see the value of workforce diversity and practices that may need to be changed when managing in different countries.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "A. Introduction to organizational behavior<br>B. Foundations of Individual Behavior: ability, attitudes, job<br>satisfaction, learning.<br>C. Personality and Values<br>D. Perception and Individual Decision Making<br>E. Motivation Concepts<br>F. Emotions and Moods<br>For each of the above topics professor will give students the assignments, then all the students have to group themselves, take group discussions and cooperate with each other to identify and create solutions to the problems in the assignments. Each group needs to deliver oral presentations and communication to the other students to enhance their communication ability.",
+        "en": "A. Introduction to organizational behavior<br>B. Foundations of Individual Behavior: ability, attitudes, job<br>satisfaction, learning.<br>C. Personality and Values<br>D. Perception and Individual Decision Making<br>E. Motivation Concepts<br>F. Emotions and Moods<br>For each of the above topics professor will give students the assignments, then all the students have to group themselves, take group discussions and cooperate with each other to identify and create solutions to the problems in the assignments. Each group needs to deliver oral presentations and communication to the other students to enhance their communication ability."
+    },
+    "weeklySchedule": "A.Introduction to organizational behavior<br>B.Leadership: Basic Approach<br>c.Leadership: Contemporary Issues<br>D.Motivation: Concepts and theories<br>E.Conflict and Negotiation",
+    "exams": {
+        "midterm": "mid-term exam 30%",
+        "final": "individual final report 40%",
+        "other": "assignment, discussion, exercises on Flip-class 30%"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解組織行為的基本學理",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論",
+                "啟發思考",
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "同儕互評",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能應用組織行為理論分析組織管理實務",
+            "teachingMethods": [
+                "個案研究(PBL)",
+                "課堂講授",
+                "分組討論",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現資料分析結果，讓不 懂組織行為之專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授",
+                "分組討論",
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                },
+                {
+                    "method": "同儕互評",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能運用不同組織行為理論的辯論發展企業的管理決策",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授",
+                "分組討論",
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                },
+                {
+                    "method": "同儕互評",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Essentials of Organizational Behavior",
+        "author": "Rubbins, S",
+        "publisher": "Prentice Hall",
+        "year": "2009",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "no",
+    "teachingSoftware": "Flip",
+    "rules": "The evaluation of the final report<br>1. Every student should present the final report with PPT in 10 minutes.<br>2. Every student should play the role as a member of a jury to evaluate the final report presentation and decide the score by himself/herself.<br>3. The pages limit: 10-15."
+}

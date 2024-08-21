@@ -1,0 +1,195 @@
+{
+    "code": "80D19W01",
+    "name": {
+        "zh": "中級會計學(一)",
+        "en": "Intermediate Accounting (Ⅰ)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技財金二甲"
+    ],
+    "instructors": [
+        "蔡惠丞"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "S413"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "S413"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "S413"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程延續初級會計學的內容，內容涵蓋理論觀點與IFRS之實務規範，對於各項會計處理作進一步的探討，及其原理作一說明。",
+    "prerequisites": "須修習過 初級會計學\n具備清楚的借貸觀念",
+    "syllabus": {
+        "zh": "1. 現值與終值<br>2. 現金與應收帳款<br>3. 存貨<br>4. 不動產、廠房及設備<br>5. 其他固定資產及特殊評價基礎<br>6. 無形資產<br>7. 流動負債<br>8. 長期負債<br><br><br><br>",
+        "en": "1. Accounting and the Time Value of Money<br>2. Cash and Receivables<br>3. Inventories<br>4. Property, Plant and Equipment<br>5. Other Fixed Assets and Special Valuation Basis<br>6. Intangible Assets<br>7. Current Liabilities<br>8. Long Term Liabilities<br>"
+    },
+    "weeklySchedule": "1週 課程介紹與初級會計學課程複習<br>2-4週 現值與終值計算<br>4-6週 應收帳款<br>7-8週 存貨<br>9週 期中考<br>10-12週 設備廠房與遞耗資產<br>12-14週 無形資產<br>15-15週 流動負債<br>16-17週 長期負債<br>18週 期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解財務會計觀念性架構",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解國際財務報導準則(IFRS)",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "應用IFRS完成會計實務交易處理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "依循IFRS規定編製財務報表",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "應用財務報表分析財務資訊",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "建立會計人員的職業道德",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "中級會計學－理論與應用",
+        "author": "林蕙真",
+        "publisher": "証業出版社",
+        "year": "2023",
+        "ISBN": "9786269602285",
+        "edition": "第九版"
+    },
+    "referenceBooks": "中級會計學(上)(4版)<br>江淑玲，新陸書局，出版日期：2023-09-11 ISBN：9786269762996",
+    "teachingSoftware": "無",
+    "rules": "1.需修習過初級會計學<br>2.成績評量: 每上完1章進行一次小考,共佔20%,期中考25%及期末考占25%<br>作業繳交佔15%, 出席點名佔15%(作業缺繳或點名未到每次扣該項成績20%)"
+}

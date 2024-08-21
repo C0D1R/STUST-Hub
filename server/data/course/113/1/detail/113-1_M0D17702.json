@@ -1,0 +1,150 @@
+{
+    "code": "M0D17702",
+    "name": {
+        "zh": "IT於商業與管理應用",
+        "en": "IT Applications in Business and Management"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技餐旅一乙"
+    ],
+    "instructors": [
+        "吳家驊"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "S402"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S402"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "資訊科技於商業和管理的應用日新月異，從早年商業自動化所介紹的商品條碼、商業流程再造、 POS（Point of Sale）銷售時點信息系統、供應鏈管理、ERP企業資源規劃系統、 CRM客戶關係管理系統、行動商務（m-Commerce）等，到今日的人工智慧（ Artificial Intelligence)、區塊鏈（ Block Chain）、雲計算（Cloud computing）、大數據（Big Data）等，資訊科技應用的新時代已經到來。為了讓學生能夠透過做中學的方式體驗資訊科技於商業與管理的新應用並兼顧南臺商管學院新生的特性，本課程設計三類學習經驗幫助學生及早理解資訊科技於商業與管理的重要性，拓展學生資訊科技應用的新視野，並進行有趣的實作體驗以培養自身專業對資訊科技的敏銳度。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "【物聯網互動做中學】透過簡單的程式方塊拖曳，達成快速的應用。<br>•理解物聯網（IoT）基本概念<br>•認識 ESP32開發板<br>•認識Arduino程式方塊<br>•做中學應用1<br>•做中學應用2<br>【個案學習】企業進行數位轉型案例之報告與討論<br>•認識如何準備與學習個案<br>•路易莎連鎖咖啡用AI抓住客人的胃<br>•樺美食品以智慧製造改造小美冰淇淋產線<br>•華元食品自動化品質管控提升產品良率<br>•飲料界「代工天王」歐典生技雲世代數位轉型<br>【人工智慧走一回】<br>•人工智慧（AI）的定義、發展與現況<br>•介紹Google的人工智慧實驗（AI Experiments）<br>•理解人工智慧如何運作<br>•人工智慧實驗實作1<br>•人工智慧實驗實作2<br>•思考人工智慧未來與展望",
+        "en": "【IoT Learning by Doing】Quick fun applications through simple programming skills.<br>•Basic concepts of the Internet of Things (IoT).<br>•The ESP32 (low-cost chip microcontrollers)<br>•Understand the Arduino program blocks<br>•Learning by Doing 1<br>•Learning by Doing 2<br>【Case Studies】Report and discussions of digital transformation cases.<br>•Understand how to prepare and learn from real cases<br>•Case 1 - Louisa Coffee<br>•Case 2 - Hwa Mei Food Company<br>•Case 3 - Hwa Yuan Foods Company<br>•Case 4 - Ou Dean Biotech Company<br>【A Venture into Artificial intelligence】<br>•Definition, development, and current state of artificial intelligence (AI)<br>•Introducing Google's AI Experiments<br>•Understand how AI works<br>•AI Experiment practice 1<br>•AI Experiment practice 2<br>•Thinking about the future outlook of artificial intelligence"
+    },
+    "weeklySchedule": "Week 1 (1) 介紹老師、認識同學 Introduce the instructor and get acquainted with students.<br>(2) 解說課程大綱、課程結構Explain the syllabus and course structure.<br>Week 2 (1) 講授 物聯網（IoT）基本概念與應用Introduction to IoT (Internet of Things).<br>(2) 學生分組（3人一組為原則）Team formation (3 students in a team).<br>Week 3 (1) 續講授 物聯網（IoT）基本概念與應用Introduction to IoT (Internet of Things) (continued).<br>(2) 講授 認識ESP32開發板與Arduino積木式編輯器（程式方塊） Introduction to ESP32 Microcontroller and Arduino Block Editor/Block-Programming.<br>Week 4 (1) 續講授認識ESP32開發板與Arduino積木式編輯器（程式方塊） Introduction to ESP32 Microcontroller and Arduino Block Editor/Block-Programming. (continued).<br>(2) 解釋分組個案報告Explain team case studies assignment.<br>Week 5 (1) 講授 企業數位轉型 Digital Transformation of Enterprises.<br>Week 6 雙十國慶日（放假）<br>Week 7 (1) 【做中學應用】ESP32開發板與Arduino積木式編輯實作Hands-on experience: ESP32+ Arduino Block-Programming.<br>(2) 續講授 企業數位轉型 Digital Transformation of Enterprises (continued).<br>Week 8 (1) 解釋如何準備與學習個案Explain how to prepare a case study and learn from it.<br>Week 9 (1) 期中考試週 Midterm Examination Week -分組個案報告1 （路易莎連鎖咖啡用AI抓住客人的胃）.<br>Week 10 (1) 分組個案報告2 （樺美食品以智慧製造改造小美冰淇淋產線）<br>Week 11 (1) 分組個案報告3 （華元食品自動化品質管控提升產品良率）.<br>Week 12 (1) 分組個案報告4 （飲料界「代工天王」歐典生技雲世代數位轉型）.<br>(2) 電子繳交分組個案報告e-Submit team case study assignment via the FlipClass platform.<br>Week 13 (1) 講授 人工智慧（AI）的定義、運作、現況與未來展望Introduction to Artificial Intelligence (AI).<br>(2) 講授人工智慧與大型語言模型 Introduction to AI and LLMs (Large Language Models).<br>Week 14 (1) 講授ChatGPT應用 Introduction to ChatGPT Applications.<br>Week 15 (1) 講授人工智慧與大型語言模型 Introduction to AI and LLMs (Large Language Models).<br>Week 16 (1) 期末 ChatGPT應用報告（一）Final ChatGPT application presentations (I).<br>Week 17 (1) 期末 ChatGPT應用報告（二）Final ChatGPT application presentations (II).<br>Week 18 期末考試週Final Examination Week.<br>開國紀念日（放假）New Year's Day – No Class!",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解資訊科技於商業與管理的重要性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "拓展學生資訊科技應用的新視野",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "拓展學生資訊科技應用的新視野",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "拓展學生資訊科技應用的新視野",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養自身專業對資訊科技的敏銳度",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養自身專業對資訊科技的敏銳度",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養自身專業對資訊科技的敏銳度",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

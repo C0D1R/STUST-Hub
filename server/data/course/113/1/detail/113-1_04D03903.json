@@ -1,0 +1,166 @@
+{
+    "code": "04D03903",
+    "name": {
+        "zh": "體育生活(三)：桌球(C)",
+        "en": "Physical Education(III)：Table tennis"
+    },
+    "credit": "1",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "四技國企二甲",
+        "四技國企二乙",
+        "四技資工二甲",
+        "四技資工二乙",
+        "四技資工二丙",
+        "四技商設二甲",
+        "四技商設二乙",
+        "四資工國專二甲"
+    ],
+    "instructors": [
+        "陳春安"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": ""
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "桌球簡介技術介紹雙打分組體驗比賽",
+    "prerequisites": "自備球拍、球",
+    "syllabus": {
+        "zh": "課程介紹 1.學前準備,上課注意事項2.課程內容介紹3.期中與期末考成績評量說明4.分組<br>反手推擋 1.複習基本技能<br>正手擊球 1.複習基本技能<br>左推右攻 1.複習左推右攻<br>發 球 1.發下旋短球<br>搓 球 1.正、反手搓球<br>弧圈球 1.正手抽弧圈球<br>測 驗 正手側身攻擊<br>期中考 學校共同期中考<br>規則介紹 1.雙打規則2.雙打分組<br>雙打練習 1.分組雙打練習<br>雙打練習 1.分組雙打練習<br>雙打賽 1.雙打分組團體賽2.裁判實習<br>雙打賽 1.雙打分組團體賽2.裁判實習<br>雙打賽 1.雙打分組團體賽2.裁判實習3.發下旋短球測驗<br>術科期末考 發下旋短球測驗<br>認知測驗 教室測驗",
+        "en": "Course introduction: 1. Pre-requisite, 2. Course content, 3. Evaluation of Mid-term and final exams, 4. Grouping<br>Backhand return : 1. Review basic skills<br>Forehand shot 1. Review basic skills<br>Left return right attack 1. Review left push right attack<br>Serve: Backspin<br>Push: Forehand and backhand push<br>Loop-drive: Forehand loop-drive<br>Test: Forehand side attack<br>University Midterm exam<br>Introduction of Rules: 1. Doubles rules 2. Grouping<br>Practice of Doubles<br>Practice of Doubles<br>Doubles 1. Team matches 2. Umpiring<br>Doubles 1. Team matches 2. Umpiring<br>Doubles 1. Team matches 2. Umpiring 3. Test on backspin<br>Final exam: backspin<br>Cognitive test in classroom<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過桌球運動的正確學習，以正確的運動觀念提升個人的體適能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過桌球運動技巧的提升，養成終生運動的習慣。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過桌球運動尋找適合的球伴，以從中培養良好的人際關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "從桌球比賽中培養運動家精神，以利發展健全的人格特質",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "從桌球運動中養成與他人互動和發展友誼的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由欣賞桌球比賽，培養對藝術與美的欣賞能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由桌球比賽中，訓練個人的情緒管理與抗壓性，進而培養勝不驕敗不餒的運動精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過桌球運動培養團隊精神以團體的目標為目標強化團隊的合作精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

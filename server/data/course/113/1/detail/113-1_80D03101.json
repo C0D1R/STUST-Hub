@@ -1,0 +1,115 @@
+{
+    "code": "80D03101",
+    "name": {
+        "zh": "統計學(一)",
+        "en": "Statistics (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技財金二甲"
+    ],
+    "instructors": [
+        "林雅智"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "S413"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S413"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "S413"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹統計方法的基本概念與Excel軟體分析統計資料的操作與解讀。內容包括資料的蒐集與整理，分析解釋等敘述統計及由樣本推論母體的估計檢定，迴歸分析，變異數分析，無母數統計，時間序列分析等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第1章  緒論 <br>第2章  資料蒐集與整理<br>第3章 資料敘述與表現<br>第4章 機率概論<br>第5章 間斷性隨機變數<br>第6章 連續性隨機變數<br>",
+        "en": "Chapter1  Introduction<br>Chapter2  Data Collection and Graphical/Tabular <br>Chapter 3  Numerical Descriptive Techniques<br>Chapter 4  Introduction to Probability<br>Chapter 5  Discrete Random Variables<br>Chapter 6  Continuous Random Variables<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能充分利用統計圖表增加專案報告的說服力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解統計學的基本概念與方法，以培養解決財務及管理問題的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用統計學的方法，協助計劃評估及投資專案之管理決策",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能養成對課業或工作認真負責的態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

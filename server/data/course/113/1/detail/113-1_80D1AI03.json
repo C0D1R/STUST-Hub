@@ -1,0 +1,145 @@
+{
+    "code": "80D1AI03",
+    "name": {
+        "zh": "初等微積分及實習",
+        "en": "Elementary Calculus and pratice"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技財金一丙"
+    ],
+    "instructors": [
+        "王慶安",
+        "蘇志泰"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "S416"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "S416"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "S416"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "1"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "微積分是管理科學中重要的基礎課程之一。它在一些商業領域中已有非常廣泛的應用，亦是專業科目(如經濟學、統計學)的先修課程。本課程的內容為基本函數介紹及單變數函數的極限、連續、微分、積分、積分技巧與應用。<br>",
+    "prerequisites": "基本的數學觀念及演算能力",
+    "syllabus": {
+        "zh": "中文課程大綱 (Chinese Outline)：<br>至少填寫6個單元以上，3000字元為限。<br>(必填)\t1. 預備知識<br>2. 極限與連續<br>3. 導數<br>4. 導數的應用<br>5. 定積分<br>6. 積分技巧<br>7. 定積分的應用<br>8. 各單元的加強演練與應用<br>",
+        "en": "英/日文課程大綱 (English/Japanese Outline)：<br>專業科目務必填寫，1500字元為限。<br>(必填)\t1. Prerequisites for Calculus<br>2. Limits and Continuity.<br>3. Derivatives.<br>4. Applications of Derivatives.<br>5. The Definite Integral.<br>6. Techniques of Integration<br>7. Applications of the Definite Integral.<br>8. Enhanced practice and applications of each unit<br>"
+    },
+    "weeklySchedule": "教學計畫(預定進度) <br>第一週(09/12)\t直角坐標平面<br>第二週(09/19)\t方程式的圖形<br>第三週(09/26)\t平面上的直線與斜率<br>第四週(10/03)\t極限<br>第五週(10/10)\t連續性、導數和圖形的斜率<br>第六週(10/17)\t微分法則<br>第七週(10/24)\t變化率<br>第八週(10/31)\t乘積律與商律<br>第九週(11/07)\t期中考<br>第十週(11/14)\t連鎖律、高階導數、<br>第十一週(11/21)\t隱微分 <br>第十二週(11/28)\t相關變化率、遞增和遞減的函數<br>第十三週(12/05)\t極值與一階導數檢定法<br>第十四週(12/12)\t凹性與二階導數檢定法<br>第十五週(12/19)\t最佳化問題<br>第十六週(12/26)\t漸近線<br>第十七週(01/02)\t微分量與邊際分析<br>第十八週(01/09)\t期末考<br><br>",
+    "exams": {
+        "midterm": "隨班測驗",
+        "final": "隨班測驗",
+        "other": "隨班測驗(不定期)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能理解基本函數、極限與微分的概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能加強演練極限與微分的計算",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能善用基本函數、極限與微分來分析問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能應用方法解決財金實務問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "微積分 【精華版】 (Brief Calculus: An Applied Approach, 10e)",
+        "author": "Ron Larson原著 鄭子韋、林余昭、史青林合譯",
+        "publisher": "歐亞書局",
+        "year": "2019",
+        "ISBN": "978-957-9282-51-2",
+        "edition": "公制版"
+    },
+    "referenceBooks": "1.微積分(Brief Calculus)，James Stewart, Daniel Clegg原合著，王慶安、陳慈芬、鍾文鼎合譯，東華書局。<br>2.商用管理微積分，莊紹容、楊精松。 <br>3.CALCULUS: An Applied Approach, Ron Larson, Brookes/Cole Cengage, 10th edition.<br>4.微積分之屠龍寶刀，亞當斯等著，師明睿譯，天下文化出版。<br>5.微積分之倚天寶劍，亞當斯等著，師明睿譯，天下文化出版。<br>",
+    "teachingSoftware": "學校的教學網頁Flip數位學習及微積分開放式課程(OCW)。",
+    "rules": "評分標準  期中考與期末考共佔60%，平常成績佔40%，再依本校成績系統轉換為等第制，其中小考、期中與期末考試之測驗方式為紙筆測驗，作業包括習題。<br><br>注意事項  1. 除了期中考與期末考成績，平時上課的作業、心得報告、不定時小考、與老師或助教的互動，以及缺曠課狀況等情形等都是評定學期成績的重要之考量，希望同學能把握每次的成績。<br>         2. 教科書請直接向W棟南台書城或華泰文化黃國雄先生(LINE ID 0933817337)洽購。<br>"
+}

@@ -1,0 +1,109 @@
+{
+    "code": "1DD08M01",
+    "name": {
+        "zh": "專修(七)爵士鼓(B6)",
+        "en": "Major VII Drum Set"
+    },
+    "credit": "1",
+    "type": "管制選修",
+    "classes": [
+        "四技流音四甲"
+    ],
+    "instructors": [
+        "張文光"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "W1020"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為小班教學，以教授「爵士鼓」專長領域之相關理論、實務技巧以及職場倫理，強化學生演奏技能，培養學生專業素養與敬業態度。以作業、考試等方式評量學習成效。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、手腳的打擊<br>二、協調訓練<br>三、節奏練習<br>四、過門學習<br>五、練習曲",
+        "en": "一、Hand and foot blow<br>二、Coordinated training<br>三、Rhythm practice<br>四、Go through practice<br>五、Song Practice"
+    },
+    "weeklySchedule": "DRUM<br>第一週 課程簡介<br>第二週 學員能力測試1<br>第三週 學員能力測試2<br>第四週 了解學員能力測試曲目<br>第五週 了解學員能力測試曲目<br>第六週 選歌練習<br>第七週 選歌練習<br>第八週 技巧分析<br>第九週 期中小測試 例如(自選曲)改編<br>第十週 技巧分析<br>第十一週 技巧分析(節奏)<br>第十二週 技巧分析(節奏)<br>第十三週 能力測試曲目1<br>第十四週 能力測試曲目2<br>第十五週 寫譜練習<br>第十六週 寫譜練習<br>第十七週 技巧分析(Fill)<br>第十八週 總整合本學期曲目和驗收",
+    "exams": {
+        "midterm": "呈現(自選曲)",
+        "final": "呈現(指定曲)(自選曲)",
+        "other": "呈現(指定曲)(自選曲)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解爵士鼓專長領域之專業知識。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備爵士鼓專長領域之展演能力。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "展現尊重、接納老師指導之學習態度。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養自我提升、終身學習之態度。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "響地音樂教材.作者:張文光.出版社：響地音樂 出版日期:2018/05月",
+    "teachingSoftware": "Sibeliue",
+    "rules": "學期評分標準:100%<br>A.上課出勤:30%<br>B.表現30%<br>C.期中考:20%<br>C.期末考:20%"
+}

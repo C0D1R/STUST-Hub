@@ -1,0 +1,110 @@
+{
+    "code": "B0D43Z01",
+    "name": {
+        "zh": "遊憩管理(二)",
+        "en": "Recreation Management(II)"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技休閒三乙"
+    ],
+    "instructors": [
+        "潘盈仁"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0003"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "T0003"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在介紹遊憩資源在休閒服務產業中所扮演的角色及管理規劃的原則。主要探討遊憩資源的特性與分類、遊憩資源與休閒及觀光間的關係、規劃理論及方法、遊憩區規劃原則暨考量、規劃者及管理者所面臨的考量及挑戰、以及其未來的發展趨勢。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "遊憩資源規劃之基本概念<br>遊憩資源規劃– 遊憩機會序列<br>遊憩資源規劃– 承載量<br>遊憩資源規劃– LAC、VIM、VERP<br>遊憩資源之資訊分析（一）(二）<br>計畫研擬與評估<br>遊憩區規劃<br>都市規劃<br>鄉村規劃<br>當前之遊憩資源規劃管理議題",
+        "en": "Planning for Recreation Resources<br>Planning theory: ROS<br>Planning theory:Carrying capacity<br>Planning theory:LAC, VIM, VERP<br>Planning Process for Recreation Resources<br>Feasibility Analysis<br>Recreation Destination Planning<br>Urban Planning<br>Rural Planning<br>Issues in Comtemporary Recreation Resources Planning and Management"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習戶外遊憩管理知識及相關方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "教導學生遊憩資源規劃能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟捻繪製ROC、LAC圖表",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "獲取新的遊憩資訊及潮流的變動趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

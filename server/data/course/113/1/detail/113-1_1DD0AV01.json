@@ -1,0 +1,141 @@
+{
+    "code": "1DD0AV01",
+    "name": {
+        "zh": "舞台表演訓練",
+        "en": "Training Of Stage Performing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技流音二甲",
+        "四技流音二乙"
+    ],
+    "instructors": [
+        "許逸聖"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "W1001"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "W1001"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "W1001"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "透過肢體、聲音、劇場演員表演的基礎訓練，引導學生反觀自己的身體與內在狀態，發掘自己的特質與長處。經過訓練與練習，成為有自信的表演者近而在舞台上展現自己的魅力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "針對演員應當擁有的身、聲能力、想像力、投射力、創造力等環節，規劃表演基礎訓練課程。協助學生開發表演潛力，帶領學生從放鬆、察覺開始，重新找到感官的敏銳度，體驗劇場表演的可能性。",
+        "en": "It is a course which leads students to explore the arts of performers. The students will learn the methods of acting then gradually understand the theatrical performing art. First of all, they will learn basic acting skill in actors training, which includes Relaxing and Concentrating. From that, it leads to the movements and voice excises. They will learn how to apply the four natural elements such as： air, water, fire and earth to their performance. I am hoping to give the dance students another window to see performance, so they can have a difference source to create their own work as a dancer or choreographer in the future."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備觀察他人與自己行為的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練肢體協調力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練口說表達能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練舞台上的專注與反應能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備劇場舞台的專業術語技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備劇場職責與倫理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

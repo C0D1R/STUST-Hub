@@ -1,0 +1,115 @@
+{
+    "code": "1MD04G01",
+    "name": {
+        "zh": "社會學的想像",
+        "en": "Sociological Imagination"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "社會科學領域"
+    ],
+    "instructors": [
+        "林佳蓉"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "P303"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "P303"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "P303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在引導學生以社會學的方式觀察社會現象與問題、並進一步思考世界。從個人的生活經驗出發，重新探索生活中看似理所當然的狀況，並發掘其中多元的詮釋，培育學生建立寬廣的視野，理解並尊重多元價值。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 導論—批判思考<br>2. 社會學方法論<br>3. 文化與文明<br>4. 社會化與偏差<br>5. 性別<br>6. 社會流動與階級<br>7. 教育、傳播、媒體<br>8. 全球化與消費社會<br>",
+        "en": "1.     Introduction<br>2.     Methodology<br>3.     Culture<br>4.     Socialization and Deviation<br>5.     Gender<br>6.     Social Mobility and Class<br>7.     Education and Media<br>8.     Globalization and Consumption"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識個人和社會結構的密切關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立個人對社會的分析和解釋能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "互動學習，說明看法並尊重不同聲音",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建構對日常生活的思辨能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

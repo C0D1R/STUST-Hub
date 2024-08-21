@@ -1,0 +1,115 @@
+{
+    "code": "J0D37D01",
+    "name": {
+        "zh": "數位影像電腦繪圖",
+        "en": "Digital Image Computer Graphics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技創設一甲"
+    ],
+    "instructors": [
+        "許榮峰"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0709"
+        },
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "W0709"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "W0709"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "建立向量軟體與影像處理軟體基本操作概念的基礎，學習與熟悉Illustrator的重要功能與技巧，並將軟體技巧與實際的創作設計結合。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. Adobe Illustrator快速導覽、熟悉工作區<br>2.使用形狀<br>3.填色、外框線與色彩<br>4.漸層<br>5. 使用符號、融合<br>6.鉛筆工具、筆刷<br>7.文字<br>8.進階技法<br>",
+        "en": "1.Introduction to Adobe Illustrator, Working with Documents<br>2.Creating Basic Shapes, <br>Fill, Stroke, and Color<br>3.Reshaping Objects, <br>4.Cut Objects and Apply Gradients<br>5.Creating Blends, Symbols<br>6.Pen and Pencil Tools, Brush<br>7.Type<br>8.Advanced Drawing<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "軟體操作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創意設計培養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "美學理解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解創意價值",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

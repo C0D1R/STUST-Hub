@@ -1,0 +1,115 @@
+{
+    "code": "1LD06601",
+    "name": {
+        "zh": "千面英雄",
+        "en": "The Hero with a Thousand Faces"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "陳能治"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "S510"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "S510"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "S510"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以「集體無意識」、「英雄原型」、「英雄人物」、「英雄旅程」、「英雄結局」、「英雄共相」為主要課程設計取徑，介紹各式各樣的英雄人物，期透過教師自製講義、當代影視媒材以及文字資料，從神話學、心理學、人類學及當代媒體思維等跨學科視角，分析渠等成為英雄的歷程及結局。學生透過這些英雄人物生命歷程的討論，培養思辨能力，並能內觀自我，傾聽自己內在的聲音，從公利出發，設定人生目標，坦然接受磨難，有成就個人英雄事業的準備。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程以喬瑟夫‧坎伯(Joseph Campbell)《千面英雄》的「英雄」概念作為課程設計依歸，探討當代英雄的定義及英雄際遇與抉擇，將包括：<br>1.英雄相關理論：<br>如榮格「集體無意識」、「原型」、「英雄原型」、坎伯「英雄旅程」及當代超級英雄影視創作概念等。<br>2.英雄人物際遇討論：<br>包含集體無意識、神話人物、王者傳奇、俠盜系列、悲劇英雄、女性英雄及當代超級英雄等。<br>3.當代影視媒材創作概念應用：<br>應用「英雄」相關理論，進行課間影視媒材賞析及創作。 <br>4.生命自我省思：<br>反覆檢視英雄的定義，讓學生內觀自省，嚴肅看待生命的本質、目的與意義，釐清人生方向，設定人生目標，並坦然接受生活的磨鍊。<br>",
+        "en": "This course is based on the concept of \"hero\" interpreted in Joseph Campbell’s book \"The Hero with a Thousand Faces \". It will discuss the definitions of \"hero\", \"hero’s journey” and the topics related:<br>1. The concept of \"hero\" and theories connected:<br>E.g. Carl Jung's \"collective unconsciousness\", \"architype\" and \" architype of hero \", Joseph Campbell's \"monomyth\" and \"hero’s journey\", and the prototype of \"superheroes\" created in comics, films and television dramas, etc.<br>2. Pattern of heroes’ characteristics, the shadows, challenges and journeys they encountered:<br>E.g. heroes in mythology in different cultural context, kings with legend, noble thieves, tragic heroes, heroines and superheroes created in comics, films and television dramas, etc.<br>3. Analyzing and de-constructing the structures of contemporary films and dramas: <br>In the class, students will watch heroic motion pictures which are inspired by Jung’s and Campbell's theories of heroes, analyze the structures and apply the structures to create stories by one-self.<br>4. Self-actualization for oneself:<br>E.g. encouraging students to review the theories of heroes constantly, to re-examine the nature, purpose and meaning of human life, to listen one’s inside voices and set goals for one’s life, and to depart for his/her hero’s/ heroine’s journey from status quo.<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "探討及應用當代英雄相關理論。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識各種英雄人物及其生命的際遇與抉擇。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養思辨及多元視界的能力，探究生命的本質、目的與意義。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "反觀自我，從公利出發，設定人生方向與目標，並坦然接受生命的磨難。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

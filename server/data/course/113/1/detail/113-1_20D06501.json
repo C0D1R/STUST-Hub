@@ -1,0 +1,139 @@
+{
+    "code": "20D06501",
+    "name": {
+        "zh": "工程數學(一)",
+        "en": "Engineering Mathematics(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技控晶二甲"
+    ],
+    "instructors": [
+        "李政翰"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "K412"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "K412"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "K412"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為必修一學年課程,分上下學期分別授課.上學期主要為微分方程,Laplace Transform,向量為三大主要部份.上課主要方式為定理及例題之講解及演算為主每章結束後均有作業之練習",
+    "prerequisites": "微積分",
+    "syllabus": {
+        "zh": "1.Introduction to Different Equation<br>   (a) Definition and Terminology<br>   (b) Initial-Value Problem<br>   (c) Differential equipment as mathematical Models <br>2.First-Order Differential Equations<br>   (a) Separable Variables<br>   (b) Linear equation(integral factor)<br>   (c) Exact equation<br>   (d) Solution by substitutions<br>   (e) Linear Models<br>3.High-Order Differential Equations<br>   (a) Linear equation<br>   (b) Reduction of order<br>   (c) Homogenous equation with constant coefficient<br>   (d) Undetermined coefficient <br>   (e) Variation of parameters<br>   (f) Cuachy-Euler equation<br>   (g) Linear models- with initial value problem<br>   (h) Linear models- with boundary value problem<br>Midterm     test<br>4.The Laplace Transform<br>  (a) Definition<br>  (b) The inverse transform<br>  (c) ranslation Theorems<br>  (d) Additional operational properties<br>  (e) Dirac Delta function<br>5.Vectors<br>  (a) Vector in 2-D space<br>  (b) Vector in 3-D space<br>  (c) The Dot product<br>  (d) The Cross product<br>  (e) Vector Space<br>Final test<br>",
+        "en": "1.Introduction to Different Equation<br>   (a) Definition and Terminology<br>   (b) Initial-Value Problem<br>   (c) Differential equipment as mathematical Models <br>2.First-Order Differential Equations<br>   (a) Separable Variables<br>   (b) Linear equation(integral factor)<br>   (c) Exact equation<br>   (d) Solution by substitutions<br>   (e) Linear Models<br>3.High-Order Differential Equations<br>   (a) Linear equation<br>   (b) Reduction of order<br>   (c) Homogenous equation with constant coefficient<br>   (d) Undetermined coefficient <br>   (e) Variation of parameters<br>   (f) Cuachy-Euler equation<br>   (g) Linear models- with initial value problem<br>   (h) Linear models- with boundary value problem<br>Midterm     test<br>4.The Laplace Transform<br>  (a) Definition<br>  (b) The inverse transform<br>  (c) ranslation Theorems<br>  (d) Additional operational properties<br>  (e) Dirac Delta function<br>5.Vectors<br>  (a) Vector in 2-D space<br>  (b) Vector in 3-D space<br>  (c) The Dot product<br>  (d) The Cross product<br>  (e) Vector Space<br>Final test<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解微分方程在不同工程領域的應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解一階與高階微分方程式不同的解題技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解拉式轉換過程中其相關定理証明及在工程上所代表意義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道利用拉式轉換解微分方程式與傳統解微分方程式技術所不同的地方",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道空間中直線與平面方程式決定的方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道空間中購成基底支條件及基底轉換的意義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

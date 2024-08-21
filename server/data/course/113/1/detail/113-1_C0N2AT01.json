@@ -1,0 +1,105 @@
+{
+    "code": "C0N2AT01",
+    "name": {
+        "zh": "職場實務探索(一)",
+        "en": "Career and Job Interview"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技應英三甲"
+    ],
+    "instructors": [
+        "周俊男"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第11節",
+            "location": "N502"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程是為讓學生從認識自己的性向(職能傾向)，特長開始， 學習去找尋適合自己的工作與行業。此外，學生將學習應徵、面試的重點，和做模擬演練。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一部分:是為讓學生認識自己的職能傾向，進而能依照自己的喜好與特長選擇適合自己的工作、行業。<br>第二部分:是了解業界的一般需求。<br>第三部份:希望學生能學習應徵、面試的重點，應該準備的必備文件<br>第四部份:做面試的模擬演練",
+        "en": "This course will cover the following subjects:<br>1.Understand yourself (personality traits and characteristics)<br>2.Understand the industries’ expectation and requirements for applicants.<br>3.Learn to prepare and write resumes and cover letters.<br>4.Learn the important points in a job interview with, and do the job interview practice in class."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能以清楚的英語進行溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備職場英文之知識與技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能學以致用，結合理論與實務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能遵守工作紀律，發揮團隊精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

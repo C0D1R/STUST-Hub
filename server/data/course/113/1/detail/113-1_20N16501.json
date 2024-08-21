@@ -1,0 +1,147 @@
+{
+    "code": "20N16501",
+    "name": {
+        "zh": "物理(一)",
+        "en": "Physics(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技電機一甲"
+    ],
+    "instructors": [
+        "張仲勲"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "I0306"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "I0306"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "I0306"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "物理學是所有科學研究最根本的基礎，它是關於運動、力、能量、物質、熱、聲、光以及原子的組合等基本事物的本質。",
+    "prerequisites": "數學工具：代數、幾何、三角函數",
+    "syllabus": {
+        "zh": "Chapter1 緒論<br>Chapter2 一度空間的運動<br>Chapter3 向量及二度空間的運動<br>Chapter4 運動定律<br>Chapter5 能量<br>Chapter6 動量和碰撞<br>Chapter7 轉動和重力定律<br>Chapter8 轉動平衡和轉動動力學<br>Chapter9 固體和流體<br>Chapter10 熱物理學<br>Chapter13 振動和波<br>Chapter14 聲音",
+        "en": "Chapter1 Introduction<br>Chapter2 Motion in One Dimension<br>Chapter3 Vectors and Two-Dimensional Motion <br>Chapter4 The Law of Motion<br>Chapter5 Energy<br>Chapter6 Momentum and Collisions<br>Chapter7 Rotational Motion and The Law of Gravity<br>Chapter8 Rotational Equilibrium and Rotational Dynamics<br>Chapter9 Solids and Fluids<br>Chapter10 Thermal Physics<br>Chapter13 Vibrations and Waves<br>Chapter14 Sound"
+    },
+    "weeklySchedule": "W1:模型測量向量<br>W2~W3:直線與平面運動<br>W4~W6:牛頓運動定律<br>W7~W8:圓周運動<br>W9期中考試<br>W10~W12:功、能量與動量<br>W13~W15:彈性與聲音<br>W16~W17:溫度與熱<br>W18:期末考試<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "小考(W5, W13)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解哥白尼所提的太陽為宇宙中心",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－筆記"
+                },
+                {
+                    "method": "平時",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道物體的自由落體公式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－筆記"
+                },
+                {
+                    "method": "平時",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用牛頓三大運動定律分析物體運動",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "知道地球以橢圓軌道繞太陽運轉",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－筆記"
+                },
+                {
+                    "method": "平時",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "解月球繞地球運轉是因為地球的重力所牽引",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "物理 College Physics, 9E",
+        "author": "Hugh D. Young",
+        "publisher": "高立圖書",
+        "year": "2013",
+        "ISBN": "9789862801789",
+        "edition": "9"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

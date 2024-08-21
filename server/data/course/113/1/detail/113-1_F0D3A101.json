@@ -1,0 +1,123 @@
+{
+    "code": "F0D3A101",
+    "name": {
+        "zh": "畢業策展與專案管理(一)",
+        "en": "Graduation Exhibition Curation and Project Management(Ⅰ)"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技資傳四甲",
+        "四技資傳四乙"
+    ],
+    "instructors": [
+        "鄭祿平"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "E0505"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "E0505"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在協助學生了解策展和專案管理的理論和實務知識，並培養學生策展和專案管理的能力，以應對不斷變化的展覽和專案環境。課程將包含策展基礎知識、策展設計、展覽專案管理、策展與專案管理實務、團隊合作與溝通、個人發展與職業規劃五個主題，並以講授、案例分析、小組討論、實作演練和個人報告等方式進行教學。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.策展基礎知識<br>◆策展的定義、歷史和發展趨勢<br>◆策展人的角色和職責<br>◆策展理念和策展風格<br>2.策展設計：介紹策展設計的概念、方法、流程和實務，並探索策展設計與空間設計、視覺傳達設計等相關領域的關聯。<br>3.展覽專案管理<br>◆專案管理的基礎知識<br>◆展覽專案管理的特點和挑戰<br>◆展覽專案管理流程和方法<br>4.策展與專案管理實務<br>◆展覽策展和專案管理的案例分析<br>◆策展和專案管理的執行和評估<br>◆展覽和專案管理中的風險管理和問題解決<br>5.團隊合作與溝通<br>◆團隊合作和溝通的基礎知識<br>◆團隊合作和溝通在策展和專案管理中的應用<br>◆團隊合作和溝通技巧和方法<br>6.個人發展與職業規劃<br>◆個人發展和職業規劃的基礎知識<br>◆策展和專案管理職業的發展趨勢和前景<br>◆個人發展和職業規劃策略和方法<br>",
+        "en": "1.Fundamentals of Curating<br>◆Definition, history, and trends of curating<br>◆Roles and responsibilities of curators<br>◆Curatorial concepts and styles<br>2.Curatorial Design: Introduce the concept, methods, process, and practice of curatorial design, and explore the relationship between curatorial design and related fields such as space design and visual communication design.<br>3.Exhibition Project Management<br>◆Fundamentals of project management<br>◆Characteristics and challenges of exhibition project management<br>◆Processes and methods of exhibition project management<br>4.Curatorial and Project Management Practices<br>◆Case studies of curatorial and project management<br>◆Execution and evaluation of curatorial and project management<br>◆Risk management and problem-solving in exhibitions and project management<br>5.Team Collaboration and Communication<br>◆Fundamentals of team collaboration and communication<br>◆Application of team collaboration and communication in curating and project managent<br>◆Techniques and methods for team collaboration and communication<br>6.Personal Development and Career Planning<br>◆Fundamentals of personal development and career planning<br>◆Development trends and prospects of curating and project management careers<br>◆Strategies and methods for personal development and career planning.<br>"
+    },
+    "weeklySchedule": "1.專案管理課程介紹<br>2.專案管理簡介<br>3.專案管理的過程<br>4.專案整合管理<br>5.專案範圍管理<br>6.專案時間與成本管理<br>7.專案品質管理<br>8.專案風險管理<br>9.專案人力資源管理<br>10.專案溝通管理",
+    "exams": {
+        "midterm": "會議討論",
+        "final": "會議討論",
+        "other": "會議討論"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "有能力為特定專案推薦一種有效的專案組織策略",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "有能力執行專案風險評估",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "有能力監控一個專案",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "有效的談判技巧、有效的開會技巧、如何與上司相處、以及有效的壓力管理",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "有能力規劃一個專案",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "需準時出席!"
+}

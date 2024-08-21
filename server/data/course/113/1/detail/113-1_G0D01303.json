@@ -1,0 +1,115 @@
+{
+    "code": "G0D01303",
+    "name": {
+        "zh": "數位系統導論",
+        "en": "Foundations of Digital Systems"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資工一丙"
+    ],
+    "instructors": [
+        "張鴻德"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "D205"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "D205"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "D205"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將對一般數位系統的設計理念做循序漸進的探討",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1 數目系統與數碼<br>2 交換代數<br>3 數位積體電路<br>4 交換函數化簡 <br>5 邏輯閘層次電路設計<br>6 組合邏輯電路模組設計 <br>7 同步序向邏輯電路<br>8 計數器與暫存器",
+        "en": "1 Number System and Digital Coding<br>2 Switching Algebra<br>3 Digital Integrated Circuit<br>4 Simplification of Switching Functions<br>5 Gate-Level Circuit Modelling <br>6 Modular Combinational Logic Design<br>7 Synchronous Sequential Circuits<br>8 Counters and Registers<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能解析數位系統的邏輯電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能撰寫數位系統專題的書面報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能用軟體製作數位系統的電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能接受數位系統的英文專業術語",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

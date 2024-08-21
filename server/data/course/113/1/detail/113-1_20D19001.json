@@ -1,0 +1,127 @@
+{
+    "code": "20D19001",
+    "name": {
+        "zh": "智慧型機器人學",
+        "en": "Intelligent Robotics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技控晶三甲"
+    ],
+    "instructors": [
+        "李政翰"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "K510"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "K510"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "K510"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程闡述智慧型機器人之基本概念、設計方法及應用技術等，旨在建立學生於機器人系統之設計理念及相關知識。由於機器人系統包括多項資電機系統，如何整合各種行為，為主要教授之課題。此外，本課程將以智慧型機器人為驗證對象，期提高學習興趣及認知。  <br>課程目標 <br>1. 透過本課程之研討，可使學生建立機器人學相關知識及應用實務技術。<br>2. 學習機器人學各項技術，可延伸應用至機電整合系統。<br>3. 機器人學之各項分部技術，均可獨立成為一項專門之研究方向，學生可從整體概念之建立，延伸至各部研究之發揮。<br>4. 預計使學生至少完成一項實際專題之演練，來驗證所學理念之可行性。  <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 自走式機器人之簡介<br>2. 機器人運動學及動力學<br>3. 組合式機器人之設計原理<br>4. 機器人之感知能力<br>5. 機器人之定位控制<br>6. 路徑規劃及導航<br>7. 行為導向控制系統<br>8. 機器人智能之設計概念<br>9. 其他相關技術<br>10. 機器人之應用<br>",
+        "en": "1. Introduction to autonomous mobile robots<br>2. Locomotion<br>3. Mobile Robot Kinematics<br>4. Perception<br>5. Mobile Robot Localization<br>6. Planning and Navigation<br>7. Behavior-based control system<br>8. Robotic Intelligence<br>9. Other Aspects of Autonomous Mobile Systems<br>10.Applications on Robotics<br> <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立學生於智慧型機器人系統之基本理念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立學生於智慧型機器人系統之基本理念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生熟習智慧型機器人之相關技術及世界各先進國家機器人科技應用範疇",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習人工智慧觀念、自然語言處理、機器人控制、感測、人機互動、辨識認知及相關應用問題等專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習人工智慧觀念、自然語言處理、機器人控制、感測、人機互動、辨識認知及相關應用問題等專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

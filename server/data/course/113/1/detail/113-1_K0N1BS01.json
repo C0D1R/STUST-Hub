@@ -1,0 +1,175 @@
+{
+    "code": "K0N1BS01",
+    "name": {
+        "zh": "AR/VR的探討與應用",
+        "en": "AR/VR Exploration and Application"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技多樂四甲"
+    ],
+    "instructors": [
+        "黃凱揚"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "W0609"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "W0609"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "W0609"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "擴增實境（Augmented Reality，簡稱 AR）是經由電腦產生的影像、物件或場景融入進真實世界的環境中，是一種即時計算出攝影機影像的位置及角度並加上相應圖像的技術，提昇感知的效果，將虛擬與真實結合，此技術的目標是在螢幕上把虛擬物件套在現實世界並進行互動。虛擬實境(Virtual Reality，簡稱VR) 必須透過頭戴式裝置（Head Mounted Display，縮寫為HMD），使用者才能擁有沉浸式體驗（Immersive Experience），透過實際執行操作，從中學習到實用的技巧；而虛擬環境更是隨著 3D 建模技術的進步，變得越來越寫實，讓使用者有更貼近現實的學習體驗！透過本課程從日常生活的真實應用，到一連串由簡至繁的專案開發，讓學生可充分體驗一個專案的開發過程所需考慮的面向，以及發想出有趣又實用的擴增實境應用，能真實地用於廣告行銷或教育等各大領域。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 擴增實境與虛擬實境定義<br>2. 擴增實境與虛擬實境相關應用<br>3. 擴增實境與虛擬實境所需設備<br>4. ARTIVIVE<br>5. MAKAR<br>6. BuildAR<br>7. FLARToolKit<br>8. WebAR Studio<br>9. Unity和Vuforia APP開發<br>",
+        "en": "1. Augmented Reality and Virtual Reality Definition<br>2. Augmented Reality and Virtual Reality Related Applications<br>3. Equipment Needed for Augmented Reality and Virtual Reality<br>4. ARTIVIVE<br>5. MAKAR<br>6. BuildAR<br>7. FLARToolKit<br>8. WebAR Studio<br>9. Unity and Vuforia APP Development<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1. 擴增實境與虛擬實境定義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2. 擴增實境與虛擬實境相關應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3. 擴增實境與虛擬實境所需設備",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4. ARTIVIVE",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5. MAKAR",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6. BuildAR",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "7. FLARToolKit",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "8. WebAR Studio",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "9. Unity和Vuforia APP開發",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

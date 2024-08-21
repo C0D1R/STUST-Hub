@@ -1,0 +1,140 @@
+{
+    "code": "I0D28G01",
+    "name": {
+        "zh": "嬰幼兒健康照護技術",
+        "en": "Principles and Technologies of Health Care for Infants and Children"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技幼保四甲"
+    ],
+    "instructors": [
+        "陳怡文"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "N006"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "N006"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "N006"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.中華民國技術士證-托育人員",
+        ""
+    ],
+    "description": "1.課程介紹(托育人員應檢資格&amp;應檢人須知解說) <br>2.為兩歲的幼兒刷牙&amp;為兩歲的幼兒清潔牙縫<br>3.為兩個月大嬰兒清潔口腔和洗澡<br>4.嬰兒心肺復甦術(CPR)&amp;嬰兒呼吸道阻塞急救法<br>5.幼兒傷口處理&amp;安全醫護區實務操作<br>6.清潔區&amp;安全醫護區實務操作<br>7.為兩個月大嬰兒沖泡120cc奶水，並餵食&amp;(實務操作)<br>8.為八個月大嬰兒製作副食品(蛋黃泥&amp;蘋果泥) &amp;(胡蘿蔔丁&amp;蘋果丁)並餵食 <br>9. 調製區(實務操作)<br>10.和一歲半幼兒一起坐在舒柔墊上看圖畫書&amp;和二歲幼兒一起玩麵粉糰&amp;教二歲幼兒洗手<br>11.教女童(男童)上廁所&amp;(實務操作)<br>12.調製區&amp;遊戲區實務操作<br>13.期末考(術科) <br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程簡介、解說考托育人員證照的資格與應檢須知。<br>2.介紹嬰幼兒基本生活照顧知能。<br>3.瞭解嬰幼兒清潔的注意事項。<br>4.學習幫助嬰幼兒沐浴、刷牙、潔牙的技巧。<br>5.瞭解嬰幼兒的營養需求及做法。<br>6.學習泡牛奶、副食品(蛋黃泥&amp;蘋果泥)(葫蘆蔔丁&amp;蘋果丁)的製作方式。<br>7.瞭解嬰幼兒安全與意外發生的處理技巧。<br>8.學習異物梗塞、CPR、傷口處理的急救技能。<br>9.瞭解托育設施、設備的選擇與運用。<br>10.學習教導男女幼童上廁所、洗手、說故事、玩麵粉糰的技巧。<br>11.期中考(學科)- 托育人員學科檢定參考試題<br>12.期末考：術科模擬考試(托育人員檢定項目-清潔區、調製區、遊戲區、安全醫護區。(15~18週)<br>",
+        "en": "1. Course introduction, explanation of the qualifications and inspection instructions for the examination of childcare personnel.<br>2. Introduce the basic life care knowledge of infants and young children.<br>3. Understand the precautions for cleaning infants and young children.<br>4. Learn techniques to help babies bathe, brush and clean their teeth.<br>5. Understand the nutritional needs and practices of infants and young children.<br>6. Learn how to make milk and side foods (egg yolk puree &amp; apple puree) (carrot &amp; apple puree).<br>7. Understand infant safety and accident handling skills.<br>8. Learn first aid skills for foreign body infarction, CPR, and wound management.<br>9. Understand the selection and use of childcare facilities and equipment.<br>10. Learn the skills to teach boys and girls to go to the toilet, wash their hands, tell stories, and play with flour balls.<br>11. Midterm Examination (Subject) - Reference questions for subject verification for nursery personnel<br>12. Final Examination: Mock Examination (Nursery Staff Verification Project - Clean Area, Modulation Area, Play Area, Safe Medical Care Area.(15~18 weeks)<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解嬰幼兒基本生活照顧知能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解托育人員所享的權利、義務，加強其保親溝通的技巧並遵守專業倫理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解清潔、餵食、遊戲及嬰幼兒疾病預防與安全急救常識與技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解托育人員考照的內容及技巧，並能正確、快速的完成每個要求。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養考生能隨機應變,臨危不亂的精神。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進考照率，協助學生能進入職場，從事托嬰、托兒的相關行業。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

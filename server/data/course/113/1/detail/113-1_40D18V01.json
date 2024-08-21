@@ -1,0 +1,127 @@
+{
+    "code": "40D18V01",
+    "name": {
+        "zh": "新能源與綠色科技",
+        "en": "Sustainable energy and green technology"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技化材二甲"
+    ],
+    "instructors": [
+        "林宏茂"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "I0209"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "I0209"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "I0209"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "能源的運用，雖然其對社會的進步與科技的演進有莫大的貢獻，但過去以來能源的開發卻也對環境造成極大的傷害、破壞及污染等。對能源議題有興趣，學習基本能源形態及轉換，並探討對環境之衝擊",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 簡介<br>2. 能源概述<br>3. 化石燃料<br>4. 核能<br>5. 太陽能、風能與地熱能<br>6. 水力發電與海洋能<br>7. 生質能<br>8. 氫能與燃料電池<br>9. 發電科技<br>10. 能源與環境<br>",
+        "en": "1. Introduction <br>2. Energy Overview <br>3. Fossil fuels <br>4. Nuclear energy <br>5. Solar, wind and geothermal energy <br>6. Hydro-power and ocean energy <br>7. Biomass <br>8. Hydrogen and Fuel Cell <br>9. Generation Technology <br>10. Energy and Environment<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能藉由瞭解綠色科技與新能源概論之原理以具備化工領域的專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能藉由與老師及其他學生討論綠色科技與新能源概論之問題以具備協調及溝通的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用網際網路平台收集並研讀相關資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能融入團隊並能完成自己所分擔的工作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解綠色科技與新能源概論可能對人類生活環境的影響並且要重視環保問題及理解專業倫理及社會責任",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

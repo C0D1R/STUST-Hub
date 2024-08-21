@@ -1,0 +1,115 @@
+{
+    "code": "J0D38C01",
+    "name": {
+        "zh": "3D角色建模",
+        "en": "3D Character Modeling"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技動畫二甲"
+    ],
+    "instructors": [
+        "高逸峯"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "W0709"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "W0709"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "W0709"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為 Maya 運用之基礎課程，指導學生將二維的角色設計稿製作成三維的立體模型，並能夠由動畫師使用在動畫製作中。除了角色設計與軟體運用的基礎課程外，亦包含對生物肌肉與骨架的理解以及3D拓樸的知識。<br><br>This course is a basic course for the use of Autodesk Maya. It guides students to make 3D character models from 2D concept arts and the models can be animated by animators in animation production. In addition to the character design and software using, it also includes the understanding of biological muscles and skeletons and the knowledge of 3D topology.",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "第一週 Maya 初探<br>第二週 3D 建模初探<br>第三週 角色設計<br>第四週 角色設計<br>第五週 NURBS建模練習<br>第六週 Polygon建模練習<br>第七週 Polygon 建模練習<br>第八週 期中建模製作<br>第九週 期中建模製作<br>第十週 建模拓樸知識<br>第十一週 頭部模型製作<br>第十二週 頭部模型製作<br>第十三週 手部模型製作<br>第十四週 肌肉與骨架知識<br>第十五週 基礎綁定<br>第十六週 基礎綁定<br>第十七週 期末建模製作<br>第十八週 期末建模製作",
+        "en": "Week 1 Introduction to Maya<br>Week 2 Introduction to 3D Modeling<br>Week 3 Character Design<br>Week 4 Character Design<br>Week 5 NURBS Modeling<br>Week 6 Polygon Modeling<br>Week 7 Polygon Modeling<br>Week 8 Mid-tern Project <br>Week 9 Mid-tern Project<br>Week 10 Topology Knowledge<br>Week 11 Human Head Modeling<br>Week 12 Human Head Modeling<br>Week 13 Fingers Modeling<br>Week 14 Muscles and Skeleton Knowledge<br>Week 15 Basic Rigging<br>Week 16 Basic Rigging <br>Week 17 Final Project<br>Week 18 Final Project"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "3D 模型製作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解3D拓樸學",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "肌肉線條理解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創意角色設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

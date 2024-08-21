@@ -1,0 +1,115 @@
+{
+    "code": "1JN00L01",
+    "name": {
+        "zh": "保健食品與高齡營養學",
+        "en": "Health food and nutrition for the older adult"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜二技高福三甲"
+    ],
+    "instructors": [
+        "劉明宜"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "O101"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "O101"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "O101"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "藉由食品與健康介紹，了解營養素以及保健食品的功能與應用，並從高齡者的角度出發，了解高齡者營養現況及高齡者在營養上的特殊性，並介紹各類保健食品其應用於高齡者照護相關之原則，及高齡者餐食設計應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.高齡者的營養生理變化與營養狀態評估<br>2.各大類營養素的介紹：醣類、脂質、蛋白質、維生素、礦物質、水與電解質等營養素<br>3.食品分子與健康：營養學以外的機能性分子探討<br>4.保健食品組成分及種類介紹：包含中藥材與藥膳保健性產品<br>5.延緩老化之營養素：抗老化營養素的種類與功能介紹<br>6.健康的飲食型態：地中海飲食、琉球群島飲食型態等健康飲食介紹<br>7.高齡者餐食料理：高齡者餐食的設計與烹調技巧<br>8.保健食品之應用未來展望：銀髮產業之應用<br>",
+        "en": "1. The nutritional physiological changes and nutritional assessment of the elderly<br>2. Introduction of nutrients: sugars, lipids, proteins, vitamins, minerals, water and electrolytes<br>3. Food ingredients and health: introduction of functional ingredients of food<br>4. Introduction of various health foods: including Chinese medicinal materials and health products<br>5. Nutrients that delay aging: introduction of types and functions of anti-aging nutrients<br>6. Healthy eating pattern: introduction of healthy eating such as Mediterranean diet, OKINAWA Islands eating pattern<br>7. Elderly meals: the design and cooking skills of elderly meals<br>8. Future prospects for the application of health food<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "高齡者營養生理變化與營養狀態評估",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "各大類營養素的生理功能與缺乏症",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "保健食品的功能與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "高齡者餐食料理、健康飲食型態",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

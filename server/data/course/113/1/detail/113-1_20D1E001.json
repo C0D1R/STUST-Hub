@@ -1,0 +1,140 @@
+{
+    "code": "20D1E001",
+    "name": {
+        "zh": "印刷電路板設計實習",
+        "en": "Printed Circuit Board Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技控晶一甲",
+        "四電機國專一甲"
+    ],
+    "instructors": [
+        "黃冠傑"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "B401"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "B401"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "B401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程是在介紹電路繪圖及PCB佈線原理,從電路圖的繪製到手動或自動的佈線,並介紹PCB的製作.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. PSpice/ Capture 簡介<br>2. 第一張電路圖 and 進階電路繪製技巧<br>3. 偏壓點和直流分析 (歐姆定律)<br>4. 交流分析 (RC電路之頻率響應)<br>5. 暫態分析 (OP-Amp反相放大器)　<br>6. 二極體V-I特性曲線 and 二極體應用電路<br>7. 雙載子接面電晶體之集極特性曲線 and 共射極放大器<br>8. 金氧半場效電晶體之洩極特性曲線 and CMOS反相器<br>9. CMOS偏壓電路<br>10. 溫度分析與性能分析<br>11. 雜訊分析 and 富立葉分析<br>12. 參數分析與性能分析<br>13. 蒙地卡羅分析與性能分析 and 最差情況分析",
+        "en": "1. Pspice and Capture<br>2. First schematic and advanced entry technique<br>3. DC analysis<br>4. AC analysis<br>5. Transient Analysis<br>6. VI curve of diode and it application circuit<br>7. IV curve of BJT and CE amplifier analysis<br>8.IV curve of CMOS and inverter cidcuit analysis<br>9. CMOS bias circuit<br>10. Temperature analysis<br>11. Noise and Fourier analysis<br>12. Parameter analysis<br>13. Monte Carlo analysis and worst case analysis"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學會使用PCB應用設計軟體",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解線路圖繪製設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解PCB規格與材料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解PCB佈線技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解PCB成品製作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解PCB檢驗",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

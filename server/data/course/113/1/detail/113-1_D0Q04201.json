@@ -1,0 +1,115 @@
+{
+    "code": "D0Q04201",
+    "name": {
+        "zh": "智慧零售專題",
+        "en": "Topics on Smart Retail"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專行流二甲"
+    ],
+    "instructors": [
+        "莊勝雄"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第2節",
+            "location": "T0213"
+        },
+        {
+            "day": "週六",
+            "period": "第3節",
+            "location": "T0213"
+        },
+        {
+            "day": "週六",
+            "period": "第4節",
+            "location": "T0213"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過人工智慧整合各種物聯網裝置，新的智慧零售店打造消費者全新體<br>驗，零售市場因而發生劇烈變化。人工智慧也替智慧零售應用領域注入<br>新動能:「數位看板系統、影像分析設備、電子標籤與智慧零售系統」四<br>大領域導入新技術與方式並不斷升級，值吾人得留意。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.IT零售現代化資料平台<br>2.雲端技術與零售流程<br>3.零售數位化工作區<br>4.消費資訊安全平台<br>5.物聯網與智慧零售<br>6.數位看板與智慧零售<br>7.影像分析與智慧零售<br>8.消費者行為與AI決策<br>9.智慧型自動販賣機<br>10 無人化商店",
+        "en": "1.Retail Modernization &amp; IT Technology<br>2.Cloud technology &amp; retail processes<br>3.Retail digitalization workspace<br>4.Consumer information security<br>5.Internet of Things &amp; Smart Retail<br>6.Digital signage &amp; Smart Retail<br>7.Image analysis &amp; Smart Retail<br>8.Consumer behavior &amp; AI technology<br>9.Smart vending machine<br>10.Unmanned store"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解智慧化時代下零售發展趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解ICT關鍵技術與應用情境",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析零售流程與嵌入技術運用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "個案資料蒐集與討論促進思考與學習。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

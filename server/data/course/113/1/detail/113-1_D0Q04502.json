@@ -1,0 +1,141 @@
+{
+    "code": "D0Q04502",
+    "name": {
+        "zh": "實務研討(B)",
+        "en": ""
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專教經一甲",
+        "碩專休閒一甲",
+        "碩專行流一甲",
+        "碩專財法一甲"
+    ],
+    "instructors": [
+        "方妙玲",
+        "毛佩娟",
+        "王姿力",
+        "王智昊",
+        "伍家德",
+        "吳聰皓",
+        "呂昭顯",
+        "林義旭",
+        "黃經智",
+        "楊蓓涵",
+        "賴明材",
+        "簡俊成"
+    ],
+    "schedule": [
+        {
+            "day": "週日",
+            "period": "第12節",
+            "location": "S302"
+        },
+        {
+            "day": "週日",
+            "period": "第13節",
+            "location": "S302"
+        },
+        {
+            "day": "週日",
+            "period": "第14節",
+            "location": "S302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "",
+        "en": ""
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "實務專題簡報",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "管理實務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "論文寫作技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "視覺化資料分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "企業參訪與討論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

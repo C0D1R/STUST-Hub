@@ -1,0 +1,115 @@
+{
+    "code": "01N06Y04",
+    "name": {
+        "zh": "哲學與人生",
+        "en": "Philosophy And Life"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技應英一甲"
+    ],
+    "instructors": [
+        "方中士"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "T0104"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "T0104"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "T0104"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以科技大學學生共同的人生問題為起點。從這裡出發，目的在於拉近哲學和人生問題的距離。同時，我們採專題的方式，將同學在學校及畢業後最可能面對的人生情境融入其中。在人生所可能面臨的問題中，哲學這門古老的學問仍能發揮「指點」人生的功能。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.導論：人生、繞路與哲學<br>延伸主題討論：為什麼讀大學？<br>2.哲學是什麼？<br>延伸主題討論：偵探故事的推理法則與辯證法<br>3.認識你自己<br>延伸主題討論：亞里斯多德論「朋友是另一個自我」<br>4.洞悉生命的無常與死亡<br>延伸主題討論：從「被遺忘的時光」來看「生命的品質」與「生命的尊嚴」間的爭議<br>5.為什麼要遵守法律規則？<br>延伸主題討論：公民不服從權與政治權力的正當合法性<br>6.誰在控制我們？<br>延伸主題討論：從「權力」來談個人與體系<br>7.藝術與人生<br>延伸主題討論：音樂的穿透性與敘事想像力<br>8.宗教與人生<br>延伸主題討論：「少年Pi的奇幻漂流」中的宗教意涵",
+        "en": "1. Introduction: Life, Detours and Philosophy<br>2. What is philosophy?<br>3. Know yourself<br>4. Insight into the impermanence and death of life<br>5. Why do you have to abide by the rules of law?<br>6. Who is controlling us?<br>7. Art and life<br>8. Religion and life"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解「人生」的意義，進而反思個人的人生意義。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "引導學生在遭遇困難或陷入低潮時，能以正向積極的態度面對。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解遵守法律規則及規範之重要性，提升學生社會性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解自己，認識自己，進而能以同理心去關懷服務他人。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,128 @@
+{
+    "code": "60D33Y01",
+    "name": {
+        "zh": "商務溝通與簡報技巧",
+        "en": "Business Communication and presentation skills"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國企二甲",
+        "四技國企二乙"
+    ],
+    "instructors": [
+        "楊維珍"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S512"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "S512"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "S512"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程設計強調實用性，希望學生從現實生活中真實的傾聽表達與應對交際做起，學會適當的說話與人交際之重要性。本課程強調情境性與互動性，學習各種場合、各種局面下的說話溝通技巧，通過實際演練，增進口語溝通與商務簡報之能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "壹、面試應聘技巧<br>(一)自我介紹<br>(二)口說能力展示<br>(三)考官問答演練<br><br>貳、交際溝通<br>(一)小組討論<br>(二)賽場辯論<br><br>叁、商務簡報與口語表達技巧<br>(一)商務簡報製作<br>(二)命題簡報演說<br>(三)即興演說<br>",
+        "en": "1. Interview application skills<br>(1) Self introduction<br>(2) Demonstration of speaking ability<br>(3) Examiner Q&amp;A walkthrough<br><br>2. Communication<br>(1) group discussion<br>(2) Field debate<br><br>3. Business briefing and oral presentation skills<br>(1) Business briefing production<br>(2) Proposition briefing speech<br>(3) Impromptu speech<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "口語表達技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "團體溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "商務簡報能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "邏輯思考能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "國際商務知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

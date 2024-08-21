@@ -1,0 +1,110 @@
+{
+    "code": "10D36201",
+    "name": {
+        "zh": "基礎力學",
+        "en": "Fundamental of Mechanics"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "四技自控二甲",
+        "四技自控二乙",
+        "四技製造二甲",
+        "四技製造二乙",
+        "四技車輛二甲",
+        "四技車輛二乙"
+    ],
+    "instructors": [
+        "林儒禮"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "K302"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程目的強化本系技優學生的力學基礎，介紹力學所有的基本觀念以及所需的數學技巧，透過帶領學生實際演算及結合教具，提升學生的能力，便於銜接靜力學、材料力學、動力學等課程。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.力學介紹<br>2.力、力矩、力偶<br>3.自由體圖<br>4.靜力學與平衡<br>5.材料力學與應力、應變<br>6.動力學與牛頓運動定律<br>",
+        "en": "1. Introduction to Mechanics<br>2. Force, Moment, and Couple<br>3. Free Body Diagram<br>4. Equilibrium and Statics<br>5. Stress, Strain and Mechanics of Material<br>6. Newton's laws of motion and Dynamics<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解學習力學的目的",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理論與實驗的驗證",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "力學的實際應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "專有名詞",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

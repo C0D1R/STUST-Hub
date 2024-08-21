@@ -1,0 +1,127 @@
+{
+    "code": "E0N09501",
+    "name": {
+        "zh": "日語基本句型練習(一)",
+        "en": "Japanese Sentence Pattern Practice I"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技應日一甲"
+    ],
+    "instructors": [
+        "朱婉婷"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0103"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0103"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0103"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過學習日文初級文法句型及單字，目標為培養日常生活日語會話的能力。藉由這些基礎能力的養成，來提升日語學<br>習者初級句型文法的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "（A組）<br>1 五十音 (平假名、片假名、濁音、拗音<br>等)<br>2「～は～です」名詞句<br>3時間と數字<br>4指示代名詞<br>5形容詞の活用<br>6動詞の活用<br>7引用(と)<br>8推測(だろう)<br>9同時(ながら)<br>10 自動詞、他動詞<br><br>(以上僅供參考,會視實際情形作適當調整)",
+        "en": "（A組）<br>1 五十音 (ひらがな、カタカナ、濁音、<br>拗音など)<br>2「～は～です」名詞句<br>3時間と数字<br>4指示代名詞<br>5形容詞の活用<br>6動詞の活用<br>7引用(と)<br>8推測(だろう)<br>9同時(ながら)<br>10 自動詞、他動詞<br><br>(以上は参考のみで、場合によって調整することもあります。)<br><br>初級文法・文型、語彙の学習を通して<br>、最終的には日常生活に必要な会話力<br>を習得させることを目標としています<br>。文法・文型の学習および語彙の学習<br>によって、日本語の初級文法の力を着<br>実に伸ばすことができます。"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過閱讀文章，了解及掌握日語的基本句 型及語法架構。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用習得的日語能力，透過閱讀及朗誦日 語文章可以培養基礎的翻譯及口譯能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用語言練習，達到訓練與人溝通的技巧 與能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "面對各種句法問題，能獨立思考、判斷， 並正確地使用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過閱讀文章提升欣賞文學藝術作品之 美能力及素養。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

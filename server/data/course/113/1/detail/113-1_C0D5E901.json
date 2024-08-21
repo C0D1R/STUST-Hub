@@ -1,0 +1,115 @@
+{
+    "code": "C0D5E901",
+    "name": {
+        "zh": "專案管理英文實務與應用",
+        "en": "English Practice and Application of Project Management"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應英三甲"
+    ],
+    "instructors": [
+        "楊晴絨"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "N309"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "N309"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "專案無所不在，專案知識與管理技能如何靈活運用，可成為專案成敗的關鍵。<br>應用英語系最容易遇見的專案莫過於專題報告與簡報。本課程幫助學生了解專案管理，更嚴謹、有系統的方法進行專案的控管，讓專案能夠妥善處理人力與經費、時程不拖延，提升成功的機率和管理的績效，交出高品質的成果。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.專案團隊形成的五階段與五原則<br>2.專案的啟動與會議<br>3.專案的規劃步驟<br>4.專案架構的八個面向<br>5.專案管理策略思考的方法<br>6.專案的執行、監控與風險管理<br>7.專案成果的呈現<br>",
+        "en": "1.Five stages and five principles of project team formation<br>2.Project launch and meeting<br>3.Project planning steps<br>4.Eight aspects of project architecture<br>5.Project management strategy and thinking approaches <br>6.Project execution, monitoring, and risk management<br>7.Presentation of project results<br>"
+    },
+    "weeklySchedule": "Read a story about an accidental project manager to learn:<br>1. PM Challenges and rewards<br>2. History of PM<br>3. What is a project<br>4. Project characteristics<br>5. Project stakeholders<br>6. The politics of projects<br>7. What is PM<br>8. PM areas of expertise<br>9. The project life cycle<br>10. Project initiations<br>11. Project charter<br>12. Project planning<br>13. Project execution<br>14. Project closeout<br><br>plus Targeting TOEIC: Students will apply project management principles to plan and execute a project aimed at improving their TOEIC scores. This could involve creating study plans, organizing study groups, or developing practice materials.<br><br>",
+    "exams": {
+        "midterm": "quizzes",
+        "final": "reflection journals",
+        "other": "N/A"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解甚麼是專案管理",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習嚴謹並且有系統地進行專案的控管",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習妥善掌控人力、經費與時程",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "提升專案成功的機率和管理的績效，交出高品質的成果",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "N/A",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

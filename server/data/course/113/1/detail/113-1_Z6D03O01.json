@@ -1,0 +1,140 @@
+{
+    "code": "Z6D03O01",
+    "name": {
+        "zh": "跨域AI機器人3D數位孿生互動遊戲設計(一)",
+        "en": "Cross-domain AI robot 3D digital twin interactive game design (I)"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技工學院學分"
+    ],
+    "instructors": [
+        "徐芳真",
+        "鄞宗賢"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "K401"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "K401"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "K401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過機器手的操控、創作、遊戲，整合跨域學習共同設計，讓各方專業互相在課堂交流。從場景腳本設計、學習3D與程控基本概念，到活動表現策畫與執行，學生各自發揮展現認識學習的目的與樂趣。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.機器人作業系統使用<br>2.元宇宙Human-Robot interaction遊戲設計<br>3.3D軟體與Unity 3D跨平台互動式遊戲軟體操作<br>4.影像擷取／辨識工具使用<br>5.人體姿態辨識工具與機器人控制<br>6.分組腳本創作與技術實作指導<br>",
+        "en": "無"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1跨領域合作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "機器人作業系統與3D環境建置/操作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "遊戲腳本與場景創作及互動設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "人機互動應用軟體使用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "簡報與行銷能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "文件與影像紀錄能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,122 @@
+{
+    "code": "90D23303",
+    "name": {
+        "zh": "專業英文",
+        "en": "English Communication for Specific Purposes"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技資管三丙"
+    ],
+    "instructors": [
+        "潘慧純"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "T0113"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0113"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "2.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "教導學生職場英文相關知識及培養學生在職場上應用英文的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 資訊與網路世界 <br>2. 職場詞彙<br>4. 製作英文PPT<br>5. 自傳/履歷表撰寫<br>6. 英文簡報技能 <br>",
+        "en": "1. Information &amp; Using the Internet<br>2. Terminology in Workplace <br>2. PPT in English <br>3. Biography/Resume Writing <br>4. Presentation Skills"
+    },
+    "weeklySchedule": "Week 1: The Course Introduction/How to use AI tools to improve English capability<br>Week 2: Unit 1 COVID-19 Pandemic/Unit 2 Tesla<br>Week 3: Unit 3 Tablets/Unit 4 Touchscreens<br>Week 4: Unit 5 Unmanned Aerial Vehicle/Unit 6 Accelerometer &amp; Gyroscope<br>Week 5: Unit 7 Knowledge Management/Unit 8 What are Trademarks?<br>Week 6: Unit 9 What is Copyright?/Unit 10 Patents in the USA<br>Week 7: Unit 11 Filling a Design Patent/Unit 12 Non-Provisional Utility Patent Application<br>Week 8: Unit 13 Flexible Manufacturing in the USA<br>Week 9: Mid-term Exam<br>Week 10: Unit 14 Taguchi's Ideas about Quality<br>Week 11: Unit 15 CAD / CAM / CAE ~Unit 16 Simulation of a Manufacturing / Warehousing System<br>Week 12: Unit 17 Development of E-commerce in Manufacturing Operations/Unit 18 Digitization in Telecommunications<br>Week 13: Unit 19 Origin of Integrated Circuit/Unit 20 Fabrication of Integrated Circuit<br>Week 14: Unit 21 Killers of Semiconductors<br>Week 15: Unit 22 TFT-LCD Displays/Unit 23 LED and OLED Displays<br>Week 16: Unit 24 Virtual Reality<br>Week 17: Unit 25 Applications of Nanotechnology in Bio-Engineering /Unit 26 Research in Stem Cells<br>Week 18: Final Report<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "報告",
+        "other": "平時出席表現/課堂作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解英語基本知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能分析資管相關專業英語資料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能正確應用英語與外籍專業從業人員溝通",
+            "teachingMethods": [
+                "實作演練",
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能體認英語重要性並能適應社會全球化趨勢",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "科技英文導讀 Selective Readings in Technology and Management",
+        "author": "李開偉",
+        "publisher": "全華圖書股份有限公司",
+        "year": "2022",
+        "ISBN": "978-626-328-116-5",
+        "edition": "6"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "本課程會利用AI工具進行口語、閱讀與書寫的操演，可帶筆電上課。課程將搭配資管期刊與相關雜誌進行補充與討論。"
+}

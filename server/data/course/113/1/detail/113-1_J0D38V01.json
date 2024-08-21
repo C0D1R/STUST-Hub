@@ -1,0 +1,132 @@
+{
+    "code": "J0D38V01",
+    "name": {
+        "zh": "場域活化設計",
+        "en": "Placemaking Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "二技創設三甲",
+        "四技創設三甲"
+    ],
+    "instructors": [
+        "陳一夫"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "W0509"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "W0509"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0509"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "近年來無論在社區營造或地方創生領域，透過設計翻轉地方已成為國內外政府及民間部門重要的實踐手法，社會大眾對於設計師之期待也不同於以往，除視覺美感外，也期望對地方經濟及社會層面有積極作為。本課程擬介紹社區營造與地方創生之基本學理，輔以國內外案例分析，並帶領學生走入地方，以參與式設計方法來處理真實世界中場域活化議題，培養學生對場域問題的觀察與分析能力，也鍛鍊以設計解決問題之能力。In recent years, whether in the field of communication empowerment or placemaking, transforming places through design has become an important method for domestic and foreign governments and private sectors. The public’s expectations for designers are also different from the past. In addition to visual aesthetics, designers are also expected to make positive contributions to the local economy and society. This course intends to introduce the basic theories of community empowerment and placemaking, supplemented by case analysis around the world. The course will take students into places to use participatory design to deal with real-world placemaking issues. The course will enhance students' ability to observe and analyze field problems, and also exercise their ability to solve problems through design.",
+    "prerequisites": "具備空間電腦繪圖及設計基礎能力",
+    "syllabus": {
+        "zh": "1.社區營造與地方創生<br>2.參與式設計方法<br>3.地方議題探索：觀光、特產與地方品牌<br>4.地方議題探索：食農、生態與永續<br>5.地方發展願景與議題確認<br>6.田野調查操作<br>7.場域方案企劃與提案<br>8.場域策展與交流<br>",
+        "en": "1.Community empowerment and placemaking<br>2.Participatory design<br>3.Exploring local issues: Tourism, specialty and local brand<br>4.Exploring local issues: Agri-food, ecology and sustainability<br>5.Local development vision and issue identification<br>6.Fieldwork<br>7.Project planning and proposals<br>8.Curation and Communication<br><br>"
+    },
+    "weeklySchedule": "09/10 課程說明<br>09/17 中秋節放假<br>09/24社區營造與地方創生<br>10/01 地方議題探索：觀光、特產與地方品牌<br>10/08 地方議題探索：食農、生態與永續<br>10/15 業師授課：場域規劃與基地調查方法<br>10/22 參與式設計方法<br>10/29 校外教學：國小閒置空間活化願景工作坊<br>11/05 地方議題梳理與對策研擬<br>11/12 期中報告：場域活化議題設定與對策<br>11/19 校園空間活化規劃與案例<br>11/26 場域活化方案企劃<br>12/03 場域活化方案小組研討（一）<br>12/10 場域活化方案小組研討（二）<br>12/17 場域模型製作<br>12/24 成果發表演練<br>12/31 場域活化方案現地成果發表<br>01/07 期末報告：場域活化方案檢討<br>",
+    "exams": {
+        "midterm": "場域活化議題設定與對策簡報",
+        "final": "現地成果發表、場域活化方案檢討報告",
+        "other": "願景工作坊成果、小組研討"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "場域設計能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "場域活化企劃能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "場域專案提案能力",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "非課堂展演",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "團隊合作能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "參與式設計能力",
+            "teachingMethods": [
+                "座談"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "非課堂展演",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.山崎亮著、莊雅琇譯，2018，社區設計的時代：用「不造物的設計」概念打造二十一世紀理想社會，全面探索社區設計的工作奧義、設計總體方針，以及如何與社群團體培養合作默契，台北市：臉譜、城邦文化。<br>2.王本壯等著，2014，落地生根：台灣社區營造的理論與實踐，台北市：唐山。<br>",
+    "teachingSoftware": "",
+    "rules": "1.本課程獲USR種子計畫補助印刷費與材料費<br>2.為培養學習態度，老師會每堂課點名並列入成績評量，生病或有要事未能出席請先請假告知原因，敬請大家注意！<br>3.工作坊、小組討論、作業與報告需各組員共同參與，學期末會進行「小組成員互評」，將作為加減分重要依據。<br>4.請同學尊重智慧財產權，使用正版教科書，不得非法影印，不得抄襲參考資料，以免觸犯智慧財產權相關法令。"
+}

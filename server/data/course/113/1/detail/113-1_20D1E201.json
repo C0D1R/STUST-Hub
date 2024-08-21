@@ -1,0 +1,151 @@
+{
+    "code": "20D1E201",
+    "name": {
+        "zh": "視窗程式語言實習",
+        "en": "Windows Programming Language Practice"
+    },
+    "credit": "2",
+    "type": "系定選修",
+    "classes": [
+        "五專電機三甲"
+    ],
+    "instructors": [
+        "黃冠傑"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "B502"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "B502"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "B502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹並學會使用最新的C#程式語言設計基本視窗程式。除了基本的console介面的程式以外，並能夠進一步寫出較為友善的視窗介面程式。內容包含C#的語法.Net framework的精神及直覺的視窗程式設計。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.C#簡介<br>2.基本語法<br>3.基本輸入輸出<br>4.決策敘述<br>5.迴圈敘述<br>6.陣列<br>7.方法<br>8.類別與物件<br>9.數值<br>10.字串<br>11.時間<br>12.集合<br>13.串流與檔案<br>14.進階輸出入元件<br>15.事件<br>16.繪圖",
+        "en": "1.Introduction:C#<br>2.Basic syntax<br>3.Basic I/O<br>4.Flow control<br>5.Loop statements<br>6.Array<br>7.Methods<br>8.Numeral<br>9.String<br>10.Time<br>12.Set<br>13.Stream and files<br>14.Advanced I/O component<br>15.Events and forms<br>16.Painting in windows forms"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解視窗程式發展之相關知識與實際運用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會有關程式設計的邏輯觀念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會視窗各元件與視窗表單的設計。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "實際建構程式專案並執行。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會程式流程的控制與追蹤。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解程式的資料存放結構與陣列。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解觸發事件與函式的用法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

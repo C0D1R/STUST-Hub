@@ -1,0 +1,139 @@
+{
+    "code": "70N14E01",
+    "name": {
+        "zh": "企業電子化",
+        "en": "Electronic Business"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜二技企管三甲"
+    ],
+    "instructors": [
+        "王昭庸"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "S209A"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "S209A"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "S209A"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "充分瞭解基本的企業資源規劃系統導入之規劃(ERP)和企業電子化策略規劃與設計(BPR)的知識、技術、工具與方法之整合、運用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一單元 網際網路變遷之特質<br>第二單元 企業經營模式的構成要素<br>第三單元 企業經營模式的分類<br>第四單元 企業電子化策略規劃與設計(BPR)的知識、技術、工具與方法之整合、運用<br>第五單元 企業資源規劃系統導入之規劃(ERP)的知識、技術、工具與方法之整合、運用",
+        "en": "Unit 1: The Factors of Internet Development<br>Unit 2: The Components of Business Model<br>Unit 3; The Classification for Business Model<br>Unit 4: Integration and Application of Enterprise Electronic Strategy Planning and Design (Business Process Resource)<br>Unit 5: Integration and Application of Knowledge, Technology, Tools and Methods for Enterprise Resource Planning System"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解企業電子化的策略規劃與設計的基本學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析人力專長如何助益企業電子化策略的成功",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析電子化生產作業或服務流程管理之相關流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能評估一個成功電子化策略的各個面向知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將企業電子化專業知識及重整後知識，或獲取證照來展示其實務應用能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用企業電子化相關資訊科技於管理工作上",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

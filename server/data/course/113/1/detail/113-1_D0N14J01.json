@@ -1,0 +1,127 @@
+{
+    "code": "D0N14J01",
+    "name": {
+        "zh": "商用套裝軟體",
+        "en": "Business Computer Software Applications"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜行流產攜二甲"
+    ],
+    "instructors": [
+        "李介里"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "T0214"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "T0214"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "T0214"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "MS Office是目前微軟公司所發行的產品中，最暢銷且實用的整合性辦公室自動化軟體，也是目前許多公司最常使用的文件、試算表、簡報設計與編輯軟體。因此，本課程的主要目標是讓低年級的同學在課程中學習、練習並熟悉使用Office中的Word、PowerPoint及Excel三種軟體，以提升同學們之商用套裝軟體的使用能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Word之相關應用<br>1.Word之編輯與格式<br>2.Word表格與圖表的建立<br>3.Word之版面設計與處理<br>PowerPoint之相關應用<br>1.PPT之編輯與列印<br>2.PPT之表格設計與製作<br>3.PPT簡易播放與特效製作<br>Excel之相關應用<br>1.公式與函數的應用<br>2.工作表格式的設定<br>3.圖表的編輯<br>4.樞紐分析表<br>5.統計分析與預測<br>",
+        "en": "Word Application<br>1. Word Editing<br>2. Table Building and Design<br>3. Word Format Design<br>PowerPoint Application<br>1. PPT Editing and Printing<br>2. PPT Table Building and Design<br>3. Special Effects Design in PPT<br>Excel Application<br>1. Function and Formula Use<br>2. Worksheet Setting and Design<br>3. Tables and Graphics Editing<br>4. Hub Analysis<br>5. Statistical Analysis and Prediction"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使用Word編輯文件、圖表及製作書面報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使用Excel計算、統計、彙總並繪製統計圖表",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使用Power Point設計並製作出完整簡報",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "商管文件、試算表、投影片基本製作說明",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "文件及投影片設計概念介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,127 @@
+{
+    "code": "M0D15X01",
+    "name": {
+        "zh": "感官品評",
+        "en": "Sensory Evaluation"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技餐旅四甲",
+        "四技餐旅四乙"
+    ],
+    "instructors": [
+        "葉佳聖"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0304"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0304"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "了解餐飲感官品評之定義及應用，設計及運用不同之感官品評單並實際設計主題體驗感官品評。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "教學主題<br>課程介紹及分組討論<br>食品感官品評之樣品處理<br>食品感官品評之方法(一)定性差異分析<br>食品感官品評之方法(二)定量差異分析<br>食品感官品評的方法(三)描述分析<br>消費者型感官品評<br>食品感官品評員之選擇與訓練<br>餐飲官能品評實作示範<br>官能品評實習<br>",
+        "en": "Teaching theme<br>Course description and group discussions<br>Food sensory evaluation of sample handling<br>Food sensory evaluation method (a) analysis of qualitative differences<br>Food sensory evaluation method (b) analysis of quantitative differences<br>Food sensory evaluation methods (c) a descriptive analysis<br>Consumer sensory evaluation<br>Member selection and training of food sensory evaluation<br>Implementation of demonstration on food and beverage sensory evaluation<br>Sensory Evaluation of Practice<br>"
+    },
+    "weeklySchedule": "本課程介紹相關證照<br>同時配合實作，有助學生了解實際操作方式<br>第一章　緒　論3<br>第一節　食品感官品評的定義8 <br>第二節　食品感官品評的歷史9 <br>第三節　食品感官品評的重要性15<br>第四節　食品感官品評的應用範圍18<br>第二章　食品感官性質與人類五官感覺31<br>第一節　外觀37<br>第二節　風味40<br>第三節　質地44<br>第三章　食品感官品評之場所49<br>第一節　感官品評場所的組成部門、設備與要件53<br>第二節　感官品評室設計應注意的事項60<br>第三節　品評次數之計算65<br>第四章　食品感官品評之樣品處理69<br>第一節　與樣品特性相關的處理73<br>第二節　與容器相關的處理77<br>第三節　漱口與贈品或酬勞85<br>第四節　品評員品評時之心態86<br>第五章　食品感官品評員之選擇與訓練91<br>第一節　品評員的種類95<br>第二節　品評員的篩選與測試98<br>第三節　品評員的訓練100<br>第四節　敏感度102<br>第六章　食品感官品評之方法(一)定性差異分析107<br>第一節　食品感官品評常犯的錯誤111<br>第二節　一般使用食品感官品評方法的順序113<br>第三節　食品感官品評的方法114<br>第四節　簡單對比法116<br>第五節　三角試驗法118<br>第六節　一、二點試驗法119<br>第七節　多項比較法121<br>第七章　食品感官品評之方法(二)定量差異分析125<br>第一節　順位法129<br>第二節　評分法132<br>第三節　比例法134<br>第四節　時間與感覺強度關係137<br>第九章　消費者型感官品評167<br>第一節　消費者型感官品評之基本理念171<br>第二節　消費者型感官品評場所176<br>第三節　消費者型感官品評之種類與方法177<br>第四節　消費者型感官品評之問卷與採樣182<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "口頭報告",
+        "other": "授課與討論"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解感官品評基礎知識與正確觀念及其方法",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能熟練運用感官品評方法",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "運用於餐旅新產品開發與改善",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能正確表述感官品評操作方式與目的",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "食品感官品評學及實習",
+        "author": "區少梅",
+        "publisher": "華格那出版有限公司",
+        "year": "2012",
+        "ISBN": "978-986-5929-24-4",
+        "edition": "(三版)"
+    },
+    "referenceBooks": "劉伯康、莊朝琪(2014)食品感官品評，新文京。",
+    "teachingSoftware": "word\nppt",
+    "rules": "1.實作部分會有少許材料費由課程計畫支出<br>2.一次校外參訪教學"
+}

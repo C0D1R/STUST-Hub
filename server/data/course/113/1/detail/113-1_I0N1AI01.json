@@ -1,0 +1,134 @@
+{
+    "code": "I0N1AI01",
+    "name": {
+        "zh": "教具製作與應用",
+        "en": "Designing and Application of Teaching Materials"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜二技幼保三甲"
+    ],
+    "instructors": [
+        "陳春鳳"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "W0402"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "W0402"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "從相關理論與實務中瞭解教具對幼兒發展的影響，並且訓練學生自製教學教具及研發創意教具的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.幼兒教具製作之相關理論與原理。<br>2.幼兒身體動作與健康領域教具之製作與應用。<br>3.幼兒認知領域教具之製作與應用。<br>4.幼兒語文領域教具之製作與應用。<br>5.幼兒社會領域教具之製作與應用。<br>6.幼兒情緒領域教具之製作與應用。<br>7.幼兒美感領域教具之製作與應用。<br>",
+        "en": "1. To learn the theories and principles of making teaching aids for young children.<br>2. Design and application of body movement and health teaching aids.<br>3. Design and application of cognition teaching aids.<br>4. Design and application of language arts teaching aids.<br>5. Design and application of social studies teaching aids.<br>6. Design and application of emotion teaching aids.<br>7. Design and application of aesthetic feeling teaching aids.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識教具的功能、素材、及類別",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養教具規劃與應用之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解教具、教學與學習成果之間的關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "練習教具製作之技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "享受教具設計與製作之樂趣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "激發想像及創造力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

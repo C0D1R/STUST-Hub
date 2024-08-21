@@ -1,0 +1,99 @@
+{
+    "code": "10N01P01",
+    "name": {
+        "zh": "工廠實務實習(七)",
+        "en": "Workshop Practices (VII)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "夜四機械雙軌四"
+    ],
+    "instructors": [
+        "張明豪"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過傳統加工設備﹙車床、銑床、鑽床﹚的基礎訓練，奠定學員基本的加工常識及技巧；另外再加入電腦數值控制設備之硬體操作及刀具設定等項目，作為日後學習數控工具機之前導訓練，藉以提升日後在數控工具機課程之學習效果。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "訓學生機械加工之技巧及觀念，並於過程中養成下列諸項工作素養，以滿足學生日後擔任工作領導幹部之所需:<br>一.安全工作觀念 : 沒有安全即沒有技術<br>二.誠實的工作態度 : 誠實是工作品質的保證<br>三.確實的技能 : 技術則來自經驗;而一步一腳印才能累積經驗成就技術<br>四.依規定辦事並遵循工程倫理理念適時反應問題",
+        "en": "1.<br>2.<br>3.<br>4.<br>5.<br>6."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉機械製造原理，並以力學為基礎探討加工行為",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用量具方法的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能辨識工程圖內容",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能規劃選擇加工方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

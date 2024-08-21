@@ -1,0 +1,139 @@
+{
+    "code": "1LD05E01",
+    "name": {
+        "zh": "在地文化與城市文創-老街文創與再生",
+        "en": "The Culural Creation and Revival of City Historical (Old) Streets"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "蕭百芳"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "N201"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "N201"
+        },
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "N201"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "提到台南府城，除了以古蹟與小吃著名外，擁有三百年歷史的古都台南，自然有不少老聚落，當然老聚落裡也有不少充滿歷史人文氛圍特質的老街。隨著世界文化遺產的保存浪潮，原本被忽視的府城老街，在神農等老街的帶動下，老街文化逐漸被重視與看見。<br>觀台南府城的都市發展，清初赤崁樓與安平中間間隔台江內海，隨著時間的流逝台江內海的陸浮，與府城對外的貿易需求，城市的發展自是從赤崁樓的老街往西往東拓移，日治時期以赤崁樓東邊的民生綠園為主要行政區，因此府城的清代老街多集中於赤崁樓西邊的中西區(五條港區)。本課程即以位於中西區裡的老街為對象，選定目前保存良好的五條港神農街為主軸，擴及於正興街、信義街、新美街與國華街。<br>課程透過走讀、翻轉、做中學與作品測試的四種授課方式，找到上述五條老街的各自文化特質，並以能活絡街區的實境遊戲作為老街創生的策略，藉由青年的創意與活力，讓老街之美被看見，創造在地價值，達到老街再生創課的初衷與目標。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程為「在地文化與城市文創」的系列課程之一，主要關注城市裡的老街文化。課程採走讀、翻轉、做中學與作品測試的四種方式授課，如下：<br>一、翻轉：從史料、老照片、圖像探索五條港老街的前世今身<br>二、走讀：從走讀的田調與訪談，勘察老街古的歷史文化與今的人事物<br>三、做中學：從業師講座與田調資料，為老街設計並實作能活絡街區促進觀光的實境遊戲。<br>四、作品測試：各老街組於期末，以其他組同學為實境遊戲玩家，於老街場域做實際測試。<br>透過上述四種步驟與方式的授課，讓學生關懷老街，發覺老街的文化特質外，進而能品味其美，開發能讓老街注入創意與活力的實境遊戲，引入人潮帶動老街產業，找回老街的靈魂，完成為老街創生的目標。",
+        "en": "This is one of “Local Culture and City Cultural Creation” series. It focuses on the old street culture. There are 4 teaching methods in this course, including:<br>1.\tReversal Exploration: exploring the past of five-harbor old streets from historical materials, old photos and images.<br>2.\tField interview: investigating the historical and current culture of old streets through surveying and interviews.<br>3.\tPractical Learning: designing live games that can revive old street business and boost tourism via lectures and field survey data.<br>4.\tWords Testing: on-site testing the games through the participation of students in this class.<br>It intends to make students care the old street culture and develop games to boost business, and eventually, to achieve the goal of reviving old streets.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解五條港從清代至今的歷史脈落與演變",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "體認五條港老街文化特質的珍貴，反思維護策略",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "融合統整翻轉與走讀所學知能，透創新思維，設計老街風采的文創作品",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "結合人文藝術、美學的素養，導入實境遊戲，讓老街再現風華",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過小組的老街實境遊戲規劃而能有能積極服務與關懷他人的學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由小組討論與跨域整合，而能有表達溝通與敬業合群的學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

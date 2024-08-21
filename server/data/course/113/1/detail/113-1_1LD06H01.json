@@ -1,0 +1,165 @@
+{
+    "code": "1LD06H01",
+    "name": {
+        "zh": "藝術與城市文化",
+        "en": "Art and the Culture of City"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "鍾淑惠"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "N203"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "N203"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "N203"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "認識城市，有許多方式，除了實際走訪外，藉由藝術作品認識城市也是不錯的方式。本課程擬就繪畫、建築、音樂、戲劇、電影等領域選取作品探索城市的多元面向。同時，可藉由對於其他城市的認識，重新觀察並發掘本體城市的特點。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、導論<br>二、繪畫：城市發展<br>三、雕塑：當代思潮<br>四、建築：城市空間<br>五、音樂戲劇：城市的階級與社會<br>六、攝影：城市紀實<br>七、電影：城市影像<br>",
+        "en": "1.\tIntroduction<br>2.\tPainting: urban development<br>3.\tSculpture: contemporary thoughts<br>4.\tArchitecture: urban space<br>5.\tMusical theater: social class and society<br>6.\tPhotography: city documentary<br>7.\tMovie: city image<br>"
+    },
+    "weeklySchedule": "一   導論<br>二   繪畫：現代城市休閒─印象巴黎<br>三   繪畫：現代城市休閒─印象巴黎<br>四   建築：城市空間─顛覆與挑戰<br>五   建築：奧斯曼與巴黎<br>六   攝影：城市紀實─鏡頭下的真實世界<br>七   攝影：巴黎紀實<br>八   音樂劇：論述<br>九   期中評量<br>十   音樂劇：觀看<br>十一 音樂劇：城市的階級與社會<br>十二 報告<br>十三 報告<br>十四 電影：城市影像─新浪潮的衝擊<br>十五 電影：觀看－影像中的文化縮影<br>十六 電影：討論<br>十七 1/1放假<br>十八 期末評量<br>本教學大綱得視教學需要調整之<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能透過觀察與討論，體會到在多元的社會中，創作者如何傳逹其個人的所見與感受。(G5)",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "擴展觀者的視野，帶領觀者進入不同的世界，關注被忽略的議題。(J1)",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能藉由藝術作品中的城市觀察，認識城市，並理解異文化。(C2)",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "探究觀察的方式與角度，並感受藝術的力量。(I4)",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "參與異文化的討論，重新省視並探索本體城市文化。(E2)",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.Cheroux, Clement Wilson, David H. （TRN）, Henri Cartier Bresson, Harry N Abrams Inc, 2009.<br>2.Les années romantiques: la peinture française de 1815 à 1850. Paris: Editions de la Réunion des musées nationaux, 1995.<br>3.高階秀爾著，《法國繪畫史》（台北：藝術家出版社，1998）。<br>4.Allen J. Scott著，董樹寶、張寧譯，《城市文化經濟學》（北京：中國人民出版社，2010）。<br>5.Arthur Rothstein著，李文吉譯，《紀實攝影》（台北：遠流出版社，2004）<br>6.David Harvey著，國立編譯館、黃煜文譯，《巴黎，現代性之都》（台北：群學出版社，2007）。<br>7.E.H. GOMBRICH著，雨云譯，《藝術的故事》（台北：聯經出版社，2008）。<br>8.Gisele Freund著，《攝影與社會》（台北：攝影家出版社，1990）。<br>9.Graham Robb著，莊安祺譯，《巴黎人》(台北：衛城出版社，2012)。<br>10.Jean Sempe，秋杉著，《一點巴黎》（北京：中信出版社，2011）。<br>11.John Berger著，《影像的閱讀》（台北：遠流出版社，2002）。<br>12.John Pultz著，李文吉譯，〈攝影中的人體〉&amp;〈十九世紀：寫實主義與社會控制〉，《攝影與人體》（台北：遠流，1997），頁6-29。<br>13.Roland Barthes，許綺玲譯，《明室：攝影札記》（台北：台灣攝影工作室，1995）。<br>14.Susan Sontag，黃翰荻譯，《論攝影》（台北：唐山出版社，1997）。<br>15.Walter Benjamin，許綺玲譯，〈攝影小史〉&amp;〈機械複製時代的藝術作品〉，《迎向靈光消逝的年代》（台北：台灣攝影工作室，1998），頁9-25，57-73。<br>16.阮義忠著，《當代攝影大師》（台北：攝影家，2000）。<br>17.施植明，《閱讀巴黎：建築群象與歷史印記》（台北：典藏藝術家庭，2011）。<br>18.焦雄屏著，《法國電影新浪潮》（台北：麥田出版社，2010）。<br>",
+    "teachingSoftware": "",
+    "rules": "自第二週起實際上課時間為12:00~14:40<br>1.學期成績：<br>期中評量、期末評量、平時成績包括期中報告、課堂討論、課堂參與、出席狀況及作業<br><br>2.個人期中報告：請就繪畫、建築、音樂劇、電影、攝影領域中，選擇一個藝術創作者的作品，說明作品及選擇的原因。<br>1)口頭報告：第7週上傳創作者與作品名稱；第10週上傳作品圖檔；第12、13週上台報告，每人5分鐘。<br>2)書面報告：一頁A4紙，（約千字左右），直拿橫寫，上圖下文，右上角寫上班級、學號、姓名，第14週繳交，逾時不收。<br><br>注意事項<br>1.本教學大綱得視教學需要調整之。<br>2.課堂學習行為的規範。<br>1)採固定座位，請依座位表入座<br>2)請勿使用手機<br>3)請準時上課<br>4)請參與討論<br>5)教室內請勿飲食<br>6)但凡課堂繳交，一律逾時不收"
+}

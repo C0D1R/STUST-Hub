@@ -1,0 +1,111 @@
+{
+    "code": "1CM01D01",
+    "name": {
+        "zh": "設計實務實習(一)",
+        "en": "Internship of design practice(I)"
+    },
+    "credit": "6",
+    "type": "管制選修",
+    "classes": [
+        "碩研產設二甲"
+    ],
+    "instructors": [
+        "程筑鈺"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "720"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要為提升學生的專業知識與實務技能，讓同學參與設計實務實習以獲取設計專業實務經驗並銜接後續就業。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程主要為提升學生的專業知識與實務技能，讓同學參與設計實務實習以獲取設計專業實務經驗並銜接後續就業。<br>1. 設計實務實習課程與學分說明<br>2. 設計實務實習規劃<br>3. 設計實務實習輔導<br>4. 設計實務實習參與<br>5. 設計實務實習學分取得<br>6. 設計實務實習成果審核",
+        "en": "This course is mainly designed to enhance students' professional knowledge and practical skills, so that students can participate in design practice internships to gain practical experience in design issues and connect with subsequent employment."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.瞭解基礎設計專業相關知識與應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.藉由專業實務實習養成學生應用數位工具於設計表現的實務技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.訓練學生在產品設計上的創意思考與表達能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.透過專業實務實習課程養成學生設計溝通與表達能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5.透過專業實務實習課程培育學生設計融入藝術美學的整合力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

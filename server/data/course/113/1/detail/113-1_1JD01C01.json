@@ -1,0 +1,111 @@
+{
+    "code": "1JD01C01",
+    "name": {
+        "zh": "長照需求評估與應用",
+        "en": "Long-Term Care Needs Assessment and Application"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技高福二甲",
+        "四高福國專二甲"
+    ],
+    "instructors": [
+        "劉憶萍"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "O403"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "O403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在協助學生認識長期照護相關之知識與技術，課程內容包含介紹長期照護相關概念如特性、理念、目標、服務型態及現況與展望，長期照護的專業團隊、資源整合策略、個案管理、出院準備服務、長期照護機構品質管理、居家失能老人病患主要照顧者之需求、老人長期照護的評估、長期照護機構老人的生活適應、長期照護常見的倫理議題。授課方式以課堂講述、討論為主要教學活動，並運用範例投影片、影視媒體等輔助教學及實地參訪以促進教學成效。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.長期照護的定義與特性<br>2.長期照護發展沿革與服務型態<br>3.長期照護的專業團隊之角色功能<br>4.長期照護個案管理與資源運用<br>5.長期照護機構管理實務<br>6.居家失能老人病患主要照顧者之需求<br>7.長期照護常見的倫理議題<br>8.長期照護品質監測與管理<br>9.長期照護服務的評價<br>",
+        "en": "1. Definition and Characteristics of Long-term care<br>2. Developmental history and Service type of Long-term care<br>3. The functional role of the professional team for long-term care<br>4. Case management and Resource utilization of Long-term care<br>5. Management practice of Long-term care organizations<br>6. The needs of the main caregiver for home-disabled elderly patients<br>7. Common ethical issues of Long-term care<br>8. Quality monitoring and management for Long-term care<br>9. Evaluation of long-term care services<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能明瞭台灣及世界長期照護發展沿革現況與趨勢，增進長期照護的基本知識與技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解長期照護政策與照顧模式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用及演練長期照護相關之評估與品質監測等",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用健康照護知識於失能需長期照護群體的照顧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

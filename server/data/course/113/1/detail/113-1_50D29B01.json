@@ -1,0 +1,128 @@
+{
+    "code": "50D29B01",
+    "name": {
+        "zh": "電腦軟體應用",
+        "en": "Computer Software Application"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技工管一甲"
+    ],
+    "instructors": [
+        "施武榮"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0806"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0806"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "T0806"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.Microsoft Office Specialist (MOS)之Excel",
+        ""
+    ],
+    "description": "本課程主要針對企業界的需求，以應用最廣且具有成效的Excel為主，由淺入深講解，配合實作上機練習，應用範圍包括行銷、生管、品管、及最佳化等問題，讓學生未來在職場工作上有競爭實力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\tExcel基本操作<br>2.\tExcel資料分析的基礎<br>3.\t資料清單管理與應用<br>4.\t統計圖表的技巧<br>5.\t重要資料分析函數<br>6.\t樞紐分析圖表的應用<br>7.\t數量化決策輔助<br>8.\t巨集與VBA設計<br>",
+        "en": "1. Excel Basic Functions<br>2. Excel Data Analysis<br>3. Worksheets Tools<br>4. Creating Worksheet Charts<br>5. Using Data Analytical Functions<br>6. Applying Pivotal Tables<br>7. Assisting Quantified Decisions<br>8. Making Macros and VBA<br>"
+    },
+    "weeklySchedule": "第1週 Excel 介紹<br>第2~4週 Excel 文件建立、操作、存開檔<br>第5~6週 加快資料輸入及編輯<br>第7週 公式與函數<br>第8週 工作表編輯作業<br>第9週 期中考<br>第10週 儲存格格式設定<br>第11~12週 視覺化圖形表達<br>第13~14週 函數實例應用<br>第15~16週 建立圖表/樞紐分析表<br>第17週 列印設定<br>第18週 期末考/証照考試<br>",
+    "exams": {
+        "midterm": "上機操作",
+        "final": "上機操作",
+        "other": "作業與練習"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解 Excel 軟體在中小企業中實際的應用層面",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能學會 Excel 的各種使用方法與技巧",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能利用 Excel的繪圖功能，製作管理圖表",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能利用 Excel 軟體試算、分析資料並解讀報表",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能培養具備思考與解決問題的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Microsoft Excel 2016 使用手冊",
+        "author": "施威銘研究室",
+        "publisher": "旗標出版社",
+        "year": "2016",
+        "ISBN": "9789863123279",
+        "edition": "2016"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "MS Excel",
+    "rules": ""
+}

@@ -1,0 +1,119 @@
+{
+    "code": "D0D1D401",
+    "name": {
+        "zh": "自媒體行銷",
+        "en": "Self-media marketing"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技行流四甲",
+        "四技行流四乙"
+    ],
+    "instructors": [
+        "蔡雅玲"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "T0212"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0212"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "T0212"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生瞭解由商品廣告發想、影音與直播產品推廣，落實到自媒體社群媒體平台之實務作法，以期學生畢業進入職場，能於最短時間進入狀況，並符合企業行銷需求應用力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "先行導入自媒體下的ESG，可以讓學生學習到自媒體行銷還是要負有社會責任。在來發想網路廣告創意，進而學習自媒體行銷策展、影音行銷技能與商品拍照技巧；到直播應用的課程。",
+        "en": "The first introduction of ESG under self-media allows students to learn that self-media marketing still has to bear social responsibility. Think about online advertising ideas in Laifa, and then learn self-media marketing curation, audio-visual marketing skills and product photography skills; to live broadcast application courses."
+    },
+    "weeklySchedule": "1.ESG下的自媒體行銷<br>2.網路廣告創意發想<br>3. 自媒體行銷策展<br>4. 影音行銷技能<br>5. 商品拍照技巧<br>6. 直播應用<br>",
+    "exams": {
+        "midterm": "作業",
+        "final": "作業",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "強化學生影音行銷技能實作",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "自媒體社群媒體平台",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "影音行銷技能",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "商品拍照技巧",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自做教材",
+    "teachingSoftware": "",
+    "rules": "請注意上課態度"
+}

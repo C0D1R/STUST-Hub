@@ -1,0 +1,105 @@
+{
+    "code": "10N02B02",
+    "name": {
+        "zh": "職場自主學習(一)",
+        "en": "workplace learning(I)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技車輛一甲"
+    ],
+    "instructors": [
+        "彭守道"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第11節",
+            "location": "R301"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "1"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "體認職場自主學習的重要",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、職場自我導向學習能力、態度與準備程度。 <br>二、職場壓力的不同背景變項。<br>三、職場壓力的感受。 <br>四、職場學習參與。<br>",
+        "en": "1. Self-learning, attitude and preparation in career<br>2. Pressure from different background<br>3. Feelings of pressure in career<br>4. Participation and learning in career"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "職場自我導向學習能力、態度與準備程度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "職場壓力的不同背景變項。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "職場壓力的感受。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "職場學習參與方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,139 @@
+{
+    "code": "K0D38H02",
+    "name": {
+        "zh": "3D場景設計",
+        "en": "3D Scene Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技多樂二乙"
+    ],
+    "instructors": [
+        "吳思璿"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "W0708"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "W0708"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0708"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "3D場景物件組成概論、植物與建物規畫建構、貼圖共用規劃技術、地形規劃建構技術、物件群組規劃技術、場景視角優化技術<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 3D場景物件組成概論：了解3D場景構成各種元素物件原理。<br>2. 植物與建物規畫建構：建構各種地上物方法如:樹木、花草、房子、涼亭、擺物等。<br>3. 貼圖共用規劃技術：九宮、二次方、四次方貼圖與材質規劃共用技術。<br>4. 地形規劃建構技術：建構各種地形型態方法如:平原、山丘、峽谷等。<br>5. 物件群組規劃技術：規劃場景中常用元件模型，組合出群組化模型物件技術。<br>6. 場景視角優化技術：了解攝影機視角對3D場景規劃影響，簡化不必要的模型資訊。",
+        "en": "In this course, the students will be capable to composite different 3D models into complete game scenes. The topics including plants, architectures, sharing of textures, terrain, and optimization of perspective in the game scenes will be lectured and practiced."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解3D場景構成各種元素物件原理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建構各種地上物方法如:樹木、花草、房子、涼亭、擺物等。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "九宮、二次方、四次方貼圖與材質規劃共用技術。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建構各種地形型態方法如:平原、山丘、峽谷等。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "規劃場景中常用元件模型，組合出群組化模型物件技術。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解攝影機視角對3D場景規劃影響，簡化不必要的模型資訊。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "01D13Z04",
+    "name": {
+        "zh": "基礎化學",
+        "en": "Chemistry"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專化材一甲"
+    ],
+    "instructors": [
+        "王瑜婷"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "I0305"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "I0305"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以介紹化學與量測、原子、分子及離子，原子的電子結構及週期表，氣體及溶液的性質，物質與能量、酸鹼與平衡。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "著重在基礎的化學原理及應用，認識並瞭解物質的組成、結構、性質及其中的能量變化，加強科學基本素養，培養化學興趣，認識科學方法。",
+        "en": "Focus on the principles and application of basic chemical, recognize and understand the composition, structure, properties and energy changes of the material. Increase basic scientific literacy, cultivate interest in chemistry, and recognize scientific methods.<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解化學量測與計量",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習物質的組成",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解酸鹼反應與溶液性質",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習週期表與元素",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

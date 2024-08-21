@@ -1,0 +1,134 @@
+{
+    "code": "K0D3AF02",
+    "name": {
+        "zh": "數位媒體與科技概論",
+        "en": "Introduction to Digital Media and Technology"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技多樂一乙"
+    ],
+    "instructors": [
+        "張華城"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "W0703"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "W0703"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為奠基學生未來從事數位媒體設計的基礎知識，課程內容包含數位媒體的基本概念與發展演變，逐一介紹文字、影像、聲音、視訊、動畫及互動媒體的基本原理、硬體載具、軟體工具、檔案格式之特性，並探討數位媒體科技與設計行為中的基本議題與人工智慧、元宇宙等最新發展，以期建構學生對數位媒體學理及技術領域的總體輪廓。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t數位媒體的基本概念<br>2.\t文字、影像及聲音媒體簡介<br>3.\t視訊、動畫及互動媒體簡介<br>4.\tHCI人機互動與UI/UX設計<br>5.\tXR延展實境與元宇宙<br>6.\t生成式AI科技在數位媒體的應用<br>",
+        "en": "1.\t數位媒體的基本概念<br>2.\t文字、影像及聲音媒體簡介<br>3.\t視訊、動畫及互動媒體簡介<br>4.\tHCI人機互動與UI/UX設計<br>5.\tXR延展實境與元宇宙<br>6.\t生成式AI科技在數位媒體的應用<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.\t數位媒體的基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.\t文字、影像及聲音媒體簡介",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.\t視訊、動畫及互動媒體簡介",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.\tHCI人機互動與UI/UX設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5.\tXR延展實境與元宇宙",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6.\tAI科技在數位媒體的應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

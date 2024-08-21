@@ -1,0 +1,115 @@
+{
+    "code": "D0N14H01",
+    "name": {
+        "zh": "流通業專題討論",
+        "en": "Distribution Industry seminar"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技行流四甲"
+    ],
+    "instructors": [
+        "林政憲"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "T0209"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "T0209"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "T0209"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程引導學生了解流通業之理論與實務做法，透過專題執行之方式，讓學生能熟悉流通業並於實務操作接觸時能快速應對。",
+    "prerequisites": "none",
+    "syllabus": {
+        "zh": "1.流通業概論<br>2.流通業應用範圍<br>3.流通業產業現況<br>4.流通業實務案例<br>5.產業議題討論",
+        "en": "1.introduction of distribution industries<br>2.applied scope of distribution industries<br>3.distribution industries trends<br>4.cases of distribution industries<br>5.issue and discussion of distribution industries"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能透過實務研討之過程，從中獲得整合與解決問題之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能主動學習新事物，並解決職場之環境",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認工作態度與團隊合作在職場之重要性，並能接受分工合作的工作方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解企業責任，並能遵守職業道德及主動關懷他人",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

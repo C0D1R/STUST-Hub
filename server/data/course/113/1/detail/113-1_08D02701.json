@@ -1,0 +1,116 @@
+{
+    "code": "08D02701",
+    "name": {
+        "zh": "多益測驗準備(A)",
+        "en": "TOEIC Test Preparation"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "夏幼川"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0109"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0109"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "1.TOEIC",
+        ""
+    ],
+    "description": "This class is offered due to the demand our students have for TOEIC test preparation. It is a basic class, helping students to get a good overview of the test and practice in the key areas of reading and listening. The goal is to help students crack the 700 mark on the test or higher. As TOEIC is looked at by many companies, including airlines and trading companies this is important for future graduates.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程為多益測驗聽力與閱讀的準備課程。課程重點為多益題目練習，並教授如何增進英語聽力與閱讀能力。",
+        "en": "The course will cover all aspects of TOEIC test preparation. A text book will be used. There will be a focus on practice tests and in class explanation of how to improve both listening and reading."
+    },
+    "weeklySchedule": "Week 1 Introduction<br>Week 2 TOEIC practice and anylysis (I-1)<br>Week 3 TOEIC practice and anylysis (I-2)<br>Week 4 TOEIC practice and anylysis (I-3)<br>Week 5 TOEIC practice and anylysis (I-4)<br>Week 6 TOEIC practice and anylysis (I-5)<br>Week 7 TOEIC practice and anylysis (I-6)<br>Week 8 Review<br>Week 9 Mid-term<br>Week 10 TOEIC practice and anylysis (II-1)<br>Week 11 TOEIC practice and anylysis (II-2)<br>Week 12 TOEIC practice and anylysis (II-3)<br>Week 13 TOEIC practice and anylysis (II-4)<br>Week 14 TOEIC practice and anylysis (II-5)<br>Week 15 TOEIC practice and anylysis (II-6)<br>Week 16 TOEIC practice and anylysis (II-7)<br>Week 17 Review<br>Week 18 Final",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "Students will be expected to utilise English during class",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "Students will be expected to participate and learn how to manage time during their test.",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "This class as a strong focus on preparing for the TOEIC test and aims to give a strong background in the testing methodology.",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "Integration and innovation comes from students outside reading of materials that will benefit the business related questions in the TOEIC test",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "教師自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "本課程僅適合對於\"英語學習\"以及\"多益證照\"具有高度興趣與意願的學習者選修。<br><br>課堂內容包含大量題庫演練，解題技巧分析。<br><br>學習者必須具備\"主動參與課堂演練\"的積極度，並且投入大量時間練習考古題。<br><br>本課程為選修課, 修課人數上限皆依照校方規範, 額滿後不再開放加簽, 請勿再來信詢問。<br><br>若因額滿而未能選到此課程但仍有強烈修課意願者, 可於第一週課堂自行到教室現場。聽完課程首週內容介紹後, <br>再決定是否適合自己的學習需求。第一週加退選期間通常會釋出少許名額, 請同學自行在系統上把握這些名額.  <br><br>本課程從開學第二週起, 不再開放旁聽。<br><br>為維護課堂品質, 請學習者準時, 並保持基本禮節。"
+}

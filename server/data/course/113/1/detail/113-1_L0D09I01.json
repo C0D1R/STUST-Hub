@@ -1,0 +1,111 @@
+{
+    "code": "L0D09I01",
+    "name": {
+        "zh": "工程‧倫理與社會",
+        "en": "Engineering, Ethics and Society"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技半導體二甲",
+        "四半導國專二甲"
+    ],
+    "instructors": [
+        "吳文端"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "R301"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "R301"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 培養學生的正確的工程倫理思想與態度,並建立分析工程倫理問題的能力。<br>2. 探討工程技術的價值，並且理解工程師在專業上所擔負的倫理與社會責任。<br>3. 以案例來探討工程、醫學、商業的倫理問題以建立處理與解決問題的能力。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.導論 <br>2.專業倫理的重要與定義<br>3.專業倫理的規範與準則<br>4.預防倫理<br>5.舉發與問題處理<br>",
+        "en": "1. Introduction<br><br>2. Definition and Importance of Engineering Ethics<br><br>3. Regulation and Code of Engineering Ethics<br><br>4. Prevention of Ethics Events<br><br>5. Reporting and Handling of Ethics Problems"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解專業倫理的重要與定義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解專業倫理的規範與準則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現工程倫理問題處理之流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用專業倫理的重要",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

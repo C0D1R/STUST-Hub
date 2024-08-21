@@ -1,0 +1,139 @@
+{
+    "code": "L0D01002",
+    "name": {
+        "zh": "電路學",
+        "en": "Electric Circuits"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技半導體二乙"
+    ],
+    "instructors": [
+        "鄒文正"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "R402"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "R402"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "R402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "電路學為光電工程系之基礎學科,內容主要教授學生認識電路變數與元件，熟悉基本電路的分析方法與技巧，以具備進行基本電路之解析與設計。本課程之上課方式主要以教師講授為主，輔以習作練習，評量方法除了學校規定的期中考與期末考外，並有不定時之平時測驗，成績評定還包括作業報告、課堂討論、出席率以及學習態度。",
+    "prerequisites": "微積分\n基本電學",
+    "syllabus": {
+        "zh": "1. 電路變數<br>2. 電路元件<br>3. 電阻性電路<br>4. 電阻性電路的分析方法<br>5. 電路理論<br>6. 儲能元件<br>7. RL 與 RC電路之完整響應<br>8. 雙儲能元件電路之完整響應<br>",
+        "en": "1. Electric Circuit Variables<br>2. Circuit Elements<br>3. Resistive Circuits<br>4. Methods of Analysis of Resistive Circuits<br>5. Circuit Theorems<br>6. Energy Storage Elements<br>7. The Complete Responses of RL and RC Circuits<br>8. The Complete Responses of Circuits with two Energy Storage Elements<br>"
+    },
+    "weeklySchedule": "week 1-2. 電路的變數 <br>week 2-4. 電路元件 <br>week 5-6. 簡單的電阻性電路 <br>week 7-8. 電路分析的技巧 <br>week 9. 期中考<br>week 10-11. 電路分析的技巧 <br>week 12-14. RL與RC電路的自然響應與步級響應 <br>week 15-17. RLC電路的自然響應與步級響應<br>week 18. 期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "隨堂測驗"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識基本的電路變數與電路元件",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解基本電路分析理論",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "可以進行基本的電路分析與設計",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "知道重要的電路相關之英文專有名詞",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "如期繳交老師所指派的作業。",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "電路學 (精華版)",
+        "author": "朱堃誠、李大輝、王信雄 譯 (Jame W. Nilsson & Susan A. Riedel 著)",
+        "publisher": "滄海圖書",
+        "year": "2020",
+        "ISBN": "ISBN: 978-986-7696-31-1",
+        "edition": "第十一版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,142 @@
+{
+    "code": "D0Q04501",
+    "name": {
+        "zh": "實務研討(A)",
+        "en": "Seminar on Practice Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專工管一甲",
+        "碩專企管一甲",
+        "碩專企管一乙",
+        "碩專資管一甲",
+        "碩專大數據一甲",
+        "碩專行流一甲"
+    ],
+    "instructors": [
+        "方妙玲",
+        "毛佩娟",
+        "王姿力",
+        "王智昊",
+        "伍家德",
+        "林義旭",
+        "林憶樺",
+        "黃經智",
+        "蔡雅玲",
+        "賴明材",
+        "簡俊成"
+    ],
+    "schedule": [
+        {
+            "day": "週日",
+            "period": "第12節",
+            "location": "S309"
+        },
+        {
+            "day": "週日",
+            "period": "第13節",
+            "location": "S309"
+        },
+        {
+            "day": "週日",
+            "period": "第14節",
+            "location": "S309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程意圖讓在職專班學生能從一知半解、濛濛無知的情況追求管理知識進而進入管理之殿堂。本課程著重轉化與激化管理相關知識，期能迎合學習者未來在學術研究及實務上的應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.簡報技巧與呈現<br>2.論文蒐集、寫作技巧<br>3.資料分析意涵與實作<br>4.企業實地訪視及問題討論<br>5.論文研討<br>6.成果發表<br>7.交流與成果驗收<br>",
+        "en": "1.Briefing skill and Presentation <br>2.Paper Searching and Gathering, Writing Skill<br>3.Implication of Data Analysis and Practice<br>4.Corporate Visit and Issue Discussion<br>5.Paper Discussion<br>6.Result Presentation<br>7.Interaction and result Examination"
+    },
+    "weeklySchedule": "1.管理概論<br>2.古典管理思潮<br>3.晚近管理理論<br>4.最新管理思潮<br>5.SWOT分析與運用",
+    "exams": {
+        "midterm": "報告",
+        "final": "書面報告",
+        "other": "心得報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "實務專題簡報",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "管理實務",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "論文寫作技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "視覺化資料分析",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "企業參訪與討論",
+            "teachingMethods": [
+                "參觀實習"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "管理學概論",
+        "author": "林建煌",
+        "publisher": "華泰",
+        "year": "2019",
+        "ISBN": "9789574362431",
+        "edition": "6"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,115 @@
+{
+    "code": "G0D15E04",
+    "name": {
+        "zh": "計算機數學",
+        "en": "Computer Mathematics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專資工四甲"
+    ],
+    "instructors": [
+        "李育強"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0210"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "T0210"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "T0210"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "引導學生學習及探討離散數學、組合原理及電腦科學所需的基礎數學知識，提供學生進入電腦與通訊領域的學習主題，如資料結構、演算法及訊號處理等應用，本課程同時要求學生寫程式以實現之，以符合技職體系之實作要求。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元1　計數原理：排列與組合、二項式定理、多項式定理<br><br>單元2　基本邏輯論：命題(proposition)與真值表、述語(predicate)與量詞(qualifier)<br><br>單元3　集合論與排容原理<br><br>單元4　證明方法：數學歸納法<br><br>單元5　關係與函數、鴿籠原理<br><br>單元6　遞迴關係<br><br>單元7　圖論<br><br>單元8　傅立葉級數<br><br>單元9　Laplace轉換<br>",
+        "en": "Chapter 1.　Fundamental Principles of Counting<br><br>Chapter 2.　Fundamentals of Logic<br><br>Chapter 3.　Set Theory<br><br>Chapter 4.　Properties of the Integers：Mathematical Induction<br><br>Chapter 5.　Relations and Functions<br><br>Chapter 6.　Recurrence Relactions<br><br>Chapter 7.　Graph Theory<br><br>Chapter 8.　Fourier Series<br><br>Chapter 9.　Laplace Transform<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能熟悉計算機數學的基本原理並具備計算能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "針對電腦與通訊領域問題能有效適當的應用基礎數學知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能樂觀面對計算機數學問題，並能以演算法來解決問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用計算機數學的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,140 @@
+{
+    "code": "40M00301",
+    "name": {
+        "zh": "高等反應工程學",
+        "en": "Advanced Chemical Reaction Engineering"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研化材一甲"
+    ],
+    "instructors": [
+        "湯永堂"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "I0706"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "I0706"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "I0706"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.化學技術士",
+        ""
+    ],
+    "description": "本學科之課程內容包括(1)反應工程之原理(2)反應速率、轉化率與反應級數(3)複合反應(4)反應速率方程式與速率常數之計算(5)異相催化反應之動力學(6)質量和能量傳送係數(7)觸媒的結構與孔隙擴散(8)反應器設計之基本觀念(9)批式反應器、塞狀流動反應器與連續攪拌槽反應器。<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本學科之課程單元主題包括:<br>(1)反應速率 (2)轉化率與反應級數 (3)複合反應 (4)溫度對反應速率的影響 (5)反應速率方程式 (6)反應速率常數之計算 (7)固體表面之反應 (8)質量和能量傳送係數 (9)觸媒的結構 (10)孔隙擴散 (11)批式反應器 (12)半批式反應器 (13)塞狀流動反應器 (14)連續攪拌槽反應器<br><br>",
+        "en": "The Units Topics of This Course Include :(1) Reaction Rate (2) Conversion and Order of Reaction (3) Complex Reactions (4) Influence of Temperature to the Reaction Rate (5) Reaction Rate Equation (6) Determination of Reaction Rate Constant (7) Reaction at the Surface of a Solid (8) Mass and Heat Transfer Coefficients (9) Catalyst Structure (10) Pore Diffusion (11) The Batch Reactor (12) The Semibatch Reactor (13) The Plug Flow Reactor(14) The Continuous Stirred Tank Reactor<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能藉由瞭解高等反應工程學之原理及反應器之設計的原理以具備化工領域的專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用反應速率、轉化率、及反應器設計之原理於高等反應工程學之例題與習題以具備規劃及執行專題研究的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用反應速率的原理、批式反應器、塞狀流動反應器、連續攪拌槽反應器之設計的原理於例題及習題的練習以具備發表學術論文與工作報告的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能藉由高等反應工程學之例題與習題之練習具備解決問題及創新的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能藉由與老師及其他學生討論高等反應工程學之問題以具備協調及溝通的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能上學校的My數位教學平台參考高等反應工程學之授課教材，並且具備收集及分析資料的能力及培養持續學習的習慣與能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

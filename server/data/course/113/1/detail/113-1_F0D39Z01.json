@@ -1,0 +1,128 @@
+{
+    "code": "F0D39Z01",
+    "name": {
+        "zh": "媒體專案實務",
+        "en": "Practice for Media Project"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資傳三甲",
+        "四技資傳三乙"
+    ],
+    "instructors": [
+        "許擇瑋"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "W0508"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "W0508"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "W0508"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程從基礎傳播理論出發，引導同學理解媒體傳播過程與功能，進而透過與媒體合作實際演練，讓同學熟悉媒體操作程序與要求。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.基礎傳播理論<br>2.媒體特性介紹<br>3.媒體操作流程<br>4.模擬新聞編輯會議<br>5.編輯作業實務<br>6.新聞製作實務<br>",
+        "en": "1.basic media theory<br>2.introduction of media characteristics<br>3.procedure of media operation<br>4.exercise of news editing meeting<br>5.practice of news editing<br>6.practice of news production<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "加強團隊合作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉傳播過程與功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉影音新聞製作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉新聞寫作與編輯",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過實務運作熟悉新聞製作流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

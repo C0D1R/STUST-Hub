@@ -1,0 +1,128 @@
+{
+    "code": "N0M01001",
+    "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩全球經管二甲"
+    ],
+    "instructors": [
+        "胡中州"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "E0604"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "E0604"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "E0604"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course emphasizes on the concept of strategy formulation and implementation by integrating and aligning various business functions to achieve a long-term competitive advantage. It serves as an opportunity to develop knowledge and skills for strategic thinking and analysis, leadership, communication, teamwork, and cross-functional integration. Students learn about business planning and the implementation of organizational change through structures, systems and people. The teaching approaches adopted are lecture, case studies, and guest speaking.",
+    "prerequisites": "Any basic level course of organization behavior and management.",
+    "syllabus": {
+        "zh": "Course Objective (Upon completion of the course, the students shall be capable of achieving the following objectives:)<br>1. To be able to demonstrate an understanding of business strategy and the essential terminology and concepts such as the strategic management process, the macro-environment of business, industry competition, etc.<br>2. To have basic knowledge of how and why managers allocate resources directed at long‐term firm survival and success.<br>3. To be able to integrate knowledge and skills learned in earlier classes (e.g., finance, accounting, operations, marketing) for identifying and solving business problems.<br>4. To be able to appreciate why ethical principles and socially responsible management practices matter greatly while conducting a business strategically.<br>5. To be able to enhance presentation and communication skills in an academic or a business environment.<br>1. 策略管理是一門藝術和科學<br>2. 保持策略性領先<br>3. 外部環境評價<br>4. 管理企業資源<br>5. 選擇業務層級的策略<br>6. 競爭與合作的舉措<br>7. 國際市場中的競爭<br>8. 選擇企業層級的策略<br>9. 通過組織設計實行策略<br>10. 透過公司治理、企業道德和社會責任以領導有倫理的組織",
+        "en": "1. Mastering Strategy: Art and Science <br>2. Leading Strategically <br>3. Evaluating the External Environment <br>4. Managing Firm Resources <br>5. Selecting Business-Level Strategies <br>6. Supporting the Business-Level Strategy: Competitive and Cooperative Moves <br>7. Competing in International Markets <br>8. Selecting Corporate-Level Strategies <br>9. Executing Strategy through Organizational Design <br>10. Leading an Ethical Organization: Corporate Governance, Corporate Ethics, and Social Responsibility"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "To be able to demonstrate an understanding of business strategy and the essential terminology and concepts such as the strategic management process, the macro-environment of business, industry competition, various levels of strategy in a business, etc.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To have basic knowledge of how and why managers allocate resources directed at long‐term firm survival and success.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to integrate knowledge and skills learned in earlier classes (e.g., finance, accounting, operations, marketing)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to appreciate why ethical principles and socially responsible management practices matter greatly while conducting a business strategically.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to enhance presentation and communication skills in an academic or a business environment.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

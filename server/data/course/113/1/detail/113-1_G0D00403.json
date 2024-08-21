@@ -1,0 +1,115 @@
+{
+    "code": "G0D00403",
+    "name": {
+        "zh": "計算機概論",
+        "en": "Foundations of Computer Science"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技資工一丙"
+    ],
+    "instructors": [
+        "陳福坤"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "C303"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "C303"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "C303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為電腦之基礎課程，讓學生瞭解電腦、網路、軟體、硬體、計算機原理與電腦科技於各領域之應用，以培養電腦素養。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 計算機的組成<br>2. 數字系統與資料表示法<br>3. 數位邏輯與布林代數<br>4. 作業系統<br>5. 程式設計與演算法<br>6. 電腦網路與網際網路<br>7. 網路服務與雲端運算<br>8. 資料庫系統<br>9. 人工智慧與機器學習<br>10. 嵌入式系統與物聯網<br>",
+        "en": "1. Composition of the computer<br>2. Number system<br>3. Digital logic and Bollinger algebra<br>4. Operating System<br>5. Programming and Algorithm<br>6. Computer Network and Internet<br>7. Web Services and Cloud Computing<br>8. Database System<br>9. Artificial Intelligence and Machine Learning<br>10. Embedded System<br>"
+    },
+    "weeklySchedule": "第 1 章 資訊新未來<br>第 2 章 計算機的組成<br>第 3 章 數字系統與資料表示法<br>第 4 章 數位邏輯與布林代數<br>第 5 章 作業系統<br>第 6 章 程式設計與演算法<br>第 7 章 電腦網路與網際網路<br>第 8 章 網路服務與雲端運算<br>第 9 章 資料庫系統<br>第 10 章 人工智慧與機器學習<br>第 11 章 嵌入式系統與物聯網<br>第 12 章 資訊安全與網路安全",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "隨堂作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.瞭解計算機原理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "2.瞭解計算機的組成",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "3.能表達計算機概論的能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "4.能瞭解計算機的專業術語",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "新視界計算機概論 第10版",
+        "author": "施威銘研究室著",
+        "publisher": "旗標",
+        "year": "2024",
+        "ISBN": "978-986-312-788-8",
+        "edition": "10"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "1、必修課一律點名<br>2、到課率、作業、筆記、程式，均為評分重要依據！"
+}

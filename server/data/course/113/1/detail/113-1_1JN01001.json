@@ -1,0 +1,110 @@
+{
+    "code": "1JN01001",
+    "name": {
+        "zh": "高齡用藥與生活安全",
+        "en": "Elderly medication and life safety"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜二技高福三甲"
+    ],
+    "instructors": [
+        "陳韻如"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第11節",
+            "location": "O101"
+        },
+        {
+            "day": "週五",
+            "period": "第11節",
+            "location": "O101"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著年齡的增長，器官功能會逐年衰退，身體的毛病也隨之增加的情況下，老年人就醫拿藥的機會比年輕人高，種類多且複雜。有調查發現，老年人吃錯藥的機率比一般人多7倍，嚴重危及長輩們的身體健康。因此老人的用藥與生活安全，需要我們一起來守護。本課程就高齡用藥與高齡日常生活保健容易碰到的健康問題，做深入淺出的介紹，讓學生能獲得正確的用藥常識與醫學觀念。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、藥品基本概念<br>二、老人的用藥特色與基本原則<br>三、老人常見疾病與用藥原則<br>四、老人常見各系統病況與用藥淺介<br>五、藥品與飲食交互作用<br>六、老人不適當用藥評估工具<br>七、疫苗的原理及最新發展<br>八、呼吸道感染之抗生素使用<br>九、如何增進食品安全",
+        "en": "1.Basic concepts of medicine<br>2.Characteristics and Principles of medicine use for the elderly<br>3.Common diseases and medication principles for the elderly<br>4.Systemic diseases and medicine use for the elderly<br>5.Drug &amp; food Interactions<br>6.Assessment tool of inappropriate medication for the elderly<br>7.Principles and latest development of vaccine<br>8.Use of antibiotics for respiratory infections<br>9.How to improve food safety"
+    },
+    "weeklySchedule": "一、課程簡介<br>二、常見老人病況與用藥淺介(一) <br>三、常見老人病況與用藥淺介(二)<br>四、藥物劑型介紹<br>五、老人常見用藥問題<br>六、期中考<br>七、飲食與藥物交互作用<br>八、老人藥物動力學與藥物效力學之改變<br>九、老人居家安全<br>十、用藥安全小組報告<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "兩人一組口頭報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "協助學生具備老人用藥原則。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "協助學生具備正確用藥觀念。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "使學生了解老人用藥問題與管理。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生防範老人不當用藥。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "老人用藥安全",
+        "author": "李世代、林香汶編著   2022 二版",
+        "publisher": "華杏出版機構",
+        "year": "2022",
+        "ISBN": "9786269656035",
+        "edition": "二版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "平時成績（30%）: 課程參與度 (出席率)<br><br>期中成績 – 筆試 (簡答題為主)（40%）<br>期初至期中上課內容<br><br>期末成績 – 兩人一組口頭報告（30%）<br>           [請至華藝線上圖書館  電子期刊  醫藥衛生 藥理醫學 彰基藥訊 選一篇文章研讀並進行20 min + powerpoint file 口頭報告]<br>(報告需上傳至flipclass平台才給分!)<br>"
+}

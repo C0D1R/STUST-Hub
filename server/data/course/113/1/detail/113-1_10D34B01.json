@@ -1,0 +1,155 @@
+{
+    "code": "10D34B01",
+    "name": {
+        "zh": "智慧製造技術",
+        "en": "Smart Manufacturing Technique"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控三甲",
+        "四技自控三乙"
+    ],
+    "instructors": [
+        "陳璟璿",
+        "戴子堯"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "K403"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "K403"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "K403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為因應未來少量多樣、高精度與高效率生產，製造技術將朝向為以自動化、數據化、網路化為主，也必須包含智能設計、排程、製造與組立檢測，將產品供應鏈垂直與水平數位化、智能化跨領域整合。在課程內容方面，將先介紹各工業大國的發展趨勢，瞭解先進製造、智慧製造等之現況與需求，再介紹如何在物聯網架構下，展開從優化設計、模擬分析、虛擬試製等、感測器監控、智能加工與維護、自動化協助組立與測試等，使得生產線更具靈活性、高效能與高競爭性。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.工業4.0簡介 了解需求的本質<br>2.網宇實體系統 虛實整合<br>3.智慧製造 了解智慧製造技術需求<br>4.自動化技術 了解自動化軟硬體設施<br>5.機電整合 機器人理論與實習 <br>6.人工智慧應用<br>",
+        "en": "1.Industry 4.0, to realize the future of manufacturing processes <br>2.CPS, Cyber Physical System <br>3.To realize the demand of smart manufacturing techniques.<br>4.To realize the hardware and software of automation <br>5.The theory and practice of mechatronics<br>6.Applications of artificial intelligence<br>"
+    },
+    "weeklySchedule": "第1週 工業化介紹<br>第2週 智慧製造介紹<br>第3週 單機智能介紹<br>第4週 機聯網介紹<br>第5週 業師演講<br>第6週 業師演講<br>第7週 智慧製造機台介紹<br>第8週 上機<br>第9週 期中考<br>第10週 自動化與機電整合介紹<br>第11週 業師演講<br>第12週 業師演講<br>第13~14週 專題實作<br>第15~16週 小組報告<br>第17週 業界應用<br>第18週 期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "小考、作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "工業4.0",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "智慧製造技術",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "虛實整合",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "人工智慧",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "自動化",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "機電整合",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "數位影像處理－Python程式實作(第三版)(附範例光碟)",
+        "author": "張元翔",
+        "publisher": "全華圖書",
+        "year": "2022",
+        "ISBN": "9786263281363",
+        "edition": "1"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Python，Opencv",
+    "rules": "此為教育部跨校跨域智慧製造整合課程，必須實作與報告，也要接受教育部考核，以及參加教育部所舉辦之期末成果展，課程有要求且嚴峻，有興趣同學歡迎參加。"
+}

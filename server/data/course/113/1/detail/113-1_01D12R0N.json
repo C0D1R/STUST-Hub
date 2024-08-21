@@ -1,0 +1,122 @@
+{
+    "code": "01D12R0N",
+    "name": {
+        "zh": "中文閱讀與表達(一)",
+        "en": "Chinese Reading and Expression(I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技企管一乙"
+    ],
+    "instructors": [
+        "許雅貴"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "T0109"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "T0109"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程選文涵蓋文言與白話，文類多元，從古典至現代，包括散文、詩歌、小說及應用文。提升學生學習興趣、閱讀表達能力，增進應用文知能及文學欣賞層次。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.導論<br>2.閱讀的功能與樂趣<br>3.書寫與表達基本原理<br>4.中文各項文類評析<br>5.文學作品中各項人生議題之探討<br>6.實用文書基本能力<br>7.聽說讀寫綜合表達訓練<br>",
+        "en": "1.\tIntroduction<br>2.\tThe function and pleasure of reading<br>3.\tThe basic principle in writing and expression <br>4.\tEvaluates all kind of Chinese literature type <br>5.\tThe discussion of life issues in literary work<br>6.\tPractical word processing ability<br>7.\tThe expression training: Hearing、speaking、reading and writing <br>"
+    },
+    "weeklySchedule": "1\t導論\t   課程介紹與評分說明、破冰活動\t<br>2       中秋節放假\t<br>3       倫理素養   愛戀詩詞選-愛情的堅守：〈上邪〉、〈江城子〉\t<br>4\t倫理素養   愛戀詩詞選-愛情的選擇：〈白頭吟〉、〈節婦吟〉、〈愛的辯證〉<br>5\t國慶日放假<br>6       倫理素養   親情課題：〈國峻不回來吃飯〉、〈致你們的父親〉<br>7\t倫理素養   友情萬歲：〈夢李白〉、〈題長安壁主人〉\t<br>8       倫理素養   子非吾友：〈與山巨源絕交書〉<br>9\t期中考\t  筆試\t<br>10\t美學素養   人物之美：紅樓夢詞曲選讀I\t<br>11\t美學素養   人物之美：紅樓夢詞曲選讀II<br>12\t美學素養   悲劇之美：西方神話選讀\t<br>13\t美學素養   悲劇之美：東方神話選讀<br>14\t美學素養\t  美的要件：男神的條件\t       <br>15\t第一、二組報告\t        <br>16\t第三、四組報告\t        <br>17\t第五、六組報告\t       <br>18\t第七、八組報告\t<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "描述文章表達的意義並撰寫作文",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "統整所學的基本能力以作為國家考試與求職之基礎",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "接納人與人之間所傳達的訊息並給予正面的回應",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "秉持良好的學習態度以交付完成各項任務",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "探討文學作品的各項人生議題，並於生活中展現批判能力",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "素養．閱讀(第二版)",
+        "author": "林麗美 主編",
+        "publisher": "麗文文化事業股份有限公司",
+        "year": "2023",
+        "ISBN": "978-986-490-222-4",
+        "edition": "二版一刷"
+    },
+    "referenceBooks": "教師自編講義",
+    "teachingSoftware": "",
+    "rules": ""
+}

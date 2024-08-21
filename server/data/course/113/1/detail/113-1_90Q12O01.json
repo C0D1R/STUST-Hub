@@ -1,0 +1,127 @@
+{
+    "code": "90Q12O01",
+    "name": {
+        "zh": "物聯網應用",
+        "en": "Application of Internet of Things"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專大數據一甲"
+    ],
+    "instructors": [
+        "王智昊"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第6節",
+            "location": "T0708"
+        },
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "T0708"
+        },
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "T0708"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為資訊管理的專長的學生了解物聯網(IOT)的基本理論及架構，對應用層上如何開發與物聯網上的應用App，對網路層上如何使用網路技術來傳遞資訊及使用雲端資訊科技，隊感知層上瞭解透過各項感應技術、偵測式感應器、智慧生活設備來接收訊息，並應用這些設備來開發在資訊管理上可應用上的App軟體系統。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 物聯網原理簡介<br>2. 物聯網系統架構<br>3. 物聯網的雲端資料應用<br>4. 物聯網App應用開發設計<br>5. 物聯網感知網路設計與應用<br>6. 物聯網系統設計應用案例",
+        "en": "1. Introduction of IoT Fundamentals<br>2. Introduction of IoT System Structure<br>3. Cloud Storage application in IoT<br>4. IoT APP Application design<br>5. IoT Sensor networks design and application<br>6. Case Study of IoT Systems"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解物聯網原理與架構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解物聯網的雲端資料應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解物聯網App應用開發設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解物聯網感知網路設計與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解物聯網系統設計應用案例",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

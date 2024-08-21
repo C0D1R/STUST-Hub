@@ -1,0 +1,110 @@
+{
+    "code": "05D01D01",
+    "name": {
+        "zh": "全民國防教育-國防科技",
+        "en": "All-out Defense Education Military Training-Defense Technology"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "軍訓選修"
+    ],
+    "instructors": [
+        "吳智泰"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "D105"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "D105"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "具備現代化意義的國防科技，其發展源自於18世紀開始的「工業革命」。兩次世界大戰帶動了國防科技工業的迅速發展，我們所熟悉的各種現代化經典武器，都是兩次世界大戰期間國防科技發展的成果。這些武器現在都還深刻的影響著我們所認知的戰爭型態。",
+    "prerequisites": "#修課重要須知：軍訓更名為「全民國防教育」\n全民國防教育軍事訓練課程折減常備兵役現役役期或軍事訓練期間之上限，依兵役法第十六條第四項規定辦理。本校男學生因應折抵役期選課之學生，請詳閱本校開課規則，每門課均開課2小時1學分！折減現役役期者，每門課得折減4.5日。折減軍事訓練者，每門課最多得折減2日。在此告知，請同學選課自行考量。\n(一)82年前出生，折減現役役期：\n依每門課程總時數36小時(堂)計算，修習成績合格者，依每8堂課折算1日，得折減4.5日；5門課共180小時(堂)，不足1日不列入計算，至多得折減現役役期22日。\n(二)83年後，折減軍事訓練期間：\n依每8堂課折算1日，每門課最多得折減2日；5門課共80小時(堂)，至多得折減軍事訓練期間10日。(不得比照折減現役役期之課程規範)\n\n#選修全民國防軍訓訓練課程之男學生，需配合本校青年服勤動員編組，得以運用課程實施訓練。",
+    "syllabus": {
+        "zh": "第一部分課程，依教官專長領域設計<br>第二部分課程，大綱如下：<br>第一章 飛彈<br>第二章 陸上載具<br>第三章 海上載具<br>第四章 空中載具<br>第五章 我國國防產業<br>第六章 未來戰場發展趨勢<br>第七章 核生化作戰及核生化訓練簡介<br>第八章 軍事素養─軍兵種介紹<br>第九章 軍事素養─武器系統介紹<br>第十章 軍事素養─資訊作戰<br>第十一章 愛國教育",
+        "en": "The first part of the course, designed according to the field of instructor expertise<br>The second part of the course, the outline is as follows:<br>Chapter 1 Missiles<br>Chapter II Landing Equipment<br>Chapter III Sea Launcher<br>Chapter IV Aerial Vehicles<br>Chapter V China's National Defense Industry<br>Chapter VI Future Battlefield Development Trends<br>Chapter VII Introduction to Nuclear and Biochemical Operations and Nuclear and Biochemical Training<br>Chapter VIII Military Literacy-Introduction to the Armies<br>Chapter IX Military Literacy - Introduction to Weapon System<br>Chapter 10 Military Literacy-Information Warfare<br>Chapter XI Patriotic Education<br>講師の専門知識の分野に従って設計されたコースの最初の部分<br>コースの後半では、概要は次のとおりです。<br>第1章ミサイル<br>第2章着陸装置<br>第3章シーランチャー<br>第4章航空機<br>第5章中国の国防産業<br>第6章将来の戦場開発動向<br>第7章核および生化学的操作および核および生化学的トレーニングの紹介<br>第8章軍事識字能力 - 軍への紹介<br>第9章軍事リテラシー - 武器システムの紹介<br>第10章軍事リテラシー - 情報戦<br>第11章愛国教育"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培育宏觀國際視野，增進國防科技知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "深化全民國防共識，確保國家整體安全。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "凝聚國人憂患意識，淬煉愛國愛鄉情操。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養優秀國防科技人才，奠定國防意識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

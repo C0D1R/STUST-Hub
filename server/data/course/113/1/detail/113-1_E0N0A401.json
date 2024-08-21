@@ -1,0 +1,188 @@
+{
+    "code": "E0N0A401",
+    "name": {
+        "zh": "日語能力綜合練習(一)",
+        "en": "Japanese Exercises I"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技應日三甲"
+    ],
+    "instructors": [
+        "鄧美華"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "T0112"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "T0112"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "T0112"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.日語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程上課方式以講解日語能力檢定考歷屆考題為主。",
+    "prerequisites": "請具備日語能力檢定二級左右的程度",
+    "syllabus": {
+        "zh": "第一週 準備週、模擬試題練習<br>第二～三週 2007年考題解析<br>第四～六週 2006年考題解析<br>第七～八週 2005年考題解析<br>第九週 期中考<br>第十～十二週 2004年考題解析<br>第十三～十四週 2003年考題解析<br>第十五～十七週 2002年考題解析<br>第十八週 期末考",
+        "en": "第一週 オリエンテーション、模擬問題<br>第二～三週 2007年の過去問を分析する<br>第四～六週 2006年の過去問を分析する<br>第七～八週 2005年の過去問を分析する<br>第九週 中間テスト<br>第十～十二週 2004年の過去問を分析する<br>第十三～十四週 2003年の過去問を分析する<br>第十五～十七週 2002年の過去問を分析する<br>第十八週 期末テスト<br>"
+    },
+    "weeklySchedule": "第1-3週 課程介紹、教材第1-2課、1-2課練習<br>第4-6週 第3-4課、1-4綜合練習<br>第7-8週 第5-6課、5-6課練習<br><br>第9週 期中考週<br><br>第10-12週 第7-8課、7-8課練習<br>第13-15週 第9-10課、9-10課練習<br>第16-17週 第11-12課、11-12課練習<br><br>第18週 期末考週",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "平常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解及掌握日語檢定考試N2級所必備之句型及語法、與文章解讀能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "藉由分析讀解文章中的內容，清楚的了解其語義及掌握理解文章的中心主旨。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "辨別文法例題中的題意，並正確地解題。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "藉由聽力試題的演練，明確的理解會話的重點，提昇聽力與口語表達的能力，期許將來可活用於職場應對上。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "透過試題中的閱讀文，可以提昇學生文章賞析的能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "滿點文法N3",
+        "author": "友松悅子等",
+        "publisher": "大新書局",
+        "year": "2024",
+        "ISBN": "978-986-321-029-0",
+        "edition": "第1版"
+    },
+    "referenceBooks": "適時適所日本語表現句型500中上級(改訂版)",
+    "teachingSoftware": "FLIP CLASS數位學習平臺",
+    "rules": "1.本課程注重出席率、平時表現(上課不得滑手機、打瞌睡及用餐(如需用餐，請用完餐再進入教室))，前述皆列入平時成績計算。<br>2.本課程以講授N3程度句型與練習題為主，請選課同學斟酌自身的學習程度選課。<br>"
+}

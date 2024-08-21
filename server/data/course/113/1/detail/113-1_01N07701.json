@@ -1,0 +1,115 @@
+{
+    "code": "01N07701",
+    "name": {
+        "zh": "全球英語(一)",
+        "en": "Globish (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "夜企管產攜一甲"
+    ],
+    "instructors": [
+        "林芳俐"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S207"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "S207"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "S207"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程除了課本之外，會提供線上學習教材。<br>全球英語(一): 著重於培養學生勇於開口說英語的膽量和意願。以情境和角色扮演的上課模式鼓勵學生群組練習開口說英語。透過口語反覆練習讓學生熟習單字和文法，以取代傳統的背誦和死記學習模式。<br>The objective of Globish (一) is to encourage students to speak English with real-word activities, rather than the monotonous recitation learning mode. With the designed scenarios, students will improve English-speaking ability, and furthermore remember the words and the structure of sentences.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元1: 介紹新進人員/自我介紹<br>單元2: 建立關係<br>單元3: 要求提供資訊或懇請協助<br>單元4: 訂定/確認/更改/取消約會<br>單元5: 邀約<br>單元6: 提供意見<br>單元7: 表達意見",
+        "en": "Unit 1: Making Introductions<br>Unit 2: Making Contact<br>Unit 3:Asking for Information/Help<br>Unit 4:Making/Confirming/Changining/Canceling an Appointment<br>Unit 5:Sending an Invitation<br>Unit 6:Giving Advice<br>Unit 7:Expressing Opinions"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "在各種社交與職場情境下，學生能夠使用適當的英文字彙與句子結構。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生將建立有效的溝通技巧，並達成立融洽與相互理解的目的。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過實境互動式的練習與訓練，學生能夠隨著環境的改變提升自我調適的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過團隊合作的練習，學生能與夥伴維持良好的關係，以提升工作績效進而達到工作的目標",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

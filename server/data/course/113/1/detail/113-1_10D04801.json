@@ -1,0 +1,147 @@
+{
+    "code": "10D04801",
+    "name": {
+        "zh": "電腦輔助工程分析",
+        "en": "Computer Aided Engineering"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控四甲",
+        "四技自控四乙"
+    ],
+    "instructors": [
+        "呂金塗"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "E0202"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "E0202"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "E0202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程提供學生有關電腦輔助工程分析(CAE)的知識與技術，包括CAE簡介、分析流程、軟體操作與實務案例，兼及有限元素法，可應用至結構、振動、流力、熱傳等領域的分析。",
+    "prerequisites": "具備材料力學、電腦輔助設計之基礎將有助於本課程的學習。",
+    "syllabus": {
+        "zh": "1.CAE簡介：電腦輔助工程分析，相關軟體，分析流程。<br>2.準備模型：準備零組件，理想化、建模型。<br>3.發展模型：指定材料性質、負載、拘束。<br>4.分析與結果：分析類型，建立分析，顯示結果。<br>5.進階建模與分析：接觸、熱傳。<br>6.FEM簡介：有限元素法，相關軟體。<br>7.基本結構分析：桁架、樑及構架的分析。<br>8.實際分析案例：結構強度分析案例，結構振動分析案例。<br>",
+        "en": "1.Introduction to CAE: computer-aided engineering, relevant software, the process of analysis.<br>2.Preparation of the model: preparation of parts and assembly, idealizations, modeling.<br>3.Development of the model: set up of material properties, loads and constraints.<br>4.Analyses and results: types of analyses, set up of an analysis, display results.<br>5.Advanced modeling and analysis: contact, thermal<br>6.Introduction to FEM: finite element method, relevant software.<br>7.Basic structural analyses: analyses of trusses, beams and frames.<br>8.Practical examples of analyses: strength analysis of structure, vibration analysis of structure.<br>"
+    },
+    "weeklySchedule": "第1週：CAE及軟體簡介<br>第2至4週：準備與發展分析模型<br>第5至6週：分析與結果判讀<br>第7至8週：產業製程與分析案例<br>第9週：期中考<br>第10至11週：進階建模與分析<br>第12至13週：FEM與結構分析<br>第14至15週：結構強度與振動分析案例<br>第16至17週：應用於專案開發實例<br>第18週：期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉電腦輔助工程分析及其流程",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉CAE的軟體操作",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "應用CAE進行靜態結構與結構模態分析",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "由實際案例提出改善方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "養成準時上課與專注的習慣",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Finite Element Simulations with ANSYS Workbench 2019",
+        "author": "Huei-Huang Lee (李輝煌)",
+        "publisher": "Chuan Hwa Book Co., Ltd (全華圖書)",
+        "year": "2019",
+        "ISBN": "978-9865032388",
+        "edition": ""
+    },
+    "referenceBooks": "1. ANSYS Workbench講義及教學網頁教材。 <br>2. Finite Element Simulations with ANSYS Workbench 2023, Huei-Huang Lee, SDC Publications, 2023, ISBN 978-1-63057-615-8. <br>3. 蔡國忠 著，ANSYS Workbench有限元素分析及工程應用，第二版，經瑋文化，2017，ISBN 978-9869447263. <br>4. An Introduction to ANSYS Fluent 2023, John E. Matsson, SDC Publications, 2023, ISBN 978-1-63057-648-6.",
+    "teachingSoftware": "ANSYS Workbench 2024",
+    "rules": "1. 電腦教室上課，一人一機，修課學生可加強練習。<br>2. 部分補充教材或題解公布於https://flipclass.stust.edu.tw/<br>"
+}

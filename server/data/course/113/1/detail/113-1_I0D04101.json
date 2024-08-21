@@ -1,0 +1,122 @@
+{
+    "code": "I0D04101",
+    "name": {
+        "zh": "基礎鍵盤樂",
+        "en": "Basic Keyboard"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技幼保一甲"
+    ],
+    "instructors": [
+        "魏欣儀"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "W0912"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "W0912"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "基礎鑑盤樂是一門基礎的鋼琴課，課程學習之曲目以初級為主，授課內容包<br>含基礎音樂知識、鍵盤彈奏練習、和弦伴奏應用、兒歌彈唱及音樂欣賞等。<br>",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1. 基礎樂理<br>2. 中央C位置<br>3. C大調樂曲彈奏<br>4. 雙手協調統合練習<br>5. C大調和弦<br>6. C大調伴奏",
+        "en": "1. Basic music theory<br>2. The middle C position<br>3. The Practice in C Major<br>4. Play keyboard with both hands<br>5. C Major Chords<br>6. C Major accompaniment<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解基礎樂理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備基礎彈奏能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能幫樂曲配簡易伴奏",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能欣賞音樂表演",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能養成自主學習的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

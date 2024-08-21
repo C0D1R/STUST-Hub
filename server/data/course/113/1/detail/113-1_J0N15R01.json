@@ -1,0 +1,117 @@
+{
+    "code": "J0N15R01",
+    "name": {
+        "zh": "數位媒體與科技概論",
+        "en": "Introduction to Digital Media and Technology"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技資傳一甲",
+        "夜四技視傳一甲",
+        "夜四技多樂一甲"
+    ],
+    "instructors": [
+        "黃俊碩"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "W0709"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "W0709"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "W0709"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程核心目的，著重於引導學生認識數位媒體科技發展知識與未來產業應用領域。本課程核心目標：(1)數位媒體與科技發展、(2)未來媒體科技應用。期望修畢本課程之學生，能具備數位媒體科技知識，發揮創意並能加以運用於各領域業界發展。<br>The main focus of this course is to lead students towards an understanding of the evolving landscape of digital media technology and its prospective applications across industries.<br>The central goals of this course encompass: (1) Exploring the progression of digital media and technology, and (2) Examining the forthcoming applications of media technology.<br>Upon completion of this course, students are expected to acquire proficiency in digital media technology, demonstrate creative thinking, and effectively apply their knowledge across diverse sectors for professional advancement.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 數位媒體科技發展之創意構思<br>2. 數位媒體科技應用設計案例<br>3. 數位媒體科技未來發展現況<br>4. 數位媒體技術現況分析與調查<br>5. 設計企劃提案與評估<br>6. 原型設計與驗證",
+        "en": "1. Creative ideas for the development of digital media technology<br>2. Digital media technology application design cases<br>3. The future development of digital media technology<br>4. Analysis and investigation of current status of digital media technology<br>5. Design planning proposal and evaluation<br>6. Prototyping and verification"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習數位媒體科技基礎發展知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用設計之軟硬體工具執行專案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用創意方法產生具有創意的價值",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習團隊合作完成設計專案報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

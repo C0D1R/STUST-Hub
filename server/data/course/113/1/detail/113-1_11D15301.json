@@ -1,0 +1,116 @@
+{
+    "code": "11D15301",
+    "name": {
+        "zh": "氣壓控制實務",
+        "en": "Practice in Pneumatic Control"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技自控一甲"
+    ],
+    "instructors": [
+        "詹超"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "K002"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "K002"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "K002"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.氣壓丙級",
+        ""
+    ],
+    "description": "述 本課程介紹氣壓元件符號及學習氣壓迴路之動作及功用，學習氣壓順序控制之電氣迴路元件符號及各種電氣迴路設計方法，學習機械-氣壓迴路或電氣-氣壓迴路裝配調整，零組件判別及指定零組件拆卸與組裝，及繪製裝配迴路之位移-時間圖。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.機械氣壓─時間從屬計數迴路之裝配與調整。<br>2.機械氣壓─正壓從屬計時迴路之裝配與調整。<br>3.機械氣壓─負壓從屬計數迴路之裝配與調整。<br>4.工作安全、運轉調整、操作及維修-氣壓丙級學科試題解析<br>",
+        "en": "1. Pneumatic control-time dominant count circuit assembly and adjustment.<br>2. Pneumatic control-pressure dominant count circuit assembly and adjustment.<br>3. Pneumatic control-negative pressure dominant count circuit assembly and adjustment.<br>4.The work safety and practice adjustment for the basic certification."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能理解氣壓元件符號及氣壓迴路之動作及功用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能理解純氣壓順序控制之迴路設計並能依迴路圖完成氣壓控制迴路裝配",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能理解電氣氣壓順序控制之電氣迴路設計並能依電氣圖及迴路圖完成氣壓控制電氣迴路及氣壓迴路之裝配",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能理解電氣氣壓順序控制之計時計數電氣迴路設計並能依電氣圖及迴路圖完成氣壓控制電氣迴路及氣壓迴路之裝配",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

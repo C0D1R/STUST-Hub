@@ -1,0 +1,110 @@
+{
+    "code": "90D23001",
+    "name": {
+        "zh": "創意思考",
+        "en": "Innovation Creation"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技資管一甲"
+    ],
+    "instructors": [
+        "謝佳宏"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0309"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "T0309"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要是教導學生創意思考的理論與方法,並藉由本課程來培訓學生的創意思考方式與習慣,並且訓練學生們嘗試將創意轉化成專利文件的相關技巧能力,用以達到理論實務化之目標。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.創意思考理論<br>2.激發創意的方法<br>3.相關研發情報蒐集與分析<br>4.創意思考實作練習<br>5.創意之專利文件寫作<br>6.群體創作與思考<br>",
+        "en": "1.Innovation Creation Theory<br>2.Inspire Innovation Method<br>3.Survey and Collect Related Innovation<br>4.Innovation Practice<br>5.Patenet Document Reading and Writing<br>6.Group Innovation and Brain Storming<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解創意思考的基本方法與學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用創意思考方法來分析生活中的不便",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用創意思考方法來解決生活中的需求",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效呈現創意思考結果,讓不懂該領域的人仍可以透過文件來理解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

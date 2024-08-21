@@ -1,0 +1,128 @@
+{
+    "code": "10D01104",
+    "name": {
+        "zh": "工程數學(一)",
+        "en": "Engineering Mathematics(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技製造二乙"
+    ],
+    "instructors": [
+        "蕭瑞陽"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "K302"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "R402"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "R402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.高普考、專技人員考試",
+        ""
+    ],
+    "description": "1.使學生了解、拉氏轉換、級數解等相關原理、計算與應用。<br>2.將數學理論與實際工程相結合並能靈活應用。<br>",
+    "prerequisites": "微積分",
+    "syllabus": {
+        "zh": "1.一階微分方程式：基本概念，變數可分離、正合微分方程式，積分因子，線性微分方程式，柏努 利方程式，一階微分方程式之應用。<br>2.二階線性微分方程式：基本性質，降階法，常係數線性齊次微分方程式，尤拉-科西方程式，微分運算子，非齊次微分方程式，二階微分方程式之應用，高階常係數微分方程式。<br>3.拉氏轉換：基本概念，拉氏轉換之基本性質，移位性質與週期函數，部分分式法與反拉氏轉換，迴旋積分，單位脈衝與狄拉克函數，拉氏轉換法解微分方程式。<br>4.線性微分方程式之級數解：預備知識，平常點之冪級數解，規則奇異點之冪級數解。",
+        "en": "1. First order differential equations: introduction, separable variable differential equation, exact differential equation, integration factor, first order differential equation, Bernoulli’s equation, applications of the first order differential equation.<br>2. Second order differential equations: introduction, order reduction method, 2nd order homogeneous linear differential equation with constant coefficient, non-homogeneous linear differential equation with constant coefficient, Cauchy-Euler differential equation, differential operator and its applications, the application of . the 2nd order differential equation<br>3. Laplace transformation: introduction, basic properties of Laplace transformation, Translation theorem and periodic function, inverse Laplace transformation, convolution, unite impulse function and Dirac function, solving differential equation by Laplace transformation.<br>4. Series solutions of linear differential equations: introduction, series solutions of ordinary point, series solutions of regular singular point."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解常微分方程式原理及熟悉解題技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解無限數列原理以及熟悉解題技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解拉普拉斯轉換原理及熟悉解題技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用常微分方程式原理以分析工程問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成準時上課與專注的習慣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

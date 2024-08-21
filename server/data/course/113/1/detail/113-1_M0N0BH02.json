@@ -1,0 +1,116 @@
+{
+    "code": "M0N0BH02",
+    "name": {
+        "zh": "主題餐廳規劃與管理",
+        "en": "Theme Restaurants Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技餐旅四乙"
+    ],
+    "instructors": [
+        "吳怡惠"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "T0311"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "T0311"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "T0311"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.讓同學瞭解成功的主題餐廳是要由許多因素結合起來<br>2.區位分析、氣氛營造、廚房設計與人員專業訓練等因素，再針對餐廳本身的主題性，輔以其相對應的行銷策略，才能使主題餐廳吸引更多的客源。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.主題餐廳興起的原因<br>2.主題餐廳的分類和市場分析<br>3.客源分析之差異化分析<br>4.市場、人員差異分析<br>5.賣場設計<br>6.成本分析<br>7.發展策略<br>8.主題餐廳之其他特色餐廳",
+        "en": "1.The theme restaurants emerge<br>2.Classification of the theme restaurants<br>3.Market analysis <br>4.Source of tourists analysis and variation of analysis<br>5.Service of variance analysis <br>6.Comprehend service of process variance analysis<br>7.Market and personnel of variance analysis of variance analysis <br>8.Restaurant front center design<br>9.Strategy of development for the theme restaurants<br>10.Other characteristic theme restaurants"
+    },
+    "weeklySchedule": "第一週　個性化消費：主題餐廳興起的源泉與內涵分析<br>第二週  主題餐廳的效用分析與分類<br>第三週　市場與客源分析<br>第四週　餐飲產品與競爭者分析<br>第五週　社會環境調查<br>第六週　差異化概念及優勢分析<br>第七週　產品與服務差異分析<br>第八週　服務過程、人員、市場差異分析<br>第九週　期中考<br>第十週  市場定位、客源、區位管理<br>第十一週　賣場、店面廣告管理<br>第十二週　主題餐廳成本管理及成敗規律分析<br>第十三週 主題更新策略與連鎖經營<br>第十四週 主題餐廳發展趨勢<br>第十五週 休閒與民俗主題餐廳設計<br>第十六週 農家與保健主題餐廳設計<br>第十七週 水果與國宴主題餐廳設計<br>的十八週 期末報告",
+    "exams": {
+        "midterm": "筆試",
+        "final": "紙本報告",
+        "other": "口頭"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "主題餐廳規劃與管理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能辨識優質主題餐廳規劃的特色",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能運用規劃設計與設備佈置的技法於主題餐廳籌備與運作的實務上",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能發掘市場利基，分析餐廳內外部環境，以規劃與設計一間主題餐廳",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "主題餐廳設計與管理",
+        "author": "黃瀏英",
+        "publisher": "揚智",
+        "year": "2015",
+        "ISBN": "957-818-366-6",
+        "edition": "初版五刷"
+    },
+    "referenceBooks": "餐廳規劃與設計<br>作者：吳勉勤、高任首<br>出版社：華立圖書<br>出版日期：2020/12月<br>ISBN：978-957-784-892-5<br>版本：一版一刷",
+    "teachingSoftware": "Micro Soft windows,office",
+    "rules": "1.上課時 請將手機調整振動，請同學尊重智慧財產權，使用正版教科書，不得非法影印，考試進行中不得相互借閱教科書，違者視同作弊<br>2.請勿使用個人電腦做課堂外作業<br>3.評量方式<br>(1)出席：40%（含學習態度及互動）<br>(2)報告(口頭)：20%<br>(3)期中評量：20%<br>(4)期末評量：20%<br>"
+}

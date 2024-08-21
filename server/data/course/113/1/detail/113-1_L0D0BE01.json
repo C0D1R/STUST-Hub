@@ -1,0 +1,127 @@
+{
+    "code": "L0D0BE01",
+    "name": {
+        "zh": "顯示元件設計實務",
+        "en": "Design of Display Devices"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技半導體四甲"
+    ],
+    "instructors": [
+        "許進明"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "W0408"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "W0408"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0408"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為「平面顯示科技」學程之課目之一，主要在建立學生對於TFT-LCD面板設計之能力，內容包括液晶顯示器基礎原理，TFT電路學，像素與面板設計法則與實務。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "01 顯示器元件介紹<br>02 TFT-LCD操作原理<br>03 TFT-LCD面板設計原理<br>04 TFT-LCD面板設計實作<br>05 TFT-LCD之驅動系統設計<br>06 面板設計的現實考量與實務",
+        "en": "01. Introduction to Display Devices<br>02. Operating Principle of TFT-LCD<br>03. Design Rule of TFT-LCD Panel<br>04. Practical Design of TFT-LCD Panel<br>05. Driving System of TFT-LCD<br>06. Practical Concerns in Panel Design"
+    },
+    "weeklySchedule": "Wk1-3   Introduction of Flat Panel Displays<br>Wk4-6   Basic Design Concept of TFT-array Panels<br>Wk7-8   Circuit Design of TFT-array<br>Wk 9    Mid-term test<br>Wk10-12 Process Flow Based on Circuit Design<br>Wk13-15 Practical Design and check of TFT-array<br>Wk16-17 Circuit Design of OLED displays <br>Wk 18   Final Report",
+    "exams": {
+        "midterm": "期中作業",
+        "final": "期末報告",
+        "other": "平時作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "可以具備顯示元件的基礎知識與瞭解影像操作機制",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "可以具備計算與設計顯示元件操作特性的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "可以具備繪製像素點組件的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "可以共同完成顯示元件各層電路設計的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "可以具備繪製整體顯示面板電路的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "TFT-LCD面板的驅動與設計",
+        "author": "戴亞翔",
+        "publisher": "五南",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

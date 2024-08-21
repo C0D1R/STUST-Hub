@@ -1,0 +1,114 @@
+{
+    "code": "B0D24102",
+    "name": {
+        "zh": "服務管理",
+        "en": "Service Management"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技休閒三乙"
+    ],
+    "instructors": [
+        "張婷玥"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "T0608"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "T0608"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "台灣的服務業佔全國經濟的比重愈來愈大，到2007年底為止，服務業的產值佔國內生產毛額70%以上，服務業的就業人口也佔總就業人口的58%以上，因此服務業的經營管理更顯得重要。本課程著眼於介紹服務管理的原理，從而討論服務管理於休閒產業之實務議題。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "服務概論<br>服務品質的缺口模型<br>服務業的消費者行為<br>顧客的服務期望與認知<br>透過研究傾聽顧客<br>建立顧客關係<br>服務補救<br>服務發展與設計<br>顧客定義的服務標準<br>實體表徵與服務設施<br>服務傳遞與執行",
+        "en": "Introduction<br>Gap model of service quality<br>Consumer behavior for service industries<br>Customer evaluation and perception of service<br>Marketing Research for service industries<br>Customer relationship<br>Service recovery<br>Service development and design<br>Service standard defined by customers<br>Physical evidence and service surroundings<br>Service delivery"
+    },
+    "weeklySchedule": "week 1  課程導論<br>week 2  Ch01服務業的崛起與重要性<br>week 3  Ch01服務業的崛起與重要性<br>week 4  Ch02服務的內涵<br>week 5  Ch02服務的內涵<br>week 6  Ch03服務業消費者購買過程與行為<br>week 7  Ch03服務業消費者購買過程與行為<br>week 8  實務個案討論(一)<br>week 9  期中考週：期中考試<br>week 10 Ch08服務的實體環境<br>week 11\tCh08服務的實體環境<br>week 12\t實務個案討論(二)<br>week 13\tCh09服務人員<br>week 14\tCh10服務流程與供需管理<br>week 15\tCh07服務的創新<br>week 16\t期末報告<br>week 17\t期末報告<br>week 18\t期末考週",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "隨堂小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解服務管理的基本學理與相關議題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用電腦文書軟體進行個案報告",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用服務管理之專業知識於休閒實務個案",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能針對休閒實務個案提出解說與報告",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "服務業行銷與管理",
+        "author": "曾光華",
+        "publisher": "前程",
+        "year": "2020",
+        "ISBN": "9789869822732",
+        "edition": "六"
+    },
+    "referenceBooks": "1. 陳澤義 (2024)，服務管理，台北：華泰，七版。<br>2. 林建煌 (2021)，服務行銷:擬定服務業最佳行銷策略，台北：華泰，四版。",
+    "teachingSoftware": "略。",
+    "rules": "1. 請隨時留意flipclass數位學習之課程訊息。 <br>2. 出席率與上課態度為本課程之重要成績評核項目。"
+}

@@ -1,0 +1,117 @@
+{
+    "code": "40D18601",
+    "name": {
+        "zh": "物理",
+        "en": "Physics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技化材一甲",
+        "四技化材一乙",
+        "四化材國專一甲"
+    ],
+    "instructors": [
+        "戴守煌"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "I0707"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "I0707"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "I0707"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "這門課主要介紹四個主題: 力學、波動、電磁學以及光學。由於只有一個學期的時間學習，內容將以觀念為主，公式應用為輔。期望化材系學生能夠對於將來進行化學相關專題時，對於攪拌、光電實驗與分析有基本認識。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.簡介<br>2.力學(直線運動、能量守恆與轉動)<br>3.震盪與波動<br>4.電磁學<br>5.光學<br>",
+        "en": "1 Introduction<br>2. Mechanics (linear motion, conservation of energy and rotation)<br>3. oscillation and vibration<br>4. electromagnetism<br>5. Optics<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能利用物理基本知識及原理解決工程問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析及解決指定問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用網路或圖書館收集相關資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能融入團隊並能完成自己所分擔的工作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

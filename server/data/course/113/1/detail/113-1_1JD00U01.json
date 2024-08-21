@@ -1,0 +1,176 @@
+{
+    "code": "1JD00U01",
+    "name": {
+        "zh": "長照經營管理與品質",
+        "en": "Long-Term Care Management and Quality"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技高福四甲"
+    ],
+    "instructors": [
+        "陳綉琴"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "O101"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "O101"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過課程之講述、議題討論、實務參訪，期望於課程完成後，學生能對長期照護機構之經營與品質管理有基本概念。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.長期照護機構類型、管理者的角色及責任、經營思維<br>2.急性照護、亞急性照護、出院準備與長期照護<br>3.長照相關法規：長照服務法、老人福利法等<br>4.長期照護機構的人力資源管理：人力類別與配置、跨世代管理及跨文化管理、跨專業團隊領導統馭<br>5.長期照護機構財務規劃與管理<br>6.長期照護機構空間規劃與管理<br>7.長期照護機構品質管理理念、品質管理工具、滿意度調查<br>8.長期照護機構評鑑<br>9.長期照護機構風險安全管理及意外事件處理<br>10.長期照護機構行銷與社區關係、媒體規劃與應對<br>11.長期照護機構工作倫理<br>",
+        "en": "1. Types of long-term care services, administrative roles and responsibilities in long-term care services<br>2. Acute care, subacute care, discharge planning and long-term care<br>3. Long-term care services Act<br>4. Human resources of long-term care services<br>5. Financial planning and management of long-term care services<br>6. Space design and management of long-term care facilities<br>7. Quality management of long-term care services<br>8. Accreditation of long-term care services<br>9. Risk and safety management of long-term care services<br>10. Long-term care marketing and media communication<br>11. Ethics of long-term care services<br>"
+    },
+    "weeklySchedule": "一\t9/13\t課程介紹\t<br>二\t9/20\t台灣長期照顧的現況與未來發展\t<br>三\t9/27\t健康與長期照顧的政策\t<br>四\t10/4\t長期照顧經營趨勢與困境\t<br>五\t10/11\t長期照顧組織與整合性照顧機制\t<br>六\t10/18\t長期照顧的服務模式\t<br>七\t10/25\t長期照顧的經營管理\t<br>八\t11/1\t長期照顧機構設置標準與評鑑\t<br>九\t11/8\t期中報告一：理想中的長期照顧機構\t<br>十\t11/15\t期中報告二：理想中的長期照顧機構\t<br>十一\t11/22\t出院準備服務銜接長期照顧服務\t<br>十二\t11/29\t長期照顧機構財務規劃與管理\t<br>十三\t12/6\t長期照顧機構的品質管理\t<br>十四\t12/13\t長期照顧機構行銷與媒體應對\t<br>十五\t12/20\t長期照顧相關法律議題與工作倫理一\t<br>十六\t12/27\t長期照顧相關法律議題與工作倫理二\t<br>十七\t1/3\t期末報告一：比較實際經營與理想中的長期照顧機構\t<br>十八\t1/10\t期末報告二：比較實際經營與理想中的長期照顧機構\t<br>",
+    "exams": {
+        "midterm": "分組報告",
+        "final": "分組報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解長期照護之種類",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解急性及長期照護之不同處",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解長期照護法規與如何建構長期照護機構",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解長期照護法規與如何建構長期照護機構",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解經營長期照護機構常見之醫療、法律及倫理議題",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解經營長期照護機構常見之醫療、法律及倫理議題",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "認識長期照護機構之評鑑(督導考核)與品質管理",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "長期照護機構風險管理與安全管理",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "長期照護機構之資金籌措方式與營運模式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "趙海倫等(2021)．長期照顧政策與管理．華格納<br>胡月娟等(2018) ．長期照顧．新文京<br>梁亞文等(2016)．長期照護機構管理．華杏<br>黃明發(2013)．長照機構經營與管理．揚智<br>",
+    "teachingSoftware": "N/A",
+    "rules": "1.課堂出席與參與，為平時成績分數，占總成績30%；曠課一次扣總成績一<br>  分，無故缺席超過總課程1/3者(6次)，課堂出席與參與將以零分計。<br>2.期中報告，占總成績30%；以選課同學人數，分8組，每組報告30分鐘(報<br>  告20分鐘、討論10分鐘)。<br>3.期末報告，占總成績40%；與期中報告分組同，不另行分組，每組報告<br>  30分鐘(報告20分鐘、討論10分鐘)。<br>"
+}

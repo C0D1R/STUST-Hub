@@ -1,0 +1,116 @@
+{
+    "code": "08D04A02",
+    "name": {
+        "zh": "英語自主學習課程(三)(B)",
+        "en": "English Self-Learning(III)"
+    },
+    "credit": "1",
+    "type": "管制選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "陳憶綺"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "1",
+        "practice": "2"
+    },
+    "languages": [
+        "1.英語",
+        "2.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為第三學期的自主學習課程。學生將從本課程習得自主學期英語技能的能力與習慣，目標為協助學生學習自主學習英語技巧的習慣與能力。並訓練學生能對自我學習的內容加以規劃、篩檢資料、檢視學習成果並活用習得的技能。以期學生能將英語學習內化為終生並能自主學習的習慣。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(一)自主學習素材: <br>針對聽力單字文法以及閱讀的學習給予每周固定學習的素材，學生須自行上網學習並做學習筆記。<br><br>(二)檢核表:<br>針對每周所習得的字彙或文法句型等內容給予檢核表，以檢視並記錄所習得的知識。並發掘自學時無法理解的問題與內容以待輔導老師解惑。<br><br>(三)測驗:<br>以每周學習內容為基底給予學生簡短的測驗以檢視學習成效。<br><br>(四)輔導與學習歷程追蹤:<br>以flipclass平台資料以及檢核表追蹤學生學習狀況。開課老師會針對學生狀況給予每學期不少於四次的學習輔導與諮詢。並視情況給予必要的協助或輔導資源。<br>",
+        "en": "Self-learning materials:<br>English learning materials regarding grammar, reading, vocabulary, and listening skills will be offered for students to study by schedule. <br><br>Review form:<br>For each week, students are required to complete a form to review their learning process and to discover possible questions when learning on their own. <br><br>Tests:<br>Tests based on each week’s learning material are required for students to examine their performance. <br><br>Consultation &amp; Tutoring<br>Above information will be reviewed by teachers for further consultation and tutoring for students to strengthen their learning. Each student will receive no less than four times a semester.<br>"
+    },
+    "weeklySchedule": "Week                  素材                              <br>1. 課程介紹 Course Introduction (線上影片觀看)<br>2-4製作學習計畫&amp;輔導 Making Self-Learning Plan &amp; Counselling <br>   (繳交學習計畫)<br>5  Using 'may', 'might' and 'could'<br>  BBC Learning English - Course: lower intermediate / Unit 16 / Session 2 / Activity 3 <br>6  多益單字學堂 -- Toeic Voca 090 explicit / debt / signature / deduct / commit<br>  https://youtu.be/q_6AEt_uRZU?feature=shared  <br>7  Forrest Gump: Praying for shrimp (片段)<br>Forrest Gump: Praying for shrimp (HD CLIP) (youtube.com) <br>8  THE DEVIL WEARS PRADA Clip - \"Andy Gets A Makeover\" (2006)<br> https://youtu.be/0Jg8AeuPFSc<br><br>10  Love Will Keep Us Alive – by Eagles <br>  https://youtu.be/z-eg8YT9i_w<br>11  Do Eggs Need to Be Refrigerated? https://www.theeverydaymomlife.com/fresh-eggs-storage/  <br><br>12  Hotel California—by Eagles <br> https://youtu.be/BciS5krYL80 <br>13  You Had Me at Hello - Jerry Maguire (7/8) Movie CLIP (1996)<br>  You Had Me at Hello - Jerry Maguire (7/8) Movie CLIP (1996) HD (youtube.com) <br><br>14  The Right Way to Say Sorry—6 minute English <br> BBC Learning English - 6 Minute English / The right way to say sorry<br><br>15 The Road Not Taken –Read by Tom Hiddleston <br>  https://youtu.be/5pHzpz6xQM4?feature=shared<br><br>16  You’ve got mail—the coffee house scene<br>  https://youtu.be/8yX0E-XQcms?feature=shared<br><br>17  Should We Fear Chatbots? –6 minute English <br>  BBC Learning English - 6 Minute English / Should we fear chatbots?<br><br>",
+    "exams": {
+        "midterm": "繳交每周須完成的學習素材作業(1-6)",
+        "final": "繳交每周須完成的學習素材作業(7-12)",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "以閱讀社會關懷以及人文、藝術、歷史文化背景相關素材學習英語表達溝通技能。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "以自主學習習得的英語技能再進階的雙語課程裡做表達與溝通",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "增進英語聽講、文法、閱讀、字彙等等的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "利用網路資源以及相關軟體提升自主學習的興趣及英語學習的知識管理。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "整合所需學習的素材以及歸納所習得的知識來進行更進階的學習。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Start up 4",
+        "author": "Lynn Bonesteel / Jessica Williams / Nancy Blodgett Matsunaga",
+        "publisher": "文鶴書局",
+        "year": "2021",
+        "ISBN": "978-0134684178",
+        "edition": "1"
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "Grammarly\nChatGPT\nReading Coach",
+    "rules": "本課程為自主學習，請依時間內完成相對應做作業!<br>作業逾期不得繳交!<br>每周一篇閱讀素材&amp;學習單/作業: 共12篇<br>12x7%=84分<br>自主學習計畫: 10分<br>時間到即下架。可施作時間共兩周。<br>逾期不補交作業。<br>每人一學期需參加實體輔導一次。可得4%<br>素材內容涵蓋筆記學習單/心智圖/cover配音/朗讀錄音/心得寫作<br>學期分數:<br>(12*7%)+10%+4%=100<br>"
+}

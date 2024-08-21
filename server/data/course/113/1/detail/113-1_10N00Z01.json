@@ -1,0 +1,115 @@
+{
+    "code": "10N00Z01",
+    "name": {
+        "zh": "工廠實習",
+        "en": "Machine Shop Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技自控二甲"
+    ],
+    "instructors": [
+        "黃冠展"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "V205"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "V205"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "V205"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "各種傳統工作母機以及電腦數值控制工具機之結構及其基本操作方法並能完成相關成品使學生了解各種傳統工作母機以及電腦數值控制工具機之運用",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.綜合練習（車工、銑工、鉗工）<br>2.電腦數值控制工具機（CNC車床、CNC加工中心機）",
+        "en": "1.Comprehensive practice (Turning, Milling, Fitting)<br>2.Computer Numerical Control Machine (CNC Turning, CNC Machining Center)<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能具備技術製圖及圖表的專業認識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能設定切削工具、作業工具以及機械相關附件。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能選擇及正確使用職類專用的檢測儀器。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能選擇及正確使用合適的切削工具。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

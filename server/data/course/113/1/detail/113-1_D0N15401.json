@@ -1,0 +1,123 @@
+{
+    "code": "D0N15401",
+    "name": {
+        "zh": "網站經營與管理",
+        "en": "Network Operation and Management"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜行流產攜二甲"
+    ],
+    "instructors": [
+        "黃建榮"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程教授簡單的網頁製作，藉著上傳後的網路瀏覽行為，透過Google Analytics的分析，來了解網站效能及管理上的種種問題。",
+    "prerequisites": "HTML網頁製作",
+    "syllabus": {
+        "zh": "課程簡介、網路名詞、硬體規劃、ADSL vs. Cable<br>WWW伺服器安裝與設定<br>網站績效分析與管理基礎<br>網站績效分析與管理應用<br>客戶生命週期分析<br>Google Analytics與簡易網頁製作<br>內容效能<br>行銷最佳化<br>電子商務分析",
+        "en": "a"
+    },
+    "weeklySchedule": "W1:網路行銷導論與規劃<br>W2:網路行銷工具：社群媒體<br>W3:建立網頁<br>W4:套用主題與版面設計<br>W5:網站版面配置<br>W6:期中報告<br>W7:新增頁面與建立子網頁<br>W8:刪除與調整頁面順序<br>W9:網站中插入各物件<br>W10:預覽與發佈<br>W11:Google Analysis<br>W12:期末報告",
+    "exams": {
+        "midterm": "實作報告",
+        "final": "實作報告",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉網站架設的方式",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉網頁內容的建構",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "認識網站流量的分析",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉網站內容的管理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解網路行銷的模式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "團隊的分工與合作",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "專心聽講<br>用心實作"
+}

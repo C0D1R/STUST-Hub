@@ -1,0 +1,122 @@
+{
+    "code": "60D08501",
+    "name": {
+        "zh": "商事法",
+        "en": "Commercial Law"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技國企二甲"
+    ],
+    "instructors": [
+        "曾雅真"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "S513"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "S513"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程內容旨在培養學生具備工作場域所需的法律基礎能力，商學院學生與法律人的溝通能力，及運用法律知識解決商事問題的能力。<br>Lecture the principles and regulations of the Commercial Law. The purpose is to enable students to understand the legal practice of the Corporation and Bills Law, so as to be able to take into account both theoretical and practical issues when dealing with cooperate and bill related issues during financial legal or judicial matters.<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章 公司法-總論(1)：公司的分類與設立<br>第二章 公司法-總論(2)：公司的能力、機關、解散、清算與變更<br>第三章 股份有限公司：發起設立、資本、股份與股票<br>第四章 股份有限公司：股東之權利與義務、機關、公司債<br>第五章 公司法-股份有限公司：發行新股、解散、清算、合併、重整<br>第六章 票據法-票據的種類與特性<br>第七章 票據法-票據的簽發<br>第八章 票據法-票據的代理<br>第九章 票據法-票據的偽造、變造、各種票據行為<br>第十章 票據法-票據權利之移轉與行使、票據當事人之責任及權利等<br>",
+        "en": "Chapter I corporation law : classification, Legal Creation of Corporations<br>Chapter II corporation law : capability , organizations ,liquidation, dissolution, merger and segmentation<br>Chapter III joint-stock company：establishment, capital, shares and stocks<br>Chapter IV joint-stock company：Shareholders, rights and liabilities<br>Chapter V joint-stock company：Issuing new shares, dissolution, liquidation, merger, reorganization<br>Chapter VI Bill Law：classification and use of bills (bills, promissory notes and cheques)<br>Chapter VII Bill Law：signature of bills<br>Chapter VIII Bill Law：bill agency<br>Chapter IX Bill Law：forgery, alteration, various bills<br>Chapter X Bill Law：transfer and exercise of bill rights, The liability and rights of the parties to the bill.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認知商事法規最新議題，與時俱進。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "擴大商業經營管理視野，建構商事知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "深入瞭解商事遊戲規則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進觀察能力與獨立思考的判斷能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用商事規範解決商事經營管理所面臨的各式挑戰",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

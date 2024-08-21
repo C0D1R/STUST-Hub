@@ -1,0 +1,134 @@
+{
+    "code": "M0D17602",
+    "name": {
+        "zh": "葡萄酒實務",
+        "en": "Wine Appreciation"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技餐旅四乙"
+    ],
+    "instructors": [
+        "林儒蘊"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "T0602"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "T0602"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹葡萄酒主要產區及品種",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "主要單元:<br>葡萄酒緒論<br>世界葡萄酒分布<br>葡萄酒品評方法<br>葡萄品種介紹<br>葡萄種植<br>葡萄酒製造",
+        "en": "Chapter 01 Introduction to wines<br>Chapter 02 Around the world of wines<br>Chapter 03 Wine tasting methods<br>Chapter 04 Introduction to grape varieties<br>Chapter 05 Viticulture<br>Chapter 06 Vinification"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "葡萄酒服務需要團隊合作才能完成",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "課程結束後能夠認識酒標並能流利的介紹葡萄酒給顧客以提升營業目標",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "課程結束後可強化蒲萄酒與餐食的搭配專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "課程結束後能具有高超的開酒技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "上流社會飲酒文化與藝術是相連結，所以如音樂與歌劇甚至於高爾夫運動都要涉獵！連酒標的設計審美都要了結，並能將其化為與顧客交談的有趣話題！成為講故事的高手",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提昇酒標的閱讀能力與口語介紹！尤其是舊世界的法文與新世界葡萄酒的英文酒標。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

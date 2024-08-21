@@ -1,0 +1,127 @@
+{
+    "code": "40D1BW01",
+    "name": {
+        "zh": "自主學習(五)",
+        "en": "Self-Learning (V)"
+    },
+    "credit": "1",
+    "type": "管制選修",
+    "classes": [
+        "四技化材二甲",
+        "四技化材三甲",
+        "四技化材三乙",
+        "四技化材四甲",
+        "四技化材四乙"
+    ],
+    "instructors": [
+        "吳文昌"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程擬利用一學分的規劃，以高疏水高耐腐蝕性鋁合金陽極處理技術與異常對策為主題，進行學生自主學習、設計思考與團隊合作的訓練，引導其提升掌握自我學習的主導權。於學期初，由老師介紹學習相關的內容，並以學期中進行2整日之設計思考訓練工作坊的方式，強化自我學習內容與團隊合作的能力。學期過程若有需更動學習計畫之處，由學生與授課老師共同商議。期末仍由教師評定成績等第。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.輕量化鋁合金材料以及其搭配之表面處理的意義。<br>2.高疏水高耐蝕鋁合金的陽極處理技術與控制參數。<br>3.做中學體驗高疏水高耐蝕鋁合金的陽極處理技術與皮<br>  膜特性分析的流程。<br>4.思索皮膜特性異常發生原因以及解決異常的對策。<br>",
+        "en": "1.The significance of aluminum alloy materials and<br>their matching surface treatments.<br>2. Anodizing technology and control parameters for highly hydrophobic and highly corrosion-resistant aluminum alloys.<br>3. Learn by doing and experience the anodizing technology and characterization of oxide films of highly hydrophobic and corrosion-resistant aluminum alloys.<br>4. Think about the causes of abnormal oxide film properties and countermeasures to solve them.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "運用數學、科學及化學工程知識的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析實驗數據並解釋實驗結果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練選擇合適之方式解決問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有系統的說明實驗流程與實驗結果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用電腦軟體處理實驗數據，並上網收集相關資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能融入團隊並能完成自己所分擔的實驗工作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

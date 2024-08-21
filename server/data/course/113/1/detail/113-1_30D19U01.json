@@ -1,0 +1,135 @@
+{
+    "code": "30D19U01",
+    "name": {
+        "zh": "智慧財產權概論",
+        "en": "Introduction to intellectual propery"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技電子三甲",
+        "四技電子三乙"
+    ],
+    "instructors": [
+        "唐經洲"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "P203"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "P203"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹智慧財產之內容,包括著作權、商標、專利及營業秘密",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.導論     <br>2.商標     <br>3.著作權     <br>4.營利概論     <br>6.各國專利法規     <br>7.專利要件    . <br>8.專利之申請及行政流程     <br>9.專利之檢索(台灣及美國)     <br>10.專利實務     <br>11.專利訴訟",
+        "en": "1. Introduction                        <br>2.Trade mark                           <br>3.Copyright                          <br>4.Trade secret law<br>5.Introdction to paten<br>6.Patent law of.many nations<br>7.Necessary of patent <br>8. An application and administrative process of patent<br>9. Search of patent<br>10.Attack and defence of patent<br>11.Litigation of patent"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "知道著作權與商標法的相關法律規定 知道取得著作權與商標的方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道如何做專利之解析與迴避。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能使用電腦及網際網路進行專利檢索。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "一件有用的作品，往往是觀念的創新在加上系統的整合，從一構思為起點、並經歷專利檢索、專利要件、專利邏輯，可決定能否產生一篇專利",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "介紹專利網站，使學生能自行學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "鼓勵學生開口，並適當的獎勵。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

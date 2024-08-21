@@ -1,0 +1,144 @@
+{
+    "code": "01D13J0M",
+    "name": {
+        "zh": "進階英文表達(A)",
+        "en": "English for Professional Communication & Presentation"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技高福三甲",
+        "四技應日三甲",
+        "四技應日三乙",
+        "四技幼保三甲"
+    ],
+    "instructors": [
+        "曾瓊瑢"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0112"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0112"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以專業英文溝通的基礎， 進一步學習介紹公司概況，新制產品及產品製造流程，以及業務銷售或最新研發科技方面…等的簡介能力。以期符合不同專業領域裡，所必須應對的職場需求。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 制定簡報的主題與綱要<br>(1) 認識簡報對象<br>(2) 製作綱要<br>(3) 設定簡報型式<br>(4) 模擬練習<br><br>2. 表達技巧的學習與應用(產品介紹與交際溝通技巧)<br>(1) 自我介紹與交際閒談<br>(2) 簡潔有力的陳述<br>(3) 論點的陳述方式<br>(4) 各論點間的連結整合<br><br>3. 簡報內容的製作 (資料的收集、分析與歸納)<br>(1) 主題簡介<br>(2) 圖片/表格/圖表的使用<br>(3) 事實&amp;數據分析<br>(4) 範例的使用<br>(5) 論點的強調<br>(6) 對簡報內容做出預測<br><br>4. 總結簡報內容與製作摘要<br>(1) 總結式的摘要<br>(2) 提出另一思考的方向<br>(3) 提出有效的建議<br><br>5. 回答提問及進階討論<br>(1) 提問的邀請<br>(2) 回應<br>(3) 後續的連繫與討論<br>",
+        "en": "1. Choosing Topics and Making an Outline<br>(1) Learning Your Audience<br>(2) Making an Outline<br>(3) Choosing the Format<br>(4) Practicing the Presentation<br><br>2. Introducing an Item and Small Talks<br>(1) Self-Introduction and Small Talks<br>(2) Powerfully Addressing Your Points<br>(3) Making a List of Your Points<br>(4) Linking Your Points<br><br>3. Researching, Analyzing, and Managing Information for Presentations<br>(1) Introducing the Subject<br>(2) Using Charts, Graphs, and Pictures<br>(3) Analyzing Facts and Data<br>(4) Using Examples <br>(5) Enhancing Your Points <br>(6) Giving Predictions <br><br>4. Making an Conclusion and Summary<br>(1) Giving a Concluding Summary<br>(2) Proposing a New Question <br>(3) Making Recommendations <br><br>5. Offering Suggestions, Responding to Questions, and Further Discussions <br>(1) Inviting Further Questions <br>(2) Responses <br>(3) Further Contacts and Discussion <br>"
+    },
+    "weeklySchedule": "W1\tCourse Description + Part I Unit 1 <br>        The Three Ps of Presentation <br>W2\tHoliday    <br>W3\tPart I Mind map\t<br>W4\tPart II Unit 3  Stronger Opener\t<br>W5\tPart II Unit 4  Body Structure\t<br>W6\tPart II Unit 4 Body Structure\t<br>W7\tPart II Unit 5 Powerful Closing \t<br>W8\tPart III Unit 6 Preparing Presentation Slides\t<br>W9\tMidterm Week \t自學檢核+ submission of your outline in PPT format and first draft <br>W10\tPart III Unit 7 Explaining Types of Visuals\t<br>W11\tPart IV Unit 8  Power of the Voice\t<br>W12\tPart IV Unit 9  Effective Body Languages\t<br>W13\trehearsal /Peer &amp; teacher feedback<br>W14\trehearsal Peer &amp; teacher feedback<br>W15\trehearsal / Peer &amp; teacher feedback<br>W16\tFinal Exam \t<br>W17\tFinal Exam\t<br>W18\tFinal Exam \t　<br>",
+    "exams": {
+        "midterm": "作業",
+        "final": "展演",
+        "other": "16、17週課堂展演"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備專業英文的溝通技能",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習以英文敘述、歸納及解決問題的技能",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論",
+                "實作演練",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學習進階英語聽說讀寫表達的實務技能",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論",
+                "實作演練",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習以網路查詢、分析、整合資訊及以英文敘述的能力",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備人文素養及省思能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Get Ready for Your Presentation",
+        "author": "Kenny Sean Joseph",
+        "publisher": "Crane Publishing Co., Ltd",
+        "year": "2021",
+        "ISBN": "978-986-147-948-4",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "平常成績\t30%=平常表現+ 出席率<br>自學任務10% (任務項目公告於flipclass 及雙語中心首頁)<br>自主學習檢核  10%<br>期中考\t20%  (期末簡報全文講稿及PPT的初稿)\t<br>期末考\t30%\t<br><br>出席率以100%計算，曠課一節扣10%，點名後進教室視為曠課，扣完為止。事病假六節課不扣分，但需要學校系統請假，請假超課六節課，視為曠課，公假及喪假例外。全學期全勤者加總分3分。<br><br>"
+}

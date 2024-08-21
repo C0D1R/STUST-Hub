@@ -1,0 +1,116 @@
+{
+    "code": "65D00701",
+    "name": {
+        "zh": "企業概論",
+        "en": "Introduction to Business"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國商一甲"
+    ],
+    "instructors": [
+        "艾米麗"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "E0509"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "E0509"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "E0509"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course is an introduction to the many facets of the private enterprise system and of the businesses that operate within its framework.  Your experience in this course will enable you to gain a better understanding of what business arena is all about, how a business operates and which business functions are needed in any business enterprise.<br>The course will focus on business systems, workforce demographics, social responsibility, business ethics, forms of business organizations, entrepreneurship, small business and franchise systems, management processes, human resource management, marketing management, business finance, business decision‐making, MIS and quantitative tools used in business, international business and the future dimensions of business opportunities in a global economy",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 當代企業環境<br>2. 成功企業之開創與成長<br>3. 組織管理、領導、作業管理、員工激勵、人力資源管理<br>4. 行銷<br>5. 財務資源<br>",
+        "en": "The course will cover the following important topics:<br>Part 1: Today's Business Environment<br>        Ethics &amp; Social Responsibility; Economics; Globalization<br>Part 2: Starting &amp; Growing a Successful Business<br>        Forms of Ownership ; The Entrepreneurial Spirit<br>Part 3: Management<br>        Management &amp; Leadership; The Effective Organization; Operations Management<br>        Motivating Employees ; Human Resource Management<br>Part 4: Marketing<br>        Product &amp; Pricing Strategies ; Distribution &amp; Promotion Strategies<br>Part 5: Financial Resources<br>        Accounting &amp; Financial Statements; Financial Management; Securities Markets"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解企業創立及運作本質的相關知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用相關知識，分析企業的經營作為",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能與他人合作，來探討企業案例",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確應用企業知識的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

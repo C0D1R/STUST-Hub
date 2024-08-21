@@ -1,0 +1,163 @@
+{
+    "code": "70D19501",
+    "name": {
+        "zh": "經營管理實務",
+        "en": "Business Operation and Management Practise"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技企管四甲",
+        "四技企管四乙"
+    ],
+    "instructors": [
+        "莫素娟"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "S303"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "S303"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "希望藉由高階管理主管或企業經理人，親自來為學生授課，讓同學生了解各業界未來的發展，實務上及理論之相異之處及如果應用；並透過多元演講模式，使學生感受到和一般授課方式不同，藉此加速吸收實務界經營成功經驗之精華。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 安排各領袖主管進行演講，傳授學生學習企管實務。<br>2. 課程強調實務的研習，以實例為主要教學工具，培養學生分析及決策能力。<br>3. 與企業互動，來學習溝通<br>4. 學習不同經營管理模式！",
+        "en": "1. Invited industry executives will give speech to share their valuable experience in business practice, and enable students to learn business practices in different sectors.<br>2. Case studies from business practice will be adopted to cultivate students’ analytic and decision making ability.<br>3. Through interacting with those speakers who are industry executives, students will learn how to communicate.<br>4. To learn different models in business management."
+    },
+    "weeklySchedule": "每周安排特定主題專題演講",
+    "exams": {
+        "midterm": "無",
+        "final": "無",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "公司組織與各部門之功能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "提升業績與獲利創造更多利潤",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "市場的區隔化與差異化，品牌的意義與功能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "顧客關係的維持與拓展",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "各部門的溝通與合諧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

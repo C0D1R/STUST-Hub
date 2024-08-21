@@ -1,0 +1,117 @@
+{
+    "code": "70D28N01",
+    "name": {
+        "zh": "大數據分析",
+        "en": "Big Data Analyses"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管三甲",
+        "四技企管三乙",
+        "四技企管三丙"
+    ],
+    "instructors": [
+        "吳聰皓"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S209A"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S209A"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "S209A"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "數據分析為培養非資訊背景學生，面對大量企業營運資料時能使用PowerQuery有效率地進行整理；並以實務個案分析，透過報表軟體將資料轉換為即時的互動圖表，針對特定議題進行決策討論。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 大數據分析簡介<br>2. 跨源資料存取<br>3. 數據清洗<br>4. 個案分析",
+        "en": "1. Introduction to big data analyses<br>2. Data I/O in PowerQuery<br>3. Data cleansing<br>4. Case study in big data analyses"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養企業流程分析能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習與瞭解資訊系統之架構及內部控制",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以新思維面對資訊與網路科技的發展，培養多角化的分析能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習使用ERP系統以利決策制定",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

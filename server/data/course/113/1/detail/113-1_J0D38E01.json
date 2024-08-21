@@ -1,0 +1,151 @@
+{
+    "code": "J0D38E01",
+    "name": {
+        "zh": "畫面修補與特效",
+        "en": "FX for 2D Animaion"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技動畫三甲"
+    ],
+    "instructors": [
+        "翟清雄"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "W0709"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "W0709"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "W0709"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "主要透過後製處理（含特效）來彌補或加強影片或動畫某一鏡頭的不足。因此課程將以後製處理的技術作為上課內容，是一門實務操作為主的課程。<br><br>Mainly through post-processing (including special effects) to make up for film or enhance the effect of animation. Therefore, the course will be focusing on Post-production and is a practical operation-based course.",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.數位影像整合處理<br>2.各類型特效運用<br>3.去背、遮罩工具應用<br>4.影像運動追蹤、穩定<br>5.3D圖層、攝影機、燈光運用<br>",
+        "en": "1.Digital image integration processing<br>2.Application of various types of special effects<br>3.Keying, masking tool application<br>4.Image motion tracking and stabilization<br>5.3D layer,camera,light application<br>"
+    },
+    "weeklySchedule": "週次  內容<br>  1   AE簡介、介面布局、使用流程、合成輸出<br>  2   AE功能概說、工具運用、Graph Editor使用<br>  3   Track Mask、Content-Aware Fill功能<br>  4   Face Tracking、Pen Tool、Content-Aware Fill使用<br>  5   Pen Tool、Shape Tool、Blending Mode、Motion Path功能<br>  6   Track Matte運用、Glow、Classic Color Dodge、Adjustment Layer功能<br>  7   Keylight、CC Force Motion Blur、Pre-Compose功能<br>  8   Roto Brush Tool、Track Motion、Parent、Motion Blur功能<br>  9   期中考<br> 10   Track Camera、Warp Stabilize、Stabilize Motion功能<br> 11   Track Camera、3D Layer、Displacement Map、Z Depth Map應用<br> 12   Track Camera、Displacement Map、Z-Depth Map應用<br> 13   3D Layer、Light、Camera功能<br> 14   3D Layer、Light、Camera Projection運用<br> 15   3D Layer、Camera Projection、Environment Layer應用<br> 16   Mocha、Effect、Environment Layer整合運用<br> 17   Mocha、Effect整合運用<br> 18   期末考<br>",
+    "exams": {
+        "midterm": "上機實作測驗",
+        "final": "上機實作測驗",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "運用特效強化鏡頭視覺效果",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "建立影片後製合成整體概念",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "應用數位多媒體工具進行編輯製作整合",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "營造鏡頭畫面視覺美感的呈現",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "Adobe After Effects",
+    "rules": "無"
+}

@@ -1,0 +1,116 @@
+{
+    "code": "B0N15101",
+    "name": {
+        "zh": "遊憩體驗",
+        "en": "Recreation Experience"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技休閒三甲"
+    ],
+    "instructors": [
+        "王嘉淳"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0608"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0608"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在遊憩區內遊憩活動和遊憩資源綜合構成各種不同的遊憩機會，提供不同的遊憩體驗〈課本P.142〉。而遊憩體驗跟遊客滿意度、重遊意願、行為意向等等均有關聯。因此本課程簡要敘述遊憩部分內容包括遊憩資源、遊憩區類型、遊憩活動、遊憩設施以及遊憩區之經營管理等遊憩區之重要元素以幫助學生學習和認識遊憩體驗之內涵。另外亦將提出多樣遊憩活動實例，使學生能更加深印象。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第０１週　　chapter 1 觀光產業之構成<br>第０２週　　chapter 2 觀光遊憩區之類型<br>第０３週　　chapter 3 觀光遊憩資源<br>第０４週　　chapter 4 環境資源調查與分析<br>第０５週　　chapter 5 觀光遊憩活動<br>第０６週　　chapter 6 觀光遊憩設施<br>第０７週　　chapter 7 遊憩區規劃方法與步驟<br>第０８週　　chapter 8 露營區與野餐區之規劃<br>第０９週　　期中考試<br>第１０週　　chapter 9 水體遊憩區之規劃<br>第１１週　　chapter 10 自然步道之規劃<br>第１２週　　chapter 11 觀光遊憩地區之經營管理<br>第１３週　　遊憩體驗─高爾夫<br>第１４週　　高爾夫球場之規劃設計<br>",
+        "en": "第０１週　　chapter 1 觀光產業之構成<br>第０２週　　chapter 2 觀光遊憩區之類型<br>第０３週　　chapter 3 觀光遊憩資源<br>第０４週　　chapter 4 環境資源調查與分析<br>第０５週　　chapter 5 觀光遊憩活動<br>第０６週　　chapter 6 觀光遊憩設施<br>第０７週　　chapter 7 遊憩區規劃方法與步驟<br>第０８週　　chapter 8 露營區與野餐區之規劃<br>第０９週　　期中考試<br>第１０週　　chapter 9 水體遊憩區之規劃<br>第１１週　　chapter 10 自然步道之規劃<br>第１２週　　chapter 11 觀光遊憩地區之經營管理<br>第１３週　　遊憩體驗─高爾夫<br>第１４週　　高爾夫球場之規劃設計<br>"
+    },
+    "weeklySchedule": "第 一 週  9/11 課程介紹與評分標準說明<br>第 二 週  9/18 對觀光休閒遊憩相關議題的初步了解<br>第 三 週  9/25 觀光休閒與遊憩資源的本質<br>第 四 週  10/2 觀光休閒遊憩資源的轉換<br>第 五 週  10/9 認識海洋環境與資源<br>第 六 週  10/16 海洋觀光與休閒遊憩<br>第 七 週  10/23 海洋觀光休閒遊憩對環境之衝擊<br>第 八 週  10/30 期中考<br>第 九 週  11/6 業師演講<br>第 十 週  11/13 海洋觀光休閒遊憩對環境之衝擊<br>第十一週  11/20 影片賞析<br>第十二週  11/27 海洋遊憩管理策略<br>第十三週  12/4 海洋遊憩的發展與未來<br>第十四週  12/11 個人報告說明與準備<br>第十五週  12/18 個人報告修正與調整<br>第十六週  12/25 個人報告繳交***<br>第十七週  元旦放假***<br>第十八週  期末考週",
+    "exams": {
+        "midterm": "期中考",
+        "final": "個人報告",
+        "other": "課堂作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "遊憩區內遊憩活動和遊憩資源綜合構成各種不同的遊憩機會，提供不同的遊憩體驗",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "憩體驗跟遊客滿意度、重遊意願、行為意向等等均有關聯",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "遊憩部分內容包括遊憩資源、遊憩區類型、遊憩活動、遊憩設施以及遊憩區之經營管理等遊憩區之重要元素以幫助學生學習和認識遊憩體驗之內涵",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "將提出多樣遊憩活動實例，使學生能更加深印象。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

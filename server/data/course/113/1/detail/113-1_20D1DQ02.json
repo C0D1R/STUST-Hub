@@ -1,0 +1,127 @@
+{
+    "code": "20D1DQ02",
+    "name": {
+        "zh": "計算機概論實習",
+        "en": "Laboratory For Introduction To Computer"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技控晶一乙"
+    ],
+    "instructors": [
+        "陳彥廷"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "E0203"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "E0203"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "E0203"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "從基礎的電腦系統簡介，闡述網際網路，帶入與你的電腦互動，認識各種資料展現方式，介紹資料處理 ，如何去儲存資料，怎樣的使用作業系統，使用應用軟體於工作中，如何上網路，怎樣在網路上工作 ， 建立資訊系統，設定保護你的隱私、電腦和資料.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Chap1-電腦簡介<br>Chap2-數字系統<br>Chap3-資料表示與處理<br>Chap4-計算機組織與數位邏輯設計<br>Chap5-作業系統<br>Chap6-網際網路<br>Chap7-程式語言<br>Chap8-資料結構<br>Chap10-資料庫系統<br>Chap11-計算理論<br>Chap12-巨量資料與雲端計算",
+        "en": "Chap1-Introduction of computer<br>Chap2-Binary system<br>Chap3-Data representation and processing<br>Chap4-Computer organization and digital logic design<br>Chap5-Operating Systems<br>Chap6-Internet<br>Chap7-Programming language<br>Chap8-Data structure<br>Chap10-Database System<br>Chap11-Calculation theory<br>Chap12-Big data and cloud computing"
+    },
+    "weeklySchedule": "Week 1. 計算機概論簡介<br>Week 2. 作業系統與週邊<br>Week 3. 網路與多媒體<br>Week 4. 人工智慧<br>Week 5. 電子商務<br>Week 6. 軟體工程<br>Week 7. 程式概論<br>Week 8. 程式設計(一)<br>Week 9. Midterm Exam<br>Week 10. 程式設計(二) <br>Week 11. 程式設計(三)<br>Week 12. 程式設計(四)<br>Week 13. 程式設計(五)<br>Week 14. 程式設計(六)<br>Week 15. 演算法(一)<br>Week 16. 演算法(二)<br>Week 17. 演算法(三)<br>Week 18. Final Exam",
+    "exams": {
+        "midterm": "開書考, 選擇、問答、計算、程式等，Flipclass及紙本，AB卷",
+        "final": "開書考, 選擇、問答、計算、程式等，Flipclass及紙本，AB卷",
+        "other": "Flipclass選擇題"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解電腦或作業系統的種類",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解網際網路的架構或使用搜尋引擎、臉書或即時通的網路應用程式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解現有電腦操作的介面類型",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "知道電腦有哪些週邊設備或儲存設備類型",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "你理解電腦的資料表示格式或資料運算流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Python程式設計：從入門到進階應用(第四版)",
+        "author": "黃建庭",
+        "publisher": "全華圖書",
+        "year": "2022",
+        "ISBN": "9786263280878",
+        "edition": "4"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Dev C++, Python",
+    "rules": "1. 學生必須要認真研讀上課教材<br>2. 若考試獲得低分或作業不交, 學生必須負起責任<br>3. 若學生沒有付出努力, 不要期望學期成績過關. 讓學生過關是學生自己的責任,不是教師的責任."
+}

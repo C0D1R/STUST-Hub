@@ -1,0 +1,134 @@
+{
+    "code": "K0D38502",
+    "name": {
+        "zh": "使用者經驗設計",
+        "en": "UX Experience Design"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技多樂二乙"
+    ],
+    "instructors": [
+        "陳俊瑋"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "W0703"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "W0703"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生瞭解資訊系統的基本架構、UI設計的實例與原則交互驗證、理解物理性與軟體制約原理、介面的方向性原則與互動方法介紹、無縫式介面設計方法介紹、UX經驗設計的準則說明<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 立體構造與佈局模式：瞭解資訊系統的基本架構<br>2. 導覽列與一致性：ＵＩ設計的實例與原則交互驗證<br>3. 物理性與軟體制約：理解物理性與軟體制約原理<br>4. 捲動的方向性與裝置互動：介面的方向性原則與互動方法介紹<br>5. 無縫式介面：無縫式介面設計方法介紹<br>6. 經驗設計：ＵＸ經驗設計的準則說明<br>",
+        "en": "1. Stereoscopic structure and layout mode: understanding the basic structure of the<br>information system<br>2. Navigation and consistency: UI verification examples and principles of interactive<br>verification<br>3. Physical and soft systems: understanding the principles of physical and soft<br>systems <br>4. The directionality of scrolling and device interaction: the orientation<br>principle and interaction method of interface<br>5. Seamless interface: introduction to seamless interface design method <br>6. Experience Design: Guidelines for UX Experience Design"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解資訊系統的基本架構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "ＵＩ設計的實例與原則交互驗證",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解物理性與軟體制約原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "介面的方向性原則與互動方法介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "無縫式介面設計方法介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "ＵＸ經驗設計的準則說明",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

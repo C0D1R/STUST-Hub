@@ -1,0 +1,123 @@
+{
+    "code": "K0D34902",
+    "name": {
+        "zh": "大四專題(一)",
+        "en": "Graduation Project I"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技多樂四乙"
+    ],
+    "instructors": [
+        "陳俊瑋"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "大四畢業班學生以小組為單位，合作開發以行動裝置為主之互動多媒體或遊戲。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 市場分析與策略擬定：探討、批判市面各類遊戲優點，找出專題獨賣特點<br>2. 專案企畫：提出畢業專題遊戲企劃書<br>3. 團隊與專案管理：提出團隊工作分配、工作時程及管理方法<br>4. 技術與美術原型：提出遊戲關鍵技術、2D美術設定、3D美術設定及製作<br>5. Alpha版產品開發：各組逐一報告畢業專題，專案審查<br>6. Beta版產品開發：各組展示畢業專題，專案審查<br>",
+        "en": "1. Market analysis and strategy formulation<br>2. Project planning<br>3. Team and project management<br>4. Technology and art prototypes<br>5. Alpha version product development<br>6. Beta version product development"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "市場分析與策略擬定",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "專案企畫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "團隊與專案管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "技術與美術原型",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Alpha版產品開發",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Beta版產品開發",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

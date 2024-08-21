@@ -1,0 +1,167 @@
+{
+    "code": "04D03304",
+    "name": {
+        "zh": "體育生活(三)：有氧舞蹈(E)",
+        "en": "Physical Education(III)：Qerobic dance"
+    },
+    "credit": "1",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "四技產設二甲",
+        "四技產設二乙",
+        "四技電子二甲",
+        "四技電子二乙",
+        "四技電子二丙",
+        "四技財金二甲",
+        "四技財金二乙",
+        "四技應英二甲",
+        "四技動畫二甲"
+    ],
+    "instructors": [
+        "黃鈺婷"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": ""
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為有氧舞蹈之延伸課程，教學目的在於讓學生瞭解有氧舞蹈進階動作之特性並能做出有氧舞蹈進階組合動作與肌力訓練之動作，進而享受有氧舞蹈之樂趣，增進心肺功能與養成其終身運動之習慣。",
+    "prerequisites": "注意事項：\n1、有心臟病、高血壓、糖尿病、氣喘等特殊疾病者，請勿上課，預防危險\n2、遲到者注意先自行暖身\n3、請更換乾淨的運動鞋\n4、請穿著有彈性的運動服裝",
+    "syllabus": {
+        "zh": "1.課程介紹:瞭解本學期進階有氧舞蹈課程內容與上課進度<br>2.有氧舞蹈基本動作複習:基本舞步複習與肌力訓練以及音樂節奏配合之練習<br>3.進階有氧舞曲(I):<br>1.暖身 2.基本舞步訓練3.主動作(每週四個八拍進階舞步組合) 4.肌力訓練5.緩和<br>4.創意組合動作:期中考試：<br>1.舞步之熟練度與團隊默契<br>2.創意組動作<br>3.服裝<br>5.進階有氧舞曲(II):<br>1.暖身 2.基本舞步訓練3.主動作(每週四個八拍進階舞步組合) 4.肌力訓練5.緩和<br>6.創意組合動作:複習<br><br>期末考試：<br>1.舞步之熟練度與團隊默契<br>2.創意組動作<br>3.服裝<br><br>",
+        "en": "1. Course introduction: Understand the content of the advanced aerobic dance and the progress<br>2. Review the basic moves of aerobic dance: reviewing basic steps and strength training <br>3. Advanced Aerobic Dance music (I):<br>1. Warm-up 2. Basic steps training 3. Main action 4. Strength training 5. Cool-down/Relaxation <br>4. Creative combination: mid-term exam:<br>1. Proficiency of the dance steps and understanding of team tacit <br>2. Creative moves<br>3. Costumes<br>5. Advanced Aerobic Dance music (II):<br>1. Warm-up 2. Basic dance training 3. Main moves 4. Strength training 5. Relaxation<br>6. Creative combination: Review<br>Final exam:<br>1. Proficiency of the dance steps and understanding of team tacit <br>2. Creative actions<br>3. Costumes <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立學生對於有氧舞蹈基本認知，進而養成良好及規律性的運動習慣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "由舞蹈中養成規律運動終生享受運動樂趣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "課程中皆搭配音樂，一方面增強學生對音樂的敏感度，使其提升節奏感，另一方面提升學生聆聽其音樂旋律之美",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練個人與社會生活上的應用之技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "由舞蹈運動中學習關懷他人培養與他人互動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "由舞蹈的欣賞，增進個人美感意境的內涵養成",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "調劑身心，將有氧舞蹈成為紓壓放鬆之休閒運動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "由舞蹈運動中建立及強化互助合作的合群團體意識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

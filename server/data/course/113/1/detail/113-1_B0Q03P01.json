@@ -1,0 +1,99 @@
+{
+    "code": "B0Q03P01",
+    "name": {
+        "zh": "企業研究方法與學術倫理",
+        "en": "Enterprise Research Methods and Academic Ethics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專休閒一甲"
+    ],
+    "instructors": [
+        "王逸峰"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程介紹學術研究方法包括研究流程及相關工具,並加入一些實務的觀光研究報告維探討的題材.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.學習如何構思研究題材<br>2.如何收集文獻及二手資料<br>3.如何寫作完整研究論文 <br>4.Academic倫理：基本堅持的原則與指南",
+        "en": "1.Introduction to research:what,why and who?<br><br>Introduction<br><br>What is research?<br><br>Why study research?<br><br>Who does research?<br><br>2.Approaches to leisure and tourism research<br><br>Introduction<br><br>The disciplinary traditions of leisure and tourism research<br><br>Sociology<br><br>Geography<br><br>Economics<br><br>Psychology/social psychology<br><br>History and anthropology<br><br>3.Starting out:research plans and proposals<br><br>Introduction:the research process<br><br>Planning a research project<br><br>Research proposals<br><br>4.Reviewing the literature<br><br>Introduction:an essential task <br><br>The value of bibliographies<br><br>Searching<br><br>Obtaining copies of material<br><br>5.Secondary data:sources and analysis<br><br>Introduction<br><br>National leisure participation surveys<br><br>Tourism surveys<br><br>6.Observation <br><br>Introduction:the nature and purpose of observational research<br><br>Possibilities<br><br>Main elements of observational research<br><br>7.Qualitative methods<br><br>Introduction:qualities and uses<br><br>Merits of qualitative methods <br><br>The qualitative research process<br><br>8.Academic Ethic：The basic priciples and guidlines<br><br>9.Question"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習如何構思研究題材",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "如何收集文獻及二手資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "如何寫作完整研究論文",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "企業倫理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

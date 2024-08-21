@@ -1,0 +1,119 @@
+{
+    "code": "M0N0BF01",
+    "name": {
+        "zh": "國際飯店管理",
+        "en": "International Hotels Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技餐旅四甲"
+    ],
+    "instructors": [
+        "嚴心誼"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0310"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0310"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0310"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "觀光旅館業已邁向國際化經營, 此課程將介紹國際知名連鎖旅館體系及國際旅館專家的經營理念, 期許經由課程的解說與探討,使同學能對國際旅館體系有更深的了解及強化其國際觀。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "國際觀光旅館建築及設備標準<br>凱悅．君悅（Hyatt）的歷史和類型<br>美國旅館家斯塔特勒的經營理念<br>假日旅館系統的經營之道<br>喜來登（Sheraton）成功之道<br>貴族飯店經營者里茲的經驗與格言<br>希爾頓 ( Hilton ) 的經驗與格言<br>日本東京帝國飯店 (Imperial ) 探討<br>泰國曼谷文華東方酒店 ( Mandarin Oriental ) 經營之道<br>旅館的連鎖經營<br>國際會議的爭取",
+        "en": "•\tHotel construction &amp; equipment.<br>•\tHistory of Global Hyatt Hotel.<br>•\tThe Concept of Mr. Statler.<br>•\tHoliday Inn Hotels operations.<br>•\tThe Concept of The Sheraton Hotels. <br>•\tCesar Ritz's Experiences.<br>•\tThe Hilton Hotels operations.<br>•\tImperial Hotels operations.<br>•\tThe Concept of The Mandarin Oriental.<br>•\tInternational chain systems hotels operations.<br>•\tHow to apply the International Convention."
+    },
+    "weeklySchedule": "第一週 旅館產業的特性與發展過程<br>第二週 旅館的世界<br>第三週 旅館開發可行性研究<br>第四週 旅館投資與分析<br>第五週 旅館的公司結構及連鎖經營方式<br>第六週 旅館人員的組織及結構<br>第七週 旅館人力資源<br>第八週 旅館客房部門<br>第九週 期中考<br>第十週 旅館餐飲部門及餐飲預算規劃<br>第十一週 旅館行銷管理<br>第十二週 國際飯店個案探討與分析報告<br>第十三週 國際飯店個案探討與分析報告<br>第十四週 國際飯店個案探討與分析報告<br>第十五週 分組論與報告<br>第十六週 分組論與報告<br>第十七週 開國紀念日 放假<br>第十八週 分組論與報告(期末報告)<br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "書面報告",
+        "other": "口頭報告及小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備飯店經營管理的專業知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學習飯店硬體設備的管理與軟體的服務提供技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養團隊合作的精神",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "協調飯店組織內不同部門之分工",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "旅館管理",
+        "author": "周明智",
+        "publisher": "五南出版社",
+        "year": "2011年",
+        "ISBN": "9789571163451",
+        "edition": "第一版"
+    },
+    "referenceBooks": "旅館管理<br>作者： 許秉翔等  <br>出版社：華都文化  <br>出版日期：2012/07/15",
+    "teachingSoftware": "Microsoft team, PDF Reader, PPT, Word",
+    "rules": "1. 請準時上課，遲到超過30分鐘以上者視同曠課。無故曠課3次以上平時成績以零分計<br>2. 平時成績包括1-3次不定期小考、課堂參與討論、及上課態度(手機鈴響、上課睡覺及講話等影響上課秩序)。<br>3. 上課前請先做好預習之工作。<br>"
+}

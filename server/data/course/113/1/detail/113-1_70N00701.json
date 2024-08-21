@@ -1,0 +1,139 @@
+{
+    "code": "70N00701",
+    "name": {
+        "zh": "企業概論",
+        "en": "Introduction to Enterprise"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技企管一甲"
+    ],
+    "instructors": [
+        "楊宇聖"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "S313"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "S313"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "S313"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "企業概論為商管教育之入門課程，主要課程內容係為初學者認識「企業管理」所設計，其中包含企業的本質、環境、創立、成長、以及各項管理活動。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 認識現代企業<br>2. 價值創造的企業<br>3. 認識企業環境<br>4. 當代企業環境課題<br>5. 企業的創立<br>6. 企業的類型<br>7. 企業的成長<br>8. 系統觀點下的管理<br>9. 企業的研發功能<br>10. 企業的生產功能<br>11. 企業的行銷功能<br>12. 企業的人資功能<br>13. 企業的財務功能<br>14. 國際企業<br>",
+        "en": "1. Understanding Contemporary Business<br>2. Creating Value for Business<br>3. Business Environment Analysis<br>4. Special Topics in Current Business<br>5. Starting Your Own Business<br>6. Type of Business<br>7. Growth of Business<br>8. Business Management: Systematic View<br>9. R&amp;D Management<br>10. Production and Operations Management<br>11. Marketing Management<br>12. Human Resource Management<br>13. Financial Management<br>14. International Business"
+    },
+    "weeklySchedule": "09/11 準備周<br>09/18 Chapter 1今日企業環境：變化是唯一的常數<br>09/25 Chapter 2經濟：企業架構<br>10/02 Chapter 3 世界市場：企業無國界<br>10/09 Chapter 4 企業倫理與社會責任：做好事才能大器<br>10/16 Chapter 5 企業型式：選擇適合的型態才<br>10/23 Chapter 6 小型企業與創業：經濟動力<br>10/30 Chapter 7 管理、動機與領導：將企業帶入生活<br>11/06 期中考<br>11/13 Chapter 8 人力資源管理：建立高品質人力資源<br>11/20 Chapter 9 資訊與技術管理：尋找新的學習與連結方式<br>11/27 Chapter 10 作業管理：集其大成<br>12/04 Chapter 11 行銷：建立可獲利的顧客連結<br>12/11 Chapter 12 產品與推廣：創造並溝通價值<br>12/15 Chapter 13 通路與訂價：對的產品、對的人選、對的地點、對的價格<br>12/18 Chapter 14 會計：藉由數字進行決策<br>12/25 Chapter 15 財務：以資金取得與運用讓價值最大化<br>01/01元旦<br>01/08 期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "日常表現、口頭詢答"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解企業的定義、功能及企業對社會的貢獻。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解全球經營環境，對於各項分析工具有一定認識來協助適應國際化的趨勢。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解企業所需面對的管理議題，提高工作技能應具備方向，創造就業優勢。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "藉由了解企業各項運作，讓學生進入職場後的團隊協作更加順暢。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "企業概論",
+        "author": "Kelly & Williams(周瑛琪、李國瑋、李家瑩、徐茂練、歐陽怡 編譯)",
+        "publisher": "高立圖書(普林斯頓)",
+        "year": "2023年",
+        "ISBN": "9786269595372",
+        "edition": "二版"
+    },
+    "referenceBooks": "牛涵錚著，企業管理概論：實務策略與應用，第二版，2021，滄海圖書，ISBN：9789863631361",
+    "teachingSoftware": "",
+    "rules": ""
+}

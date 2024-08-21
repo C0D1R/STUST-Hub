@@ -1,0 +1,152 @@
+{
+    "code": "12N26F01",
+    "name": {
+        "zh": "可程式控制技術",
+        "en": "Technology of Programmable Logic Controller"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四機械雙軌四"
+    ],
+    "instructors": [
+        "蘇嘉祥"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "K308"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "K308"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "K308"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生具備程式書寫讀的能力以能應付外界工廠實際控制的所需",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、簡介 可程式控制器的種類、優缺點與未來發展<br>二、可程式控制器系統架構 <br>三、階梯邏輯與程式控制 <br>四、步進階梯圖程式設計 <br>五、步進階梯圖程式之書寫<br>六、可程式控制器之應用與設計實習",
+        "en": "1.Introduction<br>2.The frame of Programmable Logic Controller<br>3.Programming On-Off Inputs to Produce On-Off Outputs<br>4.Creating Ladder Diagrams from Process-Control Descriptions<br>5.The SQUENCER Function <br>6.Controlling a Robot with a PLC"
+    },
+    "weeklySchedule": "第1週自動化概論<br>第2週工業控制概論<br>第3週PLC控制原理<br>第4週PLC指令與編程軟體<br>第5週順序功能與電氣氣壓控制<br>第6-8週DC馬達模組控制實習與氣缸模組(單邊電磁閥)實習<br>第9週期中考<br>第10-12週PLC與氣缸模組(雙邊電磁閥)實習<br>第13-16週AC馬達控制與雙動氣壓缸控制<br>第17-18週期末考<br>",
+    "exams": {
+        "midterm": "紙本考試",
+        "final": "上機測驗",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生具有可程式控制器程式書寫的基本知識",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能具備可程式控制器程式設計與應用基本技術",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能具備可程式控制器程式設計從業人員之專業態度",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解可程式控制器的使用安全及其應用領域",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解可程式控制器專用之英文術語",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自動化概論",
+        "author": "蘇嘉祥、宓哲民",
+        "publisher": "全華",
+        "year": "2018",
+        "ISBN": "9789864636990",
+        "edition": "1"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

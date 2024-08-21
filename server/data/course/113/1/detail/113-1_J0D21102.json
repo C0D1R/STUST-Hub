@@ -1,0 +1,182 @@
+{
+    "code": "J0D21102",
+    "name": {
+        "zh": "智慧財產權與專業倫理",
+        "en": "Intellectual Property Right and Professional Ethics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技動畫三甲"
+    ],
+    "instructors": [
+        "陳重任"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "W0605"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "W0605"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "智慧財產權乃包括專利法、商標法及著作權法等主要的智慧財產權法規。課程內容將以智財權三大法規的介紹，使學生能活用於設計創作的保護與競爭。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(1) 專業倫理<br>(2) 智慧財產權概論<br>(3) 專利法<br>(4) 商標法<br>(5) 著作權法<br>(6) 專利檢索<br>(7) 專利文件<br>(8) 設計保護與管理<br><br>",
+        "en": "(1) Ethics <br>(2) Introduction to Intellectual Property Rights<br>(3) Patent Law<br>(4) Trademark Law<br>(5) Copyright Law<br>(6) Patent Search<br>(7) Patent Document<br>(8) Design Protection and Management<br><br>"
+    },
+    "weeklySchedule": "(1) 專業倫理<br>(2) 智慧財產權概論<br>(3) 專利法<br>(4) 專利侵權個案探討<br>(5) 專利說明書撰寫<br>(6) 專利檢索<br>(7) 專利圖說<br>(8) 商標法<br>(9) 商標侵權個案探討<br>(10) 著作權法<br>(11) 著作權侵權個案探討<br>(12) 創用CC授權<br><br>",
+    "exams": {
+        "midterm": "期中作業",
+        "final": "期末作業",
+        "other": "平時作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養學生正確運用專利法保護設計創意的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生正確運用專利法保護設計創意的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生正確運用商標法保護設計創意的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生正確運用商標法保護設計創意的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生正確運用著作權法保護設計創意的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生正確運用著作權法保護設計創意的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生正確檢索專利資料庫的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生正確檢索專利資料庫的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生撰寫專利說明書的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生撰寫專利說明書的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.Journal of Intellectual Property Rights (ISSN: 09717544); 2.Recent Patents on Engineering (ISSN: 18722121);3.廖和信，專利就是科技競爭力，天下文化.",
+    "teachingSoftware": "",
+    "rules": "本課程十分注重自律性與互動性，請帶著樂觀積極的態度，並懷著興趣前來上課，「開心」，您就會學的很好！"
+}

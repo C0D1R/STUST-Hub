@@ -1,0 +1,116 @@
+{
+    "code": "30D1DQ02",
+    "name": {
+        "zh": "深度學習框架應用",
+        "en": "Deep Learning"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子四甲",
+        "四技電子四乙"
+    ],
+    "instructors": [
+        "賴培淋"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "E0204"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "E0204"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "E0204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為了協助學生實際上手設計人工智慧應用程式，<br>本課程採用Google TensorFlow 開發平台，從Python 程式設計開始介紹，加上<br>Numpy/Scipy 向量及矩陣等科學運算處理說明、Tensor 觀念及使用方法介紹、GPU<br>加速整合、神經網路運算、CNN、RNN、LSTM 等深度學習演算及AlexNet、GoogLeNet<br>等圖像分類個案研究，一直到人工智慧應用程式開發，使學生能夠快速上手使用<br>TensorFlow 設計具有人工智慧功能的軟體系統。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 動態語言程式設計<br>2. 機器&amp;深度學習基本觀念與環境建成<br>3. 機器學習實作與資料分析<br>4. 深度學習專題實作",
+        "en": "1. Dynamic programming language<br>2. Basic Concept of Machine &amp; deep learning<br>3. Machine learning practice and data analysis<br>4. Project for deep learning"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養機器學習與深度學習基本觀念和架構，以及訓練環境之建成",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用機器學習之決策樹來學習如何以純資料的方式訓練分類器，培養資料分析能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "TensorFlow來學習如何訓練影像/圖片分類器",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使用高階API：Keras 來製作小組專題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

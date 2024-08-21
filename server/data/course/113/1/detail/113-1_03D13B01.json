@@ -1,0 +1,134 @@
+{
+    "code": "03D13B01",
+    "name": {
+        "zh": "國民小學自然科學教材教法",
+        "en": "Teaching Materials and Methods of Natural Science in Elementary School"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "教育學程－小"
+    ],
+    "instructors": [
+        "李育強"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第11節",
+            "location": "N401"
+        },
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "N401"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "自然科學教材教法課程呼應「自發」、「互動」、「共好」之課程理念，發展運用「自然科學知識、科學方法、科學態度」與「教學方法」並連結科學、科技與社會、生活、環境保育等相關議題於國小自然科學教學，培養具科學素養的國民。本課程將於教學活動中以科學學習理論介紹、科學實作活動、微縮教學影帶、教材分析與設計、試教等培養適任之國小自然科學教師。<br><br>【專業素養指標】<br>2 了解並尊重學習者的發展與學習需求<br>■2-2 了解並運用學習原理，以符合學生個別學習需求與發展。<br>3 規劃適切的課程、教學及多元評量<br>■3-1 依據課程綱要/大綱、課程理論及教學原理，以規劃素養導向課程、教學及評量。<br>■3-2 依據課程綱要/大綱、課程理論及教學原理，以協同發展跨領域/群科/科目課程、教學及評量。<br>■3-3 具備任教領域/群科/科目所需的專門知識與學科教學知能，以進<br>行教學。<br>■3-4 掌握社會變遷趨勢與議題，以融入課程與教學。<br>■3-5 應用多元教學策略、教學媒材與學習科技，以促進學生有效學習。<br>■3-6 根據多元評量結果調整課程與教學，以提升學生學習成效。<br><br><br>【課程核心內容】<br>2了解並尊重學習者的發展與學習需求<br>■(4)學習策略<br>3規劃適切的課程、教學及多元評量<br>■(1)主要課程、教學與評量的理論<br>■(2)重要議題融入課程、教學與評量<br>■(3)我國課程、教學與評量的重要政策<br>■(4)12 年國民基本教育素養導向 (單科/跨領域統整/跨科統整)課程、教學及評量的發展及實踐<br>■(5)課程、教學與評量的創新及學習科技的應用<br>■(6)領域/學科(或科目)/群科專門知識與學科教學知能<br>■(7)分科/分領域(群科)教材教法<br>■(8)探究與實作設計與實施<br><br><br>【融入議題】<br>■環境教育*<br>■海洋教育<br>■防災教育*<br>■生活教育<br><br>",
+    "prerequisites": "先修教學基本學科課程、教育基礎課程、教育方法課程各至少一門課程",
+    "syllabus": {
+        "zh": "1.自然科學領域的基本概念。<br>2.十二年國民基本教育課程「自然科學領域」發展模式。<br>3.十二年國民基本教育課程「自然科學領域」能力指標之解讀。<br>4.科學學習理論。<br>5.科學活動設計與實施。<br>6.自然科學領域教學方法。<br>7.國小自然科重要議題教學。<br>8.國小自然科教學之經驗分享。<br>9.自然科學領域教學計畫之擬定。<br>10.自然科學領域教學資源。<br>11.自然科學領域教學評量。<br>12.自然科學領域教學觀摩與試教。<br><br>",
+        "en": "1. Summary of the curriculum in the field of natural science<br>2. Develop model in the field of natural science<br>3. The interpretation of ability indicators in the field of natural science<br>4. The learning theories of science<br>5. The design and implement of science activities<br>6. Teaching methods in the field of natural science<br>7. Teaching plan writing in the field of natural science<br>8. Teaching resources in the field of natural science<br>9. Teaching assessment in the field of natural science<br>10. Teaching observation and trial teaching in the field of natural science<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解科學學習相關理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解課程及教學發展的趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解自然科學領域課程內涵，並做適當的配合於教學運用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉自然科學教材教法，依單元性質選擇，具備教學能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能設計生動、活潑之主題統整教學教案並進行教學",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能融合學習理論、學科知識於教學法中並將所學應用到實際的教學",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

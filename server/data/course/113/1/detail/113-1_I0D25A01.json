@@ -1,0 +1,115 @@
+{
+    "code": "I0D25A01",
+    "name": {
+        "zh": "幼兒園教保活動課程設計",
+        "en": "Curriculum Design for Preschool Educare Activities"
+    },
+    "credit": "3",
+    "type": "管制必修",
+    "classes": [
+        "四技幼保二甲"
+    ],
+    "instructors": [
+        "歐慧敏"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0502"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0502"
+        },
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "W0502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 認識教保課程的理論基礎、基本要素、及特性。<br>2. 了解不同教保課程模式及其實施方式。<br>3. 介紹幼兒園課程綱要內涵及其在教保活動設計之應用實例。<br>4. 練習統整性教保活動課程設計。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 教保課程的定義及類型。<br>2. 課程設計理論基礎: 哲學、心理學、社會學。<br>3. 不同教保課程模式 (例如: 單元、主題、方案、瑞吉歐、學習區、蒙特<br>梭利、華德福、高瞻、光譜、幼兒園本位課程…等)。<br>4. 幼兒園課程綱要: 包含總綱、身體動作與健康領域、認知領域、語文<br>領域、社會領域、情緒領域、美感領域。<br>5. 幼兒園課程綱要與統整性課程設計之關係及應用。<br>6. 設計符合教學原理及幼兒園課程綱要精神的活動。",
+        "en": "1. Definitions and different models of early childhood care and education.<br>2. Theoretical basis of curriculum design: philosophy, psychology, and sociology.<br>3. Different curriculum approaches (e.g.: unit, thematic, project,Reggio Emilia, learning center, Montessori, Waldorf, High Scope,spectrum, kindergarten-based approaches ... etc.)<br>4. Preschool curriculum outline: general outline, physical movement<br>and health, cognitive, language art, social, emotional, and aestheticareas.<br>5. The relationship and application of preschool curriculum outline and<br>integrated curriculum design.<br>6. Designing activities based on teaching principles and preschool<br>curriculum outline."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.瞭解課程設計的理論基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.瞭解當代教育思潮、教育目標及教育策略對課程設計的影響",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.體認課程設計的意義及課程設計的原理原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.體認教師與課程設計的關係，具備選擇、評鑑及設計課程之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

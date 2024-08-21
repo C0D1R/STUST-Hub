@@ -1,0 +1,111 @@
+{
+    "code": "60D33Q01",
+    "name": {
+        "zh": "基礎日文會話",
+        "en": "Basic Japanese Conversation"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技國企二甲",
+        "四技國企二乙"
+    ],
+    "instructors": [
+        "楊維珍"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "S512"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "S512"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本學期的課程將接續上學期\"基礎日文\"所學之基本的文法基本,並更進一步的學習地點.位置及數量名詞與形容詞等,基本文型之運用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1 基本的地方．位置的表現 1-2週<br>2 地方．位置的表現運用 3-4週<br>3 助數詞的用法 5-8週<br>4 時間的表現方法 10-11週<br>5 期間的表現方法 12-13週<br>6 形容詞的基本變化 14-17週",
+        "en": "1 基本的地方．位置的表現 1-2週<br>2 地方．位置的表現運用 3-4週<br>3 助數詞的用法 5-8週<br>4 時間的表現方法 10-11週<br>5 期間的表現方法 12-13週<br>6 形容詞的基本變化 14-17週"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能夠在日語會話分組練習中與他人清楚的溝通、協調及整合不同的意見，具團隊合作精神。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解商務日文，能以英日文與客戶書信往來或溝通。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "對日語有主動學習的意願與動力不推諉不卸責。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能理解日本文化與歷史的意義，並於學習中展現人文反省、理性思維的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

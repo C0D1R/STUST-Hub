@@ -1,0 +1,139 @@
+{
+    "code": "90D08003",
+    "name": {
+        "zh": "經濟學",
+        "en": "Economics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資管二丙"
+    ],
+    "instructors": [
+        "劉海清"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "T0309"
+        },
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "T0309"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "T0309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹經濟學的基本概念及分析方法，包括供需法則、國民所得、通貨膨脹等定義，以及分析經濟成長、開放經濟和景氣波動之模型，使學生能夠了解經濟學之相關議題和其在日常生活中的應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章揭開經濟學之面紗 <br>第二章供給與需求<br>第三章彈性<br>第四章消費的選擇與需求<br>第五章廠商的生產成本<br>第六章完全競爭<br>第七章不完全競爭市場<br>第八章市場機能與經濟效率<br>",
+        "en": "chap1 economics and economic problems<br>chap2 demand and supply<br>chap3 demand and supply elasticity<br>chap4 utility analysis<br>chap5 production and cost<br>chap6 market style<br>chap7 market procing and productions decision<br>chap8 markets for factors of production <br>"
+    },
+    "weeklySchedule": "1    第一章揭開經濟學之面紗 <br>2-3  第二章供給與需求<br>4-5  第三章彈性<br>6-7  第四章消費的選擇與需求<br>8    第五章廠商的生產成本<br>10-11第六章完全競爭<br>12-14第七章不完全競爭市場<br>15-17第八章市場機能與經濟效率<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解經濟學的基本學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能將經濟消息轉換成資訊並用以建立管理決策",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能應用經濟原理分析經濟資料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現經濟資訊，讓不懂經濟專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "基礎經濟學",
+        "author": "王明朗",
+        "publisher": "普林斯頓",
+        "year": "最新",
+        "ISBN": "9789869685085",
+        "edition": "4"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

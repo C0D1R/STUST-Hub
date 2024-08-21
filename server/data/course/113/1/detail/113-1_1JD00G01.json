@@ -1,0 +1,147 @@
+{
+    "code": "1JD00G01",
+    "name": {
+        "zh": "高齡疾病與防治",
+        "en": "Diseases of the Elderly and Their Prevention and Treatment"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技高福二甲",
+        "四高福國專二甲"
+    ],
+    "instructors": [
+        "陳殿和"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "O403"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "O403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "臺灣即將於十年內邁入超高齡社會，高齡者的健康議題與社會各層面如經濟、政治、醫藥、福利、教育、文化等發展皆息息相關。然而高齡者的健康問題較為複雜，往往合併生理、心理、社會層面，並牽涉到長期照護、社會福利與健康促進。本課程目標是在一學期內，讓學員初步理解高齡者健康問題的複雜性，以及如何進行疾病防治、健康促進和長期照護。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、世界各國人口現況與未來趨勢<br>二、高齡醫學概論<br>三、老年症候群與周全性老年評估<br>四、常見高齡慢性病<br>五、高齡者疾病預防與健康管理<br>六、高齡衰弱症候群<br>七、高齡者認知功能障礙<br>八、高齡者多重疾病與用藥<br>九、跨領域高齡團隊健康管理<br>十、醫院與社區醫療垂直銜接<br>十一、高齡在宅醫療學<br>十二、高齡者健康促進與失能預防<br>十三、高齡者居住安排與長期照護",
+        "en": "1.Current status and future trends of the world's population aging<br>2.Introduction of Geriatrics<br>3.Geriatric Syndrome and Comprehensive Geriatric Assessment<br>4.Common elderly chronic diseases<br>5.Disease prevention and health management for the elderly<br>6.Frailty Syndrome in the elderly<br>7.Cognitive dysfunction in the elderly<br>8.Multimorbidity and Polypharmacy in the elderly<br>9.Multidisciplinary Team Work for elder health management<br>10.The connection between hospital and community<br>11.Home Medical Care<br>12. Health promotion and disability prevention for the elderly<br>13.Living arrangements and long-term care for the elderly"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "掌握全球高齡少子化之現象及相關影響",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解高齡生理衰退的概念及臨床影響",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解高齡心理與認知功能衰退情況",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解老人社會角色的變遷與適應",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解高齡者如何進行疾病防治",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解高齡者如何進行健康促進",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解社會如何為高齡者安排完善照護體系",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

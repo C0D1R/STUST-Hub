@@ -1,0 +1,115 @@
+{
+    "code": "10D33T01",
+    "name": {
+        "zh": "汽車電子學",
+        "en": "Automotive electronics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技車輛二甲"
+    ],
+    "instructors": [
+        "陳沛仲"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "R302"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "R302"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "R302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹基礎電路、二極體、電晶體、運算放大器及相關應用電路及電子控制電路，使學生習得電子電路在汽車相關領域的一些相關知識。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.基礎電路簡介<br>2.半導體與二極體<br>3.電晶體與電壓放大電路<br>4.電子控制電路<br>5.運算放大器及其應用<br>6.汽車相關應用電路",
+        "en": "1. Introduction of elementary electronics.<br>2. Semiconductor and diode.<br>3. Transistor and its amplifier circuits<br>4. Electronic control circuit<br>5. Operational amplifier<br>6. Automotive relative circuits."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解電路的基本原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解基本電子元件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解汽車的簡易電子電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解汽車的簡易控制電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

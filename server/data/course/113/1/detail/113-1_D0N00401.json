@@ -1,0 +1,115 @@
+{
+    "code": "D0N00401",
+    "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技行流一甲"
+    ],
+    "instructors": [
+        "蕭永斌"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "T0206"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "T0206"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "T0206"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以課堂講授及個案解析的方式,訓練學員瞭解行銷管理的理論及其運用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、行銷學的本質與範疇<br>二、確認與選擇市場<br>三、產品<br>四、價格<br>五、通路<br>六、促銷<br>七、管理行銷活動",
+        "en": "1.The Nature and Scope of Marketing<br>2.Identifying and Selecting Markets<br>3.Product<br>4.Price<br>5.Place<br>6.Promotion<br>7.Managing the Marketing Effort"
+    },
+    "weeklySchedule": "第 一 週：行銷導論<br>第 二 週：顧客滿意與顧客關係管理<br>第 三 週：行銷策略規劃<br>第 四 週：消費者行為<br>第 五 週：影響消費者行為環境因素<br>第 六 週：市場區隔、目標市場與定位<br>第 七 週：產品決策<br>第 八 週：品牌決策<br>第 九 週：期中考<br>第 十 週：服務行銷<br>第十一週：定價組合策略<br>第十二週：行銷通路的管理<br>第十三週：零售、批發與物流<br>第十四週：行銷整合溝通<br>第十五週：廣告、公關與促銷<br>第十六週：人員銷售<br>第十七週：國際行銷<br>第十八週：期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識行銷學的本質與範疇",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解目標市場的確認與選擇",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解行銷組合的制定",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "管理行銷活動",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "行銷管理",
+        "author": "鄭清華&陳銘慧&謝佩玲",
+        "publisher": "全華",
+        "year": "2023",
+        "ISBN": "978-986-503-950-9",
+        "edition": "第六版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,131 @@
+{
+    "code": "M0D16N02",
+    "name": {
+        "zh": "日文",
+        "en": "Basic Japanese"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技餐旅一乙"
+    ],
+    "instructors": [
+        "鄭淑勻"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "T0002"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "T0002"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.日語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程針對初學者設計，由50音開始，課程內容包含平／片假名以及清／濁音，半濁音，拗音，促音，撥音的正確發音，繼而練習高低腔調的符號之辨識及其應用練習。以此為基礎，進一步學習日常生活簡易用語。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.字母及發音（１）平假名<br>2.字母及發音（２）片假名<br>3.平／片假名復習；平／片假名應用<br>4.清音，濁音，半濁音， 母音，長音，抝音介紹及實際應用例。<br>5.自我介紹之基本用法<br>6.指示詞之各項用法<br>7.存在表現法之介紹<br>8.計數，數量，單位等用法（１）<br>9.計數，數量，單位等用法（２）<br>10.計數，數量，單位等用法（３）",
+        "en": "Japanese pronunciation (I) (II)<br>Practice for Japanese pronunciation<br>Self Introduction<br>Numbers in Japanese (I) (II) (III)<br>Japanese Grammar"
+    },
+    "weeklySchedule": "第一週 日語介紹與課程簡介<br>第二週 平假名(一)<br>第三週 平假名(二)<br>第四週 平假名(三)<br>第五週 片假名(一)<br>第六週片假名(二)+自我介紹<br>第七週複習與常見打招呼語<br>第八週第一課<br>第九週期中考<br>第十週第二課<br>第十一週 第二課<br>第十二週 第三課<br>第十三週 第三課<br>第十四週 第四課<br>第十五週第四課+總複習<br>第十六週口試<br>第十七週口試<br>第十八週期末考<br>",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末考",
+        "other": "小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學會正確的日語發音",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "記得平假名與片假名的正確寫法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能正確例舉基本日語句型\t\t13 外語口語能力\n4",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能正確應用日語會話至日常生活並可與他人溝通",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能理解日本文化的內涵與日文應用的意義",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "基礎日語",
+        "author": "陳連浚等",
+        "publisher": "全華圖書",
+        "year": "2016",
+        "ISBN": "978-957-21-7728-0",
+        "edition": "3"
+    },
+    "referenceBooks": "洽任課老師",
+    "teachingSoftware": "",
+    "rules": "1.平時成績包括不定期小考、課堂參與討論、及上課態度 (包括手機使用相關、上課睡覺及講話等影響上課秩序行為)。<br><br>2. 上課前請先做好預習之工作，上課前、中、後皆會不定期抽問與討論，表現不佳將會影響平時跟總成績。<br>3. 請準時上課，遲到超過15分鐘以上者視同曠課一次，並請勿進教室影響同學上課情緒。學生的確有受教權，但若不想學習也請勿影響其他人，因故必須缺席者請當日上課前或24小時之內以Email、電話或簡訊其中一種方式告知老師。若為病假，事後請補上醫生證明，否則仍以曠課論,一學期內若非特殊原因，任何原因的請假全部以三次為上限，無故曠課三次以上(包含請假及公假則有六次)平時成績一律以零分計算，點名很浪費時間，但若有太多人嚴重遲到、不到或是上課不參與(睡覺、說話或滑手機)將會影響上課效率及影響老師上課進度或情緒，尚請大家多多配合。<br>"
+}

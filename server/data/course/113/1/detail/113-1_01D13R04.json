@@ -1,0 +1,110 @@
+{
+    "code": "01D13R04",
+    "name": {
+        "zh": "歷史‧地理與文化(一)",
+        "en": "History, Geography and Culture (1)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專化材一甲"
+    ],
+    "instructors": [
+        "劉煥玲"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "I0305"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "I0305"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程溶合歷史學與地理學，引導學習者的跨科際學習，在自然地理學的知識平台上，學習歷史知識論，以台灣為中心認知世界歷史的發展輪廓，以寬廣的視角觀看地理因素對歷史、文化發展的影響，認知社會變遷對環境的衝擊，進而培育具寬闊胸懷的世界公民。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.歷史知識論：認識歷史<br>(1)歷史的認知<br>(2)歷史與社會學研究<br>(3)大眾史學<br>2.歷史與地圖：左圖右史<br>(1)地球科學：地球的轉動與季節<br>(2)世界地圖：經緯度與地圖判讀<br>    (3)尋找台灣：台灣的地形與交通<br>(4)古地圖中的台灣：地圖判讀<br>3.地形與歷史：台灣的人文地理<br>(1)高山、丘陵、平原與島嶼<br>(2)溪河、湖泊、黑水溝<br>(3)台北湖、台江內海與倒風內海的歷史文化<br>(4)火山、斷層與地震<br>4.氣候與歷史：歷史在不同氣候下的發展<br>(1)氣候與歷史文化的發展<br>(2)農業民族與海洋民族（氣候區與歷史文明）<br>(3)風往哪裡吹（颱風往西走）<br>(4)明天過後的警訊（文化高度發展的溫室效應）<br>5.海洋與歷史：洋流對歷史的阻攔<br>(1)世界洋流體系<br>(2)季風與洋流形成的航線<br>(3)大航海時代的海洋針路<br>(4)台灣不是琉球<br>(5)鐵達尼號的宿命航路<br><br>★上課進度、順序及內容，視上課進程及學生吸納程度，隨時調整。<br>",
+        "en": "History, Geography and Culture (1)<br>1. Historical Epistemology<br>2. History and map<br>3. Topography and history<br>4. Climate and history<br>5. Ocean and history<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1. 認知歷史與地理知識論的基礎知識，以理性思維培育綜合、分析能力(A3)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2. 統合歷史與地理知識於生活或學習中，拓展國際視野(C2)。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3. 理解台灣與世界的歷史文化，進而善於表達所學知能。(G1)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4. 建築史地知識，學習科際整合，進而建構反省、思辨的能力。(I4)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

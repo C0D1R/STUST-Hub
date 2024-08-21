@@ -1,0 +1,110 @@
+{
+    "code": "01D15W01",
+    "name": {
+        "zh": "基礎物理(一)",
+        "en": "Elementary Physics (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專電機一甲"
+    ],
+    "instructors": [
+        "李明倫"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第1節",
+            "location": "I0306"
+        },
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "I0306"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "提供物理學及近代科學各個分支的基礎。本課程將系統地介紹自力學、熱學、電磁學、光學、近代物理學等。其中，<br>物理（一）教授：運動與力、熱、聲音、光<br>物理（二）教授：電與磁、能量與生活、現代科技簡介<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章　緒論<br>第二章　運動與力<br>第三章　熱<br>第四章　聲音<br>第五章　光<br>",
+        "en": "Chapter 1: Introduction<br>Chapter 2: Motion and Force<br>Chapter 3: Thermal<br>Chapter 4: Sound<br>Chapter 5: Light<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "養成學生對自然科學的認知與興趣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "指導學生體認科學發展對人類生活和環境的影響及其重要性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "啟發學生創造和解決問題的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "協助學生培養正確的科學態度及學習科學的方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

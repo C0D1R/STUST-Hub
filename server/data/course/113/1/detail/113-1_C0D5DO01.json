@@ -1,0 +1,123 @@
+{
+    "code": "C0D5DO01",
+    "name": {
+        "zh": "應用英語實務海外實習(一)",
+        "en": "Overseas Practicum in Applied English (Ⅰ)"
+    },
+    "credit": "9",
+    "type": "管制選修",
+    "classes": [
+        "四技應英四甲"
+    ],
+    "instructors": [
+        "陳怡真"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "720"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在提供本系學生「英語教學」與「商務溝通」之海外職場實務經驗，透過長期的實地參觀、訓練與實習，除可讓學生熟悉海外職場工作環境與內容，訓練學生學以致用之能力外，亦可培養良好之工作態度及規劃、執行能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.海外實習場所之尋覓與瞭解<br>2.海外實習合約之簽訂<br>3.職前教育訓練<br>4.工作態度與表現之評量<br>",
+        "en": "1.Searching and understanding of overseas internship sites<br>2.Signing of overseas internship contracts<br>3.Pre-service training<br>4.Evaluation of work attitude and performance<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能學以致用，結合理論與實務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備職場英文的知識與技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "在日常生活與職場使用英文與人溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會與遵守職場與團隊紀律",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備整合、規劃與問題解決能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能積極參與職場活動，並學習相關知能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,122 @@
+{
+    "code": "C0D5FA01",
+    "name": {
+        "zh": "實用英文文書製作",
+        "en": "Practical Design of Business Document and Workplace English"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應英三甲"
+    ],
+    "instructors": [
+        "李嘉宜"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "N310"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "N310"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程目標基於21 世紀新識讀能力，不再侷限於文字形態。國外教育現場與職場實務主張「數位多元媒體表達能力」（Multimodal Literacy）觀點的探討和運用，融入Canva設計工具與AI繪圖實用文書製作，現在與未來學習者需要習得創造力．行銷力及職場力。<br>課程內容包含了解:<br>(1)運用設計思考與多摩態理論快速轉化為實用性設計: 活動海報、廣告傳單、、公司三折頁Menu、互動式翻頁電子書、生活實用桌曆、簡報、高質感社群貼文與短影音、一頁式購物網站、線上白板整合團隊工作、AI 圖像繪本設計等。<br>(2)透過實用英語文書製作方法和技巧，培養學生英語書寫能力，學習如何在商業環境中進行有效溝通。Learning by Doing &lt;做中學&gt;學習英語商業文化，包括文化禮儀、商業習俗和慣例，以及全球商業趨勢等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.設計思考/數位多元媒體表達力理論介紹<br>2. Canva介面認識與操作<br>3.英文文書 基礎設計篇<br>個人化履歷<br>橫式桌曆 <br>照片後製與多張拼貼 <br>廣告傳單<br>活動海報設計元素<br>4. 英文文書 多元應用篇<br>三折頁菜單 - 樣式與視覺資訊圖表<br>建立專案<br>旅遊提案電子書<br>文件與數據圖像<br>分享線上翻頁式電子書<br>宣導簡報 動畫效果<br>網路行銷<br>社群貼文與短影音<br>修改文案介紹商品<br>一頁式購物平台 <br>5.主題式分組討論實作<br> 線上會議白板與多人協作<br>6. Canva AI 圖像繪本 - <br><br>",
+        "en": "1.Introduction to Design Thinking and Multimodal LiteracyTheory<br>2.Canva Interface Introduction and Operation<br>3.Basic Design of English Documents Personalized Resume Horizontal Desk Calendar Photo Post-processing and Collage Advertising Flyers Elements of Activity Poster Design<br>4.Diverse Applications of English Documents Tri-fold Menu - Styles and Visual Information Graphics Establishing Projects Travel Proposal E-Book Documents and Data Graphics Sharing Online Flip-style E-Books Promotional Presentation with Animation Effects Online Marketing Social Media Posts and Short Videos Editing Product Descriptions One-Page Shopping Platform<br>5.Themed Group Discussions and Implementations Online Meeting Whiteboard and Multi-person Collaboration<br>6.Canva AI Image Picture Book -"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "設計思考理論與商英實務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解商業習俗和商業文化，以及全球商業趨概念應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "數位多元媒體表達能力觀點融入職場應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習運用數位工具進行創新設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "任務導向實務學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,145 @@
+{
+    "code": "F0D38O01",
+    "name": {
+        "zh": "行動多媒體實務",
+        "en": "Mobile Multimedia Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資傳三甲",
+        "四技資傳三乙"
+    ],
+    "instructors": [
+        "鄭靜怡"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "W0608"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "W0608"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "W0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著資訊科技與無線通訊的日新月期，行動裝置已是現今日常生活不可或缺的溝通平台。本課程主要介紹跨平台行動裝置相關的開發技術，以HTML5搭配jQuery Mobile與PhoneGap建置多媒體為主的行動裝置App。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.行動裝置應用介紹<br>2.HTML5與CSS3多媒體相關內容介紹<br>3.jQuery與jQuery Mobile介紹<br>4.jQuery Mobile特效製作<br>5.jQuery Mobile與PhoneGap的整合<br>6.APP範例介紹<br>7.APP專案建置<br>",
+        "en": "1. Introduce mobile and application<br>2. All new HTML5 and CSS3 for web designer<br>3. jQuery and jQuery Mobile introduction<br>4. Effects of jQuery<br>5. Integration of PhoneGap and jQuery Mobile<br>6. APP developing demostrate<br>7. APP developing project practice<br>"
+    },
+    "weeklySchedule": "本計畫課程著重在運用行動多媒體實務技能體現在地人文，學生必須經過親自探索模擬問題情境，從中發掘解決問題的方法，以專案實務的方式製作行動多媒體網頁。教學方法包含：1、課堂講授；2、範例展示；3、實作演練；4、場域探索；5、協同教學<br>課程主題設計包括四個部分：<br>(1)發掘問題、實際體驗以認識在地文化、創意發想以實現行動多媒體應用；<br>(2)程式設計邏輯思維及行動多媒體實務能力鍛鍊；<br>(3)行動多媒體網站應用於社區故事數位化能力；<br>(4)分享與回饋。<br>",
+    "exams": {
+        "midterm": "企畫報告",
+        "final": "作品展示",
+        "other": "作業及報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學會jQuery Mobile與PhoneGap的整合",
+            "teachingMethods": [
+                "課堂講授",
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解行動裝置相關的開發技術",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "建置跨平台行動多媒體App",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建置跨平台行動多媒體App",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建置跨平台行動多媒體App",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學會jQuery Mobile特效製作",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

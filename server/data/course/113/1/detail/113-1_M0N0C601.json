@@ -1,0 +1,159 @@
+{
+    "code": "M0N0C601",
+    "name": {
+        "zh": "產業實務實習(一)",
+        "en": "Industrial practice intership(I)"
+    },
+    "credit": "4",
+    "type": "必修",
+    "classes": [
+        "夜餐旅產攜一甲"
+    ],
+    "instructors": [
+        "蘇家愷"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "4",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生能提早體驗職場之工作經驗，將所學融入餐飲實務實習。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 使學生能提早體驗職場之工作經驗<br>2. 使學生能將所學融入餐飲實務經營管理中<br>3. 使學生能增長餐旅專業知識與專業技術<br>4. 學習良好之社會互動、團隊合作、與人際溝通之技巧<br>5. 執行實習課程及實務技能訓練。<br>6. 由「做中學」培養職場所需就業能力。<br>",
+        "en": "1. Allow student expose to working environment in advance.<br>2. Engage school learning on practical management situation.<br>3. Enhance professional skills and know how.<br>4. Learn how to adapt to internal personal teamwork and social interaction.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能綜合所學，展現餐旅專業技術、能力於餐旅實務工作中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能綜合所學，展現餐旅專業技術、能力於餐旅實務工作中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

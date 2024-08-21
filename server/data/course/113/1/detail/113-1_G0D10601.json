@@ -1,0 +1,142 @@
+{
+    "code": "G0D10601",
+    "name": {
+        "zh": "資料庫系統",
+        "en": "Database Systems"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資工三甲",
+        "四技資工三乙",
+        "四技資工三丙"
+    ],
+    "instructors": [
+        "姜林毅"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "C303"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "C303"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "C303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.IC3",
+        ""
+    ],
+    "description": "此課程為資料庫的基礎課程，目的是讓學生修息本課程後，能夠勝任資料庫程式設計師。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 關聯式資料庫原理<br>2. 關係─實體 模型<br>3. 系統分析與資料庫設計<br>4. 正規化<br>5. MS SQL server 2005 系統介紹<br>6. SQL 語法應用<br>7. Transaction-SQL 語法介紹<br>8. 資料庫程式設計",
+        "en": "1. Relational database concept<br>2. E-R modeling<br>3. System analysis and database design<br>4. Normalization<br>5. Introductory of MS SQL server 2005 system<br>6. Introductory of SQL<br>7. Introductory of Transaction-SQL <br>8. Database Programming"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": ".能了解資料庫系統之應用領域與運作原理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解資料庫之綱要設計與正規化理論。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用SQL資料查詢語言查詢資料庫。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以文字圖表與書面報告表達資料庫設計之內容。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "針對正確使用資料庫內容，擁有專業責任與工程倫理的觀念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識資料庫技術對於資訊社會以及人類生活的影響，並具備自我適應之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

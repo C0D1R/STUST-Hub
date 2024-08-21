@@ -1,0 +1,158 @@
+{
+    "code": "J0D20304",
+    "name": {
+        "zh": "使用者經驗設計",
+        "en": "User Experience Design"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技創設二甲"
+    ],
+    "instructors": [
+        "吳亭誼"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "W0607"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0607"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使用者的經驗在於優使性的評估使用者在使用某個產品時易用程度的標準。優使性概念，除了使用者在使用產品時的效率外，也包括整體使用過程是否為使用者帶來美好的使用經驗。優使性(usability)是評估網站使用效能的標準，也是協助網站設計者與經營者創造良好使用經驗的設計概念",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Part Ⅰ 優使性概論<br>優使性簡介<br>網站設計與優使性<br>設計問題從何而來？<br>如何改善設計<br>Part Ⅱ 需求分析及高階設計<br>網站成功的條件<br>網站目標<br>收集使用者需求<br>訂定網站架構<br>Part Ⅲ 避免錯誤設計<br>使用者行為模式<br>介面設計原則<br>常見的設計問題<br>Part Ⅳ 評估並改善優使性<br>評估網站的優使性<br>啟發式評量<br>優使性測試概觀<br>測試環境及參與人員<br>測試執行與文件準備<br>整理與分析測試資料<br><br>",
+        "en": "Part I Introduction to Excellence<br>Privilege profile<br>Website design and privilege<br>Where does the design problem come from?<br>How to improve design<br>Part II requirements analysis and high-level design<br>Website success conditions<br>Website goal<br>Collect user needs<br>Set the website architecture<br>Part III avoids incorrect design<br>User behavior pattern<br>Interface design principle<br>Common design issues<br>Part IV Assessment and Improvement of Excellence<br>Evaluate the privilege of the website<br>Heuristic evaluation<br>Overview of superiority testing<br>Test environment and participants<br>Test execution and documentation<br>Organize and analyze test data<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能準確地操作使用者測試",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備設計使用者測試能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備整合測試結果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能表達與分析測試結果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能轉換分析結果於創作上",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備應用數位工具完成設計的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備市場概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備團隊合作,完成共同專案能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,99 @@
+{
+    "code": "B0D44401",
+    "name": {
+        "zh": "休閒建教合作實習(一)",
+        "en": "Internship (I)"
+    },
+    "credit": "9",
+    "type": "必修",
+    "classes": [
+        "四技休閒三甲"
+    ],
+    "instructors": [
+        "楊蓓涵"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "960"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為培育事業經營管理人才，提升專業服務水準，協助有意投身相關產業的學生早獲得實務經驗，已達順利就業之目的。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t提供學生實習前的職前訓練和輔導，協助媒合適合的實習機構。<br>2.\t讓學生能將所學融入休閒產業經營實務中、增長專業知識和實務技能。<br>3.\t讓學生從實習中培養人際互動、團隊合作與人際溝通表達等技巧。<br>    (實習前輔導，職前訓練 。實際實習 。實習成果報告書。)",
+        "en": "1.To conduct an understanding of the workplace ecology, and prepare for the adjustment and adaptation of the mentality before entering the workplace.<br>2. To learn workplace ethics and work attitude<br>3. To really understand the practical content of the workplace, and then learn or strengthen the professional knowledge required in the workplace to achieve the result of combining theory with practice.<br>4. To train students to apply relevant knowledge and learn problem-solving skills when faced with problems in the workplace."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "配合本系學生先行體會就業環境",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "在畢業前能培養符合業界需求的知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "技能與態度及加強學生觀光休閒學識與實務經驗之結合",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練學生如何將在校學習之專業知識溶入實習之工作內容。因此，修習本課程之同學可訓練實務與理論課程結合之專業素養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

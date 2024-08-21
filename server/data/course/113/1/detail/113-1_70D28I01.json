@@ -1,0 +1,148 @@
+{
+    "code": "70D28I01",
+    "name": {
+        "zh": "社群經營策略",
+        "en": "Community Management Strategy"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技企管四甲",
+        "四技企管四乙"
+    ],
+    "instructors": [
+        "林義旭"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "S207"
+        },
+        {
+            "day": "週三",
+            "period": "第7節",
+            "location": "S207"
+        },
+        {
+            "day": "週三",
+            "period": "第8節",
+            "location": "S207"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "將透過社群經營(Facebook、Instagram、Line@等)之實務課程，並著墨攝影、設計、文案等實作練習，使學生瞭解由經營理念、產品/服務推廣，落實到社交媒體平台之實務作法，以期學生畢業進入職場，能於最短時間進入狀況，並符合企業真正行銷需求應用力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 社群經營<br>2. 攝影、設計、文案等實作練習<br>3. 經營理念、產品/服務推廣<br>4. 社交媒體平台之實務作法<br>5. 社群行銷知識<br>6. 實作社群經營作業",
+        "en": "1. Community management<br>2. Practical exercises on photography, design, copywriting, etc.<br>3. Business philosophy, product/service promotion<br>4. Practical practices of social media platforms<br>5. Knowledge of social marketing<br>6. Implement community management operations"
+    },
+    "weeklySchedule": "(1) 強化學生社群行銷知識<br>(2) 建立實務面之社群經營概念<br>(3) 實作社群經營作業(攝影/文案/影片/設計/廣告)，並產出實際成品<br>(4)多位頂尖部落客分享與實作。",
+    "exams": {
+        "midterm": "無",
+        "final": "無",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "強化學生社群行銷知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "建立實務面之社群經營概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "實作社群經營作業",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "攝影/文案/影片/設計的整合",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

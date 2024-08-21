@@ -1,0 +1,122 @@
+{
+    "code": "M0D16N01",
+    "name": {
+        "zh": "日文",
+        "en": "Basic Japanese"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技餐旅一甲"
+    ],
+    "instructors": [
+        "胡琇瓔"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "T0109"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "T0109"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程針對初學者設計，由50音開始，課程內容包含平／片假名以及清／濁音，半濁音，拗音，促音，撥音的正確發音，繼而練習高低腔調的符號之辨識及其應用練習。以此為基礎，進一步學習日常生活簡易用語。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.字母及發音（１）平假名<br>2.字母及發音（２）片假名<br>3.平／片假名復習；平／片假名應用<br>4.清音，濁音，半濁音， 母音，長音，抝音介紹及實際應用例。<br>5.自我介紹之基本用法<br>6.指示詞之各項用法<br>7.存在表現法之介紹<br>8.計數，數量，單位等用法（１）<br>9.計數，數量，單位等用法（２）<br>10.計數，數量，單位等用法（３）",
+        "en": "Japanese pronunciation (I) (II)<br>Practice for Japanese pronunciation<br>Self Introduction<br>Numbers in Japanese (I) (II) (III)<br>Japanese Grammar"
+    },
+    "weeklySchedule": "第一週：課程介紹、教科書及補充教材介紹、上課需知<br>第二週：五十音(平假名清音)<br>第三週：五十音(平假名清音)<br>第四週：五十音(平假名濁音、半濁音)<br>第五週：五十音(平假名拗音、促音、長音、撥音)<br>第六週：五十音(平假名總複習)<br>第七週：五十音(片假名清音)<br>第八週：五十音(片假名濁音、半濁音)<br>第九週：期中考<br>第十週：五十音(片假名拗音、促音、長音、撥音)<br>第十一週：五十音(片假名總複習)<br>第十二週：日語的高低重音<br>第十三週：日語的高低重音<br>第十四週：單字發音練習<br>第十五週：單字發音練習<br>第十六週：簡單生活會話<br>第十七週：簡單生活會話<br>第十八週：期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第四週：小考口試         第十四週：小考口試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學會正確的日語發音",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "記得平假名與片假名的正確寫法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能正確例舉基本日語句型\t\t13 外語口語能力\n4",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能正確應用日語會話至日常生活並可與他人溝通",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能理解日本文化的內涵與日文應用的意義",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "大家的日本語  初級Ⅰ",
+        "author": "スリーエーネットワーク",
+        "publisher": "大新書局印行",
+        "year": "2019",
+        "ISBN": "9789863210870",
+        "edition": "改訂版"
+    },
+    "referenceBooks": "基礎日本語（第三版）<br>鄧美華、陳連浚等<br>全華圖書股份有限公司<br>2016年<br>",
+    "teachingSoftware": "",
+    "rules": ""
+}

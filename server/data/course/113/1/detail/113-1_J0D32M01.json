@@ -1,0 +1,128 @@
+{
+    "code": "J0D32M01",
+    "name": {
+        "zh": "多媒體網頁設計",
+        "en": "Multimedia Web Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技商設三甲"
+    ],
+    "instructors": [
+        "高軒然"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "W0709"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "W0709"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "W0709"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.Adobe Dreamweaver CC",
+        ""
+    ],
+    "description": "本課程主要內容為多媒體整合於互動網頁設計學習，分為兩個階段─「網頁介面設計」與「多媒體互動設計」，並著重在於此兩階段相關軟體和平台資源的傳授。<br><br>The content of the course is multimedia integration in interactive web design. The course is divided into two phases - \"web interface design\" and \"multimedia interactive design\" and focuses on the teaching of the related software and platform resources.<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.網站基本介紹<br>2.網站企劃與設計流程<br>3.網站設計流程規劃<br>4.網站架設說明 <br>5.網頁規劃設計實作<br>6.多媒體網頁設計實作<br>7.多媒體互動設計實作<br>",
+        "en": "1.The introduction of website basics<br>2.Website framework planning and process<br>3.The design Process of website<br>4.The implementation of website station<br>5.Web design implementation<br>6.Multimedia design implementation<br>7.Interactive design implementation<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "藉由多媒體之理論與實務練習，透過美學基本理論的引導及軟體之實務運用，讓學生了解多媒體的運用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生具備以使用圖像說故事的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生熟悉故事敘述之設計思考",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練學生具備多媒體的動畫技巧並創造多媒體動畫的多樣性風格",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "累積其實務操作經驗，藉由個案案例專題之演練，提昇學生具備製作多媒體專題的敏銳度和成熟度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

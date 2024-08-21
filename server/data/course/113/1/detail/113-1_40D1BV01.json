@@ -1,0 +1,132 @@
+{
+    "code": "40D1BV01",
+    "name": {
+        "zh": "聚合物合成實驗",
+        "en": "Experiments of polymer synthesis"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技化材三甲",
+        "四技化材三乙"
+    ],
+    "instructors": [
+        "陳澄河"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "I0701"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "I0701"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "I0701"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "高分子材料為三大工程材料(高分子、金屬、陶磁)中應用最廣之一。高分子材料廣泛使用於民生、紡織、建築、交通(車輛、航空)、運動器材、3C、光電等領域。大多數大學所教授的均以高分子理論為主，鮮少針對高分子合成與技術的實作來讓學生真正瞭解如何製備出高分子材料。對於產業界而言，具有實務經驗的人才為現今各相關產業所迫切需求的。因此，本課程將整合校內所有高分子合成設備來規劃本實習課程，以期增強學生畢業後之競爭力。<br>本課程主要講解及實習熱塑性與熱固性高分子材料之合成方法及特性分析，讓學生獲得以下技能:<br>1.使學生了解高分子材料合稱方法、特性及型態<br>2.能具備高分子材料合成之原理及應用<br>3.能具備高分子材料相關從業人員之專業知識與態度<br>4.能瞭解高分子材料相關產業之市場及其發展情形<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "實驗1 高分子材料溶解度試驗<br>實驗2 本質型導電聚苯胺之合成反應<br>實驗3 甲基丙烯酸甲酯之總體聚合與聚甲基丙烯酸甲酯與聚苯乙烯共聚合物(PMMA-co-PS)之合成<br>實驗4 環氧樹脂之製備與硬化<br>實驗5 天然高分子幾丁質的化學改質<br>實驗6 以界面聚縮合法合成耐隆6,6<br>",
+        "en": "Experiment 1. Solubility test of Polymer Materials<br>Experiment 2. Synthesis of intrinsically conductive polyaniline<br>Experiment 3. Bulk polymerization of methyl methacrylate and synthesis of poly(methyl methacrylate-co-styrene)(PMMA-co-PS)<br>Experiment 4. Preparation and hardening of epoxy resin<br>Experiment 5. Chemical modification of natural polymer chitin<br>Experiment 6. Synthesis of Nylon 6,6 by interfacial polycondensation<br><br>"
+    },
+    "weeklySchedule": "中文大綱 (Chinese Outline)<br>實驗1\t高分子材料溶解度試驗 <br>實驗2\t本質型導電聚苯胺之合成反應 <br>實驗3\t甲基丙烯酸甲酯之總體聚合與聚甲基丙烯酸甲酯與聚苯乙烯共聚合物(PMMA-co-PS)之合成 <br>實驗4\t環氧樹脂之製備與硬化 <br>實驗5\t天然高分子幾丁質的化學改質 <br>實驗6\t以界面聚縮合法合成耐隆6,6 <br><br>英/日文大綱（English/Japanese Outline）：<br>Experiment 1. Solubility test of Polymer Materials<br>Experiment 2. Synthesis of intrinsically conductive polyaniline<br>Experiment 3. Bulk polymerization of methyl methacrylate and synthesis of poly(methyl methacrylate-co-styrene)(PMMA-co-PS)<br>Experiment 4. Preparation and hardening of epoxy resin<br>Experiment 5. Chemical modification of natural polymer chitin<br>Experiment 6. Synthesis of Nylon 6,6 by interfacial polycondensation<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "口頭報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能利用化學基本知識及運算原理，完成實驗報告",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能分析實驗數據並解釋實驗結果",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有系統的說明實驗流程與實驗結果",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用電腦軟體處理實驗數據，並上網收集相關資料",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能融入團隊並能完成自己所分擔的實驗工作",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1. 自編教材<br>2. 高分子合成相關書籍",
+    "teachingSoftware": "無",
+    "rules": "需修過普通化學、有機化學、材料科學相關課程"
+}

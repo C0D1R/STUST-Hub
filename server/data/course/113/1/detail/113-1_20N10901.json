@@ -1,0 +1,135 @@
+{
+    "code": "20N10901",
+    "name": {
+        "zh": "電動機控制",
+        "en": "Motor Control"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技電機四甲"
+    ],
+    "instructors": [
+        "劉銘唐"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "I0309"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "I0309"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "I0309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "電動機控制課程循序漸進地從功率半導體開關元件，與交直流馬達驅動器中之轉換器與反流器介紹，更進一步說明各式馬達之工作特性與其驅動控制技術。使學生對電動機控制具有全面且深入的認識。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 馬達、負載、與功率半導體開關概論<br>2. 直流至直流切換式轉換器<br>3. 旋轉型直流馬達之驅動與控制<br>4. 直流至交流切換式反流器<br>5. 旋轉型同步馬達之驅動<br>6. 旋轉型同步馬達之控制",
+        "en": "1. Introduction to motors, loads, and power switches<br>2. DC-to-DC converters<br>3. Rotary DC motors drive and control<br>4. DC-to AC converters<br>5. Rotary synchronous motors drive<br>6. Rotary synchronous motors control"
+    },
+    "weeklySchedule": "1.第1~4週   馬達、負載、與功率半導體開關概論<br>2.第5~7週   直流至直流切換式轉換器<br>3.第8~10週  旋轉型直流馬達之驅動與控制<br>4.第11~13週 直流至交流切換式反流器<br>5.第14~16週 旋轉型同步馬達之驅動<br>6.第17~18週 旋轉型同步馬達之控制",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解電動機的分類",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解直流電動機的轉速與轉向類比控制方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解直流電動機的轉速與轉向數位控制方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解直流電動機的閉迴路控制方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解交流電動機的轉速與轉向控制方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

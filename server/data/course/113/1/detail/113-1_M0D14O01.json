@@ -1,0 +1,122 @@
+{
+    "code": "M0D14O01",
+    "name": {
+        "zh": "餐旅設施規劃與管理",
+        "en": "Hospitality Facility Design And Management"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技餐旅三乙"
+    ],
+    "instructors": [
+        "劉國寧"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "T0407"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "T0407"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程在探討規劃一家餐廳或旅館從無到有所必須考慮的事項，籌備餐廳或旅館需從區位的選擇著手，整個建築物就像是一個大設施，要把這大型設施放在哪個點，接下來是餐廳或旅館內部的氣氛營造，何種色調與材質會吸引不同的顧客層，第三就是廚房的規劃，把內部空間細分成外場與內場，而針對內場的部分，廚房的設施要擺在哪裡，才能讓出菜流程有效率，在加上空間的設計，然後再把水電、瓦斯之管路設計與管理的因素考量進去，此外還要強調整體衛生與環境安全的重要性，讓學員們了解餐廳或旅館在設施規劃上的一些技巧，期能對日後投身於相關產業有ㄧ些助益。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.地點選擇經濟學-區位、理念<br>2.地點選擇經濟學-成本計算<br>3.餐廳與旅館之氣氛與設計<br>4.廚房設計原則<br>5.廚房設施之規劃原則<br>6.廚房設備保養維護之原則<br>7.餐廳與與旅館之空間分配<br>8.電及能源管理<br>9.瓦斯及能源管理<br>10.餐廳與旅館之環境安全與衛生",
+        "en": "1. Introduction of Hospitality Industry<br>2. Concept of Hospitality Facility Design<br>3. Hospitality Facility Feasibility Analysis<br>4. Hospitality Facility Marketing<br>5. Hospitality Facility Development Plan<br>6. The Future Trends of Hospitality Facility Design"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "餐廳或旅館外場規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "餐廳或旅館內場規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "規劃原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "餐廳與旅館之空間分配",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "餐廳與旅館之氣氛與設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

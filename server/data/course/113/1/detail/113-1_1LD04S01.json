@@ -1,0 +1,139 @@
+{
+    "code": "1LD04S01",
+    "name": {
+        "zh": "藝術欣賞入門",
+        "en": "Introduction to Art"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "劉煥玲"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "S414"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S414"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "S414"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "藝術是人類特殊精神文化的結晶，其共同特質是：表現美的感情並給人美的感受。本課程藉由多元領域的藝術作品欣賞，培養學生「美的覺醒」之審美能力，輔以美學知識講授，深化「體認」層次，透過分組討論對藝術作品的內容、素材及形式能有知覺的認知、解釋與判斷，進以培養學生有更好的藝術生活感受與高品質的生命態度，建立有內涵的美麗人生。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "（1）藝術的故事<br>（2）中國繪畫美學 <br>（3）西方繪畫美學<br>（4）台灣經典藝術家<br>（5）表演藝術<br>（6）舞蹈賞析<br>（7）天地有大美－談生活美學<br>（8）人與自然的對話─建築<br>（9）美的沉思─雕塑<br>（10）音樂欣賞<br>（11）電影藝術<br>",
+        "en": "(1)\tThe story of art<br>(2)\tChinese Painting Introduction<br>(3)\tWestern Painting Introduction<br>(4)\tFamous Artists in Taiwan Introduction<br>(5)\tPerforming Art Introduction (stage drama, musical, crosstalk etc.)<br>(6)\tDance Appreciation Introduction<br>(7)\tAesthetics in Living<br>(8)\tAesthetics of Architecture<br>(9)\tAesthetics of Sculpture<br>(10)\tMusic Appreciation Introduction<br>(11)\tFilm Art Introduction<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "賞析多元藝術領域，學習藝術相關知識，增進美學素養。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "統整運用藝術知能，增強於各項生活或學習的感知力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能積極關注與參與藝文活動，經由藝術與生活結合，提升個人生活品味，進而豐富精神生活。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能專注欣賞聆聽他人發表，並以適切的語文表達個人的理念，並參與研討。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能透過小組討論的方式，探索藝術作品的內涵，培養合群互助達到既定目標。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以藝術美感的生命啟發珍惜自己，關懷人我自然，展現生命的價值。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

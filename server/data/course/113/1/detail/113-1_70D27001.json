@@ -1,0 +1,116 @@
+{
+    "code": "70D27001",
+    "name": {
+        "zh": "行銷企劃執行",
+        "en": "Marketing Planning and Execution"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管二甲",
+        "四技企管二乙"
+    ],
+    "instructors": [
+        "簡南山"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "S316"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S316"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "S316"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以行銷管理的基本理論為架構，以一般企業中與行銷相關的企劃工作為學習內容，瞭解行銷基本概念如何有效運用在行銷實務企劃的工作上，並透過實際個案的討論與實作，進一步了解企劃執行的細節與關鍵。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 行銷企劃的理論與實務<br>2. 環境分析、市場調查與行銷企劃<br>3. 行銷企劃提案與撰寫技巧<br>4. 市場定位與策略規劃<br>5. 產品策略與企劃實務<br>6. 通路策略與企劃實務<br>7. 價格策略與企劃實務<br>8. 推廣策略與企劃實務<br>",
+        "en": "1. Theory and Practice of Marketing Planning<br>2. Environmental Analysis, Market Research and Marketing Planning<br>3. Marketing Planning Proposal and Writing Skills<br>4. Market positioning and strategic planning<br>5. Product Strategy and Planning Practice<br>6. Access Strategy and Planning Practice<br>7. Price Strategy and Planning Practice<br>8. Promotion Strategy and Planning Practice<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解行銷企劃的各種類型與實務內容",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能在不同的經營條件下有效的地規劃與執行行銷活動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能精簡表達實務案例的內容，並能分享與討論不同作法的利弊得失",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能與團隊伙伴分享學習成果，並完成團隊作業",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

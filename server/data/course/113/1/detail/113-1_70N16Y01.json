@@ -1,0 +1,130 @@
+{
+    "code": "70N16Y01",
+    "name": {
+        "zh": "統計學",
+        "en": "Statistics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜二技企管三甲"
+    ],
+    "instructors": [
+        "伍家德"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "S209A"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "S209A"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "S209A"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹統計方法的基本概念與Excel軟體分析統計資料的操作與解讀。內容包括資料的蒐集與整理，分析解釋等敘述統計及由樣本推論母體的估計檢定，迴歸分析，變異數分析，無母數統計，時間序列分析等。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1. 資料蒐集與整理<br>2. 資料敘述與表現<br>3. 機率<br>4. 間斷性隨機變數<br>5. 連續性隨機變數<br>",
+        "en": "1. Collection and presentation of data<br>2. Description and summary of data<br>3. Probability<br>4. Discrete random variable<br>5. Continuous random variable"
+    },
+    "weeklySchedule": "1.衡量尺度與問卷概念<br>2.統計軟體(SPSS)的概述與資料建檔<br>3.資料檔的處理<br>4.資料分析流程與統計工具<br>5.樣本結構分析-次數分配<br>6.研究變數的分佈情形-平均數/標準差分析<br>7.研究假設與驗證原則<br>8.假設驗證之相關分析<br>9.假設驗證之獨立樣本t檢定<br>10.假設驗證之單因子變異數分析<br>",
+    "exams": {
+        "midterm": "上機考",
+        "final": "上機考",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解資料分析的統計方法與基本學理",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能針對管理問題有效辨識適當的統計方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用統計方法分析管理實務資料",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能利用Excel 軟體分析資料並正確解讀報表",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現資料分析結果，讓不懂統計專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "SPSS",
+    "rules": "1由於此系統無法有效交代課程評量,故請以第1次上課時教師的說明為主.<br>2.平時成績包括上課出席情形,故請修課同學務必自我提醒,要準時來上課.<br>3.本課程主要在說明統計學的實際用途(資料分析),對同學在四年級的專題課程會有重要關連,請務必認真學習.<br><br>***學生時序表是一學年的統計學的同學,若是統計學(一)或上學期的統計學要補修,不可修讀本課程. 夜四技企管的同學只有二下的實用統計學不及格才能補修本課程。<br>"
+}

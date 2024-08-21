@@ -1,0 +1,125 @@
+{
+    "code": "01D13J04",
+    "name": {
+        "zh": "進階英文表達(A)",
+        "en": "English for Professional Communication & Presentation"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技醫電三甲",
+        "四技電資三甲",
+        "四技控晶三甲",
+        "四技控晶三乙"
+    ],
+    "instructors": [
+        "黃美菁"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0406"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0406"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以專業英文溝通的基礎， 進一步學習介紹公司概況，新制產品及產品製造流程，以及業務銷售或最新研發科技方面…等的簡介能力。以期符合不同專業領域裡，所必須應對的職場需求。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 制定簡報的主題與綱要<br>(1) 認識簡報對象<br>(2) 製作綱要<br>(3) 設定簡報型式<br>(4) 模擬練習<br><br>2. 表達技巧的學習與應用(產品介紹與交際溝通技巧)<br>(1) 自我介紹與交際閒談<br>(2) 簡潔有力的陳述<br>(3) 論點的陳述方式<br>(4) 各論點間的連結整合<br><br>3. 簡報內容的製作 (資料的收集、分析與歸納)<br>(1) 主題簡介<br>(2) 圖片/表格/圖表的使用<br>(3) 事實&amp;數據分析<br>(4) 範例的使用<br>(5) 論點的強調<br>(6) 對簡報內容做出預測<br><br>4. 總結簡報內容與製作摘要<br>(1) 總結式的摘要<br>(2) 提出另一思考的方向<br>(3) 提出有效的建議<br><br>5. 回答提問及進階討論<br>(1) 提問的邀請<br>(2) 回應<br>(3) 後續的連繫與討論<br>",
+        "en": "1. Choosing Topics and Making an Outline<br>(1) Learning Your Audience<br>(2) Making an Outline<br>(3) Choosing the Format<br>(4) Practicing the Presentation<br><br>2. Introducing an Item and Small Talks<br>(1) Self-Introduction and Small Talks<br>(2) Powerfully Addressing Your Points<br>(3) Making a List of Your Points<br>(4) Linking Your Points<br><br>3. Researching, Analyzing, and Managing Information for Presentations<br>(1) Introducing the Subject<br>(2) Using Charts, Graphs, and Pictures<br>(3) Analyzing Facts and Data<br>(4) Using Examples <br>(5) Enhancing Your Points <br>(6) Giving Predictions <br><br>4. Making an Conclusion and Summary<br>(1) Giving a Concluding Summary<br>(2) Proposing a New Question <br>(3) Making Recommendations <br><br>5. Offering Suggestions, Responding to Questions, and Further Discussions <br>(1) Inviting Further Questions <br>(2) Responses <br>(3) Further Contacts and Discussion <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備專業英文的溝通技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習以英文敘述、歸納及解決問題的技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習進階英語聽說讀寫表達的實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習以網路查詢、分析、整合資訊及以英文敘述的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備人文素養及省思能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

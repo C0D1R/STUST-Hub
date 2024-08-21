@@ -1,0 +1,116 @@
+{
+    "code": "50D01101",
+    "name": {
+        "zh": "作業研究",
+        "en": "Operations Research"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技工管三甲"
+    ],
+    "instructors": [
+        "黃振勝"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "W0404"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0404"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0404"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.工業工程師",
+        ""
+    ],
+    "description": "本課程在建立學生利用計量模式深入分析工程與管理之策略性與作業性決策可行性與效益的能力。先從如何利用模式解決實務問題出發，再介紹管理上常見的計量管理模式，包括其數學性質、求解方法與在管理上的意涵與應用。<br><br>",
+    "prerequisites": "管理數學(或線性代數)",
+    "syllabus": {
+        "zh": "1.緒論<br>2.線性規劃導論<br>3.單體法<br>4.對偶理論<br>5.敏感度分析<br>6.運輸與指派問題<br>7.網路最佳化模式<br>",
+        "en": "1. Introduction<br>2. Introduction to Linear Programming<br>3. The Simplex Method<br>4. Duality Theory<br>5. Sensitivity Analysis<br>6. The Transportation and Assignment Problems<br>7. Network Optimization Models<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解作業研究之各類決策模式求解方法之基本學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對決策問題辨識適當的求解方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用作業研究方法分析實務資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用Lindo軟體分析資料並正確解讀報表",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

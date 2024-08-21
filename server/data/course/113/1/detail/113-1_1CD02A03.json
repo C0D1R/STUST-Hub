@@ -1,0 +1,127 @@
+{
+    "code": "1CD02A03",
+    "name": {
+        "zh": "基本設計與色彩應用(B)",
+        "en": "Foundational Design and Color Theory"
+    },
+    "credit": "3",
+    "type": "管制必修",
+    "classes": [
+        "四技產設一甲"
+    ],
+    "instructors": [
+        "程筑鈺"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "X301"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "X301"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "X301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過單元講授與實作，培養學生豐富的視覺感受力，透過材料的多樣體驗，加強思考力的靈活度養成，進而累積平面造形構成與設計基本能力的經驗，搭配設彩學理論與色彩美感的訓練與調配原則，作為未來產品設計之應用基礎。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.具有設計的基本概念與原理認識。<br>2.視覺原理應用與視覺構成的實驗與設計。<br>3.點的構成<br>4.線的構成<br>5.面的構成<br>6.基本色彩學理論<br>7.生活中的色彩<br>8.文化的色彩<br>9.基本練習<br>10.綜合構成－專題設計創作<br>",
+        "en": "1.Introduction<br>2.Geometry - Research<br>3.Geometry - Practice<br>4.Geometry - Practice - color<br>5.Pattern I - Design research<br>6.Pattern II - Design Practice<br>7.Personal Creation - T-shirt<br>8.Element research and application<br>9.Group creation"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解基本設計基礎學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認並養成正確嚴謹製圖技能的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能創作獨特的個人風格",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能培養有效分析並講解個人創作理念知能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能養成對於『美』的基礎鑑賞能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

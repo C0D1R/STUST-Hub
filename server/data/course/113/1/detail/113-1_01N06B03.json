@@ -1,0 +1,164 @@
+{
+    "code": "01N06B03",
+    "name": {
+        "zh": "全球英語溝通",
+        "en": "Communicate with Global English"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技休閒一甲"
+    ],
+    "instructors": [
+        "徐靜慧"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "S403"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "S403"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "S403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course is designed to develop students’ English skills. Students will learn to communicate about topics relating to hobbies and interests, appearance, daily activities, occupations, opinions, entertainment, and etc. By participating in group discussions, students can also learn to take turns, check confirmation, ask for clarification, read relevant texts and write sentences based on basic patterns.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "學生將能針對主題：<br>掌握基本對話技巧如<br>--a.使用適當的語調及重音<br>--b.使用適當的詞彙以進行對話及討論<br>--c.開始、維持並適切結束對話<br>--d.請求澄清語意<br>--e.要求重述<br>--f.更正錯誤<br><br>運用下列語言功能<br>--a.電話相關用語<br>--b.問路指引<br>--c.描述外表及物品特性<br>--d.描述日常作息<br>--e.表達意見<br>",
+        "en": "With respect to the topics, students will be able to<br>1.Manage basic interaction skills:<br>--a. Use appropriate intonation and stress patterns.<br>--b. Use appropriate vocabulary in short conversations and group discussions.<br>--c. Initiate and participate in dyadic conversations and small group discussions.<br>--d. Seek clarification.<br>--e. Ask for repetition.<br>--f. repair<br><br>Communicate using the following functions:<br>--a. Telephone skills<br>--b. Asking and giving directions<br>--c. Describing appearance and quality of things.<br>--d. Describing daily routines<br>--e. Expressing opinions<br>"
+    },
+    "weeklySchedule": "Week 1 Orientation<br>Week 2 Unit 1<br>Week 3 Unit 1<br>Week 4 Unit 2<br>Week 5 Unit 2<br>Week 6 Unit 3<br>Week 7 Unit 3<br>Week 8 Review<br>Week 9 Midterm Exam<br>Week 10 Midterm discussion<br>Week 11 Unit 4<br>Week 12 Unit 4<br>Week 13 Unit 5<br>Week 14 Unit 5<br>Week 15 Unit 6<br>Week 16 Unit 6<br>Week 17 Review<br>Week 18 Final Exam",
+    "exams": {
+        "midterm": "紙筆測驗",
+        "final": "紙筆測驗",
+        "other": "第8, 17週: 口語測驗"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "英文的基本知能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習以網路查詢資料",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習世界各國文化",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "英語聽說讀寫實務技能",
+            "teachingMethods": [
+                "實作演練",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習以英語達到溝通目的",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "藉由課堂活動及教材認識不同的主題",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "World English 1A",
+        "author": "Martin Milner",
+        "publisher": "Cengage Learning",
+        "year": "2010",
+        "ISBN": "9780357113714",
+        "edition": "3"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "請尊重智慧財產權購買正版教科書."
+}

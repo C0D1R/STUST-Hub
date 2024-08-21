@@ -1,0 +1,176 @@
+{
+    "code": "H0D13O02",
+    "name": {
+        "zh": "食品加工學",
+        "en": "Food Processing"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技食品二乙"
+    ],
+    "instructors": [
+        "黃大維"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "I0309"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "I0309"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "I0309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.保健食品工程師",
+        "2.食品技師"
+    ],
+    "description": "食品加工學課程內容包括食品加工特性、單元操作及保藏方法的介紹、各類加工方法及新式加工方法的介紹，目的使學生瞭解食品原料的成分組成、食品品質變質與腐敗因素、食品保藏方法等食品加工的原理，以及各類食品的加工方及流程，作為修習食品加工學實習的基礎。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t食品原料的化學組成及食品的劣變<br>2.\t食品保藏方法(濃縮、乾燥、熱加工、冷藏及冷凍)<br>3.\t蔬果加工<br>4.\t穀類加工<br>5.\t水產加工<br>6.\t畜產及乳品加工<br>7.\t發酵食品加工<br>8.\t休閒食品加工<br>9.\t新興加工技術<br>",
+        "en": "1.\tFood constituents and deterioration<br>2.\tMethod for food preservation(concentration, dehydration, thermal processing, refrigeration and freezing)<br>3.\tVegetable and fruit processing <br>4.\tGrain and cereal processing<br>5.\tSeafood processing<br>6.\tAnimal and diary food processing <br>7.\tFermented food processing<br>8.\tProcessing of leisure food <br>9.\tNovel food processing<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "食品原料的化學組成及食品的劣變",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "食品保藏方法(濃縮、乾燥、熱加工、冷藏及冷凍)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "蔬果加工",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "穀類加工",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "水產加工",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "畜產及乳品加工",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "發酵食品加工",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "休閒食品加工",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "新興加工技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,144 @@
+{
+    "code": "20D10001",
+    "name": {
+        "zh": "電路學(一)",
+        "en": "Electric Circuits (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技控晶二甲"
+    ],
+    "instructors": [
+        "趙春棠"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "K508"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "K508"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "K508"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.電機技師",
+        "2.高普考"
+    ],
+    "description": "電路能傳遞訊號與能量，為電子、通訊、電腦與控制系統的基礎。電路學主要是研究電路的基本理論與分析方法，其主要內容有:<br>1. 電阻電路理論<br>2. 時域分析方法<br>3. 交流穩態電路理論<br>4. 複數頻率與網路函數<br>5. 頻域分析方法<br>",
+    "prerequisites": "物理(電學)、微分方程",
+    "syllabus": {
+        "zh": "1.電路的變數<br>2.電路元件<br>3.簡單的電阻性電路<br>4.電路分析技巧<br>5.運算放大器<br>6.電感電容及互感<br>7.一階RL與RC電路的響應<br>",
+        "en": "1.Circuit Variables<br>2.Circuit Element<br>3.Simple Resistive Circuits<br>4.Techniques of Circuit Analysis<br>5.The Operational Amplifier<br>6.Inductance, Capacitance, and Mutual Inductance<br>7.Response of First-Order RL and RC Circuits"
+    },
+    "weeklySchedule": "Week 1-2:<br>Chapter 1 Basic Concepts <br><br>Week 3-4:<br>Chapter 2 Basic Laws<br><br>Week 5-6:<br>Chapter 3 Methods of Analysis<br><br>Week 7-8:<br>Chapter 4 Circuit Theorems<br><br>Week 9: Mid-Term Exam<br><br>Week 10-11:<br>Chapter 5 Operational Amplifiers<br><br>Week 12-13:<br>Chapter 6 Capacitors and Inductors<br><br>Week 14-15:<br>Chapter 7 First-Order Circuits <br><br>Week 16-17:<br>Chapter 8 Second-Order Circuits<br><br>Week 18: Final Exam<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解電源及電阻器中的電壓及電流的數學關係是屬於代數關係",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解如何將複雜電路加以簡化為比較簡單的等效電路",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解分析電路的方法及電源的轉換方式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解分析運算放大器的增益及頻率響應",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解電感及電容的特性，如何利用克希荷夫定律描述及與其他基本元件連接的情況",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解RC、RL電路，並如何分析其電路的自然響應及階波響應",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "電路學 (上冊)",
+        "author": "James W. Nilsson and Susan A. Riedel 原著，朱堃誠等譯",
+        "publisher": "滄海",
+        "year": "2022",
+        "ISBN": "978-986-7696-26-7",
+        "edition": "11"
+    },
+    "referenceBooks": "電路學 上 7/e Alexander;<br>作者：林義楠、古頤榛 譯；陳在泩 審閱；Charles K. Alexander;<br>ISBN：9789863414636;<br>版次：7;<br>年份：2021;<br>出版商：東華書局",
+    "teachingSoftware": "",
+    "rules": "修課一定要有教科書。若有經濟問題，可購買二手書，或向老師說明。"
+}

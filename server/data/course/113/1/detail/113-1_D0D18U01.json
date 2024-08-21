@@ -1,0 +1,118 @@
+{
+    "code": "D0D18U01",
+    "name": {
+        "zh": "物流成本分析與績效評估",
+        "en": "Logistic cost analysis and performance appraisal"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技行流四甲",
+        "四技行流四乙"
+    ],
+    "instructors": [
+        "李治綱"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "T0209"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0209"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0209"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著經濟全球化和科技化，物流產業已成為現代製造業與服務業的支柱，是經濟成長的焦點之一。本課程探討物流系統之績效，從顧客服務到存貨規劃、運輸、倉儲管理等各部分，做完整的剖析，包括物流成本及價值的衡量指標，探討企業物流系統效率之提升。",
+    "prerequisites": "管理學，物流管理",
+    "syllabus": {
+        "zh": "1.緒論<br>績效管理概論<br>物流系統概論<br>2.成本分析與控制<br>物流成本概論<br>物流成本管理方法-標準成本法<br>物流成本管理方法-目標成本法<br>綜合討論<br>3.績效評估<br>績效評估概論<br>關鍵績效指標<br>平衡計分卡<br>綜合討論<br>",
+        "en": "1.Introduction<br>\tPerformance management<br>\tLogistics management<br>2.Cost analysis<br>\tCost management<br>\tStandard costing<br>\tTarget costing <br>\tDiscussion<br>3.Performance appraisal<br>\tPerformance appraisal<br>\tKey performance indicator method<br>\tBalanced score card method<br>\tDiscussion<br>"
+    },
+    "weeklySchedule": "討論大綱<br>1. 商業交易模式<br>2. 物流成本分析<br>3. 作業基礎成本分析-ABC<br>4. 投資成本分析<br>4. 績效管理-品質管理<br>5. ISO 9001, 平衡計分卡等<br>6. 綜合討論<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "績效管理等基礎商管知識之學習",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "物流系統等供應鏈管理知識之學習",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "物流成本與績效之衡量與分析",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "表達與溝通之練習",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "講義-參考文獻-期刊論文",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1. 物流運籌管理，作者：中華民國物流協會，版次：第四版三刷，出版社：前程文化(2020)。<br>2. 吳宗璠•李書行-物流成本分析與管理-1997-經濟部商業司<br>3. ISO 9000系列<br>4. 服務業管理個案分析, 作者: 伍忠賢, 全華圖書股份有限公司。<br>5. 零售業個案分析, 作者: 張保隆/伍忠賢, 全華圖書股份有限公司。<br>6. 行銷個案分析, 作者: 于卓民譯, 智勝文化。<br>7. 生產管理-實務個案分析, 作者: 張保隆/伍忠賢, 五南圖書。",
+    "teachingSoftware": "",
+    "rules": "課程規範包括: 上課參與課堂分組討論,作業與期末報告按時完成與繳交,參加期中筆試考試等."
+}

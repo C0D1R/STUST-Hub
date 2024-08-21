@@ -1,0 +1,115 @@
+{
+    "code": "1LD04T02",
+    "name": {
+        "zh": "賞藝與創藝",
+        "en": "Art appreciation and creativity"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "葉瓊霞"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "M201"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "M201"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "M201"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "藝術‧對話的教學目標在於使受教者獲得美感經驗，由美的欣賞力、感受力，逐步鼓勵、引導，進而誘發出學生的自信心、創造力。通識教育負有「喚醒」心靈的可能性，某些柔軟、同理的心靈特質若能被喚醒，同學感同身受、自我提升的情緒商數應有所提高，達到本課程要求的「將生命感動化為創作」的目標，更進一步能達到「以藝術與人/社會對話」。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、期中考前：藝術專題授課<br>1.美學概論<br>2.台灣山海文學<br>3.舞蹈：與世界共舞<br>4.繪畫與雕塑<br>5.第六感官藝術<br>6.戲劇理論概述<br>二、期中考後：微電影執行的技術面<br>1.微電影實作1：讀劇練習<br>2.微電影實作2：編劇練習<br>3.微電影實作3：攝影與剪輯<br>4.微電影實作4：聲音藝術<br>5.舞台劇觀摩<br>6.音樂劇觀摩<br>7.電影觀摩<br>8.各組微電影首映會<br>",
+        "en": "The goal of general education is to wake up the souls of human beings. Aesthetic experiences and sensibilities are necessary to young students. Throuth artistic appreciation in classes and the efforts to make movie together,the students must discuss and cooperatet to creact a movie by themselves. Thus induce  self-confidences and creativities. The final goal of this course “artistic appreciation and creation” can further achieve “the dialogue between art and people/society”."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "運用藝術美學的知識，瞭解人與空間的相對關係，啟發廣泛學習的興趣，擴展人文視野。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "專注欣賞聆聽他人作品，亦能完整表達自身創作理念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "參與團體與人融洽地互助合作，為彼此達成既定目標而努力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立生活美學的概念，開發藝術美學的潛能，提高對生活中種種事物美感之領受力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

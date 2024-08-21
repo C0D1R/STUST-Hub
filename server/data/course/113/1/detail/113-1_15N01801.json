@@ -1,0 +1,115 @@
+{
+    "code": "15N01801",
+    "name": {
+        "zh": "汽車電子學",
+        "en": "Automotive Electronics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技車輛三甲"
+    ],
+    "instructors": [
+        "林開政"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "R401"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "R401"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "R401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹基礎電路及其原理，接著介紹二極體、電晶體及其相關的應用電路及電子控制電路，最後 介紹運算放大器及其相關的應用電路，使學生習得電子電路在汽車相關領域的一些相關知識。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.基礎電路簡介<br>2.半導體與二極體<br>3.電晶體與電壓放大電路<br>4. 電子控制電路<br>5.運算放大器及其應用<br>6.汽車相關應用電路<br>",
+        "en": "1. Introduction of elementary electronics.<br>2. Semiconductor and diode.<br>3. Transistor and its amplifier circuits<br>4. Electronic control circuit<br>5. Operational amplifier<br>6. Automotive relative circuits.<br>"
+    },
+    "weeklySchedule": "1-2  原子論、半導體材料<br>3-4  二極體<br>5    二極體應用<br>6-8  電晶體<br>9    期中考週<br>10   放大器<br>11   場效電晶體<br>12   場效電晶體電路<br>13   負回授<br>14   運算放大器<br>15   頻率與相位響應<br>17   積分器和微分器<br>18   期末考週<br>(會依據學習狀況調整教學進度)<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "平時測驗，線上或筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解電路的基本原理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解基本電子元件",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解汽車的簡易電子電路",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解汽車的簡易控制電路",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "電子學（基礎理論）（第十版）",
+        "author": "楊棧雲, 洪國永, 張耀鴻",
+        "publisher": "全華圖書",
+        "year": "2019",
+        "ISBN": "9789865030704",
+        "edition": "10"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "修課同學與預計修課同學務必出席第一週課程，以確實瞭解課程進行方式與注意事項。<br>1.開學第一周即點名，需自備：筆、筆記本。<br>2.上課需有指定用書，教育部規定不得使用非法影印教科書，以免觸犯智慧財產權。<br>3.上課時進行簽到，鐘響15分鐘後未簽到者，視同曠課。禁止代簽。<br>4.課程進行中不可飲食(包含食物、糖果及飲料)，並禁止玩遊戲、手機、睡覺、看課外讀物等與課程無關之活動，對於違反者會進行學期成績的扣分。<br>5.作業繳交請依規定時間，逾期不受理補交。"
+}

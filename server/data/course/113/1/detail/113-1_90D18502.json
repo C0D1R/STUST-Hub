@@ -1,0 +1,143 @@
+{
+    "code": "90D18502",
+    "name": {
+        "zh": "企業概論",
+        "en": "Introduction To Business"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資管一乙"
+    ],
+    "instructors": [
+        "吳盛"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "T0505"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0505"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0505"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹「企業」的內涵、職能活動，以及企業的運作，以期建立同學對企業經營的認識，並培養擔任管理工作的能力。運用個案研討，討論企業經營與競爭力之相關議題，以強化學習者之決策能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一篇 導論<br>第1章 導論<br>第2章 企業環境與全球化<br><br>第二篇 企業的本質<br>第3章 企業所有權與公司治理<br>第4章 創業精神與創業<br>第5章 企業道德與社會責任<br><br>第三篇 企業的管理活動<br>第6章 管理的內涵<br><br>第四篇 企業的職能活動<br>第7章 生產與作業管理<br>第8章 行銷管理<br>第9章 行銷組合<br>第10章 人力資源管理<br>第11章 財務管理<br>第12章 會計與財務分析<br>第13章 資訊科技與網路",
+        "en": "ch1.Introduction<br>ch2.Business Environment &amp; Globalization <br>ch3.Enterprises Ownership &amp; Corporate Goverance<br>ch4.Entrepreneurship<br>ch5.Business Ethics &amp; Social Responsibility<br>ch6.Management<br>ch7.Managing Production and Operations<br>ch8.Marketing Management<br>ch9.Marketing Procedure<br>ch10.Human Resource Management<br>ch11.Financial Management<br>ch12.Understanding Financial Information and Accounting <br>ch13.Information Technology &amp; Internet"
+    },
+    "weeklySchedule": "第1週：課程介紹與導論<br>第2週：企業本質<br>第3週：企業環境與全球化<br>第4週：企業道德與社會責任<br>第5週：企業所有權與公司治理<br>第6週：創業精神與創業<br>第7週：企業的管理活動<br>第8週：企業概論相關電影賞析與討論#1<br>第9週：期中考<br>第10週：生產與作業管理<br>第11週：行銷管理<br>第12週：行銷組合<br>第13週：人力資源管理<br>第14週：財務管理<br>第15週：資訊管理#1<br>第16週：資訊管理#2<br>第17週：企業概論相關電影賞析與討論#2<br>第18週：期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解企業的本質與運作",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "設計培養擔任管理工作的能力",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "建構學習者之決策能力",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "養成團隊合作與簡報能力",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "企業概論",
+        "author": "林建煌",
+        "publisher": "華泰文化",
+        "year": "2022",
+        "ISBN": "9789574399536",
+        "edition": "6"
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "無"
+}

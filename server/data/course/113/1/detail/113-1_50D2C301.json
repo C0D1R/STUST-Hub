@@ -1,0 +1,153 @@
+{
+    "code": "50D2C301",
+    "name": {
+        "zh": "非營利管理與社會企業",
+        "en": "Non-Profit Management and Social Enterprise"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技工管四甲",
+        "四技工管四乙",
+        "四技電商四甲"
+    ],
+    "instructors": [
+        "曾碧卿"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0803"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0803"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "T0803"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹非營利組織的範圍、發展及其成為第三部門的角色，同時探討非營利組織的人力資源管理、資源管理、方案管理、行銷管理及公共關係，使學生對民間社團組織能有完整概念，並就近年推行之社會企業概念融入，探討非營利組織與社會企業之連結與關係，使學生能將習得各種管理方法應用在不同的組織當中。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.非營利管理課程簡介<br>2.服務學習經歷與志工經驗分享<br>3.非營利組織導論<br>4.非營利組織型態與分類<br>5.非營利組織之財務資源管理<br>6.非營利機構研究報告(一) (二)<br>7.非營利組織之行銷管理<br>8.非營利組織之人力資源管理<br>9.非營利機構服務學習報告(一)<br>10.社會企業的定義與起源<br>11.全球社會企業綜觀<br>12.台灣社會企業現況與未來發展趨勢<br>13.社會企業參訪<br>14.社會企業個案報告<br>",
+        "en": "1. Introduction to non-profit management courses<br>2. Service learning experience and volunteer experience sharing<br>3. Introduction to Non-profit Organizations<br>4. Non-profit organization type and classification<br>5. Financial resources management of non-profit organizations<br>6. Research Report on Non-profit Institutions (1) (2)<br>7. Marketing Management of Non-profit Organizations<br>8. Human resources management of non-profit organizations<br>9. Non-profit organization service learning report (1)<br>10. The definition and origin of social enterprises<br>11. Global social enterprise overview<br>12. Status and Future Trends of Taiwanese Social Enterprises<br>13. Social Enterprise Visits<br>14. Social Enterprise Case Report<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生了解非營利管理的基本概念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生有能力將管理方法運用於非營利組織。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "協助非營利組織活動之規畫與執行工作。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成學生具備取之於社會、回饋於社會的公益使命。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "體會及落實融滲式服務學習之精神， 參與非營利組織活動。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解社會企業的定義與意義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "洞悉台灣社會企業的現況與未來發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

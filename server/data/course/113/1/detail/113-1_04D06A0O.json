@@ -1,0 +1,158 @@
+{
+    "code": "04D06A0O",
+    "name": {
+        "zh": "體育生活(一)",
+        "en": "Physical Education(I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技工管一乙"
+    ],
+    "instructors": [
+        "徐翠敏"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": ""
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "四技一年級課程，上下學期共八項進度每三禮拜一進度進行實施教學：<br>A.體適能(徑賽項目)<br>B.籃球<br>C.射箭<br>D.羽球<br>E.體育通識(田賽項目)<br>F.桌球<br>G.排球<br>H.壘球",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "A.體適能(徑賽項目)：培養學生基本體能(心肺功能、肌力肌耐力、柔軟度、爆發力等)及短、中、長跑、接力賽等訓練<br>B.籃球：籃球基本動作及規則，團隊合作觀念養成。<br>C.射箭：射箭運動之基本動作，訓練學生手、眼睛神經之協調性。<br>D.羽球：羽球基本動作及規則。<br>E.體育通識(田賽項目)：跳高、跳遠及投擲鉛球等訓練。<br>F.桌球：桌球基本動作及規則，訓練學生眼、手之協調性及敏捷性。<br>G.排球：排球基本動作及規則，團隊合作觀念養成。<br>H.壘球：壘球基本動作及規則，訓練學生手、腳、眼睛之協調性。",
+        "en": "A. Fitness training :basic physical self-requirement is divided into the following units 1 Cardiopulmonary function 2 Muscle strength, muscle endurance 3 power 4 flexibility.<br>B. Baseball：basic actions and rules<br>C. Archery：basic actions and rules<br>D. Badminton：basic actions and rules<br>E. high jump, long jump, pole vaul and shot-put<br>F. Table tennis：basic actions and rules<br>G. Volleyball：basic actions and rules<br>H. Softball：basic actions and rules<br>"
+    },
+    "weeklySchedule": "體適能：跑走1600公尺/800公尺、立定跳遠、仰臥起坐、坐姿体前彎、BMI<br>籃球：運球、傳球、投籃、三定點運球上籃<br>射箭：裸弓練習<br>羽球：發球、挑球、平飛球、高遠球<br>足球：運球、停球、傳球、足壘球<br>桌球：發球、推擋球<br>排球：發球、低手與高手傳接球<br>壘球：傳接球、跑壘、打擊<br>田徑：鉛球、跳遠、跳高、接力",
+    "exams": {
+        "midterm": "個人實作",
+        "final": "個人實作",
+        "other": "平時練習與筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "健康身體是享受人活和工作勝任基礎",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "因高齡化壽命的增加，學習自我照顧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習專業技能和學習運動技巧",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "為人生目標全力以赴自我學習",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習健全人格，服務社會",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養運動藝術的內涵",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學習情緒管理與人有良好互動",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "紀律在運動競賽中嚴守",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "你運動對了嗎？<br>   甘思元<br>   臉譜出版<br>   2011 <br>速效運動<br>麥克‧莫里斯(Dr.Michael Mosley)、佩塔‧畢(Peta Bee)<br>謝佳真 譯<br>2015<br>三采文化<br>",
+    "teachingSoftware": "",
+    "rules": "1、有特殊疾病請告知<br>2、穿著運動服裝與運動鞋<br>3、課堂中不可吃東西，但可喝水<br>4、上課中有任何不適，要停止休息<br>"
+}

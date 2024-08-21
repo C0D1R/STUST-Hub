@@ -1,0 +1,124 @@
+{
+    "code": "55D00201",
+    "name": {
+        "zh": "電子商務",
+        "en": "Electronic Commerce"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電商一甲"
+    ],
+    "instructors": [
+        "廖顯宗"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0807"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0807"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "T0807"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.企業電子化助理規劃師",
+        ""
+    ],
+    "description": "本課程介紹與電子商務相關之概念並以實際個案進行理論的說明。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.電子商務發展史<br>2.電子商務的概念<br>3.電子商務的策略發展<br>4.電子商務的類型<br>5.行動商務<br>6.企業電子化<br>7.網路行銷<br>",
+        "en": "1.History of e-commerce<br>2.E-commerce concepts<br>3.E-commerce strategy development<br>4.Types of e-commerce<br>5.Mobile commerce<br>6.E-business<br>7.Internet marketing<br>"
+    },
+    "weeklySchedule": "週次\t日期\t課   程   進   度<br>1\t9/12\t課程大綱簡介(分組及座位簽名)<br>2\t9/19\t電子商務的基本概念<br>3\t9/26\t電子商務的策略發展與商務模式<br>4\t10/3\t電子商務開放平台模式：阿里巴巴集團<br>5\t10/10\t國慶日放假<br>6       10/17   電子商務供應鏈效率模式：亞馬遜集團<br>7\t10/24\t網路行銷、數位行銷與社群行銷<br>8\t10/31\t專題討論<br>9\t11/7\t期中考試<br>10\t11/14\t跨境電子商務、全球市場與東南亞市場<br>11\t11/21\t電子商務生態成員與企業組織架構<br>12\t11/28\t課堂報告(開箱文)<br>13\t12/5\t金流與物流<br>14\t12/12\t課堂報告<br>15\t12/19\t電子商務趨勢與七大核心要素<br>16\t12/26\t電子商務創新創業與傳統企業轉型<br>17\t1/2\t電子商務市場分析方法<br>18\t1/9\t期末考試",
+    "exams": {
+        "midterm": "期中考試",
+        "final": "期末考試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解電子商務基本知識與學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "具備結合電子商務知識與實務之能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用電腦知識處理電子商務事務",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠了解電子商務發展及早因應",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "電子商務入門-觀念、模式與跨境實戰",
+        "author": "朱訓麒",
+        "publisher": "前程文化",
+        "year": "2021",
+        "ISBN": "978-986-06796-01",
+        "edition": "2"
+    },
+    "referenceBooks": "電子商務，范錚強、陳純德、王嘉珍，2017，第二版，普林斯頓",
+    "teachingSoftware": "MS PowerPoint 2016",
+    "rules": "1.請遵守秩序，上課中不得任意進出教室或交談。對於不守秩序或任意缺曠者，將由平時成績中扣分。<br>2.請遵守電腦教室規則，嚴禁攜帶食物和飲料進入。<br>3.指定的報告請準時繳交，逾期不收，以零分計。<br>"
+}

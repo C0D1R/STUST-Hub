@@ -1,0 +1,110 @@
+{
+    "code": "X0M09V01",
+    "name": {
+        "zh": "娛樂法專題研討",
+        "en": "Seminar on Entertainment Law"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩研財法一甲"
+    ],
+    "instructors": [
+        "羅承宗"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "S411B"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "S411B"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "近年來資訊、通訊科技的發展、網際網路的普及，使得娛樂產業蓬勃發展為培養學生成為具有全球視野並兼具產業管理的優秀人才，特開設此課程",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.了解國內現行傳播政策與法規、知悉國際組織規範對媒體產製的影響、體察全球化下傳媒產業的市場結構變遷、有效管理媒體文化創意商品之智慧財產。<br>2.了解數位匯流與傳播產業結構關係、體察社會文化發展與傳播產製關聯、熟悉產業匯流對傳媒組織變革影響、掌握傳播市場結構與內容產製的趨勢。<br>3.分析電視節目版式的相關法律問題<br>4.商標仿作之問題研究<br>5.著作權仿作之問題研究<br>6.創意相關產業法律保護<br>",
+        "en": "Understanding the prevailing policy and regulations<br>Understanding the international organizations concerning media industry, market trend, and the IP protection of derived products.<br>Understand the interplay of digital streamlining and communication industry, scrutinizing the hidden socio-cultural development, and the impact of digital streamlining towards traditional media.<br>Analyzing formats and styles of the TV programs and discussing the legal issues involved.<br>Fair use of Trademark<br>Fair use of Copyrighted works<br>Legal protection of innovation industry<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "分析電視節目版式的相關法律問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析商標仿作之問題研究",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析著作權仿作之問題研究",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "解析創意相關產業法律保護",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

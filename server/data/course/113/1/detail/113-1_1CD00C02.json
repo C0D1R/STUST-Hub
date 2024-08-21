@@ -1,0 +1,139 @@
+{
+    "code": "1CD00C02",
+    "name": {
+        "zh": "基礎產品設計(A)",
+        "en": "Basic Product Design"
+    },
+    "credit": "3",
+    "type": "管制必修",
+    "classes": [
+        "四技產設二乙"
+    ],
+    "instructors": [
+        "張家誠"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "P405"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "P405"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "P405"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "面對新世界的挑戰產品設計師對市場的期待、社會的責任與環境的保護之間總是需要有很多的思考與追求。自工業革命以來，產品設計所扮演叫角色已超過兩百年了，本課程將會讓年輕的產品設計師透過對產品開發過程的瞭解，進而開始對產品設計生涯之旅的一個啟蒙課程。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.產品設計過程的講解<br>2.產品、市場與消費者的概述<br>3.消費性產品設計的介紹<br>4.生活產品設計的介紹<br>5.家具設計的介紹<br>6.工藝產品的差異<br>7.使學生熟悉產品設計過程與製作<br>",
+        "en": "1.Product Design Process<br>2.Product, Market and Customer<br>3.Customerize Product Design<br>4.Life product design introduction<br>5.Funitrune Design introduction<br>6.Craft Design differencication<br>7.Understanding of product design process and execution<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能夠從生活中發現問題，並能用設計來解決",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解產品設計的程序與過程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養產品設計所需要的技能和能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "設計提案的口語表達能力訓練",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "團隊合作的模式演練",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠將創意與設計進行完整的融合",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

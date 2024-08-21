@@ -1,0 +1,115 @@
+{
+    "code": "08D03K01",
+    "name": {
+        "zh": "印尼語言與文化(A)",
+        "en": "Indonesian Language and Culture"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "薛碧兒"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "N001"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "N001"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "N001"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程提供簡單的印尼語會話，簡單的印尼語語法，簡單的印尼語造句，讓學生可以簡單的聽、說、讀、寫印尼語，也能認識一些印尼傳統文化，印尼美食， 印尼的觀光經典及奇特色。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程介紹－認識印尼<br>2.瞭解印尼語言基本發音結構<br>3.基本問候、自我介紹<br>4.認識家庭成員稱呼<br>5.禮貌用語、社交用語<br>6.時間、日期、數字<br>7.印尼美食、傳統服飾與印尼文化<br>8.印尼建築、觀光景點與觀光用語<br>9.印尼宗教、文化<br>9.印尼交通、簡單會話<br>10.印尼教育、簡單會話<br>",
+        "en": "1. Introduction of Course Material, Introduction to Indonesia<br>2. Basic Indonesia Pronunciation<br>3. Greetings and self introduction<br>4. Name of family members<br>5. Simple sentence<br>6. Indonesian cuisine, traditional clothing and culture of Indonesia<br>7. Indonesia architecture, tourism, and language used in traveling<br>8. Indonesia traffic and easy conversation<br>9. How to say how you feel<br>10. Indonesia religion and our culture about religion"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學會基礎的印尼語聽、說能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "當到印尼旅遊時，能應用印尼語做簡單的溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解印尼的傳統文化，並接納包容不同的文化差異",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能建立國際化的視野",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

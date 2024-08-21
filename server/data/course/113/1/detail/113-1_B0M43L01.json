@@ -1,0 +1,115 @@
+{
+    "code": "B0M43L01",
+    "name": {
+        "zh": "休閒運動管理專題討論",
+        "en": "Seminar in Leisure and Sports Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研休閒二甲"
+    ],
+    "instructors": [
+        "柯伶玫"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0610"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0610"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0610"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "近幾年來，隨著台灣休閒運動相關市場的快速蓬勃發展，休閒運動管理之相關議題也因而成為現階段最受關注的重點。本課程之重點除了提供學生應具備的休閒運動管理理論與知識之外，也將培養學生具備休閒運動管理的規劃和執行能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "休閒運動產業與發展<br>休閒運動管理概論<br>休閒運動管理策略分析<br>休閒運動管理功能：規劃、組織、領導、控制<br>休閒運動觀光<br>休閒運動賽會申辦與管理<br>休閒運動人力資源管理<br>休閒運動行銷管理與贊助<br>休閒運動財務管理與風險管理<br>休閒運動設施管理<br>休閒運動政策評估與分析",
+        "en": "Recreational Sport Industry and its Development<br>Introduction to Recreational Sport Management<br>Strategy Analysis in Recreational Sport<br>Functions of Recreational Sport Management<br>Recreational Sport Tourism<br>Recreational Sport Event Management<br>Human Resource Management in Recreational Sport<br>Marketing and Sponsorship in Recreational Sport<br>Finance and Risk Management in Recreational Sport<br>Facility Management in Recreational Sport<br>Recreational Sport Policy Analysis"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解休閒運動管理的基本理論與知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備休閒運動管理的規劃與執行能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進分析休閒運動管理相關問題的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生具備休閒運動管理的規劃和執行能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

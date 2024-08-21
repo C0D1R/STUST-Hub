@@ -1,0 +1,139 @@
+{
+    "code": "J0D31U01",
+    "name": {
+        "zh": "識別系統設計",
+        "en": "Identity System Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技商設二甲"
+    ],
+    "instructors": [
+        "陳炫助"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "W0709"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "W0709"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "W0709"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "識別系統設計乃是企業透過各種行為，企圖將企業的完整訊息傳達給消費者的一種方式。其主要包含理念識別(MI)、活動識別(BI)、視覺識別(VI)等三大領域。藉由此課程幫助學生在識別系統設計相關領域中，建立設計標準與系統規範，並運用符號邏輯，達成預期設計目標。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程具體目標為，教授學生能製作出具「系統化」之企業識別系統設計<br>(1) 企業識別系統導論<br>(2) 企業識別系統構成－理念識別<br>(3) 企業識別系統構成－活動識別<br>(4) 企業識別系統構成－視覺識別<br>(5) 企業識別系統著名案例<br>(6) 商標設計<br>(7) 標準色設計<br>(8) 專用字體設計<br>(9) 企業識別系統應用設計<br>(10) 企業識別樹<br>(11) 企業識別手冊<br>",
+        "en": "The specific goal of this course is to teach students to create a \"systematic\" corporate identity system design. <br>(1) Introduction to Identity System Design<br>(2) Identity System Design’s composition - Mind Identity<br>(3) Identity System Design’s composition - Behavior Identity <br>(4) Identity System Design’s composition - Visual Identity<br>(5) Famous cases of Identity System Design<br>(6) Trademark design<br>(7) Standard color design<br>(8) Dedicated font design<br>(9) Application Design of Identity System Design<br>(10) Corporate Identity System Design Tree<br>(11) Identity System Design book<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過範例欣賞增加視野廣度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "進行範例討論練習溝通技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "延伸範例概念進行模擬創作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "識別美學的養成",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "集結創作結果編輯成冊",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "範例調研知識相當程度仰賴外文網站與書籍，需同時培養適度的外文閱讀能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

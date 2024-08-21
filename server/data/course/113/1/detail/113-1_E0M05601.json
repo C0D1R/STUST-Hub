@@ -1,0 +1,115 @@
+{
+    "code": "E0M05601",
+    "name": {
+        "zh": "中日對照語學研究",
+        "en": "Chinese And Japanese　contrastive linguistics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研應日二甲"
+    ],
+    "instructors": [
+        "陳連浚"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "N507-1"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "N507-1"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "N507-1"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本講義では，日本語と中国語という両言語を対照言語学的立場から考察する。対象言語学の基礎的文献を資料として，日中両国で行われた対照研究の中で視点をおく考える。広く言語の対照研究の在り方についても考えてみることを目的とする。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "以日中比較言語學的論文，來理解研究日語的個別主題。<br>透過課堂討論及研究發表來掌握日語研究方法。教科書為大河内康憲編『日本語と中国語の対照研究論文集』（くろしお出版1998）<br>第一週　ガイダンス。発表の順番決め。<br>第二週　準備<br>第三週　準備<br>第四週　発表<br>第五週　発表<br>第六週　発表<br>第七週　発表<br>第八週　発表<br>第九週　発表<br>第十週  発表<br>第十一週 発表<br>第十二週 発表<br>第十三週　発表<br>第十四週　発表　<br>第十五週　発表<br>第十六週 　発表<br>第十七週　発表<br>第十八週　発表<br>",
+        "en": "第一週　ガイダンス。発表の順番決め。<br>第二週　準備<br>第三週　準備<br>第四週　発表<br>第五週　発表<br>第六週　発表<br>第七週　発表<br>第八週　発表<br>第九週　発表<br>第十週  発表<br>第十一週 発表<br>第十二週 発表<br>第十三週　発表<br>第十四週　発表　<br>第十五週　発表<br>第十六週 　発表<br>第十七週　発表<br>第十八週　発表<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "以日中比較言語學的論文，來理解研究日語的個別主題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過課堂討論及研究發表來掌握日語研究方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過每週的發表來增進對於日語的探討分析能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過每週的發表來增進對於日語的探討分析能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

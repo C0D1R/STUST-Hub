@@ -1,0 +1,110 @@
+{
+    "code": "60D33S02",
+    "name": {
+        "zh": "計算機與程式設計概論",
+        "en": "Introduction to Computers and Programming"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技國企一乙"
+    ],
+    "instructors": [
+        "陳淑玲"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "S502"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "S502"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在使學生了解資訊安全相關議題，且能使用HTML建置網頁，利用雲端環境撰寫程式以了解程式設計的脈絡及邏輯架構，並能夠使用大數據分析。<br>This course aims to enable students to understand issues related to information security, and be able to use HTML to build web pages, use a cloud environment to write programs to understand the context and logical structure of programming, and be able to use big data analysis.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.數位資安介紹<br>2.HTML語言介紹與簡易實作<br>3.雲端環境程式撰寫簡介<br>4.大數據分析簡介",
+        "en": "1.Introduction to Digital Information Security<br>2.Introduction and Implementation of HTML<br>3.Introduction to Cloud Environment Programming<br>4.Introduction to Big Data Analysis"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解資訊安全基礎知識，認識社交工程和勒索病毒，知道個人電腦和行動裝置的資安保護。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以HTML實作簡易的網頁。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能在雲端環境下撰寫程式，以了解程式設計的脈絡及邏輯架構。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解常見的大數據工具有哪些，和知道如何使用大數據分析。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

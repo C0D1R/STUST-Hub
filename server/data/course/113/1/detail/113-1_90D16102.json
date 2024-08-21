@@ -1,0 +1,120 @@
+{
+    "code": "90D16102",
+    "name": {
+        "zh": "CCNA認證課程(一)(B)",
+        "en": "CCNA Router and Routing Basics (I)"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資管四甲",
+        "四技資管四乙",
+        "四技資管四丙"
+    ],
+    "instructors": [
+        "黃惠苓"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "T0708"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0708"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0708"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.CCNA",
+        ""
+    ],
+    "description": "介紹Cisco CCENT及CCNA認證考試的基礎課程內容，包括互連網路模型的介紹，IP子網路切割，Cisco互連網路作業系統及IP遶送",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 網路互連模型<br>2. TCP/IP協定簡介<br>3. IP子網路切割<br>4. 變動長度之子網遮罩<br>5. 互連網路作業系統<br>6. 路由器的基本操作<br>7. IP遶送",
+        "en": "1. Principal of Internetworking<br>2. TCP/IP Protocols<br>3. IP Subnetting<br>4. Variable Length Subnet Mask<br>5. Internetwork Operating System (IOS)<br>6. Configuring Cisco Routers<br>7. IP routing"
+    },
+    "weeklySchedule": "第一週至第二週      網路互連模型<br>第三週             TCP/IP協定簡介<br>第四週至第五週      IP子網路切割<br>第六週至第七週      變動長度之子網遮罩<br>第八週至第九週      期中考<br>第十週至第十一週    互連網路作業系統<br>第十二週至第十四週   路由器的基本操作<br>第十五週至第十六週   IP遶送 <br>第十七週至第十八週   期末考",
+    "exams": {
+        "midterm": "上機考",
+        "final": "上機考",
+        "other": "上機練習"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解網路的基礎概念與理論",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能應用指令正確操作網路設備",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能正確解讀網路技術的英文專有名詞",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用所學知識規劃網路並解決問題",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

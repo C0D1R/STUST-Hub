@@ -1,0 +1,115 @@
+{
+    "code": "70M18I01",
+    "name": {
+        "zh": "金融創新服務",
+        "en": "Innovative financial services"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研企管一甲"
+    ],
+    "instructors": [
+        "簡南山"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S307"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "S307"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "S307"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "科技發展已普遍運用於傳統金融服務業，金融市場的消費行為產生了許多的變化，也創造了許多新的金融服務模式，本課程以傳統金融服務業強調的道德規範為根、金融科技實務與發展趨勢為樹幹，探討各種金融服務業的創新服務模式與相關議題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 金融服務業產業概況與金融市場消費行為<br>2. 金融服務業相關法令規定、企業責任與從業人員道德規範<br>3. 金融科技實務與發展趨勢（支付工具、網路與行動銀行、直銷銀行、互聯網金融、物聯網金融）<br>4. 金融服務業的創新服務模式<br>",
+        "en": "1. Financial Services Industry Overview and Financial Consumption Behavior<br>2. Financial Services Industry Decree, Corporate Responsibility and Practitioner Ethics<br>3. Financial Technology Practice and Development Trends（Payment Tools, Internet &amp; Mobile Banking, Direct Banking, Internet Finance, Internet of Things Finance)<br>4. Financial Services' Innovative Service Model<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解金融服務業概況與相關法令規範",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉金融市場消費行為與金融服務產業發展趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉金融科技實務與發展趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能從廣泛的金融消費行為與社會經濟發展面向，探討創新的金融服務模式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

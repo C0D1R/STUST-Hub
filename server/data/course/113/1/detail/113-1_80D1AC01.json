@@ -1,0 +1,123 @@
+{
+    "code": "80D1AC01",
+    "name": {
+        "zh": "金融證照輔導",
+        "en": "Guidance of Financial Professional Certificates"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技財金三甲",
+        "四技財金三乙"
+    ],
+    "instructors": [
+        "林容萱"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "S516"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "S516"
+        },
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "S516"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在建立同學財金專業能力，藉由複習各課程所學習之專業知識，協助同學考取金融從業證照。藉由教授與複習各證照共通所需之專業知識，提升證照通過之比率。",
+    "prerequisites": "須具備會計學、投資學、財務報表分析等相關課程之知識。",
+    "syllabus": {
+        "zh": "1.\t財報分析<br>2.\t財務管理<br>3.\t理財工具<br>4.\t理財規劃<br>5.\t金融機構業務與查核<br>6.\t財金相關法令與規章<br>",
+        "en": "1.\tFinancial statement analysis<br>2.\tFinancial management<br>3.\tInvestment and financial management tools<br>4.\tFinancial planning<br>5.\tThe financial institution business and check<br>6.\tRelevant laws and regulations in finance<br>"
+    },
+    "weeklySchedule": "PART 1理財工具<br>1.金融機構功能及相關規範2.經濟觀念與經濟指標3.短期投資及信用工具4.債券投資5.股票投資<br>6.共同基金7.期貨與選擇權8.各類保險9.信託觀念10.組合式商品<br>PART 2　理財規劃實務<br>1.理財規劃概論及步驟2.家庭財務報表與理財公式3.預算編製與現金流管理4.客戶家庭型態與風險忍受<br>5.貨幣的時間價值6.子女教育養育規劃7.居住規劃8.退休規劃9.投資規劃10稅務規劃11.全方位理財規劃<br><br>本證照以理財規劃人員為基本知能<br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "加強財務管理相關知識與能力",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "加強金融投資相關知識與能力",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "考取就業所需之專業證照",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "加強財金所需法律知識與能力",
+            "teachingMethods": [
+                "課堂講授",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.可樂。2023理財規劃人員專業能力測驗一次過關：精選歷屆試題及解析（金融證照）千華，ISBN：9786263372597<br>2.楊昊軒。2022理財規劃人員專業證照10日速成，千華數位文化，ISBN:9786263371743<br>3.理財規劃人員專業能力測驗，JY價值筆記(線上版)",
+    "teachingSoftware": "財務金融數位學習平台:金融證照模考系統",
+    "rules": "修課學生於上課期間須參加本系認可證照測驗一次，應考證明加分85分，考取證明100分<br>舊資料不計入<br>期中考、期末考、出席、證照各佔25%"
+}

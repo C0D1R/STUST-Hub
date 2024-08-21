@@ -1,0 +1,152 @@
+{
+    "code": "65D00901",
+    "name": {
+        "zh": "統計學(一)",
+        "en": "Statistics(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國商二甲"
+    ],
+    "instructors": [
+        "林容璟"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "S510"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "S510"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "S510"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course is Introduction to Statistics for undergraduate students in finance. The objective of this course is to lay a foundation on statistical methods and time series analysis for undergraduate students. After the course, students are expected to be familiar with important concepts and develop basic skills in statistical methods and time series analysis. In particular, the course pays special attention to applications in Economics and Finance and thus methods and examples covered are relevant in Economics and Finance.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第1章 緒論 <br>1.1 何謂統計學<br>1.2 統計學的分類<br>1.3 母體與樣本<br>第2章 資料蒐集與整理<br>2.1 資料蒐集方法<br>2.2 資料的型態<br>2.3 衡量的尺度<br>2.4 次數分配<br>2.5 長條圖與直方圖<br>2.6 圓餅圖<br>2.7 折線圖<br>2.8 莖葉圖<br>2.9 散佈圖<br>2.10 EXCEL範例<br>第3章 資料敘述與表現<br>3.1 集中趨勢量數（平均數與中位數，眾數）<br>3.2 差異量數（全距，四分位差，變異數，標準差，變異係數）<br>3.3 標準化Z值<br>3.4 偏態與峰態<br>3.5 四分位數與百分位數<br>3.6 盒鬚圖<br>3.7 EXCEL範例<br>第4章 機率概論<br>4.1 隨機試驗與樣本空間<br>4.2 機率的性質與基本運算<br>4.3 邊際機率與條件機率<br>4.4 互斥與獨立事件<br>4.5 貝氏定理<br>第5章 間斷性隨機變數<br>5.1 隨機變數<br>5.2 間斷性隨機變數的機率分配<br>5.3 期望值與變異數<br>5.4 二項分配<br>5.5 超幾何分配<br>5.6 波松分配<br>5.7 EXCEL範例<br>第6章 連續性隨機變數<br>6.1 連續性隨機變數的機率分配<br>6.2 常態分配<br>6.3 常態分配逼近二項分配<br>6.4 均勻分配<br>6.5 指數分配<br>6.6 EXCEL範例<br>第7章 抽樣分配<br>7.1 抽樣方法簡介<br>7.2 抽樣分配的概念<br>7.3 樣本均值的抽樣分配<br>7.4 中央極限定理<br>7.5 樣本比例的抽樣分配<br>7.6 樣本變異數的抽樣分配<br>第8章 母體參數估計<br>8.1 估計的概念<br>8.2 點估計的特性<br>8.3 母體均值的區間估計-大樣本<br>8.4 母體均值的區間估計-小樣本<br>8.5 區間估計的意義<br>8.6 母體比例的區間估計<br>8.7 樣本數的選擇<br>8.8 母體變異數的區間估計<br>8.9 EXCEL範例<br>第9章 單母體假設檢定<br>9.1 假設檢定的概念<br>9.2 假設檢定的步驟<br>9.3 母體均值的假設檢定-大樣本<br>9.4 母體均值的假設檢定-小樣本<br>9.5 母體比例的假設檢定<br>9.6 母體變異數的假設檢定<br>9.7 區間估計與假設檢定的關係<br>9.8 EXCEL範例<br>第10章 雙母體的估計與檢定<br>10.1 雙母體均值差異的統計推論-大樣本<br>10.2 雙母體均值差異的統計推論-小樣本<br>10.3 配對母體均值差異的統計推論<br>10.4 雙母體比例差異的統計推論<br>10.5 雙母體變異數比的統計推論<br>10.6 EXCEL範例<br>第11章 變異數分析<br>11.1 變異數分析的概念<br>11.2 實驗設計<br>11.3 單因子變異數分析-完全隨機設計<br>11.4 單因子變異數分析-隨機集區設計（選讀）<br>11.5 二單因子變異數分析與交互作用（選讀）<br>11.6 EXCEL範例<br>第12章 簡單迴歸分析<br>12.1 迴歸分析的概念<br>12.2 簡單線性迴歸模式<br>12.3 參數的點估計<br>12.4 參數的區間估計<br>12.5 變異數分析表<br>12.6 迴歸預測<br>12.7 殘差分析<br>12.8 判定係數與相關分析<br>12.9 EXCEL範例<br>第13章 複迴歸分析<br>13.1 複迴歸模式<br>13.2 參數估計<br>13.3 變異數分析表<br>13.4 參數的假設檢定<br>13.5 複判定係數<br>13.6 虛擬變數迴歸<br>13.7 EXCEL範例<br>第14章 卡方檢定<br>14.1 卡方分配<br>14.2 配適度檢定<br>14.3 獨立性檢定<br>14.4 齊質性檢定<br>14.5 EXCEL範例<br>第15章 無母數統計<br>15.1 無母數統計的概念<br>15.2 符號檢定<br>15.3 Wilcoxon等級符號檢定<br>15.4 Wilcoxon等級和檢定<br>15.5 Mann-Whitney檢定<br>15.6 Kruskal-Wallis檢定<br>15.7 連檢定<br>15.8 等級相關檢定",
+        "en": "As shown by the syllabus, the course consists of 15 lectures. The first half of the course focuses on introducing Mathematical Statistics; two computer workshops allow students to be familiar with important distributions and to practice maximum likelihood estimation using Excel or Matlab. The second half of the course covers stochastic processes and time series data; the frequently used ARMA models will be introduced along with some relevant issues in dealing with time series data. Formation and manipulation of time series data as well as MLE estimation of ARMA model will be practiced in two computer workshops. The final lecture gives a brief review of the course and one hour of which is saved for students to present their coursework."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解資料分析的統計方法與基本學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用Excel統計軟體分析資料並正確解讀報表",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將資料轉換成資訊並用以建立最適決策",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效呈現資料分析結果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能辨識使用正確的統計方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能主動分析國際商務相關資料以建立最適決策",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確的統計方法的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

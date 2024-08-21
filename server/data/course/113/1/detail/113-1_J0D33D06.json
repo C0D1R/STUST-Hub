@@ -1,0 +1,115 @@
+{
+    "code": "J0D33D06",
+    "name": {
+        "zh": "基礎素描(B)",
+        "en": "Base Drawing"
+    },
+    "credit": "3",
+    "type": "管制必修",
+    "classes": [
+        "四技商設一乙"
+    ],
+    "instructors": [
+        "楊美維"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "W0601"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "W0601"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "W0601"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "素描是研究造形美術最根本的訓練方式之一。換言之，就是畫者在平面的物質上，描繪出物體在空間中的位置，藉此掌握物體形象、明暗的基本訓練。商業設計組的重點宜在造形掌握的能力及描繪速度的養成。動畫組的重點宜在人體的結構和場景構圖的描繪能力的培養。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 素描與設計<br>2. 形體的觀察與量測<br>3. 創意發想與描繪表現<br>4. 靜物素描---視點與位置<br>5. 靜物素描---肌理質感的觀察及表現<br>6. 光影明暗的認識與表現<br>7. 石膏幾何形體結構的練習<br>8. 石膏像素描練習<br>9. 作品展示發表<br>",
+        "en": "1. sketch and design <br>2. observation and measurement of the body <br>3. creative thinking and depiction presentation<br>4. still life sketch---viewpoint and position <br>5. still life sketch---observation and presentation of texture <br>6. understanding and presentation of light and shade <br>7. geometric plaster sketch exercises <br>8. plaster sketch exercises <br>9. works display<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解素描的內涵，並培養手繪的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養構圖與造形的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能完成具有創意的素描作品",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能欣賞素描或具有創意的設計作品",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

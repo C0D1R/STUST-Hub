@@ -1,0 +1,118 @@
+{
+    "code": "J0M37F01",
+    "name": {
+        "zh": "互動媒體設計研究",
+        "en": "Interactive media design research"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研產設一甲",
+        "碩研產設二甲",
+        "碩研視傳一甲",
+        "碩研視傳二甲"
+    ],
+    "instructors": [
+        "陳姿汝"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "W0808"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "W0808"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0808"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在研討互動設計、互動媒體、數位科技應用於設計議題之相關研究專題，以文獻研讀、討論以及個案研究作為對其相關知識的獲取方式，藉由課堂討論、書面報告以及設計專題之之研究與實作，獲得更深入而廣泛的體驗，並具備研究、分析、實作之能力，教學以課堂講授、論文研討與發表以及專題實作為主，並以報告、討論與發表以及實作作品或研究報告作為評量方式。其研究方向以數位內容開發為主，考量使用者經驗與可行性，將互動科技(如AR/VR)創新應用於產品、空間與服務設計之中。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、互動多媒體設計概論<br>1. 互動設計文獻導讀<br>2. 國內外互動多媒體作品介紹<br>3. 案例分析與研究<br><br>二、互動多媒體設計研究/實作<br>1. 互動多媒體研究提案與企劃<br>2. 多媒體程式互動實作<br>3. 互動情境模擬與演練",
+        "en": "1.The introduction of interactive media design<br> (1)The methdology of interactive media design<br> (2)Introduction of interactive multimedia works abroad<br> (3)Case studies of interactive multimedia works<br><br>2.Interactive multimedia design research and practice<br> (1)The proposal of interactive multimedia research<br> (2)The implementation of interactive multimedia research<br> (3)Simulation and presentation the resluts of interactive multimedia research<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "整合數位內容研發與互動裝置應用之專業知能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養應用互動科技與新知之研發能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養數位內容企畫設計、說故事表達及製作展示之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養數位媒體工具和互動形式之創新整合思考能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,116 @@
+{
+    "code": "D0D12701",
+    "name": {
+        "zh": "國際物流",
+        "en": "International Logistics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技行流二甲",
+        "四技行流二乙"
+    ],
+    "instructors": [
+        "邱明琦"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "W0405"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0405"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0405"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "國際物流管理係左右企業全球化發展成敗的重要課題,不論物料零件之採購或產品的生產,其含括的地理範圍更廣且超越國界, 因此在管理上之整合更加重要。本課程除了基本之國際物流概念介紹外,並將含括國際貿易採購、全球供應鏈管理、國際運輸管理及進出口商品海關管制等課題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.國際物流與世界經貿之發展<br>2.國際企業全球供應鏈配銷模式<br>3.國際貿易作業流程與貿易條件<br>4.國際海運運輸相關產業<br>5.國際海運運送工具及港埠營運<br>6.貨櫃運輸作業流程及海關管制<br>7.航空貨運相關產業<br>8.航權與貨運運輸工具/全球航空站營運現況<br>9.國際航空貨運作業流程<br>10.國際物流中心與自由貿易港區發展現況<br>",
+        "en": "1.Global Logistics and International Trade<br>2.SCM Distribution Pattern of International Companies<br>3.Trade Terms And International Commerce Process<br>4.Marine Transportation and Shipping Industry<br>5.Harbors Operation and Vessels for Marine Transportation<br>6.Import/Export Process and Customs Control<br>7.Air Cargo Transportation Industry<br>8.Freedom Of The Air And International Airports Operation<br>9.International Air Cargo Management Process<br>10.The Development of Free Trade Zone and International Distribution Center"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "對實務上國際物流管理之內容與範疇具備基礎概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使同學瞭解全球化企業之發展與供應鍊管理之關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使同學進一步瞭解國際流通之運作，以利其將行銷流通之知識發揮在相關行業之中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過國際貿易物流與海關實務之介紹，增進同學考取相關專業證照之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,106 @@
+{
+    "code": "03D13E01",
+    "name": {
+        "zh": "情緒與壓力管理",
+        "en": "Emotion and Stress Management"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "教育學程－中",
+        "教育學程－小"
+    ],
+    "instructors": [
+        "陳素連"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "N504"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "目前社會和教育亟需情緒相關知識與因應技巧，以面對情緒管理失當日益嚴重的問題。本課程主要目的是探討情緒管理的概念與功能、學習調適自我情緒，並反應合理的行為，及學習如何有效處理情緒與調適壓力，以正面態度應對情緒管理問題。<br><br>【專業素養指標】<br>2 了解並尊重學習者的發展與學習需求<br>2-1 了解並尊重學生身心發展、社經及文化背景的差異，以作為教學與輔導的依據。<br>2-3 了解特殊需求學生的特質與鑑定歷程，以提供適切的教育與支持。<br>3 規劃適切的課程、教學及多元評量<br>3-4 掌握社會變遷趨勢與議題，以融入課程與教學。<br>5 認同並實踐教師專業倫理<br>5-3 透過教育實踐與省思，以發展溝通、團隊合作、問題解決及持續專業成長的意願與能力。<br><br>【課程核心內容】<br>2了解並尊重學習者的發展與學習需求<br>(4)學習策略<br>(5)身心、社經與文化等背景差異及其與學習、發展的關係<br>4建立正向學習環境並適性輔導<br>(2)輔導技巧與正向管教<br>(6)學生自律與自治<br>(7)親師生關係<br>5認同並實踐教師專業倫理<br>(5)教師自我反思、溝通互動與解決問題<br>(6)教師專業社群與終身學習<br><br>【融入議題】<br>十二年國教19項議題融入<br>生命教育<br>多元文化教育<br>媒體素養教育<br>藥物教育<br>媒體識讀<br><br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.情緒教育的重要性<br>2.情緒與壓力的特性和生理基礎<br>3.情緒覺察、傾聽與表達<br>4.壓力與情緒間之因應<br>5.情緒調節與壓力管理<br>6.情緒調節與壓力管理練習<br>",
+        "en": "1. The importance of emotional education.<br>2. Characteristics and physiological basis of emotions and stress.<br>3. The awareness, listening and expression of emotions.<br>4. The interaction between stress and emotions.<br>5. Emotion regulation and stress management.<br>6. Exercises for Emotion regulation and stress management.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解情緒與壓力間的相互作用，以及其與身心健康間的關係。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識情緒與壓力間之關係以增進正向健康行為。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養正向思維能力以應對壓力引起的不適的想法與行為。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能透過實際活動體驗，學習找到情緒與壓力管理方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

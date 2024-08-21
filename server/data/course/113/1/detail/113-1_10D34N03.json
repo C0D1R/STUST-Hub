@@ -1,0 +1,138 @@
+{
+    "code": "10D34N03",
+    "name": {
+        "zh": "機電整合實務",
+        "en": "Mechatronic Integration  Practices"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技製造二甲",
+        "四機械國專二甲"
+    ],
+    "instructors": [
+        "施銘賢"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "K301-2"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "K301-2"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "K301-2"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        ""
+    ],
+    "description": "使學生具備程式書寫讀的能力以能應付外界工廠實際控制的所需，歡迎對程式書寫有興趣的同學選讀。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.簡介<br>2.可程式控制器系統架構<br>3.階梯邏輯與程式控制<br>4.步進階梯圖程式設計<br>5.可程式控制器之應用<br>6.設計實習",
+        "en": "1. Introduction<br>2. Programmable controller system architecture<br>3. Ladder logic and program control<br>4. Step ladder diagram programming<br>5. Application of programmable controller<br>6. Design internship"
+    },
+    "weeklySchedule": "本課程主要是讓學生了解如何由微電子來控制機 械裝置運轉的技術,並由簡易實務操作將輸入的感測器訊號與輸出驅動器間的邏輯關係，將之轉化為PLC的控制語言。<br>課程進度可分為:<br>第一章 機電整合_PLC簡介<br>第二章 PLC程式撰寫概念<br>第三章 PLC程式撰寫-GX-Works<br>第四章 計時器_計數器<br>第五章 順序控制程式撰寫_狀態繼電器<br>第六章 直流馬達正反轉案例<br>第七章 AC馬達順序控制講解<br>",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "書面報告",
+        "other": "課程討論"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生具有可程式控制器程式書寫與配線(自保、氣壓缸、電磁閥)須具有的基本知識",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能具備可程式控制器程式設計與應用基本技術",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能具備可程式控制器程式設計從業人員之專業態度",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解可程式控制器的使用安全及其應用領域",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解可程式控制器專用之英文術語",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "GX-Works",
+    "rules": ""
+}

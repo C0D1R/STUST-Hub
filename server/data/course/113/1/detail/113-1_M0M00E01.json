@@ -1,0 +1,115 @@
+{
+    "code": "M0M00E01",
+    "name": {
+        "zh": "餐旅產業趨勢分析",
+        "en": "CURRENT ISSUES AND TRENDS IN HOSPITALITY"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研餐旅二甲"
+    ],
+    "instructors": [
+        "蘇家愷"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "T0402"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0402"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course is an examination of contemporary issues and topics that are influencing the travel, tourism, and hospitality industry. Students will collect pertinent articles and information from newspapers, magazines, professional journals, and news programs, and will utilize the internet to find relevant issues to discuss in class.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、討論影響餐旅業的問題。<br>2、解釋當前的全球事件對於餐旅業的影響。<br>3、研究餐旅業的相關新聞或事件。<br>",
+        "en": "1. Identify issues that impact the hospitality or tourism industries.<br>2. Discuss the pros and cons of current industry-related topics.<br>3. Explain how current global events influence the hospitality or tourism industries.<br>4. Research industry-related news and events.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "討論影響餐旅業的問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "解釋當前的全球事件對於餐旅業的影響",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "研究餐旅業的相關新聞或事件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解餐旅產業現況及趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

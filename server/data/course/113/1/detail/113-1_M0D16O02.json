@@ -1,0 +1,211 @@
+{
+    "code": "M0D16O02",
+    "name": {
+        "zh": "飲料與吧檯管理實務",
+        "en": "Beverage and Bar Management Practice"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技餐旅二乙"
+    ],
+    "instructors": [
+        "黃旭怡"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0602"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "T0602"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "T0602"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程概述 介紹各種飲料之分類、特性、雞尾酒、葡萄酒、香檳、茶、咖啡、果汁之特性及調製方法及吧枱設備，器具之介紹及吧枱銷售、管理控制之方法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.吧枱設備器具介紹--課程介紹、各種酒杯的認識，吧枱設備操作及使用方法。<br>2.飲料之分類--------酒精性，非酒精性飲料介紹。<br>3.咖啡之特性分類----咖啡歷史，咖啡分類、特性。<br>4.咖啡調製----------拿鐵咖啡，卡布奇諾，濃縮咖啡，摩卡咖啡之製作。<br>5.創意咖啡調製------各式創意咖啡製作。<br>6.葡萄酒類、香檳類--各國葡萄酒介紹、釀造過程。<br>7.茶、果汁類--------茶之分類、特性，各式茶類，水果茶、香草茶、果汁之特性及製作<br>8.酒的分類----------釀造酒，蒸餾酒，合成酒之介紹。<br>9.雞尾酒概述--------各種基酒之原料、製作方法、種類、用途。<br>10.雞尾酒概述-------雞尾酒調製規則，各種調製方法介紹，雞尾酒之裝飾技巧。<br>11.各種雞尾酒調製 各種雞尾酒之調製<br>12.創意雞尾酒調製",
+        "en": "1. Introduction to Bar Equipment.<br>2. Introduction to Beverage：Non-alcohol, with alcohol drinks<br>3. Introduction to Coffee I<br>4. Introduction to Coffee II<br>5. Introduction to Coffee III<br>6. Introduction to Wine &amp; Champagne<br>7. Variety Tea and Juice I<br>8. Variety Tea and Juice II<br>9. Variety Tea and Juice III<br>10. Introduction to liquor<br>11. Variety Cocktails I<br>12. Variety Cocktails II"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能熟練吧枱器具，設備之操作方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解各種飲料之分類與特性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備調製各種酒精性與非酒精性飲料之技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備飲料設計、飲料銷售與服務、保存飲料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備飲料設計、飲料銷售與服務、保存飲料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備飲料設計、飲料銷售與服務、保存飲料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備飲料設計、飲料銷售與服務、保存飲料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備飲料設計、飲料銷售與服務、保存飲料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備飲料設計、飲料銷售與服務、保存飲料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備飲料設計、飲料銷售與服務、保存飲料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備飲料設計、飲料銷售與服務、保存飲料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備飲料成本分析與控制能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

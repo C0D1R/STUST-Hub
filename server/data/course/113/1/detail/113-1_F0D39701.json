@@ -1,0 +1,122 @@
+{
+    "code": "F0D39701",
+    "name": {
+        "zh": "專業英文",
+        "en": "News English"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技資傳三甲"
+    ],
+    "instructors": [
+        "彭志平"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "W0508"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "W0508"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程的目的，在於提供閱讀新聞英語的練習機會，藉著閱讀報紙、雜誌的新聞報導、評論、專欄、社論等，了解新聞字彙、文體，訓練閱讀 新聞技巧、分析新聞的寫作特色，進而培養閱讀英語新聞的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.新聞標題與報導方式/處理原則(Content)<br>2.國際新聞篇<br>3.政治新聞篇<br>4.財經新聞篇<br>5.教育新聞篇<br>6.休閒娛樂新聞篇<br>7.體育新聞篇<br>8.健康與醫學新聞篇<br>",
+        "en": "1.News headline and writing method<br>2.International News<br>3.Political news articles<br>4.Financial News<br>5.Education News<br>6.Leisure and entertainment news articles<br>7.Sports News<br>8.Health and Medical News<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立語言學習習慣與興趣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立基本新聞英文聽說讀寫能力；理解英文媒體的新聞內容",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立英文新聞寫作與播報能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立英文新聞寫作與播報能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立英文新聞寫作與播報能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

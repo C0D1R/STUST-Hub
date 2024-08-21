@@ -1,0 +1,115 @@
+{
+    "code": "B0N17701",
+    "name": {
+        "zh": "實務專題(一)",
+        "en": "Team Project(I)"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技休閒四甲"
+    ],
+    "instructors": [
+        "洪飛碩"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "T0510"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "T0510"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "T0510"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本門課程預計讓學生以過去所學之專業科目為基礎，針對休閒事業管理之相關議題提出整合看法，培養收集資訊、解決問題、撰寫報告書等能力",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Week1~Week2 討論分組名單<br>Week3~Week14 討論實務專題製作內容及方向<br>Week15~Week18專題成果報告",
+        "en": "Week1~Week2 discussion group list<br>Week3~Week14 Discussion topic production content and direction<br>Week15~Week18 special results report"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解實務專題研究的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能整合專業領域之知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "收集及應用休閒領域資料之能力進而形成計畫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效地操作研究工具",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

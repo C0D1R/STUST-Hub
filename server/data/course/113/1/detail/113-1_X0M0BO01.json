@@ -1,0 +1,110 @@
+{
+    "code": "X0M0BO01",
+    "name": {
+        "zh": "民法-身分法",
+        "en": "Civil Law: Domestic Relation & Succession"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "碩研財法一甲"
+    ],
+    "instructors": [
+        "丁士哲"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "S411B"
+        },
+        {
+            "day": "週五",
+            "period": "第9節",
+            "location": "S411B"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程探討之相關重要內容，親屬編中婚姻一章主要有婚姻效力問題，如夫妻財產制等，另父母子女一章其重要內容包含婚生子女、非婚生子女，以及認領、收養、準正等。至繼承編則有遺產繼承人、遺產之繼承、限定繼承、拋棄繼承等，另再探討關於遺囑、應繼分及特留分。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、婚約、結婚。<br>二、婚姻之效力。<br>三、婚生子女、非婚生子女。<br>四、收養。<br>五、監護。<br>六、扶養。<br>七、遺產繼承人。<br>八、遺產之繼承。<br>九、遺囑。<br>十、應繼分、特留分。",
+        "en": "1. Betrothal &amp; Conclusion of Marriage<br>2. Efficacy of Marriage<br>3. Legitimate Child &amp; Illegitimate Child<br>4. Adoption<br>5. Guardianship<br>6. Maintenance<br>7. Heirs to Property<br>8. Succession<br>9. Wills<br>10. Compulsory Portions"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解親屬概念與親等計算方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解我國繼承法的內涵",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過體系性介紹我國民法的相關規範。課程進行中，除了著重法規範的規定外，並將分析法規範相互關係間的說明",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過案例分析以及法院判決協助學生了解法條在實務中運用之情形",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

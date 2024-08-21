@@ -1,0 +1,117 @@
+{
+    "code": "40D06301",
+    "name": {
+        "zh": "微積分(一)",
+        "en": "Calculus I"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技化材一甲",
+        "四技化材一乙",
+        "四化材國專一甲"
+    ],
+    "instructors": [
+        "傅俊結"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "P303"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "P303"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "P303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "微積分是工程科學裡最重要的基礎課程之一。它在電子、電機、機械、生物等領域中已有非常廣泛的應用，亦是專業科目(如工程數學)的先修課程。本課程是一學年的科目，分上、下學期。上學期內容為基本函數介紹及單變數函數的極限、連續、微分、積分、積分技巧與應用。",
+    "prerequisites": "高中(職)基本數學。",
+    "syllabus": {
+        "zh": "1. 預備知識<br>2. 極限與連續<br>3. 導數<br>4. 導數的應用<br>5. 定積分<br>6. 積分技巧<br>7. 定積分的應用",
+        "en": "1. Prerequisites for Calculus <br>2. Limits and Continuity.<br>3. Derivatives. <br>4. Applications of Derivatives. <br>5. The Definite Integral. <br>6. Techniques of Integration <br>7. Applications of the Definite Integral.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生在學習過程中能與高中職數學課程相銜接，並增強科學專業知識的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓學生能將所學應用到其專業領域，使學生具備分析解讀能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用數學思考邏輯訓練，強化解題及演算的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用科技平台，教導學生結合數學訓練與科學專業知識，應用處理實際問題之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

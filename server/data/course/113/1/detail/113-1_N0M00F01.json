@@ -1,0 +1,116 @@
+{
+    "code": "N0M00F01",
+    "name": {
+        "zh": "統計資料分析方法",
+        "en": "Statistical Data Analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩全球經管二甲"
+    ],
+    "instructors": [
+        "顏慧"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "E0601"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "E0601"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "E0601"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course is the second part of a sequence of statistical data analytic courses: “Multivariate Data Analysis (MDA)”, and “Structural Equation Modeling (SEM)”.  Materials covered in the sequence consist of multivariate statistical methods, and structural equation models. SEM is often referred to as the second generation of MDA. These courses are to help students, primarily from business and social sciences, learn the application of the basics of the SEM.  We will emphasize the concept of every given technique and its use, and will help students learn how to interpret the resulting output obtained from the widely used statistical package SPSS (Statistical Package for Social Sciences) and AMOS (Analysis of moment structures).<br><br>The application of each statistical method in solving managerial problem will be demonstrated by examples. Exercises and assignments are then given for practices; students will be asked to produce computer outputs and interpret analysis results.",
+    "prerequisites": "Elementary Statistical Data Analytic Methods",
+    "syllabus": {
+        "zh": "Section I: Introduction<br>1.\tStructural Equation Models: The Basics<br>2.\tUsing the AMOS Program<br>3.\tAssessing the Fit of the Model: Goodness-of-fit Indices<br><br>Section II: Single-group Analyses<br>4.\tConfirmatory Factor Analysis (CFA)<br>－ First-order CFA model<br>－ Second-order CFA model<br>5.\tFull Latent Variable Model (Full SEM)<br> － Path Analysis (Causal Structure) for Latent Variables<br><br>Section III: Multiple-group Analyses<br>6.\tConfirmatory Factor Analysis (CFA)<br>－ Testing the Invariance of a CFA Model<br>－ Testing the Invariance of Latent Mean Structures<br>7.\tFull Latent Variable Model (Full SEM)<br>－ Testing the Invariance of a Causal Structure<br><br>Section IV: Other Important Topics<br>8.\tNon-normality<br>－ Use of Bootstrapping in Addressing Nonnormal Data<br>9.\tMissing Data<br><br>Section V: Other Important Applications<br>10.\tModeration Analysis (Supplementary)<br>11.\tMediation Analysis (Supplementary)",
+        "en": "Section I: Introduction<br>1.\tStructural Equation Models: The Basics<br>2.\tUsing the AMOS Program<br>3.\tAssessing the Fit of the Model: Goodness-of-fit Indices<br><br>Section II: Single-group Analyses<br>4.\tConfirmatory Factor Analysis (CFA)<br>－ First-order CFA model<br>－ Second-order CFA model<br>5.\tFull Latent Variable Model (Full SEM)<br> － Path Analysis (Causal Structure) for Latent Variables<br><br>Section III: Multiple-group Analyses<br>6.\tConfirmatory Factor Analysis (CFA)<br>－ Testing the Invariance of a CFA Model<br>－ Testing the Invariance of Latent Mean Structures<br>7.\tFull Latent Variable Model (Full SEM)<br>－ Testing the Invariance of a Causal Structure<br><br>Section IV: Other Important Topics<br>8.\tNon-normality<br>－ Use of Bootstrapping in Addressing Nonnormal Data<br>9.\tMissing Data<br><br>Section V: Other Important Applications<br>10.\tModeration Analysis (Supplementary)<br>11.\tMediation Analysis (Supplementary)"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "To be able to understand the basic theory and application of SEM.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to analyze managerial data in practice using SEM correctly and rigorously.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to apply AMOS on SEM and interpret its output properly.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to transfer the data into information and to develop managerial decisions.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

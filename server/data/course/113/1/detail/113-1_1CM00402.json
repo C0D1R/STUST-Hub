@@ -1,0 +1,130 @@
+{
+    "code": "1CM00402",
+    "name": {
+        "zh": "設計思潮",
+        "en": "Design thought"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研產設一甲",
+        "碩研產設二甲",
+        "碩研視傳一甲",
+        "碩研視傳二甲"
+    ],
+    "instructors": [
+        "王文雄"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "X303"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "X303"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "X303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過課堂之講解及研究主題之進行及發表，探討設計思潮發展背後之社會、文化、經濟、族群及產業之間的互動關係，並進而探討設計之角色及未來發展之可能性。<br>Through the lectures and the research and development of the subject, we explore the interaction between society, culture, economy, ethnicity and industry behind the development of design thinking, and then explore the role of design and the possibility of future development",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Ⅰ.手工藝運動與現代產業及設計<br>Ⅱ.全球化與設計<br>Ⅲ.美學與設計<br>Ⅳ.創意與設計<br>Ⅴ.文化與設計<br>Ⅵ.消費與設計<br>",
+        "en": "I. Craftsmanship and modern industry and design<br>II. Globalization and design<br>III. Aesthetics and design<br>IV. Creativity and design<br>V. Culture and design<br>VI. Consumption and design<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解設計相關領域知識，並能綜合思考",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "利用多媒體進行簡報能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用外文收及設計相關知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "進行發表及討論之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分組進行資料收集及整理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

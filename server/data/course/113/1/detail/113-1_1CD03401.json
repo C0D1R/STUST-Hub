@@ -1,0 +1,142 @@
+{
+    "code": "1CD03401",
+    "name": {
+        "zh": "電腦製圖",
+        "en": "Computer Graphic"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技產設一甲"
+    ],
+    "instructors": [
+        "吳啟華"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "P403"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "P403"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "P403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "電腦輔助製圖，主要培養同學，工程圖學與設計之間的觀念。與產業界需求之2D與3D之電腦製圖應用。<br><br>課程中使用Rhino 3D軟體，使同學得以快速的建構立體圖學的認知。幫助學生們在設計的每個階段，幾乎都需要跟客戶、合作廠商或是大眾溝通。 可以更快速表現，彩現、材質、完整補捉視圖以及高解析色澤來展示同學們的作品。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "課程主軸：<br>1. 視圖與製圖<br>2. RHINO軟體解說與應用。<br>3. 簡介與概觀 <br>4. 建立與編輯物件 <br>5. 精確建模<br>6. 編輯幾何物件 <br>7. 編輯控制點<br>8. 3D 建模與編輯<br>9. 建立可塑形的物件<br>10. 實體建模<br>11. 曲面建模 .<br>12. 匯入與匯出<br>13. 列印與圖紙配置<br>14. 彩現",
+        "en": "1. View and drawing<br>2. RHINO software explanation and application.<br>3. Introduction and overview<br>4. Create and edit objects<br>5. Accurate modeling<br>6. Edit geometry objects<br>7. Edit control points<br>8. 3D Modeling and Editing<br>9. Create a shapeable object<br>10. Solid modeling<br>11. Surface modeling.<br>12. Import and export<br>13. Print and drawing configuration<br>14. Rendering"
+    },
+    "weeklySchedule": "1.\t課程介紹、電腦輔助設計概論<br>2.\tRhinoceros簡介：工作環境與操作介面<br>3.\t基礎實體工具、鎖點與布林運算<br>4.\t基礎實體工具練習<br>5.\t基礎曲面工具(1)<br>6.\t曲面工具練習(1)<br>7.\t基礎曲面工具(2)<br>8.\t曲面工具練習(2)<br>9.\t曲面與實體應用<br>10.\t期中考<br>11.\t基礎彩現<br>12.\t進階曲面工具(1)與紀錄建構歷史<br>13.\t進階曲面工具(2)（複雜曲面、曲面分析）<br>14.\t整合應用練習(1)<br>15.\t進階實體工具（複製、縮放、陣列）<br>16.\t整合應用練習(2)<br>17.\t期末考<br>18.\t期末補考<br>",
+    "exams": {
+        "midterm": "實作",
+        "final": "實作",
+        "other": "日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "電腦輔助設計實務",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "應用電腦製圖精準掌控設計",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "熟練手繪立體精確比例訓練",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "製圖邏輯加強訓練腦力激盪",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "專精專業本質強化繪圖溝通能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "比例美感控制有助設計美學提升",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

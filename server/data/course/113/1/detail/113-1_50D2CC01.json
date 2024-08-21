@@ -1,0 +1,128 @@
+{
+    "code": "50D2CC01",
+    "name": {
+        "zh": "製造業成本會計",
+        "en": "Manufacturing Cost Accounting"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技工管二甲",
+        "四技工管二乙"
+    ],
+    "instructors": [
+        "何威德"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0002"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "T0002"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "T0002"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以深入淺出的方式使同學了解製造業成本的概念,進而將成本的理念應用於管理實務。<br>",
+    "prerequisites": "會計學",
+    "syllabus": {
+        "zh": "1.成本會計概論<br>2.成本觀念與成本流程<br>3.成本習性分析<br>4.成本-數量-利潤分析<br>5.分批成本制<br>6.分步成本制<br>7.服務部門成本的分攤<br>8.作業基礎成本制與策略性成本管理<br>",
+        "en": "1. Introduction to cost accounting<br>2. Cost concept and cost process<br>3. Cost characteristics analysis<br>4. Cost-quantity-profit analysis<br>5. Batch cost system<br>6. Step-by-step cost system<br>7. Service department cost allocation<br>8. Activity-based cost system and strategic cost management<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生了解成本分析的流程及當代重要成本會計制度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生了解因應競爭環境之改變所發展之成本管理觀念與應用工具。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生能將成本觀念應用於不同產業之成本管理與控制能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用成本探究之課程特質，養成學生具備對事物之觀察與洞悉能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用成本分析之課程特質，養成學生具備謹慎的學習態度與解決問題之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

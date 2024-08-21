@@ -1,0 +1,111 @@
+{
+    "code": "08D04N04",
+    "name": {
+        "zh": "英語自主學習課程(一)(A)",
+        "en": "English Self-Learning (Ⅰ)"
+    },
+    "credit": "1",
+    "type": "管制選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "黃淑娥"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "1",
+        "practice": "1"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為第一學期的自主學習課程。學生將從本課程習得自主學期英語技能的能力與習慣。<br>This course is designed to help students get ready for bilingual courses. Students will work on developing self-learning skills to English learning.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "自主學習素材:<br>針對聽力單字文法以及閱讀的學習給予每周固定學習的素材，學生須自行上網學習並做學習筆記。<br><br>檢核表:<br>針對每周所習得的字彙或文法句型等內容給予檢核表，以檢視並記錄所習得的知識。並發掘自學時無法理解的問題與內容以待輔導老師解惑。<br><br>測驗:<br>以每周學習內容為基底給予學生簡短的測驗以檢視學習成效。<br><br>輔導與學習歷程追蹤:<br>以flipclass平台資料以及檢核表追蹤學生學習狀況。開課老師會針對學生狀況給予每學期不少於四次的學習輔導與諮詢。並視情況給予必要的協助或輔導資源。",
+        "en": "Self-learning materials:<br>English learning materials regarding grammar, reading, vocabulary, and listening skills will be offered for students to study by schedule.<br><br>Review form:<br>For each week, students are required to complete a form to review their learning process and to discover possible questions when learning on their own.<br><br>Tests:<br>Tests based on each week’s learning material are required for students to examine their performance.<br>Consultation &amp; Tutoring<br><br>Above information will be reviewed by teachers for further consultation and tutoring for students to strengthen their learning. Each student will receive no less than four times a semester."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "以閱讀社會關懷以及人文、藝術、歷史文化背景相關素材學習英語表達溝通技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以自主學習習得的英語技能再進階的雙語課程裡做表達與溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進英語聽講、文法、閱讀、字彙等等的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "利用網路資源以及相關軟體提升自主學習的興趣及英語學習的知識管理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "整合所需學習的素材以及歸納所習得的知識來進行更進階的學習。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,181 @@
+{
+    "code": "01D11509",
+    "name": {
+        "zh": "台灣與世界",
+        "en": "Taiwan in the World"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技電商二甲"
+    ],
+    "instructors": [
+        "梁媛淋"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0002"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0002"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在以外部視野與內部剖析等角度，多元觀察影響到台灣的世界趨勢、潮流、現象及發展等等，包括文化、產業、宗教、人權、藝術、族群與歷史等各個層面的探索，並建立以立足台灣、胸懷天下為基礎的台灣主體意識，期能令學習者對台灣以及台灣所置身其中的全球環境，有更進一步的了解。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "A.共同課綱<br>1.導論：國際視野下的台灣<br>2.台灣族群：原住民、舊移民、新移民、新住民<br>3.從台灣看現代世界的兩個主要趨勢--地球村與全球化<br>4.全球思維：區域整合與世界體系<br>5.世界公民：教育、人權與普世價值<br>B1.分群課綱：工程•設計學群<br>6.輪子與翅膀：台灣工業發展趨勢<br>7.0與1的轉換：資訊產業與數位時代<br>8.創意與行動：在地文化與產業發展<br>B2.分群課綱：商管•人文學群<br>6.國際加工基地：依賴與競合<br>7.東亞經濟模式：從亞洲四小龍到中國崛起<br>8.行銷世界：在地經驗與台灣品牌<br><br><br>",
+        "en": "A. Common <br>1. Introduction: Taiwan in the international perspective<br>2. Taiwan ethnic groups: First Nations, old immigrants, new immigrants, new residents<br>3. From Taiwan, we look at the two main trends of the modern world -- the global village and globalization<br>4. Global thinking: regional integration and the world system<br>5. Citizens of the world: Education, human rights and universal values<br>B1. Group Outline: Engineering and Design Group <br>6. Wheels and Wings: Taiwan's Industrial Development Trends<br>7.0 and 1 Conversion: Information Industry and the Digital Age<br>8. Creativity and action: in the development of local culture and industry<br>B2. Group Curriculum: Business Administration and Humanities Group <br>6. International processing base: dependence and competition<br>7. East Asian Economic Model: From the Four Dragons of Asia to the Rise of China<br>8. Marketing World: Experience in the local and Taiwan brand<br><br>"
+    },
+    "weeklySchedule": "第1週：導論<br>第2週：台灣與江戶日本（一）<br>第3週：台灣與江戶日本（二）<br>第4週：台灣與江戶日本（三）<br>第5週：台灣與琉球（一）<br>第6週：台灣與琉球（二）<br>第7週：台灣與琉球（三）<br>第8週：期中考<br>第9週：羅發號事件（一）<br>第10週：羅發號事件（二）<br>第11週：羅發號事件（三）<br>第12週：牡丹社事件（一）<br>第13週：牡丹社事件（二）<br>第14週：牡丹社事件（三）<br>第15週：天皇與皇民（一）<br>第16週：天皇與皇民（二）<br>第17週：天皇與皇民（三）<br>第18週：期末考<br>※各週課程內容可能因實際上課情況而有所調整、變動。<br>",
+    "exams": {
+        "midterm": "報告",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能深入認識台灣歷史，有效地解決各項問題。(A3)",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "獨創具體的創新思維，解析台灣歷史古今的不同。(E4)",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "統合歷史知識於生活或學習中，拓展歷史視野，適切因應地球村及國際化趨勢。(C3)",
+            "teachingMethods": [
+                "啟發思考",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建立台灣主體意識，展現對本土及國際文化的理解，培育具世界觀及人文素養的公民。(C2)",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解台灣歷史的發展與意義，並於生活中展現反省、理性思辨的能力。(I4)",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "展現負責盡職、秉持敬業精神完成各項任務並服務社會。(H1)",
+            "teachingMethods": [
+                "啟發思考",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "同儕互評",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "關懷台灣的周遭環境，維護台灣與世界的利益共存(J4)",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "必麒麟著，陳逸君譯（1997）《歷險福爾摩沙》前衛出版社<br>李仙得著，黃怡譯（2012）《南臺灣踏查手記》前衛出版社<br>劉還月（2015）《瑯嶠十八社與斯卡羅族》墾丁國家公園管理處 <br>林修澈（2017）《牡丹社事件》原住民族委員會 <br>高良倉吉著・盧萩譯（2018）《琉球的時代：偉大的歷史圖像》聯經出版<br>羽田正著，林詠純譯（2019）《興亡的世界史16東印度公司與亞洲的海洋》八旗文化<br>亞當・克拉洛著，陳信宏譯（2020）《公司與幕府》左岸文化／遠足文化<br>菊池勇夫（1994）《アイヌ民族と日本人》朝日選書 <br>毛利敏彦（1996）《台湾出兵　大日本帝国の開幕劇》中公新書<br>新城俊昭（2001）《高等学校琉球・沖縄史》編集工房東洋計画<br>網野善彦ら編（2002）《王を巡る視線》岩波書店<br>紙屋敦之（2004）《琉球と日本・中国》山川出版社<br>平川新（2008）《日本の歴史12開国への道》小学館 <br>牧原憲夫（2008）《日本の歴史13文明国をめざして》小学館 <br>アンドル・ゴードン（2013）《日本の200年》（上・下）みすず書房 <br>坂田美奈子（2018）《先住民アイヌはどんな歴史を歩んできたか》清水書院<br>※以上為主要參考書籍，其餘參考書目或相關網站可參閱各週的上課教材。",
+    "teachingSoftware": "Microsoft powerpoint\n上課教材可參閱數位教學平台。",
+    "rules": "1. 課堂作業及期末報告皆為分組討論的成果，故缺席不可超過一半以上。<br>2. 每個單元結束後會進行複習小考，請同學養成課後復習的習慣。<br>3. 上課中不可以有聊天、看影片等干擾他人聽講的行為，違者扣分。<br>4. 課堂作業及報告不可抄襲他人著作，違者該項目一律零分計算。<br>"
+}

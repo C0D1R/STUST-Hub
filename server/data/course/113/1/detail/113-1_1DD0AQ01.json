@@ -1,0 +1,129 @@
+{
+    "code": "1DD0AQ01",
+    "name": {
+        "zh": "舞台技術統籌",
+        "en": "Stagecraft Planning"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技流音四甲",
+        "四技流音四乙"
+    ],
+    "instructors": [
+        "廖惇根"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "W1001"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W1001"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W1001"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "先初步了解國內外舞台技術規劃概況，分析舞台規劃製作時期進度，了解製作過程中每階段的基本方法，進而評估每一單元預算製作成本，管理工作夥伴與協力產商的聯繫與進度，最後能學習舞台技術規劃專題製作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一週 課程簡介與學期計畫<br>第二週 舞台技術安全常識Ｉ<br>第三週 國內外舞台技術概況Ｉ<br>第四週 國內外舞台技術概況Ⅱ<br>第五週 主題製作設計期分析Ｉ<br>第六週 主題製作估算期分析Ⅱ<br>第七週 主題製作施工期分析Ⅲ<br>第八週 主題製作裝置期分析Ⅳ(重點整理&amp;佐證筆記)<br>第九週 期中考(筆試)<br>第十週 舞台製作的評估與規劃<br>第十一週 製作會議的召開與管理<br>第十二週 預算控制與廠商協調<br>第十三週 進場機制與退場程序<br>第十四週 技排與彩排工作設定<br>第十五週 演出執行與拆台計畫<br>第十六週 專題製作舞台技術規劃Ｉ<br>第十七週 專題製作舞台技術規劃Ⅱ(重點整理&amp;佐證筆記)<br>第十八週 期末考(期末報告/口頭書面/佐證筆記)",
+        "en": "1.Performance execution point analysis(CUE)<br>2.Execution point list planning<br>3.Execution point practice<br>4.Technical co-ordination"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備舞台硬體系統之規劃知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備技術統籌行程規劃能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備舞台技術統籌提案能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培育舞台製作整合協調能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成舞台製作創意發想之習慣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

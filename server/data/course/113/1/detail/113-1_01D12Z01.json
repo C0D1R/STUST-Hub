@@ -1,0 +1,128 @@
+{
+    "code": "01D12Z01",
+    "name": {
+        "zh": "台灣與世界",
+        "en": "Taiwan and the World"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國商一甲"
+    ],
+    "instructors": [
+        "曾雅真"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "S513"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S513"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "S513"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course is meant to promote students' cross-cultural competence as well as critical thinking skills by introducing them diverse across-cultural topics and having them compare and contrast the customs and cultures of people from Taiwan and the world.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "By reading the text of and discussing in class and online the target topics, such as country images, family system and roles, marriage styles, and work-life balance, students will gain the opportunities to increase their knowledge of language usages related to the topics, compare/contrast Taiwanese culture and other cultures, reflect their own cultures, and deepen/expend their understanding of their own culture as well as other cultures.",
+        "en": "By reading the text of and discussing in class and online the target topics, such as country images, family system and roles, marriage styles, and work-life balance, students will gain the opportunities to increase their knowledge of language usages related to the topics, compare/contrast Taiwanese culture and other cultures, reflect their own cultures, and deepen/expend their understanding of their own culture as well as other cultures."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過閱讀跨文化議題相關文章，學生了解並正確使用議題相關的英語用詞。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過討論跨文化議題，學生了解並能深入探討議題相關的其他知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "有效運用電腦軟硬體，完成課堂作業。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "與組員的討論過程中，能清楚詮釋個人看法並交換意見。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過反思，增進批判思考的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

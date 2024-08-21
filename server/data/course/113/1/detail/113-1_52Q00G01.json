@@ -1,0 +1,131 @@
+{
+    "code": "52Q00G01",
+    "name": {
+        "zh": "高等統計方法",
+        "en": "Advanced Statistics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專工管一甲"
+    ],
+    "instructors": [
+        "陳忠和"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第6節",
+            "location": "T0803"
+        },
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "T0803"
+        },
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "T0803"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹統計方法的基本概念與SPSS統計軟體分析統計資料的操作與解讀。內容包括資料的蒐集與整理，分析解釋等敘述統計及由樣本推論母體的估計檢定，迴歸分析，變異數分析，信效度分析，因素分析等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 統計方法與資料分析的基本概念<br>2. 資料建立與檢核<br>3. 描述統計與圖示<br>4. 類別資料的分析：卡方考驗<br>5. 平均數的差異檢定：t考驗<br>6. 變異數分析：ANOVA<br>7. 多因子變異數分析<br>8. 線性關係的分析：相關與迴歸<br>9. 多元迴歸<br>10. 迴歸的延伸應用：控制、調節、中介與路徑分析<br>11. 量表發展與信效度<br>12. 因素分析<br><br>",
+        "en": "1. Basic concepts<br>2. Data files Creating and checking<br>3. Description statistics and plots<br>4. Categorical data analysis: chi-square test<br>5. Test of means: t test<br>6. Analysis of variance<br>7. Multi-way analysis of variance<br>8. Correlation and regression analysis<br>9. Multiple regression analysis<br>10. Applied regression analysis：control, moderator, mediator and path analysis<br>11. Scale Development, reliability and validity<br>12. Factor analysis<br><br>"
+    },
+    "weeklySchedule": "第1,2週 概論<br>第3,4週 抽樣分配<br>第5.6週 假設檢定與信賴區間<br>第7,8週 卡方檢定<br>第9週 期中考<br>第10,11週 變異數分析<br>第12,13週 迴歸分析<br>第14,15週 時間數列分析<br>第16,17週 無母數統計方法<br>第18週 期末考<br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生了解統計資料分析的方法與學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能應用SPSS統計軟體分析統計資料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能體認的統計方法的嚴謹性及應用性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用統計方法分析資料並正確解讀報表",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "陳順宇 鄭碧娥著, 統計學, 華泰書局, 2004年, 四版",
+    "teachingSoftware": "",
+    "rules": ""
+}

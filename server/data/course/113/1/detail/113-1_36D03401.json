@@ -1,0 +1,116 @@
+{
+    "code": "36D03401",
+    "name": {
+        "zh": "訊號與系統",
+        "en": "Signals and Systems"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電子三甲",
+        "四技電子三乙"
+    ],
+    "instructors": [
+        "林福林"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "I0307"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "I0307"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "I0307"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程教學目標使學生瞭解信號與系統之基本概念及分析方法，並作為控制、通訊、電子電路、濾波器設計及數位信號處理等課程修習之基礎。課程內容包含：(1)標準訊號及訊號表示法(2)連續系統的數學分析(3)離散系統的數學分析(4)傅立葉分析",
+    "prerequisites": "微積分、電路學(I)、工程數學(I)",
+    "syllabus": {
+        "zh": "第1章 基本介紹 <br>第2章 線性非時變系統的時域表示法<br>第3章 訊號的傅立葉轉換與線性非時變系統<br>第4章 傅立葉表示法對混合訊號類型的應用<br>第5章 在通訊系統上的應用",
+        "en": "Chapter 1 Introduction to Signals and Systems<br>Chapter 2 Time-Domain Representations of Linear Time-Invariant Systems<br>Chapter 3 Fourier Representation of Signals and Linear Time-Invariant Systems<br>Chapter 4 Applications of Fourier Representations to Mixed Signal Classes<br>Chapter 5 Application to Communication Systems"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解訊號處理的理論基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使用量測儀器進行時域及頻域的訊號觀察",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "撰寫Matlab程式進行訊號分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使用MCU或嵌入式系統進行整合實驗",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

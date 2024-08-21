@@ -1,0 +1,115 @@
+{
+    "code": "22D14101",
+    "name": {
+        "zh": "影像處理概論",
+        "en": "Introduction to the Digital Image Processing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "五專電機五甲"
+    ],
+    "instructors": [
+        "陳彥廷"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "D202"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "D202"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "D202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要闡述數位影像處理技術之概念、方法及應用。由於數位影像資訊之應用層面越來越廣，相關處理技術也漸趨成熟，本課程除發展情況來進行分析外，也藉由應用領域之需求，探討影像處理技術未來之發展。同時，希望透過基本問題之討論及演練，培養學生未來研究及應用之基礎",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 緒論<br>2. 數位影像基礎<br>3. 空間中的影像增強<br>4. 頻率域的影像增強<br>5. 影像復原<br>6. 彩色影像處理<br>7. 影像壓縮<br>8. 型態學之影像處理<br>9. 影像分割<br>10. 影像表示及描述分析<br>11. 物體辨識  <br><br>",
+        "en": "1. Introduction<br>2. Digital Image Fundamentals<br>3. Image Enhancement in the Spatial Domain<br>4. Image Enhancement in the Frequency Domain<br>5. Image Restoration<br>6. Color Image Processing<br>7. Image Compression<br>8. Morphological Image Processing<br>9. Image Segmentation<br>10. Representation and Description<br>11. Object Recognition"
+    },
+    "weeklySchedule": "Week 1.  導論<br>Week 2.  影像檔案與影像類型<br>Week 3.  影像顯示<br>Week 4.  點處理<br>Week 5.  鄰域處理<br>Week 6.  影像幾何<br>Week 7.  傅立葉轉換<br>Week 8.  影像分割<br>Week 9.  Midterm Exam<br>Week 10. 數學形態學<br>Week 11. 影像拓撲學<br>Week 12. 形狀與邊界<br>Week 13. 色彩處理(一)<br>Week 14. 色彩處理(二)<br>Week 15. 影像編碼與壓縮<br>Week 16. 影像特殊效果與應用(一)<br>Week 17. 影像特殊效果與應用(二)<br>Week 18. Final Exam<br>",
+    "exams": {
+        "midterm": "紙本考試，選擇、問答、計算題，安排座位AB卷。",
+        "final": "紙本考試，選擇、問答、計算題，安排座位AB卷。",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能應用數位影像處理的原理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能用軟體製作數位影像處理的實行",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能接受數位影像處理的英文專業術語",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能撰寫數位影像處理專題的書面報告",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "數位影像處理",
+        "author": "林道通  陳乃塘",
+        "publisher": "高立",
+        "year": "2020",
+        "ISBN": "9789863781455",
+        "edition": "2"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Matlab、Python、Octave",
+    "rules": "1. 學生必須要認真研讀上課教材<br>2. 若考試獲得低分或作業不交, 學生必須負起責任<br>3. 若你沒有付出努力, 不要期望學期成績過關. 讓你過關是你的責任,不是我的.<br>"
+}

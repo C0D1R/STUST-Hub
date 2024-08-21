@@ -1,0 +1,115 @@
+{
+    "code": "C0N2BP01",
+    "name": {
+        "zh": "第二外語：法語(一)",
+        "en": "Second Foreign Language: French (Ⅰ）"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技應英二甲"
+    ],
+    "instructors": [
+        "劉恬伶"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "N309"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "N309"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "N309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程授課對象是從未學過法語同學，授課內容從基礎的字母及發音規則開始，再加入重音、語調、連音介紹。課程也提供基礎的語法、句型及對話範例讓學生們可以易於利用簡的第二外語做日常生活情境溝通及對話。為了使學生能欣賞該國文化及提升語言學習興趣，本課程也對針對該國的文化如歷史、風俗民情、飲食、節慶、旅遊及文化活動等方面做重點介紹。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、字母教學<br>二、發音練習：<br>(1)字母發音與發音規則<br>(2)重音規則與語調<br>(3)連音<br>三、基礎文法規則：陰陽性、單複數，疑問詞、代名詞、形容詞、祈使句、現在式動詞變化等。<br>四、簡易會話練習：打招呼、自我介紹、喜好表達、數字表達、問路等。<br>五、文化介紹：歷史、風俗民情、節慶、藝術、飲食及旅遊等主題。<br>",
+        "en": "1. Alphabet teaching<br>2. Pronunciation practice: (1) rules of pronunciation, (2) stress and intonation, (3) liaison.<br>3. Grammatical rules: gender of nouns, singular/plural nouns, uses of interrogatives, usage of pronouns and demonstratives, adjectives, imperative mood, conjugation of verbs, etc.<br>4. Oral practice: topic related to greeting, self-introduction, preference, numbers, asking time and direction, etc.<br>5. Cultural aspects: topics related to history, customs, festivals, arts, diet, tourist attraction, etc.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解該法語的發音規則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解該法語的文法規則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養該法語之基本日常生活會話能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識法國語的文化",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

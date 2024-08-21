@@ -1,0 +1,144 @@
+{
+    "code": "60D32F01",
+    "name": {
+        "zh": "國際組織與金融治理",
+        "en": "International organization and financial ethics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國企三甲",
+        "四技國企三乙"
+    ],
+    "instructors": [
+        "莊建富"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "S514"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S514"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S514"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著經濟的發展，國際金融與交易秩序的發展愈趨多元，國際金融的操作工具更如雨後春筍般出現。國際金融與匯兌之課程帶領同學們了解國際金融市場的概況，並了解國際金融市場的發展。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "國際金融制度<br>國際收支與總體經濟<br>匯率與外匯市場工具<br>滙率與利率、物價<br>開放總體模型分析<br>匯率預測<br>",
+        "en": "The system of international finance<br>Balance of payments and macroeconomics<br>Forex rate and trading instruments<br>Forex rate, interest rate and price <br>Open-economy macroeconomics<br>Forex rate forecasting<br>"
+    },
+    "weeklySchedule": "商情趨勢與報告<br>國際貿易下的政治趨勢<br>全球商情預測與投資分析<br>國際市場商情 從經濟貨幣政治觀點分析<br>海外直接投資<br>海外直接投資的政治經濟<br>區域經濟分析<br>亞洲經濟市場分析<br>美洲市場分析<br>歐洲市場分析<br>全球市場整合與經營運作<br>海外市場的進入策略與策略聯盟<br>台灣在全球貿易市場投資與趨勢<br><br><br>",
+    "exams": {
+        "midterm": "30%",
+        "final": "40%",
+        "other": "30%"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解國際財經的相關脈動與知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "分析國際商務相關資料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "抗拒壓力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "掌握實務之及時資訊",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "國際企業",
+        "author": "余明助 李威龍",
+        "publisher": "滄海書局",
+        "year": "2007",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "課前預習 課後複習 討論 提問"
+}

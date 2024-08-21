@@ -1,0 +1,140 @@
+{
+    "code": "70N11801",
+    "name": {
+        "zh": "服務業管理",
+        "en": "Services Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜二技企管四甲",
+        "夜四技企管四甲"
+    ],
+    "instructors": [
+        "黃建中"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "S415"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "S415"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "S415"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程中以服務管理的基本理論為主，主題1是『以顧客為焦點』，主題2是『傾聽顧客的需要』，主題3是『整合策略、服務設計、與服務標準』，主題4是『傳遞與執行服務』，主題5是『管理承諾』，再輔助其他管理理論教材，如『混沌理讑、刺蝟原則、80/20法則、系統思考』。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、 顧客主軸<br>二、 顧客需求<br>三、 整合策略、服務設計與服務標準<br>四、 傳遞與執行服務<br>五、 管理承諾<br>六、 其他管理理論教材，如『80/20法則、系統思考』。",
+        "en": "Topic 1  \" Customer focus \", <br>Topic 2  \" Listen to the needs of customers\", <br>Topic 3   \" Integration strategy, service design, service standards \"<br>Topic 4   \" Delivery and execution services \"<br>Topic 5   \" Management Commitment \",<br>Topic 6  And then assisted other management theory textbooks, such as\" THE 80/20 rule, Systems Thinking.\""
+    },
+    "weeklySchedule": "一、 顧客主軸<br>二、 顧客需求<br>三、 整合策略、服務設計與服務標準<br>四、 傳遞與執行服務<br>五、 管理承諾<br>六、 其他管理理論教材，如『80/20法則、系統思考』。",
+    "exams": {
+        "midterm": "筆試",
+        "final": "報告",
+        "other": "日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解服務管理與對企業之重要性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能辨別企業中服務組成成份手法與差異",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能識別「SERVICE」之意涵並應用於人力資源管理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能識別職場生態中顧客服務之組成",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解服務業理員工與顧客之關連性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能分析現行職場服務組成成份手法與差異",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

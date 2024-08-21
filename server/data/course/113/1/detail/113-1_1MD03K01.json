@@ -1,0 +1,115 @@
+{
+    "code": "1MD03K01",
+    "name": {
+        "zh": "消費文化與社會",
+        "en": "Consuming Culture and Society"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "社會科學領域"
+    ],
+    "instructors": [
+        "林佳蓉"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "P303"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "P303"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "P303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "對消費進行系統化的介紹，透過理論的闡述與問題的分析討論，了解資本運作、消費、流行文化在當代的意義。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、消費社會概述<br>二、西方文明與消費社會的關聯<br>三、資本主義精神<br>四、消費與品味<br>五、消費與象徵<br>六、文化工業<br>七、流行文化<br>八、結論<br>",
+        "en": "Consumption today shapes our daily lives.We try to explaine how it can be and understand consumption from the sociological perspective."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "闡述社會科學的基本知能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "統整所學知能依據有系統、有組織的方式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "積極觀察社會現象，養成表達、批判、省察的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "區辨理性思辨各種倫理抉擇與難題，並於生活中展現反省、理性思維及批判的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

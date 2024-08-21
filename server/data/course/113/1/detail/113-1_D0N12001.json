@@ -1,0 +1,99 @@
+{
+    "code": "D0N12001",
+    "name": {
+        "zh": "商業自動化",
+        "en": "Business Automation"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜行流產攜二甲"
+    ],
+    "instructors": [
+        "鍾明志"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在帶領同學進入商業自動化的六大領域：物流、資訊流、金流、商流、設計流、服務流，並討論商業自動化與電子商務之間的關係及未來發展趨勢等，希望透過上述議題探討使同學進一步瞭解相關理論與實務作法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.商業自動化概論<br>2.物流基本概念<br>3.資訊流概念<br>4.金流基本概念<br>5.商流基本概念<br>6.設計流概念<br>7.服務流基本概念 <br>",
+        "en": "1.Introduction of commerce automation <br>2.The basic concept of logistics<br>3.The basic concept of information flow <br>4.The basic concept of cash flow<br>5.The basic concept of business flow<br>6.The basic concept of design flow<br>7.The basic concept of service flow"
+    },
+    "weeklySchedule": "第一週 甚麼是商業自動化<br>第二週 為什麼要推動商業自動化<br>第三週 資訊流與供應鏈的改變<br>第四週 條碼<br>第五週 POS系統<br>第六週 期中報告<br>第七週 商業自動化的五流、電子商務之相關<br>第八週 連鎖事業的經營<br>第九週 加盟總部的規劃<br>第十週 加盟制度的選擇<br>第十一週 商圈評估與店面規劃<br>第十二週 創業規劃<br>第十三週 期末報告",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "書面報告",
+        "other": "(暫定第五週)作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "提升資訊科技能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "行銷與流通整合能力提升",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "團隊合作意識提升",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "商管基本知識提升",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "商業自動化之連鎖事業經營",
+        "author": "黃鴻程、廖勇凱",
+        "publisher": "智勝(Best-Wise)",
+        "year": "2008",
+        "ISBN": "978-957-729-693-1",
+        "edition": "1版"
+    },
+    "referenceBooks": "王偉驎、林婷(2015)，商業自動化與自動辨識，前程。<br>周春芳(2008)，商業自動化，五南。",
+    "teachingSoftware": "無",
+    "rules": "1.Counseling: Students can contact me using the following ways if you have questions:\u000b(1) Email me at any time at z0y@stust.edu.tw after class\u000b(2) Meet me by making an appointment \u000b2.The reviewal of lessons is a must. \u000b3.The syllabus is tentative and may be changed according to the interest of the class. \u000b4.Please respect the intellectual property of others. Materials available may be protected by copyright and the intellectual property laws of Taiwan."
+}

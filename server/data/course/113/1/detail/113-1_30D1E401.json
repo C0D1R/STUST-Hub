@@ -1,0 +1,116 @@
+{
+    "code": "30D1E401",
+    "name": {
+        "zh": "程式設計應用實務專題",
+        "en": "Programming application practical project"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子二丙"
+    ],
+    "instructors": [
+        "王立洋",
+        "黎靖"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "P303"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "P303"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "P303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "培養(建立)高階c語言程式專業知識與技能，並因應三項企業命題之需求培養學生具有開發中大型軟體專案之能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.物件導向概念。<br>2.結構化與物件導向程式設計。<br>3.軟體專案規畫。<br>4.小組討論。<br>5.期末專題實作。<br>6.期末報告。",
+        "en": "1. Object-oriented concept.<br>2. Structured and object-oriented programming.<br>3. Software project planning.<br>4. Group discussion.<br>5. Implementation of the final project.<br>6. Final report."
+    },
+    "weeklySchedule": "兩人一組(隨機分組)<br>定期與老師 meeting，繳交會議紀錄.<br>每三周集中進度會報一次，視疫情發展情況再決定採線上或實體會議方式 <br>期中報告<br>提出專題規畫書<br>期末成果發表<br>實體作品展示<br>現場進行評分",
+    "exams": {
+        "midterm": "報告取代考試",
+        "final": "報告取代考試",
+        "other": "日常生活考察"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解程式設計的基本理論、工具和技巧",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解程式設計和評估介面的基本方式",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "練習程式設計的各種技巧",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "持續學習程式設計的各種語法",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自編教材",
+    "teachingSoftware": "Python and OpenCV",
+    "rules": "無"
+}

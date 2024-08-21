@@ -1,0 +1,115 @@
+{
+    "code": "22D00901",
+    "name": {
+        "zh": "自動控制",
+        "en": "Automatic Control Systems"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "五專電機四甲"
+    ],
+    "instructors": [
+        "李政翰"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "I0207"
+        },
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "I0207"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "I0207"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "系統控制簡介，開迴路與閉回路系統之差異，數學基礎─拉式轉換，系統轉移函數與信號流程圖，物理系統的數學模式化，線性系統的穩定度，控制系統的時域分析。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、 概論與數學基礎<br>二、 系統建模<br>三、 控制系統表示法<br>四、 控制系統的時域分析<br>五、 控制系統的穩定性<br>六、 控制系統的穩態分析<br>七、 根軌跡法",
+        "en": "一、 Introduction and mathematic background<br>二、 Modelling<br>三、 Formulation of control system<br>四、 Time domain analysis<br>五、 Stability<br>六、 Steady state analysis<br>七、 Root locus"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解如何由實驗獲得控制系統的響應",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備執行控制實驗與解釋系統響應的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備實驗探討控制系統特性的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備撰寫控制實驗報告的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

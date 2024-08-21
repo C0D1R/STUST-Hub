@@ -1,0 +1,122 @@
+{
+    "code": "M0D16G01",
+    "name": {
+        "zh": "餐旅財務概論",
+        "en": "Financial Management for Hospitality"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技餐旅三乙"
+    ],
+    "instructors": [
+        "陳孟修"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第1節",
+            "location": "T0311"
+        },
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "T0311"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程內容著重於財務的基礎概念,並提供個人與企業理財的分析與決策",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 財務概論<br>2. 理財工具介紹<br>3. 風險報酬與投資組合<br>4. 金融商品評價<br>5. 財務報表分析及運用<br>6. 企業財務理論與實務<br>7. 資金成本與資本結構<br>8. 企業財務個案討論—以餐旅業為例<br>9. 總體經濟指標解讀與分析<br>",
+        "en": "1. Introduction to finance<br>2. Introduction to financial tools<br>3. Risk compensation and portfolio<br>4. Financial product evaluation<br>5. Analysis and application of financial statements<br>6. Corporate Finance Theory and Practice<br>7. Capital cost and capital structure<br>8. Corporate Financial Case Discussion - Taking the Hospitality Industry as an<br>Example<br>9. Interpretation and analysis of overall economic indicators<br>Week 1 Introduction to Ch1 Sightseeing and Hospitality Financial Management<br>Week 2 Introduction to Ch2 Financial Market<br>Week 3 Ch3 Financial Statements and Analysis<br>Week 4 Ch4 currency time value -1 (present value, final value)<br>Week 5 Ch4 Currency Time Value-2 (Aging Value, End of Year Value)<br>Week 6 Ch5 Return Rate and Risk (I)<br>Week 7 Ch5 Return and Risk (Part 2)--Portfolio<br>Week 8 Ch6 Company Stock and Bond Evaluation<br>Week 9 Midterm exam<br>Week 10 Ch7 Capital Cost Assessment (weighted average cost of capital)<br>Week 11 Ch8 Financial leverage and capital structure (indicating profit and loss two<br>flat points, in order to facilitate the analysis of this volume)<br>Week 12 Ch9 Quantitative analysis<br>Week 13 Ch10 Capital Budget (on The fourteenth week Ch10 capital budget (below)-<br>-a case study of capital budget<br>Week 15 Ch11 Hospitality and Real Estate Investment in Tourism Industry<br>Week 16 Ch12 Exchange Rate Management<br>Week 17 Ch13 Derivative Financial Products<br>Week 18 Final test"
+    },
+    "weeklySchedule": "第一篇 「財務評估導論」<br>第一章 觀光餐旅財務管理基本概念<br>第二章 財務報表分析<br>第三章 貨幣的時間價值<br>第二篇 「財務融資與營運管理」<br>第四章 成本控制分析<br>第五章 營運槓桿與財務槓桿<br>第六章 股票與債券評價<br>第七章 資本預算決策<br>第三篇 「財務投資管理」<br>第八章 報酬率評估<br>第九章 風險評估<br>第十章 匯率管理<br>",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "上課出席與上課表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解基本餐旅財務管理知識及學理。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能解析餐旅財務管理個案，將其有效的撰寫成專業的財務分析報告及簡報。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能針對餐旅財務管理上的問題有效的檢視其管理學理及應用。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能有效的應用MS office 軟體進而呈現專業性的報告及簡報",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能檢視現代餐旅財務管理的運用並有效的建立及應用財務管理的各項分析步驟。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "觀光暨餐旅財務管理",
+        "author": "喬懷恩",
+        "publisher": "華立圖書",
+        "year": "2020",
+        "ISBN": "978-957-784-859-8",
+        "edition": "第一版"
+    },
+    "referenceBooks": "俞海琴, 鄭駿豪,觀光與餐飲財務管理,華泰文化",
+    "teachingSoftware": "ms office",
+    "rules": "用心學習"
+}

@@ -1,0 +1,115 @@
+{
+    "code": "1LD06N01",
+    "name": {
+        "zh": "人物史：帝、后與名人",
+        "en": "Detective of  Person :Emperors, Empresses and Celebrities"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "王見川"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "K504"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "K504"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "K504"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "古往今來，國內國外歷史的發展與處於領導地位的皇帝/皇后/名人有莫大的關係!而二十世紀以來流行的媒體與娛樂(如電影電視手遊)也常以此為題材，因此本課程希望透過幾個案例(如秦始皇孔子拿破崙林肯賈伯斯等)，配合電影電視等與學生報告，審視這些重要人物的喜怒哀樂與一生的奮進、挫敗過程，希望培養學生對人物分析、欣賞與批判的能力",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、導論<br>二、帝國建造者:秦始皇、漢武帝與亞歷山大大帝<br>三、文化的創造者:孔子與蘇格拉底<br>四、女主的誕生:武則天、伊莉莎白一世與慈禧太后<br>五、侵略者?成吉思汗、拿破論與希特勒<br>六、理想者?林肯、馬克思、切格瓦與毛澤東<br>七、適應者:馮道、德川家康與周恩來<br>八、改革者:明治天皇、羅斯福與鄧小平<br>九、經營者:王永慶、賈伯斯<br>十、藝術家：華德狄斯耐、畢卡索與麥克傑克森<br>",
+        "en": "1.\tIntroduction<br>2.\tFounder of an empire: Emperor Qin Shi Huang, Emperor Wu of Han, and Alexander the Great<br>3.\tCreator of a culture: Confucius and Socrates<br>4.\tThe birth of a Queen: Wu Zetian, Elizabeth I of England and Empress Dowager Cixi<br>5.\tInvaders? Genghis Khan, Napoleon, and Adolf Hitler<br>6.\tIdealists? Abraham Lincoln, Karl Marx, Che Guevara, and Mao Zedong<br>7.\tAccommodationists: Feng Dao, Tokugawa Ieyasu, and Zhou Enlai<br>8.\tReformers: Emperor Meiji, Franklin D. Roosevelt, and Deng Xiaoping<br>9.\tEntrepreneurs: Wang Yung-ching and Steve Jobs<br>10.\tArtists: Walt Disney, Pablo Picasso, and Michael Jackson"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能深入認識重要人物，有效地解決各項問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "獨創具體的創新思維，解析重要人物古今的不同，並適切表達。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "統合重要人物知識於生活或學習中，拓展歷史視野，並能養成負責盡職、秉持敬業精神完成各項任務。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解重要人物的發展與意義，並於生活中展現反省、理性思辨的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

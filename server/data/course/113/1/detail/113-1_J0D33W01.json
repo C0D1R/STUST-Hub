@@ -1,0 +1,122 @@
+{
+    "code": "J0D33W01",
+    "name": {
+        "zh": "作品集設計",
+        "en": "Portfolio Design"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技動畫四甲"
+    ],
+    "instructors": [
+        "李婉貞"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "W0808"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "W0808"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在畢業前能夠了解自己將來是要繼續升學或是就業以及現今的設計產業趨勢，撰寫並設計履歷表及自傳，彙集統整過去作業或創作作品，設計製作符合需求之作品集，讓自己能夠達到有利於自己的就業或升學方向。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程介紹<br>2.視覺傳達設計工作職場<br>3.視覺傳達設計升學現況/相關科系碩士班介紹<br>4.作品集賞析/培養鑑賞能力<br>5.蒐集與分類個人作品與經歷<br>6.作品集企畫/能撰寫自傳與履歷<br>7.作品集編輯設計製作<br>",
+        "en": "1.Course introduction<br>2.Visual communication design work workplace<br>3.Visual communication design progression<br>4.Appreciation of the portfolio<br>5.Collect and classify individual works and experiences<br>6.Portfolio planning<br>7.Portfolio editing design"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能運用電腦軟體操作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "對於版面編排能力具有獨創性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成作品設計良好的態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能清楚介紹自己的個人特質",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能獨立創作作品集",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

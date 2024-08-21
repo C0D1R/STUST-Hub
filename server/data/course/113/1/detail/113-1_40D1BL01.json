@@ -1,0 +1,127 @@
+{
+    "code": "40D1BL01",
+    "name": {
+        "zh": "化工裝置(一)",
+        "en": "Chemical Engineering Equipments(一)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專化材二甲"
+    ],
+    "instructors": [
+        "吳文昌"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "I0310"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "I0310"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "I0310"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程目標在協助學生認識化工裝置的基本原理、構造及用途。主要內容包含：總論、流體輸送原理、流體輸送裝置、流體流量測量裝置、熱量輸送原理、熱量輸送裝置、蒸發裝置、結晶裝置等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、總論\t<br>二、流體輸送原理\t<br>三、流體輸送裝置\t<br>四、流體流量測量裝置\t<br>五、熱量傳送原理\t<br>六、熱量傳送裝置\t<br>七、蒸發裝置\t<br>八、結晶裝置<br>",
+        "en": "1. Overview<br>2. Principle of fluid transportation<br>3. Fluid conveying equipment <br>4. Fluid flow measurement equipment <br>5. Heat transfer principle<br>6. Heat transfer equipment <br>7. Evaporation equipment <br>8. Crystallization equipment <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學生熟知輸送基礎原理而會應用於速度、流量、動量、能量及質量均衡等數值計算",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生知道如何使輸送現象基礎應用於單元操作方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能利用由各種輸送基礎原理來理解化工設備的操作原理與參數",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能與同學相互討論完成作業",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用網際網路平台收集並研讀相關資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

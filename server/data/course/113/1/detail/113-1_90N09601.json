@@ -1,0 +1,131 @@
+{
+    "code": "90N09601",
+    "name": {
+        "zh": "管理學",
+        "en": "Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技資管一甲"
+    ],
+    "instructors": [
+        "汪美香"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "T0407"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "T0407"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "T0407"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The course is to provide students with fundamental knowledge of contemporary management including theories, concepts, functions, tools and issues that are needed for their future jobs.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一週：管理程序<br>第二週：管理者個人特質與組織文化<br>第三週：管理思想的歷史<br>第四週：事業生涯發展<br>第五週：倫理與多樣性管理<br>第六週：全球環境下的管理<br>第七週：補充教材：管理學電影討論<br>第八週：期末專題進度報告<br>第九週：期中考<br>第十週：決策、學習、創造力與創新<br>第十一週：規劃、策略與競爭優勢<br>第十二週：組織結構設計<br>第十三週：控制、變革與創業家精神<br>第十四週：領導者與領導<br>第十五週：補充教材：管理學電影討論<br>第十六週：期末報告#1<br>第十七週：期末報告#2<br>第十八週：期末考<br>",
+        "en": "1st Week: Introduction to Course. Ch1. The Management Process<br>2nd Week: Ch2. Who are Managers and Entrepreneurs<br>3rd Week: Ch3. Managing Ethics and Diversity<br>4th Week: Ch4. Managing in a Global Environment<br>5th Week: Ch5. Decision Making, Learning. Creativity, and Innovation<br>6th Week: Ch6. Planning, Strategy, and Change<br>7th Week: Ch7. Organizing: Designing Organizational Structure<br>8th Week: Ch8. Organizing: Control &amp; Culture<br>9th Week: Midterm Examination<br>10th Week: Ch9. Motivation<br>11th Week: Ch10. Leadership and Management<br>12th Week: Ch11. Effective Team Management<br>13th Week: Ch12. Effective Management of Human Resources<br>14th Week: Ch13. Communication and Information Technology Management<br>15th Week: Ch14. Operations Management: Managing Vital Operations and Processes<br>16th Week: Ch15. Final Report #1<br>17th Week: Ch16. Final Report #2<br>18th Week: Finally Examination<br>"
+    },
+    "weeklySchedule": "第01週：課程介紹與評分標準<br>第02週：ch1管理之意義與重要性<br>第03週：ch4 企業內外部環境(SWOT、五力分析、PEST等)<br>第04週：ch5 規劃<br>第05週：ch8 組織結構與設計<br>第06週：ch9 組織文化與組織變革<br>第07週：ch7策略管理1<br>第08週：ch7策略管理2<br>第09週：期中考試<br>第10週：ch10 企業人力資源管理<br>第11週：ch11 激勵<br>第12週：ch12 領導理論<br>第13週：ch13 控制<br>第14週：ch6決策、個案分析與分組報告<br>第15週：ch6決策、個案分析與分組報告<br>第16週：ch14 企業倫理與社會責任、個案分析與分組報告<br>第17週：ch14 企業倫理與社會責任、個案分析與分組報告<br>第18週：期末考試<br>",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末考",
+        "other": "參與、報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解各項管理程序在組織之中的運用。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "利用管理工具來分析管理個案，增加理論在實務的運用。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養書面報告與簡報技巧，強化學生的表達能力。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習正確的社會責任與管理道德，讓學生認知應有的責任與義務。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解當代企業經營管理的本質與整體的概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "管理學",
+        "author": "練惠琪、楊偉顥",
+        "publisher": "全華圖書股份有限公司",
+        "year": "2023",
+        "ISBN": "978-626-328-435-7",
+        "edition": "初版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,148 @@
+{
+    "code": "H0D02101",
+    "name": {
+        "zh": "生物學",
+        "en": "Biology"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技食品一甲",
+        "四食品國專一甲"
+    ],
+    "instructors": [
+        "黃韻如"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "I0308"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "I0308"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "I0308"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "生物學是人類最古老也是最重要的科學，生物學的研究及應用範疇，從最早的人類好奇探討地球上有哪些生物，進一步研究如何利用這些生物作為食物、器物、醫藥或工作用途等，到現代成為所有生命科學（包括醫、藥、食品、農、自然生態、生活環境等）的基礎學科。此外生物學也是最生活化的科學，因為生物學不僅關係到每個人的健康與生態環境，更關係到地球的永續生存，因此生物學是每個人都要具備的基本知識。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.生命的研究<br>2.生命的化學<br>3.細胞生物學<br>4.植物學<br>5.人體的組織架構<br>",
+        "en": "1.Study of life<br>2.The chemistry of life<br>3.Cell biology<br>4.Plant biology<br>5.Human organization<br>"
+    },
+    "weeklySchedule": "1\t9.10\t課程簡介<br>2\t9.17\t中秋節 (放假)<br>3\t9.24\t自然世界的指南、細胞中的生物分子<br>4\t10.1\t細胞、細胞膜<br>5\t10.8\t能量的介紹、細胞呼吸<br>6\t10.15\t光合作用、 細胞分裂<br>7\t10.22\t遺傳與染色體變異<br>8\t10.29\tDNA構造和蛋白質合成<br>9\t11.5\t期中考<br>10\t11.12\t生物技術<br>11\t11.19\t演化 <br>12\t11.26\t微生物的世界<br>13\t12.3\t植物<br>14\t12.10\t動物的世界<br>15\t12.17\t人體的架構、神經與內分泌系統<br>16\t12.24\t免疫系統、運輸和交換<br>17\t12.31\t人類的生殖、生命與環境<br>18\t1.7\t期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "平時表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解生物圈的整體組成架構、生命的化學及細胞的構造及功能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解生物體由於細胞正常的運作例如細胞能量代謝、細胞分裂等，才能維持生物體的存活並呈現各種生命現象",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解植物體及人體的整體構造",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能搜尋生命科學及生技產業的資訊",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解以英文編寫的講義",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "基礎生物學",
+        "author": "王姿文‧楊國泰‧施科念‧蔡文翔 編譯",
+        "publisher": "高立圖書",
+        "year": "2023",
+        "ISBN": "9789863783237",
+        "edition": "初版"
+    },
+    "referenceBooks": "生物學精華版(Campbell Biology: Concepts &amp; Connections). 書號：1097. 類別：Biology. ISBN：9789869504287. 作者：程中玉、施美份、程淑慧、林雅菁等. 版次：9",
+    "teachingSoftware": "PPT",
+    "rules": "1. 準時上課<br>2. 上課不要玩手機<br>3. 上課時間請保持安靜，專心聽講，不要趴著睡覺、聊天<br>4. 請同學上課用心學習與討論"
+}

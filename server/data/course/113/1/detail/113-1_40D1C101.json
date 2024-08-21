@@ -1,0 +1,127 @@
+{
+    "code": "40D1C101",
+    "name": {
+        "zh": "化學工業概論",
+        "en": "Introduction to Chemical Industries"
+    },
+    "credit": "3",
+    "type": "系定選修",
+    "classes": [
+        "五專化材三甲"
+    ],
+    "instructors": [
+        "戴永惇"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "I0211"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "I0211"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "I0211"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在介紹化學工業的基本概念、原理及應用，涵蓋化學工業的重要領域和當前發展趨勢。學生將了解化學工業在經濟和社會中的重要性，並學習如何應用化學，透過學習化學工業知識解決工業問題；依資源分類為重心，並將有機化學工業課程依學習其資源及製造程序，主要目標為：<br>1. 理解化學工業的基本概念和原理。<br>2. 認識化學工業的重要領域及其應用。<br>3. 掌握化學工業中的基本操作和安全規範。<br>4. 了解化學工業的最新發展和未來趨勢。<br>5. 發展解決化學工業問題的能力和創意思維。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一單元：化學工業概述<br>•\t化學工業的定義與範疇<br>•\t化學工業的歷史發展<br>•\t化學工業的經濟和社會影響<br>第二單元：化學工業中的基本化學原理<br>•\t化學反應與反應速率<br>•\t熱力學原理<br>•\t平衡與動力學<br>第三單元：主要化學工業領域<br>•\t石油化工<br>•\t聚合物工業<br>•\t精細化工<br>•\t製藥工業<br>•\t環境化工<br>第四單元：化學工業中的設備與操作<br>•\t反應器設計與操作<br>•\t分離技術（蒸餾、萃取、過濾等）<br>•\t材料與腐蝕控制<br>•\t安全與風險管理<br>第五單元：化學工業中的現代技術與發展<br>•\t綠色化學與可持續發展<br>•\t生物化工<br>•\t新材料與納米技術<br>•\t智能製造與自動化<br>第六單元：案例分析與實際應用<br>•\t化學工業中的經典案例研究<br>•\t問題解決與創新設計<br>•\t團隊合作與項目管理<br>第七單元：未來趨勢與挑戰<br>•\t全球化學工業的發展趨勢<br>•\t新興市場與技術挑戰<br>•\t政策與法規的影響<br>",
+        "en": "Unit 1: Overview of the Chemical Industry<br>•\tDefinition and scope of the chemical industry<br>•\tHistorical development of the chemical industry<br>•\tEconomic and social impact of the chemical industry<br>Unit 2: Basic Chemical Principles in the Chemical Industry<br>•\tChemical reactions and reaction rates<br>•\tThermodynamic principles<br>•\tEquilibrium and kinetics<br>Unit 3: Major Areas of the Chemical Industry<br>•\tPetrochemicals<br>•\tPolymer industry<br>•\tFine chemicals<br>•\tPharmaceutical industry<br>•\tEnvironmental chemicals<br>Unit 4: Equipment and Operations in the Chemical Industry<br>•\tReactor design and operation<br>•\tSeparation techniques (distillation, extraction, filtration, etc.)<br>•\tMaterials and corrosion control<br>•\tSafety and risk management<br>Unit 5: Modern Technologies and Developments in the Chemical Industry<br>•\tGreen chemistry and sustainable development<br>•\tBiochemical engineering<br>•\tNew materials and nanotechnology<br>•\tIntelligent manufacturing and automation<br>Unit 6: Case Studies and Practical Applications<br>•\tClassic case studies in the chemical industry<br>•\tProblem-solving and innovative design<br>•\tTeamwork and project management<br>Unit 7: Future Trends and Challenges<br>•\tGlobal development trends in the chemical industry<br>•\tEmerging markets and technological challenges<br>•\tImpact of policies and regulations<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解化學工業的基本概念和原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識化學工業的重要領域及其應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "掌握化學工業中的基本操作和安全規範",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解化學工業的最新發展和未來趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "發展解決化學工業問題的能力和創意思維",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

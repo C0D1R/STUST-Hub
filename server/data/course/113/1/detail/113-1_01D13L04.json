@@ -1,0 +1,151 @@
+{
+    "code": "01D13L04",
+    "name": {
+        "zh": "基礎中文(一)",
+        "en": "Basic Chinese (Ⅰ)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專化材一甲"
+    ],
+    "instructors": [
+        "馬美娟"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "I0305"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "I0305"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "五專一年級的中文訓練，著重在中文能力的紮根。因此，它將延續並深化九年一貫的國語文學習內容，透過經典文學與現代文學的選讀與賞析，強化學生閱讀書寫與文化特質的基礎能力，以達語文教育、文學教育與文化教育之目標。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.介紹閱讀要領，以期領略個中的樂趣<br>2.藉文學作品訓練邏輯推理與思辯能力<br>3.傳授語言與書寫的表達原理<br>4.探究文學作品中蘊含的人生哲理與文化特質<br>5.聽說讀寫綜合能力訓練<br>",
+        "en": "1.\tBuilding Reading Skills &amp; Exploring Interests in Reading.<br>2.\tImproving Logical Reason Skills<br>3.\tThe Expression of Language &amp; Writing  <br>4.\tExploring Its Life Philosophy behind the works. <br>5.\tEnhancing Abilities of Listening, Speaking, Reading &amp; Writing.<br>"
+    },
+    "weeklySchedule": "第1週：課程解說<br>（一）師生溝通<br>（二）溝通學習目標<br>（三）討論：如何合理使用AI<br><br>第2週：極短篇小說選<br>（一）課文：衣若芬〈騷擾〉<br>（二）課文：愛亞〈青春〉<br>（三）講義：〈失足〉<br><br>第3週：〈師說〉<br>（一）課文：韓愈〈師說〉<br>（二）小組討論、完成學習單<br><br><br>第4週：讀書會/錄有聲書<br>（一）讀書會說明/決定書籍/讀書規劃<br>（二）錄有聲書/示範<br>（三）討論：我的AI學伴<br>＊SDGs目標4 優質教育：確保有教無類、公平以及高品質的教育，及提倡終身學習<br><br>第5週：我能改變世界<br>（一）課文：宋睿祥〈第1次叢林手術〉<br>（二）課文：郭麗娟〈大愛非洲行-台灣首位無國界醫師宋睿祥〉<br>（三）講義：馬拉拉＜茫茫人海中的一名女孩＞<br><br>第6週：〈廉恥〉<br>（一）課文：顧炎武〈廉恥〉<br>（二）討論：我的座右銘/家規/校訓<br><br>第7週：論語選<br>（一）〈子路曾皙冉有公西華侍坐〉<br>（二）討論：我的座右銘/家規/校訓<br><br>第8週：〈桃花源記〉<br>（一）課文：陶淵明〈桃花源記〉<br>（二）寫作：我心中的理想社會/世界<br><br>第9週：期中考<br><br>第10週：世說新語選<br>（一）《世說新語》導讀<br>（二）課文：〈詠絮之才〉<br>（三）課文：〈雪夜訪戴〉<br>（四）課文：〈絕妙好辭〉<br>（五）講義：〈坦腹東床〉<br><br>第11週：<br>（一）課文：李黎〈愛之淚珠〉<br>（二）討論：旅行能有什麼事？<br><br>第12週：<br>（一）課文：樂府詩選〈陌上桑〉日出東南隅<br>（二）講義：〈阿波羅與黛芬妮〉<br>（三）恐怖情人/跟騷法<br>＊SDGs目標5：性別平等，實現性別平等，消除所有地方婦女的各種形式的歧視。<br><br>第13週：<br>（一）課文：鍾儀雯〈驚情〉<br>（二）講義：〈晚飯花〉<br><br>第14週：<br>課程綱要：<br>（一）樂府詩選：李白〈長干行〉妾髮初覆額<br>（二）讀書會報告繳交/有聲書錄音繳交<br><br>第15週：<br>（一）課文：琦君〈髻〉<br>（二）討論；愛情三元素<br>（三）討論：工具人是真愛？<br>＊SDGs目標5：性別平等，實現性別平等，消除所有地方婦女的各種形式的歧視。<br><br>第16週：<br>（一）課文：現代詩選-徐志摩〈再別康橋〉<br>（二）課文：現代詩選-卞之琳〈斷章〉<br><br>第17週：期末考<br><br>第18週：課程整理/檢討<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "口試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "描述語文表達的意義並撰寫文章與口頭報告",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "探討文學作品的人生哲理，達到潛移默化的成效",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能融合統整所學知能，並以創新思維或作為，有組織有系統地解決各項問題及積極學習。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "有組織、有條理的表達與溝通，能表現出應對進退的適當禮節，專注聆聽交談對象的說話內容，並給予積極回應之能力。",
+            "teachingMethods": [
+                "啟發思考",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能積極服務與關懷他人，對於需要幫助的人能及時提供適切的需求，能以同理心去關懷周遭人事物並體驗服務真正意涵。",
+            "teachingMethods": [
+                "分組討論",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備中文、人文藝術的基本知能，並強化人文藝術的素養。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "技術型高中國文1",
+        "author": "郭純妙等編著",
+        "publisher": "翰林出版社社",
+        "year": "2022",
+        "ISBN": "978-986-333-083-7",
+        "edition": "再版二刷"
+    },
+    "referenceBooks": "郭純妙等編「普通型高中國文1 」。翰林出版社，2024年8月。 <br>",
+    "teachingSoftware": "ChatGPT",
+    "rules": "1、課程的內容與進度將視授課實際需要調整<br>2、第1週請務必出席<br>"
+}

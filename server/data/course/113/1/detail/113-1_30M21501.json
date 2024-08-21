@@ -1,0 +1,115 @@
+{
+    "code": "30M21501",
+    "name": {
+        "zh": "AIoT應用設計與實務",
+        "en": "AIoT Applications Design and Practice"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩電子產專一甲"
+    ],
+    "instructors": [
+        "施嘉興"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S607"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "S607"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "S607"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "AIoT應用設計與實務 課程旨在教授學生將人工智慧（AI）與物聯網（IoT）技術結合應用於實際項目中。課程內容包括AIoT的基本概念、PyTorch在圖像分類與物件偵測中的應用、IoT設備的設計與實施、數據收集與分析等。學生將學習如何設計和實現綜合性AIoT應用系統。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.AIoT基礎<br>AIoT的概念與架構<br>AI與IoT的結合應用場景<br>AIoT的發展趨勢<br><br>2.PyTorch基礎與應用<br>PyTorch安裝與環境配置<br>基本操作與模型構建<br>圖像分類應用實例<br><br>3.物件偵測<br>物件偵測概述<br>PyTorch中的物件偵測模型（如YOLO、SSD、Faster R-CNN）<br>物件偵測應用實例<br><br>4.IoT設備設計與實施<br>常見IoT設備介紹<br>IoT設備的設計與原型製作<br>IoT數據收集與傳輸<br><br>5.數據分析與處理<br>數據預處理技術<br>數據分析工具與方法<br>實時數據處理與應用<br><br>6.AIoT綜合應用實例<br>圖像分類AIoT項目設計<br>物件偵測AIoT項目設計<br>綜合性AIoT應用系統設計與實現",
+        "en": "1.Fundamentals of AIoT<br>Concepts and Architecture of AIoT<br>Application Scenarios of AI and IoT Integration<br>Development Trends of AIoT<br><br>2.PyTorch Basics and Applications<br>Installation and Environment Setup of PyTorch<br>Basic Operations and Model Building<br>Application Example of Image Classification<br><br>3.Object Detection<br>Overview of Object Detection<br>Object Detection Models in PyTorch (e.g., YOLO, SSD, Faster R-CNN)<br>Application Example of Object Detection<br><br>4.Design and Implementation of IoT Devices<br>Introduction to Common IoT Devices<br>Design and Prototyping of IoT Devices<br>Data Collection and Transmission in IoT<br><br>5.Data Analysis and Processing<br>Data Preprocessing Techniques<br>Tools and Methods for Data Analysis<br>Real-Time Data Processing and Applications<br><br>6.Comprehensive AIoT Application Examples<br>Design of an Image Classification AIoT Project<br>Design of an Object Detection AIoT Project<br>Design and Implementation of Comprehensive AIoT Application Systems"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "掌握AIoT的基本概念和技術。\n熟悉使用PyTorch進行圖像分類和物件偵測。\n具備設計和實施IoT設備的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠將AI和IoT技術應用於實際工程項目中。 掌握數據收集、分析與處理的技術。 能夠進行AIoT綜合應用系統的設計與實現。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "掌握AIoT實驗數據的收集、處理與分析方法。 能夠使用相關軟體進行數據分析與模擬。 熟悉AIoT相關的文獻查找與技術資料。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠將不同的AI和IoT模組進行整合，設計完整的應用系統。 理解並應用系統整合的基本原理。 培養系統性思維，完成從需求到實現的整個過程。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

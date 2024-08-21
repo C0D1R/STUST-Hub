@@ -1,0 +1,131 @@
+{
+    "code": "70N12601",
+    "name": {
+        "zh": "商用微積分",
+        "en": "Calculus for Business"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "夜企管產攜一甲"
+    ],
+    "instructors": [
+        "林育德"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將延續初等微積分的進度，內容為介紹不定積分、定積分、積分法則、瑕積分、積分應用、偏導數、重積分及無窮級數等。",
+    "prerequisites": "最好預備有函數微分的能力",
+    "syllabus": {
+        "zh": "1. 不定積分<br>2. 定積分<br>3. 瑕積分<br>4. 積分的應用<br>5. 積分法則<br>6. 偏導數<br>7. 重積分<br>8. 無窮級數",
+        "en": "1. The Indefinite Integral. <br>2. The Definite Integral (Integration by Substitution)<br>3. Improper Integrals <br>4. Applications of Integration (Area Between Curves, Business and Economics, Continuous Random Variables, Expected Value, Normal and Poisson Probability Distributions)<br>5. Techniques of Integration ( Integration by Parts, Numerical Integration)<br>6. Partial Derivatives (Optimizing Functions of Two Variables, Least-Squares, Lagrange Multipliers)<br>7. Multiple Integrals<br>8. Infinite Series (Tests for Convergence, Taylor Series)"
+    },
+    "weeklySchedule": "第一週：函數與圖形<br>第二週～第三週：極限與連續<br>第三週～第四週：導數<br>第四週～第五週：導數的應用<br>第六週：期中考<br>第六週～第七週：定積分<br>第七週～第八週：不定積分<br>第八週～第九週：積分的應用<br>第九週～第十週：積分法則<br>第十週：偏導數<br>第十一週～第十二週：重積分<br>第十二週：期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能熟悉微積分的基本原理並具備計算的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "針對管理問題能有效應用適當的微積分技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能樂觀面對微積分問題，並以正向思考來解決問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用微積分的重要性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "商用微積分",
+        "author": "林義旭、張勝麟、傅俊結",
+        "publisher": "復文書局",
+        "year": "2014",
+        "ISBN": "978-986-6368-10-3",
+        "edition": "再版"
+    },
+    "referenceBooks": "Finney et. al., \"Calculus (Brief Version), 高立圖書, 2006. Larson, Hostetler, Edwards, \"Calculus(8e)\", 歐亞書局, 2006. 莊紹容.楊精松, \"商管微積分\", 東華書局, 2001",
+    "teachingSoftware": "請由學校FlipClass數位學習中查詢",
+    "rules": "學期中會有隨堂演練，作為平時成績之實際計算。另有課堂討論、出席率、學習態度之考量。"
+}

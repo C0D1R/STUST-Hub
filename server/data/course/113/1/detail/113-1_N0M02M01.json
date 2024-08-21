@@ -1,0 +1,115 @@
+{
+    "code": "N0M02M01",
+    "name": {
+        "zh": "氣候變遷風險管理",
+        "en": "Climate Change Risk Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩全球經管二乙"
+    ],
+    "instructors": [
+        "吳聰皓"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "E0602"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "E0602"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "E0602"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程從TCFD架構來說明企業如何鑑別氣候變遷產生的風險與機會，以及評估所造成的財務衝擊。<br>This course uses the TCFD framework to explain how companies identify risks and opportunities arising from climate change, and assess the financial impact caused by it.<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.TCFD與CDP概述<br>2.風險與機會鑑別<br>3.財務風險評估<br>4.內部碳定價",
+        "en": "1. Overview of TCFD and CDP<br>2. Risk and opportunity identification<br>3. Financial risk assessment<br>4. Internal carbon pricing<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能針對ESG或碳資產議題提出可行的研究議題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解TCFD架構以進行氣候變遷之風險管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能評估氣候風險與機會造成的財務衝擊",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能進行簡單的TCFD評估輔導",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}
