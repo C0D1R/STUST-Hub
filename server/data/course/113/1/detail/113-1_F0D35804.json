@@ -1,0 +1,127 @@
+{
+    "code": "F0D35804",
+    "name": {
+        "zh": "基礎繪畫(B)",
+        "en": "Base Of Painting"
+    },
+    "credit": "3",
+    "type": "管制必修",
+    "classes": [
+        "四技資傳一乙"
+    ],
+    "instructors": [
+        "洪淑儀"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0604"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0604"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "W0604"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學生經由基礎繪畫的訓練,培養對形體敏銳的觀察力和扎實的表現能力，並結合藝術美學，充分運用在創作與設計。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 造形語言與掌握技巧<br>2. 線條與輪廓<br>3. 空間的透視概念<br>4. 光線、明暗、陰影和體積關係<br>5. 空間和質量<br>6. 質感和筆觸的表現-1<br>7. 質感和筆觸的表現-2<br>8. 靜物描繪 1<br>9. 靜物描繪 2<br>10. 設計美學的構圖觀念<br>11. 形的聯想<br>12. 綜合媒材創作<br>",
+        "en": "1. Shape Language with Master Skill. <br>2. Line and Outline. <br>3. The Concept of Spatial Perspective. <br>4. Lighting and Shading Skills for Volume Creation. <br>5. Space for Mass. <br>6. Texture with Brushwork. <br>7. Texture with Brushwork. <br>8. Still Life Drawing I. <br>9. Still Life Drawing II. <br>10. Composition for Design Aesthetics. <br>11. To associate with Shape in Thinking. <br>12. Mixed-Media Creation."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生了解描繪表現意念的美學知識基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備對造形製作能力及媒材表現的運用技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生具有創意開發相關產業人際溝通能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能培養學生具備創意開發相關產業團隊互動的責任與紀律",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓學生能具備圖像與設計從業人員之專業倫理態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

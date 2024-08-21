@@ -1,0 +1,110 @@
+{
+    "code": "I0N02901",
+    "name": {
+        "zh": "幼兒遊戲",
+        "en": "Infant and Children’s Play"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜二技幼保三甲"
+    ],
+    "instructors": [
+        "陳韻如"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第1節",
+            "location": "W0402"
+        },
+        {
+            "day": "週六",
+            "period": "第2節",
+            "location": "W0402"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "遊戲是孩子也是所有人們的天生本能。期望藉由該應用性課程，重啟未來教保人員們的「玩心」。並透過師生互動、做中學等經驗來實際體驗遊戲在幼兒生活及學校教育的重要性。配合學校活動，讓同學們透過互相的腦力激盪及經驗分享，學習如何將遊戲生活化、教學遊戲化。將遊戲由室內延伸到室外，並學習利用有限的媒材及資源回收物來舉辦一個融合社區的遊戲天活動。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 遊戲的定義、遊戲理論<br>2. 遊戲與嬰幼兒發展、 遊戲的歷史發展<br>3. 遊戲中的個體差異、文化與遊戲<br>4. 遊戲中成人的角色<br>5. 遊戲觀察、戶外遊戲安全<br>6. 遊戲環境的規劃、遊戲與遊戲材料<br>7. 遊戲在嬰幼兒教育及活動帶領之應用",
+        "en": "Definition of play、theories of play<br>Play and infant/child development、History of play<br>Play and individual difference and culture influence<br>Roles of adults in children’s play<br>Observation of play、outdoor play safety<br>Design of play environment、Play and play material<br>Implication of play in infant and ECE education"
+    },
+    "weeklySchedule": "第一週 課程介紹<br>第二週 遊戲的定義<br>第三週 遊戲相關理論<br>第四週 遊戲與幼兒發展<br>第五週 遊戲與幼兒發展<br>第六週 室內幼兒遊戲環境規劃<br>第七週 室內幼兒遊戲環境規劃<br>第八週 戶外幼兒遊戲環境<br>第九週 戶外遊具觀察報告  個人分享<br>第十週 語文遊戲 藝術遊戲 <br>第十一週 數學遊戲 科學遊戲<br>第十二週 體能遊戲 社會性遊戲<br>第十三週  遊戲成人的角色<br>第十四週  遊戲的觀察與紀錄<br>第十五週  遊戲與幼兒輔導<br>第十六週  遊戲與特殊需求幼兒<br>第十七週 分組試教<br>第十八週 分組試教",
+    "exams": {
+        "midterm": "個人書面與口頭報告",
+        "final": "分組試教",
+        "other": "分組試教"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解遊戲的意義與功能及其對嬰幼兒發展的重要性。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "提昇學習遊戲化、遊戲生活化的教保活動規劃技巧。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "善用並統整學習遊戲化概念於教保活動設計。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "實踐嬰幼兒遊戲的規畫技能並學習當一遊戲領導人。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "幼兒遊戲",
+        "author": "陳淑敏",
+        "publisher": "心理出版社",
+        "year": "2023",
+        "ISBN": "978-626-7178-50-8",
+        "edition": "第四版"
+    },
+    "referenceBooks": "王全興、周梅如譯(2017)。以遊戲為核心的課程。台北：華騰。 <br>吳幸玲（2011）。兒童遊戲與發展。台北：揚智文化。<br>黃瑞琴（2011）。幼兒園遊戲課程。台北：心理。<br>吳鷰儀等譯（2008）。幼兒遊戲：以 0-8 歲幼兒園實務為導向。台北：華騰。<br>吳麗媛等譯（2005）。幼兒遊戲與發展理論。台北：華騰。<br>蔡淑苓（2004）。遊戲理論與應用－以幼兒遊戲與幼兒教師教學為例。 台北：五南出版社。 <br>林惠雅（2003）。幼兒遊戲課程－動作技能與社會能力發展。台北：心理。 <br>郭靜晃（1992）。兒童遊戲－遊戲發展的理論與實務。台北：揚智文化。<br>",
+    "teachingSoftware": "PPT",
+    "rules": "評量方式 <br>1、上課出席與參與討論20%  學習態度：10%<br>2、期中報告：戶外遊戲環境訪調和評估報告，個人，30%<br>3、期末:遊戲活動設計40%： 1.以組為單位（三人一組） 2.依照「幼兒園教保活動課程暫行大綱」之任一領域設計遊戲活動，並搭配遊戲自行設計教具 (教案10%+教具10%-說明分工)3.遊戲活動試教每個人都要有試教工作10%與個人省思10%<br>"
+}

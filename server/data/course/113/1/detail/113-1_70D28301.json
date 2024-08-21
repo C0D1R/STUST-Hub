@@ -1,0 +1,135 @@
+{
+    "code": "70D28301",
+    "name": {
+        "zh": "自我管理與實現",
+        "en": "Self-management and realization"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管一甲",
+        "四技企管一乙"
+    ],
+    "instructors": [
+        "賴明材"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "S303"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "S303"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "S303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程設計著重於引導學生朝自我管理與自我實現兩大目標進行，自我管理包含目標管理、時間管理、情緒管理與壓力管理等，強調學習與思考，注重觀念與態度，提升正向能量。自我實現包含從認識自己之價值觀到人際關係之擴展。由現在的自我管理到未來的生涯規劃，循著自我觀察及評估、目標設定與執行，檢視並改善學習方法與做事態度，提早為生涯做好準備與規劃，促進自我管理與願景目標的實踐。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1. 學業自我管理<br>2. 動機理論與激勵<br>3. 目標設定與管理<br>4. 時間管理<br>5. 情緒與壓力管理<br>6. 生涯規劃的基本概念<br>7. 建立自己價值觀<br>8. 困境的調適與突破<br>9. 溝通與人際關係擴展",
+        "en": "1. Academic Self-Management <br>2. Motivation Theory and Motivation <br>3. Goal Setting and Management <br>4. Time Management <br>5. Emotion and Stress Management <br>6. Basic Concepts of Career Planning <br>7. Establish your own values <br>8. Adjustment and breakthroughs in difficult situations<br>9. Communication and Interpersonal Expansion"
+    },
+    "weeklySchedule": "第1週  學業自我管理<br>第2週  學業自我管理<br>第3週  動機理論與激勵<br>第4週  動機理論與激勵<br>第5週  目標設定與管理<br>第6週  時間管理<br>第7週  時間管理<br>第8週  期中報告<br>第9週  期中考<br>第10週  情緒與壓力管理<br>第11週  情緒與壓力管理<br>第12週  生涯規劃的基本概念<br>第13週  建立自己價值觀<br>第14週  困境的調適與突破<br>第15週  溝通與人際關係擴展<br>第16週  溝通與人際關係擴展<br>第17週  期末報告<br>第18週  期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "書面報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解基本管理知識與學理，了解問題解決所對應的方法。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能用綜觀整體的洞察力，評估問題的各個面向，定義出問題發生原因，並做出對應之改善方案。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能主動學習與體驗新事物，以提高自身能力來修正自我，並因應未來的變遷。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "透過同理、傾聽與溝通，在競爭與合作並進的同儕關係中，建立屬於自己的「溝通合作能力」與「人際力」。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "做個成功學習的大學生–動機與學習自我管理",
+        "author": "李麗君譯",
+        "publisher": "心理出版社",
+        "year": "2007",
+        "ISBN": "9577029744",
+        "edition": ""
+    },
+    "referenceBooks": "王乾任(2013)。大學生一定要具備的職場接軌力。凱信出版社。",
+    "teachingSoftware": "",
+    "rules": ""
+}

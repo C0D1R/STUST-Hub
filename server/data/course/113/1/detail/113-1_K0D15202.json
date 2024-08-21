@@ -1,0 +1,139 @@
+{
+    "code": "K0D15202",
+    "name": {
+        "zh": "基礎程式設計",
+        "en": "Basic Programming"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技多樂一乙"
+    ],
+    "instructors": [
+        "黃永銘"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "W0706"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "W0706"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "W0706"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹電腦程式語言發展與沿革、理解數值型別與參考型別、學習分支、迴圈等基礎概念、學習命名空間、字串、陣列等進階概念、學習基礎Sorting方法、學習資料流Reader與 Writer<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 電腦程式語言概念<br>2. 資料型態與庫存函示<br>3. 流程控制<br>4. 陣列宣告及應用<br>5. 基礎排序<br>6. 檔案讀取及寫入",
+        "en": "1. The introduction of programming language<br>2. Variables and data types<br>3. Flow control<br>4. Arrays<br>5. Basic sorting<br>6. Basic input and output"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "電腦程式語言概念：介紹電腦程式語言發展與沿革",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "資料型態與庫存函示\t：理解數值型別與參考型別",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "流程控制：學習分支、迴圈等基礎概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "陣列宣告及應用：學習命名空間、字串、陣列等進階概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "基礎排序：學習基礎Sorting方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "檔案讀取及寫入：學習資料流Reader與 Writer",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

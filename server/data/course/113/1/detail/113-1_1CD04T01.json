@@ -1,0 +1,116 @@
+{
+    "code": "1CD04T01",
+    "name": {
+        "zh": "新型態互動設計",
+        "en": "Interactive Computation"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技產設三甲",
+        "四技產設三乙"
+    ],
+    "instructors": [
+        "馮嘉慧"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "P403"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "P403"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "P403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程內容包括運算思維基本概念與應用、虛擬實境與擴增實境技術及應用、App Inventor 的設計與開發、實踐應用專案和評估驗證。課程中學習如何運用這些工具來創造出令人驚艷的互動設計，並且了解到這些新技術在現實生活中的應用，掌握新興領域的互動設計技能，為未來的職涯打下堅實的基礎。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.運算思維的基本概念和應用<br>2.虛擬實境與擴增實境相關技術和應用<br>3.學習App Inventor 設計和開發<br>4.實踐 App Inventor 應用專案<br>5.評估與驗證",
+        "en": "1.Understand the concepts and applications of computational thinking.<br>2.Learn about the technologies and applications related to virtual reality and augmented reality.<br>3.Develop skills in designing and developing with App Inventor.<br>4.Apply App Inventor to create projects and applications.<br>5.Evaluate and verify the design results."
+    },
+    "weeklySchedule": "第1週：課程介紹 <br>第2週：App Inventor 2環境介紹與模擬器安裝<br>第3週：App Inventor 2 介面、元件和功能介紹 <br>第4週：介面水平與垂直佈局製作<br>第5週：音訊、圖像與媒體的應用 (Hello Pet)<br>第6週：使用標籤與按鈕元件 <br>第7週：行動裝置App製作(Skeleton Hotspot)<br>第8週：程式邏輯、條件、迴圈<br>第9週：期中考 專案提案<br>第10週：行動裝置App製作 (Drawing App)<br>第11週：使用裝置定位和地圖顯示<br>第12週：行動裝置App製作 (Bank App)<br>第13週：Android App 進階功能設計<br>第14週：Android App 資料儲存與管理方法<br>第15週：行動裝置App開發製作 1<br>第16週：行動裝置App開發製作 2<br>第17週：行動裝置App驗證測試<br>第18週：期末考與項目展示",
+    "exams": {
+        "midterm": "提案報告",
+        "final": "成果展示",
+        "other": "平時作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "運算思維與組織",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "軟體流程設計規劃",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "啟發式評估和資訊架構模擬設計",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "每一階段驗證與成果的發表",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自編教材",
+    "teachingSoftware": "APP Inventor 2",
+    "rules": ""
+}

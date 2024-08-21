@@ -1,0 +1,140 @@
+{
+    "code": "30D1EE01",
+    "name": {
+        "zh": "微控制器應用實務專題",
+        "en": "Microcontroller application practical project"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子三丙"
+    ],
+    "instructors": [
+        "陳銘哲",
+        "楊榮林"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "J206"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "J206"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "J206"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學習德州儀器公司MSP430G2系列微控制器架構，包括指令、記憶體、計時/計數器、類比數位轉換介面、串列介面、中斷方式，進而撰寫控制程式控制其硬體及其他應用電路，以便有能力設計小型微處理器應用系統",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.微控制器概念。<br>2.介面程式設計。<br>3.軟體專案規畫。<br>4.小組討論。<br>5.期末專題實作。<br>6.期末報告。",
+        "en": "1. MCU-oriented concept.<br>2. Structured and object-oriented programming.<br>3. Software project planning.<br>4. Group discussion.<br>5. Implementation of the final project.<br>6. Final report."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解嵌入式系統軟硬體架構以及針對不同應用規劃採用適當之嵌入式系統。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養嵌入式系統設計及軟硬體設計之實務能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生必須以所具備之軟體程式能力建構一具特殊功能之簡易嵌入式系統。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立整合現有軟硬體開發工具的應變技巧,並加強如何引用他人著作之正確觀念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過作業與測驗培養學生抗壓性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養以嵌入式系統來進行整合應用的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

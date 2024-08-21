@@ -1,0 +1,157 @@
+{
+    "code": "H0D05001",
+    "name": {
+        "zh": "生技製藥概論",
+        "en": "Introduction of Biopharmaceutics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技食品四甲",
+        "四技食品四乙"
+    ],
+    "instructors": [
+        "李順來"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "I0701"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "I0701"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "I0701"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本門課內容包括:新藥開發程序介紹,新藥申請法規與程序,cGMP概念,生技藥物介紹,蛋白藥物,基因工程疫苗,檢驗試劑,抗癌藥物等單元",
+    "prerequisites": "具備有機化學，生物化學，細胞生物學之基本觀念",
+    "syllabus": {
+        "zh": "1製藥學概論<br>2新藥開發程序<br>3藥物製造程序<br>4蛋白質藥物<br>5血液生長因子藥物<br>6酵素藥物<br>7中草藥<br>8健康食品<br>",
+        "en": "1 Pharmaceuticals, biologics and biophaemaceuticals<br>2 The drug development process<br>3 The drug manufacturing process<br>4 The cytokines<br>5 haemopietic growth factors<br>6 Enzymes<br>7 Chinese herb medicines<br>8 Health foods"
+    },
+    "weeklySchedule": "1-3週 製藥學概論<br>4-9週 新藥開發程序<br>10-12週 藥物製造程序<br>13-14週 PIS GMP/cGMP<br>15週 蛋白質藥物<br>16-17週 疫苗原理與製造<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識生技製藥之基本知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "知道新藥開發的相關資訊",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生實驗數據的分析的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生書面與解說報告的能力",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解藥物製造與生產流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解生技製藥產業的相關性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "Principles and Practice of Pharmaceutical Medicine<br>Editor(s):Lionel D. Edwards MB, BS, LRCP, MRCS, DipCOG, FFPM,, Anthony W. Fox BSc, MBBS, FFPM, FRCP, MD(Lond), DipPharmMedRCP, CBiol, FIBiol,, Peter D. Stonier BA, BSc, PhD, MBChB, MRCPsych, FRCPPrint ISBN:9781405194723 |Online ISBN:9781444325263 |DOI:10.1002/9781444325263<br>Copyright © 2011 Blackwell Publishing Ltd, FRCPE, FFPM,<br>",
+    "teachingSoftware": "",
+    "rules": ""
+}

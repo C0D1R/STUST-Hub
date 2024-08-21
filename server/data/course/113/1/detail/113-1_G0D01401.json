@@ -1,0 +1,128 @@
+{
+    "code": "G0D01401",
+    "name": {
+        "zh": "資料結構",
+        "en": "Data Structure"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資工二甲",
+        "四資工國專二甲"
+    ],
+    "instructors": [
+        "李宗儒"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "C301"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "C301"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "C301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "教導學生學習以C++語言撰寫指標，結構，陣列，堆疊，佇列，串列，樹狀結構 ，排列，搜尋等有效率資料結構程式。",
+    "prerequisites": "C++",
+    "syllabus": {
+        "zh": "第1章。基本概念<br>第2章。陣列<br>第3章。堆疊和佇列<br>第4章。鏈結串列<br>第5章。樹<br>第6章。圖形<br>第7章。排序<br>第8章。雜湊<br>第9章。優先佇列<br>第10章。高效二進制搜尋樹<br>第11章。多路搜尋樹<br>第12章。數位搜尋結構",
+        "en": "Chapter 1. Basic Concepts <br>Chapter 2. Arrays &amp; Structures <br>Chapter 3. Stacks and Queues <br>Chapter 4. Linked Lists <br>Chapter 5. Trees <br>Chapter 6. Graphs <br>Chapter 7. Sorting <br>Chapter 8. Hashing <br>Chapter 9. Priority Queues <br>Chapter 10. Efficient Binary Search Trees <br>Chapter 11. Multiway Search Trees <br>Chapter 12. Digital Search Structures"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解資料結構方法與基本學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對資料結構問題有效辨識適當的資料結構方法並能體認正確嚴謹應用資料結構方法的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用資料結構方法建立有效率的程式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現資料結構問題，讓不懂統計專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用資料結構分析問題並正確解讀問題與分工",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,127 @@
+{
+    "code": "J0D29702",
+    "name": {
+        "zh": "數位影像創作",
+        "en": "Digital Image Creation"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技商設一乙"
+    ],
+    "instructors": [
+        "高軒然"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "W0808"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "W0808"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "W0808"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在影像處理軟體與向量軟體已有基本操作概念的基礎之上，將軟體結合實際的創作，進階運用點陣與向量繪圖軟體的技巧，將創作理念更完整透過視覺表達出來。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、數位影像概念與課程介紹 <br>二、數位創作表現風格鑑賞<br> 1. 數位藝術作品特性與表現<br> 2. 數位設計作品特性與表現<br>三、創作主題發想、規劃與呈現<br> 1. 觀察、發掘、想像與記錄創意<br> 2. 向量與點陣軟體進階應用<br> 3. 視覺表現的綜合技巧整合與表達<br>四、作品發表與賞析<br>",
+        "en": "This course based on the basic operational concepts of image processing software and vector-image software. Using software skill to apply to the actual design work. Combining the techniques of bitmap and vector drawing software, in advance to make the creative concept more complete and visualize.<br>1.Digital image concept and course introduction<br>2.Digital creation performance style appreciation<br>3.Characteristics and performance of digital design works<br>4.The creation of the theme of thinking, planning and presentation<br>5.Observing, discovering, imagining and recording ideas<br>6.Advanced application to Vector and bitmap software <br>7.Integration and expression of comprehensive skills in visual performance<br>8.Design work publication and appreciation <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "運用數位工具進行圖像表達",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練各種數位工具的整合運用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "圖像敏銳度的感受培育，能夠準確地表現傳達意旨",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "數位影像美學的養成",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養基礎多媒體創作觀念，訓練多媒體創作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

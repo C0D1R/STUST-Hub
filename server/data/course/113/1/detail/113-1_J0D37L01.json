@@ -1,0 +1,122 @@
+{
+    "code": "J0D37L01",
+    "name": {
+        "zh": "創業概論",
+        "en": "Introduction to Entrepreneurship"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技商設四甲"
+    ],
+    "instructors": [
+        "黃添貴"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "W0903"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "W0903"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "這是一門綜合創意機會評估、商業模式規劃、新創公司發展、創業法規與資源申請等的整合性創業課程，目的是讓學生能對於創業家精神、創業正確認知、知識及資源有所了解外，也培養學生具有將創意構想事業化的企劃能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "創業理論基礎<br>創業機會與評估<br>商業模式規劃<br>工商登記與稅務<br>人力資源發展<br>創業資金取得<br>政府資源運用<br>商圈立地評估<br>整合行銷<br>品牌經營<br>創意保護<br>",
+        "en": "Introduction to Entrepreneurial Theory<br>Evaluation of Entrepreneurial Opportunity<br>Business Model Planning<br>Business Registration and Taxation<br>Human Resources Development<br>Venture Capital Application<br>Government Funding<br>Evaluation of Location<br>Integrated Marketing<br>Brand Management<br>Intellectual Property Rights Protection<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "創業管理基本認知",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創業機會評估",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "商業模式規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "新創公司發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解創業法規及資源",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

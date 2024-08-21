@@ -1,0 +1,134 @@
+{
+    "code": "D0Q03N01",
+    "name": {
+        "zh": "企業經營實務研討",
+        "en": "enterprise management and operation seminar"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩專行流一甲"
+    ],
+    "instructors": [
+        "陳淑慧"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第2節",
+            "location": "T0212"
+        },
+        {
+            "day": "週六",
+            "period": "第3節",
+            "location": "T0212"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "此課程主要是聘請業界人士向學生講授與討論企業界之實務課題",
+    "prerequisites": "管理等相關科目",
+    "syllabus": {
+        "zh": "安排業界講師授課，其為了解業界之各管理層面之實務經驗，其課程安排包含:<br>1.品質管理實務<br>2.生產管理實務<br>3.商流管理實務<br>4.物流管理實務<br>5.研究管理實務_鮮乳調味乳<br>6.品牌管理實務_瑞穗調味乳<br>7.財會管理實務<br>8.人資管理實務<br>9.企劃管理實務",
+        "en": "1.Quality management<br>2.Produce management<br>3.Business Flow management<br>4.Logistics management<br>5.Research management<br>6.Brand management<br>7.Accounting management<br>8.Human Resource management<br>9.Planning management"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能透過實務研討之過程，從中獲得整合與解決問題之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能整合方式，並善用該經驗職場學習實務之行銷與物流之",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能主動學習新事物，並解決職場之環境",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有調理的表達想法與人溝通無礙",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認工作態度與團隊合作在職場之重要性，並能接受分工合作的工作方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解企業責任，並能遵守職業道德及主動關懷他人",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

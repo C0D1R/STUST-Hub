@@ -1,0 +1,159 @@
+{
+    "code": "04D07S02",
+    "name": {
+        "zh": "體育(七)：游泳(C)",
+        "en": "Physical Education(Ⅶ)：Swimming"
+    },
+    "credit": "2",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "五專資工四甲"
+    ],
+    "instructors": [
+        "谷淑華"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": ""
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "培養游泳運動風氣，提供正確觀念與動作姿勢，避免運動傷害發生，進而增進個人泳技及水上自救能力並成為個人最佳之終身運動。",
+    "prerequisites": "注意事項：\n第一節課在三連堂前集合\n1.有特殊疾病者(心臟病、皮膚病、癲癇症)不可選修游泳.\n2.需自備交通工具,泳具.\n3.課外課程須負擔相關費用.\n4.身體若有任何已知狀況或疾病,請務必告知任課教師",
+    "syllabus": {
+        "zh": "1.課程介紹與說明,資料製作2.每次上課，均將前一堂學習的動作，做適度的複習3.水中安全教育：水母漂、韻律呼吸、仰漂、立泳（踩水）、救生器材認識與運用4.依學生學習狀況及反應，穿插水中安全教育及自救課程5.游泳四式分解教學，組合教學6.如學生已學過或程度較佳者，可依其能力適度調整進度7.水中救生與自救方法認識",
+        "en": "1. Course introduction and explanation, data production2. A moderate review of previous learning session before a new session.3. Water safety education: jellyfish drift, rhythm breathing, back drift, standing swimming (treading water), life-saving equipment awareness and application4. Interspersed with water safety education and self-help courses according to students' learning conditions and reactions5. Four styles disassembly teaching and combined teaching6. Students with pre-requested knowledge or skill, the progress can be adjusted according to the ability.7. Understanding of lifesaving and self-rescue methods in water"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過游泳運動的正確學習，了解水中安全的知識、態度與技能並提升個人體適能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過游泳運動技巧的提升，養成規律的終身運動習慣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過游泳運動舒緩身心壓力，培養快樂生活建立良好人際關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "從游泳運動競賽中培養運動家精神，以利發展建全的人格特質",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由游泳運動習慣中培養營造健康社區，養成與他人互動和發展友誼的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由欣賞游泳競賽，了解競賽規則培養與對藝術與美的欣賞能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由游泳運動競賽中，訓練個人的抗壓性與自制自律能力，進而培養勝不驕敗不餒的運動精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過游泳運動培養團隊紀律強化團隊合作精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

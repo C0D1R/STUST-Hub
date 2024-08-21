@@ -1,0 +1,111 @@
+{
+    "code": "H0D15C01",
+    "name": {
+        "zh": "環境永續與安全衛生概論",
+        "en": "Introduction of Environmental Sustainability, Safety and Hygiene"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技食品一甲",
+        "四食品國專一甲"
+    ],
+    "instructors": [
+        "林家妤"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "I0308"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "I0308"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "一、課程以講授生技食品產業相關之環境保護、企業永續發展、職業安全與衛生等概念與相關法規。<br>二、介紹聯合國SDGs 17項永續發展目標。<br>三、透過影片欣賞以及分組討論，讓學生對生技食品產業之環境永續與職業安全衛生等議題具備足夠的知識和問題解決能力。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.公害防治與環境保護<br>2.企業永續發展介紹<br>3.聯合國全球永續發展目標SDGs<br>4.生技食品產業之職業安全與衛生<br>5.職業病預防與健康管理<br>",
+        "en": "1. Public pollution prevention and environmental protection<br>2. Environmental, social and governance, ESG<br>3. Introduction of Sustainable Development Goals, SDGs <br>4. Biotechnology and food industrial safety and hygiene<br>5. Prevention of occupational diseases and health management<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習生技食品產業相關之環境保護、企業永續發展等概念與相關法規",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識聯合國SDGs 17項永續發展目標",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解生技食品產業之職業安全衛生概念與相關法規",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養對生技食品產業之環境永續與職業安全衛生等議題具備足夠的知識和問題解決能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

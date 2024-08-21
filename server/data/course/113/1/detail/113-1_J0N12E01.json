@@ -1,0 +1,135 @@
+{
+    "code": "J0N12E01",
+    "name": {
+        "zh": "識別系統設計",
+        "en": "Identity System Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技視傳二甲"
+    ],
+    "instructors": [
+        "陳彥碩"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "W0807"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "W0807"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "W0807"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "識別系統設計乃是企業透過各種行為，企圖將企業的完整訊息傳達給消費者的一種方式。其主要包含理念識別(MI)、活動識別(BI)、視覺識別(VI)等三大領域。藉由此課程幫助學生在識別系統設計相關領域中，建立設計標準與系統規範，並運用符號邏輯，達成預期設計目標。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(1) 企業識別系統導論<br>(2) 企業識別系統構成－理念識別<br>(3) 企業識別系統構成－活動識別<br>(4) 企業識別系統構成－視覺識別<br>(5) 企業識別系統著名案例<br>(6) 商標設計<br>(7) 標準色設計<br>(8) 專用字體設計<br>(9) 企業識別系統應用設計<br>(10) 企業識別樹<br>(11) 企業識別手冊",
+        "en": "(1) Introduction of Corporate Identity System (CIS)<br>(2) Corporate Identity System Constitution - Mind Identity (MI)<br>(3) Corporate Identity System Constitution - Behavior Identity (BI) <br>(4) Corporate Identity System Constitution - Visual Identity (VI)<br>(5) Case Study of Corporate Identity System<br>(6) Logotypes and Marks Design<br>(7) Planning of Standard Color<br>(8) Design of Reserved Font<br>(9) Applied Design of Corporate Identity System<br>(10) Corporate Identity Tree <br>(11) Corporate Identity Manual"
+    },
+    "weeklySchedule": "(1) 企業識別系統導論<br>(2) 企業識別系統構成－理念識別<br>(3) 企業識別系統構成－活動識別<br>(4) 企業識別系統構成－視覺識別<br>(5) 企業識別系統著名案例<br>(6) 商標設計<br>(7) 標準色設計<br>(8) 專用字體設計<br>(9) 企業識別系統應用設計<br>(10) 企業識別樹<br>(11) 企業識別手冊",
+    "exams": {
+        "midterm": "作業及報告",
+        "final": "作業及報告",
+        "other": "作業及報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能理解何謂具系統化、標準化、規格化之識別系統設計。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學生能有效運用數位設計媒體建構完整之企業識別系統手冊。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能理解企業識別系統所包含的所有項目。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能深入思考如何萃取企業精神與文化。",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能賞析好的企業識別系統之特質。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自編教材",
+    "teachingSoftware": "adobe photoshop\nadobe Illustrator",
+    "rules": ""
+}

@@ -1,0 +1,128 @@
+{
+    "code": "10D03001",
+    "name": {
+        "zh": "馬達原理與控制",
+        "en": "Principles of Motor and Their Control"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控三甲",
+        "四技自控三乙"
+    ],
+    "instructors": [
+        "張廉楷"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "K412"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "K412"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "K412"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "教導學生了解直流馬達、步進馬達和交流馬達的工作原理與其控制方法。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1. 電路學回顧<br>2. 磁路分析<br>3. 直流馬達<br>4. 步進馬達<br>5. 變壓器<br>6. 交流馬達<br>",
+        "en": "1.Review of circuit<br>2.Magnetic circuit<br>3.DC motors<br>4.Step motors<br>5.Transformer<br>6.AC motors"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備電磁基本觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備反電動勢及電磁力的觀念與計算能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備電動機分類與構造的基本觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備電動機特性知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備電動機基本控制方法的基本觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

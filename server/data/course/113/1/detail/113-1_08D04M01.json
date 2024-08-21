@@ -1,0 +1,164 @@
+{
+    "code": "08D04M01",
+    "name": {
+        "zh": "永續發展概論",
+        "en": "Sustainable Development Goals"
+    },
+    "credit": "2",
+    "type": "管制選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "史帝夫",
+        "沈玫宜",
+        "林育昇",
+        "趙品淳",
+        "鄭育萍",
+        "羅夏美"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "W0403"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "W0403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹永續的概念，探討人們在面對全球變化、生態系統惡化及資源限制時，如何為生存和福祉而努力。在本課程中，學生將了解跨領域的永續發展議題，包括人口、生態系統、全球變化、能源、倫理和文化歷史。<br><br>This course introduces the concept of Sustainability and explores how people can do for survival and well-being in the face of global change, ecosystem degradation and resource limitations. In this course, students will be familiarized with cross-disciplinary issues on sustainability, including population, ecosystems, global change, energy, ethics, and cultural history.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t永續哲學概念<br>2.\t永續與良好健康<br>3.\t永續教育<br>4.\t永續管理<br>5.\t永續地球<br>6.\t永續創新<br>",
+        "en": "1.\tWhat is sustainability?<br>2.\tSustainability and good health<br>3.\tEducation for sustainable development<br>4.\tSustainable management<br>5.\tSustainable planet<br>6.\tSustainable innovation<br>"
+    },
+    "weeklySchedule": "Teachers will present topics related to various aspects of this field. Handouts will be provided.<br><br><br>Week 13. Cultural Differences<br>Week 14. Cultural Sustainability<br>Week 15. Cross-Cultural Learning<br><br>",
+    "exams": {
+        "midterm": "Quiz: Listening and Reading Comprehension (20 questions total)",
+        "final": "Quiz: Listening and Reading Comprehension (20 questions total)",
+        "other": "Oral report: 8 groups of PPT production and presentation"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能夠討論永續發展相關議題",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能够致力於創造一個永續發展的世界",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠就特定主題進行學術討論",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠使用英語說、聽，以進行有效的人際溝通",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能夠在高壓情況下保持熱情和積極",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠使用英語說、聽，以進行有效的人際溝通",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能夠使用網路資源搜尋與特定主題相關的訊息",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠研究一個主題並批判性思考",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "On the Road",
+        "author": "Jack Kerouac",
+        "publisher": "https://www.un.org/sustainabledevelopment/",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "None",
+    "teachingSoftware": "https://www.un.org/sustainabledevelopment/",
+    "rules": "None"
+}

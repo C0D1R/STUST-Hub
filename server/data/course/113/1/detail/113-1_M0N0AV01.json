@@ -1,0 +1,133 @@
+{
+    "code": "M0N0AV01",
+    "name": {
+        "zh": "餐旅英文",
+        "en": "Tourism and Hospitality English"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技餐旅三甲"
+    ],
+    "instructors": [
+        "林遠志"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "T0309"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "T0309"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "T0309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "2.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The Course teaches students how to use English for everyday situations and purposes related to social life and leisure. A range of higher-level comprehension skills is developed.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "This course is organized into 6 modules and each contains several lessons. Each module is based on a different theme, and each lesson covers a different aspect of the theme.<br>1.socializing<br>2.hotels/ accommodation<br>3.food and drink<br>4.international travel/ attractions and activities<br>5.money<br>6.communications<br>",
+        "en": "This course is organized into 6 modules and each contains several lessons. Each module is based on a different theme, and each lesson covers a different aspect of the theme.<br>1.socializing<br>2.hotels/ accommodation<br>3.food and drink<br>4.international travel/ attractions and activities<br>5.money<br>6.communications<br>"
+    },
+    "weeklySchedule": "Week 1 Introduction and Unit 1 Hotel Reservations<br>Week 2 Unit 1 Hotel Reservations<br>Week 3 Unit 2 Restaurant Reservations<br>Week 4 Unit 2 Restaurant Reservations<br>Week 5 Unit 3 Hotel Check-in<br>Week 6 Unit 3 Hotel Check-in<br>Week 7 Unit 4 Welcoming and Seating<br>Week 8 Unit 4 Welcoming and Seating and Quiz 1<br>Week 9 Midterm Exam<br>Week 10 Unit 6 Taking Order<br>Week 11 Unit 6 Taking Order<br>Week 12 Unit 7 Tours from the Hotel<br>Week 13 Unit 7 Tours from the Hotel<br>Week 14 Unit 8 Handling Complaints<br>Week 15 Unit 8 Handling Complaints<br>Week 16 Unit 9 Service during the Meal<br>Week 17 Unit 9 Service during the Meal and Quiz 2<br>Week 18 Final Exam",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "兩次小考筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解及翻譯基本餐飲業的英文對話知識及運用。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能針對餐飲業上的專業知識以適當英文加以應用。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能解析餐飲業的營運方式，將其有效的使用專業的餐旅英文作口語表達。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有效的應用MS office 軟體進而呈現專業性的報告及簡報。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Hospitality English",
+        "author": "胡宜蓁, 張郁英",
+        "publisher": "華立圖書",
+        "year": "2021",
+        "ISBN": "978-957-784-906-9",
+        "edition": "第三版"
+    },
+    "referenceBooks": "餐旅英文<br>保里乃玲 著<br>華立圖書出版<br>2015年<br>ISBN:9789577845924",
+    "teachingSoftware": "Microsoft Power Point",
+    "rules": "1.無請假而缺席者視為曠課<br>2.請同學尊重智慧財產權，使用正版教科書，不得非法影印，以免觸犯智慧財產權相關法令"
+}

@@ -1,0 +1,117 @@
+{
+    "code": "80D13601",
+    "name": {
+        "zh": "財務資訊系統",
+        "en": "Financial Information System"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技財金三甲",
+        "四技財金三乙"
+    ],
+    "instructors": [
+        "劉海清"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "S409"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "S409"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S409"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.證券營業員",
+        "2.期貨營業員"
+    ],
+    "description": "本課程是以excel為工具，來求算財務管理與投資上的各種實務問題，課程之主題包含了房貸、基金、保險、證券、期貨與選擇權等多項商品，因此本課程之設計特別適合日後擔任銀行理財專員職務所需的各項實務專業技能，此外也可運用在日後自己的投資理財方面。<br><br>",
+    "prerequisites": "具備excel基本操作能力",
+    "syllabus": {
+        "zh": "一、財務函數的運用<br>二、浮動利率下傳統房貸每期繳付利息與償還本金之求算(傳統房貸與花旗自由年代的比較)<br>三、定期定額法報酬率的求算<br>四、保單內部報酬率的求算<br>五、風險與投資績效指標之求算<br>六、投資組合效率前緣的繪製<br>七、採用各種技術分析操作之損益分析(程式交易)<br>八、選擇權與期貨套利績效研究<br><br><br>",
+        "en": "1.Application of Financial Function<br>2.House Payment under Floating Rate<br>3.Fund Performance with Dollar-Cost-Averaging Method<br>4.The IRR of Insurance<br>5.Performance Index of Fund<br>6.Drawing Efficient Frontier of Portfolio<br>7.Analysis of Program Trading<br>8.Performance of Arbitrage between Options and Futures"
+    },
+    "weeklySchedule": "第1週 課程介紹<br>第2週 一、財務函數的運用<br>第3週 二、浮動利率下傳統房貸每期繳付利息與償還本金之求算(傳統房貸與花旗自由年代的比較)<br>第4週 三、定期定額法報酬率的求算<br>第5週 四、保單內部報酬率的求算<br>第6週 五、風險與投資績效指標之求算<br>第7週 六、投資組合效率前緣的繪製<br>第8週 習題練習 <br>第9 期中考<br>第10-12週 七、程式交易損益分析<br>第13-14週 八、選擇權與期貨套利績效研究<br>第15-16週 交易策略回溯測試<br>第17週 習題練習",
+    "exams": {
+        "midterm": "上機測驗",
+        "final": "上機測驗",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解財務的基本學理",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能應用適當方法分析財金實務資料",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能針對財務問題有效辨識適當的解決方法",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用Excel 軟體分析財金資料並正確解讀報表",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

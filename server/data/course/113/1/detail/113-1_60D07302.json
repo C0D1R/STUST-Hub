@@ -1,0 +1,163 @@
+{
+    "code": "60D07302",
+    "name": {
+        "zh": "統計學(一)",
+        "en": "Statistics(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國企二甲"
+    ],
+    "instructors": [
+        "張淑玲"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "S512"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "S512"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "S512"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹統計方法的基本概念與Excel軟體分析統計資料的操作與解讀。內容包括資料的蒐集與整理，分析解釋等敘述統計及由樣本推論母體的估計檢定，迴歸分析，變異數分析，無母數統計，時間序列分析等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程著重於介紹統計方法的基本概念與Excel軟體分析統計資料的操作與解讀。內容包括資料的蒐集與整理，分析解釋等敘述統計及由樣本推論母體的估計檢定，迴歸分析，變異數分析等。預期培養學生對於統計學的認知及分析能力，並能運用統計方法辨識與解決國際企業問題。<br>1\t認識統計學<br>2\t資料的蒐集與整理<br>3\t常用的統計測量數<br>4\t機率概論<br>5\t機率分配<br>6\t抽樣與抽樣分配<br>7\t估計<br>8\t假設檢定<br>9\t變異數分析<br>10\t簡單線性迴歸與相關分析<br>11\t類別資料的分析<br>12\t使用Excel進行問卷分析<br>13\t多元迴歸分析",
+        "en": "This course focuses on the introduction of fundamental statistics, the use of Excel in analyzing quantitative data, and interpretation of the statistical results. Main topics include: Data Collection and Analysis, General Statistics, Introduction to Probability, Probability Distributions, Sampling and Sampling Distributions, Estimate, Hypothesis Testing, Analysis of Variance, and Simple Linear Regression and Correlation Analysis. Upon completion of the course, students will be able to (1) have the understanding of statistical methods and develop analytical thinking skills; (2) adopt the statistical methods in identifying and solving the problems related to international business management.  <br>1\tIntroduction to Statistics<br>2\tData Collection and Analysis<br>3\tGeneral Statistics<br>4\tIntroduction to Probability<br>5\tProbability Distributions<br>6\tSampling and Sampling Distributions<br>7\tEstimate<br>8\tHypothesis Testing<br>9\tAnalysis of Variance<br>10\tSimple Linear Regression and Correlation Analysis<br>11\tQualitative Data Analysis<br>12\tQuestionnaire Analysis Using Excel<br>13\tMultiple Regression Analysis"
+    },
+    "weeklySchedule": "1、課程介紹 &amp; 認識統計學<br>2、敘述統計：表格與圖形法<br>3、敘述統計：數值方法<br>4、機率導論<br>5、離散機率分配<br>6、連續機率分配<br>7、抽樣與抽樣分配<br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "作業",
+        "other": "筆試及作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能將資料轉換成資訊並用以建立最適決策",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解資料分析的統計方法與基本學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能利用Excel統計軟體分析資料並正確解讀報表",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能有效呈現資料分析結果",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能辨識使用正確的統計方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能主動分析國際商務相關資料以建立最適決策",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確的統計方法的重要性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "統計學",
+        "author": "陳可杰/黃聯海等譯",
+        "publisher": "滄海圖書有限公司",
+        "year": "14版",
+        "ISBN": "9789579282703",
+        "edition": "最新版"
+    },
+    "referenceBooks": "1. 方世榮著 統計學導論 華泰 <br>2. 呂金河審閱 統計學 滄海 <br>3. 林惠玲 陳正滄 應用統計學 雙葉 <br>4.鄭惟厚，胡學颖、基礎統計學 東華書局<br>5. 顏慧、丁淑方(譯)(2014)，統計學：基礎與應用，第三版，亞洲聖智學習國際出版。",
+    "teachingSoftware": "EXCEL",
+    "rules": ""
+}

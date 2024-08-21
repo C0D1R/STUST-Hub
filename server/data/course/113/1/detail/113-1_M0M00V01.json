@@ -1,0 +1,128 @@
+{
+    "code": "M0M00V01",
+    "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研休閒二甲",
+        "碩研餐旅二甲"
+    ],
+    "instructors": [
+        "陳孟修"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第7節",
+            "location": "T0610"
+        },
+        {
+            "day": "週三",
+            "period": "第8節",
+            "location": "T0610"
+        },
+        {
+            "day": "週三",
+            "period": "第9節",
+            "location": "T0610"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "動態的餐旅產業環境下，使我們應該要瞭解全球餐旅企業的運作。從總體趨勢的勞動力、科技與經濟情勢，到創業家的創新品牌與服務概念，並強調現今顧客的營收與企業每股盈餘。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 瞭解策略、驅策力、選擇及定位<br>2. 發展財務與品牌的成長策略<br>3. 行銷銷售與顧客保留的策略<br>4. 人力資源、科技與採購的策略<br>5. 風險管理、危機管理與溝通的防禦策略<br>6. 策略規劃、組織與營運管理、領導統御的執行",
+        "en": "1. Understanding strategy, driving forces, strategy selection and positioning<br>2. Developing financial and brand strategy<br>3. Marketing and sales strategy, and customer service<br>4. Human resource management, technology management, and purchasing strategy<br>5. Risk management, crisis management and communications<br>6. Strategic planning process, organizational and operational management, and leadership"
+    },
+    "weeklySchedule": "第1章 策略領導：管理策略制定程序以創造競爭優勢<br>第2章 外部分析：機會與威脅的辨識<br>第3章 內部分析：資源與競爭優勢<br>第4章 以功能層級策略建立競爭優勢<br>第5章 事業層級策略<br>第6章 事業層級策略與產業環境<br>第7章 策略與科技<br>第8章 全球環境中的策略<br>第9章 公司層級策略：水平整合、垂直整合與策略委外<br>第10章 公司層級策略：相關與非相關多角化<br>第11章 公司治理、社會責任與倫理<br>第12章 組織與策略執行<br>策略管理論文討論",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "上課出席與上課表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解餐旅業策略管理的特性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解環境變動對企業之影響",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解企業競爭力與策略之形成",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解策略規劃與執行、控制過程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能分析企業競爭力與建立規劃企業策略之能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "策略管理",
+        "author": "朱文儀, 陳建男",
+        "publisher": "華泰文化",
+        "year": "2020",
+        "ISBN": "",
+        "edition": "13"
+    },
+    "referenceBooks": "博碩士論文",
+    "teachingSoftware": "ppt",
+    "rules": "不要缺席"
+}

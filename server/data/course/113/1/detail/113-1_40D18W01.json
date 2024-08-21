@@ -1,0 +1,128 @@
+{
+    "code": "40D18W01",
+    "name": {
+        "zh": "高分子材料",
+        "en": "Polymer  Materials"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技化材三甲",
+        "四技化材三乙"
+    ],
+    "instructors": [
+        "關旭強"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "I0209"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "I0209"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "I0209"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Six topics will be discussed in this course. Introductions of polymers and their properties, studies of polymerization principals and kinetics, introductions of fufunctional polymers, introductions of advanced polymers and its applications.",
+    "prerequisites": "需具有材料科學基本概念\nStudents who take this course must have the basic concepts",
+    "syllabus": {
+        "zh": "第一章 何謂高分子<br>第二章 高分子合成<br>第三章 高分子物性<br>第四章 高分子加工<br>第五章 功能性高分子材料<br>第六章 高分子材料應用實例<br> <br>",
+        "en": "Chapter 1. Introductions of polymer <br>Chapter 2. Introductions of polymerization principals<br>Chapter 3. Physical properties of polymer <br>Chapter 4. Introductions of polymer processing<br>Chapter 5. Introductions of functional polymers<br>Chapter 6. Introductions of the applications of polymers<br> <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能區別高分子材料的種類",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉高分子材料性質的檢測及分析儀器",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解高分子材料在各種商業領域的應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能說明各種高分子材料的商業製作程序",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用網際網路平台收集並研讀相關資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

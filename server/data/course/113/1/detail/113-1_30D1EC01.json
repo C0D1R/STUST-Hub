@@ -1,0 +1,115 @@
+{
+    "code": "30D1EC01",
+    "name": {
+        "zh": "雲端資料庫實務",
+        "en": "Practice of Cloud Database"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電子三丙"
+    ],
+    "instructors": [
+        "王立洋"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "J404"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "J404"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "J404"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在大數據的時代，“巨量”釋放了資料潛藏的不可估測的價值，同時也帶來了資料儲存及運算效率的問題。本課程透過軟體，來建置並維運一個可靠而可擴充的分散式系統，對資料儲存、資料分析和協同運作提供一個簡單的工具。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 課程介紹<br>2. 關聯式資料庫基礎<br>3. SQL基本語法<br>4. MySQL介紹<br>5. PHP + MySQL 程式設計(一)<br>6. PHP + MySQL 程式設計(二)<br>7. 期中測驗<br>8. Javascript 與 JSON格式<br>9. Google Firebase 簡介<br>10. Firebase 程式設計<br>11. 期末測驗",
+        "en": "1. Course introduction<br>2. Concept of Relational Database<br>3. Structure Query Language(SQL)<br>4. Introduction of MySQL<br>5. PHP + MySQL Programming(1)<br>6. PHP + MySQL Programming(2)<br>7. Midterm Examination<br>8. Javascript and JSON<br>9. Introduction of Google Firebase<br>10. Firebase programming<br>11. Final examination"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解雲端資料庫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立雲端資料庫運算叢集",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "雲端資料庫程式開發",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "管理雲端資料庫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,139 @@
+{
+    "code": "L0D0B502",
+    "name": {
+        "zh": "基礎光學實習",
+        "en": "Fundamental Optics Laboratory"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技半導體三乙"
+    ],
+    "instructors": [
+        "蔡俊欽"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "Q502"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "Q502"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "Q502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "做基礎及一些進階的光學實驗，含幾何光學及波動光學。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、 課程介紹<br>大綱介紹、實驗規則說明、實驗零組件使用之說明、練習使用實驗零組件<br>二、 薄透鏡焦距的測量<br>三、 簡單的光學成像系統<br>四、 光學像差的觀察<br>五、 平行光的形成及光的繞射<br>六、 平行光的形成及干涉<br>七、 光的偏極實驗（一）：認識線偏極光及圓偏極光，與產生它們的方法。<br>八、 光的偏極實驗（二）：觀察生活裡與偏極化有關的現象，測量Brewster’s angle及玻璃的折射率。<br>九、 光的散射實驗<br>十、 雷射光束強度分佈量測<br>十一、 高斯雷射光束傳播特性<br>十二、 傅立葉光學<br>十三、 同調性及非同調性及成像系統<br>十四、 雷射光斑的觀察",
+        "en": "1. Introduction<br>2. Measurement of the focus length of a thin lens<br>3. Simple optical imaging systems<br>4. Observation of aberrations<br>5. Formation of the collimated beam and diffraction<br>6. Formation of the collimated beam and interference<br>7. Polarization (1): learn linearly and circularly polarized light and how to generate them.<br>8. Polarization (2): observe phenomena about polarization in the daily life, and measure Brewster’s angle and the refractive of the glass.<br>9. Light scattering<br>10. Measurement of the intensity profile of a Gaussian laser beam<br>11. Propagation characteristics of the Gaussian laser beam<br>12. Fourier optics<br>13. Optical coherence and imaging systems<br>14. Observation of the laser speckle"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解基本的幾何光學與波動光學原理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立設計與執行一般光學業界常用實驗之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成實驗技巧及使用工具的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建構整理與分析實驗結果之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成撰寫報告之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "發展團隊合作及和同儕互動的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

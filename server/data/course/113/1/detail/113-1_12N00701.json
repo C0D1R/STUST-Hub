@@ -1,0 +1,115 @@
+{
+    "code": "12N00701",
+    "name": {
+        "zh": "材料力學",
+        "en": "Mechanics of Materials"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技自控三甲"
+    ],
+    "instructors": [
+        "翁景洲"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "K403"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "K403"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "K403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程內容介紹材料應力、應變及物體受力變形，了解外力與變形量之關係，幫助機械工程師在設計過程中，計算結構各部份之應力及變形量，避免構件意外破壞，為一門實用之課程。",
+    "prerequisites": "靜力學",
+    "syllabus": {
+        "zh": "一、 應力：內力的分析、軸向負載桿件、剪應力、承受應力、軸向變形、應力應變圖<br>二、 應變：一般的虎克定律、靜不定的問題、熱應力<br>三、 扭轉：圓軸之扭轉、薄壁管之扭轉<br>四、 樑之剪力與彎矩：支撐與負載、剪力與彎矩方程式與剪力與彎矩圖、用面積法繪剪力與彎矩圖、移動負載<br>五、 樑之應力：彎曲應力、經濟斷面、樑之剪力、彎矩和剪力的設計、組立樑接合的設計<br>六、 樑之撓度：雙積分法、利用不連續之函數雙積分法、重疊方法<br>",
+        "en": "1.Stress: Analysis of Internal Force、Axially Loaded Bars、Shear Stress、 Bearing Stress、 Axial <br>Deformation、Stress-Strain Diagram<br>2.Strain: Generalized Hook’s Law、Statically Indeterminate Problem、Thermal Stress<br>3.Torsion: Torsion of Circular Shafts、Torsion of Thin-Walled Tubes<br>4.Shear and Moment in Beams: Supports and Loads、Shear-Moment Equations and Shear-Moment <br>Diagrams、Area Method for Drawing Shear-Moment Diagrams、Moving <br>Load<br>5.Stresses in Beams : Bending Stress、Economic Sections、Shear Stress in Beams、Design for Flexure <br>and Shear、Design of Fasteners in Built-up Beams<br>6.Deflections of Beams: Double-Integration Method、Double-Integration Using Bracket Functions、<br>Moment-Area Method、Method of Superposition<br>"
+    },
+    "weeklySchedule": "第一週   應力與應變圖<br>第二週   軸向負載件<br>第三週   剪應力<br>第四週   虎克定律<br>第五週   靜不定問題與熱應力<br>第六週   靜不定問題與熱應力(續)<br>第七週   圓軸的扭轉<br>第八週   薄壁管的扭轉<br>第九週   期中考<br>第十週   剪力圖與彎矩圖一<br>第十一週   剪力圖與彎矩圖二<br>第十二週  剪力圖與彎矩圖三<br>第十三週  彎曲應力<br>第十四週  梁的剪應力<br>第十五週  梁的剪應力<br>第十六週  梁的設計<br>第十七週  梁的撓度<br>第十八週   期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆拭",
+        "other": "作業及小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解學習材料力學的目的。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "知道物體之截面形狀、尺寸對材料強度與剛性的影響。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "計算軸向、扭轉、彎曲等負荷造成之應力與變形。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "認識應力、應變與材料機械性質等觀念以及相關專業英文。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自編講義",
+    "teachingSoftware": "",
+    "rules": "對於力學的分析與計算，能進一步的了解，在實務的應用方面，也能更加的得心應手！"
+}

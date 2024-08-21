@@ -1,0 +1,122 @@
+{
+    "code": "01D15W05",
+    "name": {
+        "zh": "基礎物理(一)",
+        "en": "Elementary Physics (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專資工一甲"
+    ],
+    "instructors": [
+        "陳建良"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "D201"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "D201"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "提供物理學及近代科學各個分支的基礎。本課程將系統地介紹自力學、熱學、電磁學、光學、近代物理學等。其中，<br>物理（一）教授：運動與力、熱、聲音、光<br>物理（二）教授：電與磁、能量與生活、現代科技簡介<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章　緒論<br>第二章　運動與力<br>第三章　熱<br>第四章　聲音<br>第五章　光<br>",
+        "en": "Chapter 1: Introduction<br>Chapter 2: Motion and Force<br>Chapter 3: Thermal<br>Chapter 4: Sound<br>Chapter 5: Light<br>"
+    },
+    "weeklySchedule": "第1週:\t1-1 物理學發展簡史, 1-2 國際單位系統<br>第2週:\t中秋節<br>第3週:\t2-1 與運動有關的物理量<br>第4週:\t2-2 加速度與等加速運動<br>第5週:\t2-3 自由落體運動<br>第6週:\t3-1 平面上的向量<br>第7週:\t3-2 拋體運動<br>第8週:\t3-3 等速圓周運動<br>第9週:\t期中考<br>第10週:\t4-1 力的意義及其量度, 4-2 牛頓運動定律<br>第11週:\t4-3 萬有引力<br>第12週:\t4-4 摩擦力, 4-5 靜力平衡<br>第13週:\t5-1 功與功率, 5-2 動能與功能定理<br>第14週:\t5-3 位能與力學能<br>第15週:\t5-4 能量間的轉換, 5-5 核能<br>第16週:\t6-1 動量與衝量<br>第17週:\t6-2 動量守恆<br>第18週:\t期末考<br><br><br><br><br><br><br><br><br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "養成學生對自然科學的認知與興趣",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "指導學生體認科學發展對人類生活和環境的影響及其重要性。",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "啟發學生創造和解決問題的能力。",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "協助學生培養正確的科學態度及學習科學的方法。",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "高職物理B上下冊",
+        "author": "黃偉哲、吳文義",
+        "publisher": "科友圖書股份有限公司",
+        "year": "2023",
+        "ISBN": "無",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

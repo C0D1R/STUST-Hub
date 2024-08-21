@@ -1,0 +1,115 @@
+{
+    "code": "15N08B01",
+    "name": {
+        "zh": "汽車綜合檢修實習(一)",
+        "en": "Automobile Repair Practice I"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技車輛二甲"
+    ],
+    "instructors": [
+        "許哲嘉"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "V108"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "V108"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "V108"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以燃油噴射控制系統為主要學習內容，包括各組件的拆裝、檢查和調整等，並含專業診斷器實地應用於系統診斷。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.引擎起動系統實習<br>2.引擎怠速調整<br>3.繼電器類型與應用<br>4.安全電路之設計及配線實習<br>5.觸發電路之設計及配線實習<br>6.4G-18引擎控制系統電路實習<br>",
+        "en": "1. Inspection, repair and maintenance for the starting system<br>2. Correctly and competently perform a adjustment idle speed<br>3. Have an application understanding of the relay in engine control system <br>4. Design and perform practice of a safety circuitry<br>5. Design and perform practice of a trigger circuitry<br>6. Practice and familiar with circuitry of the 4G-18 engine control system <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟練專業診斷器和示波器之操作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具有組件波型診斷的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "暸解引擎電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會閱讀原廠手冊",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

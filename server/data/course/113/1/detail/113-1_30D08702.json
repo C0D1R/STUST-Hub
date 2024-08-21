@@ -1,0 +1,164 @@
+{
+    "code": "30D08702",
+    "name": {
+        "zh": "物理(一)",
+        "en": "Physics (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電子一乙"
+    ],
+    "instructors": [
+        "蔣富成"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "P302"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "P302"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "P302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.此基礎學科可作為高普考、專技人員考試等相關科目之準備",
+        ""
+    ],
+    "description": "本學期物理課程大約涵蓋兩部分;第一部分(1-9章)介紹牛頓力學與流體物理;第二部分(13-14章)為波動與聲音.",
+    "prerequisites": "運用到的數學工具包括代數,幾何,三角函數.",
+    "syllabus": {
+        "zh": "Chapter1 緒論<br>Chapter2 一度空間的運動<br>Chapter3 向量及二度空間的運動<br>Chapter4 運動定律<br>Chapter5 能量<br>Chapter6 動量和碰撞<br>Chapter7 轉動和重力定律<br>Chapter8 轉動平衡和轉動動力學<br>Chapter9 固體和流體<br>Chapter10 熱物理學<br>Chapter13 振動和波<br>Chapter14 聲音",
+        "en": "Chapter1 Introduction<br>Chapter2 Motion in One Dimension<br>Chapter3 Vectors and Two-Dimensional Motion <br>Chapter4 The Law of Motion<br>Chapter5 Energy<br>Chapter6 Momentum and Collisions<br>Chapter7 Rotational Motion and The Law of Gravity<br>Chapter8 Rotational Equilibrium and Rotational Dynamics<br>Chapter9 Solids and Fluids<br>Chapter10 Thermal Physics<br>Chapter13 Vibrations and Waves<br>Chapter14 Sound"
+    },
+    "weeklySchedule": "1.緒論<br>2.向量<br>3.一維運動學<br>4.平面運動<br>5 慣性與質點動力學(一)<br>6.慣性與質點動力學(二)<br>7.功與能<br>8.能量守恆<br>9.線動量<br>10.質點系<br>11.重力<br>12.鋼體的定軸轉動<br>13.角動量與靜力平衡",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "課堂觀察+筆試+出席率"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過課堂教學來學習基礎物理相關知識以及解決工程問題之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能用力學原理解析相關之工程問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "具備基本物理基礎，使學生能自行學習",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "藉由撰寫基礎物理相關報告與作業，訓練學生系統整合的能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "普通物理學",
+        "author": "蔡政男 編譯",
+        "publisher": "滄海書局",
+        "year": "2020",
+        "ISBN": "978-986-7696-33-5",
+        "edition": "三"
+    },
+    "referenceBooks": "物理 David Haliday 全華書局",
+    "teachingSoftware": "請上網自行下載",
+    "rules": "上課期間,請勿缺席,遲到,吃東西,划手機,聊天,睡覺<br>期中考試,期末考試與平時考試答題務必將式子完整寫出,只寫答案或式子不完整不予計分!<br>"
+}

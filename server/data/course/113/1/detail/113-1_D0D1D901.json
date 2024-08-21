@@ -1,0 +1,116 @@
+{
+    "code": "D0D1D901",
+    "name": {
+        "zh": "多媒體製作",
+        "en": "了解平面設計的原則"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技行流二甲",
+        "四技行流二乙"
+    ],
+    "instructors": [
+        "唐楚君"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0214"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "T0214"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "T0214"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹不同媒體的特性、製作方式以及多媒體在商業上的應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 認識多媒體<br>2. 文字媒體特性與製作<br>3. 影像媒體特性與製作<br>4. 音訊媒體特性與製作<br>5. 視訊媒體特性與製作",
+        "en": "1. Knowing multimedia<br>2. Text production<br>3. Image production<br>4. Audio production<br>5. Video production<br>6. Animation production<br>7. Web site design and multimedia marketing"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識不同媒體的特性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解不同媒體的製作方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解多媒體在商業的應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解平面設計的原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

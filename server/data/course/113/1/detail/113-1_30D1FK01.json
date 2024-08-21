@@ -1,0 +1,120 @@
+{
+    "code": "30D1FK01",
+    "name": {
+        "zh": "基礎程式設計(二)",
+        "en": "Fundamental Programming (II)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專電子二甲"
+    ],
+    "instructors": [
+        "方信普"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "P203"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "P203"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "P203"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "P203"
+        }
+    ],
+    "hours": {
+        "course": "4",
+        "practice": "4"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "基礎程式設計（二）旨在進一步提升學生的程式設計技能，並深入介紹更多進階的程式設計概念和技巧。課程涵蓋資料結構、演算法及其應用，強調問題解決和程式設計實作，為學生打下紮實的程式設計基礎，並為後續更高階的程式設計課程做準備。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.資料結構導論 / Introduction to Data Structures<br>中文：介紹基本資料結構，如陣列、鏈結串列、堆疊和佇列等。<br>English: Introduction to basic data structures such as arrays, linked lists, stacks, and queues.<br><br>2.演算法基礎 / Basics of Algorithms<br>中文：講解常用的演算法概念，如排序、搜尋和遞迴等。<br>English: Explanation of commonly used algorithm concepts such as sorting, searching, and recursion.<br><br>3.進階程式設計技巧 / Advanced Programming Techniques<br>中文：涵蓋動態記憶體管理、指標和參數傳遞等進階技巧。<br>English: Covering advanced techniques such as dynamic memory management, pointers, and parameter passing.<br><br>4.物件導向程式設計 / Object-Oriented Programming<br>中文：介紹物件導向程式設計的基本概念和應用。<br>English: Introduction to the basic concepts and applications of object-oriented programming.<br><br>5.資料結構應用 / Applications of Data Structures<br>中文：探討資料結構在實際問題解決中的應用，如圖形和樹狀結構等。<br>English: Exploration of the applications of data structures in practical problem-solving, such as graphs and tree structures.<br><br>6.綜合程式設計專案 / Comprehensive Programming Project<br>中文：讓學生運用所學進行一個完整的程式設計專案，從需求分析到實作和測試。<br>English: Allow students to apply their knowledge to a complete programming project, from requirements analysis to implementation and testing.",
+        "en": "1.資料結構導論 / Introduction to Data Structures<br>中文：介紹基本資料結構，如陣列、鏈結串列、堆疊和佇列等。<br>English: Introduction to basic data structures such as arrays, linked lists, stacks, and queues.<br><br>2.演算法基礎 / Basics of Algorithms<br>中文：講解常用的演算法概念，如排序、搜尋和遞迴等。<br>English: Explanation of commonly used algorithm concepts such as sorting, searching, and recursion.<br><br>3.進階程式設計技巧 / Advanced Programming Techniques<br>中文：涵蓋動態記憶體管理、指標和參數傳遞等進階技巧。<br>English: Covering advanced techniques such as dynamic memory management, pointers, and parameter passing.<br><br>4.物件導向程式設計 / Object-Oriented Programming<br>中文：介紹物件導向程式設計的基本概念和應用。<br>English: Introduction to the basic concepts and applications of object-oriented programming.<br><br>5.資料結構應用 / Applications of Data Structures<br>中文：探討資料結構在實際問題解決中的應用，如圖形和樹狀結構等。<br>English: Exploration of the applications of data structures in practical problem-solving, such as graphs and tree structures.<br><br>6.綜合程式設計專案 / Comprehensive Programming Project<br>中文：讓學生運用所學進行一個完整的程式設計專案，從需求分析到實作和測試。<br>English: Allow students to apply their knowledge to a complete programming project, from requirements analysis to implementation and testing."
+    },
+    "weeklySchedule": "Ch01　Visual C# 2022的基本概念<br>Ch02　Visual C#程式的組成與語法規則<br>Ch03　變數、資料型別與運算子<br>Ch04　單向與雙向選擇結構<br>Ch05　多向選擇與巢狀選擇結構<br>Ch06　迴圈結構<br>Ch07　巢狀迴圈結構與變更迴圈流程敘述<br>Ch08　陣列<br>期中考週<br>Ch09　二維陣列<br>Ch10　函式與系統函式庫<br>Ch11　資料夾與檔案的輸入與輸出<br>Ch12　視覺化與系統元件<br>Ch13　影像與二維矩陣<br>Ch14　簡單的影像處理<br>Ch15　Blob大型二值化影像<br>Ch16　影像比對<br>期末考週<br>",
+    "exams": {
+        "midterm": "實作",
+        "final": "實作",
+        "other": "不定時平時考、實作"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "提升學生的程式設計能力，掌握進階的程式設計概念和技巧。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生解決實際工程問題的能力，通過實作和專案提升實務經驗。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "增進學生對資料結構和演算法的理解，並能應用於實際問題中。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "鼓勵學生養成持續學習的習慣，保持對最新技術和趨勢的敏銳度。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "程式設計－使用Visual C# 2022",
+        "author": "黃建庭",
+        "publisher": "全華圖書股份有限公司",
+        "year": "2022",
+        "ISBN": "9786263281486",
+        "edition": "1"
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "Visual Studio .Net",
+    "rules": ""
+}

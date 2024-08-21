@@ -1,0 +1,116 @@
+{
+    "code": "1CD04U01",
+    "name": {
+        "zh": "人工智慧與設計應用",
+        "en": "Artificial Intelligence and Design Implication"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技產設四甲",
+        "四技產設四乙"
+    ],
+    "instructors": [
+        "林雅惠"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "X302"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "X302"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "X302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在介紹AI人工智慧的基礎概念及其在設計領域中的應用。課程內容包括機器學習、深度學習、自然語言處理、圖像識別等AI技術的簡介，進而透過共同案例分享，說明這些技術如何被應用於廣泛的設計過程中，提高設計效率、創造出更優秀的產品和服務。",
+    "prerequisites": "設計專案的完整執行經驗",
+    "syllabus": {
+        "zh": "1.1 AI人工智慧簡介<br>1.2 機器學習與深度學習<br>1.3 自然語言處理基礎<br>1.4 圖像識別基礎<br><br>2.1 設計過程中的AI應用<br>2.2 設計工具中的AI<br>2.3 AI與產品設計的結合<br>2.4 AI與視覺設計的結合<br>2.5 AI對設計的影響與挑戰<br><br>3.X 案例分享",
+        "en": "Introduction to AI<br>1.1 Overview of AI<br>1.2 Machine learning and deep learning<br>1.3 Fundamentals of natural language processing<br>1.4 Fundamentals of image recognition<br><br>AI Applications in Design<br>2.1 AI applications in the design process<br>2.2 AI in design tools<br>2.3 Integration of AI in product design<br>2.4 Integration of AI in visual design<br>2.5 The impact and challenges of AI in design<br><br>Case Studies and Examples (To be determined)"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "AI人工智慧的基礎概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "平面設計領域中的AI應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "工業設計領域中的AI應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "互動設計領域中的AI應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

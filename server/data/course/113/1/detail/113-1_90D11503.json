@@ -1,0 +1,115 @@
+{
+    "code": "90D11503",
+    "name": {
+        "zh": "資料庫理論與設計",
+        "en": "Database Principles & Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資管二丙"
+    ],
+    "instructors": [
+        "王鼎超"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "T0709"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "T0709"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0709"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹資料庫的基礎理論並配合最熱門的ORACLE做為實務驗證",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章 介紹資料庫架構與資料處理的演進<br><br>第二章 介紹目前最流行的關聯式資料模式設計(E-R Model Design)<br><br>第三章 介紹資料庫設計中去除資料發生異常的重要步驟—正規化<br><br>第四章 詳細介紹SQL指令語法與Schema的建立<br><br>第五章 介紹Oracle的SQL*Plus使用<br><br>第六章 利用SQL指令介紹了許多諸如自身關聯、相關子查詢與層次查詢等進階查詢<br><br>第七章 介紹關聯式代數並以關聯式表格為例做說明(Option)<br>",
+        "en": "Chapter 1 The evoluation of database and data processing<br>Chapter 2 An introduction to E-R model design<br>Chapter 3 An introduction to Nomalization of database<br>Chapter 4 An introduction to SQL and schema<br>Chpater 5 An introduction to SQL*Plus<br>Chapter 6 Advanced SQL<br>Chapter 7 An introduction to Realational algebra(Option)<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "應用與規畫資料庫軟體開發的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建構與設計資料庫系統的實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用與操作資料庫系統能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能依系統需求建構與設計資料庫系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

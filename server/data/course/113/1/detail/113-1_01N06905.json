@@ -1,0 +1,155 @@
+{
+    "code": "01N06905",
+    "name": {
+        "zh": "台灣與世界",
+        "en": "Taiwan in the World"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技應日二甲"
+    ],
+    "instructors": [
+        "吳玲君"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "T0109"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "T0109"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "T0109"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在引導學生深入、立體認識台灣歷史，引領學生取得台灣歷史鎖鑰，學習實用、實際、寬廣、的台灣歷史知識；從生活中學習，培育學生寬廣的台灣歷史視野，進而養成深具台灣主體意識兼具世界觀的公民。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.導論：視角(台灣之主體性及其在世界的位置與角色)<br>2.交通變遷下的台灣<br>3.全球經濟網路中的台灣<br>4.疾病無國界：鼠疫、SARS與新流感<br>5.外來思潮的巨浪：民主、人權與法治<br>6.通俗文化與娛樂：音樂、藝術等<br>7.觀念的衝擊與調整：婚姻愛情與多元情慾<br>8.物質生活與流行教主：時尚、饗宴與慾望<br>9.民主體制與新式教育：世界公民與現代國民<br>10.宗教奇蹟：影響台灣的主要宗教<br>11.殖民與被殖民經驗<br>12.原住民問題<br>13.台灣的未來：知識經濟…等<br>",
+        "en": "1. Introduction: perspective (on Taiwan's subjectivity: the position and role in the World)<br>2. The position changed with the improvements of global transportation <br>3. Economic development in global context<br>4. Public health and the prevention of plague, SARS and novel Influenza <br>5. Waves of thoughts in democracy, human rights and rule of law<br>6. Popular culture and recreational life: music, art, etc.<br>7. Impact and adjustment of ideas: marriage, love and gender diversities <br>8. Material lifestyle and fashion trend: luxuries, feasts and passions<br>9. democratization of political life and new education: globally modernized citizenship <br>10. Religious miracles: the diversity of religions <br>11. Discourse on the colonial and under-colonial experiences<br>12. Issues of aboriginal peoples in Taiwan: a worldwide view<br>13. Epilogue: prospect (of knowledge-based economy, AI, etc.)<br><br>"
+    },
+    "weeklySchedule": "課程介紹、報告製作講解 <br>導論：台灣的主體性<br>（台灣的台灣、世界的台灣） <br>南島語族的台灣—考古 <br>南島語族的台灣—原住民 <br>大航海的時代（從洋流季風看台灣早期歷史） <br>帝國的邊陲（被殖民的政治體制） <br>帝國的邊陲（被殖民的社會文化） <br>清末台灣的外力衝擊與近代化 <br>期中考試 <br>清末台灣的外力衝擊與近代化 <br>台灣社會文化的變遷 <br>台灣宗教文化的力量 <br>日本殖民歲月（日治時期的啟蒙運動） <br>皇民化台灣社會 <br>戒嚴與解嚴 <br>戒嚴與解嚴 <br>世界體系中的台灣 <br>期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能深入認識台灣歷史，有效地解決各項問題。(A3)",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "獨創具體的創新思維，解析台灣歷史古今的不同。(E4)",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "統合歷史知識於生活或學習中，拓展歷史視野，適切因應地球村及國際化趨勢。(C3)",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建立台灣主體意識，展現對本土及國際文化的理解，培育具世界觀及人文素養的公民。(C2)",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解台灣歷史的發展與意義，並於生活中展現反省、理性思辨的能力。(I4)",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "展現負責盡職、秉持敬業精神完成各項任務並服務社會。(H1)",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "關懷台灣的周遭環境，維護台灣與世界的利益共存(J4)",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "台灣開發史",
+        "author": "薛化元",
+        "publisher": "三民",
+        "year": "1999",
+        "ISBN": "957-14-4623-8",
+        "edition": "三版"
+    },
+    "referenceBooks": "李筱峰（2003），快讀臺灣史，台北：玉山社。 莊永明（2001），臺灣放輕鬆1-12，台北：遠流。 遠流臺灣館（2000），臺灣史小事典，台北：遠流。 盧建榮（2001），文化與權力-臺灣新文化史，台北：麥田。",
+    "teachingSoftware": "無",
+    "rules": "1.書面報告必須依規定時間繳交,逾期報告成績零分計算。<br>2.上課遲到15分後依曠課處理,上課缺曠或遲到列為學期成績。<br>3.設備：單槍,筆記型電腦,延長線,喇叭,雷射筆<br>"
+}

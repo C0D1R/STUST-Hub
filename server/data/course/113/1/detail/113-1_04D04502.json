@@ -1,0 +1,167 @@
+{
+    "code": "04D04502",
+    "name": {
+        "zh": "體育生活(三)：保齡球(G)",
+        "en": "Physical Education(III)：Bowling"
+    },
+    "credit": "1",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "四技製造二甲",
+        "四技製造二乙",
+        "四技工管二甲",
+        "四技工管二乙",
+        "四技電商二甲",
+        "四技多樂二甲",
+        "四技多樂二乙",
+        "四技多樂二丙",
+        "四機械國專二甲"
+    ],
+    "instructors": [
+        "李政達"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": ""
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "保齡球是一項適合男女老少的運動，雖然入門極為容易，但想要維持良好成績，必須深入的探討、學習，方能達到預期的水準。而不斷的練習更是促使成績進步的最大動力。在良好的運動環境，及舒適的空間達到休閒健身的目的，是我們想要將該項運動介紹給同學的主要原因。",
+    "prerequisites": "注意事項:\n男、女不拘，但需自備交通工具，於規定時間內到達球館準時上課，並能自行負行車安全責任者。",
+    "syllabus": {
+        "zh": "1.保齡球運動─簡史、場地、球具、規則，及該有的禮儀之介紹。<br>2.持球、助走動作講解。<br>3.下球點及身體延伸動作講解。<br>4.解瓶技巧之介紹。<br>5.直球的介紹。<br>6.飛碟球及其他球種之介紹。",
+        "en": "1. Bowling – introduction of brief history, venue, equipment, rules, and courtesy <br>2. Explaining on stance and approaching <br>3. Explaining on releasing point and body extension <br>4. Introduction of strike technique.<br>5. Introduction of straight ball.<br>6. Introduction of spinner and other ball release styles."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "上課過程中可充實學生健康知識、運動技能與態度進而增加健康體適能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "保齡球運動能培養學生運動休閒的習慣，進而養成規律運動，終生享受運動樂趣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "保齡球運動能培養學生團隊合作與同儕間的信任的態度，更能訓練學生面對競爭的抗壓性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "保齡球運動可訓練學生積極熱忱、合群、守法守紀、不驕不餒的人格特質",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "保齡球運動中同儕間的互動與鼓勵",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "保齡球運動可以增進個人美感的養成和欣賞別人支體動作之美感",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "保齡球運動可培養學生在競爭終如何穩定情緒，讓思緒清晰並增加抗壓力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "保齡球運動是個人運動也是團隊運動，可以建立互助合作的團隊意識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,127 @@
+{
+    "code": "20D1F801",
+    "name": {
+        "zh": "基礎電子學(一)",
+        "en": "Basic Electronics (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專電機二甲"
+    ],
+    "instructors": [
+        "吳坤憲"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "I0210"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "I0210"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "I0210"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "讓同學了解二極體,BJT,FET及功率放大器及原理及應用",
+    "prerequisites": "電路學",
+    "syllabus": {
+        "zh": "1、半導體材料與二極體<br>2、二極體電路<br>3、雙極接面電晶體(BJT)<br>4、基本雙極電晶體(BJT)放大器及其電",
+        "en": "1. Semiconductor Materials and Diodes<br>2. Diode Circuits<br>3. The Bipolar Junction Transistor<br>4. Basic BJT Amplifiers and Circuits"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解近代微電子學的發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道半導體的特性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析與計算二極體電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析與計算雙極接面電晶體(BJT)的偏壓電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析與計算雙極接面電晶體(BJT)放大電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

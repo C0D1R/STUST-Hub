@@ -1,0 +1,110 @@
+{
+    "code": "I0D28U01",
+    "name": {
+        "zh": "兒童產業概論",
+        "en": "Introduction to Child Industry"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技幼保一甲"
+    ],
+    "instructors": [
+        "陳蔚慈"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "N008"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "N008"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程在讓學習者瞭解兒童相關產業及所需技能和專業倫理，協助學習者規劃其學習和職涯發展。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.介紹幼兒園、托嬰、早療機構、課後照顧、兒童育樂等相關產業。<br>2.介紹國外兒童相關產業。<br>3.探索兒童產業相關技能。<br>4.瞭解兒童產業相關之專業倫理。<br>5.規劃學習者在兒童產業之職涯發展",
+        "en": "1. Introduction of overall child industry<br>2.Trend of child industry<br>3. management of child industry<br>4. marketing of child industry<br>5.Extension of child industry 6. New child industry"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識兒童相關產業",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探索兒童產業相關職涯技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解兒童產業相關專業倫理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "體驗兒童產業之實際運作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

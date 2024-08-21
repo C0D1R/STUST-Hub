@@ -1,0 +1,105 @@
+{
+    "code": "10N02V01",
+    "name": {
+        "zh": "職場實務探索(三)",
+        "en": "Workplace Practices (Ⅲ)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技自控四甲"
+    ],
+    "instructors": [
+        "施銘賢"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第11節",
+            "location": "K404"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "藉由了解各專業領域之實務工作，培養更多相關技術人員。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.認識職場<br>2.工作守則<br>3.工作態度<br>4.職場安全衛生<br>5.職場倫理<br>6.溝通協調",
+        "en": "1. To know workplace<br>2. Work regulations<br>3. Attitude toward work<br>4. Workplace Safety and Health<br>5. Workplace ethics<br>6. Communication &amp; coordination"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理論與實務結合。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提高職場適應力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "遵從職場倫理與建立正確工作態度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "書面報告。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

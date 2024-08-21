@@ -1,0 +1,116 @@
+{
+    "code": "70D27F01",
+    "name": {
+        "zh": "文創行銷",
+        "en": "Cultural Creativity Marketing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管二甲",
+        "四技企管二乙"
+    ],
+    "instructors": [
+        "蔡宗岳"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S316"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "S316"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "S316"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在全球化的趨勢下，能為國家帶來文化發展潛力的文創事業，也有利於國際旅遊與貿易發展。因此文創產業的行銷，就更顯重要，透過教導學生對於文化的體認，文化商品化商業模式的建立，及以文化包裝商品，並做有效之行銷策略與規劃。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t導論<br>2.\t文創管理I：消費者與商品<br>3.\t文創管理II：品牌與行銷活動<br>4.\t商業模式簡介<br>5.\t文創行銷策略<br>6.\t文創行銷規劃<br>7.\t個案探討<br>",
+        "en": "1. Introduction<br>2. Management of the Cultural and Creative Industry I<br>3. Management of the Cultural and Creative Industry II<br>4. Introduction of Business Model<br>5. Marketing strategy of the Cultural and Creative Industry<br>6. Marketing planning of the Cultural and Creative Industry<br>7. Case study<br>"
+    },
+    "weeklySchedule": "1 2 導論<br>3 4文創管理I：消費者與商品<br>5 6文創管理II：品牌與行銷活動<br>7 8 商業模式簡介<br>9 期中考<br>10. 11 12 文創行銷策略<br>13 14 15 文創行銷規劃<br>16 17個案探討<br>18 期末考<br>",
+    "exams": {
+        "midterm": "筆試+書面報告",
+        "final": "筆試+上台報告",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備行銷規劃能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備創新思考能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備整合企劃能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能理解歷史文化的意義",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "稍後公布於FLIPCLASS",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

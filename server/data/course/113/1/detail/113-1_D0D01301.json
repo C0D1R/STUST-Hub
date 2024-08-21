@@ -1,0 +1,139 @@
+{
+    "code": "D0D01301",
+    "name": {
+        "zh": "供應鏈管理",
+        "en": "Supply Chain Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技行流二甲"
+    ],
+    "instructors": [
+        "林志鴻"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "T0208"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0208"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0208"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "供應鏈管理是現代電子化企業採用的新管理模式。透過供應鏈管理模式，企業可有效整合上游供應商及下游通路顧客，進而提升參與供應鏈企業的競爭力。本課程透過授課、研討、個案等方式，將供應鏈管理的研革、程序、技能等知識系統性的傳授給修習學員。",
+    "prerequisites": "(1)先修課程:\"物流管理\"或\"生產管理\"﹝必要﹞;\n(2)\"管理數學\"或\"作業研究\"﹝建議﹞",
+    "syllabus": {
+        "zh": "1. 課程介紹與 運籌管理系統<br>2. 需求、採購與訂單管理<br>3. 生產規劃與現場控制與排程系統<br>4. 存貨管理<br>5. 倉儲管理<br>6. 運輸與配送規劃管理<br>7. 資訊科技與運籌管理<br>8. 供應鏈策略管理<br>",
+        "en": "1. Introduction to Supply Chain/Logistics Management;<br>2. Demand, Purchasing, and Order Processing;<br>3. Production Planning and Scheduling;<br>4. Inventory Management;<br>5. Warehousing Management;<br>6. Transportation and Distribution Management;<br>7. Information and Communication Technology and Management;<br>8. Supply Chain Strategic Management."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "需求、採購與訂單管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "存貨與倉儲管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運輸與配送規劃管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "資訊科技與運籌管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "供應鏈策略管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "供應鏈整合與協同管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

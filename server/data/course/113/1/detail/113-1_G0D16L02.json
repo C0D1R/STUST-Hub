@@ -1,0 +1,111 @@
+{
+    "code": "G0D16L02",
+    "name": {
+        "zh": "專題實務(二)",
+        "en": "Project (II)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技資工四乙"
+    ],
+    "instructors": [
+        "洪國鈞"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "指導學生執行專題製作",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "專題實務是培育專業能力與整合能力 ，本系專題實務課程為兩學期必修課程。學生需修滿兩學期之專題，且必須通過專題口試與成果展示評量，方視為專題通過。 專題製作需在老師之指導下進行，進行方式與進度由指導老師掌控。",
+        "en": "Goal of Project courses is to cultivate professional competence and integration ability. They are two semester compulsory courses i.e. Project(I) and Project(II). Students are required to complete the both courses, and pass the evaluation of oral test and presentation. Each student needs at least one teacher to supervise their projects and progresses."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解資訊技術如何幫助人類、社會、國家",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探究資訊問題的根源，並規劃解決的方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "與同學組成團隊，合作開發資訊系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "統整專案成果，撰寫書面報告，進行示範與展演",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "擔負團隊責任，遵守資訊倫理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

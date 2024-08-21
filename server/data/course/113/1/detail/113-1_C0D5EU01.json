@@ -1,0 +1,110 @@
+{
+    "code": "C0D5EU01",
+    "name": {
+        "zh": "電影英文賞析",
+        "en": "Films English"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應英三甲"
+    ],
+    "instructors": [
+        "陳素連"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "T0206"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "T0206"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以電影作為課程內容及活動設計之教材。課程內容包含電影中語言使用的情境與方式、情節、人物特質描述等；課程活動包含聽力練習、小組討論及小組個人報告等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.預習及聽力理解前測<br>2.劇情與劇本討論<br>3.聽力理解與聽寫<br>4.小組討論及個別報告",
+        "en": "1. Pre-review and listening comprehension pre-test<br>of selected movies<br>2. Plots and screenplay discussions<br>3. Listening comprehension and dictation<br>of selected movies<br>4. Group discussion and individual report on selected movies"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "以英文摘述、詮釋電影情節與主題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解電影中的英文語彙與表達",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "蒐集、定義電影中特定的語彙並了解其使用情境",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養對電影藝術的美學素養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

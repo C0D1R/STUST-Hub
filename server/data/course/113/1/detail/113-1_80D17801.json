@@ -1,0 +1,128 @@
+{
+    "code": "80D17801",
+    "name": {
+        "zh": "銀行實務",
+        "en": "The Practices of Bank"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技財金三甲",
+        "四技財金三乙"
+    ],
+    "instructors": [
+        "李源明"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "S513"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "S513"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "S513"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程在介紹銀行之經營與操作，包括銀行各項業務之發展趨勢、內部經營及市場之狀況。除使學生能夠瞭解銀行基本原理之外，更注重實務之教學，尤其對業務之操作步驟以深入淺出方式說明，使學生能對銀行業務有正確且迅速之認識，減少錯誤，縮短在職訓練時間，以作為進入金融(銀行)業界所需之專業知能。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.銀行概論<br>2.出納之櫃員實務<br>3.商業銀行之存款與匯兌<br>4.商業銀行授信(短期放款業務、授信之審核)<br>5.商業銀行之國外部業務<br>6.商業銀行之其他業務<br>",
+        "en": "1. The General Concepts of Banking <br>2. The Operations of the Bank Tellers<br>3.The Deposits and Remittances in Commerical Banks <br>4. The Commercial Bank Loans(Short-terms Loans and To Investigate and Trace the Loans )<br>5.The Foreign Department <br>6.The Other Businesses of the Bank<br>"
+    },
+    "weeklySchedule": "1銀行概論<br>2.出納業務<br>3.票據交換與託收<br>4.存款業務款<br>5. 徵信與授信<br>6. 期中考 <br>7. 聯合貸款業務<br>8. 消費金融<br>9. 外匯業務<br>10. 信託業務<br>11. 期末(考)報告<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "有不定期小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解銀行運作的基本學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能善用金融知識於銀行管理的課題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能應用方法解決銀行實務的問題",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能針對每項銀行業務的問題，有效辨識適當的管理與改進方法",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能建立專業責任與企業倫理之觀念",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "銀行實務",
+        "author": "蔡敏川",
+        "publisher": "(金融研訓院出版)智勝文化代理",
+        "year": "2020",
+        "ISBN": "978-9863991670",
+        "edition": "2020版"
+    },
+    "referenceBooks": "邱潤容(2008)銀行實務,(二版) 三民書局<br>/林宜學(2010)台灣銀行業實務二版 宏典文化<br>/國內外各金融銀行業網站 (2019)",
+    "teachingSoftware": "MS-POWER POINT",
+    "rules": "在上課時不得以任何方式干擾上課(正常發問除外),進行課堂點名<br>學生應小心被扣考,作業需準時繳交  <br>無補考<br>輔助教材或補充講義將在課堂上發給<br>教學網頁另行通知"
+}

@@ -1,0 +1,122 @@
+{
+    "code": "I0D25901",
+    "name": {
+        "zh": "幼兒教保概論",
+        "en": "Introduction to Early Childhood Educare"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技幼保一甲"
+    ],
+    "instructors": [
+        "高家斌"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0503"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "W0503"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 瞭解幼兒學習之主體性與應有之權利內涵。                                 <br>2. 分析生態環境與文化變遷對幼兒園的影響。                                      <br>3. 探討幼兒教保思潮、制度與課程之演進。                                  <br>4. 認識教保機構之組織與內涵及其資源之運用。                                <br>5. 涵育教保服務人員之專業素養與專業倫理。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 幼兒圖像與幼兒學習之主體性:                                         <br>(1)幼兒學習之主體性                                                    <br>(2)幼兒圖像形構之演進                                                                         <br>(3)幼兒權益保障                                                      <br>2. 幼兒園及其生態環境:                                                   <br>(1)幼兒學習與家庭變遷之關係                                              <br>(2)幼兒園角色及其與家庭、社區之互動                                        <br>(3)生態環境及文化變遷對幼兒園之影響                                                       <br>3. 幼兒教保思潮、制度與課程之演變:                                           <br>(1)教保思想之演進                                                        <br>(2)教保機構與制度之發展 (包含重要政策、法令、幼托整合議題)                                         <br>(3)教保活動課程內涵之發展與變革<br>4. 教保機構組織及其資源運用:                                             <br>(1)教保機構之組織與教保內涵                                      <br>(2)家庭、社區資源之運用                                                    <br>(3)幼兒學習角色與教保服務內涵之關係                                         <br>(4)幼小銜接                                                                                    <br>5. 教保服務人員之專業發展:                                                  <br>(1)教保服務人員之角色與職責                                                            <br>(2)教保服務人員之專業能力                                                              <br>(3)教保服務人員之生涯發展                                                             <br>(4)教保服務人員之專業倫理<br>",
+        "en": "1.Image of the child and subjectivity in learning:<br>(1) Subjectivity in learning                                      <br>(2) Evolution in image of the child <br>(3) Protection of children' s rights                                                                                                           <br>2.Preschool and ecological environment:<br>(1) Relation between learning and family change                                           <br>(2) Role of preschool and interaction with family and community<br>(3) Impact of ecological environment and cultural change <br>3.Evolution of educational thoughts, systems and curriculum:                                                 <br>(1) Evolution of thoughts<br>(2) Development of institutions and systems<br>(3) Evolution of curriculum content <br>4.Organization of institutions and resource utilization:  <br>(1) Organization of institutions and content of educare <br>(2) Utilization of family amd community resources<br>(3) Relation between children’s learning roles and educare services<br>(4) Transition from preschool to elementary school <br>5.Professional development of preschool educators:<br>(1) Roles and duties <br>(2) Professional competence <br>(3) Career development <br>(4) Professional ethics                                  <br>"
+    },
+    "weeklySchedule": "本課程係屬教保專業知能課程，依據中華民國教師專業素養指引之規定，希望培育學生具備了解教育發展的理念與實務之素養，以符應專業素養指標1-1了解有關教育目的和價值的主要理論或思想，以建構自身的教育理念與信念。1-2敏銳覺察社會環境對學生學習影響，以利教育機會均等。1-3了解我國教育政策、法規及學校實務，以作為教育實踐基礎之規定。另外，據此規劃課程核心內容，包括：(1)幼兒教保理論與思潮、(2)兒童權利公約之一般性原則、(3)幼兒園、家庭及社區環境、幼兒教育與照顧、(4)主要幼兒教保服務政策、法規及實務。本課程期能幫助同學瞭解幼兒學習之主體性，分析幼兒園的生態環境之關係，比較各相關幼兒教保思潮、政策制度與課程發展之變革，並探討教保機構組織及其相關資源運用方式，以增進學生對於幼兒園教保服務政策法規內容之認識，提昇教保人員之專業知能。<br>第一~三週：了解幼兒的學習的主體性，以幼兒相關權益<br>第四～六週：了解幼兒園與幼兒的關係，生活環境對幼兒的影響。<br>第七～八週：了解過去教保思想的演進，相關的制度發展<br>第九～十一週：介紹與幼兒相關的社區資源，介紹幼兒在幼小銜接所需要考量的問題。<br>第十二～十三週：介紹教保服務人員的各項發展以及職責。<br>第十四～十八週：口頭報告介紹課程前面介紹的相關內容加深學生的印象，並讓學生們深入研究。",
+    "exams": {
+        "midterm": "考試",
+        "final": "報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "分析幼兒圖像形構及其與學習活動之角色關係",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解幼兒園生態環境及其教保內涵之演進",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "認識教保機構組織及其資源之運用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "透過合作學習探討幼兒教保相關議題",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "涵育教保服務人員之專業素養及專業精神",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "幼兒教保概論",
+        "author": "盧美貴",
+        "publisher": "五南",
+        "year": "2020",
+        "ISBN": "9789577637185",
+        "edition": "5"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "課堂講授、分組討論、小組報告、參訪或業師演講"
+}

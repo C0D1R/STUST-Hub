@@ -1,0 +1,132 @@
+{
+    "code": "1ND02L01",
+    "name": {
+        "zh": "科技與生活",
+        "en": "Science and Technology and Life"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "自然科學領域"
+    ],
+    "instructors": [
+        "林彣峯"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "I0208"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "I0208"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "I0208"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "科技是全人類祖先生活經驗與智慧的累積，它造就了地球的文明，推動著世界的進步，其影響的層面既深且廣，沒有人可以置身其外。因此，深入了解科技的重要性已成為必要。本課程將會全面性的探討科技對生活的影響及對地球的衝擊。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 科技的生活<br>2. 環境資源的利用與維護<br>3. 能源<br>4. 居家住所<br>5. 家用電器<br>6. 資訊社會<br>7. 材料與產品<br>8. 運輸工具與交通網路<br>9. 智慧財產權<br>10. 智慧財產權法律相關刑罰規定<br>",
+        "en": "1. Technological life<br>2. Utilization and maintenance of environmental resources<br>3. Energy<br>4. Residence<br>5. Household appliances<br>6. Information society<br>7. Materials and products<br>8. Transportation Network<br>9. Intellectual Property Rights<br>10. Penal provisions of Intellectual Property Rights<br>"
+    },
+    "weeklySchedule": "第1週 課程介紹、科技的生活(1)<br>      1. 概述本課程授課方式、報告撰寫、課程準備方式<br>      2. 以適當科技為出發點來探討科技對人類生活的影響。<br><br>第2週 科技的生活(2)<br>      時間對於科技、商業與生活的重要性<br>      1. 認識時間制度<br>      2. 人類科技發展<br>      3. 工業革命時期與未來科技<br><br>第3週 古代的環境資源的利用<br>      古代對天然環境資源的取用，ex.木、竹、石材…，主要以人力能取得的方式來使用，對環境友善的方式來取得使用與維護。<br><br>第4週 現代環境資源的利用<br>      現代人為產出更多經濟(商業)利益，利用機械機具開發自然環境，造成資源過度取用，如何透過對環境的永續發展來找出平衡點。<br><br>第5週 各種能源的使用與認識(1)<br>      火力、核能、綠色能源與再生能源的認識<br>      本課程各專題符合SDGs目標7：可負擔的永續能源：確保所有的人都可取得負擔得起、可靠、永續及現代的能源。<br>      第56項指標－7.1 在西元2030年前，確保所有的人都可取得負擔的起、可靠的，以及現代的能源服務。<br><br>第6週 各種能源的使用與認識(2)<br>      再生能源：風力、水力、地熱、潮汐能、太陽能<br>      本課程各專題符合SDGs目標7：可負擔的永續能源：確保所有的人都可取得負擔得起、可靠、永續及現代的能源。<br>      第57項指標－7.2 在西元2030年以前，大幅提高全球再生能源的共享。<br><br>第7週 陽光、氣候與住宅(1)<br>      古代房屋結構與材料，以赤嵌樓、熱蘭遮城為例<br><br>第8週 陽光、氣候與住宅(2)<br>      現代房屋結構；住宅中的水管與電路<br>      綠能住宅(永續概念)<br><br>第9週 期中考(口頭報告)<br>      上台報告，每人10分鐘投影片。<br><br>第10週 家電、用電安全與節能家電<br>       家電、用電安全與節能家電<br><br>第11週 電腦與網路發展(1)<br>       電腦硬體、電腦軟體、網路通訊。<br><br>第12週 電腦與網路發展(2)<br>       網路與網路通訊如何改變我們的生活型態<br><br>第13週 材料的特性與應用(1)<br>       淺談古代材料加工技術應用與產品<br><br>第14週 材料的特性與應用(2)<br>       現代加工技術應用與產品<br><br>第15週 交通工具與運輸工具的發展<br>       1. 古代交通工具<br>       2. 現代交通工具；汽車與機車。<br>       3. 現代大型傳輸工具；台灣的交通網與大眾捷運系統。<br><br>第16週 認識智慧財產權(1)<br>       1. 何謂智慧財產權<br>       2. 智慧財產權分類：專利法、商標法、著作權法<br><br>第17週 認識智慧財產權(2)<br>       智慧財產權的維護與相關法律責任和刑罰規定<br><br>第18週 期末考(口頭報告)<br>       上台報告，每人10分鐘投影片。<br>",
+    "exams": {
+        "midterm": "期中考(口頭報告)",
+        "final": "期末考(口頭報告)",
+        "other": "課堂回饋"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "運用科技的基本知能並提高反思及抉擇的能力。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "指出生活中環境資源的利用與維護的方法。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "解釋各式各樣的生活經歷，結合所學能表達出來。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "評價科技對時代的意義，建立自身反省的能力。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "養成保護、關懷同遭自然環境，展現生命的價值。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "網路資料",
+    "teachingSoftware": "",
+    "rules": "1. 期中、期末各有一次個人口頭報告。<br>2. 每週下課繳交課堂回饋（手寫300~500字以內或一小段即可）。<br>3. 成績計算：課堂回饋30%、出席率20%、期中口頭報告25%、期末口頭報告25%。"
+}

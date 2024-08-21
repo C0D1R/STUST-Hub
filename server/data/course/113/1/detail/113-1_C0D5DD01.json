@@ -1,0 +1,124 @@
+{
+    "code": "C0D5DD01",
+    "name": {
+        "zh": "跨語言文化溝通(二)",
+        "en": "Cross-Linguistic and Cultural Communication (Ⅱ)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技高福二甲",
+        "四技應英二甲",
+        "四高福國專二甲"
+    ],
+    "instructors": [
+        "駱昭吟"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "T0113"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "T0113"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "臺灣與日本的在經濟、文化、歷史、人文風俗、觀光、水利工程等多面向具有深遠的友好交流。語言本身就是一種工具，讓學生善用自己知道也願意學習的語言面向去完成自己的一份作品，如工廠介紹、景點介紹、歷史文物介紹、環保議題等，為本課程主要方向。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、單字與常用文法的活用。<br>二、常用日本生活會話、常用單字與常誤會單字。<br>三、日本企業常用的會話。<br>四、N4~N3之間的文法架構之介紹。<br>",
+        "en": "1.Flexible use of vocabulary and common grammar.<br>2.Common Japanese daily life conversations, common words and frequently misunderstood words.<br>3.Conversations commonly used by Japanese companies.<br>4.Introduction to the grammatical structure between N4 and N3.<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過對日語基本文字與句型之理解，可以正確表達自己想說/寫的內容",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解台日文化的基本差異",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解文化差異後能夠互相體諒與包容",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解日本人在台灣的基本狀況",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "促進對兩國間文化差異之理解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

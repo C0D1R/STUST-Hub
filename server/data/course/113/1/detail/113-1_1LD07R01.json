@@ -1,0 +1,127 @@
+{
+    "code": "1LD07R01",
+    "name": {
+        "zh": "AI智能應用-口語表達與敘事技巧",
+        "en": "AI Applications— Oral Expression and Narrative Skills"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "駱育萱"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "M201"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "M201"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "M201"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程運用 AI 技術，特別是 ChatGPT，提升同學的口語表達與敘事技巧。基於學習本位理論，課程強調以同學為中心，設計滿足同學需求、興趣和學習風格的學習活動。同學將自主探索四色溝通術、演講稿撰寫和簡報優化，積極參與即興演講、角色扮演和辯論賽等活動，並通過反思和評估改進表達技巧。<br>課程著重培養多種核心素養，包括溝通與表達素養、批判性思維與問題解決素養、合作與團隊精神素養、自我管理與終身學習素養以及數位素養。同學將在課程中通過各種活動提升口語和書面表達能力，發展批判性思維和問題解決能力，學會在合作學習中有效溝通和協作。利用 ChatGPT 進行自主學習，提升技術應用和數位素養。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.口語表達的重要性與基礎技巧，用生成式AI進行討論與反饋。<br>2.摘要、小標與金句的應用，生成式AI協作運用。<br>3.四色溝通術的應用，與生成式AI討論和模擬不同溝通風格。<br>4.即席演講技巧，運用生成式AI協作客製化演講講稿。<br>5.聲音表達技巧，運用生成式AI給出聲音表達建議與練習。<br>6.簡報製作與技巧，用 ChatGPT 優化簡報內容，Gamma 生成簡報。<br>7.辯論技巧與綜合應用，用 ChatGPT 準備辯論論點和策略。<br>",
+        "en": "1.\tThe Importance of Oral Expression and Basic Techniques: Use generative AI for discussion and feedback.<br>2.\tApplication of Summaries, Headlines, and Key Phrases: Collaborate using generative AI.<br>3.\tApplication of Four-Color Communication Techniques: Discuss and simu-late different communication styles with generative AI.<br>4.\tImpromptu Speaking Techniques: Customize speech scripts using generative AI.<br>5.\tVoice Expression Techniques: Use generative AI for voice expression advice and practice.<br>6.\tPresentation Creation and Techniques: Optimize presentation content with ChatGPT, generate presentations with Gamma.<br>7.\tDebate Techniques and Comprehensive Application: Prepare debate points and strategies using ChatGPT<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解個人特質，選擇自我與他人語言訊息傳達之適當表達方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用創新科技工具，優化並提升敘事技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練重點摘要方法與有結構的敘事技巧，增強表達能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以組織、有條理的語文清晰表達自己的想法或主張，適切與人溝通。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "參與小組討論及團隊活動，合力完成指定任務，培養協作精神。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

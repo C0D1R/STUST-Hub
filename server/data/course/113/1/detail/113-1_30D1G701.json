@@ -1,0 +1,105 @@
+{
+    "code": "30D1G701",
+    "name": {
+        "zh": "數學演習(一)",
+        "en": "Mathematics Exercises (I)"
+    },
+    "credit": "1",
+    "type": "系定選修",
+    "classes": [
+        "五專電子二甲"
+    ],
+    "instructors": [
+        "傅俊結"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "I0310"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在加強學生對數學基本概念和技能的理解與應用，特別是對於專業課程所需的數學知識。課程內容涵蓋數學的各個領域，包括代數、幾何、三角函數、微積分等，通過理論講解和大量的練習題，幫助學生鞏固基礎，提升解題能力，為後續的專業課程打下堅實的數學基礎。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元一：基本代數 (Unit 1: Basic Algebra)<br>單元二：函數與其圖形 (Unit 2: Functions and Graphs)<br>單元三：幾何學基礎 (Unit 3: Fundamentals of Geometry)<br>單元四：三角函數 (Unit 4: Trigonometry)<br>單元五：極限與連續 (Unit 5: Limits and Continuity)<br>單元六：微積分基礎 (Unit 6: Basics of Calculus)",
+        "en": "單元一：基本代數 (Unit 1: Basic Algebra)<br>單元二：函數與其圖形 (Unit 2: Functions and Graphs)<br>單元三：幾何學基礎 (Unit 3: Fundamentals of Geometry)<br>單元四：三角函數 (Unit 4: Trigonometry)<br>單元五：極限與連續 (Unit 5: Limits and Continuity)<br>單元六：微積分基礎 (Unit 6: Basics of Calculus)"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過大量的練習題，學生將能夠熟練掌握數學基本概念和技巧，並應用於解決實際問題。\n培養學生在專業課程中運用數學知識的能力，增強其在相關領域的競爭力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生將學會如何將數學理論應用於工程實務中，解決工程領域的實際問題。\n透過案例分析和實踐活動，提升學生在工程設計和分析中的數學應用能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生將能夠使用各種資訊技術工具來輔助數學學習和問題解決，例如數學軟件和編程語言。\n培養學生搜集、分析和解釋數據的能力，並將其應用於數學建模和決策過程中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "鼓勵學生養成自主學習的習慣，持續提升數學能力，以應對未來的學習和職業挑戰。\n培養學生批判性思維和解決問題的能力，使其能夠在快速變化的科技環境中保持競爭力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,117 @@
+{
+    "code": "70D27K01",
+    "name": {
+        "zh": "薪酬與績效評估",
+        "en": "Compensation and Performance"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管三甲",
+        "四技企管三乙",
+        "四技企管三丙"
+    ],
+    "instructors": [
+        "王姿力"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S314"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S314"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "S314"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "此課程『績效評估與薪資管理』是結合理論與實務並重之企管課程。在現代全球化趨勢中，全世界各大、中、小企業與組織，皆相當重視績效評估與薪資管理之定位，主要原因是組織的生存與發展之競爭力，都需要靠個人、團隊部門、組織層面，由小到大，眾志成城，達成組織之經營目標。如何有效整合組織中的人力資源，進而創造人力資本之長期競爭優勢，便需要發展具組織文化之績效評估與薪資管理系統，使所有組織成員知其為何而戰，共創組織績效與未來發展。 本課程以循序漸進之方式，將績效評估與薪資管理，從理論概念到實務操作，進而多元應用到組織管理。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 績效與管理制度規劃及考核方法<br>2. 目標管理、關鍵績效指標、多元績效回饋制<br>3. 平衡計分卡、職位績效衡量指標<br>4. 績效考核制度及行政作業<br>5. 績效追蹤與改善計劃及績效管理發展<br>6. 薪酬管理、工作分析與說明書及職能評價<br>7. 薪資制度設計與績效付薪制度<br>8. 獎勵制度與獎工制度設計<br>9.員工福利及社會保險制度",
+        "en": "1. The Assessment Method of Performance and Management Planning System<br>2. Target Management, Performance Indicators, and Multi-Performance Feedback system<br>3. Balanced Score Card and Job Performance Metrics<br>4. Performance Appraisal System and Administrative Performance<br>5. Performance Tracking, Improvement Program, and Performance Management Development<br>6. Salary Management, Job Analysis, Job Description, and Competency Evaluation<br>7. Salary Design and Performance Pay System<br>8. Reward Design System <br>9. Employee Benefits and Social Insurance System"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立績效評估與薪資管理之概念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "說明績效評估與薪資管理之相關應用方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解職務分析、職務評價、薪資調查、建立薪資政策曲線、獎金訂定及福利制度設計的程序。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養薪酬管理技巧，進而建立.薪酬福利與人力績效的專業職能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

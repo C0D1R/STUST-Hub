@@ -1,0 +1,127 @@
+{
+    "code": "20N17801",
+    "name": {
+        "zh": "計算機概論實習",
+        "en": "Laboratory For Introduction To Computer"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技電機二甲"
+    ],
+    "instructors": [
+        "顏嘉宏"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "B502"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "B502"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "B502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "針對電腦設備硬體之知識與計算機相關概論進行教學,並加入網際網路的發展與應用的介紹",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.概論<br>2.中央處理器<br>3.輸出與輸入單元<br>4.記憶單元<br>5.數字系統與資料表示法<br>6.數位邏輯<br>7.多媒體<br>8.系統程式<br>9.作業系統<br>10.電腦網路<br>11.網際網路<br>12無線網路<br>13程式語言<br>14.資料結構與演算法<br>15.資料庫系統",
+        "en": "1. Introduction<br>2. Central Processor<br>3. Input/Output<br>4. Memory<br>5. Digital Systems and Data Representation<br>6. Digital Logic Design <br>7. Multimedia<br>8. System Programming<br>9. Operating Systems<br>10. Computer Network<br>11. Internet<br>12 Wireless Network<br>13 Programming Languages<br>14. Data Structure and Algorithm<br>15. Database systems"
+    },
+    "weeklySchedule": "Week 1. 計算機概論與簡介<br>Week 2. 數位資料<br>Week 3. 作業系統<br>Week 4. 電腦網路<br>Week 5. 網路應用與網路安全<br>Week 6. 程式語言<br>Week 7. 資料結構<br>Week 8. 軟體工程<br>Week 9. Midterm Exam<br>Week 10. 演算法(一)<br>Week 11. 演算法(二)<br>Week 12. 資料庫<br>Week 13. 多媒體<br>Week 14. 雲端運算<br>Week 15. 人工智慧<br>Week 16. 電子商務<br>Week 17. 進階資訊理論及應用課題<br>Week 18. Final Exam",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解電腦或作業系統的種類",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解網際網路的架構或使用搜尋引擎、臉書或即時通的網路應用程式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解現有電腦操作的介面類型",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "知道電腦有哪些週邊設備或儲存設備類型",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "你理解電腦的資料表示格式或資料運算流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "計算機概論：邁向數位新生活",
+        "author": "趙坤茂, 張雅惠, 黃俊穎, 黃寶萱",
+        "publisher": "全華圖書",
+        "year": "2023",
+        "ISBN": "9786263284296",
+        "edition": "18"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "上課期間勿穿拖鞋與吃東西"
+}

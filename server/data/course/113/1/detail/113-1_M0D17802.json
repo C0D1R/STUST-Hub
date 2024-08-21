@@ -1,0 +1,130 @@
+{
+    "code": "M0D17802",
+    "name": {
+        "zh": "計算機與程式設計概論",
+        "en": "Introduction to Computer Science"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技餐旅一乙"
+    ],
+    "instructors": [
+        "吳家驊"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "E0204"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "E0204"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為所有電腦相關課程之基礎，介紹計算機系統基本知識與應用觀念，包含計算機硬、軟體、與作業系統基本架構與應用等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、課程簡介<br>課程目的、進度、評分方式<br>二、計算機的基本特性與演進<br>計算機的基本系統單元<br>資料的儲存裝置<br>輸出與輸入裝置<br>作業系統<br>中央處理器<br>三、計算機應用<br>文書處理軟體<br>試算表軟體<br>簡報軟體<br>繪圖軟體<br>資料庫管理軟體<br>系統分析與設計<br>網際網路應用軟體<br>四、計算機管理<br>網際網路使用禮儀及規範<br>網路安全性議題<br>病毒與非法入侵<br>五、計算機未來<br>對計算機未來應有之態度<br>學習計算機之態度",
+        "en": "一、 Course Introduction<br>Course Objectives、Course Progress、Grading<br>二、 Basic Characteristics and Evolution of Computers<br>Basic System Unit Of A Computer<br>Data Storage Device<br>Output And Input Device<br>Operating System<br>CPU(Central Processing Unit)<br>三、 Application Software<br>Document Processing Software (Microsoft WORD)<br>Spreadsheet Software (Microsoft EXCEL)<br>Presentation Software (Microsoft POWERPOINT)<br>四、 Computer Management<br>Internet Use Etiquette And Specifications<br>Network Security Issues<br>Virus And Illegal Invasion<br>五、 The Future Of The Computer<br>Attitude Towards The Future Of Computers<br>Learning Computer Attitude"
+    },
+    "weeklySchedule": "第一週 課程簡介<br>第二週 數字系統<br>第三週 電腦系統單元<br>第四週 資料的儲存裝置<br>第五週 電腦的輸出與輸入裝置<br>第六週 程式語言與系統程式<br>第七週 多媒體與常用應用軟體<br>第八週 作業系統<br>第九週 期中考<br>第十週 電腦網路<br>第十一週 網際網路與全球資訊網<br>第十二週 資料庫系統<br>第十三週 系統分析與設計<br>第十四週 管理資訊系統<br>第十五週 企業資源規劃<br>第十六週 電子商務與網路行銷<br>第十七週 資訊安全與資訊倫理<br>第十八週 期未考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "（知識）使學生了解計算機之基本特性及意義",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "(技能）能具備操作計算機之基本能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "(態度）能具備從業人員之專業態度",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "(態度）能具備從業人員之專業態度",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "(其他）能瞭解電腦應用產業之市場及其發展情形",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "運算思維與App Inventor2程式設計",
+        "author": "簡良諭",
+        "publisher": "台科大圖書",
+        "year": "2022",
+        "ISBN": "9789865234492",
+        "edition": ""
+    },
+    "referenceBooks": "App Inventor 2程式開發實戰演練：正確學會Android App設計技巧的16堂課 白乃遠 博碩文化<br>App Inventor 2輕鬆學：手機應用程式簡單做 吳燦銘  博碩文化<br>App Inventor 2 零基礎創意程式設計 洪耀正 全華出版社  <br>",
+    "teachingSoftware": "App Inventor 2",
+    "rules": ""
+}

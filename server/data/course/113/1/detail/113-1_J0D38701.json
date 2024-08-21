@@ -1,0 +1,111 @@
+{
+    "code": "J0D38701",
+    "name": {
+        "zh": "國際動畫賞析",
+        "en": "Appreciation of International Animation"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技動畫三甲",
+        "四技動畫四甲"
+    ],
+    "instructors": [
+        "李婉貞"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0602"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0602"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程的主要目標為向學生們介紹在國際上具有特殊成就的動畫作品，並一齊探討這些作品的內涵與表現手法，期許學生們在拓展視野的同時，更能從中學習到如何將一個想法逐步拓展成一部動畫作品。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t影片欣賞。<br>2.\t劇本與劇情意涵討論。<br>3.\t影片節奏與結構分析。<br>4.\t動畫技術探討。<br>5.\t心得分享。<br>",
+        "en": "1.\tAppreciation of animation<br>2.\tResearch of the script and plot<br>3.\tAnalysis of the tempo and structure<br>4.\tDiscussion on the new techs<br>5.\tExperience Sharing<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "藉由作品賞析，學習將自身的理念與想法拓展成為動畫主題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習與探討各動畫作品中使用的技術與技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解每部作品背後的意義與文化內涵，協助創意成形。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養作品的國際觀與英語聽力能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

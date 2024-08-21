@@ -1,0 +1,140 @@
+{
+    "code": "1LD05301",
+    "name": {
+        "zh": "電影與道德推理",
+        "en": "Movies and Moral Reasoning"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "薛清江"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "M204"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "M204"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "M204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程最大的特色在於從一個道德困境敘事切入來介紹倫理學理論，亦即從微觀的、可能切身的道德情境出發，漸漸導入該情境可能涉及的倫理學理論。在這樣的基礎上，我們進一步要求學生們學著運用這些理論來為自己所面對的困境作推理與抉擇。我們的意圖不在於推銷某種可以用來完全解決這些道德困境的倫理學說，而是要藉此激起學生們的道德關懷和解決該困境的思辨能力。為此，我們不會天馬行空地設想極不尋常的例子，而是扣緊較能引發同學們「感同身受」的道德抉擇情境來施教。只要同學們能察覺出我們所例舉的道德情境極有可能發生在他們或週遭親朋好友身上，那倫理學對他們而言就不在那麼難以親近。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.導論<br>2.讀大學的兩難<br>3.虛擬與真實切換的兩難 <br>4.愛情中的兩難<br>5.友愛中的兩難<br>6.袐密中的兩難<br>7.文化體制中的兩難<br>8.職場上的兩難<br>",
+        "en": "1. Introduction<br>2. The dilemma of studying at university<br>3. The dilemma between virtual and real switching<br>4. The dilemma in love<br>5. The dilemma in friendship<br>6. The dilemma in the secret<br>7. The dilemma in the cultural system<br>8. The dilemma in the workplace<br>"
+    },
+    "weeklySchedule": "1.導論<br>(本課程各專題符合SDGs目標4：優質教育，確保有教無類、公平及高品質的教育，及提倡終身學習。)<br>2.讀大學的兩難<br>3.虛擬與真實切換的兩難<br>4.愛情中的兩難<br>5.友愛中的兩難<br>6.袐密中的兩難<br>(本專題符合SDGs目標5：性別平等，實現性別平等，消除所有地方婦女的各種形式的歧視。)<br>7.文化體制中的兩難<br>8.職場上的兩難",
+    "exams": {
+        "midterm": "期中替代作業",
+        "final": "期末心得報告",
+        "other": "平時作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解「道德困境」、「道德推理」、「電影敘事」等核心概念。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "藉由不同國籍的電影，理解各國道德文化的差異。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "利用從電影欣賞中習到的語文能力，實際運用在未來的工作當中。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "習得不同國家文化的道德禮節",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "建立自我的人生觀與負責任的人生態度。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建立自我的人生觀與負責任的人生態度。\n利用不同的道德情境刺激，提升價值判斷。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "電影與道德推理：兩難困境的抉擇與出路",
+        "author": "薛清江",
+        "publisher": "麗文出版社",
+        "year": "2016",
+        "ISBN": "9789577486295",
+        "edition": "二版"
+    },
+    "referenceBooks": "參見《電影與道德推理》各章中的參考書目。<br>1.教師自編補充講義。<br>2.桑德爾(2011)。《正義：一場思辯之旅》。台北：雅言文化。<br>3.桑德爾(2012)。《錢買不到的東西：金錢與正義的攻防》。台北：先覺。<br>4.徐向東(2007)。《自我、他人與道德：道德哲學導論》(全二冊)。北京：商務印書館。<br>",
+    "teachingSoftware": "PPT、FLIPCLASS",
+    "rules": "因應學校要求，請同學上課盡量少用手機。若整節都在滑手機者，老師會善意提醒。<br>本課程以《電影與道德推理》一書展開，請同學務必有書。"
+}

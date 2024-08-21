@@ -1,0 +1,137 @@
+{
+    "code": "50D2CF01",
+    "name": {
+        "zh": "電子商務金流概論",
+        "en": "Payment Systems for Electronic Commerce"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電商四甲"
+    ],
+    "instructors": [
+        "葉雅倫"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "T0308"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0308"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "T0308"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹電子商務金流，從電子商務發展的過程中，清楚了解金流的重要性，並深入了解金流的運作模式，與持續追蹤其未來之發展趨勢。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1. 電子商務經營與管理的概觀<br>2. 電子商務金流模式<br>3. 金流與電子商務各商流之運作<br>4. 金流服務供應商<br>5. 金流服務供應商與其支付工具之探討<br>6. 金流決策<br>7. 金流運作效益之評估<br>8. 電子商務金流之未來趨勢",
+        "en": "1. The Outline of E-Commerce<br>2. The Finance of E-Commerce<br>3. The Operation of E-Commerce<br>4. The Comparisons of E-Commerce's Payment Systems<br>5. The Alternative Payments <br>6. The Decision-making of  E-Commerce's Payments<br>7. The Evaluation of Payment Systems<br>8. The Trend of E-Commerce w/ FinTech's Development"
+    },
+    "weeklySchedule": "Week 1 The Outline of Electronic Commerce Business Model<br>Week 2 The Financial Tech in the Electronic Commerce Industry part I<br>Week 3 The Financial Tech in the Electronic Commerce Industry part II<br>Week 4 The Third-Party payment part I<br>Week 5 The Third-Party payment part II<br>Week 6 The Development in the Financial Technology<br>Week 7 The Impacts of the Fin-Technology in E-Commerce part I<br>Week 8 The Impacts of the Fin-Technology in E-Commerce part II<br>Week 9 The Mid-term Exam<br>Week 10 The Innovations in E-Commerce Payment part I  : Blockchain<br>Week 11 The Innovations in E-Commerce Payment part II : Cryptocurrency<br>Week 12 The Innovations in E-Commerce Payment part III: Cyber security<br>Week 13 The Special Lecture from the Cathay United Bank<br>Week 14 The Risk Management of Payment Systems for E-Commerce<br>Week 15 The Presentation part I<br>Week 16 The Presentation part II<br>Week 17 The Overall Discussion and Conclusion<br>Week 18 The Final Exam",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "課程作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解電子商務經營與金流的重要性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解目前提供金流服務的供應商",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "進行決策金流工具的採用",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "評估金流工具的效益",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "掌握電子商務金流的未來發展",
+            "teachingMethods": [
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "數位金融與金融科技",
+        "author": "李顯儀",
+        "publisher": "全華圖書股份有限公司",
+        "year": "2022",
+        "ISBN": "978-986-503-752-9",
+        "edition": "三版"
+    },
+    "referenceBooks": "金融科技: 基礎與應用<br>翁禮祺<br>雙葉書廊有限公司<br>2020.01<br>978-957-9096-65-2<br><br>",
+    "teachingSoftware": "",
+    "rules": ""
+}

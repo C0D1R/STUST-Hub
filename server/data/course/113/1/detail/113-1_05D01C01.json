@@ -1,0 +1,110 @@
+{
+    "code": "05D01C01",
+    "name": {
+        "zh": "全民國防教育-防衛動員",
+        "en": "All-out Defense Education Military Training-Defense Mobilization"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "軍訓選修"
+    ],
+    "instructors": [
+        "李慈惠"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "D105"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "D105"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "臺灣由於地處歐亞大陸板塊與菲律賓海板塊的交接處，自然災害幾乎每年都會發生，臺灣屬於高風險的地理區域；因此我們必須明瞭防衛動員體系建立，對臺灣安全的重要性。全球氣候變遷劇烈，我國所建置的「全民防衛動員」體系，對於面對新型態的災難防救的國軍與消防救災系統而言，防衛動員體系已經具有新的時代意義。在中國大陸不放棄武力犯臺的安全威脅之下，「全民國防」的具體實踐是對抗中國大陸武力犯臺的致勝之道，且基於戰爭型態與軍事科技的發展。「全民國防」是我國的國家政策。為了確保國家安全，我國所欲建構的是「固若磐石」的國防武力，以及建立「嚇不了、咬不住、吞不下、打不碎」的整體防衛戰力指導。",
+    "prerequisites": "#選課重要須知：軍訓課程名稱更改為「全民國防教育」\n全民國防教育軍事訓練課程折減常備兵役現役役期或軍事訓練期間之上限，依兵役法第十六條第四項規定辦理。本校男學生因應折抵役期選課之學生，請詳閱本校開課規則，每門課均開課2小時1學分！折減現役役期者，每門課得折減4.5日。折減軍事訓練者，每門課最多得折減2日。在此告知，請同學選課自行考量。\n(一)82年前出生，折減現役役期：\n依每門課程總時數36小時(堂)計算，修習成績合格者，依每8堂課折算1日，得折減4.5日；5門課共180小時(堂)，不足1日不列入計算，至多得折減現役役期22日。\n(二)83年後出生，折減軍事訓練期間：\n依每8堂課折算1日，每門課最多得折減2日；5門課共80小時(堂)，至多得折減軍事訓練期間10日。(不得比照折減現役役期之課程規範)\n\n#選修全民國防軍訓訓練課程之男學生，需配合本校青年服勤動員編組，得以運用課程實施訓練。",
+    "syllabus": {
+        "zh": "第一部分課程，依教官專長領域設計<br>第二部分課程，大綱如下：<br>第一章　防衛動員基本概念 　　　　　　<br>第二章 防衛動員與全民國防 　　　　　　<br>第三章　我國防衛動員簡介 　　　　　　<br>第四章 防衛動員與緊急應變 　　　　　　<br>第五章 災害防救知能 　　　 　　　　　　<br>第六章 防衛動員及災害防救模擬演練　　　　　　<br>第七章 戰場急救與自救、中暑防制及心肺復甦術",
+        "en": "The first part of the course, designed according to the field of instructor expertise<br>The second part of the course, the outline is as follows:<br>Chapter 1 Basic Concepts of Defense Mobilization<br>Chapter II Defense Mobilization and National Defense<br>Chapter III Introduction to China's Defense Mobilization<br>Chapter IV Defense Mobilization and Emergency Response<br>Chapter V Disaster Prevention and Knowledge<br>Chapter VI Defense Mobilization and Disaster Prevention Simulation Exercises<br>Chapter VII Battlefield First Aid and Self-Rescue, Heatstroke Prevention and Cardiopulmonary Resuscitation<br>講師の専門知識の分野に従って設計されたコースの最初の部分<br>コースの後半では、概要は次のとおりです。<br>第1章防衛動員の基本概念<br>第二章防衛動員と国防<br>第3章中国の防衛動員の紹介<br>第4章防衛動員と緊急対応<br>第5章防災と知識<br>第6章防衛動員と防災シミュレーション演習<br>第7章戦場での応急処置と自助、熱中症予防と心肺蘇生法"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "提升防衛動員知能，實踐全民國防目標。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉安全應變機制，奠定社會安全基礎。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "深化全民國防共識，確保國家整體安全。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "凝聚國人憂患意識，淬煉愛國愛鄉情操",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "01D14601",
+    "name": {
+        "zh": "基礎數學(三)",
+        "en": "Fundamental mathematics (III)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專電機二甲"
+    ],
+    "instructors": [
+        "高至誠"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "I0210"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "I0210"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將介紹不等式及其應用、向量、聯立方程式，矩陣與行列式、多項式。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t不等式及其應用<br>2.\t向量<br>3.\t聯立方程式，矩陣與行列式<br>4.\t多項式函數<br>",
+        "en": "1.\tInequalities and their applications <br>2.\tVector<br>3.\tA system of linear equations, matrix and determinant<br>4.\tPolynomial function<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學生能了解數學課程的基本觀念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練學生在學習過程中能運算解題及運用資訊科技來輔助計算的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓學生能將所學應用到其專業領域，使學生具備分析及處理實際問題之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過同儕學習演練、作業觀摩及相互評量，提升表達科學報告能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

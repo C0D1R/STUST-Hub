@@ -1,0 +1,127 @@
+{
+    "code": "20D1DM02",
+    "name": {
+        "zh": "DSP單晶片實務",
+        "en": "DSP Single Chip Practice"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技控晶三乙"
+    ],
+    "instructors": [
+        "曾建勳"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "B502"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "B502"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "B502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "主要介紹TMS320F24x晶片之CPU、記憶體、中斷、程式控制、定址模式、事件管理者模組、ADC模組、組合語言指令等之結構與功能。除外、也介紹TMS320F281x晶片。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程主要介紹德州儀器公司生產的TMS320F24x及F28xDSP控制器晶片之結構、功能與應用為主。<br>1.DSP控制器介紹<br>2.記憶體與輸出入空間<br>3.中央處理單元(CPU)<br>4.程式控制<br>5.定址模式<br>6.中斷<br>7.事件管理者模組<br>8.C2000 Code Composer介紹<br>9.DSP基本程式練習,包括加算練習,積之和運算練習,Q值觀念與應用及FIR濾波器運算練習及PID應用(C語言)<br>10.DSP實習版應用程式練習.",
+        "en": "1. Introduce DSP microcontrpller.<br>2. Memory and Input/Output.<br>3. Central Processing Unit.<br>4. Program control.<br>5. Addressing Mode.<br>6. Interrupt.<br>7. Event Menagement Module.<br>8. Introduce C2000 Code Composer.<br>9. DSP Program: Add, Product, FIR Filter, PID Control (C Language).<br>10. DSP Experimental Board Application Program."
+    },
+    "weeklySchedule": "本課程主要介紹德州儀器公司生產的TMS320F24x及F28xDSP控制器晶片之結構、功能與應用為主。<br>第1週: DSP控制器介紹<br>第2, 3週: 記憶體與輸出入空間<br>第3, 4週: 中央處理單元(CPU)<br>第5, 6週: 程式控制<br>第7, 8週: 定址模式<br>第9 週: 期中考試<br>第10, 11週: 中斷<br>第12, 13週: 事件管理者模組<br>第14, 15週: C2000 Code Composer介紹<br>第16週: DSP基本程式練習,包括加算練習,積之和運算練習,Q值觀念與應用及FIR濾波器運算練習及PID應用(C語言)<br>第17週: DSP實習版應用程式練習<br>第18 週: 期末考試",
+    "exams": {
+        "midterm": "試卷考試",
+        "final": "報告",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解DSP單晶片架構觀念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能運用C 語言流程控制-迴圈/陣列/程序與函式功能設計DSP單晶片程式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能利用軟體CCS系統設計程式設計",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能利用中斷正確實現及時程式設計功能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能運用事件管理實現DSP單晶片程式設計",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自編教材",
+    "teachingSoftware": "C/C++",
+    "rules": ""
+}

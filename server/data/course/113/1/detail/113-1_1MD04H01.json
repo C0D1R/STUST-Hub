@@ -1,0 +1,115 @@
+{
+    "code": "1MD04H01",
+    "name": {
+        "zh": "生涯發展與規劃實務",
+        "en": "Career development ＆planning doing"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "社會科學領域"
+    ],
+    "instructors": [
+        "鄭美麗"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "S313"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "S313"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "S313"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程的設計 ，為培養學生自我了解，探索職場優勢和專業熱情， 建構生涯發展的基本架構與提升對自我與職業世界的認識， 增進與反思學習能力 ，並據以規劃進一步的學習與發展途徑 。促使學生了解及解剖自我人格特質與生涯性向。 能讓學生減少就職位摸索時間及心理層面不確定性 ， 學習者透過本課程的實作、討論、體驗與分享，可以學會運用理性思考方法、決策能力、問題解決、履歷撰寫、自我行銷等技巧，完成個人的生涯歷程檔案，進而提升生涯競爭的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(1)職涯探索: 探索個體人格特質、職業價值觀、職場優勢，確認自己專業熱情，以規劃個人成長及職涯發展途徑。 <br>(2)職涯策略藍圖規劃: 運用理論及前輩職涯故事增進自我職涯策略規劃之成(績)效、轉角就是成長機會，裝備自己的人力市場競爭力及職場優勢，進而走出自己獨特的職涯路。 <br>(3)職涯規劃執行: 時間管理與創造、執行力勝過好點子、職涯策略執行時之挑戰。<br>（4） 生涯規劃的內涵：生涯規劃的本質、生涯規劃的重要性。<br>（5）. 生涯發展的歷程：探索家庭、性別對生涯發展的影響與不同人生階段的生涯<br>發展重心與意義。<br>（6）. 自我認識與探索：探索自我的職業興趣、職業能力、工作價值與<br>生活形態對職業選擇的影響。<br>（7）. 職業世界的認識與發展趨勢：最新的職業發展趨勢以及所需之職能。<br>（8）. 生涯決策與準備：從了解自我與職業世界之後，為自己找到適合的職涯類型。<br>（9）. 生涯發展的迷思與困境：生涯發展的迷思、風險管理及可能的突破方法。<br>",
+        "en": "（1）Career Exploration: Explore individual personality traits, professional values, career advantages, identify your professional enthusiasm, and plan your personal growth and career development.<br>（2）Career Strategy Blueprint Planning: Applying theory and predecessor career stories to enhance self-career strategy planning (performance) effectiveness, corner is growth opportunity, equip your own human market competitiveness and workplace advantage, and then go out of their own unique career path .<br>（3）Career Planning Execution: Time management and creation, execution is better than good ideas, and career strategy challenges.<br>（4.） The connotation of career planning: the essence of career planning and the importance of career planning.<br>（5）. The course of career development: Exploring the influence of family and gender on career development and career in different life stages<br>Development focus and meaning.<br>（6）. Self-awareness and exploration: exploring self-personality, professional interest, professional ability, work value and<br>The impact of lifestyle on career choices.<br>（7.） Cognition and development trends in the professional world: the latest career trends and the required functions.<br>（8.） Career decision-making and preparation: After understanding the self and professional world, find the right type of career for yourself.<br>（9）. Myths and dilemmas of career development: myths of career development, risk management and possible breakthroughs.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培育學生生涯發展能力與反思學習能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生自我了解、探索職場優勢和專業熱情。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "促使學生了解及剖析自我人格特質與生涯性向。 讓學生減少就職無謂摸索時間及心理層面不確定性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "強化並提升學生生涯就業潛質與人力市場競爭力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

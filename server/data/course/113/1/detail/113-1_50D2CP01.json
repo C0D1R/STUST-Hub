@@ -1,0 +1,122 @@
+{
+    "code": "50D2CP01",
+    "name": {
+        "zh": "管理學",
+        "en": "Management"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技工管一甲"
+    ],
+    "instructors": [
+        "陳茂松"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "T0001"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "T0001"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹管理學的基本知識，以建立同學對管理學的正確認識，主要內容為：管理思想發展、環境與企業文化、規劃的本質與方法、組織設計原則與變革管理、溝通、領導、激勵及團體行為、控制的方法與工具",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.規劃<br>2.決策<br>3.組織<br>4.用人<br>5.領導<br>6.激勵<br>7.溝通",
+        "en": "1. Planning<br>2. Decision making<br>3. Organization<br>4. Employment<br>5. Leadership<br>6. Motivation<br>7. Communication"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養管理知識之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養管理實務之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養管理計畫評估之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養管理協調整合之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養管理報告溝通之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,99 @@
+{
+    "code": "D1N00K01",
+    "name": {
+        "zh": "門市服務與銷售技巧",
+        "en": "Store service and sales skills"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜行流產攜二甲"
+    ],
+    "instructors": [
+        "王怡強"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在探討門市營運管理，內容包括零售與門市管理、門市商品管理、門市銷售管理、門市人力資源管理、門市營運計畫與管理、門市商圈經營、門市顧客服務管理、危機處理等功能領域。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 零售與門市管理<br>2. 門市商品管理<br>3. 門市銷售管理<br>4. 門市人力資源管理<br>5. 門市營運計畫與管理<br>6. 門市商圈經營<br>7. 門市顧客服務管理",
+        "en": "1. Retailing and store management<br>2. Merchandise management<br>3. Sales management<br>4. Human resource management<br>5. Chain store operation planning and management<br>6. Trade area Management<br>7. Customer Service Management"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "基礎商管知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "行銷與銷售管理知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "整合與解決問題能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "表達與溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

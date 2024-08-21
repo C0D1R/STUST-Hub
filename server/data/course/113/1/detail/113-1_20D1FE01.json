@@ -1,0 +1,115 @@
+{
+    "code": "20D1FE01",
+    "name": {
+        "zh": "數位邏輯設計概論",
+        "en": "Introduction of Digital System Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專電機二甲"
+    ],
+    "instructors": [
+        "林瑞源"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "I0210"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "I0210"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "I0210"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要針對數位邏輯設計之概論進行實習，透過電腦實際進行邏輯設計與模擬等操作，進而讓學生了解數字系統的原理、邏輯閘與布林代數的使用，組合邏輯的概念，正反器、計數器、暫存器等基本邏輯設計的方法，並透過一些應用實例的講解來增進學生數位邏輯設計處理能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、導論<br>二、數字系統<br>三、邏輯闸與布林代數<br>四、組合邏輯。<br>五、正反器<br>六、計數器與暫存器<br>七、序向邏輯<br>八、應用實務<br>",
+        "en": "1. Introduction to digital system<br>2. Number systems and codes<br>3. Boolean algebra and logic gates<br>4. Gate level minimization<br>5. Combinational logic circuits<br>6. Registers and counter<br>7. Synchronous sequential logic<br>8. Applications<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解並學會數字系統各進制的轉換。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解邏輯閘與布林函數的特性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會應用化簡技術設計組合邏輯電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會組合邏輯相關的應用邏輯",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

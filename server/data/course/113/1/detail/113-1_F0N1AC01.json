@@ -1,0 +1,139 @@
+{
+    "code": "F0N1AC01",
+    "name": {
+        "zh": "互動多媒體製作",
+        "en": "Interactive Multimedia Production"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技資傳三甲"
+    ],
+    "instructors": [
+        "許擇瑋"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "W0608"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "W0608"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "W0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "多媒體進階課程授課，使學生能具有整合文字、圖片、聲音、動畫與視訊的能力。透過此課程讓學生對多媒體專案製作的內容企劃、設計流程、檔案格式更深入了解和靈活運用。<br>以預先載入動作套用到骨架模型的動畫製程，快速建立動畫演員的肢體動作與表情呈現，使動畫製作的過程不再繁複，更能聚焦在內容創作與創意表現。<br>",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.物件觀念介紹<br>2.動畫製作<br>3.直播及虛擬網紅<br>4.多媒體專案企劃與製作<br>5.專題應用<br>",
+        "en": "1.Introduction of Object<br>2.Animator Production<br>3.Live Streaming and VTuber<br>4.The Planning and Production of Multimedia project<br>5.Multimedia Applications<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解製作團隊精神的重要性及分工的職責",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備多媒體專案之專業技能與態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解製作團隊精神的重要性及分工的職責",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生了解創意多媒體知識基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備動畫創作能力及互動媒體製作工具的運用技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生了解創意多媒體知識基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

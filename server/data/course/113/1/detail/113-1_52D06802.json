@@ -1,0 +1,127 @@
+{
+    "code": "52D06802",
+    "name": {
+        "zh": "物料管理",
+        "en": "Material Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技工管二乙"
+    ],
+    "instructors": [
+        "曾文宏"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "T0206"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0206"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0206"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以探討存貨系統問題為主，其目地使學生了解物料管理之定義、組織及採購、備料、倉儲管理與管制之方法，以訓練學生了解物料管理與企業經營之目標連結在一起，強化從事相關工作之能力。<br>",
+    "prerequisites": "微積分",
+    "syllabus": {
+        "zh": "1. 物料管理基本觀念<br>2. 物料預測<br>3. 獨立需求存貨控制系統<br>4. 機率性存貨管制系統<br>5. 訂購點系統<br>6. 定期檢查系統<br>7. MRP存貨模式<br>8. 倉儲管理實務<br>9. 供應鏈觀念與整合篇<br>",
+        "en": "1. Introduction to Inventory Management&nbsp;<br>2. Forecasting<br>3. Independent Demand Ordering Systems<br>4. Inventory Control System with Probabilistic Demand<br>5. ROP System<br>6. Periodical Inventory Control System&nbsp;<br>7. Material Requirements Planning &amp; Capacity<br>8. Warehouse Management&nbsp;<br>9. Supply Chain Concept<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立系統化物料管理的知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養推動物料管理實務之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立評估物料管理計畫之優缺點的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養推動物料管理系統運作協調與整合之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養進行物料管理相關業務口頭與書面報告之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

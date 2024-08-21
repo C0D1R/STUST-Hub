@@ -1,0 +1,122 @@
+{
+    "code": "M0D14L01",
+    "name": {
+        "zh": "渡假旅館經營管理",
+        "en": "Resort Hotel Management"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技餐旅三乙"
+    ],
+    "instructors": [
+        "梁仲正"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0307"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0307"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為學生介紹充滿趣味及挑戰性的休閒渡假旅館管理，並善用科技與貼心的服務來吸引並滿足度假村遊客的期望",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.渡假旅館的概念<br>2.渡假旅館規劃與發展<br>3.規劃與發展注意事項<br>4.渡假旅館設施規劃<br>5.渡假旅館的人事組織與人力資源<br>6.渡假旅館營運部門的管理<br>7.渡假旅館後勤部門的管理<br>8.渡假旅館行銷與促銷方案<br>9.渡假旅館投資經營<br>10.渡假旅館保全、安全管理與風險管理<br>11.渡假業：回顧與展望<br>",
+        "en": "1.The Resort Concept<br>2.Resort Planning and Development<br>3.Special Considerations in Planning and Development<br>4.Planning the Facilities<br>5.Personnel Organization and Human Relations<br>6.Front-of-the-House Management<br>7.Back Office Management<br>8.Resort Marketing and Sales Promotion<br>9.Managing the Resort Investment<br>10.Security, Safety, and the Management of Risk<br>11.Resorts: Retrospect and Prospects<br>"
+    },
+    "weeklySchedule": "9/12  class introduction and regulation<br>9/19  hospitality trend analysis<br>9/26  hospitality trend analysis<br>10/3   international resort hotel<br>10/10  off<br>10/17  渡假旅館的概念<br>10/24   hospitality trend analysis<br>10/31  渡假旅館規劃與發展<br>11/ 7  paper due  and   mid term exam  <br>11/14  規劃與發展注意事項<br>11/21  oral presentation 渡假旅館行銷與促銷方案<br>11/28  渡假旅館設施規劃<br>12/5  渡假旅館的人事組織與人力資源<br>12/12  渡假旅館營運部門的管理<br>12/19   oral presentation 渡假旅館投資經營<br>12/26  渡假旅館後勤部門的管理<br>1/2    international resort hotel<br>1/9  final  oral presentation<br> <br><br><br>",
+    "exams": {
+        "midterm": "期中交報告mid term  paper due",
+        "final": "oral presentation",
+        "other": "平時成績包括不定期小考、點名 課堂參與討論、及上課態度"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "渡假旅館規劃與發展",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "休閒度假旅館的規劃",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "休閒度假旅館的營運管理",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "休閒度假旅館的服務概念與方式",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "渡假旅館行銷與促銷",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "老師編製中英文講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "渡假村與俱樂部經營管理<br>老師編製中英文講義",
+    "teachingSoftware": "電腦 投影機 教學網頁  flip 數位學習 Print out",
+    "rules": "註1: 平時成績 40% 包括1-3次不定期小考、點名 課堂參與討論、及上課態度 (包括手機鈴響、上課睡覺及講話等影響上課秩序行為)。<br>註2：期中報告30% ;  期末報告30%以3人一組為限，最遲請於第三週前繳交名單(包括組員及組長)及名單，若有不清楚之地方請詢問任課老師。<br>註3：上課前請先做好預習之工作，上課中間將會有問題提問與討論，若表現不佳將會影響成績。<br>註4: 請準時上課，遲到超過15分鐘以上者視同曠課。因故缺席者請當日上課前一天或24小時之內以Email、電話或請同學告知老師。若為病假，事後請補上證明，否則仍以曠課論。<br>PS. 曠課5次以上以平時成績零分計<br><br><br>"
+}

@@ -1,0 +1,115 @@
+{
+    "code": "30D1F501",
+    "name": {
+        "zh": "基本電學",
+        "en": "Basic Electrical Engineering"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專電子一甲"
+    ],
+    "instructors": [
+        "陳昭綾"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "J405"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "J405"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "J405"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在現今高度數位化的社會，電學的知識已經成為不可或缺的一部分。本課程《基本電學》旨在為學生提供電學的基礎知識，涵蓋從基礎的電學原理到實際應用的電路分析。透過理論與實作相結合，學生將能夠了解電學的核心概念，並能在實際場景中應用所學。<br><br>課程內容包括電流、電壓、電阻，以及基礎的電磁學原理。此外，學生還將學習到如何分析和設計基本的電路。課程將結合實際的實驗和模擬，使學生能夠在實際操作中獲得實務經驗。<br><br>經過本課程的學習，學生不僅能夠掌握電學的基礎知識，更能夠在真實世界中應用這些知識，為未來的工程學研究或相關行業打下堅實的基礎。<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.電學的基礎概念<br>電流、電壓、和電阻的定義<br>基本電學定律<br><br>2.電阻與Ohm定律<br>電阻的計算<br>Ohm定律的應用<br><br>3.系列與並聯電路<br>系列電路分析<br>並聯電路分析<br><br>4.電磁學基礎<br>電磁感應<br>電磁波的原理<br><br>5.交流與直流電路<br>交流電的特性<br>直流電的特性<br><br>6.基本電路元件與應用<br>電容器、電感與二極體<br>基礎電路的設計與分析",
+        "en": "1.Fundamental Concepts in Electrical Engineering<br>Definition of Current, Voltage, and Resistance<br>Basic Electrical Laws<br><br>2.Resistors and Ohm's Law<br>Calculations involving Resistance<br>Applications of Ohm's Law<br><br>3.Series and Parallel Circuits<br>Analysis of Series Circuits<br>Analysis of Parallel Circuits<br><br>4.Basics of Electromagnetism<br>Electromagnetic Induction<br>Principles of Electromagnetic Waves<br><br>5.AC and DC Circuits<br>Characteristics of Alternating Current<br>Characteristics of Direct Current<br><br>6.Basic Circuit Components and Applications<br>Capacitors, Inductors, and Diodes<br>Design and Analysis of Basic Circuits."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習並理解電學的基礎知識，包括電流、電壓、和電阻的基本概念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠分析和設計基本的電路，並實際操作進行實驗。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過實際操作和模擬，體驗並理解電磁學的核心原理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成終身學習的習慣，能夠隨著科技的發展不斷更新電學相關知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

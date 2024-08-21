@@ -1,0 +1,151 @@
+{
+    "code": "30D10302",
+    "name": {
+        "zh": "電子學(一)",
+        "en": "Electronics Engineering (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電子二乙"
+    ],
+    "instructors": [
+        "田子坤"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "P302"
+        },
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "P302"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "P302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "●Semiconductor Materials and Diodes●Diode Circuits●The Bipolar Junction Transistor●Basic Bjt Amplifiers",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "●半導體材料和二極體..●二極體電路.●雙極接面電晶體.●基本雙極電晶放大器.",
+        "en": "●Semiconductor Materials and Diodes  1.Semiconductor Materials and Properties  2.The pn Junction  3.Diode Circuits:DC Analysis and Models  4.Diode Circuits:AC Equivalent Circuit  5.Other Diode Type●Diode Circuits  1.Rectifier Circuits  2.Zener Diode Circuits  3.Clipper and Clamper Circuits  4.Multiple-Diode Circuits  5.Photodiode and LEd Circuits●The Bipolar Junction Transistor  1.Basic Bipolar Junction Transistor  2.DC Analysis of Transistor Circuits  3.Basic Transistor Circuits  4.Bipolar Transistor Biasing  5.Multistage Circuits●Basic Bjt Amplifiers  1.Analog Signals and Linear Amplifiers  2.The Bipolar Linear Amplifier  3.Basic Transistor Amplifier Configurations  4.Common-Emitter Amplifers  5.AC Load Line Analysis  6.Common-Coiiector (Emitter-Follower) Amplifiers  7.Common-Base Amplifiers  8.The Three Basic Amplifiers:Summary and Comparison  9.Multistage Amplifiers  10.Power Considerations"
+    },
+    "weeklySchedule": "基本電路觀念與定律二極體特性與應用二極體交流電路從半導體到電晶體BJT特性及應用BJT放大器",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第5,14週平時考，筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立半導體、二極體、雙極性電晶體、元件特性之理論基礎。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "期中"
+                },
+                {
+                    "method": "自我評量",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "透過電子學基本知識，養成學生對電子電路實做之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "期中"
+                },
+                {
+                    "method": "自我評量",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "透過不同電路之講解，建立學生針對實際需求，使用不同電路之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學生知道如何搜尋電子學之相關期刊及網路資源。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "藉由電子學作業，訓練學生撰寫學術報告及發表的能力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "基礎電子學",
+        "author": "高銘盛",
+        "publisher": "滄海圖書資訊股份有限公司",
+        "year": "2021",
+        "ISBN": "9789865647988",
+        "edition": "三版"
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "頭影片播放軟體",
+    "rules": "1. 準備一本教科書2. 準時出席"
+}

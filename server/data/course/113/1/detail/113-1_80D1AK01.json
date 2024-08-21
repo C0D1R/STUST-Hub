@@ -1,0 +1,116 @@
+{
+    "code": "80D1AK01",
+    "name": {
+        "zh": "ESG與風險管理",
+        "en": "ESG and Risk Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技財金四甲",
+        "四技財金四乙"
+    ],
+    "instructors": [
+        "張民昌"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S313"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "S313"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "S313"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程結合ESG理念與風險管理，探究風險的確認、衡量、對策及相關策略等主題，並深入了解ESG與四大風險管理策略（風險自承、風險規避、風險分散及風險轉嫁）於財務風險實務之運用。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1. ESG與風險管理的基本概念<br>2. 風險的意義<br>3. 風險管理的意涵<br>4. ESG與風險管理策略<br>5. 人身風險管理<br>6. 企業風險管理<br>",
+        "en": "1. Fundamentals of ESG and Risk Management<br>2. Definition of Risk<br>3. Definition of Risk Management<br>4. ESG and Risk Management Strategies<br>5. Personal Risk Management<br>6. Enterprise Risk Management<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解ESG與風險管理的基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解風險與風險管理的意義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解ESG與風險管理策略",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解人身與企業風險管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

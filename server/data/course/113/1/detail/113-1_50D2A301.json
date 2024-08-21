@@ -1,0 +1,136 @@
+{
+    "code": "50D2A301",
+    "name": {
+        "zh": "ERP配銷模組",
+        "en": "ERP Sales and Distribution Module"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技工管三甲",
+        "四技工管三乙"
+    ],
+    "instructors": [
+        "廖顯宗"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0806"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0806"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0806"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在輔導學生考取ERP證照,過程中將利用ERP理論介紹與系統實務操作,來讓學生對ERP系統之導入,管控,操作與流程維護,有更完整的了解。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.ERP系統概述<br>2.ERP系統之導入<br>3.ERP系統之流程控管<br>4.鼎新ERP系統之系統架構<br>5.配銷模組之功能介紹<br>6.訂單系統操作<br>7.倉儲系統操作<br>8.銷貨系統操作<br>9.證照考試",
+        "en": "1.Introduction to ERP<br>2.Implementation of ERP system<br>3.Process monitoring and control with ERP<br>4.System architecture of Workflow ERP<br>5.Introduction of Distribution module of Workflow ERP<br>6.Operation of Order subsystem<br>7.Operation of Invetory Subsystem<br>8.Opeartion of Sales Subsystem<br>9.Certification examination"
+    },
+    "weeklySchedule": "Week 1~2 ERP系統概述<br>Week 3~4 ERP系統之導入<br>Week 5~6 ERP系統之流程控管<br>Week 7~8 鼎新ERP系統之系統架構<br>Week 9 Midterm Exam<br>Week 10~11 配銷模組之功能介紹<br>Week 12~13 訂單系統操作<br>Week 14~15 倉儲系統操作<br>Week 16~17 銷貨系統操作<br>Week 18 Final Exam",
+    "exams": {
+        "midterm": "期中考試",
+        "final": "期末考試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解ERP配銷的範圍與基本流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能針對ERP配銷之問題有效辨識適當的管理手法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用ERP配銷模組支援決策分析的重要性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能將探索研究所得資料轉換成實務手法並用以建立管理知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用正確模式有效解析與呈現分析結果，讓不懂所進行之研究問題的管理者亦可以理解",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "鼎新WorkFlow ERP GP應用人才培訓系列",
+        "author": "吳佩諭 余岱倫",
+        "publisher": "鼎新電腦",
+        "year": "2011",
+        "ISBN": "978-957-29613-7-7",
+        "edition": "1"
+    },
+    "referenceBooks": "鼎新WorkFlow ERP GP應用人才培訓系列-ERP基礎觀念及導入方法篇, 2019, 第2版, ISBN:978-986-89263-5-6",
+    "teachingSoftware": "鼎新WorkFlow ERP GP",
+    "rules": "1.每周課程有不定期課堂作業, 需於課堂當天完成並上傳繳交<br>2.本課程配合教材進行教學, 同學上課需要有課本教材"
+}

@@ -1,0 +1,116 @@
+{
+    "code": "1MD04Y02",
+    "name": {
+        "zh": "職場與法律",
+        "en": "Workplace and Law"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "社會科學領域"
+    ],
+    "instructors": [
+        "郭俊麟",
+        "黃靖媛"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "E0505"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "E0505"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "E0505"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在校園中，經常會有學生詢問有關校外打工權益問題，深感學生由於求職經驗不足，對於自身與勞動權益密切相關的法令知識相當缺乏，常有勞動權益遭受侵害而不自知，即使知悉卻不知如何救濟等情況。此種現象引發筆者於大學部通識教育開設「職場與法律」課程，冀望將法律教學，運用創新教學與課程設計進行轉化，導入案例教學與深度討論，透過情境式學習帶入勞資雙方可能遭遇之爭議，進而破除學生對於法律感到艱澀、需要背誦條文的刻板印象，讓學生能清楚明瞭勞動法令規定，在未來工作就業能活用課程所學，保障自身權益。本課程採取素養導向教學，強調問題研討、情境學習與議題融入教學，同時提升學生法律學習動機與意願。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程以勞動基準法為基礎，結合勞動法令相關規定，針對「招聘」、「勞動契約」、「工作規則」、「最低服務年限」、「競業禁止」、「工資」、「工作時間」、「請假制度」、「女性勞工權益保障」、「調動原則」、「職災補償」、「職場性騷擾」、「離職、解雇與資遣」等法規內容進行課程單元設計，每週授課時數為3小時，全學期共規劃16項主題單元，各單元除法規內容講解之外，另結合勞動時事內容與問題焦點，安排兩項課堂活動，包括：「勞工問題研討」與「勞動議題辯論」，讓學生在「做中學」與「問題情境」當中，運用課程所學之法律知識內容，思考當前勞動權益與問題爭議原因，提出合理論述與解決爭議方法，培養勞動意識與人權素養。",
+        "en": "This course is based on the Labor Standards Act, combined with relevant labor laws and regulations, and focuses on \"recruitment\", \"labor contract\", \"work rules\", \"minimum service period\", \" Non-compete clause\", \"salary\", \"working hours\" , \"Leave System\", \"Women's Labor Rights and Interests Protection\", \"Transfer Principles\", \"Occupational Accident Compensation\", \"Sexual Harassment in the Workplace\", \"Resignation, Dismissal and Dismissal\" and other legal content to design course units, teaching hours per week The duration is 3 hours, and a total of 16 themed units are planned for the whole semester. In addition to explaining the content of laws and regulations, each unit also arranges two classroom activities, including: \"Discussion on Labor Issues\" and \"Debate on Labor Issues\", allowing students to \"learn by doing\" In the \"problem situation\", use the legal knowledge learned in the course to think about the causes of disputes, propose reasonable arguments and dispute resolution methods, and cultivate labor awareness and literacy."
+    },
+    "weeklySchedule": "第一單元 就業市場與資源<br>第二單元 職場倫理與態度<br>第三單元 職場溝通<br>第四單元 職場禮儀<br>第五單元 職場穿搭與個人形象經營<br>第六單元 就業與職場案例探討<br>第七單元 勞動契約<br>第八單元 工資<br>第九單元 工作時間、休息、休假<br>第十單元 童工、女工<br>第十一單元 退休<br>第十二單元 職業災害補償<br>第十三單元 技術生<br>第十四單元 工作規則<br>第十五單元 性別平等工作法<br>第十六單元 勞資爭議處理法<br>",
+    "exams": {
+        "midterm": "案例探討",
+        "final": "學期自我評量",
+        "other": "學習單"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "結合並融入素養導向教學四大原則：整合知識、技能與態度；導入情境脈絡化的學習；強調學習方法及策略；著重活用實踐的表現。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "講授勞資雙方常見爭執類型與其問題爭點，透過同儕合作學習與問題深度討論，增進學生思考與邏輯思辨能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "解讀勞資爭議案例，蒐集解釋令函、法院判決、新聞事件，以及勞資爭議議題，依據課程單元主題與學習重點設計情境問題與議題辯論，培養學生具備職涯所需之法律素養。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "引導學生進行價值本身之認識與反思，將法律規範與各案例問題及議題之實質內涵，進行連結、延伸、統整及轉化，而能提升認知與敏感度，培養其價值觀與責任感，以及在生活中履行與實踐之能力。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "職場與法律",
+        "author": "鄭津津",
+        "publisher": "元照",
+        "year": "2022",
+        "ISBN": "9786260104993",
+        "edition": "9"
+    },
+    "referenceBooks": "張清滄，例解勞動基準法，五南，2024。<br>林豐賓、劉邦棟，勞動基準法論，三民書局，2021。",
+    "teachingSoftware": "自製投影片教材、講義及補充教材。",
+    "rules": "歡迎同學課堂發言與討論。"
+}

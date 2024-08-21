@@ -1,0 +1,110 @@
+{
+    "code": "1DD02O01",
+    "name": {
+        "zh": "行銷學",
+        "en": "Marketing"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技流音二甲"
+    ],
+    "instructors": [
+        "徐志杰"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "W1012"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "W1012"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程乃有系統地探討行銷管理理論及其應用，強調重要觀念的解析，並以國內外實例與生活見聞來解釋學理的應用。藉以提升同學對行銷議題的興趣，並培養同學分析與解決行銷問題的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.行銷的基本概念<br>2.行銷管理與行銷規劃基礎<br>3.市場區隔與目標市場選擇<br>4.消費者市場分析<br>5.組織市場分析<br>6.產品概述<br>7.產品管理<br>8.價格管理<br>9.推廣管理<br>10.市場調查與行銷資訊<br>",
+        "en": "1.The basic concept of marketing<br>2.Marketing Management and Marketing Planning<br>3.Market Segmentation and Target Market Selection<br>4.Consumer Market Analysis<br>5.Organization market analysis<br>6.Product Overview<br>7.Product Management<br>8.Price Management<br>9.Promotion Management<br>10.Market survey and Marketing Information<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解行銷學之特性與範圍。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解行銷學之運作方式、相關問題與解決方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "加強學生行銷學之知識與運用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過行銷學個案資料蒐集與討論，增進同學之思考與學習。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

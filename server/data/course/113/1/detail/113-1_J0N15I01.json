@@ -1,0 +1,105 @@
+{
+    "code": "J0N15I01",
+    "name": {
+        "zh": "職場實務探索(三)",
+        "en": "Workplace Practices (III)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技視傳四甲"
+    ],
+    "instructors": [
+        "林佳駿"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第11節",
+            "location": "W0701"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為貫徹以培養實務能力為課程目標之精神，延續大一、大二課程除了解各類型相關專業領域之實務工作，培養更多設計相關人員，並建立與產業界良好互動模式，在大三、大四加強口語表達及溝通能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.介紹職場心理學，利於同學了解職場人際關係。<br>2.同學分享職場技能或運用工具等相關經驗。<br>3.強化口語表達以及溝通能力<br>4.分組心得報告<br>",
+        "en": "1. Introduce workplace psychology to help students understand workplace relationships.<br>2. Students share relevant skills in workplace skills or using tools.<br>3. Strengthen oral expression and communication skills<br>4.Grouping report<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "提高進入職場適應能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升職場表達溝通力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "強化數位設計能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升合作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

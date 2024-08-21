@@ -1,0 +1,115 @@
+{
+    "code": "D0Q00201",
+    "name": {
+        "zh": "物流管理專題",
+        "en": "Logistics Management Seminar"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專行流一甲"
+    ],
+    "instructors": [
+        "邱明琦"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "T0212"
+        },
+        {
+            "day": "週六",
+            "period": "第9節",
+            "location": "T0212"
+        },
+        {
+            "day": "週六",
+            "period": "第11節",
+            "location": "T0212"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The relationship and interaction between logistics activities,and between logistics and other managerial functions, will be the key lessons to learn.Besides the major topics which was listed in the outline,business visiting will be arranged when possible.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.物流管理概論<br>2.物流管理理論<br>3.物流管理策略<br>4.物流管理技術<br>5.物流管理之債務評估<br>6.全球物流管理<br>7.物流管理發展趨勢<br>8.物流管理個案討論",
+        "en": "1.Introduction to logistics management<br>2.Logistics management theory<br>3.Logistics management strategy<br>4.Logistics management technology<br>5.The evaluation of logistics management<br>6.Global logistics management<br>7.The trend of logistics management development<br>8.The case study logistics for management"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使同學建立物流管理之基礎概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解物流與行銷、生產、財務等企業其他功能間的相關性，具備系統性、整合性之物流管理知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使同學瞭解企業物流管理之運作與供應鍊管理之關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "強化物流之實務知識以利相關證照之考取",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

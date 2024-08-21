@@ -1,0 +1,160 @@
+{
+    "code": "1LD06001",
+    "name": {
+        "zh": "歷史與思想",
+        "en": "History and thought"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "王惠琛"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "W0401"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "W0401"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "W0401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程在介紹歷史學的來歷、定義、意義、類型和功用，並告訴學生為何要瞭解歷史，又該如何學習和研究歷史，及如何蒐集、分析、考證及批判史料。透過這些關於歷史知識、歷史思考與相關領域的講授，進一步提昇學生經由探索歷史與結合個人歷史經驗，而得以獨立思考及獲得智慧。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "歷史的定義：<br>1.「歷」與「史」的本義、歷史的定義、遺跡遺物與歷史、神話與歷史、民間故事與歷史、新聞與歷史<br>2.歷史研究與歷史意義：<br>傳統史學、歷史敘事與歷史解釋、史學家的基本原則<br>3.史料析論：<br>史料的分類、史料的蒐集、史料的考證、史料的使用、相關學科的運用<br>4.歷史的功用：<br>淑世及致用的境界、負面的功能、歷史的智慧<br>5.歷史的書寫：<br>歷史研究領域及取向、比較史學與世界歷史<br>6.史籍一二三：<br>近人歷史作品解讀<br>7.生活的歷史：<br>文化、宗教與民間信仰<br>8.家族與社會：<br>從上古到隋唐的家族、從宋到清的家族、婦女社會地位與婚姻、家族史的書寫<br>",
+        "en": "1.Definition of history:<br>Relics and history, Myth and history, Folktales and history, News and history.<br>2.Historical research and historical significance:<br>Traditional history,Historical Narration and Historical Interpretation,The basic principles of historians.<br>3.Historical data analysis:<br>Classification of historical materials,Collection of historical materials, Research on historical materials,Use of historical materials,Use of related disciplines.<br>4.Historical function:<br>Promote the realm of world peace,Negative function, Historical wisdom.<br>5.Historical writing:<br>   Historical research field and orientation,Comparative history and world history.<br>6.Historical books:<br>Interpretation of the historical works of recent people.<br>7.History of life:<br>Culture, religion and folk beliefs.<br>8. Family and society:<br>Family from ancient times to Sui and Tang Dynasties,Family from Song to Qing,Women's social status and writing of marriage and family history.<br><br><br>"
+    },
+    "weeklySchedule": "第1週：你我與「歷史」的時空相會<br>第2週：歷史的定義<br>第3週：當代史學的新學派－影視史學<br>第4週：影視史學在歷史教學上的運用<br>第5週：口頭傳說類史料<br>第6週：文字記載類史料<br>第7週：實物遺跡類史料(本週專題符合SDGs目標11永續城鄉。第94項指標--11.4在全球的文化與自然遺產的保護上，進一步努力。)<br>第8週：直接史料與間接史料<br>第9週：期中考試週<br>第10週：有意史料與無意史料<br>第11週：史料考證<br>第12週：歷史書寫與研究<br>第13週：歷史研究類型<br>第14週：歷史的功用(本週專題符合SDGs目標16和平、正義及健全制度。)<br>第15週：歷史的弊害(本週專題符合SDGs目標16和平、正義及健全制度。)<br>第16週：電影與歷史專題<br>第17週：電影與歷史專題<br>第18週：期末考試週/期末分組報告分享<br>課程進度得視實際教學需要調整。<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "學習單"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解歷史與文化的重要內容，建立人文關懷，具備歷史知識的基本知能。 (A3)",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "應用歷史知識於生活或學習中，擴展歷史視野。(E2)",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "解釋文化與歷史的意義，並於生活中展現反省、理性思維及批判的能力。(I4)",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "善盡熱心、誠懇的態度來學習或待人處事。(F1)",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "整合組織、有條不紊地語文來適切表達。(G1)",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "積極參與在團體中與人融洽地互助合作。(H5)",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.嚴耕望，《治史經驗談》，台灣商務印書館。 2.周樑楷、吳振漢、胡昌智，《史學導論》，空中大學，1995。 3.杜維運，《史學方法論》，三民書局，2001。 4.胡昌智，《歷史知識與社會變遷》，聯經出版公司，1986。 5.黃進興，《歷史主義與歷史理論》，允晨出版社，1992。 6.卡耳著，王任光譯，《歷史論集》，幼獅書局，1968。 7.柯林烏著，黃宣範譯，《歷史的理念》，聯經出版公司，1981。 8.林柏維，《歷史散步》，車輄寮工作室，2006。 9.葛劍雄、周筱斌，《歷史學是什麼》，楊智，2003。 10.黃仁宇，《萬曆十五年》，聯經出版公司，1985。 11.史景遷，《婦人王氏之死》，麥田出版公司，1977。 12.賈德、戴蒙著，王道環、廖月娟譯，《槍炮、病菌與鋼鐵：人類社會的命運》，時報，1998。 13.李道緝主編，《通識歷史》，二魚文化，2008。 14.陳登武，《歷史與人生》，三民書局，2008。 15.甘懷真，《傳統與現代的對話：一個史學的觀點》，國立台灣大學。",
+    "teachingSoftware": "1.數位學習平台 2.自編數位教材：《歷史與思想》教學投影片",
+    "rules": "1.關於本課程之綱要、相關規範及評量方式等，將於首次上課時進行說明，請修課同學務必出席。<br>2.學習態度、缺曠紀錄、學習單/報告繳交狀況，列入學期成績考核參酌。<br>"
+}

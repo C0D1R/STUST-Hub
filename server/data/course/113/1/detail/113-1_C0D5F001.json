@@ -1,0 +1,110 @@
+{
+    "code": "C0D5F001",
+    "name": {
+        "zh": "英語公關司儀與主持訓練",
+        "en": "Master of Ceremonies and Toast Master Training"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應英四甲"
+    ],
+    "instructors": [
+        "石耀西"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "N202"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "N202"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以應屆畢業生進入職場前，培養應該具備的臨場應變能力與公開場合以中英語主持發表技能為目的，以個人訓練與小組活動的方式進行課程，上課內容包含主持與公關表達、業師演講與座談、及實際演練。<br>This course is to train senior English majors in professional skills for hosting on special occasions and delivering public speeches effectively for the preparation of their future careers. Class activities include MC training, toast Master training, lectures, and demonstration practice.<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一週 課程介紹與分組<br>第二週 如何克服台上緊張 <br>第三週 清晰與流暢的咬音練習 <br>第四週 第一次上台練習<br>第五週 司儀訓練前置講解 <br>第六週 第一場業師演講與座談<br>第七週 司儀訓練I<br>第八週 司儀訓練II<br>第九週 第二次上台練習<br>第十週 公關主持人訓練I<br>第十一週 公關主持人訓練II<br>第十二週 公關主持人訓練 III<br>第十三週 第二場業師演講與座談<br>第十四週 第三次上台練習<br>第十五週 個人練習I（場合、撰稿、穿著、劇照）<br>第十六週 個人練習II （朗讀、控場、身段與口條練習）<br>第十七週 第四次上台練習<br>第十八週 總評估<br>",
+        "en": "Week 1 Class Orientation (Teaming up)<br>Week 2 Nonverbal Expression: Stage Fright vs. Competency in public (Team Evaluation)<br>Week 3 Verbal Expression: Clarity, Fluency, &amp; Speed (Listening &amp; Speaking Practice)<br>Week 4 Team on Stage I (Announcement Training &amp; Practice) <br>Week 5 How to Make a Successful Ceremony (Data Collection &amp; Discussion) <br>Week 6 1st lecture <br>Week 7 MC Training I (Occasion Survey) <br>Week 8 MC Training II (Verbal/Nonverbal Expression) <br>Week 9 Mid-term Exam; Team on Stage II <br>Week 10 Toast Master Training I <br>Week 11 Toast Master Training II <br>Week 12 Toast Master Training III<br>Week 13 2nd lecture <br>Week 14 Team on Stage III <br>Week 15 Individual Practice I <br>Week 16 Individual Practice II <br>Week 17 Individual on Stage IV<br>Week 18 Final Exam; Overview<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "在公開場合自在大方地表達與演說",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備在大場合主持的中英文專業技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "符合特殊場合主持的需求",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "適應當代的社會挑戰與改變",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

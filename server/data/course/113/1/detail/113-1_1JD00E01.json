@@ -1,0 +1,149 @@
+{
+    "code": "1JD00E01",
+    "name": {
+        "zh": "基本照護實務與實驗",
+        "en": "Basic Nursing Practices and Labs"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技高福二甲",
+        "四高福國專二甲"
+    ],
+    "instructors": [
+        "柯雅婷"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "O304"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "O304"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "O304"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "O304"
+        }
+    ],
+    "hours": {
+        "course": "4",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著醫藥科技的進步，使國人平均壽命延長，使得「高齡化」已成為普遍的社經現象，高齡者的身體及心智功能逐漸減退，需要被照顧的失能者愈來愈多，隨著家庭及社會結構的改變，家庭照顧人力不足，促使照顧服務員的需求日益增加。本課程主旨在教授照顧服務之技術與實作。課程內容包含照顧服務、照顧者的特質與倫理、人際關係與溝通技巧、人體結構與功能、基本生命徵象、基本生理需求、清潔與舒適、活動與運動、營養與膳食療養、疾病徵兆之認識與處理、家庭照顧需求與協助、意外災害的緊急處理、急救與心肺復甦術、臨終關懷及認知安寧療護等照顧服務。藉由講解、示範與實作之技能，期使增強學生之正確執行個案基本照護的能力，以落實學用合一之課程目標。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程簡介<br>2.照顧服務員功能角色與服務內涵<br>3.照顧服務資源與團隊協同合作<br>4.身體結構與功能<br>5.基本生命徵象(含技術)<br>6.人際關係與溝通技巧<br>7.基本生理需求<br>8.疾病徵兆之認識及老人常見疾病之照顧事項<br>9.清潔與舒適協助技巧暨回覆示教（一）洗頭、沐浴、口腔清潔、更衣<br>10.清潔與舒適協助技巧暨回覆示教（二）鋪床與更換床單、剪指甲、會陰沖洗及尿管清潔、使用便盆<br>11.清潔與舒適協助技巧暨回覆示教（三）背部清潔與疼痛舒緩、修整儀容、疼痛舒緩、甘油灌腸<br>12.活動與運動及輔具協助暨回覆示教（一）(含技術-協助下床及坐輪椅)<br>13.活動與運動及輔具協助暨回覆示教（二）(含技術)<br>14.如廁照護、腸造口照護、居家甘油球通便、居家血糖測量(含術科)<br>15.意外災害的緊急處理<br>16.急症處理<br>17.急救概念暨回覆示教(含術科)<br>18.營養與膳食、備餐餵(灌)食及餵藥(含術科)<br>19.臨終關懷及認識安寧照顧<br>20.家務處理、家庭照顧需求與協助<br>21.實務實習與技術考",
+        "en": "1.Introduction of course<br>2.The functional role and service connotation of care giver<br>3.Take care of service resources and teamwork<br>4.Body structure and function<br>5.Basic vital signs (including technology)<br>6.Interpersonal and communication skills<br>7.Basic physiological needs<br>8.Recognition of symptoms and care of common diseases of the elderly<br>9.Cleaning and comfort assistance techniques<br>10.Activities and sports<br>11.Assistive assistance<br>12.Toilet care, colostomy care, home glycerol laxative, home blood glucose measurement (including technology)<br>13.Emergency management of accidents<br>14.Emergency treatment<br>15.First aid concept and reply teaching (including technology)<br>16.Nutrition and diet, preparation (feeding) and medicine (including technology)<br>17.Hospice care and peace of mind<br>18.Housework, home care needs and assistance<br>19.Practical internship and technical examination"
+    },
+    "weeklySchedule": "Date\tWeek\tTime\tTopic<br>9/10<br>\t1\t12:50~16:40\t課程大綱介紹<br>照顧服務員功能角色與服務內涵<br>9/17\t2\t12:50~16:40\t中秋節<br>9/24\t3\t12:50~16:40\t基本生命徵象暨回覆示教(含技術)-必考題<br>10/01<br>\t4\t12:50~16:40\t身體結構與功能<br>基本生命徵象暨回覆示教(含技術)-必考題<br>10/08<br>\t5\t12:50~16:40\t疾病徵兆之認識及老人常見疾病之照顧事項<br>10/15\t6\t12:50~16:40\t基本生理需求<br>清潔與舒適協助技巧暨回覆示教（洗頭、衣物更換）<br>10/22\t7\t12:50~16:40\t清潔與舒適協助技巧暨回覆示教（洗頭、衣物更換）<br>10/29\t8\t12:50~16:40\t清潔與舒適協助技巧暨回覆示教（會陰沖洗及尿管清潔）<br>11/05\t9\t12:50~16:40\t學校期中考週 (學科測試)<br>11/12\t10\t12:50~16:40\t清潔與舒適協助技巧暨回覆示教（會陰沖洗及尿管清潔）<br>11/19\t11\t12:50~16:40\t活動與運動及輔具協助暨回覆示教(協助下床及坐輪椅)<br>11/26\t12\t12:50~16:40\t活動與運動及輔具協助暨回覆示教(協助下床及坐輪椅)<br>12/03\t13\t12:50~16:40\t意外災害的緊急處理<br>急症處理<br>12/10\t14\t12:50~16:40\t急救概念暨回覆示教(成人異物哽塞急救法)<br>急救概念暨回覆示教(成人心肺甦醒術)<br>12/17\t15\t12:50~16:40\t營養與膳食、備餐餵(灌)食及餵藥<br>12/24\t16\t12:50~16:40\t備餐、餵食及協助用藥-必考題<br>12/31\t17\t12:50~16:40\t技術練習<br>1/06\t18\t12:50~16:40\t術科期末考<br>",
+    "exams": {
+        "midterm": "考卷測驗",
+        "final": "技術考試",
+        "other": "口試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解長照常見照護知識及技術",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能將所學照護知識及技術運用於長照個案",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能將所學溝通技巧運用於長照個案及家屬",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能運用所學照護知識及技能於長期照護領域中",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解照顧者的特質與工作倫理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能運用所學關懷知能於臨終個案照護",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "照顧服務員訓練指引",
+        "author": "郭麗群",
+        "publisher": "華杏出版股份有限公司",
+        "year": "2022",
+        "ISBN": "978-986-194-416-2",
+        "edition": "7"
+    },
+    "referenceBooks": "照顧服務員單一級檢定學術科應試指南、林王美園、華杏出版股份有限公司、2020、ISBN:978-986-98129-7-9",
+    "teachingSoftware": "",
+    "rules": ""
+}

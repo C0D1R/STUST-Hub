@@ -1,0 +1,134 @@
+{
+    "code": "20D1G801",
+    "name": {
+        "zh": "環境永續與安全衛生概論",
+        "en": "Introduction to environmental sustainable and safety hygiene"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技電資一甲"
+    ],
+    "instructors": [
+        "吳明瑞"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "K403"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "K403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要針對聯合國永續發展目標（Sustainable Development Goals，簡稱SDGs）進行介紹，其環境永續是聯合國透過2030年永續發展議程所確定的17個目標，旨在解決全球性的環境、經濟、社會問題，並提出具體的解決方案，為的是要貫徹聯合國建立和平、安全、繁榮、公正世界的使命。此外，另對於工業安全與衛生的觀念作系統化的介紹，使學生了解各種工業危害及預防的方法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 終結貧窮與消除飢餓<br>2. 潔淨水與衛生<br>3. 可負擔的潔淨能源<br>4. 氣候行動與陸地生態<br>5. 安全衛生法規簡介<br>6. 實驗室安全衛生概論 <br>",
+        "en": "1. No Poverty and Zero Hunger<br>2. Clean Water and Sanitation<br>3. Affordable and Clean Energy<br>4. Climate Action and Life on Land<br>5. Introduction to regulations of safety and health<br>6. Introduction to laboratory safety and health<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "終結貧窮與消除飢餓",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "潔淨水與衛生",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "可負擔的潔淨能源",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "氣候行動與陸地生態",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "安全衛生法規簡介",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "實驗室安全衛生概論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

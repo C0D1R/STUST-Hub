@@ -1,0 +1,111 @@
+{
+    "code": "08D03U01",
+    "name": {
+        "zh": "俄語入門(一)",
+        "en": "Low Basic Russian(I)"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "陳桂容"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0310"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0310"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.俄國語文能力測驗TORFL (俄文檢定)",
+        ""
+    ],
+    "description": "本課程授課對象是從未學過俄文的同學。選用的教材是初級俄語。它包含了：會話、聽力、文法、閱讀等內容及由俄羅斯權威語音學家所錄製的兩片CD。每課均配合實用的練習題。",
+    "prerequisites": "1.盡量不缺課。\n2.課堂上盡量用俄文交談。\n3.課堂上踴躍發言。",
+    "syllabus": {
+        "zh": "1.俄文字母<br>2.俄語發音<br>3.基礎文法<br>4.基礎會話<br>5.短文閱讀 <br>6.聽力訓練",
+        "en": "1.Russian alphabet<br>2.Russian pronunciation <br>3.Basic grammar<br>4.Basic conversation<br>5.The short essay reading<br>6.Listening training"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養同學對俄文的興趣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使同學可以正確的發音",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使同學可以正確的書寫俄文字母",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使同學可以利用簡單的俄語作日常生活的溝通及對話",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

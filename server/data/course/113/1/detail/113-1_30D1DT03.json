@@ -1,0 +1,127 @@
+{
+    "code": "30D1DT03",
+    "name": {
+        "zh": "電路學",
+        "en": "Electric Circuits"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電子二丙"
+    ],
+    "instructors": [
+        "蔣富成"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "P303"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "P303"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "P303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹電路的變數、電路元件及各種電路的分析技巧與電路的響應，使學生了解電路分析的觀念及各種計算電路的方法，能在電路設計時應用既有的觀念與方法解決問題、加強工程實務基礎。",
+    "prerequisites": "物理(電學)、微分方程",
+    "syllabus": {
+        "zh": "1.電路的變數<br>2.電路元件<br>3.簡單的電阻性電路<br>4.電路分析技巧<br>5.電感電容及互感<br>6.一階RL與RC電路的響應",
+        "en": "1.Circuit Variables<br>2.Circuit Element<br>3.Simple Resistive Circuits<br>4.Techniques of Circuit Analysis<br>5.Inductance, Capacitance, and Mutual Inductance<br>6.Response of First-Order RL and RC Circuits"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解電路分析觀念與各種電路計算方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "電路設計時應用既有的方法解決問題,加強實務基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能選擇正確的元件或電路架構，改進電路的性能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉電路學基本知識，建立電子科技終身學習之科技基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過作業書寫與討論訓練學生問題溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,139 @@
+{
+    "code": "90N12301",
+    "name": {
+        "zh": "顧客關係管理",
+        "en": "Customer Relationship Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技資管三甲"
+    ],
+    "instructors": [
+        "郭文鴻"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "T0211"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "T0211"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "T0211"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "企業經營環境競爭激烈，企業除致力於研發創新、提高品質等相關議題外，近年來企業與顧客間互動逐漸受到重視，諸多企業已將顧客關係管理視為企業重要的競爭優勢之一，顧客關係管理是藉由與顧客充分地互動，以了解及影響顧客行為，本課程旨在介紹顧客關係之基本觀念及相關議題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 顧客關係管理導論與經營策略。<br>2. 顧客關係管理系統之建構。<br>3. CRM的核心與ERP、SCM及BI之整合應用。<br>4. 顧客關係管理與消費者行為。<br>5. 網路行銷、電子商務與顧客關係管理。<br>6. 資料倉儲與採礦之顧客關係。<br>7. 顧客滿意、服務品質與自助式科技。<br>8. 顧客抱怨與顧客忠誠管理。<br>9. 顧客生命周期與顧客價值管理。",
+        "en": "1. Introduction of Customer Relationship Management and Business Strategy.<br>2. The Construction of the Customer Relationship Management System.<br>3. The Core of CRM and the Integration of ERP, SCM, and BI.<br>4. Customer Relationship Management and Consumer Behavior.<br>5. Internet Marketing and E-Commerce with Customer<br>6. To analyze Data Warehousing and Mining.<br>7. Customer Satisfaction, Service Quality, and Self-Service Technology system.<br>8. Customer Complaints and Loyalty Management.<br>9. Customer Life Cycle and Customer Value Management."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解顧客關係基本學理與其精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對顧客關係管理問題有效辨識適當的分析架構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將資料轉換成資訊並用以建立管理決策",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用理論架構分析管理實務資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用Excel軟體分析資料並正確解讀報表",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現資料分析結果，讓決策相關人士可以理解，並協助決策之制定",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

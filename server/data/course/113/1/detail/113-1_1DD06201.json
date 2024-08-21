@@ -1,0 +1,105 @@
+{
+    "code": "1DD06201",
+    "name": {
+        "zh": "專修(三)節目主持(A1)",
+        "en": "Major Ⅲ Hosting Skills"
+    },
+    "credit": "1",
+    "type": "管制選修",
+    "classes": [
+        "四技流音二甲"
+    ],
+    "instructors": [
+        "胡銘顯"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第1節",
+            "location": "W0903"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為小班教學，以教授「節目主持」專長領域之相關理論、實務技巧以及職場倫理，強化學生口條表達技能，培養學生專業素養與敬業態度。以作業、考試等方式評量學習成效。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、節目主持基本知識與概論<br>二、節目主持技巧與應用<br>三、溝通協調技巧<br>四、口條聲音技巧",
+        "en": "一、The basic knowledge and introduction of the host<br>二、Program hosting skills and applications<br>三、Communication and coordination skills<br>四、Spoken voice skills"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解節目主持專長領域之專業知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備節目主持專長領域之技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "展現尊重、接納老師指導之學習態度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養自我提升、終身學習之態度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

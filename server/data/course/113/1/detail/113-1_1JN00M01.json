@@ -1,0 +1,127 @@
+{
+    "code": "1JN00M01",
+    "name": {
+        "zh": "社區工作",
+        "en": "Community work"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜二技高福四甲"
+    ],
+    "instructors": [
+        "鍾智慧"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第5節",
+            "location": "O403"
+        },
+        {
+            "day": "週六",
+            "period": "第6節",
+            "location": "O403"
+        },
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "O403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程教學的重點在於社區工作之應用與實踐，特別是將運用青年學子參與社區行動的策略，以實地參與的方式，讓學生充分體會與暸解社區實踐的過程，並期望以參與行動創造出社區改變的力量，營造社區的新風貌，以體驗、參與、學習三位一體的教學方式，期使社區工作的理論與實踐，能讓學生有充分的了解與深刻的體驗。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.了解有關社區工作的基本概念及發展（知識）<br>2.了解社區工作的實務與工作技巧（技能）<br>3.了解社區工作的價值與原則（態度）<br>4.了解社區工作的理論與模型（其他）<br>5.了解專業社區工作的未來發展（其他）",
+        "en": "1. Understand the basic concepts and developments of community<br>Work<br>2. Understand the practical and work skills of community work<br>3. Understand the values and principles of community work<br>4. Understand the theory and model of community work<br>5. Future development of professional community work"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解有關社區工作的基本概念及發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解社區工作的實務與工作技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解社區工作的價值與原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解社區工作的理論與模型",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "專業社區工作的未來發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

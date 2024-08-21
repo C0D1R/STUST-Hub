@@ -1,0 +1,111 @@
+{
+    "code": "X0M0BU01",
+    "name": {
+        "zh": "法律實務研習",
+        "en": "Practical Legal Training"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩研財法一甲"
+    ],
+    "instructors": [
+        "張瑞星",
+        "羅承宗"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "S411A"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S411A"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "修課學生必須到法律扶助基金會台南分會參加實習，每週至少2小時，但到場時若單位有特殊要求，應予配合延長時間。到場時應遵循單位之分配，跟隨律師參與法律扶助，並參與案件分析。課後作業必須針對當天案件做成記錄，並予分析，寫成心得。本課程為教育部之服務學習課程。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、分組、課程說明及法律扶助金會介紹<br>二、參與案件事實說明<br>三、案件分析<br>四、案件研討<br>五、案件寫作<br>六、繳交心得",
+        "en": "1. Introduction<br>2. participating clients' fact briefing<br>3. case analysis from attorneys<br>4. case discussion with attorneys<br>5. legal writing practice<br>6. report to professor"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "應用實際法律案例建立法學理論基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "說明法學理論觀察並研析案例之處理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "規劃學生實務參與及社會學習的機會",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提供學生實務實作經驗",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

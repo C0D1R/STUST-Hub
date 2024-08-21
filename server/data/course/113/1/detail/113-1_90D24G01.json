@@ -1,0 +1,115 @@
+{
+    "code": "90D24G01",
+    "name": {
+        "zh": "企業營運數位科技應用專題",
+        "en": "Special Topics on Digital Technology Application in Business Operation"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "四技資管三乙",
+        "四技資管三丙",
+        "四技休閒三乙"
+    ],
+    "instructors": [
+        "潘慧純"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "T0509"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著時代的進步，科技的發展日新月異，數位科技驅動了企業營運模式再造，其包含了：(1)產業的再造；(2)產品或服務的再造；(3)產生新的營運模式；(4)重塑價值傳遞模式；(5)重設價值主張等。於此企業結合數位科技應用於營運模式愈趨成熟，產業界的科技應用也推陳出新，如物聯網、無人機、電動車、區塊鏈、人工智慧與虛擬貨幣等，每項新科技技術發展都改變著我們的生活。因此本課程將概論式介紹現今數位科技所含概範圍，及其導入企業後為營運後所帶來的效益，課程內容將聚焦於：網路服務、智慧聯網、區塊鏈、數據分析和人工智慧等數位科技領域。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.5G網路世代<br>2.雲端運算的五大特徵、三種服務模式及四種佈署模式<br>3.物聯網的三個層次架構與產業應用<br>4.區塊鏈的四個核心處理要素<br>5.區塊鏈的產業應用<br>6.大數據分析<br>7.AI人工智慧",
+        "en": "1. 5G network generation<br>2. Five characteristics of cloud computing, three service modes and four deployment modes<br>3. The three-level architecture and industrial application of the Internet of Things<br>4. Four core processing elements of blockchain<br>5. Industrial application of blockchain<br>6. Big data analysis<br>7. AI artificial intelligence"
+    },
+    "weeklySchedule": "Week 1: 課程介紹與數位科技概述 <br>Week 2: 數位轉型與企業營運(企業在數位轉型中的挑戰與機會、成功數位轉型的案例分析)<br>Week 3: 網路基礎架構與雲端計算/個案研究<br>Week 4: 網路服務與企業應用/商業模式/電子商務<br>Week 5: IoT 的基本概念與技術架構<br>Week 6: IoT 在企業中的應用/智慧製造與工業4.0/智慧家居與智慧城市/IoT 在物流管理與供應鏈中的應用<br>Week 7: 區塊鏈基礎/共識機制/智能合約的概念與應用<br>Week 8: 期中考<br>Week 9: 區塊鏈在企業中的應用<br>Week 10: 數據分析基礎/描述性統計與視覺化技術<br>Week 11: 預測性分析與商業應用<br>Week 12: AI 基礎與技術<br>Week 13: AI 在企業中的應用<br>Week 14: 數位科技整合案例分析<br>Week 15: 數位創新與未來展望<br>Week 16: 專題研究選題與計劃<br>Week 17: 專題研究進展報告<br>Week 18: 專題報告",
+    "exams": {
+        "midterm": "筆試",
+        "final": "報告",
+        "other": "平時出席表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解新興科技",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解新興科技如何應用於企業營運",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解數位科技下的企業營運效益",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解數位科技的未來發展",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "教師自編教材",
+    "teachingSoftware": "",
+    "rules": ""
+}

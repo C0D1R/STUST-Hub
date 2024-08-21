@@ -1,0 +1,122 @@
+{
+    "code": "1JD02801",
+    "name": {
+        "zh": "經絡鬆筋養生療癒與實務",
+        "en": "Meridian Massage and health healing"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技高福四甲"
+    ],
+    "instructors": [
+        "胡小玫"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "O304"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "O304"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要透過課程講授及實務演練方式，以培育學生具備牛角經絡鬆筋實務的知能與技能，繼而能將所習得之知識技能運用在社區長期照護上",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.經絡學概要<br>2.視力保健<br>3.頭部鬆筋SPA<br>4.頸肩背痠痛保健<br>5.背部椎骨經絡按摩術<br>6.下焦提臀保養<br>7.腿部鬆筋保健<br>8.技術實作與驗收<br>9.社區活動實務<br>",
+        "en": "1.Introduction to meridian<br>2.Vision care<br>3.Head loose Spa<br>4.Health care for neck, shoulder and back<br>5.Back vertebral meridian massage<br>6.Lower focus hip maintenance<br>7.Leg loosening care<br>8.Technical implementation<br>9.Community service learning activities<br>"
+    },
+    "weeklySchedule": "經絡學概要<br>經絡調理基本手法<br>視力保健<br>頭部鬆筋SPA<br>臉部鬆筋<br>視力保健與頭部鬆筋實作回覆示教<br>頸肩背痠痛保養<br>上肢手臂鬆筋保健<br>腰臀足鬆筋保健<br>頸肩背實作回覆示教<br>社區服務學習活動實務",
+    "exams": {
+        "midterm": "期中作業",
+        "final": "期末實作",
+        "other": "日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解老祖宗養生保健智慧與基本經絡理論",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "將相關經絡鬆筋實務應用在社區長期照護的知能與技能",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解牛角鬆筋特色及活用鬆筋手技",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習自我保健進而維護他人健康",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "儲備技能為就業創業做準備",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

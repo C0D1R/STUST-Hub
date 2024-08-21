@@ -1,0 +1,115 @@
+{
+    "code": "A0D19V01",
+    "name": {
+        "zh": "作業價值管理分析與應用",
+        "en": "Activity Value Management Analysis And Application"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技會資四甲"
+    ],
+    "instructors": [
+        "林憶樺"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S414"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "S414"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "S414"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "當今普遍的社會現象是大學畢業生找不到理想的工作，企業主找不到理想人才，可見大學教育所培育出來的人才與企業的期待有所落差，顯然存在「學用落差」的情況。擬透過作業價值管理課程的設計，培育產學實作人才，讓學生學習如何診斷企業問題，並提供可行之解決方案。例如：學生透過將個案公司的實際資料導入AVM 系統，從中了解公司之組織架構、日常作業流程等價值鏈運作方式，協助公司設計及建構AVM 系統，產出「結果」與「原因」結合的管理報表資訊，為公司解決實際的管理問題，學生在求學階段便可學習如何把課堂理論與實務應用結合，達成學用合一之目的。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、管理會計概述<br> 2、財務報表簡介、成本標的及分類<br> 3、製造業成本流程介紹與傳統成本制度<br> 4、作業基礎成本制<br> 5、AVM「資源模組」之觀念及原則<br> 6、個案設計(基礎個案)與AVM系統操作<br> 7、AVM「作業中心模組」之觀念及原則<br>8、AVM「作業模組」之觀念及原則<br> 9、AVM「價值標的模組」之觀念及原則<br>10、AVM設計前的診斷及規畫<br> 11、個案設計(進階個案)與AVM系統操作<br>12、不同產業實施AVM案例<br>",
+        "en": "1 Managerial Accounting Introduction<br>2 Financial Statement Analysis and Cost objective<br>3 Manufacturing Industry Cost process and traditional costing<br>4 Activity-Based Costing<br>5 AVM Resource Model Concept and Principles<br>6 Case Design (Basic Case) and AVM system Operation<br>7 AVM Activity Center Model Concept and Principles<br>8 AVM Activity Model Concept and Principles<br>9 AVM Value Objectives Concept and Principles<br>10 AVM Diagnosis and Planning<br>11 Case Design (Advanced Case) and AVM system Operation<br>12 Case Study for Different Industries <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過作業價值管理課程的設計，培育產學實作人才。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓學生學習如何診斷企業問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓學生學習如何提供可行之解決方案。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "利用數位教材、翻轉教室、個案教學、電腦實機操作等方式，將生硬的知識轉化為應用價值高的學習內容。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

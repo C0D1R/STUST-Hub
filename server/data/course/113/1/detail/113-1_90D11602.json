@@ -1,0 +1,119 @@
+{
+    "code": "90D11602",
+    "name": {
+        "zh": "程式設計(一)",
+        "en": "Programming(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資管一乙"
+    ],
+    "instructors": [
+        "張儀興"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "E0402"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "E0402"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "E0402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "C語言嬌小、勻稱，用途廣、效率高且融合了電腦語言裡流程控制的特色，使得程式設計師可以很容易的設計出具有結構化及模組化的程式如此，廣受程式設計師及資訊界人士的喜愛。<br>在此課程中，將教導C所提供的功能，並實際應用來開發出一些應用軟體。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第1章 認識C語言<br>第2章 C語言基本概述<br>第3章 基本資料型態<br>第4章 格式化的輸出與輸入<br>第5章 運算子、運算式與敘述<br>第6章 選擇性敘述<br>第7章 迴圈<br>第8章 函數<br>第9章 陣列與字串<br>第10章 指標<br>第11章 結構與其它資料型態<br>第12章 檔案處理<br>",
+        "en": "1. Introduction<br>2. Basic Statements<br>3. Basic Data Types<br>4. Formatted Input and Output<br>5. Operator, Expression and Statement<br>6. Selection Statement<br>7. Loop<br>8. Function<br>9. Array and String<br>10. Pointer<br>11. Struct and other Data Types<br>12. File<br>"
+    },
+    "weeklySchedule": "第1,2週 第1章程式邏輯、程式設計與C#的基礎<br>第2,3週 第2章建立C#應用程式<br>第3, 4週 第3章變數、資料型別與運算子<br>第5 週 第4章視窗應用程式的基本輸出入<br>第6,7 週 第5章選擇控制項與條件敘述<br>第8週   PRG maker 介紹及demo<br>第9週 期中考<br>第10,11週 第5章選擇控制項與條件敘述<br>第12, 13週 第6章迴圈結構<br>第14, 15週 第7章函數<br>第16, 17週 選擇性結構及迴圈遊戲腳本及流程報告<br>第18週 期末考<br>",
+    "exams": {
+        "midterm": "筆試及上機考",
+        "final": "筆試及上機考",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能進行思考及分析問題.。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解程式語言與設計電腦程式.。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用程式語言開發應用程式.。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備規劃及創新開發新的應用程式.。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "新觀念 Visual C#程式設計範例教本",
+        "author": "陳會安",
+        "publisher": "旗標出版股份有限公司",
+        "year": "2024",
+        "ISBN": "978-986-312-782-6",
+        "edition": "初版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "VS",
+    "rules": ""
+}

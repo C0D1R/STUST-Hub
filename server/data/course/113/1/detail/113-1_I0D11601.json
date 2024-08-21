@@ -1,0 +1,127 @@
+{
+    "code": "I0D11601",
+    "name": {
+        "zh": "特殊幼兒教育",
+        "en": "Special Education for Young Children"
+    },
+    "credit": "3",
+    "type": "管制必修",
+    "classes": [
+        "四技幼保二甲"
+    ],
+    "instructors": [
+        "張治遙"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "W0501"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "W0501"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "W0501"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.認識特殊幼兒教育之歷史沿革、現況及發展趨勢。                               <br>2.瞭解各類型特殊幼兒之定義、成因、身心特質及評量。                                         <br>3.探討各類型特殊幼兒之教育安置與輔導。                                             <br>4.學習個別化教育計畫。                                    <br>5.涵養對特殊幼兒之正向態度及關懷。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.特殊幼兒教育的發展脈絡、立法及IEP之簡介。                            <br>2.發展遲緩與早期療育之基本概念。<br>3.融合教育之基本概念                                         <br>4.資賦優異幼兒之身心特質與輔導。                                       5.各類身心障礙幼兒（含智能障礙、視覺障礙、聽覺障礙、溝通障礙、自閉症、注意力缺陷過動症、肢體障礙與身體病弱、多重障礙、嚴重情緒障礙、學習障礙）之成因、身心特質、評量及教育與輔導。                                      <br>6.親職教育及特殊幼兒家庭支持。                                          <br>7.早期療育、資源支持網絡與轉介等相關議題。                                                                   8.正確教育特殊幼兒之態度與特殊教育未來展望。 <br>",
+        "en": "1.Developmental context of early childhood special education, legislation,             <br>and a brief introduction to IEP                                          <br>2.Basic concepts of developmental delay and early intervention<br>3.Basic concepts of inclusive education<br>4.Physical and mental traits of gifted children and guidance for them        <br>5.Influencing factors, physical and mental traits, assessment, education and guidance for various types of handicapped children (including mental handicap, visual handicap, hearing handicap, communicational handicap, autism, attention deficit hyperactivity disorder, physical handicap and health impairments, multiple handicap, severe emotional handicap, learning disability) <br>6.Parent education and family support for exceptional young children          <br>7.Related issues on early intervention, resource support networks and referral              <br>8.Proper attitude towards educating exceptional young children and future      <br>prospect for special education                                         <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能正確描述各類特殊幼兒的定義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解各類特殊幼兒的主要成因與身心特質",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能統整幼兒發展、全人教育與生態評量的理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "樂意積極為特殊幼兒探索合適的照護策略與方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養尊重個別差異，接納多元文化的態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

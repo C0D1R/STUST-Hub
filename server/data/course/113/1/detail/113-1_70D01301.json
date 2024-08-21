@@ -1,0 +1,168 @@
+{
+    "code": "70D01301",
+    "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技企管二甲"
+    ],
+    "instructors": [
+        "呂昭顯",
+        "張信雄"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "E0501"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "E0501"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "E0501"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "行銷管理所探討者，即為企業如何透過市場區隔變數界定目標市場，並進行產品價值的思考與定位，繼而擬訂落實產品定位之4P(產品、價格、訂價、促銷)策略。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 瞭解行銷的角色<br>2. 行銷資訊與行銷研究<br>3. 掌握市場機會<br>4. 塑造產品價值<br>5. 促進產品流通<br>6. 傳達產品價值<br>7. 行銷執行與控制",
+        "en": "1. Introduction to marketing<br>2. Marketing information system and marketing research<br>3. Identifying market opportunity<br>4. Creating the value of product<br>5. Product promotion<br>6. Delivering product value<br>7. Marketing control"
+    },
+    "weeklySchedule": "WK1 行銷相關名詞定義及其扮演之角色<br>WK2 行銷活動的程序：行銷環境的分析及尋找市場機會<br>WK3 行銷活動的程序：STP與行銷組合<br>WK4 產品生命週期(PLC)與行銷活動對應的策略<br>WK5 新產品的普及理論<br>WK6 推與拉型的策略<br>WK7 競爭性行銷策略<br>WK8 成長策略<br>WK9 期中考<br>WK10 產品政策：產品的概念及產品的類型<br>WK11 產品組合決策與產品線決策<br>WK12 品牌政策與PLC策略<br>WK13 價格政策：價格設定的環境要因與基本方針<br>WK14 複數產品的價格設定<br>WK15 促銷訂價法<br>WK16 通路政策：行銷通路的定義與運作系統<br>WK17 通路設計決策<br>WK18 期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "線上測驗、回家作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解行銷的基礎理論與其所扮演的角色",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能建立行銷分析及計畫的能力、了解行銷策略制定的方法及分析市場戰略的應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能熟練獨立思考、邏輯分析及統整之能力，有效率地解決行銷問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能養成管理者應有的表達、溝通、協調與談判能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能形塑具職業倫理與社會責任之專業管理人才",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "行銷管理",
+        "author": "張信雄",
+        "publisher": "復文圖書",
+        "year": "2018",
+        "ISBN": "978-957-536-563-9",
+        "edition": "1"
+    },
+    "referenceBooks": "台灣行銷科學學會、初階行銷企劃證照題型題庫、台灣行銷科學學會。",
+    "teachingSoftware": "",
+    "rules": ""
+}

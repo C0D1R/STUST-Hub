@@ -1,0 +1,99 @@
+{
+    "code": "D0N06201",
+    "name": {
+        "zh": "零售業品類管理",
+        "en": "Retailing Merchandise Management"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜行流產攜四甲"
+    ],
+    "instructors": [
+        "莊勝雄"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課主要在探討行銷變動環境中，製造商、通路商與顧客之間的變化及隨之而來的新需求管理模式。課程主要分成三部份：1.品類管理的概念及執行流程，2.單品管理的管理運作模式，3.商品計劃及POS資料分析。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一部 品類管理概念導論<br>第二部 單品管理的由來與發展<br>第三部 單品管理的概念與方法<br>第四部 POS資料分析與檢證",
+        "en": "1.Introduction to category management<br>2.The development of category management<br>3.The concept and method of category management<br>4.POS data analysis"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解零售業新管理模式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習零售業商品計劃模式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習pos資料分析方法及應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習賣場效率診斷分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

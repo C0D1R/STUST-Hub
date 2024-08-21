@@ -1,0 +1,116 @@
+{
+    "code": "01D16I01",
+    "name": {
+        "zh": "西方古典音樂欣賞",
+        "en": "Appreciation of Western Classical Music"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國商一甲"
+    ],
+    "instructors": [
+        "洪一碩"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "S509"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S509"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "S509"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "An introduction to the major periods of western classical music, including words of well-known composers, and an introduction to some of the theoretical elements of music, to help give students tools to describe and analyze and enjoy music.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程將包括介紹西方古典音樂作曲家，並簡要討論音樂的理論要素。",
+        "en": "The course will include an introduction to representative instrumentation, works, and composers from Western Classical Music, and briefly discuss theoretical elements of music."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "增進西方古典音樂的認識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "描述西方古典音樂的發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "描述西方古典音樂的發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Appreciate different musical traditions",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

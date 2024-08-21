@@ -1,0 +1,171 @@
+{
+    "code": "20M10L02",
+    "name": {
+        "zh": "電力系統分析運轉與控制",
+        "en": "Power System Analysis, Operation and Control"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研電機一甲",
+        "博電機國際一甲",
+        "碩研電機一甲",
+        "碩電機國際一甲"
+    ],
+    "instructors": [
+        "凌拯民"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "B504"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "B504"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "B504"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 教授實際電力系統在運轉與控制時必須面對及處理的問題,並以實際的台灣電力系統為範例介紹其現況及運轉特性.<br>2. 介紹運轉與控制時重要的課題及相關理論<br>3. 詳細介紹工程最佳化於電力系統運轉與控制之應用模式,並輔以Matlab 程式之模擬教學",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 台電運轉與控制實務<br>2. 電業自由化與民營電廠<br>3. 分散式/再生能源<br>4. 發電機組特性<br>5. 火力機組之經濟調度方式及求解方法<br>6. 輸電系統之電路效應<br>7. 機組排程<br>8. 水力/火力機組發電協調<br>9. 發電機組控制<br>10.最佳電力潮流分析<br>",
+        "en": "1.Practice of TPC operation and dispatch <br>2.Deregulation and IPP<br>3.Dispersed/Renewable generation<br>4.Characteristics of Power Generation Units<br>5.Economic Dispatch of Thermal Units and Method of Solution<br>6.Transmission System Effect<br>7.Unit Commitment<br>8.Hydrothermal Coordination<br>9.Control of Generation<br>10.Optimal Power Flow"
+    },
+    "weeklySchedule": "1. 台電運轉與控制實務<br>2. 電業自由化與民營電廠<br>3. 分散式發電系統及再生能源發電系統<br>4. 發電機組特性<br>5. 火力機組之經濟調度方式及求解方法<br>6. 輸電系統之電路效應<br>7. 機組排程<br>8. 水力/火力機組發電協調<br>9. 發電機組控制<br>10.智慧電網<br><br>1.Practice of TPC operation and dispatch<br>2.Deregulation and IPP<br>3.Dispersed/Renewable generation<br>4.Characteristics of Power Generation Units<br>5.Economic Dispatch of Thermal Units and Method of Solution<br>6.Transmission System Effects<br>7.Unit Commitment<br>8.Hydrothermal Coordination<br>9.Control of Generation<br>10.Smart Grid",
+    "exams": {
+        "midterm": "筆試",
+        "final": "期末報告",
+        "other": "作業--不定時"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解台灣電力系統之現況及未來發展趨勢",
+            "teachingMethods": [
+                "個案研究(PBL)",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解分散式再生能源的應用及未來發展趨勢",
+            "teachingMethods": [
+                "課堂講授",
+                "個案研究(PBL)",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解並熟悉電力系統中發電機組之特性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解火力機組經濟調度方法的重要性及應用的相關技術",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解輸電線路之電壓及電流方程式所代表的意義及其應用型式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解電力系統中發電機組排程及火水力機組協調所代表的意義及其求解的相關技術",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Power Generation Operation and Control",
+        "author": "Allen J. Wood, Bruce F. Wollenberg",
+        "publisher": "Wiely",
+        "year": "2013",
+        "ISBN": "978-0-471-79055-6",
+        "edition": "3rd"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Matlab",
+    "rules": ""
+}

@@ -1,0 +1,135 @@
+{
+    "code": "E0D38R01",
+    "name": {
+        "zh": "台日經貿概論",
+        "en": "The Economic and Trade between the Taiwanese and the Japanese Enterprises"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應日三甲",
+        "四技應日三乙"
+    ],
+    "instructors": [
+        "莊秀文"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "N502"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "N502"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "經貿的基礎架構為理解總體經濟和個體經濟的意涵，並從國際貿易的角度來對各個經濟體進行分析。本課程中，將以中日文對照的方式進行經貿意涵的解說。台日的經貿法規，包含工商業界不同使用之國貿局、標檢局、勞動部法規等皆對經貿有所影響，故以模型方式帶領學生了解之，並能夠用模型分析台日經貿個案的內容和影響。<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t經濟體中的個體經濟與總體經濟<br>2.\t模型架構之分析方法<br>3.\t經貿法規<br>4.\t經濟與貿易專門日文用語<br>",
+        "en": "1.Macro and micro economics<br>2.Model analysis and mythologies <br>3.Rules of Economic and trading<br>4.Professional words of economics and trading <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過教師講解，理解台日經貿的差異所在。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過老師實務經驗的講解，使學生能夠正確地使用模型分析個案。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由分組報告及充分討論和書面資料之呈述，讓學生活用經貿相關用語與用詞。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由分組報告的過程，學生可以充分收集經貿相關用語並了解其內容。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過本課程的解說，讓學生了解學習經貿對未來就業的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由課堂展演，讓學表現自我經貿的學習能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

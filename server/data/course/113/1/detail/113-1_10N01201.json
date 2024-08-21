@@ -1,0 +1,118 @@
+{
+    "code": "10N01201",
+    "name": {
+        "zh": "機構學",
+        "en": "Mechanism"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技自控一甲"
+    ],
+    "instructors": [
+        "林育昇"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "K401"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "K401"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "K401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.機動學的基本概念，機器、機械和機構之異同；對偶的種類；機構自由度之計算。<br>2. 連桿機構的種類及其用途。<br>3. 介紹如何找到機構的瞬心及速度分析。<br>4.簡介加速度分析。<br>5.介紹凸輪機構。<br>6.介紹齒輪之專有名詞、齒輪系、行星齒輪之傳動比的計算。<br>7.其他機構。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、機構的組成\t<br>常用的機件與接頭、機構的組成、機構的簡圖符號、運動鏈、以及機構的拓樸構造。<br>二、機構的運動\t<br>機構中的機件與重要點之運動的基本概念、運動分類、位移、速度、以及加速度等。<br>三、運動分析\t<br>1. 分析機構運動狀態：位置分析、速度分析、加速度分析<br>2. 向量迴路法<br>四、連桿機構\t<br>1. 連桿機構的定義、作用原理、功能、以及應用；<br>2. 連桿機構的拓樸構造分析與合成；<br>3. 連桿機構的運動分析",
+        "en": "First, the composition of the mechanism.<br>Commonly used parts and joints, the composition of the mechanism, the schematic symbol of the mechanism, the kinematic chain, and the topography of the mechanism.<br>Second, the movement of the mechanism.<br>The basic concepts of motion and movement of important parts in the mechanism, motion classification, displacement, speed, and acceleration.<br>Third, Motion analysis.<br>1. Analyze the motion state of the mechanism: position analysis, velocity analysis, acceleration analysis;<br>2. Vector loop method.<br>Fourth, the linkage mechanism.<br>1. The definition, function principle, function, and application of the linkage mechanism;<br>2. Analysis and synthesis of the topological structure of the linkage mechanism;<br>3. Motion analysis of the linkage mechanism.<br>"
+    },
+    "weeklySchedule": "1. 緒論<br>2. 機器與機構<br>3. 機動學應用<br>4. 機構組成與其特性<br>5. 機構簡圖與符號<br>6. 機構自由度分析<br>7. 連桿元件與四連桿運動分析<br>8. 運動傳遞與運動分析<br>9. 齒輪等元件<br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉機動學專業知識",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "提升對機構的設計、研發的興趣",
+            "teachingMethods": [
+                "啟發思考",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能以力學理念解釋機構元件的作動",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀機動學專業用之英文資料",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "機動學",
+        "author": "馮丁樹",
+        "publisher": "全華",
+        "year": "2012",
+        "ISBN": "978-957-21-5570-7",
+        "edition": "2e"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "LINKAGE，開源的機構運動模擬軟體，同學可下載自行安裝測試，有中文版可使用。",
+    "rules": "#必須出席課堂及參與討論<br>#必須完成學期平時作業<br>#必須參與期中考試<br>#必須參與期末分組PBL討論<br>"
+}

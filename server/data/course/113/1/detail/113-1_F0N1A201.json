@@ -1,0 +1,108 @@
+{
+    "code": "F0N1A201",
+    "name": {
+        "zh": "職場自主學習(一)",
+        "en": "Workplace Practices Research (Ⅰ)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技資傳一甲",
+        "夜四技視傳一甲",
+        "夜四技多樂一甲"
+    ],
+    "instructors": [
+        "劉以琳"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第11節",
+            "location": "W0606"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.0",
+        "2.0"
+    ],
+    "description": "為貫徹以培養實務能力為課程目標之精神，藉由實習的舉辦，了解各類型相關專業領域之實務工作，培養更多傳播相關人員，並且透過實習強化傳播相關之媒體素養，建立業界與學界良好互動模式。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.同學職場實務學習單位應與本系專業領域相關。<br>2.學生應於校訂期限內進行口頭或書面報告。<br>3.該課程由任課老師協助進行授課與評分。<br>4.其他未盡事宜，皆依本校相關辦法辦理。<br>",
+        "en": "1. Classmates' practical learning units should be related to the professional field of the department.<br>2. Students should make oral or written reports within the school deadline.<br>3. The course is assisted by the instructor for teaching and scoring.<br>4. Other unfinished matters are handled in accordance with the relevant methods of the school."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解並整合傳播知識與實務工作經驗，體驗身為傳播工作者的角色、工作內容與方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養自我職能的認知及就業技能的準備，準備自我生涯規劃之方向",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習媒體工作的專業精神，倫理與價值系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解實習機構的組織運作與傳播產業生態現況",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

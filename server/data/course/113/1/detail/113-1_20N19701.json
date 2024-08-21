@@ -1,0 +1,193 @@
+{
+    "code": "20N19701",
+    "name": {
+        "zh": "電力系統",
+        "en": "Electrical power system"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技電機三甲"
+    ],
+    "instructors": [
+        "黃宏銘"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "I0308"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "I0308"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "I0308"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹電力系統之基本理論，包括電力系統組成、三相電路、發電機、變壓器、輸`配線路、電力潮流、故障分析、穩定度分析  <br> <br> <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.電力系統概論<br>2.基本原理<br>3.發電機與變壓器模式<br>4.輸電線路模型<br>5.電力潮流分析<br>6.短路故障分析<br>7.穩定度分析",
+        "en": "1.Power system concepts<br>2.Basic theorem<br>3.Generator and transformer<br>4.Transmission line modeling<br>5.Power flow analysis<br>6.Short circuit fault analysis<br>7.Stability analysis"
+    },
+    "weeklySchedule": "1. 發電方式<br>2. 超高壓輸電<br>3. 輸電網路<br>4. 輸電網路電力潮流<br>5. 不平衡系統運轉<br>6. 系統保護<br>7. 電力系統穩定度",
+    "exams": {
+        "midterm": "期中專案報告",
+        "final": "期末專案報告",
+        "other": "檢查(筆記+作業)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解分散式再生能源的應用及未來發展趨勢",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解台灣電力系統之現況及未來發展趨勢",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解於電力系統中須具備的電路及工程數學基本觀念，及電機機械相關元件之系統模型",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "作業",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解電力系統中輸電線路參數代表的意義及形成原因",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解輸電線路電壓及電流方程式所代表的意義及其應用型式",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解輸電線路之暫態方程式所代表的意義及其應用型式",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "筆記+作業+點名60%(每周上傳)<br>期末上台報告40%"
+}

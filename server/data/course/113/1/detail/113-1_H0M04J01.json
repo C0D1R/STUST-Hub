@@ -1,0 +1,151 @@
+{
+    "code": "H0M04J01",
+    "name": {
+        "zh": "中草藥特論",
+        "en": "Advanced Chinense Medicine"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研食品一甲"
+    ],
+    "instructors": [
+        "李順來"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "I0702"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "I0702"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "I0702"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "「中藥學」是一門專研中藥的基本理論和各種中藥的來源、產地、採集、炮製、性能、功效及臨床應用等知識的一門學科，本課程「中藥學特論」則以介紹中藥的起源開始繼之發展，了解產地、採集方法、炮製目的、中藥功性、分類，以及常用中藥材的配伍。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t單元一：中藥的起源和中藥的發展史。<br>單元二：中藥的產地與採集方式。<br>單元三：中藥的炮製目的和方法。<br>單元四：中藥的性能（四氣、五味、歸經、毒性）介紹。<br>單元五：中藥的配伍、用藥禁忌、劑量、用法、介紹。<br>單元六：解表藥、清熱藥的介紹。<br>單元七：理氣藥、消食藥的介紹。<br>單元八：活血化瘀藥、止血藥的介紹。<br>單元九：補虛藥介紹<br>",
+        "en": "1 Etiology of Chinense Medicine<br>2 Resourse and Collection of Chinense Medicine<br>3 Preparation of Chinense Medicine<br>4 Characteristic of Chinense Medicine<br>5 The Five-Element Theory<br>6 The Yin-Yang Theory<br>7 The Combination of Chinense Medicine<br>"
+    },
+    "weeklySchedule": "1-2週 中藥的起源與發展史<br>3-5週 陰陽五行概念<br>6-7週 中藥的性味歸經<br>8-9週 中藥配伍<br>10-12週 中草藥的二級代謝物<br>13-14週 二級代謝物生物合成途徑<br>15-17週 二級代謝生物合成途徑之調控<br>",
+    "exams": {
+        "midterm": "口頭報告",
+        "final": "口頭報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解中草藥的基本藥理及其在醫療產業之應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "知道如何蒐及中草藥相關資訊",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能了解中草藥的培育,炮製及生產流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能掌握書面或口頭報告的能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能與同學合作討論並完成報告",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "習慣閱讀英文講義及投影片",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

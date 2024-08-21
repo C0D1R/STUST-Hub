@@ -1,0 +1,133 @@
+{
+    "code": "20D19801",
+    "name": {
+        "zh": "智慧電網",
+        "en": "Intelligent Grid"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電資四甲"
+    ],
+    "instructors": [
+        "凌拯民"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "I0516"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "I0516"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "I0516"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.其他"
+    ],
+    "certificationsSupport": [
+        "1.高普考",
+        ""
+    ],
+    "description": "現代化的電能網路被許多政府認為是一種能夠有效減少能源依賴，減緩全球溫室效應的措施。在美國歐巴馬總統宣布振興經濟方案之中納入智慧電網計劃後，已經引起世界各國的重視。智慧電網以雙向通訊數位科技結合資訊技術建立的電力傳輸及分配網路。它可以偵測電力供應者的發電供應狀況，與一般家庭使用者的電力使用狀況，來調整負載用電量，以此降低損耗達到節約能源及增強電力系統可靠性的目的。智慧電網包含了一個智慧型量測基礎建設（Advanced Metering Infrastructure，AMI），用於記錄系統所有電能的使用資訊。通過智慧電表（Smart meter）及未來的智慧家庭，在隨時監測及控制電力使用的狀況下達到真正的節約能源目標。智慧電網亦需考慮當分散式的新能源發電(包括風能，太陽能等)加入系統時，如何發展新式的監控運轉模式，來有效且安全的將此分散式能源納入原先的電力系統中。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 智慧電網概述<br>2. 各國智慧電網藍圖<br>3. 台灣智慧電網發展現況及未來架構<br>4. 智慧電網的關鍵技術<br>5. 智慧型量測基礎建設(AMI)<br>6. 應用於AMI中之先進雙向通訊架構<br>7. 先進監控及能源管理技術及實務<br>8. 智慧電表<br>9. 智慧電網中之分散式的新能源發電系統設計<br>10. 智慧電網中之儲能技術<br>11 需量反應機制<br>",
+        "en": "1. Introduction of smart grid<br>2. Status of smart grids in other countries <br>3. The present and future smart grid in Taiwan<br>4. Smart grid key technologies<br>5. Advanced metering infrastructure (AMI)<br>6. Advanced two way communication topology in AMI<br>7. Advanced supervisory control and energy management techniques and practices<br>8. Smart meter<br>9. Design of dispersed generation in smart grid<br>10. Energy storage techniques in smart grid<br>11. Demand response <br>12. Smart home"
+    },
+    "weeklySchedule": "1. 智慧電網概述<br>2. 各國智慧電網藍圖<br>3. 台灣智慧電網發展現況及未來架構<br>4. 智慧電網的關鍵技術<br>5. 智慧型量測基礎建設(AMI)<br>6. 應用於AMI中之先進雙向通訊架構<br>7. 先進監控及能源管理技術及實務<br>8. 智慧電表<br>9. 智慧電網中之分散式的新能源發電系統設計<br>10. 智慧電網中之儲能技術<br>11 需量反應機制<br>11. 智慧家庭",
+    "exams": {
+        "midterm": "筆試",
+        "final": "期末報告",
+        "other": "作業--不定時"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1. 智慧電網概述 \n2. 各國智慧電網藍圖 \n3. 台灣智慧電網發展現況及未來架構",
+            "teachingMethods": [
+                "課堂講授",
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "4. 智慧電網的關鍵技術 5. 智慧型量測基礎建設(AMI) 6. 應用於AMI中之先進雙向通訊架構",
+            "teachingMethods": [
+                "課堂講授",
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "7. 先進監控及能源管理技術及實務 8. 智慧電表 9. 智慧電網中之分散式的新能源發電系統設計",
+            "teachingMethods": [
+                "課堂講授",
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "10. 智慧電網中之儲能技術 11. 需量反應機制 12. 智慧家庭",
+            "teachingMethods": [
+                "個案研究(PBL)",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "智慧電網",
+        "author": "劉振亞編著,許世哲校訂",
+        "publisher": "五南圖書",
+        "year": "2013",
+        "ISBN": "978-957-11-6927-9",
+        "edition": "1"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

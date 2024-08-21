@@ -1,0 +1,122 @@
+{
+    "code": "I0N07701",
+    "name": {
+        "zh": "說故事技巧與應用",
+        "en": "Skills and Implementation of Story Telling"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜二技幼保四甲"
+    ],
+    "instructors": [
+        "李芳靜"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第3節",
+            "location": "W0403"
+        },
+        {
+            "day": "週六",
+            "period": "第4節",
+            "location": "W0403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過該實作課程，學習如何成為一個說書人。學生將透過欣賞各式各樣的童書，並透過實際操作的方式，從觀察幼兒閱讀行為，進而學習如何製作故事書、學習如何說演故事來引起孩子閱讀的興趣，進而開啟孩子語言學習之門。",
+    "prerequisites": "任何願意放開心胸、用心學習，每個人都可以成為說故事高手",
+    "syllabus": {
+        "zh": "故事書的魅力<br>早期閱讀親子共讀的重要性<br>說故事技巧之介紹<br>童書、兒童閱讀與兒童語言發展<br>適齡讀本選擇技巧<br>校外參訪&amp; 實作<br>圖書角及閱讀環境規劃　<br>童書製作",
+        "en": "Powerful magic: learning from children’s story books <br>Early reading and the importance of parent-child reading <br>Story-telling skills <br>Storybooks, early reading, and children’s language development<br>Skills in choosing appropriate reading materials <br>Field trips &amp; field experience (story-telling for public)<br>Design of reading corner and set up a reading environment<br>Making your own storybook"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習選擇適合兒童之繪本故事",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "嘗試學習及模仿專業說演故事技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創作適齡適性主題性故事劇本",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練運用國台語來說演兒童故事",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "涵養主動學習之精神及養成團隊合作態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

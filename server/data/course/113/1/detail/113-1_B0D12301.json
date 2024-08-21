@@ -1,0 +1,115 @@
+{
+    "code": "B0D12301",
+    "name": {
+        "zh": "造園與景觀設計",
+        "en": "Landscape Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技休閒三乙"
+    ],
+    "instructors": [
+        "洪飛碩"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "T0508"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0508"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0508"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "造園與景觀設計課程主要內容為對於環境設計範疇的理解與認識，以及在景觀設計技法的基礎訓練上，作一有系統的循序漸進的教學訓練，並以製圖課程為主，實際操練，使學生具備識圖能力，並具有設計方面的概念及技術。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "一、概論<br>二、調查分析  基礎調查、市場調查、景觀資源調查等<br>三、基本構想  計畫思想及主題<br>四、基本計畫  概念形成與具現化操作<br>五、基本設計  初步設計<br>六、實施設計  細部設計，尺規練習、手繪（free hand）練習、素描練習、樹形表現、鋪裝設計、棚架、石組配置、公園椅練習、個人作品設計等。<br>",
+        "en": "Outline of landscape design<br>1. Introduction<br>2. Methods of Investigation and analysis – investigation of inventory, marketing and landscape resource<br>3.Basic planning concept – theme development and planning process<br>4. Basic plan – concept formation and modern operation<br>5. Basic design teaching – preliminary design<br>6. Master plan design teaching – sketch-drawing practice, line-drawing practice, tree-drawing practice, paved-ground design, stone allocation, personal design construction  <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "休閒事業景觀設計實作課程，以製圖技術為基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識空間領域，把握環境現狀，運用自然素材",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解計畫與設計的過程，從構想、敷地計畫、設計、施作等一貫作業",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "實施實際操練，以訓練學生具備改善與創造環境的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,115 @@
+{
+    "code": "10D34T01",
+    "name": {
+        "zh": "車輛實習(一)",
+        "en": "Automotive Practice(I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技車輛二甲"
+    ],
+    "instructors": [
+        "張明豪"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "V108"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "V108"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "V108"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程即以燃油噴射控制系統之控制電路為主要學習內容。學生先自行設計安全電路、觸發電路，以建立學習電源控制電路之基礎能力。之後，以4G18、4G-93兩種類型的引擎控制系統整合電路，建立學生對引擎控制系統之基本實務技能，為次學期之故障診斷奠下基礎能力。",
+    "prerequisites": "車輛工程概論",
+    "syllabus": {
+        "zh": "1. 繼電器類型與應用。<br>2. 安全電路之設計及配線實習。<br>3. 觸發電路之設計及配線實習。<br>4. 引擎之電源控制電路實習。<br>5. 引擎控制系統工作原理。<br>6. 4G-18引擎控制系統電路實習。<br>7. 4G-93引擎控制系統電路學習。",
+        "en": "1. Application and type of relay.<br>2.Safety circuit design and practice.<br>3.Trigger circuit design and practice.<br>4.The practical training of engine electric power control circuitry.<br>5.The operation principle of fuel injection control system.<br>6.The practical training for 4G-18 fuel injection control system circuitry.<br>7.The practical training for 4G-93 fuel injection control system circuitry."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立車輛之電源控制電路之知能及設計能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟知引擎控制系統之工作原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備燃料控制系統之電路配線能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立學習汽油引擎修護技能的基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

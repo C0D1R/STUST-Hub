@@ -1,0 +1,164 @@
+{
+    "code": "D0N12401",
+    "name": {
+        "zh": "企業資源規劃",
+        "en": "Enterprise Resource Integration and Planning"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技行流四甲"
+    ],
+    "instructors": [
+        "黃仲正"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "T0204"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "T0204"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "T0204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "如何將企業的物流、金流、資訊流作充分的整合，使管理者獲得與企業運作相關的即時資訊，以對有限資源做出最適時、適地的安排，是「企業整合資源規劃-ERP」系統扮演的角色。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 課程介紹與ERP系統之發展與趨勢。<br>2. ERP導入方法。<br>3. Work Flow ERP系統介紹與操作。<br>4. ERP配銷模組介紹。<br>5. ERP生管與製造模組介紹。<br>6. ERP配銷模組應用師認證與生管製造模組應用師認證。<br><br>",
+        "en": "1. Course Introduction and ERP System Development and Trends;<br>2. ERP Implementation;<br>3. Work Flow ERP Introduction and Operation;<br>4. Introduction to ERP Distribution Module;<br>5. Introduction to ERP Production &amp; Manufacturing Module;<br>6. Certification Examinations of ERP.<br>"
+    },
+    "weeklySchedule": "1. 課程介紹與ERP系統之發展與趨勢與企業倫理。(核心素養融入專業課程授課)<br>2. (中秋節/放假)。<br>3. ERP對企業營運效益、ERP導入方法及組織架構。<br>4. Work Flow ERP系統架構與基礎操作與管理維護系統。<br>5. Work Flow ERP登錄權限設定。<br>6. Work Flow ERP基本管理系統。<br>7. ERP配銷模組-主題1：公司基本概況介紹-1。<br>8. ERP配銷模組-主題2：系統架構及關連性-2。<br>9. 期中考-筆試與上機實作。<br>10. ERP配銷模組-主題3：主要基本資料/期初開帳篇。<br>11. ERP配銷模組-主題4：ERP報價與接單作業管理。<br>12. ERP配銷模組-主題5：ERP請購與訂單作業管理。<br>13. ERP配銷模組-主題6：ERP進貨與銷貨作業管理。<br>14. ERP配銷模組-主題7：ERP存貨管理。<br>15. ERP配銷模組-主題8：ERP系統安全控管與資料備份。(核心素養融入專業課程授課)<br>16. ERP配銷模組-主題9：配銷模組各項功能流程/配銷模組常用報表簡介。<br>17. (ERP配銷模組軟體應用師證照認證考試。)<br>18. 期末考。",
+    "exams": {
+        "midterm": "筆試(線上考)",
+        "final": "筆試(線上考/認證考試)",
+        "other": "第4/6/8/10/12週。筆試(線上考)。"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "採購與存貨管理",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "生產規劃與控制",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "銷售與配銷管理",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "運籌資訊管理",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "ERP證照",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "(1)ERP GP應用人才培訓系列-ERP基礎觀念及導入方法篇(GP 4.X版) 和 (2)ERP GP應用人才培訓系列-配銷模組應用篇(GP 4.X版) 。共2本。",
+        "author": "鼎新電腦",
+        "publisher": "鼎新電腦",
+        "year": "2019",
+        "ISBN": "(1)978-986-89263-5-6 ；(2) 978-986-89263-6-3",
+        "edition": "第2版"
+    },
+    "referenceBooks": "1. 黃仲正等合編，半導體產業企業資源整合規劃，2004，供應鏈運籌管理研究中心，南臺科技大學。 <br>2. 黃仲正等合編，半導體產業企業資源整合規劃—個案實例，2004，供應鏈運籌管理研究中心，南臺科技大學。 <br>3. 黃仲正、蔡宗欽，企業資源整合規劃，2004，物流研究與發展中心，南臺科技大學。 <br>4. 葉宏謨，企業資源規劃：製造業管理篇，2000，松崗。",
+    "teachingSoftware": "1. 鼎新Workflow ERP GP 4.X版。 \n2. http://flipclass.stust.edu.tw (南台數位學習網路)。 \n3. Microsoft Office。",
+    "rules": "(1) *** 選修本課程學員, 必須自費參加中華企業資源規劃協會的鼎新WorkFlow ERP GP 4X 配銷模組軟體應用師認證考試(通過者有補助獎勵金)。<br>(2) 課堂外輔導時間：每週二：第8/9/10/11節(T棟0214室)。或事先約定。<br>(3) 指定作業與報告一律以電子檔繳交到網路教學平台的作業繳交區（作業基本分數為70分，滿分100）。沒準時交一律0分；無論任何理由，Email到教師信箱者，該次成績0分。<br>(4) *上課缺席者，隔週上課前必須先自行研讀缺席時上課內容相關教材、或上網閱讀相關簡報資料、或相關網路教學影片；超過3次以上，本課程平常成績會很低分。<br>(5) 必須出席指定之業師演講（如果有安排，每場簽到點名），聽演講後交心得報告。<br>"
+}

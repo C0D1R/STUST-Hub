@@ -1,0 +1,127 @@
+{
+    "code": "L0D0BK02",
+    "name": {
+        "zh": "半導體元件實習",
+        "en": "Semiconductor Device Practice"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技半導體二乙"
+    ],
+    "instructors": [
+        "高至誠"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "Q302"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "Q302"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "Q302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本實驗課程的內容涵蓋了太陽能電池與固態照明。<br>實驗課程將分為10個單元進行，在實驗進行前會針對與實驗相關的理論說明，使同學能確實掌握實驗的方向與其目的。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元1：太陽能電池電壓-電流特徵曲線與效率因子測定<br>單元2：太陽能電池之無負載電壓與短路電路量測<br>單元3：太陽能電池的串聯與並聯實驗<br>單元4：蓄電池之充電與放電量測<br>單元5：太陽能光模擬器量測<br>單元6：太陽能電池封裝實驗<br>單元7：固態照明模組之同步變色的控制<br>單元8：固態照明模組之追色的控制<br>單元9：固態照明模組之分區分色的控制<br>單元10：固態照明模組之不同光學產生的特性",
+        "en": "1. Voltage - current characteristic curve of a solar cell and determination of the efficiency factor<br>2. The no-load voltage and the short-circuit current of a solar cell<br>3. Series connection and parallel connection of solar cells<br>4. Charging and discharging of a accumulator<br>5. Solar simulator experiment<br>6. Packaging of solar cells<br>7. Control of synchronism-change-color about solid state lighting module<br>8. Control of chase-color about solid state lighting module<br>9. Control of separating-color and separating-area about solid state lighting module<br>10. The characteristic of different optic about solid state lighting module"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解太陽能電池與固態照明之基本原理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用器材進行相關實驗。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析與歸納實驗數據。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具體說明實驗結果與問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能養成組員共同完成實驗之態度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

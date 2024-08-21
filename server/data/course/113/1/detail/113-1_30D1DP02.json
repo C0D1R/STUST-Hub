@@ -1,0 +1,115 @@
+{
+    "code": "30D1DP02",
+    "name": {
+        "zh": "UNIX/Linux作業系統實務",
+        "en": "UNIX/Linux System"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子一乙"
+    ],
+    "instructors": [
+        "李博明"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "P503"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "P503"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "P503"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為 Linux 上機課程，重視理論與實作，且需具備電腦操作基礎。",
+    "prerequisites": "課程所要教授者為 Linux 作業系統，修課同學對於電腦需有一定知識。",
+    "syllabus": {
+        "zh": "一.Linux 規劃與安裝<br>二.Linux 檔案、目錄與磁碟格式<br>三.學習shell　　　　<br>四.Linux 使用者管理<br>五.Linux 系統管理員",
+        "en": "1.Introduction<br>2.Basic Linux operating system installation and configuration<br>3.Basic Linux instructions and vi editor usage<br>4.Xwindow installation and configuration<br>5.Installation and configuration of Chinese input method<br>6.Install Mozilla/FireFox<br>7.Install and study openoffice<br>8.The audio/studio environment of Linux<br>9.Install and configure the programming environment in Linux<br>10.Linux file system<br>11.Debian package management"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過實際操作，了解如何驅動電腦內部以執行 Linux 作業系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過實際動手安裝Linux，養成系統操作之實務經驗",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生必須撰寫shell script程式解決課堂作業。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "介紹Linux相關網站，使學生能自行學習。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

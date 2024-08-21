@@ -1,0 +1,127 @@
+{
+    "code": "20D1FQ01",
+    "name": {
+        "zh": "醫療物聯網應用與實務",
+        "en": "Internet of Medical Things Practical Applications"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技醫電四甲"
+    ],
+    "instructors": [
+        "楊弘吉"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "K510"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "K510"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "K510"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "醫療服務是物聯網最具潛力的應用之一，簡而言之就是將與醫療有關的「物」(包括醫生、病人、人體資訊、醫療器械、藥品等)編織成具智慧的醫療「網」。醫療物聯網依循健康管理或照護等流程，通過資訊交互傳遞與處理，達到智慧醫療或照護等目的，是一項正在蓬勃發展的科技。同學可以在這門課程中，學習到最新的相關知識外，課程也會培育同學自主學習與資料蒐集的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.醫療物聯網簡介<br>2.何謂智慧醫療與照護<br>3.醫療物聯網的創新應用<br>4.醫療物流管理<br>5.智慧醫療的未來",
+        "en": "1. Introduction to IoMT<br>2. Smart medical care and healthcare<br>3. Innovative applications of IoMT<br>4. Medical logistics management<br>5. The future of smart medical care"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "醫療物聯網簡介",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "何謂智慧醫療與照護",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "醫療物聯網的創新應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "醫療物流管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "智慧醫療的未來",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

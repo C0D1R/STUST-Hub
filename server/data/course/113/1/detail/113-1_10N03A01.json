@@ -1,0 +1,116 @@
+{
+    "code": "10N03A01",
+    "name": {
+        "zh": "環安衛概論",
+        "en": "Introduction of hygiene and safety"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技自控二甲"
+    ],
+    "instructors": [
+        "楊政峰"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "K402"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "K402"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "K402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        ""
+    ],
+    "description": "以職業安全衛生相關法規為基礎，再加入前人的經驗及事故案例，期望能以文字及口授的方式針對職業安全衛生環境與事故之因果作分析，並提出對策以保障工作者之安全與健康。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.職業安全衛生法規簡介<br>2.職業災害之雇主責任與勞工權益<br>3.職業安全衛生教育訓練<br>4.勞工健康檢查與管理<br>5.職業災害調查與處理<br>6.機械設備與安全<br>7.噪音危害<br>8.化學性危害<br>9.危害通識<br>10.職業病防治<br>",
+        "en": "1.Occupational Safety and Health Act Statute<br>2.Responsibility of Employer &amp; Protection for Workers Incurring Occupational Accidents<br>3.Education &amp; Training for Occupational Safety and Health<br>4.Inspection and Management for Labor Health<br>5.Investigation &amp; Measures for Occupational Accidents<br>6.Equipment Safety<br>7.Noise Hazard<br>8.Chemical Hazard<br>9.Hazard Communication<br>10.Occupational Disease Control<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識職業安全衛生法規",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解機械設備與安全",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識危害通識標準",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識職業病防治",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

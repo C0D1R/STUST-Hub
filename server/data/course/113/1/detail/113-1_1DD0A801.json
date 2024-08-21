@@ -1,0 +1,130 @@
+{
+    "code": "1DD0A801",
+    "name": {
+        "zh": "專修(五)音響(B1)",
+        "en": "Major Ⅴ Sound Design"
+    },
+    "credit": "1",
+    "type": "管制選修",
+    "classes": [
+        "四技流音三甲",
+        "四技流音三乙"
+    ],
+    "instructors": [
+        "廖惇根"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "W0910"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為小班教學，須具備音響理論之常備知識及技能，以教授「音響設計」進階專長領域之相關理論、實務技巧以及職場倫理，強化學生之音響專業技能，以及啟發設計之創意思考，並培養學生專業素養與敬業態度。以口頭/書面報告及實習實作之方式，做為學習成效之評量。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、音響設計基礎知識。<br>二、音響設計操作技巧。<br>三、聲音設計的創新思維。<br>四、音響設計作品指導。",
+        "en": "1. The foundations in sound design<br>2. The operation skills of sound design<br>3. Innovative thinking on sound design<br>4. The guidance on sound design works"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解音響設計專長領域之專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備音響設計專長領域之技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "造就音響設計之創意發想能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養自我提升、終身學習之態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "展現尊重、接納老師指導之學習態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培育音響從事人員之整合協調能力v",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

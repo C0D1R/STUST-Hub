@@ -1,0 +1,152 @@
+{
+    "code": "65D00B01",
+    "name": {
+        "zh": "國際貿易實務",
+        "en": "International Trade Practice"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國商二甲"
+    ],
+    "instructors": [
+        "洪一碩"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S509"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "S509"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "S509"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course aims to students who need to cover the concepts that are important to managers actively exporting or importing goods or are otherwise involved in international trade operations. Aspects in international trade including documentation, terms of payment, terms of trade, Customs clearance, agency and distributorship sales contracts, packing, transportation, and security issues and so forth are to be introduced and discussed.<br>The topics are carefully selected and the order in which the material will be introduced will be arranged logically so that the students can understand a concept without having to refer to material that is presented later in the sequence. Students also need to familiarize basic communication skills in international trade, which will be demonstrated by various correspondent letters such as inquiry, price quote, bargaining, ordering, shipping notice, etc. <br><br>先介紹國際經貿情勢及貿易型態，再依交易過程先後敘述其內容，從初步接洽開始，中間經報價、接受訂約、以迄交貨、付款為止，作有條理的說明，並附實習題讓學生練習及操作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、國際貿易實務概論<br>1. 國際貿易的種類<br>2. 國際貿易的主體及客體<br>3. 我國對外貿易發展概況<br><br>二、貿易條件<br>1. 貿易條件之意義<br>2. 貿易條件之解釋規則<br>3. Incoterms 2000<br><br>三、出、進口貿易程序<br>1. 國際貿易付款之方式<br>2. 出口貿易之程序<br>3. 進口之貿易程序<br><br>四、國際貿易契約的主要條件<br><br>五、出、進口價格計算<br>1. 出口價格之構成因素<br>2. 進口價格之構成因素<br><br>六、報價與接受<br>1. 詢價<br>2. 報價<br>3. 還價<br>4. 接受<br><br>七、簽訂貿易契約書<br>1. 貿易契約書之內容<br>2. 貿易契約書之實例 <br><br>八、信用狀<br>1. 信用狀的定義<br>2. 信用狀關係人<br>",
+        "en": "A. Introduction of International Trade<br>1. The Style of International Trade<br>2. Subject and Object of International Trade<br>3. The Development of Taiwan’s International Trade<br><br>B. Trade Trems<br><br>1. The Construction of Trade Terms<br>2. The Rules for the Interpretation of Trade Terms<br>3. Incoterms 2000<br><br>C. The Import-Export Procedure<br><br>1. Payment Method of International Trade<br>2. Export Procedure<br>3. Import Procedure<br><br>D. The Terms and Conditions of Transaction<br><br>E. Price Calculation of Import/Export<br>1. The Factor Structure of Export<br>2. The Factor Structure of Import<br><br>F. Offer / Acceptance <br>1. Inquiry<br>2. Offer <br>3. Counter Offer<br>4. Acceptance<br><br>G. The International Sale Contract<br>1. The Contents of International Sale Contract<br>2. The Illustration of International Sale Contract<br><br>H. Letter of Credit<br>1. The Definition of Letter of Credit<br>2. The Parities of Letter of Credit<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解國際貿易的流程作業及與相關國際貿易慣例及法規",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用國際商務軟體進行電子商務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效呈現貿易主題之重點",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "操作貿易實務流程時能與各相關單位充分溝通與表達",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認進行國際貿易時仍須考慮關懷他人與社會的利益",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用國際貿易知識操作貿易實務流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用貿易專業用語及英文與客戶書信往來或溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,115 @@
+{
+    "code": "1CD04K02",
+    "name": {
+        "zh": "作品集設計",
+        "en": "Portfolio Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技產設四乙"
+    ],
+    "instructors": [
+        "阮英豪"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "P405"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "P405"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "P405"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "目的為協助設計科系學生以視覺方式展示其想法與意象的一種方法。透過作品集之設計，描述個人的創意思考邏輯、設計技巧及其四年來設計整理。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.設計作品集的基本概念與範疇<br>2.設計作品之整理與規劃<br>3.作品翻拍與建檔<br>4.個人識別系統之設計<br>5.版面規劃與設計安排<br>6.數位媒材之統整與製作",
+        "en": "1. Fundamental  concepts and categories of design portfolios<br>2. Arrangement and planning of design works<br>3. Photo and file the works<br>4. Design of personal CIS system<br>5. Layout planning and design arrangement<br>6. Integration and production of digital media"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": ".實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "資訊能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "整合創新",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

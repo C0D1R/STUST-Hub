@@ -1,0 +1,110 @@
+{
+    "code": "C0D5E101",
+    "name": {
+        "zh": "英語跨領域教學應用",
+        "en": "Content Language Integrated Learning (CLIL)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應英三甲"
+    ],
+    "instructors": [
+        "陳素連"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "N305"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "N305"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course aims to help students familiarize with the knowledge of Content Language Integrated Learning (CLIL), practice writing lesson plans, learn to choose proper teaching materials for different learners and different learning purposes, and demonstrate lesson plans with different teaching materials and methods.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "為什麼 CLIL 很重要？<br>CLIL 是如何工作的？<br>CLIL的優勢<br>Bloom’s認知能力分類法<br>CLIL 在課堂上<br>CLIL教材<br>如何為學生學習語言和學術內容提供支架<br>學習用的語言<br>用來學習的語言<br>基於任務的學習活動<br>",
+        "en": "Why is CLIL important?<br>How does CLIL work?<br>The advantages of CLIL<br>Bloom’s Taxonomy<br>CLIL in the classroom<br>Teaching materials for CLIL<br>How to scaffold students learning language and academic content <br>Language of learning <br>Language for learning<br>Language through learning<br>Task-based learning activities<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉內容和語言整合學習教學法的基本原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉內容和語言整合學習教材設計的基本原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "編寫內容和語言整合學習教案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "內容和語言整合學習教案試教",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

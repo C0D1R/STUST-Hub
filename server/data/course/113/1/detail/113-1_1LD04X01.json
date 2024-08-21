@@ -1,0 +1,115 @@
+{
+    "code": "1LD04X01",
+    "name": {
+        "zh": "生態倫理學",
+        "en": "The Ecological Ethics"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "楊劍豐"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0312"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "T0312"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "T0312"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "人類社會的發展進入了20世紀以來，隨著大科學，大生產的高效能利用，人類社會進入了一個空前的繁榮發展時期。但是這表面上的繁榮卻並沒有把人類引向上帝的伊甸園，而是把人類拖入了空前的危機之中。溫室效應、臭氧層空洞、南北兩極冰山的溶化、熱帶雨林的急劇減少、物種的急速滅絕、人口的急增、能源的枯竭、土地的沙漠化等等，這所有的一切都使我們的地球母親越來越不堪重負，人與自然的關係第一次出現了總體性的危機。於是，生態倫理學這樣一門新興的學科便這樣應運而生。<br>生態環境倫理規範體系的特徵為：人類是自然歷史演化的產物，應與自然保持和諧相處、協調進化的關係；人以外的其它生物、物種、生態系統、以及自然界的所有存在物，除了對人類的工具價值外，還具有其內在價值與系統價值，有繼續存在下去的權利；人類屬於自然，作為自然界進化的最高產物，人類只是自然權利的代言人，對其它生命和生命支持系統負有道德責任；生態環境倫理的目標是建立真正平等、公正的人與人、人與自然的關係，倡導和諧發展與共存共榮；人類應當培養尊重自然、愛護生命、保育自然環境的道德情操，盡到管理好地球家園的道德義務。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、為什麼要有倫理？<br>二、基本倫理原則<br>三、東方生態倫理理論資源<br>四、西方生態倫理理論資源<br>五、推動生態環境保護之重要機構<br>六、重要國際公約<br>",
+        "en": "1.Why do you have ethics?<br>2.Basic ethical principles<br>3.Eastern Ecological Ethics Theory Resources<br>4.Western Ecological Ethics Theory Resources<br>5.The important institution to promote ecological environmental protection<br>6.Important international convention<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解倫理學及倫理原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能對人類發展與生態保護的倫理抉擇與兩難具判斷思考能力，並應用於生活中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能提高理性思辨各種倫理抉擇與難題，具思維及批判的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解生態環境保護的重要並於生活中實踐",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

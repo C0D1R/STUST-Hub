@@ -1,0 +1,128 @@
+{
+    "code": "L0D03701",
+    "name": {
+        "zh": "光電工程概論",
+        "en": "Introduction to Optic-Electrical Engineering"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技半導體一甲",
+        "四半導國專一甲"
+    ],
+    "instructors": [
+        "蔡俊欽"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "R502"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "R502"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "R502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "先介紹光學原理，而為使同學容易接受，先講幾何光學，再講波動光學。<br>然後介紹光電半導體，以建立了解發光元件及感測元件所需的基礎。<br>最後介紹重要的光電科技，包括顯示科技、固態照明、太陽能電池。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.幾何光學<br>2.波動、光波與光子<br>3.偏振（極化）<br>4.干涉與繞射<br>5.光電半導體<br>6.顯示科技<br>7.固態照明<br>8.太陽能電池<br><br>",
+        "en": "1.Gometrical Optics<br>2.Wave motion, Lightwave, and Photons<br>3.Polarization<br>4.Interference and Diffraction<br>5.Optical semiconductor devices<br>6.Display Technologies<br>7.Solid State Lighting<br>8.Solar Cells<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解光電工程之範疇及相關產業",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解幾何光學的基本原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解波動光學的基本原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解偏振的基本原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解光學元件之應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

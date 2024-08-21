@@ -1,0 +1,111 @@
+{
+    "code": "03D13R01",
+    "name": {
+        "zh": "教育哲學",
+        "en": "Philosophy of Education"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "教育學程－中",
+        "教育學程－小"
+    ],
+    "instructors": [
+        "鄭育萍"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第11節",
+            "location": "N107"
+        },
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "N107"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要探討教育哲學的重要知識與觀點，包括哲學基本問題下的不同哲學觀點與教育之關係，以及各重要哲學派別的教育思想。希望學生透過教育哲學的探究，能以哲學觀點對教育本質、目的和方法之根本問題從事思考，並建立教師個人教育哲學。期待師培生在學習教育哲學的同時，也能夠反思自己的哲學與教育信念，涵養堅定的教育態度。<br><br>【專業素養指標】<br>1 了解教育發展的理念與實務<br>■1-1 了解有關教育目的和價值的主要理論或思想，以建構自身的教育理念與信念。<br>3 規劃適切的課程、教學及多元評量<br>■3-4 掌握社會變遷趨勢與議題，以融入課程與教學。<br>5 認同並實踐教師專業倫理<br>■5-1 思辨與認同教師專業倫理，以維護學生福祉。<br>■5-3 透過教育實踐與省思，以發展溝通、團隊合作、問題解決及持續專業成長的意願與能力。<br><br>【課程核心內容】<br>1了解教育發展的理念與實務<br>■(1)教育本質、教育目的與內容<br>■(2)主要教育理論與思想<br>■(3)教育與社會變遷及進步<br>3規劃適切的課程、教學及多元評量<br>■(2)重要議題融入課程、教學與評量<br>5認同並實踐教師專業倫理<br>■(1)教師專業、倫理及其承諾<br>■(5)教師自我反思、溝通互動與解決問題<br><br>【融入議題】<br>■人權教育<br>■品德教育<br>■生命教育<br>■多元文化教育<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.教育哲學的意義及研究取徑<br>2.教育與哲學的關係<br>3.哲學基本問題與教育<br>心靈論與教育、人性論與教育、知識論與教育、倫理學與教育、美學與教育、社會正義與教育<br>4.重要哲學思潮與教育<br>理性主義與教育、經驗主義與教育、存在主義與教育、實用主義與教育、人文主義與教育、自然主義與教育、分析哲學與教育、批判理論與教育、後現代主義與教育<br>",
+        "en": "1.The definition of educational philosophy and the research approaches in philosophy of education<br>2. The relationship between education and philosophy<br>3. Basic issues of philosophy and education<br>(1) Mind theory and education<br>(2) Theory of human nature and education<br>(3) Epistemology and education<br>(4) Ethics and education<br>(5) Aesthetics and education<br>(6) Justice and education<br>4. Important philosophical thoughts and education<br>(1) Rationalism and education<br>(2) Empiricism and education<br>(3) Existentialism and education<br>(4) Pragmatism and education<br>(5) Humanism and education<br>(6) Naturalism and education<br>(7) Analytical philosophy and education<br>(8) Critical theory and education<br>(9) Postmodernism and education<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解教育哲學的重要概念及各學派的主要教育觀點",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用教育哲學思考教育的本質問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "省思及建立合宜的教師哲學",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "檢討教育理論的立論與價值",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

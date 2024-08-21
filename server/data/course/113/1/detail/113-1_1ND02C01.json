@@ -1,0 +1,133 @@
+{
+    "code": "1ND02C01",
+    "name": {
+        "zh": "壓力與健康",
+        "en": "Stress and Health"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "自然科學領域"
+    ],
+    "instructors": [
+        "蘇春霖"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "W0408"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "W0408"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "W0408"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "現代人面對到的最重要的問題是「累積壓力和負面情緒的影響而造成了健康的危害」。了解壓力透過情緒中樞、自律神經系統、內分泌系統、免疫系統的作用機轉而產生了器質性疾病、功能性疾病、情緒性疾病、焦慮性疾病等醫學新知，並深入探討因應之道，確實掌握「身心健康的科學新知」",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t探討各年齡層的現代人經常面對的壓力。<br>2.\t從人體各器官、生活各層面、人生各階段、最新醫學研究、壓力調適方 法、人生態度、正面思考、運動休閒、人際關係、同理心練習、瞭解自己 關懷別人... 來分享「壓力與健康」的重要知識及探討其因應之道。<br>3.\t心臟血管系統、呼吸系統、消化系統、泌尿系統、腦神經系統、內分泌 系統、免疫系統、肌肉骨骼系統各器官的構造與功能。<br>4.\t簡介「累積壓力和負面情緒的影響而造成了健康的危害」醫學新知。<br>5.\t深入探討各種調適壓力的方法。<br>6.\t每位同學上臺簡報。指導與說明。學生演講錄影影片 PO 上 「Flip 數 位學習」，班上師生彼此觀摩學習。<br>7.\t壓力對於情緒中樞的神經生理功能的影響及其作用機轉。<br>8.\t壓力對於情緒中樞的神經生理作用而產生的疾病。<br>9.\t壓力對於自律神經系統的影響及其作用機轉。<br>10.\t壓力對於自律神經系統的影響而產生的疾病。<br>11.\t壓力對於內分泌系統的影響及其作用機轉。<br>12.\t壓力對於內分泌系統的影響而產生的疾病。<br>13.\t壓力對於免疫系統的影響及其作用機轉。<br>14.\t壓力對於免疫系統的影響而產生的疾病。<br>15.\t器質性心身症的診斷與治療。<br>16.\t功能性心身症的診斷與治療。<br>17.\t憂鬱症的診斷與治療。<br>18.\t躁鬱症的診斷與治療。<br>19.\t焦慮症的診斷與治療。<br>20.\t探討: 親友如何協助「因累積壓力和情緒刺激而生病的患者」。<br>21.\t同理心反應的知識。<br>",
+        "en": "Explore the different kinds of stress that everyone should cope with.<br><br>Explore the knowledge of “stress and health” from all angles.<br><br>The structure and function of cardiovascular system, respiratory system, di-gestive system, urinary system, nervous system, endocrine system, immune system, skeletal and muscular system. <br><br>Introduce the new medical knowledge of how cumulative stress and nega-tive emotions cause health hazards<br>Discuss the various methods of stress adjustment.<br><br>The effect, mechanism and disease of stress on the neurophysiological func-tion of the limbic system, autonomic nervous system, endocrine system and immune system. <br><br>The diagnosis and treatment of organic psychosomatic disorder, functional psychosomatic disorder, unipolar mood disorder, bipolar mood disorder and anxiety disorder. <br><br>How can family and friends help patients who suffer from cumulative stress and emotional stimuli?<br>"
+    },
+    "weeklySchedule": "第一週<br>113-09-11 壓力與健康課程 內容簡介、評量方式及注意事項<br><br>第二週<br>113-09-18身心健康 科學新知 概論一 從人體各器官、生活各層面、人生各階段、最新醫學研究來分享「壓力與健康」的重要知識<br><br><br>第三週<br>113-09-25身心健康 科學新知 概論二 從人體各器官、生活各層面、人生各階段、最新醫學研究來分享「壓力與健康」的重要知識<br><br>第四週<br>113-10-02身心健康 科學新知 概論三 從人體各器官、生活各層面、人生各階段、最新醫學研究來分享「壓力與健康」的重要知識<br><br>第五週<br>113-10-09介紹心臟血管系統、呼吸系統、消化系統、泌尿系統等 各器官的構造與功能。 介紹心臟血管系統、呼吸系統、消化系統、泌尿系統各器官的構造、功能、疾病與治療<br><br>第六週<br>113-10-16介紹腦神經系統、內分泌 系統、免疫系統、肌肉骨骼系統等 各器官的構造與功能。 介紹腦神經系統、內分泌 系統、免疫系統、肌肉骨骼系統的構造、功能、疾病與治療<br><br>第七週<br>113-10-23壓力對於情緒中樞的神經生理功能的影響 壓力對於情緒中樞的神經生理功能的影響、其作用機轉及產生的疾病<br><br>第八週<br>113-10-30壓力對於自律神經系統的作用機轉 壓力對於自律神經系統的影響、其作用機轉及產生的疾病<br><br>第九週<br>113-11-06壓力對於內分泌系統的影響 壓力對於內分泌系統的影響、其作用機轉及產生的疾病<br><br>第十週<br>113-11-13壓力對於免疫系統的影響 壓力對於免疫系統的影響及、其作用機轉及產生的疾病<br><br>第十一週<br>113-11-20器質性心身症的診斷與治療 器質性心身症的診斷與治療<br><br>第十二週<br>113-11-27功能性心身症的診斷與治療 功能性心身症的診斷與治療<br><br>第十三週<br>113-12-04憂鬱症的診斷與治療 憂鬱症的診斷與治療<br><br>第十四週<br>113-12-11 同理心 同理心反應<br><br>第十五週<br>113-12-18同理心 同理心反應的練習<br><br>第十六週<br>113-12-25正確的方式與態度去協助「因累積壓力和情緒刺激而生病的親友」(上) 探討: 親友如何協助「因累積壓力和情緒刺激而生病的患者」。同理心反應的知識。<br><br>第十七週<br>114-01-01國定假日<br><br><br>第十八週<br>114-01-08 正確的方式與態度去協助「因累積壓力和情緒刺激而生病的親友」(下) 探討: 親友如何協助「因累積壓力和情緒刺激而生病的患者」。同理心反應的知識。<br>",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "以 出席率 估算平時成績"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解壓力相關的最新國際醫學期刊的自然科學新知",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "融合統整醫學新知，運用於生活，預防疾病，促進健康",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能適切調整自己的壓力以因應環境的變化",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能以同理心去關懷協助「壓力相關疾患」的親友",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "分組收集資訊，整理成簡報PPT檔案，上臺報告",
+            "teachingMethods": [
+                "其他",
+                "－取消"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－取消"
+                },
+                {
+                    "method": "平時",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": ""
+}

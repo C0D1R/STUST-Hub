@@ -1,0 +1,115 @@
+{
+    "code": "20D1FI01",
+    "name": {
+        "zh": "基礎感測原理",
+        "en": "Introduction to Sensors"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專電機三甲"
+    ],
+    "instructors": [
+        "吳宗勲"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "B002"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "B002"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "B002"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "感測器基礎理論,物理量變化的轉換-電路轉換,感測器應用理論",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.感測器漫談與基礎理論<br>(1)信號處理<br>(2)電阻性感測器<br>(3)電容性感測器<br>(4)電感性感測器<br>(5)溫度感測器<br>2.物理量變化的轉換---電路轉換<br>(1)轉換電路理論<br>(2)電壓比較器<br>(3)物理量變化的轉換---電阻<br>(4)Vref 及Iref穩定的重要性<br>(5)信號放大<br>3.應用理論<br>(1)溫度感測器<br>(2)磁性感測器<br>(3)光電感測器<br>(4)壓力感測器<br>(5)氣體感測器",
+        "en": "1.Transducers, Seneors, and Signal Processing<br>2.Supporting Electronics Circuits<br>3.Resistive, Capacitive, and Inductive Sensors<br>4.Temperature Sensors<br>5.Force and Pressure Sensors<br>6.Proximity and Presence Sensors<br>7.Electro-Optical Sensors<br>8.Chemical Sensors"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解感測器在自動化工業扮演的角色及重要性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解不同感測器的應用場合及其原理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠運用所學，上網尋找適用的感測器，並製作一適用的感測電路。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠製作一適用的感測電路。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

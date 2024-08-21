@@ -1,0 +1,154 @@
+{
+    "code": "10D34A01",
+    "name": {
+        "zh": "製造聯網整合技術",
+        "en": "Internet of Things for Industry 4.0"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控四甲",
+        "四技自控四乙",
+        "四技製造四甲",
+        "四技製造四乙"
+    ],
+    "instructors": [
+        "張廉楷"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "K401"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "K401"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "K401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "傳遞德國工業4.0架構精神，達到智慧化之商品開發與製備。依照「智慧服務」、「智慧製造」、「智慧產品」、「智慧產品開發原則與方法」等四項精神，應用於未來跨領域研究設計與商品化規劃。帶入商業基礎模式，帶領修課學生以商業模式分析，可刺激學生跨界的能力進行多元思考，提升溝通與解決問題的技能，以商業化思維來活用自身知識。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.工業4.0概論：傳遞智慧生產與服務之成功模式與案例分析。<br>2.智慧產品設計方法：智慧產品= 傳統產品+ 電子裝置+ 智慧功能 + 溝通功能+ 以互聯網為基礎的服務。<br>3.大數據(Big Data)的時代: 資料的 量(Volume)、類型(Variety)與 傳輸速度(Velocity)。<br>4.物聯網晶片製作整合技術: 包含模組與聯網技術。<br>5.智慧機械-感測器元件模組與智慧虛實整合系統: 異質整合封裝技術、後製程電路設計製造、積層型(3D)異質電路製程等三大技術。<br>6.物聯網微型感測元件分組實驗：採用微機電技術開發微型氣體感測元件，搭載信號處理晶片，具備微型化（感測元件晶片尺寸：0.9mm x 0.9mm x 0.4mm）、數位化、超低功耗與多氣體偵測等優勢。<br>",
+        "en": "1. Introduction for Industry 4.0<br>2. Smart product design method<br>3. Big Data<br>4. IoT wafer fabrication integration technology<br>5. Smart machine-sensor component module and intelligent virtual integration system<br>6. IoT MEMS sensing component experiment"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "工業4.0概論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "智慧產品設計方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "大數據",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "物聯網晶片製作整合技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "智慧機械-感測器元件模組與智慧虛實整合系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "微型氣體感測元件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "物聯網微型感測元件分組實驗",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

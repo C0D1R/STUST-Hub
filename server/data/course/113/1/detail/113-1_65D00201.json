@@ -1,0 +1,116 @@
+{
+    "code": "65D00201",
+    "name": {
+        "zh": "經濟學(一)",
+        "en": "Economics(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國商一甲"
+    ],
+    "instructors": [
+        "艾米麗"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "E0509"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "E0509"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "E0509"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Economics is the study of how society manages its scarce resources. It includes several key subjects, such as how people make decisions, how people interact, and how the economy as a whole works. In this semester, we will focus on microeconomics that studies how households and firms make decisions and how they interact in markets. The basic concepts and analytic tools will be introduced in the class, so that students can understand the related issues and applications in their daily lives.<br> <br>經濟學旨在研究人們在資源有限的情況下如何做最佳的決策，又可分總體與個體二大領域。本學期將介紹個體經濟學的基本概念及分析方法，使學生能夠了解經濟學之相關議題和其在日常生活中的應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 經濟學基本概念<br>2. 機會成本與競爭優勢<br>3. 需求,供給與市場均衡<br>4. 價格彈性<br>5. 消費者選擇<br>6. 成本與生產決策<br>7. 競爭市場<br>8. 不完全競爭市場<br>9. 市場與政府介入<br>",
+        "en": "1. Basic principles of Economics<br>2. Opportunity cost and comparative advantages<br>3. Demand, Supply and Market Equilibrium<br>4. Price Elasticity<br>5. Consumer Choice<br>6. Cost and Production Decision<br>7. Competitive Market<br>8. Imperfect Competitive Market<br>9. Market and Government Intervention"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備基礎的經濟知識，了解經濟概念及分析方式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用統計方法分析國際商務相關資料。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備清晰邏輯思考及推理能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "對經濟知識有主動學習的意願與動力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

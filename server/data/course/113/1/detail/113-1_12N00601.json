@@ -1,0 +1,128 @@
+{
+    "code": "12N00601",
+    "name": {
+        "zh": "自動控制",
+        "en": "Automatic Control"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技自控三甲"
+    ],
+    "instructors": [
+        "彭守道"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "K403"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "K403"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "K403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "系統控制簡介，開迴路與閉回路系統之差異，數學基礎─拉式轉換，系統轉移函數與信號流程圖，物理系統的數學模式化，線性系統的穩定度，控制系統的時域分析。",
+    "prerequisites": "物理、微積分",
+    "syllabus": {
+        "zh": "一、\t概論與數學基礎<br>二、\t系統建模<br>三、\t控制系統表示法<br>四、\t控制系統的時域分析<br>五、\t控制系統的穩定性<br>六、\t控制系統的穩態分析<br>七、\t根軌跡法",
+        "en": "一、\tIntroduction and mathematic background<br>二、\tModelling<br>三、\tFormulation of control system<br>四、\tTime domain analysis<br>五、\tStability<br>六、\tSteady state analysis<br>七、\tRoot locus"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解如何由實驗獲得控制系統的響應",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備執行控制實驗與解釋系統響應的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備實驗分組之分工合作的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備實驗探討控制系統特性的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備撰寫控制實驗報告的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

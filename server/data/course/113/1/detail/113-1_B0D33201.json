@@ -1,0 +1,111 @@
+{
+    "code": "B0D33201",
+    "name": {
+        "zh": "日文(一)",
+        "en": "Japanese (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技休閒一甲"
+    ],
+    "instructors": [
+        "黃淑玲"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "T0608"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "T0608"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.日語檢定4級",
+        ""
+    ],
+    "description": "課程從日語五十音開始教起，希望一年的課程能讓同學學會基本句型與簡單的日常會話，並於課程中教唱日語歌曲，補充日本文化知識。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.字母及發音 <br>2.平假名，片假名<br>3.簡單招呼用語<br>4.清音，濁音，半濁音， 母音，長音，抝音介紹。<br>5. 自我介紹之基本用法<br>6. 指示詞之各項用法<br>7. 存在表現法<br>8. 計數，數量，單位等用法<br>",
+        "en": "1.パーソナリティとサウンド<br>2.名前、単一の名前をpingming<br>3.招待期間が短い<br>4.静かで、有声音、半声音、母音、長時間、ボーカル。<br>5.自己協会の基本的な使い方<br>6.各用語の教育用語の使用法<br>7.発現方法の存在<br>8.量、量、投与量など。"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習日文五十音基礎能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習日語簡單打招呼用語",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認日本社會文化",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "展現已學單句再簡單對話",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

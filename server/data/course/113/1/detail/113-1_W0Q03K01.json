@@ -1,0 +1,123 @@
+{
+    "code": "W0Q03K01",
+    "name": {
+        "zh": "領導與企業倫理",
+        "en": "Leadership and Business Ethics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "高企碩士班一甲"
+    ],
+    "instructors": [
+        "柯伶玫",
+        "洪敏莉"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第3節",
+            "location": "E0604"
+        },
+        {
+            "day": "週六",
+            "period": "第4節",
+            "location": "E0604"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1..介紹企業倫理的理論基礎，主要內容為倫理學的基本概念。<br>2..探討企業倫理的主要議題，包含企業與各利益關係人的對應關係及權利義務及企業領導議題。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.價值觀與規範倫理學的基本概念<br>2.道德認知發展模式<br>3.道德的相對論和客觀主義<br>4.整合的領導理論<br>5.企業倫理議題<br>6.利益關係人模式<br>7.企業與員工<br>8.企業與消費者<br>9.企業的社會責任<br>10.企業與政府<br>11.領導實務賞析及運用<br>",
+        "en": "1. Basic concept of value perspective and ethic<br>2. Ethic cognitive development<br>3. Ethic relative and objectivism <br>4. Integrated leadership theory<br>5. Business ethic issue<br>6. Stakeholder model<br>7. Business and employee<br>8. Business and consumer<br>9. Business and corporate responsibility<br>10. Business and government<br>11. Leadership practice and application"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.瞭解「領導」的精神與內涵",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.運用領導理論於工作中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.Nurture future leaders of the business community",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.提升觀察、分析及批判能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5.建立企業倫理的觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

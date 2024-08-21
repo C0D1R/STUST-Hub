@@ -1,0 +1,118 @@
+{
+    "code": "10D35501",
+    "name": {
+        "zh": "進階氣壓控制技術",
+        "en": "Advanced Pneumatic Control Techniques"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控三甲",
+        "四技自控三乙",
+        "四技製造三甲",
+        "四技製造三乙"
+    ],
+    "instructors": [
+        "詹超"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "K002"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "K002"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "K002"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學習氣壓系統之設計、裝配、測試、調整及維修，內容包括能依機械動作要求設計氣壓迴路，以及能設計氣壓迴路相關的機械部分，能依氣壓迴路的動作要求設計相關的控制電氣迴路，能正確使用可程式控制器及其週邊設備。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.可程式控制器氣壓控制—平衡迴路設計<br>2.可程式控制器氣壓控制—固鎖迴路設計<br>3.可程式控制器氣壓控制—判別、移載迴路設計<br>4.可程式控制器氣壓控制—變速、釋壓迴路設計<br>5.電氣-氣壓控制—衝擊、不歸位迴路設計<br>6.機械-氣壓控制—計數反覆動作迴路設計 <br>7.機械-氣壓控制—並進、選擇迴路設計",
+        "en": "1.Pneumatic with PLC control - designs of the balanced circuit.<br>2.Pneumatic with PLC control - designs of the fixed circuit.<br>3.Pneumatic with PLC control - design of the distinguished and transfer circuit.<br>4.Pneumatic with PLC control - design of the speed vary and pressure relief circuit.<br>5.Pneumatic with electrical control - designs of the impact and non-return circuit.<br>6.Pneumatic control - designs of the counted circuit.<br>7.Pneumatic of electrical control - design of the co-forward and choice circuit.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "可程式控制器氣壓控制—平衡、固鎖迴路設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "可程式控制器氣壓控制—判別、移載迴路設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "電氣-氣壓控制—衝擊、不歸位迴路設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "機械-氣壓控制—並進、選擇迴路設計：順序模組閥之應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

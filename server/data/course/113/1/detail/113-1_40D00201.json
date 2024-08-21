@@ -1,0 +1,123 @@
+{
+    "code": "40D00201",
+    "name": {
+        "zh": "工程數學",
+        "en": "Engineering Mathematics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技化材二甲"
+    ],
+    "instructors": [
+        "毛慶豐"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "I0209"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "I0209"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "I0209"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.\t以簡單、明瞭、容易懂的編輯理念，降低學生學習工程數學的障礙，能有效的培養學生利用工程數學解決實際應用問題之能力。<br>2.\t經由與日常生活及專業課程相關之例題與習題，提高學生之學習興趣與參與，培養推理及思考之能力。<br><br>",
+    "prerequisites": "需具備微積分運算基礎。",
+    "syllabus": {
+        "zh": "第一章 一階常微分方程式<br>第二章 二階常微分方程式<br>第三章 Laplace 轉換<br>第四章 反轉換<br>第五章 矩陣與行列式<br>第六章 微分方程式系統<br>第七章 偏微分<br>",
+        "en": "Chapter 1. First order ordinary differental equations<br>Chapter 2. Second order ordinary differental equations<br>Chapter 3. Laplace transform<br>Chapter 4. Inverse Laplace transform<br>Chapter 5. Matrice and Determinant<br>Chapter 6. Linear systems of ordinary differental equations<br>Chapter 7. Partial differental equations<br>"
+    },
+    "weeklySchedule": "1. First order ordinary differential equations: weeks 1,2,3,4<br>2. Second order ordinary differential equations: weeks 5,6,7,8<br>3. Laplace transform: weeks 10, 11<br>4. Inverse Laplace transform: weeks 12, 13<br>5. Matrix and Determinant: week 14<br>6. Linear systems of ordinary differential equations: week 15<br>7. Partial differential equations: weeks 16, 17, 18<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "小考及作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能熟悉微分方程式應用於解決工程問題之程序",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能有系統的陳述及說明期末報告",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能分析及解決指定問題",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用網路或圖書館收集相關資料",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "工程數學",
+        "author": "羅文陽",
+        "publisher": "高立",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Python",
+    "rules": ""
+}

@@ -1,0 +1,115 @@
+{
+    "code": "F0N1AP01",
+    "name": {
+        "zh": "基礎影像製作與剪輯",
+        "en": "Film Producing and Nonlinear Editing"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技資傳一甲"
+    ],
+    "instructors": [
+        "吳秉澤"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "W0608"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "W0608"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "W0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學習剪輯及影片製作之技術，修課學生修習本課程後將具備影片或相片拍攝之基本能力，包含影視製作工作場域的管理及流程，器材操作包含收音、燈光、棚內外拍攝、非線性剪輯軟體Premiere Pro等專業技術能力。",
+    "prerequisites": "具基本資訊軟體操作能力及熱愛學習的精神",
+    "syllabus": {
+        "zh": "1.剪輯類別、功能與目的<br>2.剪輯的工作項目<br>3.非線性剪輯方式與設備<br>4.類比與數位剪輯方式及設備比較<br>5.非線性剪輯軟體介紹<br>6.檔案轉換與素材管理<br>7.素材的修剪及編輯<br>8.轉場及特效<br>9.字幕製作介紹<br>",
+        "en": "1.Linear and Nonlinear Editing<br>2.The Video Editing Process<br>3.Digital Based Editing System<br>4.Editing on a Digital Nonlinear System<br>5.Introduction to Adobe Premiere Pro<br>6.Chroma Keys<br>7.Digitization, Coding, and Compression<br>8.The Future of Nonlinear Editing<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "專案管理與人際溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以團隊合作的模式進行影視製作專案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習設計美學與影像創作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "影片專案的企畫與製作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

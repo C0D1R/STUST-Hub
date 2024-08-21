@@ -1,0 +1,111 @@
+{
+    "code": "1CD03202",
+    "name": {
+        "zh": "創意思考與設計方法",
+        "en": "Creative Thinking and Design Method"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技產設一乙"
+    ],
+    "instructors": [
+        "張育銘"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "X301"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "X301"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "現今的社會早已經是屬於創造力的社會，並且迎向創新世紀之際這趨勢不會有任何的減少，因此，創意與創新也使常被討論的主題、被要求的能力。，每個人、每個組織都需要創造力訓練，但是過於創意揮灑的成果，卻也可能發現一無所成。因此本課程將著重於:<br>1.嘗試導入三階段的學習方法，<br>第一階段(創意階段): 學習如何活潑、聯想、連續，創意無礙地展開創想!<br>第二階段(設計思考之階段): 學習創意如何能夠感動人!<br>第三階段(思考設計之創意): 由創意到有用的創意!<br>2.著重眼、手、心的連結，強調實驗與實作。期望同學經由好奇心、想像力、創造力的循環中，獲得無限的樂趣。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程[創意思考與設計]，為學院必修課程，強調藉由水平發散、由外向內等多元思考中，走出傳統的自我限制式思考方式，著重於培育學生創意思考的能力。同時，不期望同學只是為了創意而創意，而能逐步了解甚麼事形成[有用且感動人]的創意，因此也著重於思考[人的存在]。因此，本課程將區分為兩大項目[設計思考]與[創意思考]進行課程教學，以引導學生能夠逐步朝向[為使用者設計的創意]面向發展，以脫離為了創意而創意之思考，具體落實設計科系學生所應該具備的創意設計思考之能力。<br>本課程不是授課中傳授既有知識，相對的，期望與要求同學自己由實作中來發現，並且是由具體案例中來挖掘變化的無限可能。<br>",
+        "en": "\"This course [creative thinking and design] is a compulsory course for colleges, emphasizing the dichotomy of horizontal divergence, from the outside to the inside, and the traditional self-restricted thinking, focusing on cultivating students' creative thinking skills. At the same time, I hope that my classmates will only be creative and creative, and will gradually understand what constitutes [useful and moving] ideas, so they also focus on thinking about [personal existence]. Therefore, this course will be divided into two major projects [design thinking] and [Creative Thinking] Conducting course teaching to guide students to gradually develop towards the [creatives designed for users], to break away from the creative thinking and to implement the creative design thinking skills that design students should have.<br>This course is not to teach the existing knowledge, relative, expectation and requirement of the students themselves to discover from the implementation, and to explore the infinite possibilities of change from specific cases."
+    },
+    "weeklySchedule": "週\t日期\t課程內容<br>1\t9/10\t課程簡介與意見交換討論\t<br>2\t9/17\t個人作業_1 <br>我所認為的創意思考-從案例中思考[創意]\t<br>3\t9/24\t\t<br>4\t10/1\t\t<br>5\t10/8\t個人作業_2 設計構思的簡化與豐富之間\t<br>6\t10/15\t\t<br>7\t10/22\t\t<br>8\t10/29\t組作業_1<br>超級好書包 實務工作坊(I)<br>設計思考體驗工作坊\t11/9(六)<br>09:00~17:00<br>9\t11/5\t\t<br>10\t11/12\t\t<br>11\t11/19\t\t<br>12\t11/26\t組作業_2<br>說明主題目的與要求<br>1.\tピタゴラスイッチ(著重物理、邏輯原理)，以及作品之完成度<br>2.\t組提案\t組內討論+教師討論<br>13\t12/3\t方法構想與討論\t組內討論<br>14\t12/10\t方法構想與討論\t組內討論+教師討論<br>15\t12/17\t製作與實驗 \t組內討論<br>16\t12/24\t製作與實驗 \t組內討論+教師討論<br>17\t12/31\t成果聯合發表會\t發表(評分)<br>兩班合班發表<br>18\t1/7\t報告資料繳交\t<br>",
+    "exams": {
+        "midterm": "發表報告",
+        "final": "發表報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習學創造性思考的方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生具創造性的人格特質",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生具解決設計問題的能力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生團隊合作能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自編教材",
+    "teachingSoftware": "無",
+    "rules": "■教學與作業方式<br>首先針對主題在教師的說明之後，要求分組同學進行討論、構想、修正的巡迴過程中，最終必須做出實際的作品中演練實際操作的過程，循序演進以體驗創意實現的實際方法。<br>課題：各組選定之演練主題進行演練<br>分組：約4~5人一組，學期中之不同作業可以重新組隊<br><br>■作業與發表評分方式：<br>五次發表(三次小發表，二次大發表)，評分內容包含：教師評分(含隨班TA小老師)以及同學互評等二部分成績。發表時除了進行發表之外，所有同學必須個別對所有組別進行評分，該成績並列為各組成績的一部份。"
+}

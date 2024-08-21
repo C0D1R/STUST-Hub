@@ -1,0 +1,110 @@
+{
+    "code": "01D13X04",
+    "name": {
+        "zh": "社團活動(一)",
+        "en": "Practicum in student association"
+    },
+    "credit": "0",
+    "type": "必修",
+    "classes": [
+        "五專化材一甲"
+    ],
+    "instructors": [
+        "王江舜"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第7節",
+            "location": "I0305"
+        },
+        {
+            "day": "週三",
+            "period": "第8節",
+            "location": "I0305"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為引領五專部一年級的新生培養全人的素養、建立健全的價值觀與成熟的社交網絡，本社團活動課程將於課程中依秉社會良善風俗之價值，輔導新生針對個人的興趣、嗜好以及對未來美好生活之所需，挑選並參與本校校園內經本校學務單位合法登記之學生社團，以為五專部一年級新生培育健全人格與營建未來美好人生之基礎。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.社團介紹與選擇<br>2.社團選舉<br>3.社團參與<br>4.社團組織與領導<br>5.校內社團相關法令與規範<br>",
+        "en": "1. Association introduction and selection<br>2. Community election <br>3. Community participation <br>4. Community organization and leadership <br>5. Relevant laws and regulations of the school community<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立對校內現有社團的基本認識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立探索自身專業外興趣領域之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解社會良善風俗與社團經營之基本價值",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成立基於法治基礎之民主素養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

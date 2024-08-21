@@ -1,0 +1,115 @@
+{
+    "code": "20D1GH02",
+    "name": {
+        "zh": "AIOT應用實務",
+        "en": "Design and practice of artificial intelligence Internet of Things"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技控晶三乙"
+    ],
+    "instructors": [
+        "施嘉興"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "B401"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "B401"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "B401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "從工業4.0到智慧聯網等各項應用發展皆須要透過物聯網技術為基礎，使得各項裝置自動進行資料交換，並透過雲端智慧分析進一步整合控制與其他設備同步運作，透過本課程建立學生智慧物聯網整體系統之概念。並對于AIoT相關先進研究進行探討，並可以透過相關的設備設計規劃、開發與應用智慧物聯網技術裝置。促使增加學生系統應用與整合之能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 人工智慧物聯網介紹<br>2. 智慧物聯網應用案例<br>3. 感測層相關技術<br>4. 網路層相關技術<br>5. 人工智慧應用層相關技術<br>6. 感測資料彙整分析<br>7. 人工智慧架構<br>8. 網宇實體系統<br>9. AIoT物聯網實務設計<br>10.AIoT設計與應用小專題<br>",
+        "en": "1. Introduction of AIoT<br>2. Case study of AIoT<br>3. The technical of sensor layer<br>4. The technical of network layer<br>5. The technical of AI application layer<br>6. Collection and analysis for data<br>7. The architecture of AI<br>8. Cyber Physical System<br>9. The project design of AIoT<br>10.The practical of AIoT for final project<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備AIoT理論之專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備AIoT架構設計與應用之實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉AIoT感測資料之資訊彙整分析能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠針對需求提出AIoT整合創新的想法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

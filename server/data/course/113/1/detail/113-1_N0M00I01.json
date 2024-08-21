@@ -1,0 +1,119 @@
+{
+    "code": "N0M00I01",
+    "name": {
+        "zh": "財報分析",
+        "en": "Financial Analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩全球經管二甲"
+    ],
+    "instructors": [
+        "黃鈺娟"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "E0604"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "E0604"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "E0604"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course will provide students with both concepts of financial fundamental concept  to analyze and exploit information for understanding and forecasting corporate financial statements. The ultimate purpose is as the follows:<br>1.To present and advance students’ understanding of how to use financial statement information for firm valuation and other decisions.<br>2.To introduce related knowledge about business practices and financial reporting for students to equity valuation.<br>The main purpose of this course is to help you to learn useful financial knowledge by many fun ways.<br>本課程將為學生提供財務基本概念，以分析和利用信息來理解和預測公司財務報表。最終目的如下：<br>1.提出並提高學生對如何使用財務報表信息進行公司評估和其他決策的理解。<br>2.向學生介紹有關商業慣例和財務報告的相關知識，以進行股權估值。<br>本課程的主要目的是通過許多有趣的方式幫助您學習有用的金融知識。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1財務分析介紹<br>2財務報表<br>3財務報表解讀<br>4財金資料庫介紹<br>5.財務預測<br>6.財務預測模擬<br>7. 資本結構分析<br>8. 管理財務成長<br>9. 財務工具及市場<br>10財務決策<br>11. 現金流折現法<br>12. 財務決定之風險<br>13. 企業評價&amp;企業重組<br>14. 財務預測模擬活動總結<br>15. 財務分析報告<br>",
+        "en": "1.\tIntroduction to Financial Analysis<br>2.\tThe Financial Statements<br>3.\tThe Interpretation of Financial Statements<br>4.\tTEJ dataset<br>5.\tFinancial Forecasting<br>6.\tFinancial forecasting simulation<br>7.\tCapital Structure Analysis<br>8.\tManaging Financial Growth<br>9.\tFinancial Instruments and Markets<br>10.\tThe Financing Decision<br>11.\tDiscounted Cash Flow Techniques<br>12.\tRisk Analysis in Investment Decisions<br>13.\tBusiness Valuation and Corporate Restructuring<br>14.\tThe Sum Up Activity of Financial forecasting simulation<br>15.\tFinancial Analysis Report <br>"
+    },
+    "weeklySchedule": "The main purpose of this course is to help you to learn useful financial knowledge by many fun ways, especially in making a fortune. The instructor will focus on practical application and corporation valuation with exploring open data/online databases. How to interpret and identify reliable information is the other purpose of this course. Generally speaking, you will develop the practical skills in utilizing free online information for investing and analyzing. ESG and sustainability reports might be presented as additional information in this semester.<br><br>This course will provide students with both concepts of financial fundamental concept  to analyze and exploit information for understanding and forecasting corporate financial statements. The ultimate purpose is as the follows:<br>1.To present and advance students’ understanding of how to use financial statement information for firm valuation and other decisions.<br>2.To introduce related knowledge about business practices and financial reporting for students to equity valuation.<br><br>1.\tIntroduction to Financial Analysis<br>2.\tThe Financial Statements<br>3.\tThe Interpretation of Financial Statements<br>4.\tTEJ dataset<br>5.\tFinancial Forecasting<br>6.\tFinancial forecasting simulation<br>7.\tCapital Structure Analysis<br>8.\tManaging Financial Growth<br>9.\tFinancial Instruments and Markets<br>10.\tThe Financing Decision<br>11.\tDiscounted Cash Flow Techniques<br>12.\tRisk Analysis in Investment Decisions<br>13.\tBusiness Valuation and Corporate Restructuring<br>14.\tThe Sum Up Activity of Financial forecasting simulation<br>15.\tFinancial Analysis Report /ESG &amp;  sustainability reports <br><br>本課程將為學生提供財務基本概念的概念，以分析和利用信息來理解和預測公司財務報表。最終目的如下：<br>1.提出並提高學生對如何使用財務報表信息進行公司評估和其他決策的理解。<br>2.向學生介紹有關商業慣例和財務報告的相關知識，以進行股權估值。<br>本課程的主要目的是通過許多有趣的方式幫助您學習有用的金融知識。<br>1.財務分析簡介<br>2.財務報表<br>3.財務報表的解釋<br>4. TEJ數據集<br>5.財務預測<br>6.財務預測模擬<br>7.資本結構分析<br>8.管理財務增長<br>9.金融工具和市場<br>10.融資決定<br>11.貼現現金流量技術<br>12.投資決策中的風險分析<br>13.業務估值和公司重組<br>14.財務預測模擬的總結活動<br>15.財務分析報告<br>",
+    "exams": {
+        "midterm": "Discussion",
+        "final": "Presentation",
+        "other": "Class participation, practice and others"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "展現並整合企業的財務報告及相關知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "使用電子資料庫或網路資源取得公司商業資訊。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "運用財報分析能力於實務並展現批判思考及解決問題的能力",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養有效的溝通技巧",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Financial Statement Analysis",
+        "author": "K. R. Subramanyam",
+        "publisher": "McGraw Hill Education",
+        "year": "2014",
+        "ISBN": "9780071086837",
+        "edition": "11th"
+    },
+    "referenceBooks": "Teacher's Handout !<br>Textbook will be announced after the school begins.<br>Financial Analysis with Microsoft Excel, 9th Edition<br>Timothy R. Mayes, Todd M. Shank<br>ISBN-13: 9780357442050 | ISBN-10: 035744205<br><br>Case Studies in Finance: Managing for Corporate Value Creation (I S B N -  13 ：\t9781260083262) (8Th/Year: 2018 ) (publisher:McGraw Hill Education)",
+    "teachingSoftware": "Excel",
+    "rules": "Please follow the school regulation."
+}

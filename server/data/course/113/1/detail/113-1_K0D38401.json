@@ -1,0 +1,139 @@
+{
+    "code": "K0D38401",
+    "name": {
+        "zh": "3D角色製作技術",
+        "en": "3D Character Production Technique"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技多樂二甲"
+    ],
+    "instructors": [
+        "邵茂坤"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0609"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "W0609"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "W0609"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "3D角色製作概論、3D角色建模與佈線、3D角色UV拆解、3D角色材質貼圖製作、3D角色骨架與綁定、遊戲3D角色動作設定",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 3D角色製作概論：學習3D角色整體設計製作過程以及應用在各種產業情況。<br>2. 3D角色建模與佈線：學習建構3D角色模型、建構模型方法與各種佈線技術。<br>3. 3D角色UV拆解：學習3D角色模型UV拆解技術與角色UV編排技術。<br>4. 3D角色材質貼圖製作：學習3D角色貼圖繪製技術與材質應用方法。<br>5. 3D角色骨架與綁定：學習基礎單一3D角色模型，骨架架設技法與權重綁定技術。<br>6. 遊戲3D角色動作設定：學習遊戲角色基礎動作應用，如：走路、跑步、原地動作等。<br>",
+        "en": "1. Introduction to 3D Character Production: Learn the overall design and production process of 3D characters and apply them in various industries.<br><br>2. 3D character modeling and routing: learning to construct 3D character models, constructing model methods and various wiring techniques.<br><br>3. 3D character UV disassembly: Learn 3D character model UV disassembly technology and character UV orchestration technology.<br><br>4. 3D character texture mapping: Learn 3D character mapping technology and material application methods.<br><br>5. 3D character skeleton and binding: learning a single 3D character model, skeleton erection techniques and weight binding techniques.<br><br>6. Game 3D character action setting: learn the basic action application of the game character, such as: walking, running, in-situ action, etc."
+    },
+    "weeklySchedule": "該課程主要以3ds max軟體工具為主，以基礎的建模方式建構人物模型，從頭部、五官四肢、體態等。再進入uv拆解方法與規劃，逐步進入基礎貼圖演練實做，完成基礎人體模型與基礎貼圖應用等之後，進入骨架權重綁定，了解骨架與模型間的關係問題與操作設定等。最後進入基礎動態實作演練，達成3d人物一慣性的流程設計製作。",
+    "exams": {
+        "midterm": "繳交作業",
+        "final": "繳交作業",
+        "other": "繳交作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習3D角色整體設計製作過程以及應用在各種產業情況。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習建構3D角色模型、建構模型方法與各種佈線技術。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習3D角色模型UV拆解技術與角色UV編排技術。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學習3D角色貼圖繪製技術與材質應用方法。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習基礎單一3D角色模型，骨架架設技法與權重綁定技術。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習遊戲角色基礎動作應用，如：走路、跑步、原地動作等。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "3ds max 2022   Photoshop Substance Painter",
+    "rules": "該課程主要讓美術、程式、企劃知道3d遊戲人物在設計製作過程的各項細節規則及要求，對於後續專題製作或工作上能更具幫助。"
+}

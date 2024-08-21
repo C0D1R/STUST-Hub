@@ -1,0 +1,168 @@
+{
+    "code": "80D01202",
+    "name": {
+        "zh": "保險學",
+        "en": "Insurance"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技財金三乙"
+    ],
+    "instructors": [
+        "王靜怡"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "S413"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S413"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "S413"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.人身保險業務員",
+        "2.財產保險業務員"
+    ],
+    "description": "本課程的主要教學目標，是建立學生對保險的基本認知。在授課上，會以實務的投保流程為主軸，並配合國內相關保險法令規範，來依序說明保險的基本概念、保險公司的選擇、要保書的填寫重點等。此外，有鑑於學生可能面臨機車交通事故風險，所以也會介紹強制第三人責任險的運作及相關規定。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一 保險基本概念<br>二 保險契約的組成<br>三 保險契約<br>四 保險的基本原則<br>五 保險費基本概念<br>六 人壽保險<br>",
+        "en": "Leuture 1: Introduction to Insurance<br>Lecture 2: Elements of a Valid Contract<br>Lecture 3 Insurance Contracts<br>Lecture 4 Basic Principles of Insurance<br>Lecture 5 Basic Concepts of Insurance Premium<br>Lecture 6 Life Insurance Fundamentals"
+    },
+    "weeklySchedule": "1-4週    保險契約的主體<br>5-8週    保險的要素<br>9週      期中考<br>10-15週  保險契約適用的基本原則<br>16週     強制汽車責任保險<br>18週     期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解保險的基本學理",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－課堂問答"
+                },
+                {
+                    "method": "平時",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能釐清保險的損失填補功能與其他金融理財工具的不同",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－課堂問答"
+                },
+                {
+                    "method": "平時",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將保險原理及法規應用於保險實務",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－課堂問答"
+                },
+                {
+                    "method": "平時",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能初步具備將保險的風險理財與一般金融的投資理財予以統整的能力",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－課堂問答"
+                },
+                {
+                    "method": "平時",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "1.課程詳細評分方式，將於第一節上課說明，並公告於FlipClass。爾後若有修正，亦會於課堂隨時說明，並隨後公告，故請同學確實到課並注意課程公告.<br>2.課程成績評量相當重視出席率，請多加注意。"
+}

@@ -1,0 +1,131 @@
+{
+    "code": "40M12X01",
+    "name": {
+        "zh": "論文與專利寫作暨學術倫理",
+        "en": "Scientific paper and patent writing and the related academic integrity"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研化材一甲"
+    ],
+    "instructors": [
+        "林鴻儒"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "I0706"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "I0706"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "I0706"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "讓學生瞭解如何從事科技論文及專利寫作，在課堂上實際進行研擬。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 什麼是科學論文<br>2. 如何準備題目<br>3. 如何準備摘要<br>4. 如何寫前言<br>5. 如何寫材料與方法<br>6. 如何寫結果<br>7. 如何寫討論的部份<br>8. 如何標註參考文獻<br>9. 專利寫作<br>10. 學術倫理之概念與案例<br>",
+        "en": "1. What is a scientific paper<br>2. How to prepare the title<br>3. How to prepare the abstract<br>4. How to write the introduction<br>5. How to write the materials and methods section<br>6. How to write the results<br>7. How to write the discussion<br>8. How to cite the references<br>9. Writing a patent<br>10. The concept of academic integrity and the related cases<br>"
+    },
+    "weeklySchedule": "1. 什麼是科學論文(第1週)<br>2. 如何準備題目(第2週)<br>3. 如何準備摘要(第3週)<br>4. 如何寫前言(第4週)<br>5. 如何寫材料與方法(第5週)<br>6. 如何寫結果(第6週)<br>7. 如何寫討論的部份(第7週)<br>8. 如何標註參考文獻(第8週)<br>9. 期中報告(第9週)<br>10.專利寫作(第10-11週)<br>11.學術倫理(第12-13週_<br>11.課堂上實際進行研擬(第14-17週)<br>12.期末報告(第18週)<br>",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學術論文的概念與寫作技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "專利的概念、相關法規與寫作技巧",
+            "teachingMethods": [
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學術倫理的定義與內涵、專業規範與個人責任",
+            "teachingMethods": [
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用網際網路平台收集中英文相關資料並研讀吸收",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "在特定材料議題具備獨立解決問題的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

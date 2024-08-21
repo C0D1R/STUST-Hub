@@ -1,0 +1,128 @@
+{
+    "code": "1DD0AO02",
+    "name": {
+        "zh": "直播與個媒體經營",
+        "en": "Live Webcast and Media management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技流音三乙"
+    ],
+    "instructors": [
+        "楊紹文"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "W0902"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0902"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0902"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "科技發展與時代變遷，對於傳統媒體與自媒體(self-media)的知識是有志投身流行音樂產業時不可獲缺的技能。本課程欲透過讓學生了解各式傳統媒體(電台與電視)與自媒體(Youtube、FB、IG、微博等)的成因、歷史沿革、管理經營與拍攝技巧，再搭配課堂講師授課、業師產業命題、影片分析、實際搭建自媒體的平台與課後檢討，期許學生成為優秀的自媒體經營者。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.什麼是自媒體與傳統媒體？<br>2.自媒體經營與管理<br>3.自媒體直播與行銷實務",
+        "en": "1.What is Live Webcast? Why is it important for music industry?<br>2.Live webcast and traditional media management<br>3.Research and planning: The preparation for streaming your music online."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解直播技術與媒體經營之核心概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解直播與媒體對於行銷之應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養資料分析與彙整能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養創意思考能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養經營自媒體之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

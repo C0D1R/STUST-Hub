@@ -1,0 +1,139 @@
+{
+    "code": "C0D5E501",
+    "name": {
+        "zh": "英語口語訓練",
+        "en": "Basic English Listening and Speaking Practice"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應英一甲"
+    ],
+    "instructors": [
+        "史帝夫"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0407"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0407"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This is the core course in improving and practicing English listening and speaking skills, which develops from Year 1 to Year 3.<br>Students will be able to increase their ability to speak, listen and communicate effectively in English.<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "學生透過課堂上的英語聽和說活動，將提高英語的聽和說能力。學生將改善發音，且有能力將語言應用於日常情境，並使用到學生直接感興趣的主題中。要求學生在所有課堂活動中以及準備課堂中使用的報告，演示文稿和角色扮演時都使用英語。",
+        "en": "Students will develop listening and speaking ability in English, using English listening and speaking activities in class. Students will improve pronunciation, will identify and use language for everyday contexts, and will identify and apply language for topics of immediate interest to students. Students will be expected to use English in all class activities and in preparing reports, presentations, and role plays for use in class."
+    },
+    "weeklySchedule": "Listening and speaking exercises related to a variety of everyday topics, such as making small talk, describing people, accommodations, and locations, and talking about news items and recent events (and so on).",
+    "exams": {
+        "midterm": "Listening Test, Oral Test",
+        "final": "Listening Test, Oral Test",
+        "other": "Quizzes, Homework Assignments"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備聽和理解英語口語的能力",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能夠說出有效的英語",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能夠辨識和使用廣泛的語言",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠辨識和使用熟悉和不熟悉主題的語言",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Vibe Book 2",
+        "author": "Lambert, S.",
+        "publisher": "Caves Books Ltd.",
+        "year": "2017",
+        "ISBN": "978-957-606-831-7",
+        "edition": "1"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

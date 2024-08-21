@@ -1,0 +1,137 @@
+{
+    "code": "01D13I07",
+    "name": {
+        "zh": "基礎專業英文(C)",
+        "en": "English Communication for Specific Purposes"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技自控二甲",
+        "四技自控二乙",
+        "四技車輛二甲",
+        "四技車輛二乙"
+    ],
+    "instructors": [
+        "陳憶綺"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "K510"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "K510"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "1.TOEIC",
+        "2.BULATS"
+    ],
+    "description": "延續大一的英文課程，加強單字能力，增加口語、閱讀練習份量，熟悉專業所需之英文基礎，並進一步加強專業英文聽說讀寫能力及英文檢定測驗之準備工作，以符不同領域內的職場英語需求。",
+    "prerequisites": "1. 本校設有學生免修外語課程實施要點，考取要點中所述之外語能力檢定成績可申請免修。詳情請參閱：http://my.stust.edu.tw/sys/read_attach.php?id=2281382\n\n2. 本課程除正課外，尚有外語自學中心使用時數等相關規定。",
+    "syllabus": {
+        "zh": "基礎專業英文課程分為四大領域─<br>1. Engineering工程 (工學院各科系)<br>授課單元：<br>(1) 資訊傳遞與網路世界 <br>(2) 英語商務會議用語<br>(3) 產品介紹及工作報告 <br>(4) 英語信件往來與電話溝通技巧 <br>(5) 工作進程敘述 <br>(6) 制定工作計畫  <br>(7) 業務銷售討論與訂購產品 <br><br>2. Hospitality &amp; Tourism餐飲&amp;旅遊(幼保系、餐旅系、休閒系、日語系)<br>授課單元: <br>(1) 處理來電與信件往來<br>(2) 顧客與飯店的相關資訊 (訂位、詢問、接待)<br>(3) 飯店設施與服務<br>(4) 餐飲相關服務內容<br>(5) 指引方向<br>(6) 解釋交通工具的選擇<br>(7) 滿足客戶需求<br><br>3. Business &amp; Management商務&amp;管理 (企管系、管資系、財金系、國企系、行流系、會資系、企電學程)<br>授課單元:<br>(1) 工作英語面試<br>(2) 自信社交溝通<br>(3) 電話溝通技能<br>(4) 求職英語<br>(5) 商業英語書信<br>(6) 有效的英語簡報<br><br>4. Workplace職場 (資傳系、多樂系、產設系、視傳系)<br>授課單元:<br>(1) 求職及職務相關英語<br>(2) 英語面試應對<br>(3) 新人報到與交際<br>(4) 英語商務電話<br>(5) 商務會議用語<br>(6) 報告工作進度<br>(7) 業務銷售與訂單事宜討論<br>",
+        "en": "The Four Divisions: <br>1. Engineering <br>(1) Information &amp; Using the Internet<br>(2) English Meetings <br>(3) Reporting, Presentation, and Giving an Update<br>(4) Communication via E-mails and Phone Calls<br>(5) Progress Narrations<br>(6) Making Work Plans<br>(7) Discussing Sales &amp; Orders<br><br>2. Hospitality &amp; Tourism<br>(1) Dealing with Calls and Correspondence<br>(2) Customer Information (Bookings, Enquires, and Reception)<br>(3) Hotel Facilities &amp; Service<br>(4) Serving Food &amp; Drinks <br>(5) Giving Directions &amp; Knowing Your Region<br>(6) Explaining Travel Options <br>(7) Meeting Customer Needs <br><br>3. Business &amp; Management <br>(1) Job Interviews <br>(2) Socializing with Confidence <br>(3) Communication on the Phone <br>(4) Job Hunting <br>(5) Business Writing<br>(6) Powerful Presentations<br><br>4. Workplace <br>(1) Looking for a Job<br>(2) Job Interviews <br>(3) The First Day of Work <br>(4) Telephone Communication<br>(5) Business Meeting <br>(6) Reporting Work Progress <br>(7) Sales Discussion &amp; Placing Orders"
+    },
+    "weeklySchedule": "Week        Unit <br>1            Introduction Week <br>2            Unit 2 An Important Visitor  (9/17 (二)中秋節放假) <br>3            Unit 2 An Important Visitor   (一頁式簡報介紹)<br>4            Unit 3 What’s on the Agenda<br>5            Unit 4 That’s a Great Idea   (10/10(周四國慶日放假))<br>             (練習心智圖)<br>6            Unit 4 That’s a Great Idea (句型練習1)<br>7            Unit 5 I’ll Call You Back (句型練習2)<br>8            Unit 6 Can I Get There on Foot?<br>9            10/30-11/3期中考筆試<br>             (一頁式簡報簡報初稿繳交)<br>10           Unit 7 Best Wishes, Thomas Kale (4/10-26期中預警輸入)<br>11           Unit 8 That’s a Good Question\t(AI修稿)<br>12           Unit 9 What was His Major?  (AI讀稿輔助)<br>13           Unit 10 Tell Me about Yourself<br>14           Unit 10 Tell Me about Yourself  自學檢核測驗(課堂上實施)<br>15           Unit 11 They’re too Expensive  (上台練習)<br>16           Unit 11 They’re too Expensive *  (上台練習) <br>             (繳交一頁式簡報完稿)<br>17           一頁式簡報口試 (1/1(三)元旦放假)<br>18           期末考周筆試 <br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試 +口試",
+        "other": "不定期小考測驗"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備專業英語基本知能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習各國文化",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習英語聽說讀寫實務溝通技能",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習以英語應對職場情境需求",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "具備人文素養及省思能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Get Ready for International Business 2",
+        "author": "Andrew Vaughan & Dorothy E. Zemach",
+        "publisher": "文鶴書局",
+        "year": "2013",
+        "ISBN": "978-0-230-44791-2",
+        "edition": "1"
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "Reading COach\nGrammarly\nChatGPT\nElevenlabs",
+    "rules": "本課程及重視出席率、課程參與程度以及自學中心時數，請盡力配合!<br>平時成績\t30% (作業12% /缺曠10% /測驗練習8%)<br>期中考\t20%\t筆試 (閱讀測驗取材自課本)<br>期末考\t20%\t筆試 (閱讀測驗取材自課本)<br>自學任務\t10%\t<br>自學檢核測驗\t10%\t統㇐第 14 週於課堂測驗，缺考者統㇐時間補考。<br>一頁式簡報口試\t10%\t以自主閱讀素材為內容做實體簡報介紹。一分30秒為限。需搭配自製簡報投影片展演。讀稿者最高70分。背稿亦可!<br>"
+}

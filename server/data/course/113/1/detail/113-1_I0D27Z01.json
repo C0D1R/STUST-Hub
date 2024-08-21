@@ -1,0 +1,111 @@
+{
+    "code": "I0D27Z01",
+    "name": {
+        "zh": "專業英文",
+        "en": "English for Early Child Care and Education Profession"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技幼保三甲"
+    ],
+    "instructors": [
+        "黃美菁"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "T0109"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "T0109"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "本課程在讓學習者瞭解幼兒教保專業相關英文，進而學會應用幼兒教保專業英文，符合教保業界所需之英文能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.瞭解幼兒常用及學習之英文。 2. 佈置英文教學環境。3.運用班級經營管理之英文。 4.驗證整合其他教保專業相關英文",
+        "en": "1.Understand English used and learned by young children. 2.Decorate teaching environment in English. 3. Utilize English for class management. 4. Comphrend English related topics for early child care and education Profession"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解幼兒常用及學習之英文",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "佈置英文教學環境",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用班級經營管理之英文",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "驗證整合其他教保專業相關英文",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

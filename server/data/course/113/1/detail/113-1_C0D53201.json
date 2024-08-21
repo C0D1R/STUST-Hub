@@ -1,0 +1,122 @@
+{
+    "code": "C0D53201",
+    "name": {
+        "zh": "英文文法與修辭(一)",
+        "en": "English Grammar and Rhetoric(I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應英一甲"
+    ],
+    "instructors": [
+        "劉恬伶"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "N504"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "N504"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要是要透過各種練習與活動讓學生擁有清晰的基本英文文法觀念與運用能力，以期日後在教學或商務場合能運用流暢且適當的英語語文和詞彙。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "ㄧ、英文基本詞類介紹。<br>二、基本句型介紹。<br>三、文章選讀與文法分析。<br>四、英文修辭訓練。<br>",
+        "en": "Frist, introduction to basic parts of speech in English. <br><br>Second,introduction to basic sentence patterns. <br><br>Third, articles readings and grammar analyses. <br><br>Fourth, English rhetoric training."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能運用標準英文句子於口說或寫作中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能確認英文重要結構要素，進而理解再對話中或閱讀之文章的內涵。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解不同英文句子結構的運用場合，如：教學或是商務場合之表達方式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用及分析不同英文句子結構的運用場合，如：教學或是商務場合之表達方式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能善用電腦軟體於文法教材之編寫。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

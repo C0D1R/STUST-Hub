@@ -1,0 +1,115 @@
+{
+    "code": "G0D17L01",
+    "name": {
+        "zh": "基礎程式設計(二)",
+        "en": "Programming Basics (II)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專資工二甲"
+    ],
+    "instructors": [
+        "吳東興"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "C105"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "C105"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "C105"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "程式設計是資訊工程學生的基礎課程，本課程希望帶領學生瞭解程式語言並學習程式設計，此課程主要以教授C語言為主。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 程式設計概述<br>2. C語言簡介<br>3. 基本資料型態<br>4. 格式化的輸出與輸入<br>5. 運算子、運算式與敘述<br>6. 選擇性敘述<br>7. 迴圈<br>8. 函數<br>9. 陣列與字串<br>10. 指標<br>11. 結構與其它資料型態<br>12. 檔案處理",
+        "en": "1. Introduction<br>2. C Program Language<br>3. Basic Data Types<br>4. Formatted Input and Output<br>5. Operator, Expression and Statement<br>6. Selection Statement<br>7. Loop<br>8. Function<br>9. Array and String<br>10. Pointer<br>11. Struct and other Data Types<br>12. File Handling"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解程式執行的流程與開發環境",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能用程式開發環境進行程式的開發與除錯",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將想法轉換成計算機程式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能敘述說明程式的運作，並能閱讀相關文件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

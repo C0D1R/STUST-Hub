@@ -1,0 +1,140 @@
+{
+    "code": "1LD07F01",
+    "name": {
+        "zh": "西班牙旅遊",
+        "en": "Travel around Spain"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "王鶴巘"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "W0504"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "W0504"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "W0504"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "西班牙位於歐洲西南端的伊比利半島，自古以來就是連繫歐非的交通要道，加上陽光充足，擁有舒適的地中海氣候，自然吸引了無數來自歐洲和世界各地的觀光客，許多人稱西班牙為陽光的國度。本課程我們從介紹西班牙地理位置，就像是唐吉歌德在伊比利半島冒險前進，拜訪各地歷史文化、鬥牛、節慶、佛朗明哥舞蹈、認識普拉多美術館、文學家、藝術家與其作品。未來學生如有機會去西班牙旅遊，即可印證上課所學到的地理、文化、美術、音樂舞蹈等知識。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t 西班牙簡介<br>2.\t 西班牙地理<br>3.\t 西班牙歷史<br>4.\t 西班牙節慶、民俗文化<br>5.\t 西班牙藝術:普拉多美術館、高第建築<br>6.\t 西班牙繪畫: Velázquez, Goya, Picasso, Dalí, Miró. Etc. <br>7.\t 佛朗明哥舞蹈<br>8.\t 西班牙鬥牛(Las corridas de toros)、騎馬鬥牛(Rejoneo)<br>9.\t 西班牙美食<br>",
+        "en": "1.\t Introduction to Spain<br>2.\t Spanish geography<br>3.\t Spanish history<br>4.\t Spanish festivals and folk culture<br>5.\t Spanish Art: Prado Art Museum, Gaudí Architecture<br>6.\t Spanish painting: Velázquez, Goya, Picasso, Dalí, Miró. Etc.<br>7.\t Flamenco dance<br>8.\t Spanish bullfighting (Las corridas de toros), riding bullfighting (Rejoneo)<br>9.\t Spanish cuisine<br>"
+    },
+    "weeklySchedule": "(1) 請確認自己是否能整學期上課。中途有任何原因無法到班上課，請不要要求老師不記曠課。一切依校規處理。<br>(2) 請購買上課指定用書:西班牙文化。<br><br>本課程選修學生的條件之一: 母語是中文，或中文聽說讀寫沒問題者。<br>教學課程說明。             <br>週次       授課內容\t                       授課方式<br>1 西班牙語言與文化翻轉教學授課方式說明\t面授<br>2 西班牙語和卡斯提亞語\t                <br>3 認識西班牙、西班牙人                  <br>4 首都:馬德里                                          <br>5 第二大城:巴塞隆納                      <br>6 北部地區與朝聖之路                <br>7 佛朗明歌舞蹈                                           <br>8 西班牙鬥牛(一)                     \t<br>9 南臺期中考週 <br>10 鬥牛之(二):騎馬鬥牛                 <br>11 西班牙節慶                            <br>12 南部地區:安達魯西亞                <br>13 西班牙美食                       <br>14 西班牙歷史                         <br>15 西班牙藝術(一)                    <br>16 西班牙藝術(二)                       <br>17 西班牙文學                           <br>18 南臺期末考 <br><br> 西班牙語是世界上第二大官方語言。近年來墨西哥已取代中國成為美國第一大貿易國，且緊鄰美國，如今全球企業在墨西哥設廠、創業已是趨勢，這也在在顯示現代經貿不只英文，更需要能說西班牙語的人才。",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "隨堂測驗"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立人文藝術的基本知能。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "使用其學習或研究，提出創新思維。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "運用自己對本土及國際文化的理解。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "組織合宜語文來表達。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能具備人文藝術涵養，於生活中展現個人氣質。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "西班牙文化",
+        "author": "王鶴巘",
+        "publisher": "五南圖書公司",
+        "year": "2021",
+        "ISBN": "978- 986-522-393-9",
+        "edition": "一版"
+    },
+    "referenceBooks": "1.西班牙萬歲，陳佩周著，民生報社，台北，83年5月初版<br>2.乾杯！西班牙陽光，陳佩周著，聯經，台北，82年7月初版<br>3.西班牙，余欲弟、王同禹譯，台灣英文雜誌社，台北，81年3月初版<br>4.追憶西班牙，徐鍾珮著，純文學，81年8月初版8刷<br>5.鬥年的國度，顧衍時著，躍昇，北縣，81年2月初版<br>",
+    "teachingSoftware": "1. 聽講、輔助設備教學(錄音、影帶、powerpoint等)、自編講義、多媒體器材，配合學校網路教學平台(Flip Class)達到學生自我學習的目標.\n2. 老師會將授課內容上傳至網路教學平台(Flip Class)，同學多加利用。",
+    "rules": "本課程選修學生的條件之一: 母語是中文，或中文聽說讀寫沒問題者。<br>方式:<br>面授時間:每週最後請同學上網至「Flip Class線上測驗」，針對本週課程主題的認識作一自我評量，或於討論區寫下學習心得。<br>評量標準<br>1.課堂會點名，每週隨堂測驗，期中(20%)、期末考試(20%)，PPT簡報 6-8 分鐘(30%，任何與西班牙文化有關主題，必須上台口頭報告，否則0分)，平時(30%出席、學習態度)。<br>2. 加退選期間，請同學仔細衡量自己時間，意願決定是否選本課程。<br>3. 缺課達1/4，亦即 18(週) x 3 = 54(節)  54 x 1/4 = 13.5 (以14節計算)，平時成績(30%)將不及格。超過九週(含) 9 x 3 = 27節缺課，學期成績0分。<br>4. 一切成績以是否完成老師的課程要求來考核評量。"
+}

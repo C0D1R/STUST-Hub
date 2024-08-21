@@ -1,0 +1,132 @@
+{
+    "code": "10D35L01",
+    "name": {
+        "zh": "產業概況與技術需求",
+        "en": "Industry Overview and Technical Requirements"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控四甲",
+        "四技自控四乙",
+        "四技製造四甲",
+        "四技製造四乙",
+        "四技車輛四甲",
+        "四技車輛四乙"
+    ],
+    "instructors": [
+        "陳冠仁"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "K401"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "K401"
+        },
+        {
+            "day": "週五",
+            "period": "第9節",
+            "location": "K401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "針對產業學業的重點就業場域，教導同學進入金屬製造業及熱處理技術產業應具備之基本技術需求，同時介紹目前產業狀況與發展前景，十分適合同學進入基礎產業領域擔任儲備幹部。本課程主要會邀請參與本計畫的業界講師講授該公司的現況、所需要的基礎技術與態度、公司願景與人才需求，讓同學做好適當的職前教育與職場認識，達到學界與產業界無縫接軌，畢業前即順利就業之目的。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 金屬製造業與熱處理技術產業的重要性。<br>2. 職場自我導向學習能力、態度與準備程度。<br>3. 合作企業簡介與人才技術規劃。<br>4. 金屬製品產業之製程技術介紹。<br>5. 產業發展趨勢與實務技術需求。<br>6. 職場體驗與學習參與。",
+        "en": "1. The importance of metal manufacturing and heat treatment technology industry.<br>2. Self-directed learning ability, attitude and preparation in the workplace.<br>3. Introduction to the cooperative enterprise and talent technology planning.<br>4. Introduction to the manufacturing process technology of the metal products industry.<br>5. Industry development trends and practical technical requirements.<br>6. Workplace experience and learning participation."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解金屬製造與熱處理技術產業的重要性與產業發展前景",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備金屬製造與熱處理加工從業人員之製程技術概念與專業態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解金屬製造與熱處理技術產業的技術需求與人才需求",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能完成金屬加工與熱處理產業的職場認識體驗與工安倫理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解金屬製造與熱處理產業專用之英文術語",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

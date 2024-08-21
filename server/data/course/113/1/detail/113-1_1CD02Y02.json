@@ -1,0 +1,188 @@
+{
+    "code": "1CD02Y02",
+    "name": {
+        "zh": "創思設計實務(一)(B)",
+        "en": "Innovative Design Practice"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "四技產設三甲",
+        "四技產設三乙"
+    ],
+    "instructors": [
+        "劉大琦"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "X101"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "X101"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "X101"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "(A)-透過產品案例研究及實際設計練習，全方面培養修課學生產品設計之能力。<br>(B)-對世界生活小家電產品做市場調研，提出創新應用的設計提案。必需有實際的使用體驗與簡單的樣機拆解分析，希望能做到簡單可操作組立的可用原型與外觀概念，期末完成整個設計過程的影片來介紹作品。<br>(C)-本課程主要與鄰近醫院進行合作，帶領學生進入實際場合，並導入設計思考的概念。本課程將由最基本的醫療倫理談起，並帶領學生訪談與觀察，設計與問題分析，最後進行測試與評估，期末設計出具有實用性的健康照護互動產品。<br>(D)-本課程將以設計思考為基礎，觀察社會議題與分析，以使用者為中心的系統設計方法，透過使用者行為觀察、創意發想、原型製作與測試、介面實作與收斂，目標以使用者為中心的設計與經驗為主。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(A)深入產品使用者分析、概念發想，並結合設計趨勢及設計論之分析研究及相關設計軟體運用，培養修課學生之產品設計進階能力。<br>一、使用者經驗分析<br>二、設計企畫<br>三、概念發想＆評估<br>四、模型製作＆色彩計畫<br>五、3D模型繪製<br>六、精模製作<br>七、展示設計<br>(B)<br>1.小家電歷史研究與市場調查<br>2.生活小家電使用體驗觀察<br>3.劇本式創新構想發展與設計原型探討<br>4.樣機拆解分析與產品實驗<br>5.外觀設計與造型語彙定義<br>6.影片設計提案報告<br>(C)<br>1.醫學倫理介紹 <br>2.訪談與觀察<br>3.訪談實作<br>4.問題分析與討論<br>5.實驗設計<br>6.測試與評估<br>(D)<br>1.使用者為中心設計<br>2.議題分析<br>3.使用者需求與情境故事<br>4.功能架構的探討<br>5.使用介面操作原型與模擬<br><br><br><br>",
+        "en": "(A)<br>1. The analysis of product and marketing relationship.<br>2. Design planning &amp; Proposal.<br>3. Concept development and evaluation.<br>4. Mockup sample and color planning.<br>5. 3D modeling &amp; Rendering.<br>6. Appearance mockup sample.<br>7. Display design.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "(A)使用者經驗分析、精模製作 (B)小家電創新運用與實驗 (C)能了解健康照護互動產品設計基礎學理 (D)使用者經驗設計流程學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "(B)影片實演介紹與簡報製作 (C)能訓練現有產品分析與建議改進的能力 (D)情境影片剪輯學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "(A)3D模型繪製 (B)3D外觀設計建構與簡單構造組立設計 (D)軟體與硬體流程設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "(A)概念發想＆評估 (B)產品2D精描彩繪",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "(A)設計企畫 (C)能訓練企劃與提報的整合能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "(B)劇本式腦力激盪 (C)能養成時時觀察、研究自身生活環境的能力 (D)啟發式評估和資訊架構設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "(C)能理解醫學倫理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "(B)創新設計簡報 (D)每一階段驗證與成果的發表",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "(A)模型製作＆色彩計畫 (B)團隊生活家電使用體驗設計原型製作 (C)能培養團隊合作的能力 (D)小組共同訪談、驗證與設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "(A)展示設計 (B)家電品牌語彙研究",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,105 @@
+{
+    "code": "30D1FD01",
+    "name": {
+        "zh": "基礎數學演練(一)",
+        "en": "Basic Mathematics Practice (I)"
+    },
+    "credit": "1",
+    "type": "系定選修",
+    "classes": [
+        "五專電子一甲"
+    ],
+    "instructors": [
+        "傅俊結"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "I0207"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "1"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "面對工作場域中越來越多的技術與專業挑戰，基礎的數學知識和技能是每位五專學生不可或缺的能力。《基礎數學演練(一)》旨在為學生提供一個全面且實用的數學基礎，使他們在未來的學術或職業生涯中都能夠有所應用。<br><br>此課程深入介紹數學的基礎概念，從基礎的代數到較複雜的公式和定理。透過豐富的課堂活動和實務練習，學生將學會如何有效地使用這些知識來解決實際問題。此外，這個課程也注重培養學生的批判思考能力和解決問題的技巧。<br><br>學生將獲得均衡的理論知識和實際操作經驗，使他們在工作場域中能夠更好地應對各種挑戰。總之，此課程為學生提供了一個完整的數學學習體驗，使他們在未來的生活中能夠更自信地面對各種問題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "數的基礎<br>代數的原理與應用<br>幾何形狀與性質<br>數列與級數<br>函數的基礎<br>基礎統計與概率<br>",
+        "en": "Fundamentals of Numbers<br>Principles and Applications of Algebra<br>Geometric Shapes and Properties<br>Sequences and Series<br>Basics of Functions<br>Basic Statistics and Probability"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習和掌握數學的基礎知識，並能夠熟練運用於實際問題中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過各種練習和問題解決，培養學生的邏輯思考和批判性思考能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解數學如何與日常生活和工作場域中的實際情境結合。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "鼓勵學生主動參與學習，培養他們的自主學習和終身學習的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

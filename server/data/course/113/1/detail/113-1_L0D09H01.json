@@ -1,0 +1,139 @@
+{
+    "code": "L0D09H01",
+    "name": {
+        "zh": "科技專利與專案管理概論",
+        "en": "Introduction to Patent Practice and Project Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技半導體三甲"
+    ],
+    "instructors": [
+        "陳瑞堂"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "R502"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "R502"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "R502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "科技專利部份主要教授智慧財產權的內容與重要性，包括專利權、商標權及著作權等等。接下來再針對『專利權』重點作深入的探討與介紹，讓選修本課程同學了解專利權相關法規、制度與檢索技巧，並藉由專利申請的實作練習，來訓練同學的學習專利權的申請與產業實務應用。<br><br>專案管理部份主要教授PMBOK所規範的知識：專案生命週期、九大專案管理知識領域、五個專案管理流程等，與專案管理所需的相關工具和方法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "科技專利部份<br>01智慧財產權內容與重要性介紹<br>02智慧財產權制度與相關法規簡介<br>03專利權制度與法規介紹<br>04專利檢索技巧與應用<br>05專利創作實務示範與實作訓練<br>06專利地圖的重要性與研發之應用<br>專案管理部份<br>01專案管理架構與生命週期<br>02專案整合管理<br>03專案範疇管理<br>04專案時間管理<br>05專案成本管理<br>06專案品質管理<br>07專案人力資源管理<br>08專案溝通管理<br>09專案風險管理<br>10專案採購管理",
+        "en": "Patent Practice Outline<br>01 Introduction of Taiwan Intellectual Property and Its Applications in Industry.<br>02 Introduction to Taiwan Intellectual Property System and Acts.<br>03 Introduction to Taiwan Patent System and Patent Acts. <br>04 Introduction to Patent Search Technology.<br>05 Demonstration and Show Some Prior Patent Examples to Students, including: (1) Show Some Excellent Invention Patents and Utility Model Patents to Explain How to Write the Patent Application Documents; (2) Practical Training and Homework.<br>06 Introduction to the Importance and Application of Patent Map.<br>Project Management Outline<br>01 project management framework and life cycle<br>02 project integration management <br>03 project scope management<br>04 project time management<br>05 project cost management<br>06 project quality management<br>07 project human resource management<br>08 project communication management<br>09 project risk management<br>10 project procurement management"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解專利權的特性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解如何申請專利",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解專利申請的技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備專利檢索能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解專案管理之意義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解專案的風險評估",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

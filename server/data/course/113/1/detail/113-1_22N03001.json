@@ -1,0 +1,127 @@
+{
+    "code": "22N03001",
+    "name": {
+        "zh": "MatLab工程應用",
+        "en": "The Engineering Applications of Matlab"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技電機四甲"
+    ],
+    "instructors": [
+        "汪輝明"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "B401"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "B401"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "B401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹MATLAB的基本原理、操作、運算以及數據的視覺化處理、圖形繪製與修飾、數據處理、數值計算、符號計算等；並透過範例介紹MATLAB的矩陣運算、符號運算、圖形功能以及程式設計等方面的內容。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. MATLAB使用入門<br>2. MATLAB數值計算<br>3. MATLAB數值分析<br>4. 圖形處理功能<br>5. 圖形處理進階技術<br>6. MATLAB程式設計<br>7. Simulink 使用入門<br>8. Matlab 之進階應用",
+        "en": "1. Introduction of Matlab<br>2. Numerical calculation of Matlab<br>3. Numerical analysis of Matlab<br>4. Basic plot function of Matlab<br>5. Advanced plot function of Matlab<br>6. Programming design of Matlab<br>7. Simulink<br>8. Advanced technique of Matlab"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學會開啟及儲存MATLAB的程式檔(M檔案)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解MATLAB的線上求助功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解MATLAB的繪圖功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解MATLAB的向量和矩陣運算功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解MATLAB的程式控制流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

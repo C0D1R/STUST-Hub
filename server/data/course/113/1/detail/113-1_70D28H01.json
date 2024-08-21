@@ -1,0 +1,148 @@
+{
+    "code": "70D28H01",
+    "name": {
+        "zh": "經營實務應用",
+        "en": "Business Practice Application"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技企管四甲",
+        "四技企管四乙"
+    ],
+    "instructors": [
+        "林義旭"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S207"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "S207"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "S207"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學生可明瞭說好故事的元素與關鍵，如何使用故事行銷個人、行銷理念、行銷產品、行銷品牌以及故事行銷腳本製作等，邀請各產業別品牌創業負責人實地分享實務應用與品牌創業執行。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 故事行銷個人、行銷理念、行銷產品、行銷品牌<br>2. 故事行銷腳本製作<br>3. 產業別品牌創業實務應用<br>4. 產業別品牌創業執行<br>5. 品牌行銷技能<br>6. 創業經營與數位行銷工作的實務技能",
+        "en": "1. Story Marketing Personal, Marketing Ideas, Marketing Products, Marketing Brands<br>2. Story Marketing Script Production<br>3. Practical application of industry-specific brand entrepreneurship<br>4. Industry-specific brand entrepreneurship execution<br>5. Brand Marketing Skills<br>6. Practical skills for entrepreneurial management and digital marketing<br>"
+    },
+    "weeklySchedule": "(1) 訓練學生說故事的能力<br>(2) 建立實務面之行銷技能<br>(3) 認識經營與數位行銷工作的實務技能。",
+    "exams": {
+        "midterm": "無",
+        "final": "無",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "訓練學生說故事的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "建立實務面之說品牌行銷技能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "認識經營與數位行銷工作的實務技能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "企劃實務與整合的實務技能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,115 @@
+{
+    "code": "G0D01302",
+    "name": {
+        "zh": "數位系統導論",
+        "en": "Foundations of Digital Systems"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資工一乙"
+    ],
+    "instructors": [
+        "陳福坤"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "D302"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "D302"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "D302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將對一般數位系統的設計理念做循序漸進的探討",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1 數目系統與數碼<br>2 交換代數<br>3 數位積體電路<br>4 交換函數化簡 <br>5 邏輯閘層次電路設計<br>6 組合邏輯電路模組設計 <br>7 同步序向邏輯電路<br>8 計數器與暫存器",
+        "en": "1 Number System and Digital Coding<br>2 Switching Algebra<br>3 Digital Integrated Circuit<br>4 Simplification of Switching Functions<br>5 Gate-Level Circuit Modelling <br>6 Modular Combinational Logic Design<br>7 Synchronous Sequential Circuits<br>8 Counters and Registers<br>"
+    },
+    "weeklySchedule": "第 1 章 數值系統<br>第 2 章 數值表示法<br>第 3 章 數位邏輯元件<br>第 4 章 布林代數與邏輯電路<br>第 5 章 組合電路<br>第 6 章 循序電路<br>第 7 章 移位暫存器<br>第 8 章 計數器<br>第 9 章 硬體描述語言<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "平時不定時隨堂考、抽考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能解析數位系統的邏輯電路",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能撰寫數位系統專題的書面報告",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能用軟體製作數位系統的電路",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能接受數位系統的英文專業術語",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "數位邏輯設計",
+        "author": "陳培殷、林宜民",
+        "publisher": "滄海圖書",
+        "year": "2017",
+        "ISBN": "978-986-5647-80-3",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "1. cedarls\n2. GateSim\n3. logisim",
+    "rules": "1、必修課一律點名<br>2、到課率、作業、筆記、程式，均為評分重要依據！"
+}

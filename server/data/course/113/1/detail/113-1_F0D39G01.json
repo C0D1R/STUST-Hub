@@ -1,0 +1,123 @@
+{
+    "code": "F0D39G01",
+    "name": {
+        "zh": "媒體識讀",
+        "en": "Media Literacy"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資傳二甲",
+        "四技資傳二乙"
+    ],
+    "instructors": [
+        "鄭祿平"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "E0505"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "E0505"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "E0505"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程目標在讓學生瞭解日常生活中的傳媒角色，並協助她/他們評估媒體對個人慾念、選擇和決策的影響。這門課將提供分析和評估傳媒的批判架構。經由閱讀/觀影、討論、團體作業（實作），以及其他活動，學生能夠建構與解構媒介訊息的相關知識，從中幫助同學對大眾傳媒之產製行銷、價值取向及其內容作批判性的反思，期能提升學員們近用、分析與評估媒介訊息以及溝通的能力，繼而參與傳媒、監督傳媒，實踐未來做為國民所擁有的傳播人權。<br>",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.課程介紹<br>2.認識商業行銷中的收視率<br>3.消費大眾的廣告入門<br>4.辨識媒體中的健康訊息<br>5.媒體產製：數位環境的電視劇<br>6.媒體產製：電視連續劇與文本解讀<br>7.媒體產製：電影就是好萊塢<br>8.NCC的功能與各類法規介紹<br>9.期中考（你我都是NCC委員）<br>10.媒體再現：種族/族群<br>11.媒體再現：性別議題<br>12.媒體再現：年齡/階級<br>13.新媒體變奏曲<br>14.是誰在編劇：偽新聞背後的真相<br>15.致命的吸引力：網紅的商業機制<br>16.媒體大亂象：立場鮮明、未審先判、名嘴亂爆料<br>17.媒體的進用與使用<br>18.期末考（公民新聞與自媒體）<br>",
+        "en": "1.Course Introduction<br>2.Nielsen rating &amp; media<br>3.Market, Advertising, and Consumers<br>4.Identify health messages in the media<br>5.Media Production: Internet drama<br>6.Media Production: Native soap opera and Text comprehension<br>7.Media Production: Hollywood and Globalization<br>8.National Communications Commission and regulations<br>9.We are all NCC members<br>10.Representation: Race/ ethnicity<br>11.Representation: Gender stereotype<br>12.Representation: Age/ Class<br>13.The Impact of New Media<br>14.Media antibody: how to identify fake news <br>15.Internet celebrity &amp; paid message<br>16.Media chaos: position bias/prejudice/gossip<br>17.The right of access to the media<br>18.People Post &amp; We media<br>"
+    },
+    "weeklySchedule": "一、\t課程介紹<br>二、\t認識商業行銷中的收視率<br>三、\t消費大眾的廣告入門<br>四、\t辨識媒體中的健康訊息<br>五、\t媒體產製：數位環境的電視劇<br>六、\t媒體產製：電視連續劇與文本解讀<br>七、\t媒體產製：電影就是好萊塢<br>八、\tNCC的功能與各類法規介紹<br>九、\t期中考（你我都是NCC委員）<br>十、媒體再現：種族/族群<br>十一、媒體再現：性別議題<br>十二、媒體再現：年齡/階級<br>十三、新媒體變奏曲<br>十四、是誰在編劇：偽新聞背後的真相<br>十五、致命的吸引力：網紅的商業機制<br>十六、媒體大亂象：立場鮮明、未審先判、名嘴亂爆料<br>十七、媒體的進用與使用<br>十八、期末考（公民新聞與自媒體）<br>",
+    "exams": {
+        "midterm": "個人報告",
+        "final": "團體作業",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "正視媒體的近用/使用權，從而養成新科技的媒體素養",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "明瞭民主社會中傳媒的重要性，繼而參與傳媒、監督傳媒，實踐未來做為國民所擁有的傳播人權",
+            "teachingMethods": [
+                "分組討論",
+                "實作演練",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "探索媒體再現所呈現出的刻板印象，培養辨識訊息真偽的實力",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解大眾傳媒，探索其運作邏輯，使學習者具有分辨傳媒內容良莠的能力",
+            "teachingMethods": [
+                "分組討論",
+                "實作演練",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are    Seth Stephens-Davidowitz<br>2.Geeks Bearing Gifts: Imagining New Futures for News    Jeff Jarvis<br>3.Nachgefragt: Medienkompetenz in Zeiten von Fake News     Manfred Theisen<br>4.媒體識讀   康照祥<br>5.新聞不死,只是很喘   黃哲斌<br>6.圖解傳播理論     梁美珊/莊迪澎",
+    "teachingSoftware": "無",
+    "rules": "對媒體產製及發展與分析有興趣者!"
+}

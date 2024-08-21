@@ -1,0 +1,117 @@
+{
+    "code": "15D01201",
+    "name": {
+        "zh": "車輛工程概論",
+        "en": "Introductory to Vehicle Engineerning"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技車輛一甲",
+        "四技車輛一乙"
+    ],
+    "instructors": [
+        "阮重嘉"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "R301"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "R301"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "R301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "藉由車輛產業各領域之現狀及車輛各系統之工作原理之介紹，激發學生對車輛相關領域之興趣。",
+    "prerequisites": "對車輛相關領域有興趣者",
+    "syllabus": {
+        "zh": "1.車輛產業之管理<br>2.汽車業之銷售與營運<br>3.汽車簡易機械常識<br>4.汽車車身簡介<br>5.汽車電器系統簡介<br>6.汽車底盤簡介<br>",
+        "en": "1. Vehicle industry management.<br>2. Marketing and opetating of vehicle.<br>3. Gereral mechanical informations of vehicle.<br>4. Introduction of vehicle body.<br>5. Introduction of vehicle electronic devices.<br>6. Introduction of vehicle chassis."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "車輛產業之管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "汽車業之銷售與營運",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "汽車簡易機械常識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "汽車底盤簡介",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "C0N2C601",
+    "name": {
+        "zh": "拉美歷史和神話傳說",
+        "en": "Latino History and Mythology"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜二技應英三甲"
+    ],
+    "instructors": [
+        "安迪"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第11節",
+            "location": "N202"
+        },
+        {
+            "day": "週四",
+            "period": "第11節",
+            "location": "N310"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Bienvenidos. What are the origins of Latin, Latino and Latin America? What does it mean to be Latino today? To understand this, we have to go back in time to see what happened in history. So, this first semester, that is exactly what we will be doing to see people, events, myths and stories from this colorful world.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "在第一個學期，我們將嘗試全面了解拉丁裔、西班牙裔和拉丁美洲世界。 神話和歷史將是本學期的兩個主要部分。",
+        "en": "This first semester we will try and gain an overall understanding of the Latin, Hispanic and Latin American world. Myth and History will be two main parts of this semester."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "介紹拉丁美洲的世界",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "發展和理解拉丁裔根源",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "洞悉塑造該地區的歷史因素。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習更多關於這個世界的神話和信仰。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

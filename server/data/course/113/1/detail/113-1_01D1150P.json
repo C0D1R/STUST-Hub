@@ -1,0 +1,173 @@
+{
+    "code": "01D1150P",
+    "name": {
+        "zh": "台灣與世界",
+        "en": "Taiwan in the World"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技電子二乙",
+        "四技電子二丙"
+    ],
+    "instructors": [
+        "王惠琛"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "W0402"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "W0402"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在以外部視野與內部剖析等角度，多元觀察影響到台灣的世界趨勢、潮流、現象及發展等等，包括文化、產業、宗教、人權、藝術、族群與歷史等各個層面的探索，並建立以立足台灣、胸懷天下為基礎的台灣主體意識，期能令學習者對台灣以及台灣所置身其中的全球環境，有更進一步的了解。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "A.共同課綱<br>1.導論：國際視野下的台灣<br>2.台灣族群：原住民、舊移民、新移民、新住民<br>3.從台灣看現代世界的兩個主要趨勢--地球村與全球化<br>4.全球思維：區域整合與世界體系<br>5.世界公民：教育、人權與普世價值<br>B1.分群課綱：工程•設計學群<br>6.輪子與翅膀：台灣工業發展趨勢<br>7.0與1的轉換：資訊產業與數位時代<br>8.創意與行動：在地文化與產業發展<br>B2.分群課綱：商管•人文學群<br>6.國際加工基地：依賴與競合<br>7.東亞經濟模式：從亞洲四小龍到中國崛起<br>8.行銷世界：在地經驗與台灣品牌<br><br><br>",
+        "en": "A. Common <br>1. Introduction: Taiwan in the international perspective<br>2. Taiwan ethnic groups: First Nations, old immigrants, new immigrants, new residents<br>3. From Taiwan, we look at the two main trends of the modern world -- the global village and globalization<br>4. Global thinking: regional integration and the world system<br>5. Citizens of the world: Education, human rights and universal values<br>B1. Group Outline: Engineering and Design Group <br>6. Wheels and Wings: Taiwan's Industrial Development Trends<br>7.0 and 1 Conversion: Information Industry and the Digital Age<br>8. Creativity and action: in the development of local culture and industry<br>B2. Group Curriculum: Business Administration and Humanities Group <br>6. International processing base: dependence and competition<br>7. East Asian Economic Model: From the Four Dragons of Asia to the Rise of China<br>8. Marketing World: Experience in the local and Taiwan brand<br><br>"
+    },
+    "weeklySchedule": "第1週：導論--國際視野下的台灣(世界文明與國際關係)<br>第2週：台南文化與生活<br>第3週：踏查台南<br>通論部份：<br>第4週：海權時代的台灣與世界<br>第5週：原住民的悲歌(本週專題符合SDGs目標2終結飢餓：確保糧食安全，消除飢餓，促進永續農業。)<br>第6週：帝國主義浪潮<br>第7週：強鄰崛起_台灣的殖民地化與近代化 <br>第8週：強鄰崛起_中國國際觀-從鄭和下西洋到一帶一路<br>第9週：期中考試週<br>專論部份--<br>第10週：瘟疫與人類<br>第11週：小國大業(本週專題符合SDGs目標17全球夥伴關係：建立多元夥伴關係，協力促進永續願景。）<br>第12週：種族歧視與衝突<br>第13週：南北韓對峙議題<br>第14週：國家化解危機的案例(上)<br>第15週：國家化解危機的案例(下)<br>第16週：讓世界走進來：電影與全球議題(本週專題符合SDGs目標16和平、正義及健全制度）。<br>第17週：問題與討論－期末分組報告分享<br>第18週：期末考試週<br><br>課程進度得視實際教學需要調整。<br><br>",
+    "exams": {
+        "midterm": "筆試或分組報告",
+        "final": "筆試或分組報告",
+        "other": "學習單"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能深入認識台灣歷史，有效地解決各項問題。(A3)",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "獨創具體的創新思維，解析台灣歷史古今的不同。(E4)",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "統合歷史知識於生活或學習中，拓展歷史視野，適切因應地球村及國際化趨勢。(C3)",
+            "teachingMethods": [
+                "啟發思考",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建立台灣主體意識，展現對本土及國際文化的理解，培育具世界觀及人文素養的公民。(C2)",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能了解台灣歷史的發展與意義，並於生活中展現反省、理性思辨的能力。(I4)",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "展現負責盡職、秉持敬業精神完成各項任務並服務社會。(H1)",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "關懷台灣的周遭環境，維護台灣與世界的利益共存(J4)",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.傅衣凌主編，《明史新編》，台北：聯經，1999。 2.江日昇，《台灣外記》。 3.曹永和，《台灣早期歷史研究》，台北：聯經，1979。 4.湯錦台，《大航海時代的台灣》，台北：貓頭鷹，2001。 5.湯錦台，《開啟台灣第一人鄭芝龍》，台北：果實，2002。 6.楊彥杰，《荷據時代的台灣史》，台北：聯經，2000。 7.江樹生譯，《熱蘭遮城日誌》（一至三冊），台南市政府。 8.江樹生，《鄭成功和荷蘭人在台灣的最後一戰及換文締和》，台北：漢聲。 9.陳三井總纂，《鄭成功全傳》，台北：台灣史蹟研究中心，1979。 10.周婉窈，《台灣歷史圖說》聯經出版社 11.張炎憲，《歷史文化與台灣(1~4)》台灣風物 12.張炎憲等編，《台灣史論文精選(上)(下)》玉山社 13.各類台灣區域史論文及專書 14.賈德、戴蒙著，王道環、廖月娟譯，《槍炮、病菌與鋼鐵：人類社會的命運》，時報，1998。 15.陳登武，《歷史與人生》，三民書局，2008。 16.唐晋主編，《大國崛起》，人民出版社，2006。 17.卜正民，《維梅爾的帽子》，遠流出版社，2009。 18.劉必榮，《世界真的變了》，先覺出版社，2009。 19.王見川，《台灣的宗教與文化》，博揚出版社，1999。",
+    "teachingSoftware": "1.數位學習平台 2.自編數位教材：《臺灣與世界》教學投影片",
+    "rules": "1.關於本課程之綱要、相關規範及評量方式等，將於首次上課時進行說明，請修課同學務必出席。<br>2.學習態度、缺曠紀錄、學習單/報告繳交狀況，列入學期成績考核參酌。<br><br><br>"
+}

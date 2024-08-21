@@ -1,0 +1,127 @@
+{
+    "code": "1MD03F01",
+    "name": {
+        "zh": "生活法律大補帖",
+        "en": "Legal Tonics for Living Art"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "社會科學領域"
+    ],
+    "instructors": [
+        "曾雅真"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "S513"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "S513"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "S513"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在透過案例教學，問題導向，培養學生之基礎法律素養，提升同學問題解決的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元1：法律與正義:一場思辯之旅<br>單元2：法律的概念與功能<br>單元3：生活百態篇 <br>單元4：住的安心嗎? <br>單元5：死刑存廢<br>單元6：家家有本難念的經 <br>單元7：法律與制裁<br>單元8：3C法律停看聽<br>單元8：法律與性別<br>單元9：職場生存戰<br>單元10：關於錢這檔事<br>",
+        "en": "Unit 1：JUSTICE: What's the Right Thing to Do<br>Unit 2：Concept and function of Law<br>Unit 3：Law in lifes<br>Unit 4: Living safely<br>Unit 5: Death Penalty<br>Unit 6: Law for family affairs<br>Module 7: Law and Sanctions<br>Unit 8: ABC for 3C laws<br>Unit 8: Law and Gender<br>Unit 9: Labor law<br>Unit 10: Law for financial affaires<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "提高參與科學相關公共議題討論、反思及抉擇的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以創新作為來有效地解決各項問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以正向思考來因應環境的變化。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能提高參與民主審議與面對合理爭議所需之知識、態度和技能，並適切參與公共事務。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能提高理性思辨各種倫理抉擇與難題，並於生活中展現反省、理性思維及批判的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

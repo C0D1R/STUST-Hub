@@ -1,0 +1,139 @@
+{
+    "code": "G0D13002",
+    "name": {
+        "zh": "伺服器網頁語言",
+        "en": "Server Page Language"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "五專資工四甲"
+    ],
+    "instructors": [
+        "李宗儒"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "J405"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "J405"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "J405"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "PHP(Personal Home Page)目前被廣泛的應用在各種動態網頁系統，特別是在伺服器端的網頁程式開發。PHP大多執行在網頁伺服器上，透過執行PHP程式碼來產生使用者瀏覽的網頁。 PHP幾乎可以在任何的作業系統上執行，而且使用PHP完全是免費的，可支援多種資料庫，包括常用的MySQL, MSQL, Sybase, Oracle等等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.認識動態網頁程式設計<br>2.HTML 重要標籤複習<br>3.PHP 語法: 變數<br>4.PHP 語法: 敘述句<br>5.PHP 語法: 判斷句<br>6.PHP 語法: 迴圈<br>7.函數設計<br>8.內建函數介紹<br>9.網頁間的資料傳遞<br>10.資料庫的基本介紹<br>11.PHP與MySQL<br>12.大型PHP網站系統設計<br>13.PHP進階技術<br>14.PHP技術實際操作<br>15.分組討論",
+        "en": "1.\tIntroduction to server page language<br>\t2.\tImportant tag review of HTML<br>\t3.\tSyntax study of PHP: variables<br>\t4.\tSyntax study of PHP: statements<br>\t5.\tSyntax study of PHP: judgment sentence<br>\t6.\tSyntax study of PHP: loop<br>\t7.\tFunction design<br>\t8.\tIntroduction to the build-in functions<br>\t9.\tData transportation between server pages<br>\t10.\tIntroduction to database<br>\t11.\tPHP and MySQL<br>\t12.\tPHP web site design for large-scaled system<br>\t13.\tAdvanced technology of PHP<br>\t14.\tWorking with PHP technology<br>\t15.\tGroup discussions<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解網站運作之流程與原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析與解釋網站系統架構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用html以及PHP網頁語言，解決網站後台開發與管理所面臨之問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備完整規劃網站系統與流程之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "擁有伺服器網頁程式語言技術，並能與團隊成員共程完成網頁應用系統開發之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備使用英文解讀相關支技術文件之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

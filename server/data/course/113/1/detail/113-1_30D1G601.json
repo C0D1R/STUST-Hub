@@ -1,0 +1,115 @@
+{
+    "code": "30D1G601",
+    "name": {
+        "zh": "工業電子證照輔導",
+        "en": "Industrial Electronics Certification Guidance Course"
+    },
+    "credit": "2",
+    "type": "系定選修",
+    "classes": [
+        "五專電子二甲"
+    ],
+    "instructors": [
+        "陳昭綾"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "J201"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "J201"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "J201"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在幫助學生準備工業電子相關證照考試，內容涵蓋電子學、數位邏輯設計、電路分析、微處理器應用等，透過理論講解和實務操作，提升學生在工業電子領域的知識與技能，並增強其考試應對能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元一：基本電子學 (Unit 1: Basic Electronics)<br>單元二：數位邏輯設計 (Unit 2: Digital Logic Design)<br>單元三：電路分析 (Unit 3: Circuit Analysis)<br>單元四：微處理器應用 (Unit 4: Microprocessor Applications)<br>單元五：電力電子學 (Unit 5: Power Electronics)<br>單元六：信號與系統 (Unit 6: Signals and Systems)",
+        "en": "單元一：基本電子學 (Unit 1: Basic Electronics)<br>單元二：數位邏輯設計 (Unit 2: Digital Logic Design)<br>單元三：電路分析 (Unit 3: Circuit Analysis)<br>單元四：微處理器應用 (Unit 4: Microprocessor Applications)<br>單元五：電力電子學 (Unit 5: Power Electronics)<br>單元六：信號與系統 (Unit 6: Signals and Systems)"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學生將熟練掌握工業電子領域的基本知識和操作技能，並能夠應用於實際工作中。\n培養學生應對工業電子相關證照考試的能力，提升其專業素養。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生將學會將工業電子理論應用於工程實務中，解決工程領域的實際問題。\n透過實際操作和案例分析，提升學生在工業電子工程設計和分析中的應用能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生將能夠使用各種資訊技術工具來輔助工業電子學習和問題解決，例如電腦輔助設計軟件和模擬工具。\n培養學生蒐集、分析和解釋數據的能力，並將其應用於工業電子設計和決策過程中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "鼓勵學生養成自主學習的習慣，持續提升工業電子知識和技能，以應對未來的學習和職業挑戰。\n培養學生批判性思維和解決問題的能力，使其能夠在快速變化的科技環境中保持競爭力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

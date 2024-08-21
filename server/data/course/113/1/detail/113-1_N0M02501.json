@@ -1,0 +1,128 @@
+{
+    "code": "N0M02501",
+    "name": {
+        "zh": "國際行銷專題",
+        "en": "Seminar in International Marketing"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩全球經管一甲"
+    ],
+    "instructors": [
+        "洪一碩"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "E0604"
+        },
+        {
+            "day": "週三",
+            "period": "第7節",
+            "location": "E0604"
+        },
+        {
+            "day": "週三",
+            "period": "第8節",
+            "location": "E0604"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This Marketing Management course provided our international students with an Asian perspective, introducing Asian marketing concepts and applications such as Islamic marketing, Guanxi and Chaelbol to the course. Case Study Teaching Method will guide students in better learning the course. With a balanced mix of Asian and International case studies, Global MBA (GMBA) students are able to better relate to the marketing concepts helping them learn faster and better. To keep abreast of crucial developments in the field of marketing and business ethics, the course will also explore both the theoretical and the applied aspects of the role ethics plays in marketing. Articles on Marketing Ethics in the topics such as consumer ethics, morality in marketing and corporate social responsibility are covered with breadth and depth to paint a current and comprehensive picture of the field today.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一瞭解行銷管理<br>1界定二十一世紀的行銷<br>2發展行銷策略與計畫<br><br>二掌握行銷洞察力<br>3收集資訊與掃瞄環境<br>4進行行銷研究與預估需求<br><br>三連結顧客<br>5創造顧客價值、滿意度與忠誠度<br>6分析消費者市場<br>7分析組織市場<br>8確認市場區隔與選擇目標市場<br><br>四建立強勢品牌<br>9創造品牌權益<br>10品牌定位<br>11競爭動態性<br><br>五形成產品策略<br>12設定產品策略<br>13設計並管理服務<br>14發展訂價策略與方案<br><br>六傳遞價值<br>15設計與管理行銷通路及價值網路<br>16管理零售、批發及物流<br><br>七溝通價值<br>17設計與管理整合行銷溝通<br>18管理大眾溝通：廣告、促銷活動、活動事件與公共關係<br>19管理人員溝通：直效行銷與人員銷售<br><br>八創造成功的永續成長<br>20發展新產品<br>21設計全球市場策略<br>22管理整體行銷組織<br><br>【行銷道德與商業倫理】 將採融滲式教學方式，相關文章與議題將會穿插在各組題中做個案分析討論。",
+        "en": "Ⅰ: UNDERSTANDING MARKETING MANAGEMENT<br>1 Defining Marketing for the 21st Century<br>2 Developing Marketing Strategies and Plans<br>Marketing Ethics: The General Theory of Marketing Ethics: The Consumer Ethics and Intentions Issues<br><br>Ⅱ: CAPTURING MARKETING INSIGHTS<br>3 Gathering Information and Scanning the Environment<br>4 Conducting Marketing Research and Forecasting Demand<br>Marketing Ethics What Drives Ethics Education In Business Schools? Studying Influences On Ethics In The MBA Curriculum<br><br>Ⅲ: CONNECTING WITH CUSTOMERS<br>5 Creating Customer Value, Satisfaction, and Loyalty<br>6 Analyzing Consumer Markets<br>7 Analyzing Business Markets<br>8 Identifying Market Segments and Targets<br>Marketing Ethics A Review of Ethical Decision-Making Models in Marketing<br><br>Ⅳ: BUILDING STRONG BRANDS<br>9 Creating Brand Equity<br>10 Crafting the Brand Positioning<br>11 Competitive Dynamics<br>Marketing Ethics The Ethical Imperative of Constructive Engagement in a World Confounded by the Commons Dilemma, Social Traps and Geopolitical Conflicts<br><br>Ⅴ: SHAPING THE MARKET OFFERINGS<br>12 Setting Product Strategy<br>13 Designing and Managing Services<br>14 Developing Pricing Strategies and Programs<br><br>Marketing Ethics The Influence of Ethics Institutionalization on Ethical Decision Making in Marketing"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "基本之行銷專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "擬定具體可行之行銷策略",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉行銷流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進整合行銷能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Understand the related issue of Business Ethic in Marketing Management",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

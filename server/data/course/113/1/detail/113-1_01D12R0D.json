@@ -1,0 +1,122 @@
+{
+    "code": "01D12R0D",
+    "name": {
+        "zh": "中文閱讀與表達(一)",
+        "en": "Chinese Reading and Expression(I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技流音一甲"
+    ],
+    "instructors": [
+        "彭易璟"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "E0507"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "E0507"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程選文涵蓋文言與白話，文類多元，從古典至現代，包括散文、詩歌、小說及應用文。提升學生學習興趣、閱讀表達能力，增進應用文知能及文學欣賞層次。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.導論<br>2.閱讀的功能與樂趣<br>3.書寫與表達基本原理<br>4.中文各項文類評析<br>5.文學作品中各項人生議題之探討<br>6.實用文書基本能力<br>7.聽說讀寫綜合表達訓練<br>",
+        "en": "1.\tIntroduction<br>2.\tThe function and pleasure of reading<br>3.\tThe basic principle in writing and expression <br>4.\tEvaluates all kind of Chinese literature type <br>5.\tThe discussion of life issues in literary work<br>6.\tPractical word processing ability<br>7.\tThe expression training: Hearing、speaking、reading and writing <br>"
+    },
+    "weeklySchedule": "第1週\t課程介紹：以聲音敘事為主的敘事力培養\t課堂活動一：發「聲」什麼<br>第2週\t主題：生活聲響的蒐集與轉化<br>        一 從生活聲響到文學音景  二以聲音敘事為主的敘事力培養<br>第3-4週\t主題：經典文學與聲音敘事4要素  前測<br>         一經典文本中的聲音敘事與關鍵字詞：自然聲響 自問自答 與他人對話 引用詞語<br>         二聲情共構：有聲之境、無聲之靜\t以聲音敘事為主的敘事力培養<br>第5週\t主題：南台之聲與景觀人文<br>         一 六類生活聲響與「我」的文稿  二以故事思維為主的敘事力培養<br>第6週   主題：聲臨其境<br>         一對話裡的活力場域<br>         二聲音聯想：聲音讓「我」想到的人事物<br>第7週\t主題業師演講一：聲音裡的人情故事（視情況調整）<br>        王瑞芹負責人(齊聲創藝有限)(四)10/19<br>           說理達情的敘事力教學—文章節奏：念出抑揚頓挫<br>第8週\t主題：聲音與新舊故事<br>         一故事重塑：讓聲音有意義<br>         二聲情共構的觀看角度<br>第9週\t期中考\t筆試：文本中的聲音敘事 (+短文300字)<br>第10週\t主題：生活運動類聲響：人物籃球、跑步滑板\t聲源蒐集與分享<br>第11週\t主題：動物禽鳥類聲響：黑冠麻鷺、麻雀、貓狗\t聲源蒐集與分享<br>第12週\t主題：視聽一致的對話<br>　　　　　一情緒句子中真實的「我」　二聲音節奏與畫面節奏吻合<br>第13週\t主題：業師演講二：情緒句子與文學鏡頭力<br>　　　　　樓南蔚音樂總監(鳳凰花開音樂事業有限)11/30\t<br>　　　　　聲情共構：情緒句子與詞作的觀看角度<br>第14週\t協同授課一：唱出真情—文學音景演唱技巧<br>　　　　　陳慧如副教授 (南臺科大流行音樂系主任)12/07<br>第15-16週　主題：故事製作一轉譯聲源故事<br>　　　　　　　對話—讓我的聲音真實生動有情緒\t聲情共構的實作，區別ChatGPT<br>第17-18週　分組報告(1-3大組)(4-6大組) 後測<br>　　　　　　(敘事力成果分享討論)同學互相說明與分享自己作品：短文300字+情緒句子<br>",
+    "exams": {
+        "midterm": "筆試，小組作業與線上互動題",
+        "final": "無筆試，小組作業與分組報告",
+        "other": "小組討論"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "描述文章表達的意義並撰寫作文",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "統整所學的基本能力以作為國家考試與求職之基礎",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "接納人與人之間所傳達的訊息並給予正面的回應",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "秉持良好的學習態度以交付完成各項任務",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "探討文學作品的各項人生議題，並於生活中展現批判能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義：「我的青春言歌」",
+        "author": "彭易璟",
+        "publisher": "自編講義",
+        "year": "２０２３",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "張秀亞散文集，民９４年，台灣文學館出版",
+    "teachingSoftware": "ＰＰＴ",
+    "rules": "1.本課程為中文表達創新課程,執行教育部課程計畫，本學期以聲音敘事書寫表達訓練為主,計有與校園有約書寫與「南台之聲」分組報告.實施依執行需要(依防疫措施)會略做調整。<br>2.以經典選篇與意象解析、聲音表達與實作等方式,引領分組報告表情達意內涵.第二週進行中文能力前測，請準時上線參與施測。<br>3.避免課堂中吃東西、聊天、睡覺，不帶上課教材.<br>4.上課滑手機屢勸不聽者,手機交由老師及全班同學保管.<br>5.出席率佔20%，上課未到者以曠課登記,遲到者請到老師處註銷.3次未到堂,考慮給予不及格分數."
+}

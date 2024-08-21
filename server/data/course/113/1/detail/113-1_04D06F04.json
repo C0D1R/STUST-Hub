@@ -1,0 +1,158 @@
+{
+    "code": "04D06F04",
+    "name": {
+        "zh": "體育(一)",
+        "en": "Physical Education(I)"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "五專化材一甲"
+    ],
+    "instructors": [
+        "蔡志鵬"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "I0305"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "I0305"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "一至二年級課程共分八項進度實施教學。<br>(1)體適能<br>(2)籃球<br>(3)射箭<br>(4)羽球<br>(5)高爾夫/足球<br>(6)桌球<br>(7)排球<br>(8)壘球/木球",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.體適能：培養學生基本體能。(心肺功能、肌力肌耐力、柔軟度、爆發力、身體指數)<br>2.籃球：訓練學生籃球基本動作，培養互助合作之人格特質，訓練休閒活動技巧。<br>3.射箭：訓練學生手、眼睛神經之協調性，訓練基本休閒運動能力。<br>4.羽球：培養學生瞬間移位的基本體能，各種基本運動能力的培養。<br>5.高爾夫/足球：訓練學生腳部之敏捷性，培養學生團體合作與心態。<br>6.桌球：訓練學生眼、手之協調性及敏捷性，培養基本休閒能力之技巧。<br>7.排球：訓練學生全身肌力協調能力，培養學生團體合作之觀念。<br>8.壘球/木球：訓練學生瞬間爆發力的能力，手、腳、眼睛的協調性，培養互助合作的觀念。",
+        "en": "1、Fitness training: basic physical self-requirement is divided into the following units<br>(1 Cardiopulmonary function (2 Muscle strength, muscle endurance (3 power (4 flexibility5 Body composition<br>2、 Basketball: The development of muscle strength and the development of coordination between optic nerve and whole body muscle in basketball training students<br>3、 Archery: improvement of students' muscle strength development and coordination of the nervous system<br>4、 Badminton: improvement of muscle strength and coordination of students' leg muscles and agility<br>5、 Golf/Football: selection opened for students <br>6、 Table tennis: building students' agility response<br>7、 Volleyball: building student group awareness<br>8、 Softball: building student group awareness<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "提升體能，增進運動持續能力，促進身心均衡發展。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "啟發運動興趣，體驗運動樂趣及效益，建立規律運動習慣。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以發展基本動作能力，學習運動技能，培養參與體育活動之必備技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "為人生目標全力以赴自我學習，以增進體育知識，建立正確體育觀念，培養參與運動之積極態度及知能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習健全人格，提升國際運動視野，服務社會。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養運動賞析能力及身體文化素養。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習情緒管理並與人有良好互動。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養運動道德，促進和諧人際關係，發展良好社會行為。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "40M13201",
+    "name": {
+        "zh": "專題研討(一)",
+        "en": "Seminar (I)"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "碩研化材一甲"
+    ],
+    "instructors": [
+        "賴孝武"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "I0706"
+        },
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "I0706"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程包含兩大部份：第一部份為遴聘業界專家或學者做專題演講；另一部份是由研究生上台報告其研究實驗進度與國外文獻等。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.聆聽業界專家演講<br>2.聆聽學界專題演講<br>3.投影片的製作<br>4.國際研究論文的整理<br>5.口頭報告練習<br>6.答辯練習",
+        "en": "1.Industry experts speech<br>2.Aademic lectures<br>3.Manufacture skill of power point<br>4.The collation of international research papers<br>5.An oral report<br>6.Reply to response"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能熟知化學與材料工程領域的研究方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有調理的將自己的研究成果製成投影片並報告出來",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能清楚的回答同學或老師的提問",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用國外網站收集並研讀相關研究文獻",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

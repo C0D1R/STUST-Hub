@@ -1,0 +1,127 @@
+{
+    "code": "D0N12C02",
+    "name": {
+        "zh": "行銷企劃",
+        "en": "Marketing Planning"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技行流三甲"
+    ],
+    "instructors": [
+        "林政憲"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "T0208"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "T0208"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "T0208"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course focuses on functional level marketing strategy in Cultural &amp; Creative Industries(文化創意產業) and Non-Profit Organizations(非營利機構). The overall goal of the course is to develop your ability to think strategically about marketing problems and their potential solutions. To achieve this goal, the course focuses on the marketing planning process as the basic framework for integrating and coordinating marketing decisions. <br>Specifically, you will develop skills in establishing and evaluating marketing plans, strategies, and implementation programs so that you will be better prepared to solve the marketing problems and to grasp the marketing opportunities you will encounter in your profession.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t大綱介紹及成員分組<br>2.\t情境分析<br>3.\t行銷策略分析<br>4.\t制定行銷戰術(I)<br>5.\t制定行銷戰術(II)<br>6.\t執行方案及行銷控制",
+        "en": "1.\tIntroduction &amp; Team Setup<br>2.\tSituation Analysis, SWOT Analysis <br>3.\tStrategy - Segmentation, Targeting Positioning<br>4.\tTactics - Products and Prices <br>5.\tTactics - Place and Promotion<br>6.\tMarketing Implementation and Control"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉企劃流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "綜合運用行銷專業",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進創意思考",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升評估決策情境之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "擬定具體可行之行銷策略",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

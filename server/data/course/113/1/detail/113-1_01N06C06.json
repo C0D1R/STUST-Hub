@@ -1,0 +1,133 @@
+{
+    "code": "01N06C06",
+    "name": {
+        "zh": "職場英語溝通",
+        "en": "Workplace English Communication"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技行流二甲"
+    ],
+    "instructors": [
+        "洪嘉鎂"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "T0207"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "T0207"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "T0207"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "1.TOEIC",
+        "2.BULATS"
+    ],
+    "description": "本課程旨在提升學生在專業職場英文聽說讀寫的實務運用能力。依照本校科系屬性將職場英語學習內涵大致分為四大領域—工程、商務及管理、一般職場、餐旅。課程內容包括專業英語詞彙學習、聽講練習、職場相關領域文章閱讀與寫作訓練等。此外，也將全球英語（Global English; Globish）核心單字與基本句型適度融入課程學習與分組情境對話練習，除了提升學生專業領域英語溝通能力之外，同時能兼顧基本英語力之強化，以提升程度較弱學生學習信心。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程針對以下四個職場領域英語溝通情境主題與功能，引導學生進行英文詞彙與基本對話技巧學習與演練：<br>1.工程：<br>工程領域涵蓋的主題範圍如下：<br>(1) 網路世界<br>(2) 智慧型手機<br>(3) 電腦世界<br>(4) 奈米技術<br>(5) 小機件<br>(6) 機器人<br>工程領域之英語學習目標：<br>(1) 給予及回應建議<br>(2) 問候及自我介紹<br>(3) 徵求及給予意見<br>(4) 了解與下達指令<br>(5) 成功的簡報術<br>(6) 激勵員工的話術<br>2. 餐飲&amp;旅遊:<br>(1) 處理來電<br>(2) 提供客人和飯店有關的各項資訊<br>(3) 接受訂位<br>(4) 處理詢問訂位/訂房的相關事宜<br>(5) 信件往返<br>(6) 迎接客人<br>(7) 處理登記住宿的問題<br>(8) 解釋飯店房間各項設施的使用方法<br>(9) 飲料服務<br>(10) 餐飲服務<br>(11) 了解您所在地區<br>(12) 解釋交通工具的選擇<br>(13) 指示方向<br>(14) 滿足客戶需求<br>3.商務&amp;管理:<br>(1) 工作面試<br>(2) 自信社交<br>(3) 邀請函<br>(4) 電話溝通<br>(5) 求職廣告<br>(6) 工作實習<br>(7) 商業書信<br>(8) 報價及訂貨<br>(9) 有效的簡報<br>4.職場:<br>(1) 求職<br>(2) 面試<br>(3) 新人報到<br>(4) 電話英語<br>(5) 商務會議",
+        "en": "This course is divided into four major areas.<br>1.\tEngineering: <br>Topics:<br>(1)  The Internet world <br>(2)  Smart Phones<br>(3)  The computer world<br>(4)  Nanotechnology<br>(5)  Gadgets <br>(6)  Robots<br>In this course, you will learn the language functions:<br>(1) Giving and responding to advice<br>(2) Greetings and Self-Introduction<br>(3) Asking for and giving opinions<br>(4) Understanding and giving instructions<br>(5) Giving a successful presentation<br>(6) Expressions to encourage the staff<br>2. Hospitality &amp; Tourism<br>(1)\tDealing with incoming calls<br>(2)\tCustomer information<br>(3)\tTaking reservations <br>(4)\tDealing with booking enquires<br>(5)\tCorrespondence <br>(6)\tWelcoming guests<br>(7)\tDealing with check-in problems<br>(8)\tExplaining how things work in the hotel room<br>(9)\tServing drinks<br>(10)\tFood service<br>(11)\tKnow your region<br>(12)\tExplaining travel options<br>(13)\tGiving directions <br>(14)\tMeeting customer needs<br>3. Business &amp; Management<br>(1)\tJob Interviews  <br>(2)\tSocializing with Confidence<br>(3)\tInvitation<br>(4)\tCommunicating on the Phone<br>(5)\tJob Hunting<br>(6)\tInternship<br>(7)\tBusiness Writing<br>(8)\tQuotations and orders<br>(9)\tPowerful Presentations<br>4. Workplace<br>(1)\tLooking for job <br>(2)\tJob interview <br>(3)\tThe First Day of work<br>(4)\tTelephone Conversations<br>(5)\tMeetings"
+    },
+    "weeklySchedule": "Week 1:\tIntroduction<br>Week 2:\tUnit 1<br>Week 3:\tUnit 1<br>Week 4:\tUnit 2<br>Week 5:\tUnit 2<br>Week 6:\tUnit 3<br>Week 7:\tUnit 3<br>Week 8:\tReview<br>Week 9:\tMid-Term Exam<br>Week 10:期中檢討<br>Week 11:Unit 4<br>Week 12:Unit 4<br>Week 13:Unit 5<br>Week 14:Unit 5<br>Week 15:Unit 6<br>Week 16:Unit 6<br>Week 17:Review<br>Week 18:Final Exam<br>",
+    "exams": {
+        "midterm": "Oral Exam",
+        "final": "Oral Exam",
+        "other": "In-Class activities and assignments"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養學生具備專業職場英語基本能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "提升學生跨文化溝通素養",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "增進學生專業職場英語聽說讀寫實務運用技能。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "增進學生運用專業英語完成職場溝通目的之能力。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生合作學習能力，完成分組情境英語練習任務。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "English Works for the Office 1",
+        "author": "Stefan Kostarelis",
+        "publisher": "Caves Books",
+        "year": "2017",
+        "ISBN": "ISBN: 978-957-606-814-0",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

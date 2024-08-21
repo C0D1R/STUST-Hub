@@ -1,0 +1,116 @@
+{
+    "code": "15D03201",
+    "name": {
+        "zh": "汽車展示與行銷",
+        "en": "Automotive Show and Marketing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技車輛三甲",
+        "四技車輛三乙"
+    ],
+    "instructors": [
+        "張明豪"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "V108"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "V108"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "V108"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "汽車展示與行銷乃是一種分析、規劃、執行及控制的一連串過程，藉此程序以制訂創意、產品或服務的觀念化、訂價、促銷與配銷等決策，經由各種展示活動進而創造能滿足個人和組織目標的交換活動。",
+    "prerequisites": "選修本課程的同學須曾參與第19屆南台汽車大展的實務工作。",
+    "syllabus": {
+        "zh": "1.南台車展展示內容與地點佈置介紹<br>2.行銷概論<br>3.消費者行為模式與決策<br>4.廣告、促銷與公共關係<br>5.行銷策略<br>6.服務行銷<br>7.市場資訊與行銷的研究<br>8.資料庫運用與顧客滿意度維護<br>",
+        "en": "1.The introduction of the contents and space layout in Nan-Tai car show<br>2.Marketing Introduction<br>3.Consumer behavior modes and policy<br>4.Advertising, sale promotion and public relationship<br>5.Marketing strategy<br>6.Service marketing<br>7.Market information and marketing study<br>8.Database application and customer satisfaction maintenance<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解行銷與展示的基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "辨別汽車展示內容與評價展場佈置優劣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解服務行銷與策略",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由個案討論與分析，能將行銷技巧應用到實務上",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

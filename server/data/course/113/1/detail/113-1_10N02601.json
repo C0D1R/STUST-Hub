@@ -1,0 +1,142 @@
+{
+    "code": "10N02601",
+    "name": {
+        "zh": "工業配線",
+        "en": "Industrial Distribution Design"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "夜四機械雙軌四"
+    ],
+    "instructors": [
+        "楊博華"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "R501"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "R501"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹一般用戶及工廠之合理、安全配電概念。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1 配電系統設計 <br>2 基本觀念 <br>3 電壓與電流計算 <br>4 短路電流計算<br>5 過電流保護協調 <br>6 過電流保護與系統接地<br>7 功因之改善",
+        "en": "1. Distribution system design<br>2. Basic concept<br>3. Calculation of voltage drop<br>4. Short-circuit current calculation<br>5. Protection coordination<br>6. Grounding system<br>7. Improvement factor of success rate"
+    },
+    "weeklySchedule": "第01週: 分段設備與分路過電流保護 <br>第02週: 無熔絲開關、漏電斷路器<br>第03週: 電磁接觸器、固態電驛、電磁閥    <br>第04週: 過載保護元件-積熱電驛<br>第05週: 按鈕開關、切換開關<br>第06週: 微動開關、極限開關<br>第07週: 近接開關、光電開關<br>第08週: 旋轉編碼器、測溫體<br>第09週: 期中考<br>第10週: 比流器、霍耳電流檢測器<br>第11週: 指示燈、蜂鳴器、電鈴<br>第12週: PLC 順序控制簡介<br>第13週: 液氣壓控制基本原理介紹 <br>第14週: 設計解析-自動啟閉控制<br>第15週: 設計解析-電動機啟動控制、正逆轉控制<br>第16週: 設計解析-抽水機控制 <br>第17週: 設計解析-自動門開閉控制<br>第18週: 期末考<br>",
+    "exams": {
+        "midterm": "Open Book",
+        "final": "Open Book",
+        "other": "以出席率替代"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解配電系統設計與基本觀念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解電壓與電流計算、短路電流計算",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解過電流保護協調與系統接地",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解功因之改善",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "低壓工業配線",
+        "author": "楊健一",
+        "publisher": "全華圖書",
+        "year": "107",
+        "ISBN": "9789864637621",
+        "edition": "第五版"
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "請各位同學要有智慧財產權觀念，課本不得非法影印。"
+}

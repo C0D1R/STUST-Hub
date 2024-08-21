@@ -1,0 +1,135 @@
+{
+    "code": "F0D30301",
+    "name": {
+        "zh": "智慧財產權與專業倫理",
+        "en": "IPR and expertise ethics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技資傳三甲"
+    ],
+    "instructors": [
+        "李莉娟"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "W0508"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "W0508"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "(一)本課程所介紹之智慧財產權，其內容為專利權、商標權、著作權，連帶地介紹網路倫理。<br>(二)教學內容與重點介紹<br>\t專利權：為了保護專利權，在專利法中對研究發明專人有鼓勵措施，包括如何取得專利、<br>                 專利權的保障期限、以及對觸犯專利權之處罰。<br>\t商標權：為保護商標權，在商標法中強調對商標之保護，重點在說明商標的「識別」意義，<br>                 蓋商標在整個交易秩序中，能維護市場的公平交易與秩序，也提供消費者安心的消費。<br>                 在商標法中解說如何取得商標、商標權被侵害時如何尋求救濟管道。<br>\t著作權：為保障著作權，在著作權法中，對創作完成之著作，除取得了「財產權」之保障外，<br>                 還兼具「著作人格權」之保護。除為了「公共利益」、「合理使用」之範圍與條件外，<br>                 著作權法規定侵害著作權要負民事、刑事責任。<br>\t網路倫理：「網路」使用雖不具侵害財產權性質，但惡意使用網路會使不法行為發生，<br>                   會造成侵害別人的財產，構成刑法的犯罪，如下載網站、mp3音樂，即是重製行為，<br>                   違反著作權法。在網路上散佈誹謗性言論，觸犯刑法的誹謗罪或公然侮辱罪等罪責。<br>",
+    "prerequisites": "民法.財產權法",
+    "syllabus": {
+        "zh": "第一週─智慧財產權的意義與種類<br>第二週─著作權的介紹<br>第三週─什麼是著作人格權<br>第四週─什麼是著作財產權<br>第五週─著作權合理使用之空間<br>第六週─著作權之侵害<br>第七週─專利權之介紹<br>第八週─新發明的專利權保護<br>第九週─期中考<br>第十週─商標權之介紹十一週─自創品牌與政府獎勵    <br>第十二週─保護商標權之理由<br>第十三週─智慧財產權與網路<br>第十四週─線上著作權之責任<br>第十五週─著作財產權之歸屬<br>第十六週─智慧財產權之管理<br>第十七週─如何提昇網路倫理<br>第十八週─期末考<br>",
+        "en": "第一週一what is the IPR and the sort of IPR<br>第二週─introdution on copyrights<br>第三週─what is the personality of copyrights<br>第四週─what is the property of copyrights<br>第五週─limition on exclusive rights ---fair use<br>第六週─to infrige a copyright<br>第七週─introdution on patents<br>第八週─a new invention is portected by patent<br>第九週─期中考<br>第十週─ introdutionon trade-mark rights<br>第十一週─special trade-mark rights is portected by government<br>第十二週─the reason of legalized trade-mark rights<br>第十三週─in relation to IPR and Network<br>第十四週─the on-line copyright limition<br>第十五週─the ownership of IPR<br>第十六週─how to manage the IPR<br>第十七週─how to promote the expertise ethics<br>第十八週─期末考<br>"
+    },
+    "weeklySchedule": "第一週\t課程介紹<br>第二週\t何謂專業倫理?<br>第三週\t智慧財產法導論<br>第四週\t商標法(1)<br>第五週\t商標法(2)<br>第六週\t商標法(3)<br>第七週\t著作權法(1)<br>第八週\t期中考<br>第九週\t著作權法(2)<br>第十週\t著作權法(3)<br>第十一週\t專題報告(1)<br>第十二週\t專題報告(2)<br>第十三週\t營業秘密法(1)<br>第十四週\t營業秘密法(2)<br>第十五週\t營業秘密法(3)<br>第十六週\t專利法(1)<br>第十七週\t專利法(2)<br>第十八週\t期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "口頭報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "利用課堂口頭報告，學習並適應公開演說的技巧。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解智慧財產權爭議。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習閱讀及搜尋法律文獻及智慧財產法院相關判決。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解智慧財產權法的基本法理及相關法律規定。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "運用本課堂學習的智慧財產權法知識，並加以活用以保護自身權益。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "智慧財產權法─案例式（林洲富，五南文化，2023年13版1刷）",
+    "teachingSoftware": "",
+    "rules": ""
+}

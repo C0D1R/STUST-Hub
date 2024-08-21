@@ -1,0 +1,140 @@
+{
+    "code": "K0D36H01",
+    "name": {
+        "zh": "高階模型設計(二)",
+        "en": "Graduation Project (II)"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技多樂三甲",
+        "四技多樂三乙"
+    ],
+    "instructors": [
+        "邵茂坤"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "W0609"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "W0609"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "W0609"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "模型拓譜技法與工具操作應用技術、次世代各種貼圖特性與應用層面講解、烘焙方法應用與各種工具操作技術、各種貼圖規劃應用方法與修飾技法、次世代各種貼圖上色流程技法應用、3D顯示模擬工具與遊戲引擎校正應用。<br>",
+    "prerequisites": "具有3d美術基礎能力及塑型美學概念",
+    "syllabus": {
+        "zh": "1. 拓譜應用技術：模型拓譜技法與工具操作應用技術。<br>2. 次世代貼圖概論：次世代各種貼圖特性與應用層面講解。<br>3. 次世代貼圖烘焙技術：烘焙方法應用與各種工具操作技術。<br>4. 次世代貼圖規劃技術：各種貼圖規劃應用方法與修飾技法。<br>5. 次世代模型上色技術：次世代各種貼圖上色流程技法應用。<br>6. 作品校正技術：3D顯示模擬工具與遊戲引擎校正應用。<br>",
+        "en": "1. Introduction to higher-order model application: the characteristics of tool software and industrial application level.<br><br>2. 3D sculpture tool operation technology: various interface and functional explanation of operating software tools.<br><br>3. Z-spherical modeling technology: The construction technology for learning rapid prototype modeling is applied to various biological models.<br><br>4. DynaMesh modeling technology: realism or Q version of the role, extending model wiring technology operations.<br><br>5. Brush engraving technology: Various brushes are applied in various model engraving techniques.<br><br>6. Auxiliary tool application technology: various auxiliary tool applications, to achieve high-level model optimization effect and accelerate the design process."
+    },
+    "weeklySchedule": "課程主要以3A級PBR次世代之製作流程為主,對應產業PBR3D上色之動畫、電影、遊戲、AR、VR、MR、元宇宙等多媒體之廣大需求，延續高階模型設計1的後續課程,本課程將從3D次世代武器、角色貼圖處理做為進入課程開始,從各種貼圖處理與修整,id貼圖規劃原理,校正與編修模型質感.學習操作軟體與次世代上色技巧與原理,進入UNITY引擎校正逐步讓學生學習技能以對應未來在專題創作及工作上。<br><br>該課程為3D PBR次世代遊戲美術之流程第二部，著重於PBR材質貼圖及各通道應用及表現技法，是在3D成品不可缺少的重要流程。",
+    "exams": {
+        "midterm": "繳交作業",
+        "final": "繳交作業",
+        "other": "繳交作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "拓譜應用技術",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "次世代貼圖概論",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "次世代貼圖烘焙技術",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "次世代貼圖規劃技術",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "次世代模型上色技術",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "作品校正技術",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "1.Photoshop 2.3DS MAX 2022  3.MAYA 4.Adobe Substance 3D Painter  5.UNITY 6.blender",
+    "rules": "具有3d美術優良基礎者，對3A級PBR次世代美術畫面有高度興趣以及想學專業的PBR 3D上色技術者"
+}

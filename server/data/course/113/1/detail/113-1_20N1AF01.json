@@ -1,0 +1,128 @@
+{
+    "code": "20N1AF01",
+    "name": {
+        "zh": "電路學",
+        "en": "Electric Circuits"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技電機二甲"
+    ],
+    "instructors": [
+        "林正峰"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "I0307"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "I0307"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "I0307"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.電機技師",
+        "2.高普考"
+    ],
+    "description": "電路能傳遞訊號與能量，為電子、通訊、電腦與控制系統的基礎。電路學主要是研究電路的基本理論與分析方法，其主要內容有:<br>1. 電阻電路理論<br>2. 時域分析方法<br>3. 交流穩態電路理論<br>4. 複數頻率與網路函數<br>5. 頻域分析方法",
+    "prerequisites": "物理(電學)、微分方程",
+    "syllabus": {
+        "zh": "1.電路的變數<br>2.電路元件<br>3.簡單的電阻性電路<br>4.電路分析技巧<br>5.運算放大器<br>6.電感電容及互感<br>7.一階RL與RC電路的響應",
+        "en": "1.Circuit Variables<br>2.Circuit Element<br>3.Simple Resistive Circuits<br>4.Techniques of Circuit Analysis<br>5.The Operational Amplifier<br>6.Inductance, Capacitance, and Mutual Inductance<br>7.Response of First-Order RL and RC Circuits"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "知道組成電路的基本元件及其符號。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "明瞭電路的分析方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解重要的網路理論。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解儲能元件及運算放大器電路。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會電路暫態與穩態的觀念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

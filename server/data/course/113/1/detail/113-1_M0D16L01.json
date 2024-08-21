@@ -1,0 +1,187 @@
+{
+    "code": "M0D16L01",
+    "name": {
+        "zh": "烘焙學與實習",
+        "en": "Baking And Pastry License Pratice"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技餐旅二甲"
+    ],
+    "instructors": [
+        "林政陞"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0502"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "T0502"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "T0502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "上課方式以烘焙食品丙級麵包為主，西點蛋糕丙級為輔",
+    "prerequisites": "先修食物製備與原理",
+    "syllabus": {
+        "zh": "1.烘焙概論<br>2.烘焙證照考試產品相關內容介紹<br>3.麵包概論<br>4.西點蛋糕概論<br>5.烘焙原料特性介紹<br>6.烘焙製作技術",
+        "en": "1. The introduction of baking <br>2. The introduction of baking products in Baking License Examination<br>3. The introduction of breads<br>4. The introduction of cakes<br>5. The introduction of basic properties of baking ingredients<br>6. The practices of baking"
+    },
+    "weeklySchedule": "1 9月10日教室衛生安全介紹與分組、機具設備使用說明、烘焙產品分類介紹<br>2 9月17日教室大掃除<br>3 9月24日咖啡奶蓋蛋糕<br>4 10月1日黑糖布丁<br>5 10月8日抹茶奶露麵包<br>6 10月15日葡萄乾牛奶土司<br>7 10月22日水果生乳包<br>8 10月29日海鹽巧克力餅乾<br>9 11月5日期中考<br>10 11月12日黑芝麻馬卡龍<br>11 11月19日水果塔<br>12 11月26日蕎麥蛋糕捲<br>13 12月3日香草旅人蛋糕<br>14 12月10日千層蛋塔<br>15 12月17日黑森林蛋糕<br>16 12月24日抹茶太妃糖餅乾<br>17 12月31日奶酥麵包<br>18 1/7期末考",
+    "exams": {
+        "midterm": "學期烘焙實作心得報告(分組)",
+        "final": "學期烘焙實作心得報告(個人)",
+        "other": "學期烘焙實作心得報告(分組)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解烘焙食品相關應用學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解烘焙食品原料應用與創新應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解烘焙食品原料應用與創新應用",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "以分組方式實際操作學習",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "麵包、西點蛋糕與餅乾專業操作技術學習",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "麵包、西點蛋糕與餅乾專業操作技術學習",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "烘焙食品保存方法與原理應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "烘焙食品保存方法與原理應用",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用Excel 軟體建立烘焙食品標準中英文配方製作表與成本分析表",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自編教材(業界烘焙實務教學與最新烘焙流行資訊分享)",
+    "teachingSoftware": "",
+    "rules": "1.需繳交實作課程材料費<br>2.服裝儀容-穿南臺廚師服.廚帽.圍裙.黑色工作褲.<br>3.不可穿戴戒指.手鍊.手錶以及耳環<br>4.實作前須清點實作器具,實作後須打掃給TA檢查後才可離行"
+}

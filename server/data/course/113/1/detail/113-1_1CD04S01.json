@@ -1,0 +1,152 @@
+{
+    "code": "1CD04S01",
+    "name": {
+        "zh": "數位機構化設計",
+        "en": "Digital Computer Aided Mechanism Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技產設三甲",
+        "四技產設三乙"
+    ],
+    "instructors": [
+        "蔡振良"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "P403"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "P403"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "P403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為了加強學生產品機構設計的能力，以應付未來職場實際需要，本課程以數位輔助軟體來教導學生如何進行機構化設計，讓產品不僅只有外觀設計，還能考慮生產製作之需求。",
+    "prerequisites": "基本立體製圖能力",
+    "syllabus": {
+        "zh": "1. 成型加工：介紹塑膠射出成型，射包成型，旋轉成型，吹氣成型，鋁擠型，成型公差概念<br>2. 塑膠成型品之肉厚：各材料適合之肉厚，平均肉厚概念<br>3. 拔模角：拔模斜度與深度，分模線，拔模方向，強迫脫模<br>4. 圓角設計：消除應力，美觀，安全性，增加射出流動性，加工性之影響<br>5. 倒勾設計：外側倒勾（滑塊加斜角銷，滑塊加彈簧），內側倒勾（斜頂出），靠破設計<br>6. 螺絲柱：介紹螺絲規格，螺絲柱設計原則，螺絲柱與補強肋之關係，表面縮水之處理，塑膠螺牙，預埋螺母，攻牙<br>7. 補強設計：補強肋之高度，解決縮水痕問題，唇緣之補強，平面之補強，邊角之補強<br>8. 定位設計原則<br>9. 美工線設計原則<br>10. 按鍵設計：懸臂式按鍵，橡膠按鍵，彈簧式按鍵<br>11. 結合設計：超音波線設計，熱熔柱設計，卡勾設計<br>12. PCB設計：PCB規劃流程，限制零件高度，規劃零件禁放區<br>13. 導光柱設計：直射式，反射式，隔光設計<br>14. 防水設計：IPxx防水防塵等級，防水圈，填膠溝<br>15. 鈑金設計<br>16. 設計檢查：拔模分析，計算重量，干涉檢查，踫撞偵測，厚度分析",
+        "en": "1.Molding process: Introduce the concept of plastic injection molding, injection molding, rotary molding, blow molding, aluminum extrusion, molding tolerance<br>2.Thickness of plastic molded products: suitable thickness of each material, concept of average thickness<br>3.Draft angle: draft angle and depth, parting line, draft direction, forced demoulding<br>4.Round corner design: stress relief, aesthetics, safety, increase injection fluidity, influence on processability<br>5.Barb design: outer barb (slider plus bevel pin, slider plus spring), inner barb (slanted ejection), break design<br>6.Screw column: introduce screw specifications, screw column design principles, relationship between screw column and reinforcing rib, surface shrinkage treatment, plastic thread, embedded nut, tapping<br>7.Reinforcement design: the height of the reinforcement ribs, the problem of shrinkage marks, the reinforcement of the lip, the reinforcement of the plane, and the reinforcement of the corners<br>8.Positioning Design Principles<br>9.Art line design principles<br>10.Button design: cantilever button, rubber button, spring button<br>11.Combination design: ultrasonic line design, hot-melt column design, hook design<br>12. PCB design: PCB planning process, limit the height of parts, plan the forbidden area of parts<br>13. Light guide column design: direct type, reflective type, light isolation design<br>14. Waterproof design: IPxx waterproof and dustproof grade, waterproof ring, glue filling groove"
+    },
+    "weeklySchedule": "第1週：成型加工：介紹塑膠射出成型，射包成型，旋轉成型，吹氣成型，鋁擠型，成型公差概念；塑膠成型品之肉厚：各材料適合之肉厚，平均肉厚概念；拔模角：拔模斜度與深度，分模線，拔模方向，強迫脫模；圓角設計：消除應力，美觀，安全性，增加射出流動性，加工性之影響。<br>第2週：補強設計：補強肋之高度，解決縮水痕問題，唇緣之補強，平面之補強，邊角之補強<br>第3週：置物箱機構設計教學。<br>第4週：置物箱機構設計作業。<br>第5週：結合設計：超音波線設計，熱熔柱設計，卡勾設計。<br>第6週：雙層杯機構設計教學。<br>第7週：雙層杯機構設計作業。<br>第8週：倒勾設計：外側倒勾（滑塊加斜角銷，滑塊加彈簧），內側倒勾（斜頂出），靠破設計。<br>第9週：螺絲柱：介紹螺絲規格，螺絲柱設計原則，螺絲柱與補強肋之關係，表面縮水之處理，塑膠螺牙，預埋螺母，攻牙；定位設計原則。<br>第10週：美工線設計原則。<br>第11週：按鍵設計：懸臂式按鍵，橡膠按鍵，彈簧式按鍵。<br>第12週：PCB設計：PCB規劃流程，限制零件高度，規劃零件禁放區。<br>第13週：超薄美甲機機構設計作業。<br>第14週：導光柱設計：直射式，反射式，隔光設計。<br>第15週：防水設計：IPxx防水防塵等級，防水圈，填膠溝。<br>第16週：設計檢查：拔模分析，計算重量，干涉檢查，踫撞偵測，厚度分析。<br>第17週：鈑金設計。<br>第18週：單指機機構設計作業。<br>",
+    "exams": {
+        "midterm": "作業",
+        "final": "作業",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "成型加工之概念",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期中"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "產品機構設計能力",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期中"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "數位建模能力",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期中"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "設計分析與檢查",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期中"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "SolidWorks",
+    "rules": ""
+}

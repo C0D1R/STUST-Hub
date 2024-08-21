@@ -1,0 +1,133 @@
+{
+    "code": "G0D15O01",
+    "name": {
+        "zh": "圖像化程式設計實習",
+        "en": "Visual Programming Practices"
+    },
+    "credit": "2",
+    "type": "系定選修",
+    "classes": [
+        "五專資工一甲"
+    ],
+    "instructors": [
+        "鄧瑞哲"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "C304"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "C105"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "C105"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "C105"
+        }
+    ],
+    "hours": {
+        "course": "4",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "不同於一般教授程式設計的課程，本課程將透過Scratch 視覺化的圖形程式環境，教授同學學習如何寫程式，透過圖形化介面把抽象的程式語法和邏輯用圖形化界面簡單地呈現出來。主要特色在於沒有複雜的文字指令語法（Syntax），所有的步驟都是以視覺化的拼圖來呈現。將寫程式變成拼拼圖、堆積木，協助助學生掌握程式設計的觀念及技巧。本課程主要搭配圖像化程式設計課程內容，並在此課程加強同學程式的練習與實作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.Scratch簡介<br>2.Scratch基本認識與安裝<br>3.Scratch操作技巧<br>4.Scratch 腳本<br>5.Scratch 控制方塊<br>6.Scratch 互動方塊<br>7.Scratch 自訂方塊<br>8.Scratch 物理動作模擬 <br>",
+        "en": "1.Introduction of Scratch<br>2.Scratch installation<br>3.Scratch basic script<br>4.Scratch Control<br>5.Scratch interaction<br>6.Scratch Art<br>7.Scratch Physics<br>"
+    },
+    "weeklySchedule": "一、運算思維與Scratch程式設計<br>二、馬上就會基本操作功能<br>三、動態賀卡的吸睛創意<br>四、超萌寶寶的魔法變裝秀<br>五、泰國旅遊的實境體驗<br>六、夢幻海底世界的私房創意<br>七、幼兒字卡練習器<br>八、百變髮型設計懶人包<br>九、風景相片魅惑萬花筒<br>十、歡樂同學錄的製作錦囊<br>十一、驚奇屋歷險特效攻略<br>十二、筆畫心情塗鴉板<br>十三、打造音樂演奏饗宴<br>十四、發財金幣不求人<br>十五、老實樹遊戲攻心密技<br>十六、地表最好玩的乒乓球PK賽",
+    "exams": {
+        "midterm": "筆試 / 實作",
+        "final": "筆試 / 實作",
+        "other": "平時不定時隨堂考、抽考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習在Scratch程式中使用數學及相關工程公式的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "透過開發Scratch建立設計與執行實驗之能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "建構Scratch基礎資訊與應用能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "訓練邏輯、程式設計與資料處理解決問題之能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養專案管理之能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "遊戲中學習Scratch運算思維與程式設計",
+        "author": "數位新知",
+        "publisher": "五南",
+        "year": "2024",
+        "ISBN": "978-626-393-480-1",
+        "edition": "1版1刷"
+    },
+    "referenceBooks": "王麗君. Scratch 3 程式積木創意玩(最新加強版), 碁峰資訊, 2023.<br>王麗君. Scratch3.0 創意程式設計融入學習領域 含GTC全民科技力認證, 台科大圖書, 2022.<br>鄭苑鳳. Scratch 3.0 動畫遊戲設計, 博碩文化, 2020.<br>https://resources.scratch.mit.edu/www/cards/zh-tw/scratch-cards-all.pdf <br>https://resources.scratch.mit.edu/www/cards/en/scratch-cards-all.pdf<br>",
+    "teachingSoftware": "Scratch, https://scratch.mit.edu/",
+    "rules": "1. 請準時上課，必修課一律點名。<br>2. 課堂上須帶教科書，禁止使用「影印版」教科書。<br>3. 課堂及課後要多練習，不會要發問。<br>4. 平時成績評分之重要依據：到課率、上課秩序、作業完成度、平時考、程式。<br>5. 任何考試切勿作弊，違者以不及格計。作業雷同者，抄襲者和被抄襲者該次為零分。<br>6. 請遵守電腦教室規定：不得攜帶任何食物、飲料或水進入。<br>7. 遵守上課秩序，請不要：任意進出教室、在教室睡覺、聊天、玩遊戲、看影片、看社群軟體。 <br>8. 自行登錄學校flipclass查閱相關資訊。"
+}

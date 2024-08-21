@@ -1,0 +1,116 @@
+{
+    "code": "70D06202",
+    "name": {
+        "zh": "資訊管理",
+        "en": "Information Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技企管二乙"
+    ],
+    "instructors": [
+        "丁淑方"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "S316"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S316"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S316"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.企業電子化助理規劃師",
+        ""
+    ],
+    "description": "管理資訊系統包含是資訊系統（Information systems）和資訊科技（Information technology）的學習，課程目的，在於學習如何使用及管理資訊科技，並藉以活化商業程序、經營電子化商務、改進企業決策制訂，以及取得競爭優勢等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 企業資訊系統的基本概念<br>2. 資訊科技的競爭力<br>3. 硬體與軟體<br>4. 資料資源管理與電信通訊網路<br>5. 電子化企業系統 (CRM，ERP，SCM)<br>6. 支援決策制定<br>7. 開發企業與資訊科技的解決方案<br>8. 資訊科技的企業與全球管理",
+        "en": "1. Foundations of Information Systems in Business<br>2. Competing with Information Technology<br>3. Computer Hardware and Computer Software<br>4. Data Resource Management and Telecommunications and Networks<br>5. e-Business Systems<br>6. Supporting Decision Making<br>7. Implementing Business/IT Solutions<br>8. Enterprise and Global Management of Information Technology"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解資訊科技運用在管理上之專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解應用於進行企業資訊管理工作的相關軟體",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解如何進行企業電子化的流程，以提升處理客戶、供應商、與物流之間的效率",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉與資訊管理相關的能力證照鑑定之領域知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "I0D29H01",
+    "name": {
+        "zh": "社會探索與情緒發展",
+        "en": "Children's Social Exploration and Emotional Expression"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技幼保二甲"
+    ],
+    "instructors": [
+        "楊淑娥"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "H206"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "H206"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "幼兒在生活環境中學習，在與環境互動的過程中逐漸成為有能力的健康個體。幼兒透過社會互動，覺察人我的異同，進而瞭解自我。同時也藉由他人行為及環境的回饋，而能理解自我行為的意義，以及內在的情緒。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、\t情緒領域之介紹：情緒在生活與社會互動中的重要性。<br>2、\t情緒的理論基礎。<br>3、\t情緒能力：覺察與辨識、表達、理解與調節。<br>4、\t增進幼兒的信任、自主及自發之基本態度。<br>5、\t以遊戲及創造性材料協助幼兒發展情緒能力。",
+        "en": "1.Introduction to the Emotional Domain: The importance of emotions in life and social interaction.<br>2. The theoretical basis of emotion.<br>3. Emotional ability: awareness and identification, expression, understanding and regulation.<br>4. Improve children's basic attitude of trust, autonomy and spontaneity.<br>5. Use games and creative materials to help children develop emotional abilities.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識情緒在生活與社會互動中的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習營造安全、信任、自主的互動氛圍",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升幼兒的情緒能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "發展幼兒情緒教育教材和活動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

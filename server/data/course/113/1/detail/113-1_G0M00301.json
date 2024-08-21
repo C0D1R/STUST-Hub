@@ -1,0 +1,122 @@
+{
+    "code": "G0M00301",
+    "name": {
+        "zh": "書報討論(三)",
+        "en": "Seminar (III)"
+    },
+    "credit": "0",
+    "type": "必修",
+    "classes": [
+        "碩研資工二甲"
+    ],
+    "instructors": [
+        "洪國鈞"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "C202"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "C202"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程擬以學生上台報告研究文獻，輔以專家演講等，讓學生了解最新的資訊技術與相關文獻探討。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 學生上台報告論文<br>2. 同學提問<br>3. 教授講解",
+        "en": "1. Presentation<br>2. Question<br>3. Discussion"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.閱讀相關文獻或傾聽演講，以瞭解資訊產業發展現況",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.研讀相關外語文獻，並進行討論與分享",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.探究資訊系統問題發生緣由，並進行歸類",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.撰寫書面報告並進行講演",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5.嘗試運用各種演算法、技術或工具解決發生之資訊問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

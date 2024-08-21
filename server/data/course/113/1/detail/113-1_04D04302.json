@@ -1,0 +1,169 @@
+{
+    "code": "04D04302",
+    "name": {
+        "zh": "體育生活(三)：壘球(B)",
+        "en": "Physical Education(III)：Softball"
+    },
+    "credit": "1",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "四技高福二甲",
+        "四技企管二甲",
+        "四技企管二乙",
+        "四技行流二甲",
+        "四技行流二乙",
+        "四技應日二甲",
+        "四技應日二乙",
+        "四技半導體二甲",
+        "四技半導體二乙",
+        "四高福國專二甲",
+        "四半導國專二甲"
+    ],
+    "instructors": [
+        "陳毅"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": ""
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1、慢速壘球是結合棒球和壘球比賽型態的一項休閒運動,傳接球容,投手球速緩慢,容易打擊,適合老中清的一項運動2、球賽特性以團隊為主體,可以養成互助合作,以球會友,增進學生之間感情和交流,並提倡正當的休閒運動促進身體健康。",
+    "prerequisites": "注意事項：\n1.請盡量能自備手套、帽子\n2.請準時到達上課地點、著運動服裝、運動鞋\n3.上課中禁止吃零食、麵包、便當等食物",
+    "syllabus": {
+        "zh": "1、短傳球,長傳球,接球,滾地球,高飛球,第一時間反彈球,過頂飛球等練習2、投手投擲練習3、揮打法及推打法兩種擊球方式4、規則研討5、一壘封殺演練6、分組比賽講習規則",
+        "en": "1、 Short pass, long pass, catching, ground ball, high flying ball, overhead flying ball 2、 Pitcher throwing practice3、 Hitting methods: swing and push 4、 Rules discussion5、 first base force out drill6、 Group competition"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建構豐富全人健康生活，充實壘球運動概念與技能及專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成規律運動習慣，將理論與實際結合，融會貫通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養健康與快樂生活，有條理的表達與溝通，加強積極回應之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "發展健全人格特質，培養文藝涵養、道德品格",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立尊重與關懷他人之習慣，培養與他人互動和發展友誼的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養文化表達的能力，欣賞創意、運動、藝術，感受生命的力量，得到美的享受",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "謙虛主動學習新事物，有企圖心，對新環境的應變，有效的調整自我之適應彈性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "謙虛主動學習新事物，有企圖心，對新環境的應變，有效的調整自我之適應彈性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

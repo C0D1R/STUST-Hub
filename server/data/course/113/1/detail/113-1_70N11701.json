@@ -1,0 +1,140 @@
+{
+    "code": "70N11701",
+    "name": {
+        "zh": "專案管理",
+        "en": "Project Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜二技企管四甲",
+        "夜四技企管四甲"
+    ],
+    "instructors": [
+        "袁國中"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "S414"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "S414"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "S414"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學習兩個專案管理的構面：<br>1.藝術：領導專案成員、人力資源管理、組織行為<br>2.科學：五大程序與九大知識領域管理知識、技巧運用、有效執行專案步驟",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.專案與專案管理簡介<br>2.專案的整合管理<br>3.專案的範疇管理<br>4.專案的時間管理<br>5.專案的成本管理<br>6.專案的品質管理<br>7.專案的人力資源管理<br>8.專案的溝通管理<br>9.專案的風險管理<br>10.專案的採購管理<br>11.專案計劃的基本原理<br>12.專案計畫書的編撰",
+        "en": "1. The definition and characteristics of project management.<br>2. Project Management Processes.<br>3. Project manager and organization.<br>4. Project Integration Management.<br>5. Project Scope Management.<br>6. Project Time &amp; process control.<br>7. Project cost management.<br>8. Project Quality Management.<br>9. Project Risk Management.<br>10. Project Human Resource Management.<br>11. Project Communication Management.<br>12. Project Procurement Management.<br>13. Project Execution Plan Document."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解商管各項知識的綜合搭配與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "決策的取捨與資源的掌握安排",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "溝通與協調",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "專案的實務規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習調整與創新",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "專案的運作推動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

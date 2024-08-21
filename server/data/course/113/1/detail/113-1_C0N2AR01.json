@@ -1,0 +1,130 @@
+{
+    "code": "C0N2AR01",
+    "name": {
+        "zh": "職場自主學習(三)",
+        "en": "Practicum in Applied English (Ⅲ)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜二技應英四甲",
+        "夜四技應英二甲"
+    ],
+    "instructors": [
+        "黃大夫"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第11節",
+            "location": "N204"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在提供本系學生「英語教學」與「商務溝通」之職場實務經驗，透過長期的實地參觀、訓練與實習，除可讓學生熟悉職場工作環境與內容，訓練學生學以致用之能力外，亦可培養良好之工作態度。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.實習場所之尋覓與瞭解<br>2.實習合約之簽訂<br>3.職前教育訓練與考核<br>4.工作態度與表現之評量 <br>",
+        "en": "1.To know where and how to look for potential jobs<br>2.To get familiar with employment contracts<br>3.To know pre-service training<br>4.To understand job ethics and job evaluation"
+    },
+    "weeklySchedule": "WK1-2: Intro of the course<br>WK3-4: Understand the importance of self-directed independent learning in a work place <br>WK5-6: Learn to use vocabulary assessment tools<br>WK7-8: Be familiar with useful word lists<br>WK9: Midterm<br>WK10-11: Learning development and challenges in a life career  <br>WK12-14: Linking of English ability growth and career development<br>WK15-16: Development of social networking and expansion of interpersonal connection resources<br>WK17: Reflections on career ethics and development <br>WK18: Final<br>",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "書面報告",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "增加學生自主學習能力",
+            "teachingMethods": [
+                "分組討論",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "具備職場英文之知識與技能",
+            "teachingMethods": [
+                "啟發思考",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能學以致用，結合理論與實務",
+            "teachingMethods": [
+                "啟發思考",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能遵守工作紀律，發揮團隊精神",
+            "teachingMethods": [
+                "啟發思考",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,114 @@
+{
+    "code": "1JN00Z01",
+    "name": {
+        "zh": "生死學概論",
+        "en": "Introduction to life and death studies"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜二技高福三甲"
+    ],
+    "instructors": [
+        "胡小玫"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第1節",
+            "location": "O101"
+        },
+        {
+            "day": "週六",
+            "period": "第2節",
+            "location": "O101"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "生、老、病、死是人生四大課題，沒有一個人可以迴避，而此對於較其他年齡階段更鄰近死亡的高齡者尤顯迫切。隨著高齡社會成為世界人口普遍的發展趨勢，文明進步，經濟生活改善，人民教育水準普遍提高，死亡的神秘面紗逐漸解開，談論死亡已漸為人接受。因此，本課程主要從社會面切入，讓學生了解目前大眾對於生死議題的認知與態度；其次，帶領學生認識死亡的可能樣貌與本質，從而反思生命的意義與價值，成長自我、協助他人；最後，提供面對死亡如何因應，包括關懷陪伴與悲傷調適等，促進學生在未來實務領域中，具備引導生死議題的談論及輔導、協助高齡者面對與處理相關事宜的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、避諱與善終<br>二、死亡心理與態度<br>三、死亡教育概念與內涵<br>四、從瀕死經驗認識死亡<br>五、從催眠與輪迴認識死亡<br>六、靈魂觀與反思生死<br>七、死亡處理<br>八、臨終關懷與陪伴<br>九、面對親人死亡<br>十、生命各階段的喪親悲傷<br>十一、寵物飼養與生死面對<br>十二、生命關懷與意義<br>十三、生命平等與尊重<br>十四、靈性提升與宗教信仰<br>十五、壓力調適與情緒管理<br>十六、銀髮關懷與照護<br>",
+        "en": "1.Taboo and hospice<br>2.Death psychology and attitude<br>3.Concept and connotation of death education<br>4.Understanding death from near-death experience<br>5.Understanding death from hypnosis and reincarnation<br>6.Soul view and reflection on life and death<br>7.Death treatment<br>8.Hospice and companionship<br>9.Facing the death of a loved one<br>10.Bereavement grief at all stages of life<br>11.Breeding and facing the life and death of pet<br>12.Life care and meaning<br>13.Life equality and respect<br>14.Spiritual ascension and religious belief<br>15.Stress adjustment and emotional management<br>16.Care for elderly<br>"
+    },
+    "weeklySchedule": "一、避諱與善終<br>二、死亡心理與態度<br>三、死亡教育概念與內涵<br>四、從瀕死經驗認識死亡<br>五、從催眠與輪迴認識死亡<br>六、靈魂觀與反思生死<br>七、死亡處理<br>八、臨終關懷與陪伴<br>九、面對親人死亡<br>十、生命各階段的喪親悲傷<br>十一、寵物飼養與生死面對<br>十二、生命關懷與意義<br>十三、生命平等與尊重<br>十四、靈性提升與宗教信仰<br>十五、壓力調適與情緒管理<br>十六、銀髮關懷與照護",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末考試",
+        "other": "日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "協助學生瞭解社會對死亡認知與態度",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "促進學生了解死亡本質與內涵，克服焦慮與恐懼",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生及其與他人談論生死議題之溝通技巧",
+            "teachingMethods": [
+                "啟發思考",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "提升學生能運用生死學識於實務場域之應用，提升生死尊嚴",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材、生死學概論",
+        "author": "郭慧娟",
+        "publisher": "郭慧娟",
+        "year": "2020",
+        "ISBN": "9789869812986",
+        "edition": "2"
+    },
+    "referenceBooks": "余嬪、何青蓉（總編）（2014）。樂齡學習系列教材.16生命的難題與超越：高齡者生命教育手冊。臺北市：教育部。<br>吳震環譯(2006)。Marlee Alex 著。銀髮族的全人關顧。台北：文藝。<br>吳瓊滿、賴維淑譯（2013）。老人生死教育。台北：華騰。<br>宋瑞珍（2007）。生死的意義。載於趙可式（2007）。醫生與生死，5-9。台北\t市：寶瓶文化。<br>尉遲淦(2003)。生死學概論。台北：五南。<br>楊培珊、梅陳玉嬋(2010)。台灣老人社會工作。台北：雙葉書廊。<br>蔡明昌、顏蒨榕（2005）。老人生死教育教學之研究。生死學研究，2，129-174。",
+    "teachingSoftware": "ppt",
+    "rules": ""
+}

@@ -1,0 +1,141 @@
+{
+    "code": "40D06101",
+    "name": {
+        "zh": "普通化學(一)",
+        "en": "General Chemistry  I"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技化材一甲",
+        "四技化材一乙",
+        "四化材國專一甲"
+    ],
+    "instructors": [
+        "林鴻儒"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "I0516"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "I0516"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "I0516"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以介紹原子、分子及離子，原子的電子結構及週期表，氣體及溶液的性質，能量的變化之關係。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、氣體<br>二、熱化學<br>三、原子的電子結構<br>四、週期表<br>五、化學建 I ：共價鍵<br>六、化學鍵 II：分子幾何形狀和原子軌域之混成化<br>七、分子間作用力和液體與固體",
+        "en": "The Outline of this semester：<br>1. Gases<br>2.Thermochemistry<br>3.The Electronic Structure of Atoms<br>4.The Periodic Table <br>5.Chemical Bonding I: The Covalent Bond<br>6.Chemical Bonding II: Molecular Geometry and Hybridization of Atomic Orbitals<br>7.Intermolecular Forces and Liquids and Solids"
+    },
+    "weeklySchedule": "一、 氣體(第1-2週)<br>二、 熱化學(第3-4週)<br>三、 原子的電子結構(第5-6週)<br>四、 週期表(第7-8週)<br>五、 化學建 I ：共價鍵(第10-12週)<br>六、 化學鍵 II：分子幾何形狀和原子軌域之混成化(第13-15週)<br>七、 分子間作用力和液體與固體 (第16-17週)<br>",
+    "exams": {
+        "midterm": "自行筆試",
+        "final": "自行筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能知道氣體定律、原子的電子結構、週期表、 化學鍵、分子間作用力和液體與固體之特性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能將所學的化學知識應用於日常生活上",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有系統及有組織的回答課堂上老師詢問之專業問題",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能與同學相互討論完成作業",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用網際網路平台收集並研讀相關資料",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Chemistry",
+        "author": "Raymond Chang & Kenneth A. Goldsby",
+        "publisher": "McGraw Hill",
+        "year": "2019",
+        "ISBN": "ISBN 978-1-260-08531-0",
+        "edition": "13th"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

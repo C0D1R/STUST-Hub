@@ -1,0 +1,122 @@
+{
+    "code": "01D14H03",
+    "name": {
+        "zh": "法律與你",
+        "en": "Law and You"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專資工二甲"
+    ],
+    "instructors": [
+        "蔡漢生"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "D202"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "D202"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "瞭解身為群體生活的國民，都有義務遵守法律，舉凡與人交友、買賣、投資理財、婚姻、繼承等，皆須受法律規範。因此從家庭、工作、生活、創作、財務管理、醫療、法律體系等面向，介紹日常生活可能遇到的法律行為；從而確保自身與他人的生命、身體、自由、財產、名譽、貞操等權益；進而深入認知人生須仰賴法律的規範，帶動國家和社會的制度化、秩序化與法治化，同時保障私人的權益。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.法律與家庭<br>2.法律與工作<br>3.法律與生活<br>4.法律與創作<br>5.法律與財務管理<br>6.法律與醫療<br>7.糾紛解決途徑<br>",
+        "en": "1. Law and family<br>2. Law and work<br>3. Law and life<br>4. Law and creation<br>5. Law and financial management<br>6. Law and medical treatment<br>7. Dispute resolution approach<br>"
+    },
+    "weeklySchedule": "第一週\t課程介紹<br><br>第二週\t法律種類與生活關係<br><br>第三週\t婚姻關係<br><br>第四週\t繼承<br><br>第五週\t家庭暴力<br>※本專題符合SDGs目標5 性別平等：實現性別平等，並賦予婦女權力<br><br>第六週\t勞資爭議<br>※本專題符合SDGs目標10 減少不平等：減少國內及國家間的不平等<br><br>第七週\t職場問題<br><br>第八週\t個案討論 (一) 婚姻關係與家庭暴力<br><br>第九週\t期中考<br><br>備註：上列課程進度會根據學生學習成效酌於調整。<br><br>第十週\t性別侵犯<br>※本專題符合SDGs目標5 性別平等：實現性別平等，並賦予婦女權力<br><br>第十一週\t房屋的租買與消費糾紛<br><br>第十二週\t交通安全<br><br>第十三週\t網路法律<br><br>第十四週\t債 權<br>※本專題符合SDGs目標16 和平、正義及健全制度：促進和平多元的社會，確保司法平等，建立具公信力且廣納民意的體系<br><br>第十五週\t醫療糾紛<br><br>第十六週\t糾紛解決途徑與國家賠償<br><br>第十七週\t個案討論 (二) 傅達仁安樂死的道德爭議<br><br>第十八週\t期末考<br>",
+    "exams": {
+        "midterm": "教室內線上考試",
+        "final": "教室內線上考試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "養成社會倫理、法律知識及邏輯思考的基本知能，提高對社會規範議題的認知。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "深刻理解法律在社會中的功能和目的，並能表現出應對進退的適當規範。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養誠信、廉潔及社會倫理的遵守，並養成對各項任務與義務的盡責。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "提高理性思辨各種倫理抉擇與難題，並於生活中展現理性反省與批判的能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "養成以法學常識去關懷社會或幫助需要協助的人，並體驗服務的意涵。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "劉作揖(2012)。法律與人生(八版)。五南出版社。ISBN：9789571164243",
+    "teachingSoftware": "powerpoint",
+    "rules": "1.本課程以課堂講授為主，討論為輔，本教學大綱得視教學需要調整之。<br>2.上課勤惰情況（缺曠或遲到）會列為平時成績之考核。<br>3.上課時會採隨機抽問或分組討論的方式來進行問題導向學習。<br>4.請同學尊重智慧財產權，不得非法影印，以免觸犯智慧財產權相關法令。"
+}

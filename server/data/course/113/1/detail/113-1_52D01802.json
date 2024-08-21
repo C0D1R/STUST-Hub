@@ -1,0 +1,115 @@
+{
+    "code": "52D01802",
+    "name": {
+        "zh": "人因工程",
+        "en": "Human Factors"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技工管三乙"
+    ],
+    "instructors": [
+        "李慈賢"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "T0211"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0211"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0211"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "探討人類生理及心理特性對工作效率及傷害的影響。課程內容包括人體計測學、作業負荷與身體反應、人工物料搬運探討、工作場所佈置與設計、感覺系統與認知、心智活動、人機介面設計等主題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.人因研究法<br>2.人體計測學<br>3.人類資訊處理能力<br>4.人機介面設計<br>5.人類體能工作<br>6.工作場所設計準則<br>",
+        "en": "1. Human factors research methodologies   <br>2. Anthropometry  <br>3.Human information processing capability  <br>4. Human-machine interface design   <br>5. Human physical work   <br>6. Workplace design principles<br>"
+    },
+    "weeklySchedule": "人因工程之課程在探討人類生理與心理特性、能力與差異對人類行為、活動、工作效率、壓力及職業傷害的影響以及人類與工具及周遭環境之間交互的關係。<br><br>課程內容大綱包括人因工程概論、人因工程研究方法、人體的感覺系統與認知、人類資訊處理能力（人體資訊的輸入與輸出）、心智活動、記憶與認知、決策與行動選擇、人機系統與介面設計（顯示裝置設計、語音傳遞系統設計與控制裝置設計）、人為失誤、人體組織與結構系統、人體計測學、工作生理（作業負荷與身體反應）、生物力學、人工物料搬運、坐姿工作設計、工作場所佈置與設計、工作場所安全與衛生、手工具設計等主題。<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第6週及第15週筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養人因工程專業知識之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養人因工程管理實務之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養人因工程計畫評估之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養人因工程書面報告之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

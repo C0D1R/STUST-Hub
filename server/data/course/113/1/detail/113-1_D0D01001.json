@@ -1,0 +1,123 @@
+{
+    "code": "D0D01001",
+    "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技行流一甲",
+        "四行流國專一甲"
+    ],
+    "instructors": [
+        "陳淑慧"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "T0210"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0210"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0210"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以課堂講授及個案解析的方式,訓練學員瞭解行銷管理的理論及其運用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、行銷學的本質與範疇<br>二、確認與選擇市場<br>三、產品<br>四、價格<br>五、通路<br>六、促銷<br>七、管理行銷活動 <br>",
+        "en": "1.The Nature and Scope of Marketing<br>2.Identifying and Selecting Markets<br>3.Product<br>4.Price<br>5.Place<br>6.Promotion<br>7.Managing the Marketing Effort"
+    },
+    "weeklySchedule": "第一週  第1章：瞭解行銷的內涵<br>第二週  第2章：透視行銷環境<br>第三週  第3章：維護行銷道德<br>第四週  第4章：執行行銷研究<br>第五週  第5章：分析消費者行為<br>第六週  第6章：分析組織購買行為<br>第七週  第7章：發展市場區隔、目標市場與定位<br>第八週  第8章：管理產品與推出新產品<br>第九週  第9章：經營品牌<br>第十週  第10章：發展服務與體驗行銷<br>第十一週  第11章：制訂價格<br>第十二週  第12章：建設行銷通路<br>第十三週  第13章：管理零售、批發與物流<br>第十四週  第14章：發展整合行銷溝通<br>第十五週  第15章：管理大眾溝通<br>第十六週  第16章：管理客製化與互動式溝通<br>第十七週  第17章：執行與控制行銷策略<br>第十八週  期末考<br><br>",
+    "exams": {
+        "midterm": "作業",
+        "final": "作業",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識行銷學的本質與範疇",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解目標市場的確認與選擇",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解行銷組合的制定",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "管理行銷活動",
+            "teachingMethods": [
+                "課堂講授",
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                },
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "行銷管理概論：探索原理與體驗實務",
+        "author": "曾光華",
+        "publisher": "前程文化事業股份有限公司，",
+        "year": "2021",
+        "ISBN": "9789869947558",
+        "edition": "6"
+    },
+    "referenceBooks": "1.\tPhilip Kotler, Hermawan Kartajaya, and Iwan Setiawan (2016), Marketing 4.0: Moving from Traditional to Digital, Hoboken, NJ: Wiley.<br>2.\tPhilip Kotler and Kevin Lane Keller (2017), Marketing Management, 15th edition, Upper Saddle River, NJ: Prentice Hall.<br>",
+    "teachingSoftware": "",
+    "rules": "注意上課態度與出席率。"
+}

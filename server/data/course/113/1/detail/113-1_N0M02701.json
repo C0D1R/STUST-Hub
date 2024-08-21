@@ -1,0 +1,140 @@
+{
+    "code": "N0M02701",
+    "name": {
+        "zh": "財務管理專題",
+        "en": "Seminar in Financial Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩全球經管一甲"
+    ],
+    "instructors": [
+        "林靖中"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "E0604"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "E0604"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "E0604"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要是站在「公司管理者」的角度，利用相關財務理論來執行正確的財務決策，以追求公司價值極大化。學生可辨識與分析日常工作所面臨的問題，並運用所學財務技術來進行決策以解決其問題。<br>By introducing financial theories and practices, this course is to help corporation management making appropriate financial decisions to maximize the corporate market value. Students are able to identify and analyze the financial issues happening in their daily works, and apply the techniques to make appropriate decisions to solve their problems.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "公司理財導論(Ch.1,2,3,4)<br>債券與股票評價(Ch.5、6)<br>風險與報酬(Ch.10、11、13)<br>資金成本(Ch. 12)<br>資本預算(Ch.7,8,9)<br>資本結構(Ch.14、15)<br>股利政策(Ch16)<br>營運資金管理(Ch18)",
+        "en": "1.Introduction to Corporate Finance<br>2.Bond Valuation and Stock Valuation<br>3.Risk and Return<br>4.Cost of Capital<br>5.Investment Criteria<br>6.Capital Budgeting<br>7.Capital Structure<br>8.Dividend Policy<br>9.Short-term Financial Planning<br>10. Business Ethic in Financial Management"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解企業的組織架構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解公司財務管理的目標",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解財務管理的課題與決策內容",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "財務經理人與財務管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "公司治理與代理問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Understand the related issue of business ethic in financial management",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

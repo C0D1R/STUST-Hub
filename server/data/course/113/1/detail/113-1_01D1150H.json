@@ -1,0 +1,286 @@
+{
+    "code": "01D1150H",
+    "name": {
+        "zh": "台灣與世界",
+        "en": "Taiwan in the World"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應日二甲"
+    ],
+    "instructors": [
+        "楊子震"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "N502"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "N502"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在以外部視野與內部剖析等角度，多元觀察影響到台灣的世界趨勢、潮流、現象及發展等等，包括文化、產業、宗教、人權、藝術、族群與歷史等各個層面的探索，並建立以立足台灣、胸懷天下為基礎的台灣主體意識，期能令學習者對台灣以及台灣所置身其中的全球環境，有更進一步的了解。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "A.共同課綱<br>1.導論：國際視野下的台灣<br>2.台灣族群：原住民、舊移民、新移民、新住民<br>3.從台灣看現代世界的兩個主要趨勢--地球村與全球化<br>4.全球思維：區域整合與世界體系<br>5.世界公民：教育、人權與普世價值<br>B1.分群課綱：工程•設計學群<br>6.輪子與翅膀：台灣工業發展趨勢<br>7.0與1的轉換：資訊產業與數位時代<br>8.創意與行動：在地文化與產業發展<br>B2.分群課綱：商管•人文學群<br>6.國際加工基地：依賴與競合<br>7.東亞經濟模式：從亞洲四小龍到中國崛起<br>8.行銷世界：在地經驗與台灣品牌<br><br><br>",
+        "en": "A. Common <br>1. Introduction: Taiwan in the international perspective<br>2. Taiwan ethnic groups: First Nations, old immigrants, new immigrants, new residents<br>3. From Taiwan, we look at the two main trends of the modern world -- the global village and globalization<br>4. Global thinking: regional integration and the world system<br>5. Citizens of the world: Education, human rights and universal values<br>B1. Group Outline: Engineering and Design Group <br>6. Wheels and Wings: Taiwan's Industrial Development Trends<br>7.0 and 1 Conversion: Information Industry and the Digital Age<br>8. Creativity and action: in the development of local culture and industry<br>B2. Group Curriculum: Business Administration and Humanities Group <br>6. International processing base: dependence and competition<br>7. East Asian Economic Model: From the Four Dragons of Asia to the Rise of China<br>8. Marketing World: Experience in the local and Taiwan brand<br><br>"
+    },
+    "weeklySchedule": "導入 何謂「臺灣島史」概念？<br>一、 東亞的近代──十九世紀<br>二、 日俄戰爭與日韓合併──十九世紀末<br>三、 世界戰爭與改造──一九一〇年代<br>四、 社會主義與民族主義──一九二〇年代<br>五、 新秩序的摸索──一九三〇世紀<br>六、 亞洲太平洋戰爭與「大東亞共榮圈」──一九三五年～一九四五年<br>七、 亞洲諸戰爭的時代──一九四五年～一九六〇年<br>八、 越戰的時代──一九六〇年～一九七五年<br>九、 經濟發展與民主革命──一九七五年～一九九〇年<br>十、 邁向和解與合作的未來？──一九九〇年以後迄今<br><br>",
+    "exams": {
+        "midterm": "出席缺曠",
+        "final": "紙筆測驗",
+        "other": "日常表現、指定課題"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能深入認識台灣歷史，有效地解決各項問題。(A3)",
+            "teachingMethods": [
+                "課堂講授",
+                "成果驗收",
+                "參觀實習",
+                "專題演講",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "設計製作"
+                },
+                {
+                    "method": "平時",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "獨創具體的創新思維，解析台灣歷史古今的不同。(E4)",
+            "teachingMethods": [
+                "課堂講授",
+                "成果驗收",
+                "參觀實習",
+                "專題演講",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "設計製作"
+                },
+                {
+                    "method": "平時",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "統合歷史知識於生活或學習中，拓展歷史視野，適切因應地球村及國際化趨勢。(C3)",
+            "teachingMethods": [
+                "課堂講授",
+                "成果驗收",
+                "參觀實習",
+                "專題演講",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "設計製作"
+                },
+                {
+                    "method": "平時",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立台灣主體意識，展現對本土及國際文化的理解，培育具世界觀及人文素養的公民。(C2)",
+            "teachingMethods": [
+                "課堂講授",
+                "成果驗收",
+                "參觀實習",
+                "專題演講",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "設計製作"
+                },
+                {
+                    "method": "平時",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解台灣歷史的發展與意義，並於生活中展現反省、理性思辨的能力。(I4)",
+            "teachingMethods": [
+                "課堂講授",
+                "成果驗收",
+                "參觀實習",
+                "專題演講",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "設計製作"
+                },
+                {
+                    "method": "平時",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "展現負責盡職、秉持敬業精神完成各項任務並服務社會。(H1)",
+            "teachingMethods": [
+                "課堂講授",
+                "成果驗收",
+                "參觀實習",
+                "專題演講",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "設計製作"
+                },
+                {
+                    "method": "平時",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "關懷台灣的周遭環境，維護台灣與世界的利益共存(J4)",
+            "teachingMethods": [
+                "課堂講授",
+                "成果驗收",
+                "參觀實習",
+                "啟發思考",
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "設計製作"
+                },
+                {
+                    "method": "平時",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "東亞近現代通史：從19世紀至今的地域史（上、下）",
+        "author": "和田春樹、後藤乾一、木畑洋一、山室信一、趙景達、中野聰、川島真",
+        "publisher": "聯經",
+        "year": "2024",
+        "ISBN": "9789570872989",
+        "edition": "初版"
+    },
+    "referenceBooks": "1. 戴天昭著（李明峻譯）《臺灣國際政治史（完整版）》（臺北：前衛，2002年2月） <br><br>2. 安德魯．戈登著（李朝津譯）《二十世紀日本:從德川時代到現代》（香港：香港中文大學，2007年3月）<br><br>3. 蔣竹山、陳俊強、李君山、楊維真《巨龍的蛻變：中國一八四〇至二〇〇八》（臺北：五南，2009年3月）<br><br>4. 若林正丈著（李承機等譯）《戰後臺灣政治史：中華民國臺灣化的歷程》（臺北：國立臺灣大學出版中心，2014年3月）<br><br>5. 林孝庭《台海‧冷戰‧蔣介石：解密檔案中消失的台灣史1948-1988》（臺北：聯經，2015年6月）<br><br>6. 周婉窈《臺灣歷史圖說（第三版）》（臺北：聯經，2016年10月）<br><br>7. 黃清琦、黃驗、黃裕元《臺灣歷史地圖（增訂版）》（臺北：遠流，2018年2月 ）<br><br>8. 法律白話文運動、故事編輯部《中華民國斷交史》（臺北：聯合文學，2019年1月）<br><br>9. 周婉窈《少年臺灣史：寫給島嶼的新世代和永懷少年心的國人（增訂版）》（臺北：玉山社，2019年9月）<br><br>10. 張國城《國家的決斷：給台灣人看的二戰後國際關係史》（臺北：八旗文化，2019年10月）<br><br>11. 方德萬著（何啟仁譯）《戰火中國1937-1952：流轉的勝利與悲劇 近代新中國的內爆與崛起》（臺北：聯經，2020年11月）<br><br>12. 張國城《美國的決斷：台灣人應該知道的美國外交思維與決策》（臺北：八旗文化，2020年11月）<br><br>13. 楊孟軒《逃離中國：現代臺灣的創傷、記憶與認同》（臺北：國立臺灣大學出版中心，2023年1月）<br><br>14. 吳聰敏《台灣經濟四百年》（臺北：春山出版，2023年2月）<br><br>15. 陳翠蓮《重探戰後臺灣政治史》（臺北：春山出版，2024年3月）",
+    "teachingSoftware": "",
+    "rules": "1．準時到課及全程出席有困難者，加退選時建議請再三思。<br><br>2．課程進度得視實際需要調整。<br><br>3．詳細課程規範、評量方式等將於期初上課時進行說明，請務必出席。<br><br>4．上課中嚴禁使用任何電子3C產品。<br><br>5．指定用書為課前預習、課堂討論、課後複習所必需，請務必自行購入或確保長期借閱。"
+}

@@ -1,0 +1,122 @@
+{
+    "code": "M0D14V01",
+    "name": {
+        "zh": "餐旅法文",
+        "en": "French for Hospitality Industry"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技餐旅三乙"
+    ],
+    "instructors": [
+        "劉恬伶"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "N504"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "N504"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程是針對從未學過法語但對法語及法國飲食文化感興趣的餐旅系學生開設。本課程從法語字母、發音及基本會話開始教起，至進入餐廳用語、廚房專業術語介紹及法語食譜研讀。我們所使用的教材，除了指定課本外，還有老師自編的講義及網路上的法語教學網站。上課內容著重在聽和說兩個層面。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t字母發音教學<br>2.\t簡易文法規則<br>3.\t餐廳用語對話教學 (訂位、點餐等)<br>4.\t廚房專業術語 (器皿、烹條用具、食才認識等)<br>5.\t食譜研讀 (常用的烹條術語)<br>6.\t法國地方菜系介紹<br>",
+        "en": "1.\tPronunciation<br>2.\tSimple grammatical rules<br>3.\tConversation about how to make a reservation and make an order in the restaurant <br>4.\tIntroduction of culinary jargon<br>5.\tA close reading of some recipes <br>6.\tA brief introduction of French cuisine <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解法語發音及簡易文法規則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "餐廳用語對話教學 (訂位、點餐等)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "食譜研讀 (常用的烹條術語)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解法國地方菜系",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "廚房專業術語 (器皿、烹條用具、食才認識等)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

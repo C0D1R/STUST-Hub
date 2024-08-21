@@ -1,0 +1,116 @@
+{
+    "code": "D0D10601",
+    "name": {
+        "zh": "策略性行銷",
+        "en": "Strategic Marketing"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技行流四甲",
+        "四技行流四乙"
+    ],
+    "instructors": [
+        "黃盈裕"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "T0207"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0207"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0207"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程的目的在介紹行銷管理的核心觀念，剖析行銷環境的變動趨勢與顧客的行為，並從策略性的觀點有系統地探討各項行銷管理決策與工具及重要的行銷管理議題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "程介紹與行銷學的基本觀念<br>行銷環境、行銷資訊與行銷研究<br>市場區隔、目標市場、定位<br>消費者概論與相關議題<br>消費者決策行為模式<br>消費者經驗與顧客關係<br>消費者區隔模式與國際市場區隔<br>第一階段分組個案簡報與討論（1-3組）<br>第一階段分組個案簡報與討論（4-6組）<br>產品生命週期的管理與新產品發展<br>推廣策略<br>產品策略與品牌管理<br>服務行銷<br>服務品質缺口模式<br>流通策略<br>定價策略<br>",
+        "en": "Topics<br>1 Market Orientation and Performance<br>2 Market Analysis<br>3 Marketing Mix Strategies <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "行銷管理與業務人員之相關專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能與學習夥伴維持良好的關係，建立為目標共同努力的良好互動。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具聆聽能力，有組織、有條理的表達與溝通。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能善盡企業的社會責任，遵守職業道德。更進一步還能建立尊重與關懷他人的習慣，對於需要幫助的人慷慨的提供協助與支援，能以同理心去關懷服務的對象之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

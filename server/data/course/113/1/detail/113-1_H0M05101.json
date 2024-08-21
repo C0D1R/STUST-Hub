@@ -1,0 +1,115 @@
+{
+    "code": "H0M05101",
+    "name": {
+        "zh": "食品毒物學",
+        "en": "Food Toxicology"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研食品一甲"
+    ],
+    "instructors": [
+        "褚俊傑"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "I0702"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "I0702"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "I0702"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程內容除了讓學生認識食品毒物、食品毒物分類、毒性分析與風險評估、食品致癌物與致突變物質與食品化學殘留物外，也提供食品中毒案例分析討論，已加強學生思考、推論、解決問題及表達能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 課程介紹<br>2. 基本毒理學及藥物動力學<br>3. 食品毒物藥物動力學<br>4. 食品毒物分類<br>5. 食品中毒<br>6. 食品毒性分析<br>7. 食品風險評估<br>8. 食品致癌物與致突變物質<br>9. 食品中化學物質殘留<br>10. 食品中毒案例分析<br>",
+        "en": "1. Course Introduction<br>2. Basic toxicology and pharmacokinetics<br>3. Food poison pharmacokinetics<br>4. Classification of food poisons<br>5. Food poisoning<br>6. Food toxicity analysis<br>7. Food risk assessment<br>8. Food carcinogens and mutagenic substances<br>9. Residues of chemical substances in food<br>10. Case analysis of food poisoning"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "讓學生認識食品毒物、食品毒物分類、毒性分析與風險評估，也提供食品中毒案例分析討論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "可使學生了解食品毒物與營養毒理相關學理知識、食品致癌物與致突變物質與食品化學殘留物",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "已加強學生思考、推論、解決問題及表達能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "包含文獻閱讀，使學生充分了解食品毒物與營養毒理新知，也可加強對食品、營養與毒理科學相關研究的基礎。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

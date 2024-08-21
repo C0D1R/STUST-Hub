@@ -1,0 +1,127 @@
+{
+    "code": "40D1C201",
+    "name": {
+        "zh": "污染防治概論",
+        "en": "Introduction to Pollution Prevention and Treatment"
+    },
+    "credit": "3",
+    "type": "系定選修",
+    "classes": [
+        "五專化材三甲"
+    ],
+    "instructors": [
+        "戴永惇"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "I0211"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "I0211"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "I0211"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在介紹工業污染防治的基本概念、原理及應用，涵蓋主要工業污染源、污染物及其治理技術。學生將了解工業污染對環境和健康的影響，並學習如何應用現代技術和方法來減少和防治工業污染。<br>主要課程目標：<br>1.\t理解工業污染防治的基本概念和原理。<br>2.\t認識不同工業污染源及其影響。<br>3.\t掌握工業污染防治技術及其應用。<br>4.\t了解工業污染防治的政策和法規。<br>5.\t培養解決工業環境問題的能力和責任感。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一單元：工業污染防治概述<br>•\t工業污染防治的定義與範疇<br>•\t工業污染的類型及來源<br>•\t工業污染對環境和健康的影響<br>第二單元：工業廢水處理<br>•\t工業廢水的來源及類型<br>•\t水質指標及其測定方法<br>•\t工業廢水處理技術（物理、化學及生物處理法）<br>•\t先進水處理技術（膜技術、吸附技術等）<br>第三單元：工業廢氣處理<br>•\t工業廢氣的來源及類型<br>•\t廢氣污染物及其影響<br>•\t廢氣處理技術（過濾、吸收、催化轉化等）<br>•\t揮發性有機化合物（VOCs）的控制<br>第四單元：工業固體廢棄物管理<br>•\t工業固體廢棄物的分類及處理方法<br>•\t垃圾焚燒與填埋技術<br>•\t資源回收與再利用<br>•\t危險廢物管理<br>第五單元：工業噪音與振動控制<br>•\t工業噪音和振動的來源及影響<br>•\t噪音控制技術（隔音、吸音、減震等）<br>•\t振動控制技術（減震器、隔振裝置等）<br>第六單元：工業污染防治技術的現代發展<br>•\t清潔生產技術<br>•\t綠色化工技術<br>•\t循環經濟與可持續發展<br>•\t工業4.0與智能環境管理<br>第七單元：工業污染防治政策與法規<br>•\t國內外工業污染防治政策<br>•\t環境法規與標準<br>•\t環境影響評估<br>•\t公眾參與與環境教育<br>第八單元：案例分析與實際應用<br>•\t工業污染防治的經典案例研究<br>•\t問題解決與創新設計<br>",
+        "en": "Unit 1: Overview of Industrial Pollution Prevention<br><br>Unit 2: Industrial Wastewater Treatment<br><br>Unit 3: Industrial Air Pollution Control<br><br>Unit 4: Industrial Solid Waste Management<br><br>Unit 5: Industrial Noise and Vibration Control<br><br>Unit 6: Modern Developments in Industrial Pollution Prevention Technologies<br><br>Unit 7: Industrial Pollution Prevention Policies and Regulations<br><br>Unit 8: Case Studies and Practical Applications•"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解工業污染防治的基本概念和原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識不同工業污染源及其影響",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "掌握工業污染防治技術及其應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解工業污染防治的政策和法規",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養解決工業環境問題的能力和責任感",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

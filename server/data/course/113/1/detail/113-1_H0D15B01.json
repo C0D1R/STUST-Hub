@@ -1,0 +1,148 @@
+{
+    "code": "H0D15B01",
+    "name": {
+        "zh": "基礎生物分析技術",
+        "en": "Basic Bioanalytical Techniques"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技食品二甲",
+        "四食品國專二甲"
+    ],
+    "instructors": [
+        "陳柏庭"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "I0303"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "I0303"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "I0303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將介紹分子生物學上常見的各項技術相關原理與方法，以增進學生熟悉現代分子生物技術並能應用於生物科技之研發<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.前言<br>2.基因選殖與分析(一)<br>3.原核生物表現系統 (一)<br>4.真核生物表現系統<br>5.酵母菌表現系統<br>6.蛋白質表現分析技術 (一)<br>7.生物資訊之應用<br>8.生物技術於工業上之應用",
+        "en": "1. Introduction<br>2. Gene cloning and analysis<br>3. Prokaryotic expression<br>4. Eukaryotic expression system<br>5. Yeast expression system<br>6. Analysis of protein expression<br>7. Bioinformatics<br>8. Industrial application"
+    },
+    "weeklySchedule": "1.生物分析技術的基礎<br>2.生物分析技術的應用<br>3.DNA分析技術<br>4.RNA分析技術<br>5.蛋白質分析技術<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "筆試,報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習生物分析技術的原理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習整合各種生物分析技術",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "使用網路搜尋生物分析技術相關資訊",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習各項分析技術的應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

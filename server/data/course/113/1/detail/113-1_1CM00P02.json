@@ -1,0 +1,129 @@
+{
+    "code": "1CM00P02",
+    "name": {
+        "zh": "研究方法與學術倫理",
+        "en": "Research methods and Academic ethics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研產設一甲",
+        "碩研視傳一甲"
+    ],
+    "instructors": [
+        "張育銘"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "X303"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "X303"
+        },
+        {
+            "day": "週三",
+            "period": "第7節",
+            "location": "X303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要為培養同學的研究概念，瞭解由該如何由研究主題開始，如何針對主題設定適當的方法進行資料收集，又如何經由合適的分析方法探討資料的內涵，最後又如何經由討論歸納研究結論，以及撰寫成為論文的過程。同時課程中也以實務之案例為基礎，由輕微至嚴重的層級與同學共同探討學術倫理頓提",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "在本課程中，將設計研究的過程以四個階段：「尋」、「擴」、「探」、「結」來討論與分享設計研究方法的理念。<br>首先針對主題，要求同學研讀資料後，提出心得與想法，並經由集體討論與教師的補充說明之後，能夠更清楚的瞭解設計研究的理念。並由分組同學以實際操作的過程，循序演進以體驗設計研究的實際方法。<br>實務演習部分金要求同學以[感性工學]為主題，際行實務性演練，以加強同學對於研究之概念。<br>",
+        "en": "In order to learn the processes and methods related to a research or master thesis, this course will ask the students learn the knowledge through practical working, and gradually understand the whole structure of how to make a research. Four aspects will be arranged in this course, firstly start from literature review to learn the outline of a research, secondly learning how to set a appropriate theme, as well as now to collect information and data to this theme, the fourth aspect is how to apply analysis to clarify the results, finally how to integrate the results into a research paper."
+    },
+    "weeklySchedule": "週\t日期\t課程內容<br>1\t9/11\t課程概要內容，上課方式簡介 \t討論，自行分組 <br>2\t9/18\t設計研究，學術倫理之特性 \t研讀課題(1) <br>3\t9/25\t由感性工學看設計研究\t研讀課題(2) <br>4\t10/2\t研究論文的搜尋與閱讀\t研讀課題(3)<br>5\t10/9\t研習課程: Turnitin 論文比對系統<br>研習課程: 圖書館資源教學\t圖書館七樓電子資源指導室<br>6\t10/16\t形成研究問題(研究目的與範圍的確立) \t研讀課題(4) <br>7\t10/23\t研習課程: WOS(Web of Science) 9:30~11:00<br>研習課程: Refworks書目管理系統\tOn-Line<br>(張育銘)<br>8\t10/30\t分組討論與進度確認<br>(文獻與主題方向)\t<br>9\t11/6\t發表1 －主題方向（尋）\t作業發表1<br>10\t11/13\t研究方法的確立（實驗方法） <br>實驗與資料收集的方法\t<br>11\t11/20\t分組討論與進度確認<br>(資料調查與收集方法)\t<br>12\t11/27\t資料收集（擴）分組討論\t<br>13\t12/4\t發表2 －研究方法\t作業發表2<br>14\t12/11\t真相探勘（探）<br>基礎統計概念與資料分析的方法\t<br>15\t12/18\t分組討論與進度確認<br>(研究方法-資料收集與分析方法)\t<br>16\t12/25\t資料分析結果之解讀與研究結論之歸納**\t<br>17\t1/1\t發表3 －結果歸納（結）\t作業發表3<br>18\t1/8\t期末測驗，繳交期末報告\t<br>",
+    "exams": {
+        "midterm": "發表報告",
+        "final": "發表報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習研究的方法論與應用方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習如何轉換研究方法，創新研究主職吽",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習如何閱讀外文的文獻",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學習學術倫理的實務",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "以分組作業的方式培育團隊合作與領域研究之基礎",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "研究方法",
+        "author": "胡龍騰",
+        "publisher": "學富",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "**研究方法，張紹勳，滄海，2001<br>*多變量分析，黃俊英，中國經濟企業研究所，2000<br>*SPSS統計應用實務，吳明隆，松崗，2001<br>*SPSS For Windows （初等統計與高等統計，多變量統計分析等），松崗<br>多變量解析與其應用，曾國雄，華泰，1991<br>社會及行為科學研究法（上，下），楊國樞等，<br>心理與教育統計，盧欽銘，五南，1994<br>消費者行為學，林靈宏，五南，1995<br>消費者行為，王志剛，華泰，1995<br>",
+    "teachingSoftware": "SPSS",
+    "rules": "教學方式<br>首先針對主題，要求同學研讀資料後，提出心得與想法，並經由集體討論與教師的補充說明之後，能夠更清楚的瞭解設計研究的理念。並由分組同學以實際操作的過程，循序演進以體驗設計研究的實際方法。<br>實務演習部分要求同學自行設定主題，際行實務性演練，以加強同學對於研究之概念。<br>■作業方式：<br>課題：各組選定之演練主題進行設計研究的演練（課題必須為各組的新課題，不得以其他課程或計畫案之資料為課題，但不一定與設計相關）<br>分組：3人一組<br>■評分基準：<br>課題成績：55%(依課題之過程與成果評定分數，含課程作業課題15%)<br>期末測驗：20%<br>書面報告：15%(期末總結報告成績)<br>學習態度：10%(上課聽課,發問情形,發表之參與度)   <br>"
+}

@@ -1,0 +1,122 @@
+{
+    "code": "I0N15901",
+    "name": {
+        "zh": "幼兒園教材教法(二)",
+        "en": "Teaching  Materials  and Methods in Preschool (Ⅱ)"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "夜二技幼保四甲"
+    ],
+    "instructors": [
+        "卓美芳"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第11節",
+            "location": "H206"
+        },
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "H206"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "此課程介紹不同類型幼兒課程活動之內容,主要讓同學認識幼兒活動之多樣性,並進而幫助她們獲得活動規劃及實際實施上之能力。",
+    "prerequisites": "幼兒教保概論、幼兒園教材教法(一)",
+    "syllabus": {
+        "zh": "*幼兒課程介紹<br>*幼兒課程內容<br>*幼兒活動規劃<br>-語文領域活動<br>-健康安全領域活動<br>-認知探索領域活動<br>-社會情緒領域活動<br>-創造性教學領域活動<br>-其它",
+        "en": "*Introduction of curriculum for young children<br>*Contents of curriculum for young children<br>*Designing activities for young children<br>- Language arts<br>- Health and safety<br>- Cognitive and exploring<br>- Social and emotional<br>-Creative<br>-Others"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識分科課程的缺失",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道創造有意義的學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解新課綱的學習面向並相互統整",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養創造思考與解決問題能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進課程組織與統整性知識的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

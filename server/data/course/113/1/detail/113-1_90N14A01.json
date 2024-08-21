@@ -1,0 +1,115 @@
+{
+    "code": "90N14A01",
+    "name": {
+        "zh": "Excel VBA",
+        "en": "Excel Visual Basic for Application"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技資管四甲"
+    ],
+    "instructors": [
+        "楊棠堯"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0709"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0709"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0709"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "如果你還在手動做重複性的 Excel 資料處理，非常推薦來學習Excel  VBA 這個超萬用的工具，讓你一鍵輕鬆資料處理、工作效率事半功倍！在 Excel  VBA 的應用程式就是「巨集」，把巨集想像成一個「自動化機器人」，Excel  VBA 則是我們要與機器人下達指令的語言，未來只要點擊執行巨集，機器人就會按照我們的指令，自動執行所有流程。現在公司都需要大量的Excel資料處理，甚至需要利用Excel做決策，Excel  VBA利用增益集都可以做到決策自動化，應用領域廣泛。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.\tExcel VBA介紹<br>2.\t巨集錄製與調整<br>3.\t基本語法和宣告、物件、屬性及方法<br>4.\t活頁簿、工作表、儲存格的應用<br>5.\t程式流程的應用<br>6.\t迴圈的應用<br>7.\t陣列的應用<br>8.\t字串指令與應用<br>9.\t數值指令與應用<br>10.\t日期指令與應用<br>11.\t表單與ActiveX控制項<br>12.\t表單介面的應用",
+        "en": "1.\tExcel VBA Introduction<br>2.\tMacro recording and adjustment<br>3.\tBasic syntax and declarations, objects, attributes and methods<br>4.\tApplication of workbooks, worksheets and cells<br>5.\tApplication of program flow<br>6.\tApplication of recursive<br>7.\tApplication of array<br>8.\tApplication of string commands<br>9.\tApplication of numerical commands<br>10.\tApplication of date commands<br>11.\tControl items of sheet and ActiveX<br>12.\tApplication of form interfaces"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能應用Excel VBA來開發提高工作效率巨集",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備整合Excel資料與VBA巨集來提高作業效率",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "可以開發Excel VBA巨集，並執行測試",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "可以分析問題，提出想法，並寫Excel VBA巨集驗證想法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

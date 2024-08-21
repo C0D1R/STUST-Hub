@@ -1,0 +1,127 @@
+{
+    "code": "01D12R16",
+    "name": {
+        "zh": "中文閱讀與表達(一)",
+        "en": "Chinese Reading and Expression(I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技半導體一甲"
+    ],
+    "instructors": [
+        "施寬文"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0103"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "T0103"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程選文涵蓋文言與白話，文類多元，從古典至現代，包括散文、詩歌、小說及應用文。提升學生學習興趣、閱讀表達能力，增進應用文知能及文學欣賞層次。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.導論<br>2.閱讀的功能與樂趣<br>3.書寫與表達基本原理<br>4.中文各項文類評析<br>5.文學作品中各項人生議題之探討<br>6.實用文書基本能力<br>7.聽說讀寫綜合表達訓練<br>",
+        "en": "1.\tIntroduction<br>2.\tThe function and pleasure of reading<br>3.\tThe basic principle in writing and expression <br>4.\tEvaluates all kind of Chinese literature type <br>5.\tThe discussion of life issues in literary work<br>6.\tPractical word processing ability<br>7.\tThe expression training: Hearing、speaking、reading and writing <br>"
+    },
+    "weeklySchedule": "第 1 週<br>一．〔首堂講話〕1、課程介紹。2、成績考核方式說明。3、學期報告之製作說明。4、其它規定與注意事項。<br>二．〔表達溝通〕倉央嘉措詩選。<br>【活動】zuvio問題回應。<br><br>第 2 週<br>〔表達溝通〕倉央嘉措詩選。<br>【活動】zuvio 問題回應。<br><br>第 3 週<br>〔表達溝通〕《紅樓夢》之〈接外孫賈母惜孤女〉。<br>【活動】習作：倉央嘉措情詩語句組合。<br><br>第 4 週<br>〔表達溝通〕《紅樓夢》之〈接外孫賈母惜孤女〉。<br>【活動】zuvio 問題回應。<br><br>第 5 週：國慶日放假<br><br>第 6 週<br>〔表達溝通〕《紅樓夢》之〈接外孫賈母惜孤女〉。<br>〔表達溝通〕芥川龍之介〈竹藪中〉。<br>【活動】1987版《紅樓夢》「接外孫賈母惜孤女」相關片段欣賞與說明。<br><br>第 7 週<br>〔表達溝通〕芥川龍之介〈竹藪中〉。<br>【活動】zuvio 問題回應。<br><br>第 8 週：期中小考；試題檢討。<br>【活動】zuvio 問題回應。<br><br>第 9 週：期中考（筆試）<br><br>第 10 週<br>〔人文與倫理素養〕陶淵明〈詠荊軻〉。<br>【活動】zuvio 問題回應。<br><br>第 11 週<br>〔人文與倫理素養〕李復言〈定婚店〉；李復言〈鄭虢州騊夫人〉（補充）<br>【活動】zuvio 問題回應。<br><br>第 12 週<br>〔人文與倫理素養〕三毛〈求婚〉。<br>【活動】影片：三毛生平相關訪談資料。<br>【SDGs 目標】本專題符合SDGs目標5-性別平等：5.1消除所有地方對婦女的各種形式的歧視。<br><br>第 13 週<br>〔本土與國際意識〕鍾文音〈巴黎──百遊不厭的藝術首都〉。<br>【活動】zuvio 問題回應。<br><br>第 14 週<br>〔本土與國際意識〕劉克襄〈荖濃溪畔的六龜〉。<br>【活動】小組習作：南臺校園景點剪影接龍。<br>【SDGs 目標】本專題符合SDGs目標15-陸域生態：15.5採取緊急且重要的行動減少自然棲息地的破壞，終止生物多樣性的喪失，在西元2020年以前，保護及預防瀕危物種的絕種。<br><br>第 15 週<br>〔本土與國際意識〕劉克襄〈荖濃溪畔的六龜〉。<br>【活動】zuvio 問題回應。<br>【SDGs 目標】本專題符合SDGs目標15-陸域生態：15.5採取緊急且重要的行動減少自然棲息地的破壞，終止生物多樣性的喪失，在西元2020年以前，保護及預防瀕危物種的絕種。<br><br>第 16 週<br>〔本土與國際意識〕杜甫〈望嶽〉；孟郊〈遊終南山〉（補充）<br>【活動】zuvio 問題回應。<br><br>第 17 週<br>期末小考；試題檢討。<br>【活動】zuvio 問題回應。<br><br>第 18 週：期末考（筆試）<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第8週：小考(筆試)；第17週：小考(筆試)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "描述文章表達的意義並撰寫作文",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "統整所學的基本能力以作為國家考試與求職之基礎",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "接納人與人之間所傳達的訊息並給予正面的回應",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "秉持良好的學習態度以交付完成各項任務",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "探討文學作品的各項人生議題，並於生活中展現批判能力",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "中文閱讀與表達──人文與倫理素養",
+        "author": "王淳美，羅夏美，蔡蕙如，施寬文，呂昇陽",
+        "publisher": "五南圖書出版公司",
+        "year": "2024",
+        "ISBN": "9786263170476",
+        "edition": "6"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "1．必須購買或備有上課用書。<br>2．本課程必須分組，除了課堂上的小組討論與習作，並須繳交小組學期報告。<br>3．學期報告以PPT或PDF製作，以小組為單位，由小組長上傳至「FlipClass數位學習數位學習平台」之「學期報告」資料夾。<br>4．本教學計畫與相關規定將視學期中發生的事件與教學的實際情況而調整之。"
+}

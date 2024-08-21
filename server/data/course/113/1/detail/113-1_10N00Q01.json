@@ -1,0 +1,147 @@
+{
+    "code": "10N00Q01",
+    "name": {
+        "zh": "微積分",
+        "en": "Calculus"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技自控一甲"
+    ],
+    "instructors": [
+        "王永鵬"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "K401"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "K401"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "K401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "微積分是工程科學裡最重要的基礎課程之一。它在電子、電機、機械、生物等領域中已有非常廣泛的應用，亦是專業科目(如工程數學)的先修課程。本課程是一學年的科目，分上、下學期。上學期內容為基本函數介紹及單變數函數的極限、連續、微分、積分、積分技巧與應用。",
+    "prerequisites": "高中(職)基本數學。",
+    "syllabus": {
+        "zh": "1. 預備知識<br>2. 極限與連續<br>3. 導數<br>4. 導數的應用<br>5. 定積分<br>6. 積分技巧<br>7. 定積分的應用",
+        "en": "1. Prerequisites for Calculus <br>2. Limits and Continuity.<br>3. Derivatives. <br>4. Applications of Derivatives. <br>5. The Definite Integral. <br>6. Techniques of Integration <br>7. Applications of the Definite Integral."
+    },
+    "weeklySchedule": "第1週(09/13)：課程介紹、基礎數學複習<br>第2週(09/20)：基礎數學複習<br>第3週(09/27)：函數與極限<br>第4週(10/04)：函數與極限<br>第5週(10/11)：導數<br>第6週(10/18)：導數<br>第7週(10/25)：反函數<br>第8週(11/01)：反函數 <br>第9週(11/08)：期中考<br>第10週(11/15)：導數之應用<br>第11週(11/22)：導數之應用<br>第12週(11/29)：積分<br>第13週(12/06)：積分<br>第14週(12/13)：積分技巧<br>第15週(12/20)：積分技巧<br>第16週(12/27)：積分之應用<br>第17週(114/01/03)：積分之應用<br>第18週(114/01/10)：期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第3, 5, 7, 8, 12, 14, 16, 17週平時考(筆試)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能熟悉微積分的基本原理並具備計算能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "針對機械工程問題能有效適當的應用微積分",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能樂觀面對微積分問題，並以正向思考來解決問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用微積分的重要性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "簡明微積分",
+        "author": "洪揮霖",
+        "publisher": "高立圖書公司",
+        "year": "2021",
+        "ISBN": "978-986-378-279-7",
+        "edition": "初版"
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "無"
+}

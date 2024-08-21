@@ -1,0 +1,128 @@
+{
+    "code": "01D16F01",
+    "name": {
+        "zh": "當代西方思潮",
+        "en": "Contemporary Western Philosophy"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國商二甲"
+    ],
+    "instructors": [
+        "安迪"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "S509"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S509"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S509"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "人類文明如何發展至今？何以近400年來改變如此迅速？人們在想些什麼？理念為何？<br>當代哲學受哥白尼、伽利略及牛頓之科學觀影響，也繼續影響未來世界；其效應及於當前每一個生活領域、每一個人與每一件事；渠等對自然與真理的質疑，帶領人類進行各個思想領域的革命，包括尼采所宣稱的：「上帝已死」。<br>How did we get to where we are today? Why has the world changed so much in the last 400 years? What were people thinking? What were their ideas?<br>The world of modern philosophy influences and is influenced by the science of Copernicus, Galileo and Newton. These men had a huge effect on everyone and everything that was to follow. It is with their questioning of nature and truth that was to lead to the revolutions in all areas of thought to the present day, and Nietzsche’s declaration: “God is dead.”",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程將從笛卡兒「我思故我在」開始，討論理性主義、經驗主義及先驗唯心論等哲學思想，也將從啟蒙時代及存在主義的影響來討論/辯析動物(福利) 權、語言及愛等當代議題。",
+        "en": "Starting with Descartes’ Cogito, movements such as Rationalism, Empiricism and Transcendental Idealism will be discussed. The effects of the Enlightenment and Existentialism will lead us into more contemporary dialogues of Animal Rights, the skin of Language and Love."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解哲學的基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "現實生活中哲學的價值：是否與我們當前生活無關？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解哲學思潮的發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解哲學的主要論題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "深入了解所處的世界",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

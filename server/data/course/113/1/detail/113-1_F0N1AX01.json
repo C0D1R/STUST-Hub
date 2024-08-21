@@ -1,0 +1,127 @@
+{
+    "code": "F0N1AX01",
+    "name": {
+        "zh": "影像敘事與劇本寫作",
+        "en": "Practice of Script Writing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技資傳二甲"
+    ],
+    "instructors": [
+        "馬斌"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "W0406"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "W0406"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "W0406"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將帶領同學進入編劇的概要，爾後在教授編劇格式的原則，闡明創作的類型與特色。其後，透過研析劇本，可了解劇本的創作模式，亦有別其他藝術。課堂上著重於互動的學習，並應用於作業上，讓同學得以實際體驗劇本創作的歷程。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "一、課程介紹<br>二、戲劇概論與元素/鏡頭語言<br>三、故事的要素及其運用<br>四、劇中人物的建構<br>五、故事類型與內文要素<br>六、創作的啟發與實踐/編撰故事與情節<br>七、劇本類型的格式與舉例/劇本的格式與寫作技巧<br>八、舞台劇、電視劇與電影劇本的異同分析<br>九、期中考<br>十、指定閱讀劇本研討與分析<br>十一、小說及漫畫如何改編成影像劇本<br>十二、故事大綱、角色自傳練習與解說<br>十三、報導/紀實影片腳本寫作講析<br>十四、活動/展場腳本寫作講析<br>十五、短片腳本寫作講析<br>十六、市場與創作<br>十七、作品呈現<br>十八、期末考<br>",
+        "en": "A movie isn’t great unless it starts with a great blueprint—the screenplay. Here you will gain an introduction to writing for movies, TV, and plays, and you’ll also learn techniques fundamental to all forms of dramatic writing. Furthermore, here you will learn about the craft of dramatic writing, how to write for the screen, and how to market your work. Whether you seek to write shorts or features, we’ll show you how to write screenplays that light up the screen.<br>Course Outline<br>1. Course Introduction<br>2. The Concept of Drama and theatre/ Camera Language<br>3. Story Elements and Application<br>4. Character Construction/ Protagonist vs.. Antagonist<br>5. Film Genres<br>6. Plot/ Story/ Diegesis<br>7. Techniques to Building Greater Conflict<br>8. Playwriting/ Screenwriting/ TV Writing<br>9. Guided Reading of Screenplay<br>10. adapted from a novel or a Comic<br>11. Practice of Treatment Writing<br>12. Practice of Formulating the character structure<br>13. The Importance of Step Outline(1)<br>14. The Importance of Step Outline(2)<br>15. How to writing good Dialogue Script<br>16. Presentation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "針對議題相互討論，統整出最佳的呈現方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "導引出故事內容的起承轉合",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "從小說、報章雜誌的報導、各類型的影片觀影中找尋創作的靈感來源",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習鏡頭語言，培養將影像文字化/文學化的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "獨立完成各類型劇情片劇本之編寫與創作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

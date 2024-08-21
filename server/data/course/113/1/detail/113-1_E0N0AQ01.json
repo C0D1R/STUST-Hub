@@ -1,0 +1,115 @@
+{
+    "code": "E0N0AQ01",
+    "name": {
+        "zh": "日本文章選讀(一)",
+        "en": "Selected reading in Japanese literature I"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技應日四甲"
+    ],
+    "instructors": [
+        "黃幼欣"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "T0113"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "T0113"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "T0113"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過中級日文文章閱讀，增進文章賞析能力。閱讀日文文章，並翻譯成中文，可加強翻譯能力, 以訓練中級日語能力為學習目標。<br>",
+    "prerequisites": "具有3級文法能力",
+    "syllabus": {
+        "zh": "本課程希望透過研讀及理解中級日語程度的文章,來提升同學的閱讀能力。使同學在寫作時,可以運用更多的句型,具備更正確的文法概念,並以培養中級日語能力為學習目標。<br><br><br>〈Ａ組）<br><br>⑴附加<br>⑵附帶▪非附帶<br>⑶願望▪感嘆<br>⑷例示▪並例<br>⑸比較<br>⑹話題<br>⑺逆接<br>⑻經過▪結論<br>⑼勸誘▪忠告▪禁止<br>⑽判斷▪評價<br><br>(以上僅供參考,會視實際情形作適當調整)",
+        "en": "中級日本語の文章を理解することによって、上級日本語の力を着実に伸ばすことができます。また、表現が応用できる<br>力をつけることを訓練します。最終的には中級日本語を習得させることを目標としています。<br><br>〈Ａ組）<br><br>⑴付加<br>⑵付帶▪非付帶<br>⑶願望▪感嘆<br>⑷例示▪並例<br>⑸比較<br>⑹話題<br>⑺逆接<br>⑻經過▪結論<br>⑼勸誘▪忠告▪禁止<br>⑽判断▪評價の視点<br><br>(以上は参考のみで、場合によって調整することもあります。)"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養同學可以閱讀日文一般散文或社論等文章的能力.，提升日語讀、寫的應用能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過日文文章閱讀，增進文章賞析能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "閱讀日文文章，並翻譯成中文，可加強翻譯能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由課堂發表討論，提升日語溝通能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

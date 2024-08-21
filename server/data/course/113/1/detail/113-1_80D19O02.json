@@ -1,0 +1,122 @@
+{
+    "code": "80D19O02",
+    "name": {
+        "zh": "專業英文",
+        "en": "Finance English"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技財金三乙"
+    ],
+    "instructors": [
+        "蘇志泰"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "S415"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "S415"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以財經英文實用為導向，講解常見職場或辦公室術語的基本應用，並經由實際演練閱讀與討論提昇熟練程度外。再以，VOA或ICRT為例，介紹財經專業術語與應用。",
+    "prerequisites": "基礎英文法",
+    "syllabus": {
+        "zh": "PART A 個人理財<br>1.\t資產<br>2.\t資產配置<br>3.\t股票<br>4.\t衍生性商品<br>5.\t英文簡報製作<br>6.\t軟體操作<br>PART B 投資、財管與外匯<br>1.\t房地產<br>2.\t房貸<br>3.\t創投<br>4.\t企業併購<br>5.\t財務管理<br>6.\t期末英文簡報<br>",
+        "en": "PART A PERSONAL FINANCE<br>1.\tASSET<br>2.\tASSET ALLOCATION<br>3.\tSTOCK<br>4.\tOPTION<br>5.\tPRESENTATION<br>PART B INVESTMENT<br>1.\tREAL ESTATE<br>2.\tMORTGAGE<br>3.\tVC<br>4.\tMERGER<br>5.\tFINANCE MANAGEMENT<br>6.\tFINAL PRESENTATION<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能夠熟練使用語言編輯軟體",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠在公共場合利用英文進行財務簡報",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠具備外語文學倫理知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠使用電腦或網路於自我學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠運用正確語言力量適應國際化",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

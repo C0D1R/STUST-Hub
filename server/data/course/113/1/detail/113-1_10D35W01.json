@@ -1,0 +1,111 @@
+{
+    "code": "10D35W01",
+    "name": {
+        "zh": "設計思考與大學定錨",
+        "en": "Design Thinking and University Anchors"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技自控一甲",
+        "四技自控一乙"
+    ],
+    "instructors": [
+        "許藝菊"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "K508"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "K508"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在大一上「設計思考與大學定錨」課程認識大學四年地圖，讓新生預見「智慧製造」組的五個課群在四年專業知識成長路徑，進行專業知能初探，形成內在的準備與期昐，未來再進入每門課程學習所好奇的知識，讓每門課程有好的起點，不會完全無知地進入每個學科，並可以粗淺地知道不同科目之間的聯結關係，對大學的四年學習全貌有初步的認知。<br>其次，以史丹佛大學設計學程比爾‧柏內特與戴夫‧埃文斯兩位教授共同研發的課程(Burnett &amp; Evans, 2016)，奧德賽計畫，創化成一個人力公司的招募活動課程。史丹佛的原始課程以做自己的生命設計師為號召，號稱是史丹佛最夯的生涯規畫課，採用「設計思考」重擬問題的模式，打造個人專屬的全新生命藍圖。<br>由大一「設計思考與大學定錨」課程為起點，本課程向學生說明課群架構，所欲養成核心能力，及就業領域，以明確未來走向，吸引學生投入時間於專業學習。除此之外，知道自己是可以選擇的，有甚麼選擇，選擇的結果是甚麼，從學習選擇與負責踏出「目的感」學習的第一步。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 設計思考五步驟理論簡介(同理、定義、發想、原型、驗證)<br>2. 設計思考五步驟實作<br>3. 機械專業簡介<br>4. 五大課群的簡介<br>5. 奧德賽計畫(五年生涯規劃)<br>6. 目的感<br>",
+        "en": "1. Introduction to the five-step theory of Design Thinking (1 Preface, 2 Empathy, 3 Definition, 4 Ideation, 5 Prototype + Verification)<br>2. Design thinking in five steps<br>3. Introduction to Mechanical Engineering<br>4. Introduction to the five major groups of ME<br>5. Odyssey plan (five-year career plan)<br>6. Sense of purpose<br>"
+    },
+    "weeklySchedule": "在大一上學期以「設計思考與大學定錨」認識大學四年地圖，包括課群的專業知能初探，並讓學生以史丹佛大學設計學程比爾‧柏內特與戴夫‧埃文斯兩位教授共同研發的課程(Burnett &amp; Evans, 2016)，奧德賽計畫，這是史丹佛的課程以做自己的生命設計師為號召，號稱是史丹佛最夯的生涯規畫課，採用「設計思考」重擬問題的模式，打造個人專屬的全新生命藍圖。並會搭配原型對談，邀請高於五屆的學長姐(例如大一時會邀請碩二、或工作兩年的畢業校友)訴說這五年的經歷，有規劃地讓學生看到自己未來的可能模樣，協助在學生與畢業校友都可以重新定義現在位置與未來前進方向，及為何要往目的前進。<br><br>課程特色: 大量發想練習活動(divergent thinking,、團隊互動、溝通表達培訓)<br><br>1-6週：機械專業簡介、機械系5大課群介紹<br>7-10週：MBTI測驗<br>11-18週：奧德賽計畫",
+    "exams": {
+        "midterm": "筆試",
+        "final": "口頭報告",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "設計思考五步驟",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "機械專業簡介",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "五大課群的簡介",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "奧德賽計畫(五年生涯規劃)",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

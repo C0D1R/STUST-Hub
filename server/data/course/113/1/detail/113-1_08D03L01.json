@@ -1,0 +1,115 @@
+{
+    "code": "08D03L01",
+    "name": {
+        "zh": "泰國語言與文化(A)",
+        "en": "Thai Language and Culture"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "李敏玉"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "N010"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "N010"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "N010"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course provides a simple conversation Thai language, simple syntax, simple sentences, so that students can simply listening, speaking Thai, but also to recognize some Thai's traditional culture, Thai Food, Thai and the odd tourist classic features.<br>本課程提供簡單的泰文會話、語法及句子的介紹，所以學生們可以聽及說簡單的泰語，而且也能認識泰國的傳統文化、泰國食物、及泰國奇特的旅遊特色。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程介紹、介紹泰國的文化、背景<br>2.基本單字練習<br>3.介紹自己，廁所在哪裡？<br>4.泰國的食品<br>5.這是什麼？/我的家庭<br>6.買東西<br>7.時間、天氣<br>8.學校、問路<br>9.打電話<br>10.聽泰國音樂<br>",
+        "en": "1. Course Introduction<br>2. Basic Vocabulary(consonant)<br>3. Introduce Yourself/Where is the Toilet?<br>4. Food<br>5. What is it?/My Family.<br>6. Shopping<br>7. Time/Weather<br>8. School/ Direction<br>9. Make a Call.<br>10.Music<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能學會基礎的泰語聽、說能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "當到泰國旅遊時，能應用泰語做簡單的溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解泰國的傳統文化，並接納包容不同的文化差異",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能建立國際化的視野",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,116 @@
+{
+    "code": "H0D13T01",
+    "name": {
+        "zh": "食品化學",
+        "en": "Food Chemistry"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技食品二甲",
+        "四食品國專二甲"
+    ],
+    "instructors": [
+        "詹于誼"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "I0308"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "I0308"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "I0308"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在於介紹食品化學的基礎理論及其相關的實用知識。食品組成分、特性及常用的食品添加劑。",
+    "prerequisites": "普通化學、有機化學",
+    "syllabus": {
+        "zh": "水分<br>碳水化合物<br>脂質<br>蛋白質<br>維生素與礦物質<br>食品添加物",
+        "en": "Moisture<br>Carbohydrates<br>Lipids<br>protein<br>Vitamins and Minerals<br>Food Additives"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "讓學生了解食品的組成及其特性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓學生能熟悉食品化學的應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解日常生活中常用到的食品添加物有那些？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "解析食品化學與目前生技的關聯",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

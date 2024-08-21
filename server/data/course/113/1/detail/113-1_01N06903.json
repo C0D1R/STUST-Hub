@@ -1,0 +1,154 @@
+{
+    "code": "01N06903",
+    "name": {
+        "zh": "台灣與世界",
+        "en": "Taiwan in the World"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技餐旅二甲"
+    ],
+    "instructors": [
+        "方子毓"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "T0307"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0307"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0307"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.台語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在引導學生深入、立體認識台灣歷史，引領學生取得台灣歷史鎖鑰，學習實用、實際、寬廣、的台灣歷史知識；從生活中學習，培育學生寬廣的台灣歷史視野，進而養成深具台灣主體意識兼具世界觀的公民。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.導論：視角(台灣之主體性及其在世界的位置與角色)<br>2.交通變遷下的台灣<br>3.全球經濟網路中的台灣<br>4.疾病無國界：鼠疫、SARS與新流感<br>5.外來思潮的巨浪：民主、人權與法治<br>6.通俗文化與娛樂：音樂、藝術等<br>7.觀念的衝擊與調整：婚姻愛情與多元情慾<br>8.物質生活與流行教主：時尚、饗宴與慾望<br>9.民主體制與新式教育：世界公民與現代國民<br>10.宗教奇蹟：影響台灣的主要宗教<br>11.殖民與被殖民經驗<br>12.原住民問題<br>13.台灣的未來：知識經濟…等<br>",
+        "en": "1. Introduction: perspective (on Taiwan's subjectivity: the position and role in the World)<br>2. The position changed with the improvements of global transportation <br>3. Economic development in global context<br>4. Public health and the prevention of plague, SARS and novel Influenza <br>5. Waves of thoughts in democracy, human rights and rule of law<br>6. Popular culture and recreational life: music, art, etc.<br>7. Impact and adjustment of ideas: marriage, love and gender diversities <br>8. Material lifestyle and fashion trend: luxuries, feasts and passions<br>9. democratization of political life and new education: globally modernized citizenship <br>10. Religious miracles: the diversity of religions <br>11. Discourse on the colonial and under-colonial experiences<br>12. Issues of aboriginal peoples in Taiwan: a worldwide view<br>13. Epilogue: prospect (of knowledge-based economy, AI, etc.)<br><br>"
+    },
+    "weeklySchedule": "臺灣與世界課綱<br><br>本課程主要以認識台灣歷史與世界為主軸，並引領學生瞭解基礎的台灣歷史，學習應用，並以寬廣的角度來看世界。<br>台灣早期的歷史發展中，從過去至現在與世界文明接觸的過程中，也奠定了屬於自我的新臺灣文化及認同。再者，課程的規劃也讓學生能從生活中去體驗與學習，瞭解臺灣與世界周遭之時事變化。培養具有世界觀、人文素養及公民道德的世界公民。 <br><br>上課週次及課程安排：<br><br>1.導論：台灣之主體性及其在世界的位置與角色<br>2.時代交替與變遷中的台灣<br>3.世界歷史發展過程中的臺灣角色<br>4.多元文化的交流及臺灣社會—近代台灣歷史發展<br>5.外來思潮的巨浪及其影響：民主法治概念、人權觀及兩性議題等<br>6.藝術與娛樂：音樂、電影、戲劇、體育與藝術等<br>7.歐洲文明的演變及其對世界影響<br>8.歐洲文化史概論<br>9.亞洲與美洲文明探討<br>10.臺灣參與國際組織：探討全球性國際組織與區域性國際組織<br>11.世界宗教對臺灣的影響：臺灣的宗教文化與文明<br>12.國際關係與國際政治：歷史演進、殖民與被殖民、未來展望等<br>13.族群與文化：臺灣與世界各國原住民<br>14.台灣的未來：全球化與兩岸關係影響下的臺灣<br>15.台灣與世界藝術文化—以奇美博物館為例<br>16. 課程回顧：對於世界各國歷史與文化，你瞭解多少？<br>17.臺灣與歐洲（從經貿往來到文化交流等）<br>18.期末成果<br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "期末分組報告",
+        "other": "作業心得"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能深入認識台灣歷史，有效地解決各項問題。(A3)",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "獨創具體的創新思維，解析台灣歷史古今的不同。(E4)",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "統合歷史知識於生活或學習中，拓展歷史視野，適切因應地球村及國際化趨勢。(C3)",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建立台灣主體意識，展現對本土及國際文化的理解，培育具世界觀及人文素養的公民。(C2)",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解台灣歷史的發展與意義，並於生活中展現反省、理性思辨的能力。(I4)",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "展現負責盡職、秉持敬業精神完成各項任務並服務社會。(H1)",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "關懷台灣的周遭環境，維護台灣與世界的利益共存(J4)",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "教師自編教材。或依據同學意願選擇：1.《歐洲概論》或2..《台灣開發史》",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.方子毓，《歐洲概論》，臺北：五南圖書出版公司，2018年1月。<br>2.王曾才，《西洋近代史》台北：正中書局，1970年12月台初版 3.薛化元，《台灣開發史》，台北，三民書局，2003年2月修訂二版刷 <br>3.李筱峰、林呈蓉《台灣史》，台北，華立圖書，2005年4月 <br>4.Peter Collett 著 徐健 譯《歐洲人歐洲風》，台北：方智出版社，1995年 <br>5.保羅‧甘迺迪（Pual Kennedy）著，張春柏、陸乃聖主譯，《霸權興衰史──1500至2000年的經濟變遷與軍事衝突》，臺北：五南圖書，2008年10月。 <br>6.陳正茂、林茂琮，《世界文化史》，臺北：新文京，2001年12月。 <br>7.張福昌，《邁向歐洲聯盟之路》，台北：三民，2002年 <br>8.哈爾特穆特‧凱爾伯樂 著，柯燕珠 譯，周全 審定《歐洲人談歐洲—十九與二十世紀歐洲自我意識的形成》，台北：左岸文化，2005年10月 <br>9.馮作民，《西洋繪畫史》，台北，藝術圖書公司，1999年1月 <br>10.何恭上，《近代西洋繪畫》，台北，藝術圖書公司，1998年7月 <br>11.陳郁秀，《音樂臺灣》，台北，時報文化，1996年12月 <br>12.湯錦台，《前進福爾摩沙-十七世紀大航海時代的台灣》，台北，貓頭鷹出版社，2001年2月 <br>13.廖錦祥 發行，《閱讀新奇美》，台南，財團法人奇美博物館基金會，2016年4月<br>",
+    "teachingSoftware": "1.教室電腦設備系統 教學PPT等",
+    "rules": "1.課堂講授，分組報告、視聽教學與研究專題等。<br>2.教師及重視學生出席率與課堂表現和互動<br>3.希望學生可以踴躍發言，平常成績所佔比重甚高<br>成績評量方式為：<br>期中筆試30%、平時成績40%、期末報告30%等。<br>4.班級秩序要求:上課禁止穿拖鞋、任意走動、飲食、睡覺或滑手機等<br>5.缺曠課達6次(18節)平時成績以0分計<br><br>"
+}

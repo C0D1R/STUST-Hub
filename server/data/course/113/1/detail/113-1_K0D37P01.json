@@ -1,0 +1,140 @@
+{
+    "code": "K0D37P01",
+    "name": {
+        "zh": "渲染技術程式設計",
+        "en": "Shader Technology Programming Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技多樂三甲",
+        "四技多樂三乙"
+    ],
+    "instructors": [
+        "徐芳真"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0706"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0706"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "W0706"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹Shader與貼圖之對應關係、Standard Shader參數介紹、學習如何透過腳本程式控制材質參數、學習ShaderLab基礎語法、學習以ShaderLab撰寫Surface Shader、介紹Shader優化方法<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. Standard Shader貼圖材料準備：介紹Shader與貼圖之對應關係<br>2. Standard Shader：Standard Shader參數介紹<br>3. ShaderLab語法基礎：學習ShaderLab基礎語法<br>4. Surface Shader 撰寫：學習以ShaderLab撰寫Surface Shader<br>5. 材質參數控制：學習如何透過腳本程式控制材質參數<br>6. ShaderLab效能優化：介紹Shader優化方法<br>",
+        "en": "1. Introduction to the relationship between shaders and maps.<br>2. Introduction to the parameters of standard shaders.<br>3. Learning the scripts in the shaderlab.<br>4. Learning the surface shaders.<br>5. Using the parameters in the scripts to control the material.<br>6. Learning the methods to optimize the shader.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "Standard Shader貼圖材料準備",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Standard Shader",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "材質參數控制",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "ShaderLab語法基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Surface Shader 撰寫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "ShaderLab效能優化",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

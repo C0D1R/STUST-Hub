@@ -1,0 +1,128 @@
+{
+    "code": "90Q02501",
+    "name": {
+        "zh": "軟體工程",
+        "en": "Software Engineering"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專資管一甲"
+    ],
+    "instructors": [
+        "陳炳文"
+    ],
+    "schedule": [
+        {
+            "day": "週日",
+            "period": "第2節",
+            "location": "T0713"
+        },
+        {
+            "day": "週日",
+            "period": "第3節",
+            "location": "T0713"
+        },
+        {
+            "day": "週日",
+            "period": "第4節",
+            "location": "T0713"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.ITE 系統分析類 http://www.itest.org.tw/",
+        ""
+    ],
+    "description": "軟體工程是一非常重要的實務性基楚學門，對於想從事軟體工程相關研究，<br>或往後想進入軟體開發相關領域工作的同學，絕對有必要選修此一課程。<br>本課程理論與實務並重，針對軟體工程重要的議題做重點式的介紹。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 軟體工程概論<br>2. 軟體開發流程模式<br>3. 物件導向系統分析與設計<br>4. 研究範例: 多代理人的塑模與UML2<br>5. 能力成熟度整合模式<br>6. 研究範例: CMMI流程領域優先順序之決策<br>7. 軟體專案管理<br>8. 研究範例: SOHO族軟體成本預估之改善<br>9. 網際網路軟體工程<br>10. 研究範例: 網際網路應用系統之塑模 <br>11. 軟體測試<br>12. 軟體維護",
+        "en": "1. Overview<br>2. Software Process Models<br>3. Object-Oriented System Analysis and Design<br>4. Research topic: Multi-Agent Modeling with UML2<br>5. Capability Maturity Model Integration (CMMI)<br>6. Research topic: Decision Makingh for the Priority of CMMI Software Processes<br>7. Software Project Management<br>8. Research topic: The Improvement of Software Cost Estimation for SOHO<br>9. Web-based Software Engineering<br>10. Research topic: Web-based Application Modeling<br>11. Software Testing<br>12. Software Maintenance"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備軟體系統之分析、設計、測試的理論知識與技術能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練軟體開發過程中分析、設計、測試的技能，並能應用於開發實務當中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備使用軟體開發工具的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能指出問題並提供解決方案的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備組織與整合能力，完成各項書面文件及口頭簡報。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

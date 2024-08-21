@@ -1,0 +1,122 @@
+{
+    "code": "1JN01201",
+    "name": {
+        "zh": "療癒環境實務",
+        "en": "Healing environment in practice"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "夜二技高福四甲"
+    ],
+    "instructors": [
+        "陳美珠"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "O403"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "O403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.瞭解療癒環境的定義與概念，及其目的、功能與內容。<br>2.瞭解感官、人性化環境設計之相關概念與設計內容。<br>3.能說出至少五項身心靈的健康照護環境設計的原則。<br>4.認識療癒環境於高齡服務實務上之應用。<br>5.能設計並運用課堂所習得之療癒環境方案於高齡服務實務中。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、療癒環境緒論<br>二、療癒環境繪畫實作<br>三、療癒者－以人為本<br>四、感官－人性化環境設計<br>五、療癒環境暨實務-身心機能活化運動<br>六、療癒環境暨實務-音樂療法<br>七、音樂療法實務實作<br>八、療癒環境暨實務-春仔花實作(一)<br>九、療癒環境暨實務-春仔花實作(二)<br>十、療癒環境實務-芳香療法暨實作<br>十一、療癒環境實務-園藝療癒初體驗<br>十二、療癒環境暨實務-桌遊暨實作<br>十三、療癒環境實務-纏繞畫<br>十四、療癒環境相關議題的讀書報告暨實作",
+        "en": "1. Introduction to Healing Environment<br>2. Healing Environment Painting Practice<br>3. Healers-people oriented<br>4. Sensory-Design of Humanized Environment <br>5. Healing Environment and Practice-Physical and Mental Function Activation Exercise<br>6. Healing Environment and Practice-Music Therapy<br>7. Music therapy practice<br>8. Healing Environment and Practice- Tangled flowers Practice (I)<br>9. Healing Environment and Practice- Tangled flowers Practice (II)<br>10. Healing Environment Practice-Aromatherapy and Practice<br>11. Practice of Healing Environment-First Experience of Horticultural Therapy<br>12. Healing Environment and Practice-Board Game and Practice<br>13. Healing Environment Practice-Zentangle9-+<br>14. Reading report and practice on topics related to the healing environment"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解療癒環境的定義與概念，及其目的、功能與內容。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能說出療癒者的角色功能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解感官、知識、心智、天然及神性處所環境設計之相關概念與設計內容。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能說出至少五項身心靈的健康照護環境設計的原則。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識療癒環境於高齡服務實務上之應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

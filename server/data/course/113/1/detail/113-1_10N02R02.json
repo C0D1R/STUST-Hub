@@ -1,0 +1,137 @@
+{
+    "code": "10N02R02",
+    "name": {
+        "zh": "職場實務探索(一)",
+        "en": "Workplace PracticesⅠ"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技車輛三甲"
+    ],
+    "instructors": [
+        "王永鵬"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第11節",
+            "location": "R401"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "藉由了解各專業領域之實務工作，培養更多相關技術人員。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.認識職場<br>2.工作守則<br>3.工作態度<br>4.職場安全衛生<br>5.職場倫理<br>6.溝通協調",
+        "en": "1.<br>2.<br>3.<br>4.<br>5.<br>6."
+    },
+    "weeklySchedule": "第1週：介紹職場經歷<br>第2週：介紹職場倫理及注意事項<br>第3週：學生分享職場經歷及輔導<br>第4週：學生分享職場經歷及輔導<br>第5週：學生分享職場經歷及輔導<br>第6週：學生分享職場經歷及輔導<br>第7週：學生分享職場經歷及輔導<br>第8週：學生分享職場經歷及輔導<br>第9週：期中報告<br>第10週：學生分享職場經歷及輔導<br>第11週：學生分享職場經歷及輔導<br>第12週：學生分享職場經歷及輔導<br>第13週：學生分享職場經歷及輔導<br>第14週：學生分享職場經歷及輔導<br>第15週：學生分享職場經歷及輔導<br>第16週：學生分享職場經歷及輔導<br>第17週：學生分享職場經歷及輔導<br>第18週：期末報告",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "書面報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理論與實務結合。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "提高職場適應力。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "遵從職場倫理與建立正確工作態度。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "書面報告。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "無"
+}

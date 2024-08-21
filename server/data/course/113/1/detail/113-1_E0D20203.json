@@ -1,0 +1,136 @@
+{
+    "code": "E0D20203",
+    "name": {
+        "zh": "日語文法(一)(C)",
+        "en": "Japanese grammar I"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技應日二甲",
+        "四技應日二乙"
+    ],
+    "instructors": [
+        "黃郁芳"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "N501"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "N501"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.日語能力檢定 2.3,4級",
+        ""
+    ],
+    "description": "1. 本課程配合讀本進度，主要是解說各類文法句型。<br>2. 語言學習要達到聽、說、讀、寫正確且流利，最重要的就是文法的學習，文法是構成一個語言的主幹架構，是日語教育中不可或缺的一門基礎課程。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、A組:<br>(Ａ組)<br>１．五十音図<br>２．基本語句：～は～です。<br>３．基本助詞：で・に・を・は<br>４．指示詞：こ・そ・あ・ど<br>５．疑問詞：いつ・だれ・どれなど<br>６．過去形：～た<br>７．数字・数量詞：枚・本・～つなど<br>８．形容詞<br>９．動詞変化<br>10．音便の<br>11．存在の使い方<br>12．継続状態の概念<br><br>二、（B組）<br>單元 (一)：動作的對象<br>單元 (二)：目的.手段.媒介<br>單元 (三)：起點.終點.界線.範圍<br>單元 (四)：時間.場面<br>單元 (五)：時間同時.前後關係<br>單元 (六)：進行.相對關係<br>單元 (七)：附屬.非附屬<br>單元 (八)：限定<br>單元 (九)：非限定.附加<br>單元 (十)：比較.最高級.對比<br>單元 (十一)：判斷的立場.評估的視點<br>單元 (十二)：基準<br>單元 (十三)：關連.因應<br><br>三、C組:<br>解說下列各句型<br>22不可能、可能、困難、容易<br>23傾向、状態、様子<br>24経過、結末<br>25否定、部分否定<br>26伝聞、推量",
+        "en": "(Ａ組)<br>１．五十音図<br>２．基本語句：～は～です。<br>３．基本助詞：で・に・を・は<br>４．指示詞：こ・そ・あ・ど<br>５．疑問詞：いつ・だれ・どれなど<br>６．過去形：～た<br>７．数字・数量詞：枚・本・～つなど<br>８．形容詞<br>９．動詞変化<br>10．音便の<br>11．存在の使い方<br>12．継続状態の概念<br><br>B組の授業内容は次の予定<br>B組の学生のレベルに応じて、主に教材<br>のN3、N2の文型を中心に教え、N1の文型<br>はN2の文型を一通り終えたあと、二年<br>生の時に教えることにします。<br>C組<br>次の各文型の解説<br>学生の更なる読解力を高めるため、主<br>にN2、N1のレベルの文型を中心に授業を<br>進めることにします。"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過文法的教導奠定同學聽、說、讀、寫的基礎。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過文法例句的翻譯練習，奠定將來翻譯及口譯的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過文法例句的閱讀，培養同學擁有口說、表達溝通的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過文法問題的練習，學得思辨解決問題的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過文法構文上的學習，提升日本語文正確的分析能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用習得的文法，培育自由創作及賞析文章的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

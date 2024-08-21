@@ -1,0 +1,141 @@
+{
+    "code": "30M18001",
+    "name": {
+        "zh": "電子陶瓷",
+        "en": "Electronic Ceramics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研電子一甲",
+        "碩研電子一甲",
+        "碩電子產業一甲"
+    ],
+    "instructors": [
+        "鄭建民"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "S607"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "S607"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "S607"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為電子陶瓷之基礎課程，並介紹基礎材料科學與電子陶瓷之製程方法與應用。<br><br>課程目標：<br>1.\t使學生了解基礎材料科學與電子陶瓷（知識）<br>2.\t能操作電子陶瓷製程設備之能力（技能）<br>3.\t能具備操作電子陶瓷製程設備使用者之專業態度（態度）<br>4.\t能瞭解電子陶瓷在產業界之應用（其他）<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一. 基礎材料科學介紹<br>1.1 原子構造與週期表<br>1.2 材料種類<br>1.3 結晶構造學<br><br>二. 電子陶瓷簡介<br>2.1 半導體介紹<br>2.2 金屬氧化物<br>2.3 極化與介電性<br>2.4 壓電性<br><br>三. 電子陶瓷之製程方法<br>3.1 傳統固態反應法<br>3.2 微波合成法<br>3.3 溶膠-凝膠法<br>3.4 前驅體法<br>3.5 水熱合成法<br>3.6 化學蒸著法<br>3.7 成型與燒結<br>3.8 薄膜<br><br>四. X光繞射分析儀與電子顯微鏡<br>4.1 X光的產生<br>4.2 X光的繞射<br>4.3 X光繞射分析儀<br>4.4 電子顯微鏡<br><br>五. 缺陷<br>5.1 缺陷種類<br>5.2 差排<br>5.3 晶粒與晶界<br><br>六. 電子陶瓷之應用<br>6.1 鐡電記憶體<br>6.2 壓電陶瓷<br>6.3 超音波振盪子<br>6.4 感測器<br>",
+        "en": "1. Introduction to basic material science<br>(1) Structure of atom and periodical table<br>(2) Kinds of materials<br>(3) Crystalline <br>2. Electronic ceramics<br>(1) Semiconductors<br>(2) Metal oxides<br>(3) Polarization and dielectric properties<br>(4) piezoelectricity<br>3. Fabrication methods of electronic ceramics<br>(1) Conventional solid state reaction<br>(2) Microwave synthesis<br>(3) Sol-gel method<br>(4) Precursor method<br>(5) Hydrothermal synthesis<br>(6) Chemical evaporation<br>(7) Shaping and sintering<br>(8) Thin films<br>4. X-ray diffraction and electron microscopy<br>(1) Generation of X-ray<br>(2) Diffraction of X-ray<br>(3) X-ray diffraction<br>(4) Electron microscopy<br>5. Defects<br>(1) Kinds of defects<br>(2) Dislocations<br>(3) Grains and grain boundary<br>6. Application<br>(1) FRAM<br>(2) Piezoelectric ceramics<br>(3) Ultrasonic resonator<br>(4) Sensor"
+    },
+    "weeklySchedule": "第1~3週:電子材料簡介<br>第4~6週:原子結構與晶體<br>第7~8週:晶體缺陷與差排<br>第9週:期中考<br>第10~12週:半導體簡介<br>第13~15週:陶瓷材料電特性<br>第16~17週:薄膜<br>第18週:期末考",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "平時報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過課堂講解，了解基礎材料科學與電子陶瓷之一般知識。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "透過參觀與實際操作，學習電子陶瓷之一般製程方法。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "知道利用製程方法來改善電子陶瓷之物性與電性。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "介紹電子陶瓷相關網站與相關期刊，使學生能自行學習。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "工程材料科學",
+        "author": "劉國雄、鄭晃忠等",
+        "publisher": "全華圖書",
+        "year": "2013",
+        "ISBN": "978-957-21-9187-3",
+        "edition": "2"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

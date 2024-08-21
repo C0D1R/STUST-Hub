@@ -1,0 +1,128 @@
+{
+    "code": "50D06301",
+    "name": {
+        "zh": "資料庫系統",
+        "en": "Database System"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電商二甲"
+    ],
+    "instructors": [
+        "丁介人"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "T0806"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "T0806"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "T0806"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.微軟Office專業認證 (Microsoft Office Specialist, MOS)",
+        ""
+    ],
+    "description": "本課程介紹資料庫系統之應用與設計，實際操作資料庫管理系統；訓練同學們在資料處理、資料庫設計、應用方面的能力 ，建立同學將來在資料庫系統方面的研究、深造與就業的基礎。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.概論<br>2.資料模式<br>3.關連式資料庫<br>4.SQL<br>5.資料庫設計<br>6.異動管理<br>7.View<br>8.案例實作<br>",
+        "en": "1.Introduction<br>2.Data Model<br>3.Relational Dtatbase<br>4.SQL<br>5.Data Design<br>6.Transaction Management<br>7.View<br>8.Case<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解資料庫應用環境",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解資料庫開發流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析組織的資料需求",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "設計資料庫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立使用與維護資料庫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

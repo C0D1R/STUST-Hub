@@ -1,0 +1,159 @@
+{
+    "code": "1MD04O02",
+    "name": {
+        "zh": "日本流行產業(B)",
+        "en": "The Media and Entertainment Industry of Japan"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "社會科學領域"
+    ],
+    "instructors": [
+        "李詠青"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "W0502"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "W0502"
+        },
+        {
+            "day": "週五",
+            "period": "第9節",
+            "location": "W0502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "近四分之一世紀以來，臺灣曾在電影、戲劇、音樂等方面有過「哈日」旋風，。惟於此同時，社會上亦仍存有「反日」論調。此實與社會大眾普遍對於日本流行產業的文化底蘊或發展過程缺少了解有關。本課程將介紹日本流行產業的發展過程，敦促學習者理解產業規劃與文化底蘊的相互作用，從而擺脫盲從「哈日」或盲目「反日」的知能桎梏，進而反思臺灣流行產業如何於日後更上一層樓。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、\t概論-先就流行產業的範疇加以定義，並闡述其發展歷程。<br>二、\t日本流行產業的文化底蘊，且對其整體現況加以分析。再以事例分析的方式。<br>三、\t以多媒體教材，與學習者討論並實際鑑賞日本流行產業中的電影、電視劇、流行音樂重要作品。<br>四、\t以日本流行產業為鏡，省思臺灣相關業界的現今困局與因應對策。",
+        "en": "1.\tIntroduction-define the category of the media and entertainment industry and explain its development process.<br>2.\tAnalyzing the cultural background of the media and entertainment industry of Japan.  Then use case analysis.<br>3.\tUse multimedia teaching materials to discuss with students and actually appreciate important works of movies, TV dramas, and popular music in the Japanese popular industry.<br>4.\tTaking the media and entertainment industry of Japan as a mirror, think about the current dilemma and countermeasures of Taiwan's related industries.<br>"
+    },
+    "weeklySchedule": "第1週<br>導論、課程介紹<br>第2週<br>【日本即時通】任天堂40週年進化小史<br>【主題單元】2024全新登場的日圓紙鈔大解析<br>第3週<br>【即時通】雞汁拉麵的秘密（一）<br>【主題單元】日本最不好玩的地方<br>第4週<br>【即時通】雞汁拉麵的秘密（二）<br>【主題單元】改元令和（平成到令和）<br>第5週<br>【即時通】國會議事堂真面目-開箱日本國會議事堂<br>【主題單元】知日的入口（一）<br>第6週<br>【即時通】日劇鑑賞<br>【主題單元】知日的入口（二）<br>第7週<br>【即時通】日本人的靈魂食物—御飯糰<br>【主題單元】日本人的職場<br>第8週<br>【即時通】用流行走向國際的日本：高田賢三、三宅一生、森英惠、皆川明<br>【主題單元】傳統遇見流行（一）<br>第9週 期中作業週（課堂上進行）<br>第10週<br>【主題單元】如果我的新工作是「結婚」（從日劇《月薪嬌妻》談家事與勞務）<br>第11週<br>【即時通】性別日本（一）-女性活躍篇<br>第12週<br>【即時通】性別日本（二）<br>【主題單元】傳統遇見流行（三）<br>第13週<br>【即時通】「新語.流行語」是什麼？<br>【主題單元】2023「新語.流行語」TOP10詞彙完全解析<br>第14週<br>【即時通】今年的一盤<br>【主題單元】今年的漢字<br>第15週<br>【主題單元】影片欣賞<br>第16週<br>【日本即時通】 第一夫人/人夫的工作<br>【主題單元】日本影劇裡的總理大臣<br>第17週<br>期末作業製作.繳交週（課堂上進行）<br>第18週<br>期末活動週<br><br>＊課程進度與內容得依實際狀況修訂<br>＊配合聯合國永續發展指標，本課程規劃了以下單元，分別配合「目標四 優質教育」與「目標五 性別平等」，相關課程規劃說明如下：<br>一、素養導向課程x SDGs<br>（一）符合SDGs目標四優質教育之4.7在西元2030年以前,確保所有的學子都習得必要的知識與技能而可以促進永續發展,包括永續發展教育、永續生活模式、人權、性別。<br>（二）課程內容：本課程規劃時，即以素養導向為核心主軸。因此在各主題單元皆融滲性平、永續生活模式與教育之概念。",
+    "exams": {
+        "midterm": "期中作業（課堂上進行）",
+        "final": "期末活動",
+        "other": "第十七週：期末作業（課堂上進行）"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解日本流行產業的文化底蘊。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "掌握日本流行產業的發展現況，並深化媒體素養，增強對媒體訊息保有開放、批判及省思的能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "深化對日本流行產業的理解，反思臺灣現況，以適切因應國際化的挑戰。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "省思日本流行產業代表性從業人員的專業態度，期能有計畫地規劃學習及生涯方向。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "透過「日本流行產業」事例討論引導學生能有組織、有條理的表達與溝通。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "鑑賞分析日本流行產業的多元作品。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能藉由流行產業的多元作品所闡述的自我價值、社會價值，更加了解並珍惜自己，展現生命的價值。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.湯禎兆《殘酷日本》（台北：奇異果文創事業有限公司 2016/06/16）ISBN9789869272049<br>2. 野島剛《原來這才是日本》（台北：時報出版 2018/5） ISBN 978-957-13-7406-2<br>3. 湯禎兆《悶騷日本》（台北：奇異果文創事業有限公司 2015/01/07）ISBN9789869111751<br>4. 李世暉, 林芙白, 蔡彥亭《AKB48的光與影》（台北：翰蘆2017/04/21）ISBN9789869466806<br>5. 李御寧著，陳心慧譯《日本人的「縮小」意識》（台北：遠足文化2019/9）ISBN：9789865080297<br>6.野島剛《野島剛漫遊世界食考學：五十歲的一人旅，從「吃」進入一個國家、一段歷史、一種文化的奇妙田野探訪》（台灣。初版。有方文化。2020)。ISBN：9789869792141<br>",
+    "teachingSoftware": "",
+    "rules": "1.原則上會以分組方式上課。首次上課將對詳細上課/成績評量方式做說明，請同學務必出席。<br>2.上課以自編講義為主、講授完主題後、將進行分組討論與分享。<br>3.上課進度會視實際狀況進行調整。<br>4.配合課程進度可能會安排演講與校外參訪。<br>5.重視課堂參與度<br>6.每堂課會以不同方式點名（撰寫學習單、下課前在flipclass上傳課堂作業...均為點名的方式）<br>*【參考】課程粉專「課堂上的日本探索」https://www.facebook.com/profile.php?id=61560147597003<br>"
+}

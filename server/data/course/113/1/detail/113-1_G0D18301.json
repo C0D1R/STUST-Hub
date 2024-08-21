@@ -1,0 +1,131 @@
+{
+    "code": "G0D18301",
+    "name": {
+        "zh": "實用華語(一)",
+        "en": "Practical Mandarin(I)"
+    },
+    "credit": "2",
+    "type": "管制選修",
+    "classes": [
+        "四行流國專一甲",
+        "四餐旅國專一甲",
+        "四化材國專一甲",
+        "四電子國專一甲",
+        "四電機國專一甲",
+        "四高福國專一甲",
+        "四半導國專一甲",
+        "四食品國專一甲",
+        "四資工國專一甲",
+        "四機械國專一甲"
+    ],
+    "instructors": [
+        "楊明倫"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "L404"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "L404"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "此課程旨在協助學生實際運用華語，透過主題式教學，將課程和歌曲、電影等等課程做結合，提供多元學習環境，讓學生掌握華語溝通技巧。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.聽力與口語:能夠參與社交場合的討論，表達自己的觀點和看法。<br>2.閱讀與寫作:能夠閱讀中等難度的文章並寫出簡短文章。<br>3.文化與交流:學習如何在跨文化交流中適應和應對不同文化間的差異。",
+        "en": "1.Listening and Speaking.<br>2.Reading and Writing.<br>3.Culture and Communication."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學生能學習華語語言及語法結構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能將華語應用於日常生活中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能用華語跟台灣人溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能分組合作完成報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能對臺灣及國際文化有所理解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

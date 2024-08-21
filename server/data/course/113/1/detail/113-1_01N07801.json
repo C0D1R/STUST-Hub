@@ -1,0 +1,99 @@
+{
+    "code": "01N07801",
+    "name": {
+        "zh": "全球英語(二)",
+        "en": "Globish (II)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "夜企管產攜一甲"
+    ],
+    "instructors": [
+        "林芳俐"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程除了課本之外，會提供線上學習教材。<br>全球英語(二)並重說和聽的能力訓練。此階段加強職場英語，並且訓練學生的互動能力，讓學生在工作岡位上能夠應付外籍顧客的需求，完成購物的流程。透過實作，讓學生認知職場英語的需要和重要。<br>Globish(二)emphasizes the training on speaking and listening skills at workplace to enhance the English skills required in workplace. Students have the ability to interact with foreign customer and complete the service procedure.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元1: 迎接顧客<br>單元2: 商品資訊<br>單元3: 要求服務<br>單元4: 食物與飲料<br>單元5: 詢問方向<br>單元6: 詢問時間表<br>單元7: 旅行",
+        "en": "Unit 1:Greeting<br>Unit 2:Providing Product Information<br>Unit 3: Requesting Services<br>Unit 4:Ordering Food and Drink<br>Unit 5:Enquiry of Direction<br>Unit 6:Enquiry of Schedule<br>Unit 7:Travling"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學生能夠使用專業英語與外籍人士溝通在各種情境下。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "在某些情況下，學生將能夠使用社交和談判的語言;也就是說，面試，訂貨，介紹等。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能夠隨著環境的改變提升自我調適的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過團隊練習，學生能體認在職場上與夥伴維持良好關係的重要性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

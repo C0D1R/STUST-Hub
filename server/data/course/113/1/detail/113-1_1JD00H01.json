@@ -1,0 +1,111 @@
+{
+    "code": "1JD00H01",
+    "name": {
+        "zh": "長照政策與法規",
+        "en": "Long-Term Care Policies and Regulations"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技高福二甲",
+        "四高福國專二甲"
+    ],
+    "instructors": [
+        "陳韻如"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "O403"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "O403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程從長期照顧政策之制度規劃與長照服務法之立法原則延伸，介紹長照的政策與法規，並結合實際案例，協助學生具備有關長照領域的基礎法律常識及政策內容。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、長期照顧政策<br>二、為什麼要推動長照2.0<br>三、長期照顧法規<br>四、長期照顧服務之醫事法律案例研析",
+        "en": "1.Long-term care Policies<br>2.Why do we promote Long-term care 2.0<br>3.Long-term care Regulations<br>4.Case study of Health law for Long-term care"
+    },
+    "weeklySchedule": "一、長期照顧政策2.0<br>二、長期照顧2.0業務介紹<br>三、長照四包錢介紹<br>四、長照個案四包錢運用小組報告 (期中報告)<br>五、長照機構人員可能面臨的法律責任有哪些<br>六、長期照顧服務之醫事法律案例研析<br>七、期末筆試<br>",
+    "exams": {
+        "midterm": "小組口頭及書面報告",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "協助學生了解長期照顧之政策內容。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "協助學生了解長照2.0之服務內容。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "協助學生具備長期照顧法規常識。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "協助學生了解過往之長照醫事法律案例並避免發生。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "平時成績（30%）: 課程參與度 (出席率)<br><br>期中成績 – 小組口頭及書面報告（40%）<br>長照個案四包錢運用小組報告<br><br>期末成績 – 筆試（30%）  <br>長照政策與法規<br>"
+}

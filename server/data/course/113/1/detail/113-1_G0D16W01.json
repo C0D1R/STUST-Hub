@@ -1,0 +1,132 @@
+{
+    "code": "G0D16W01",
+    "name": {
+        "zh": "應用實務專題(二)",
+        "en": "Design Practice of Information Technology and its Applications (2)"
+    },
+    "credit": "4",
+    "type": "系定選修",
+    "classes": [
+        "五專資工三甲"
+    ],
+    "instructors": [
+        "許智淵"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "D203"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "D203"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "D203"
+        },
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "D203"
+        }
+    ],
+    "hours": {
+        "course": "4",
+        "practice": "4"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將研究資通訊科技、關鍵技術及其應用實例與開發。並在課程初期，透過應用實例，讓學生進行專題題目思考、問題探討、方向確認、技術檢索，從而達到專題的背景、構思方向、專題目的、成果指標等，以達成專題整體的前後貫通。課程內容對於所實現的專題，重視其能夠切合廣泛的使用者需求、操作習慣互動介面等面向，從而進行專題的任務分析、技術規範、原型設計和指標評估。因此，課程目標是幫助學生面對使用者的直接需求、問題歸納分析、解決方法，並持續地進行專題的開發與改良。在課程中，學生將參與一個真正的問題解決/軟件開發項目。學生將被要求收集功能需求，識別問題，形成解決方案並提出此解決方案。並於課程尾聲，對學生所設計之專題進行標的驗收及檢討，以評估學生的學習效果。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.資訊系統實務內涵<br>2.應用實例說明<br>3.關鍵技術/技術規範介紹 <br>4.系統設計、規範、驗收標的 <br>5.分組專題驗收與檢討<br>",
+        "en": "1.Introduction to information systems<br>2.Illustration of application examples<br>3.Introduction to main technology and specification<br>4.The design, specification and verified items of a prototype system <br>5.Project verification and Review<br>"
+    },
+    "weeklySchedule": "課程簡介<br>分組討論<br>口頭簡報<br>書面報告",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "專題報告",
+        "other": "課程討論"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解資通訊系統的關鍵技術",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "應用適當的資通訊技術及介面設計來設計人們可以使用的系統",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "應用適當的資通訊技術及介面設計來設計人們可以使用的系統",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "選擇適用的軟體、硬體、韌體開發技術",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "應用實例的歸納與分析",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "請同學尊重智慧財產權，使用正版教科書，不得非法影印，以免觸犯智慧財產權相關法令 。"
+}

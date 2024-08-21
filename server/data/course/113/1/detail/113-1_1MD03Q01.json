@@ -1,0 +1,158 @@
+{
+    "code": "1MD03Q01",
+    "name": {
+        "zh": "經濟與生活",
+        "en": "Economics and Life"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "社會科學領域"
+    ],
+    "instructors": [
+        "許竹君"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "S514"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S514"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "S514"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為商管經濟類的課程，主要的教學目標在於讓學生們理解在日常生或中能夠運用到的經濟學基本概念。課程主要分成兩個部份：第一個部份為個體經濟學的基礎概念，包括消費者行為、生產者行為、市場結構等主題。第二個部份為總體經濟學的基礎概念，包括經濟成長、物價膨脹與失業等主題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一個單元需求與供給<br>第二個單元供需彈性與均衡<br>第三個單元消費者行為<br>第四個單元生產者行為<br>第五個單元國民所得<br>第六個單元經濟指標<br>第七個單元經濟成長<br><br>",
+        "en": "Chapter 1. Demand &amp; Supply<br>Chapter 2. Elasticities of Supply and Demand and Equilibrium<br>Chapter 3. Consumer Behavior<br>Chapter 4. Producer Behavior<br>Chapter 5. National Income<br>Chapter 6. Economic Indicators<br>Chapter 7. Economic Growth<br>"
+    },
+    "weeklySchedule": "Week 1    課程概述 <br>Week 2    經濟問題與經濟學<br>Week 3    分工與市場：生活水準提升的泉源<br>Week 4    個人如何做選擇<br>Week 5    行為經濟學<br>Week 6    行為經濟學<br>Week 7    商業組織與金融資本、企業的運作<br>Week 8    完全競爭市場<br>Week 9    期中考試<br>Week 10   自由競爭與獨占<br>Week 11   生產要素的角色和收入本質<br>Week 12   政府與經濟活動<br>Week 13   衡量整體經濟活動：國民所得的概念<br>Week 14   失業與通貨膨脹<br>Week 15   貨幣與金融體系<br>Week 16   總體經濟政策<br>Week 17   Holiday<br>Week 18   期末考試",
+    "exams": {
+        "midterm": "期中考試",
+        "final": "期末考試",
+        "other": "課堂表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備經濟學之基本基本知能。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "具備統整所學之經濟概念，進而將其應用生活領域中之基本能力。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "具備表達對經濟概念之理解，聆聽其他同學之意見，進而針對相關議題進行討論之基本能力。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "有能力融洽的與他人溝通不同看法，展現良好的學習態度。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "將所學與實務結合，在面對經濟選擇時，要遵守倫理規範，具備理性思維及判斷之能力。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "嘗試為自己和所關心的人做經濟規畫，發揮最大效益。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "基礎經濟學思維與運用",
+        "author": "羅台雄",
+        "publisher": "五南出版社",
+        "year": "2015",
+        "ISBN": "978-957-11-8307-7",
+        "edition": "第四版"
+    },
+    "referenceBooks": "基礎經濟學思維與應用(第三版)，羅台雄，2011年，五南出版社。<br>圖解經濟學：最重要概念，朱延智，五南出版社，2017年，第三版。<br>經濟學花路米，鍾文榮，五南出版社，2016年，第一版。<br>",
+    "teachingSoftware": "Office",
+    "rules": "none"
+}

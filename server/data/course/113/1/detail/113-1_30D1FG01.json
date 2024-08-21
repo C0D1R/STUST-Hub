@@ -1,0 +1,115 @@
+{
+    "code": "30D1FG01",
+    "name": {
+        "zh": "基礎電子學(一)",
+        "en": "Fundamentals of Electronics (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專電子二甲"
+    ],
+    "instructors": [
+        "邱裕中"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "I0205"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "I0205"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "I0205"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "基礎電子學(一) 是一門入門級課程，旨在介紹電子學的基本概念和原理。課程內容涵蓋電路理論、元件特性及應用、基本電路分析方法等，為學生打下堅實的電子學基礎。此課程適合電子工程、電機工程及相關專業的初學者。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.電路理論基礎<br>電壓與電流<br>電阻與歐姆定律<br>電功率與能量<br><br>2.電路分析方法<br>基爾霍夫定律<br>節點分析法<br>網目分析法<br><br>3.基本電路元件<br>電阻器<br>電容器<br>電感器<br><br>4.直流電路<br>電源與負載<br>串聯與並聯電路<br>電壓分配與電流分配<br><br>5.交流電路<br>正弦波與交流電源<br>阻抗與導納<br>交流電路分析<br><br>6半導體元件<br>二極體<br>三極管<br>基本放大電路",
+        "en": "1.Basic Circuit Theory<br>Voltage and Current<br>Resistance and Ohm's Law<br>Electrical Power and Energy<br><br>2.Circuit Analysis Methods<br>Kirchhoff's Laws<br>Node Analysis<br>Mesh Analysis<br><br>3.Basic Circuit Components<br>Resistors<br>Capacitors<br>Inductors<br><br>4.DC Circuits<br>Sources and Loads<br>Series and Parallel Circuits<br>Voltage and Current Division<br><br>5.AC Circuits<br>Sinusoidal Waves and AC Sources<br>Impedance and Admittance<br>AC Circuit Analysis<br><br>6.Semiconductor Devices<br>Diodes<br>Transistors<br>Basic Amplifier Circuits<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "掌握電路理論的基本概念和原理。\n熟悉基本電路元件的特性和應用。\n能夠運用基本電路分析方法分析簡單電路。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備分析和設計基本直流和交流電路的能力。\n能夠進行實際電路的搭建和測試。\n理解電子元件在實際工程中的應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養獨立學習和解決問題的能力。\n能夠查閱和理解相關電子學文獻和資料。\n激發對電子學及相關技術的興趣，持續學習新知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠理解和應用電子學中的系統整合原理。\n具備將不同電子元件和模組進行整合的能力。\n理解電子系統的整體設計和協同工作。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

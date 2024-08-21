@@ -1,0 +1,127 @@
+{
+    "code": "L0D01302",
+    "name": {
+        "zh": "電子學(一)",
+        "en": "Electronics (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技半導體二乙"
+    ],
+    "instructors": [
+        "張勝雄"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "W0409"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "W0409"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "W0409"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "基本電子元件(二極體、雙載子接面電晶體、場效電晶體)之工作原理、種類、基本特性與電路分析。",
+    "prerequisites": "書名 (Title): Electronic Circuit Analysis and Design\n作者 (Author): Donald A. Neamen (呂學士編譯)\n書局 (Publisher): McGraw Hill (滄海書局)",
+    "syllabus": {
+        "zh": "1、半導體材料與二極體<br>2、二極體電路<br>3、雙極接面電晶體(BJT)<br>4、基本雙極電晶體(BJT)放大器及其電路",
+        "en": "1、Semiconductor materials and diode<br><br>2、Diode circuit<br><br>3、Bipolar junction transistor(BJT)<br><br>4、BJT amplifier and circuit"
+    },
+    "weeklySchedule": "第一週 簡介課程內容、教學方式及評量方法<br>第二週 半導體材料與二極體(1)<br>第三週 半導體材料與二極體(2)<br>第四週 二極體電路(1)<br>第五週 二極體電路(2)<br>第六週 雙載子接面電晶體(1)<br>第七週 雙載子接面電晶體(2)<br>第八週 基本雙載子接面電晶體放大器<br>第九週 期中考<br>第十週 基本雙載子接面電晶體放大器<br>第十一週 基本雙載子接面電晶體放大器<br>第十二週 場效電晶體<br>第十三週 場效電晶體<br>第十四週 基本場效電晶體放大器<br>第十五週 基本場效電晶體放大器<br>第十六週 頻率響應<br>第十七週 頻率響應<br>第十八週 期末考<br>",
+    "exams": {
+        "midterm": "期中考筆試",
+        "final": "期末考",
+        "other": "隨堂測驗"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識基本電子元件之種類與特性。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解二極體之工作原理與基本電路之分析技術。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解雙載子接面電晶體(BJT)之工作原理與基本電路的分析技術。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "看懂電子學原文教科書之內容。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "如期繳交老師所指派的作業。",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Electronic Circuit Analysis and Design 4'Ed (微電子學 第四版)",
+        "author": "Donald A. Neamen (呂學士編譯)",
+        "publisher": "McGraw Hill (滄海書局)",
+        "year": "2011",
+        "ISBN": "9789861577937",
+        "edition": "4"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

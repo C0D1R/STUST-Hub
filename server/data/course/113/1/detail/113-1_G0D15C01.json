@@ -1,0 +1,134 @@
+{
+    "code": "G0D15C01",
+    "name": {
+        "zh": "創意思考",
+        "en": "Creative Thinking"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技資工一甲",
+        "四資工產業一甲",
+        "四資工國專一甲"
+    ],
+    "instructors": [
+        "席家年"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "D301"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "D301"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要的內容，在於讓學生了解創意的本質為何？並嘗試藉由設計邏輯的演練，逐步建立創新的設計思維，並適度的藉由設計方法協助創意思考，以培養學生運用方法、解決設計問題的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t創意的重要性與內涵<br>2.\t如何產生創意<br>3.\t創意思考與問題解決<br>4.\t創意思考與設計邏輯<br>5.\t分析性創意思考案例與演練<br>6.\t啟發性創意思考案例與演練<br>7.\t團隊創意思考方法與演練<br>",
+        "en": "1. the Connotation and importation of creativeness <br>2. how to boost creativeness<br>3.Creative think and problem resolution<br>4.Creative think and design logic<br>5.Examples of analyzing creative think and implementation <br>6.Examples of inspiring creative think and implementation <br>7.Training of team creative think"
+    },
+    "weeklySchedule": "1. 創意的重要性與內涵<br>2. 如何產生創意<br>3. 創意思考與問題解決<br>4. 創意思考與設計邏輯<br>5. 分析性創意思考案例與演練<br>6. 啟發性創意思考案例與演練<br>7. 團隊創意思考方法與演練<br>8. 性別/思考/創意的多元平等",
+    "exams": {
+        "midterm": "作業",
+        "final": "日常表現",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "訓練觀察與解決實務問題的能力",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養團隊思考與合作能力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                },
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                },
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建構兼具理性與感性的思考能力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習如何激發創新創意能力",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

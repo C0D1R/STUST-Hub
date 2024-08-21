@@ -1,0 +1,140 @@
+{
+    "code": "J0N15O01",
+    "name": {
+        "zh": "品牌規劃與設計",
+        "en": "Brand Planning and Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技視傳三甲",
+        "夜四技視傳四甲"
+    ],
+    "instructors": [
+        "陳鴻源"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "W0701"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "W0701"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "W0701"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "企業的競爭力，來自好的品牌；好的品牌必須擁有完整的企業識別與設計，而這正是設計人所該關注的課題。",
+    "prerequisites": "文字設計、電腦繪圖",
+    "syllabus": {
+        "zh": "品牌資產價值<br>組織品牌化團隊<br>企業形象與品牌形象自我確認調查<br>品牌願景<br>品牌理念的確立<br>品牌命名<br>品牌設計師<br>品牌設計的準備<br>創意開發<br>設計提案<br>形體與色彩的精緻化<br>品牌設計的展開<br>品牌設計手冊<br><br>",
+        "en": "Brand Asset Value<br>Organizing a branded team<br>Corporate image and brand image self-confirmation survey<br>Brand vision<br>Establishment of brand concept<br>Brand naming<br>Brand designer<br>Brand design preparation<br>Creative development<br>Design proposal<br>Refinement of form and color<br>Brand design<br>Brand design manual<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生了解品牌的形成與其價值",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "解析市場上成功品牌與其創意設計思維",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立學生對品牌整體規劃的基本觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生溝通協調之團體意識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "促進學生對品牌整體規劃設計的體會",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升學生對品牌設計之實務經驗",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,128 @@
+{
+    "code": "30D1G501",
+    "name": {
+        "zh": "進階半導體元件物理",
+        "en": "Advanced Semiconductor Device Physics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子三甲",
+        "四技電子三乙"
+    ],
+    "instructors": [
+        "邱裕中"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "J401"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "J401"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "J401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在深入探討半導體元件的物理原理，涵蓋半導體材料的基本性質、能帶理論、載流子傳輸、半導體異質結構、場效應晶體管(FET)、雙極性接面晶體管(BJT)等。透過理論講解和實驗操作，學生將全面理解並掌握半導體元件的物理機制及其應用，為從事相關研究和工程實務打下堅實的基礎。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元一：半導體材料 (Unit 1: Semiconductor Materials)<br><br>單元二：載流子傳輸 (Unit 2: Carrier Transport)<br><br>單元三：PN結與金屬-半導體結 (Unit 3: PN Junctions and Metal-Semiconductor Junctions)<br><br>單元四：場效應晶體管 (Unit 4: Field-Effect Transistors)<br><br>單元五：雙極性接面晶體管 (Unit 5: Bipolar Junction Transistors)<br><br>單元六：半導體異質結構 (Unit 6: Semiconductor Heterostructures)<br>",
+        "en": "單元一：半導體材料 (Unit 1: Semiconductor Materials)<br><br>單元二：載流子傳輸 (Unit 2: Carrier Transport)<br><br>單元三：PN結與金屬-半導體結 (Unit 3: PN Junctions and Metal-Semiconductor Junctions)<br><br>單元四：場效應晶體管 (Unit 4: Field-Effect Transistors)<br><br>單元五：雙極性接面晶體管 (Unit 5: Bipolar Junction Transistors)<br><br>單元六：半導體異質結構 (Unit 6: Semiconductor Heterostructures)"
+    },
+    "weeklySchedule": "週1：半導體物理簡介<br>週2、3：波爾氫原子模型<br>週4、5：導帶價帶關係<br>週6、7、8：費米能階與費米分佈<br>週9：期中考<br>週10、11：摻雜行為<br>週12、13：載子行為，濃度與費米能階，能帶分析<br>週14、15：擴散與飄移<br>週16、17：P-N接面特性入門<br>週18：期末考<br>",
+    "exams": {
+        "midterm": "自行考試",
+        "final": "自行考試",
+        "other": "自行考試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學生將掌握進階半導體元件的物理原理，能夠分析和設計各種半導體元件。\n提升學生在半導體元件物理領域的專業知識和技術，為未來的科研或工程工作做好準備。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學生將學會將半導體元件物理理論應用於實際工程中，解決具體的技術問題。\n透過實驗操作和案例分析，提升學生在半導體元件設計和應用中的實踐能力。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學生將能夠使用各種資訊技術工具來輔助半導體元件的學習和研究，例如模擬軟件和數據分析工具。\n培養學生蒐集、分析和解釋數據的能力，並將其應用於半導體元件的研究和開發過程中。",
+            "teachingMethods": [
+                "實作演練",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "鼓勵學生養成自主學習的習慣，持續提升半導體元件物理知識和技能，以應對未來的學術和職業挑戰。\n培養學生批判性思維和解決問題的能力，使其能夠在快速變化的科技環境中保持競爭力。",
+            "teachingMethods": [
+                "實作演練",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "半導體元件物理與製作技術 第三版",
+        "author": "施敏 李明逵 曾俊元",
+        "publisher": "",
+        "year": "",
+        "ISBN": "9789866301568",
+        "edition": "第三版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "EXCEL",
+    "rules": "1.上課不可以碰觸手機，手機不可以發出聲音。<br>2.想要未來容易找到工作的人，歡迎來修課。<br>3.上課要帶書本、講義、計算機。<br>"
+}

@@ -1,0 +1,111 @@
+{
+    "code": "08D02702",
+    "name": {
+        "zh": "多益測驗準備(B)",
+        "en": "TOEIC Test Preparation"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "許淑如"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0112"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0112"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.TOEIC",
+        ""
+    ],
+    "description": "This class is offered due to the demand our students have for TOEIC test preparation. It is a basic class, helping students to get a good overview of the test and practice in the key areas of reading and listening. The goal is to help students crack the 700 mark on the test or higher. As TOEIC is looked at by many companies, including airlines and trading companies this is important for future graduates.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程為多益測驗聽力與閱讀的準備課程。課程重點為多益題目練習，並教授如何增進英語聽力與閱讀能力。",
+        "en": "The course will cover all aspects of TOEIC test preparation. A text book will be used. There will be a focus on practice tests and in class explanation of how to improve both listening and reading."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "Students will be expected to utilise English during class",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Students will be expected to participate and learn how to manage time during their test.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "This class as a strong focus on preparing for the TOEIC test and aims to give a strong background in the testing methodology.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Integration and innovation comes from students outside reading of materials that will benefit the business related questions in the TOEIC test",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,149 @@
+{
+    "code": "40D1AE04",
+    "name": {
+        "zh": "化工技術實習(一)(B)",
+        "en": "Chemical Engineering Technology Laboratory I"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技化材四乙"
+    ],
+    "instructors": [
+        "江禎立"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "I0711"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "I0711"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "I0711"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "藉由實做讓同學得以把單元操作課堂上習得之理論加以驗證並從中了解為了求得系統參數要如何設計實驗,進而進行操作,紀錄數據,計算整理數據,而最後獲致結果並將此實驗所得結果與理論作一比較及討論.",
+    "prerequisites": "單元操作",
+    "syllabus": {
+        "zh": "1.盤管及夾套式熱交換器<br>(1)學習冷熱水流量如何影響傳熱數率及熱傳係數<br>(2)學習如何計算穩定狀態及非穩定狀態之總包熱傳係數<br>2.薄膜冷凝與液滴冷凝之比較<br>(1)學習冷卻水流率如何影響對流熱傳送係數及熱傳速率<br>(2)學習如何計算對流熱傳送係數<br>(3)驗證薄膜冷凝時對流熱傳送係數與溫度差1/4次方之關係<br>(4)比薄膜冷凝與液滴冷凝對流熱傳送係數與熱傳機制之差異<br>3.圓管與管件摩擦係數之測定<br>(1)學習流體於圓管及管件中流動摩擦之差異<br>(2)學習如何計算皮面摩擦之摩擦差係數以及型態摩擦之損耗係數，並與文獻值比對印證.<br>4.離心pump之特性曲線分析<br>(1)學習如何測試並決定pump之特性曲線<br>(2)學習如何決定管路系統之系統曲線<br>(3)學習如何由特性曲線與系統曲線決定出最適操作量點，並瞭解pump選定之原則<br>5.流動型式與雷諾數之關係/文氏計與皮扥管流量係數之測定<br>(1)驗證圓管中流體流動型態與雷諾數之關係<br>(2)學習流速計與流量計之原理及係數之計算<br>6.非牛頓流體<br>(1)學習並瞭解擬塑性流體之流動特性<br>(2)學習如何求出符合擬塑性流體剪應力及剪切速率冪次定律之次方<br>(3)驗證其視黏度與剪切速率之對數圖滿足斜率為負之直線關係<br>7.真空恆壓過濾<br>(1)學習真空恆壓過濾之過濾速率與過濾時間之關係<br>(2)學習如何求出路易士、勞士及恩得伍得等過濾方程式之參數並應用於過濾操作<br>8.黏度之測定<br>(1)驗證Hagen-Poiseuille方程式應用於圓管中流體之壓降雨流速關係<br>(2)學習如何運用實驗裝置與Hagen-Poiseuille方程式求得流體之黏度<br>9.因次分析<br>(1)由不互溶兩液體，研討影響液滴形成因素，並推導出無因次群關係式<br>(2)學習如何運用數據處理技巧求得無因次群關係式中之各參數<br>(3)由此實驗使得學生習得如何利用因次分析方法建立特定工程系統設計所需支半經驗方程式<br>10.熱交換器組<br>(1)瞭解套管式、管殼式以及板式熱交換器之熱傳原理<br>(2)學習如何計算各式熱交換器之總包熱傳送係數<br>(3)比較順流與逆流操作對熱傳效果之影響<br>",
+        "en": "To provide students with an understanding of the relationship between chemical engineering theory and performance of actual experimental laboratory operations.<br>To create a sense of professional responsibility for the quality and integrity of engineering work.<br>To introduce project planning, safety concepts, and experimental techniques.<br>To promote critical thinking and proficient communication through data analysis, interpretation of results, and presentation of findings written reports.<br>To provide students with the skills and experience necessary for effective teamwork.<br>"
+    },
+    "weeklySchedule": "第一週：<br>1. 環境整理：環境打掃及儀器擦拭(一節課)<br>2. 實驗規範講解：講解實驗進行方式，含分組方式、實驗進行方式、報告撰寫方式、評量方式以及注意事項等(一節課)<br>3. 實驗室安全衛生講解：含實驗室安全規範及安全注意事項<br><br>第二週：<br>實驗講解及實作示範，分組講解詳如下：<br>教師 (A)<br>1.盤管及夾套式熱交換器 <br>2.薄膜冷凝與液滴冷凝之比較<br>3.流動型式與雷諾數之關係/黏度之測定<br>4.熱交換器組<br>教師 (B)<br>5.離心pump之特性曲線分析 <br>6.非牛頓流體 <br>7.真空恆壓過濾<br>8.因次分析 <br><br>第三~第八週：<br>各組開始輪做<br>實驗輪流方式：每三週輪一項實驗。<br>第一次：A組實驗、B組撰寫報告(註：實驗過程中不可寫報告)。<br>第二次：B組實驗、A組撰寫報告(註：實驗過程中不可寫報告)。<br>第三次：A組或B組補作實驗數據、學習下個實驗、撰寫報告。<br>各組皆完成兩項實驗及繳交報告<br><br>第九週：<br>期中考週<br><br>第十~十五週<br>各組繼續輪做<br>實驗輪流方式：每三週輪一項實驗。<br>第一次：A組實驗、B組撰寫報告(註：實驗過程中不可寫報告)。<br>第二次：B組實驗、A組撰寫報告(註：實驗過程中不可寫報告)。<br>第三次：A組或B組補作實驗數據、學習下個實驗、撰寫報告。<br>各組皆完成另兩項實驗及繳交報告<br><br>第十六、十七週<br>期末上機實作測驗，方式如下：<br>1. 測驗順序級測驗項目以抽籤方式決定。<br>2. 每次抽出八位同學，被抽中之同學親自抽出測驗項目，測驗項目確 定後有五分鐘準備時間，隨即就位，由任課老師指定實驗參數範圍， 受測同學需於30分鐘內完成並繳交實驗記錄<br>3. 期間任課老師巡視各組，依據學生對實驗操作之熟悉度及正確度以及最後數據之準確度給於評分。<br>4. 接著，繼續輪下一梯次。每週約可完成三梯次，兩週可完成全班之測驗。<br><br>第十八週<br>期末考<br>",
+    "exams": {
+        "midterm": "繳交實驗報告",
+        "final": "繳交實驗報告",
+        "other": "繳交實驗報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能應用化學工程基本知識及單元操作原理，完成實驗報告",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能正確操作設備、使用工具及排除簡易故障",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能分析實驗數據並解釋實驗結果",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能有系統的說明實驗流程與實驗結果，且能融入團隊並能完成自己所分擔的實驗工作",
+            "teachingMethods": [
+                "分組討論",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能利用電腦軟體處理實驗數據，並上網收集相關資料。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "羅文偉等、單元操作實驗、高立",
+    "teachingSoftware": "",
+    "rules": "缺課一次扣總成績3分，缺課三次以上總成績不及格！（缺課亦包含請假，例外：住院、喪假、有要事先經任課老師核可者。）上課遲到15分鐘以上，超過30分算缺課。實驗室不可吵鬧、吃東西、喝飲料，下課時間方可離開。"
+}

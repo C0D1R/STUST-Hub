@@ -1,0 +1,139 @@
+{
+    "code": "E0N0AC01",
+    "name": {
+        "zh": "日本企業文化",
+        "en": "Japan Corporate Culture"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技應日四甲"
+    ],
+    "instructors": [
+        "莊秀文"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "T0113"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "T0113"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "T0113"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "首先介紹日本企業的組織架構和人事職稱，接著介紹日本企業經營的三種神器，即「年功序列、終身雇用以及企業間的勞動組合」，由此瞭解日本企業經營的特殊性與台灣企業文的差異。並介紹日本企業職場文化的特性。",
+    "prerequisites": "學習日語2年以上，具備日語檢定N3以上能力",
+    "syllabus": {
+        "zh": "1.日本企業的基礎架構<br>2.日本式經營的特色-1<br>3.日本式經營的特色-2<br>4.Just In Time &amp; Total Quality Management<br>5.日本企業職場文化-1<br>6.日本企業職場文化-2<br>",
+        "en": "1.日本企業組織と役職<br>2.日本的経営-1<br>3.日本的経営-2<br>4.Just In Time &amp; Total Quality Management<br>5.日本人の組織風土-1<br>6.日本人の組織風土-2<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過案例分享，讓大四學生了解日商企業文化之特質，並從中學習台日企業文化差異。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過老師實務經驗的講解，使學生了解講義中所提的數字和文字的真實意義。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由分組報告及充分討論和書面資料之呈述，讓學生於畢業於進入日系產業時，可順利融入其工作文化。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由分組報告的過程，學生可以充分收集日商有關資料，了解後進行SWOT分析。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過本課程的解說，讓學生在台工作亦能了解日方要求的準確性和台商之差異性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由課堂上翻譯日方交易相關之文件並進行口頭報告，培養學生正確翻譯和口譯的基本能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

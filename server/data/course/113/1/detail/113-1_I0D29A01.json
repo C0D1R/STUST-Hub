@@ -1,0 +1,110 @@
+{
+    "code": "I0D29A01",
+    "name": {
+        "zh": "嬰幼兒音樂活動",
+        "en": "Music activities for infants and toddlers"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技幼保三甲"
+    ],
+    "instructors": [
+        "魏欣儀"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0911"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "W0911"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "音樂可增進嬰幼兒的感官開發，也是此年齡層的學習媒介，本課程介紹嬰幼兒可進行之音樂活動，藉由聆聽、律動、歌唱、探索及遊戲等方式，奠定音樂啟蒙開發期。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 嬰幼兒發展相關理論<br>2. 嬰幼兒音樂教學法之教學理念與教學方法<br>3.  0至2歲嬰幼兒發展理論<br>4.  0至2歲嬰幼兒之音樂活動設計<br>5.  0至2歲嬰幼兒之律動設計<br>6. 嬰幼兒音樂活動設計與實作<br>",
+        "en": "1. Infant development theories.<br>2. The teaching philosophy and teaching methods of infant music teaching.<br>3. 0 to 2 years old infant development theory<br>4. Music activity design for infants and toddlers aged 0 to 2<br>5. Rhythm design for infants from 0 to 2 years old<br>6. Design and Practice of music activities for infants and toddlers<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解嬰幼兒發展相關理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習嬰幼兒音樂教材教法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "設計適合嬰幼兒之音樂教學活動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "實際操作嬰幼兒音樂活動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

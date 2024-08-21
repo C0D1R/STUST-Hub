@@ -1,0 +1,111 @@
+{
+    "code": "E0D18801",
+    "name": {
+        "zh": "秘書實務",
+        "en": "Practice of secretary"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應日四甲",
+        "四技應日四乙"
+    ],
+    "instructors": [
+        "盧駿葳"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "T0104"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0104"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "培養學生的禮儀。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一週 美的概論<br>第二週 美的概論<br>第三週 走路的禮儀訓練<br>第四週 站姿與坐姿的訓練<br>第五週 小考<br>第六週 化妝與保養<br>第七週 穿的藝術(打領帶、絲巾的使用方法)<br>第八週 穿的藝術(打領帶、絲巾的使用實習)<br>第九週 期中考<br>第十週 日式拜訪禮儀；實習<br>第十一週 和服的穿著方式；實習<br>第十二週 泡茶、奉茶的方法；實習<br>第十三週 西餐、中餐、日式料理的食用方法<br>第十四週 參加婚喪喜慶時的注意事項<br>第十五週 說話的技巧<br>第十六週 職場上的人際關係<br>第十七週 面試實習<br>第十八週 期末考",
+        "en": "1.Concept of beauty I<br>2.Concept of beauty II<br>3.Correct walking way<br>4.Correct posture<br>5.Small test<br>6.Making up and maintenance<br>7.Tie and scarf correct making way <br>8.Tie and scarf practicing <br>9.Mid-term<br>10.Visiting practicing<br>11.Wahuku practicing<br>12.Making tea practicing<br>13.Dinner table manor <br>14.Wedding and funeral actions<br>15.Speaking skill practicing<br>16.Human relationships<br>17.Interview practicing <br>18.Final test<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養學生在學時就對成人社會的流行與世界潮流的趨勢有所認同，避免出社會時格格不入。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "擁有藝術眼光，增加自我品味。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "有了外表的加持，更需要自我內在的休養，在校就能幫助同學，無私的共同分享成果。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "對於各種實務的訓練，除了負起該有的責任外，並勇於嚐試新突破。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

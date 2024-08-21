@@ -1,0 +1,154 @@
+{
+    "code": "H0D15Q01",
+    "name": {
+        "zh": "食品法規及驗證實務",
+        "en": "Food regulations and introduction of food certification"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技食品四甲",
+        "四技食品四乙"
+    ],
+    "instructors": [
+        "賴嘉萍"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "I0701"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "I0701"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "I0701"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程之主旨在講授國內外食品安全衛生相關法規及重大食安事故，並介紹各種常見的食品驗證標章，以便未來在職場上有關食品檢驗，生產管理，及企畫行銷等各項工作的執行都能符合相關法規及專業倫理。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.食品安全衛生管理法及其施行細則<br>2.食品安全衛生管理相關法規<br>3.食品重大違規事件<br>4.食品驗證標章<br>5.專業倫理",
+        "en": "1. Law of food sanitation and safety. <br>2. Legislation related to food sanitation and safety management.<br>3. Critical food safety violations.<br>4. Food certification.<br>5. Professional ethics.<br>"
+    },
+    "weeklySchedule": "週次\t教學進度<br>1\t課程介紹<br>2\t第1章：食品產業現況分析<br>3\t第2章：食品安全衛生管理法介紹<br>4\t第2章：食品安全衛生管理法實務應用<br>5\t第3章：食品業者衛生管理<br>6\t第3章：食品業者衛生管理實務<br>7\t第4章：食品衛生管理<br>8\t第4章：食品衛生管理實務<br>9\t期中考<br>10\t第5章：食品標示及廣告管理<br>11\t第5章：食品標示及廣告管理<br>12\t第6章：食品良好衛生規範準則自主管理實務<br>13\t第6章：食品良好衛生規範準則自主管理實務<br>14\t第7章：HACCP制度介紹及管理實務<br>15\t第7章：HACCP制度介紹及管理實務<br>16\t第8章：食品標章與驗證<br>17\t第9章：ISO 22000與HACCP驗證稽核實務<br>18\t期末考<br>",
+    "exams": {
+        "midterm": "期中筆試",
+        "final": "期末筆試",
+        "other": "隨堂口試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "食品安全衛生管理法及其施行細則",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "食品安全衛生管理相關法規",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "食品重大違規事件",
+            "teachingMethods": [
+                "個案研究(PBL)",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "食品驗證標章",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "專業倫理",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "各類型食品相關法規及公告<br>一、食品安全衛生管理法<br>二、食品安全衛生管理法施行細則<br>三、應訂定食品安全監測計畫與應辦理檢驗之食品業者、最低檢驗週期及其他相關事項<br>四、應設置實驗室之食品業者類別及規模<br>五、食品良好衛生規範準則<br>六、食品安全管制系統準則<br>(一)&nbsp;乳品加工食品業應符合食品安全管制系統準則之規定<br>(二)&nbsp;水產加工食品業應符合食品安全管制系統準則之規定<br>(三)&nbsp;肉類加工食品業應符合食品安全管制系統準則之規定<br>(四)&nbsp;食用油脂工廠應符合食品安全管制系統準則之規定<br>(五)&nbsp;罐頭食品工廠應符合食品安全管制系統準則之規定<br>(六)&nbsp;蛋製品工廠應符合食品安全管制系統準則之規定<br>(七)&nbsp;餐盒食品工廠應符合食品安全管制系統準則之規定<br>七、食品業者登錄辦法<br>八、應取得衛生安全管理系統驗證之食品業者<br>(一)&nbsp;食品添加物、特殊營養食品及乳品加工食品業者應取得衛生安全管理系統驗證<br>(二)&nbsp;資本額達新臺幣三千萬元以上之麵粉、澱粉、食鹽、糖及醬油食品製造業者應取得衛生安全管理系統驗證<br>(三)&nbsp;罐頭及資本額達新臺幣三千萬元以上之食用油脂製造、加工、調配業者應取得衛生安全管理系統驗證<br>九、食品業者應保存產品原材料、半成品及成品來源文件之種類與期間<br>十、食品及其相關產品追溯追蹤系統管理辦法<br>十一、應建立食品追溯追蹤系統之食品業者<br>十二、食品工廠建築及設備設廠標準<br>十三、103年12月12日前，食品或食品添加物工廠未單獨設立者，應於105年6月10日前完成辦理單獨設立，不得於同一廠址及廠房同時從事非食品之製造、加工及調配<br>十四、食品製造工廠衛生管理人員設置辦法<br>十五、應置衛生管理人員之食品製造工廠類別及規模<br>十六、食品業者專門職業或技術證照人員設置及管理辦法<br>十七、應置專門職業或技術證照人員之食品業者類別及規模規定<br>十八、食品業者投保產品責任保險<br>十九、食品及其相關產品回收銷毀處理辦法<br>二十、中央衛生主管機關公告各類衛生標準及食品添加物使用範圍及限量暨規格標準",
+    "teachingSoftware": "power point",
+    "rules": "無"
+}

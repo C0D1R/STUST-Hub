@@ -1,0 +1,115 @@
+{
+    "code": "Z5D01G01",
+    "name": {
+        "zh": "半導體製造設備概論",
+        "en": "Introduction to Semiconductor Manufacturing Equipment"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技工學院學分"
+    ],
+    "instructors": [
+        "吳俊穎"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "K401"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "K401"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "K401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹半導體工業發展及晶圓製造潔淨要求，透過主要的擴散、薄膜、黃光、蝕刻及平坦化製程模組技術，說明設備之基本操作原理，奠定積體電路製程之流程概念，培養投入半導體產業之基礎認知與興趣。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Chap-1半導體工業簡介<br>Chap-2半導體製造廠之污染控制<br>Chap-3量測設備<br>Chap-4 積體電路製造概述<br>Chap-5氧化製程與設備<br>Chap-6薄膜沉積與設備<br>Chap-7金屬化製程與設備<br>Chap-8黃光微影技術與設備<br>Chap-9蝕刻製程與設備<br>Chap-10離子植入與設備<br>Chap-11平坦化製程與設備<br><br>",
+        "en": "Chap-1 Introduction to Semiconductor Industry<br>Chap-2 Pollution Control of Semiconductor Manufacturing Plant<br>Chap-3 Metrology equipment<br>Chap-4 Overview of Integrated Circuit Manufacturing<br>Chap-5 Oxidation process and equipment<br>Chap-6 Thin film deposition and equipment<br>Chap-7 Metallization process and equipment<br>Chap-8 Photolithography technology and equipment<br>Chap-9 Etching process and equipment<br>Chap-10 Ion implantation and equipment<br>Chap-11 Planarization process and equipment<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解半導體工業發展及晶圓生產工廠概要",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解積體電路製程之基本流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解擴散、薄膜、黃光、蝕刻、平坦化製程模組所用之設備",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解半導體設備工程師的工作概要",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

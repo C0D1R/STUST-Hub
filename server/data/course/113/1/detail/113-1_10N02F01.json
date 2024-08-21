@@ -1,0 +1,113 @@
+{
+    "code": "10N02F01",
+    "name": {
+        "zh": "職場自主學習(三)",
+        "en": "Practical Course (Ⅲ)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技自控二甲"
+    ],
+    "instructors": [
+        "黃東雍"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第11節",
+            "location": "K402"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為貫徹以培養實務能力為課程目標之精神，特於大學四學期課程中制定「職場實務」之選修課程，藉由實習了解各類型相關專業領域之實務工作，培養更多相關技術人員，並且透過實習強化相關之專業素養，建立業界與學界良好互動模式。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、職場自我導向學習能力、態度與準備程度。<br>二、職場壓力的不同背景變項。<br>三、職場壓力的感受。 <br>四、職場學習參與。",
+        "en": "1. Self-learning, attitude and preparation in career<br>2. Pressure from different background<br>3. Feelings of pressure in career<br>4. Participation and learning in career"
+    },
+    "weeklySchedule": "認識產業、職場倫理。<br>一、職場自我導向學習能力、態度與準備程度。 <br>二、職場壓力的不同背景變項。<br>三、職場壓力的感受。 <br>四、職場學習參與。",
+    "exams": {
+        "midterm": "無",
+        "final": "書面報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理論與實務結合，減少學生畢業後面臨重新學習困境。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "提高學生職場適應力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "職場倫理與工作態度建立",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "自我評量",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "書面表達溝通",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                },
+                {
+                    "method": "自我評量",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "視情況指定",
+    "teachingSoftware": "Google chrome",
+    "rules": "無"
+}

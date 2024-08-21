@@ -1,0 +1,121 @@
+{
+    "code": "20M10M02",
+    "name": {
+        "zh": "電源品質與應用",
+        "en": "Electric Power Quality and its Applications"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研電機一甲",
+        "博電機國際一甲",
+        "博電子國際一甲",
+        "碩研電機一甲",
+        "碩電機國際一甲",
+        "碩電子國際一甲"
+    ],
+    "instructors": [
+        "許振廷"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第7節",
+            "location": "B504"
+        },
+        {
+            "day": "週三",
+            "period": "第8節",
+            "location": "B504"
+        },
+        {
+            "day": "週三",
+            "period": "第9節",
+            "location": "B504"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course includes the following topics: (1) power quality definition (2) power harmonic (3) voltage flicker<br>(4) three-phase unbalance (5) frequency variation and (6) voltage sag etc.  <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.電力品質定義<br>2.電力系統諧波<br>3.電壓閃爍<br>4.三相不平衡<br>5.頻率變動<br>6.電壓驟降  <br>",
+        "en": "1.Power Quality Definition<br>2.Power System Harmonic <br>3.Voltage Flicker<br>4.Three-phases Unbalance<br>5.Frequency Variation<br>6.Voltage Sags  <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "本課程希望教導學生具備電力品質的基本概念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增加英文能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "期望未來在各種考試與工作場合遭遇相關問題時，有能力了解與解決所面臨的各種電力品質問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具有電力系統程式模擬的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

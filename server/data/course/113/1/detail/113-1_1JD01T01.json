@@ -1,0 +1,110 @@
+{
+    "code": "1JD01T01",
+    "name": {
+        "zh": "中醫膳食與養生概論",
+        "en": "Introduction to TCM Diet and Health Preservation"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技高福三甲"
+    ],
+    "instructors": [
+        "任東輝"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "O101"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "O101"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將介紹名醫及名著導讀及啟發及醫方集解導讀等課程。讓學生了解中醫養生學基礎，並結合所學專長，所學的現代醫學和生命科學.等，重新認識中醫養生學。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.陰陽五行<br>2.中醫名詞之誤用<br>3.論氣與經絡<br>4.論臟腑<br>5.論三焦<br>6.經脈與氣血循環<br>7.病因與病機<br>8.四診八綱(一)<br>9.四診八綱（二）<br>10中藥簡介(一)<br>11.中藥簡介(二）與五味四氣<br>12.方劑概論(一)<br>13.方劑概論（二）<br>14.預防與養生<br>15.醫得與醫德",
+        "en": "1. Yin Yang Five Elements<br>2. Misuse of TCM nouns<br>3. On the gas and meridians<br>4. On the dirty<br>5. On Sanjiao<br>6. Meridian and blood circulation<br>7. Causes and pathogenesis<br>8. Four diagnoses and eight classes (1)<br>9. Four diagnoses and eight classes (2)<br>10 Introduction to Traditional Chinese Medicine (1)<br>11. Introduction to Traditional Chinese Medicine (II) and Wuwei<br>12. Introduction to prescriptions (1)<br>13. Introduction to prescriptions (2)<br>14. Prevention and health<br>15. Medical and medical ethics"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學會養生專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會中醫保健專業技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解衛教的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解溝通的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

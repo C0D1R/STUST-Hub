@@ -1,0 +1,140 @@
+{
+    "code": "M0N01801",
+    "name": {
+        "zh": "管理學",
+        "en": "Principle of Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技餐旅一甲",
+        "夜餐旅產攜一甲"
+    ],
+    "instructors": [
+        "毛佩娟"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "T0308"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "T0308"
+        },
+        {
+            "day": "週二",
+            "period": "第11節",
+            "location": "T0308"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以上課課本為主體進行課程.並以個案研討為輔以豐富上課內容.實際增加課程之有用性.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.管理概論<br>2.管理思潮的演進<br>3.企業經營環境<br>4.企業倫理、社會責任與文化適應<br>5.決策與問題解決<br>6.規劃<br>7.規劃的技術與工具<br>8.策略規劃<br>9.現代化的組織設計<br>10.管理變革與創新<br>11.人力資源管理<br>12.激勵<br>13.領導<br>14.組織溝通<br>15.組織文化<br>16.控制理論<br>17.績效管理<br><br>",
+        "en": "第1週<br>/ 課程介紹<br>Course Introduction 講授及討論<br>Lecture with Discussion<br>第2週<br>/ 第1章：組織與管理概論<br>Chp.1- Introduction to Organization and Management 講授及討論<br>Lecture with Discussion<br>第3週<br>/ 第2章：管理理論的演進<br>Chp.2- Historical View of Management Theory 講授及討論<br>Lecture with Discussion<br>第4週<br>/ 第3章：組織與環境的關係<br>Chp.3-The Relationship of Organization and Environment 講授及討論<br>Lecture with Discussion<br>第5週<br>/ 第4章：管理決策<br>Chp.4- Managerial Decision Making 講授及討論<br>Lecture with Discussion<br>第6週<br>/ 第5章：規劃的基礎<br>Chp.5-Foundations of Planning 講授及討論<br>Lecture with Discussion<br>第7週<br>/ 第6章：策略管理<br>Chp.6- Strategic Management 講授及討論<br>Lecture with Discussion<br>第8週<br>/ 第7章：組織的基礎<br>Chp.7-Foundations of Organizing 講授及討論<br>Lecture with Discussion<br>第9週<br>/ 期中考<br>Mid-term Exam<br>第10週<br>/ 第8章：組織理論及設計<br>Chp.8-Organizational Theory and Design 講授及討論<br><br>Lecture with Discussion<br>第11週<br>/ 第9章：團隊的建立與運用<br>Chp.9-Building Team work 講授及討論<br>Lecture with Discussion<br>第12週<br>/ 第10章：激勵<br>Chp.10-Motivation 講授及討論<br>Lecture with Discussion<br>第13週<br>/ 第11章：領導<br>Chp.11-Leading 講授及討論<br>Lecture with Discussion<br>第14週<br>/ 第12章：溝通<br>Chp.12-Communication 講授及討論<br>Lecture with Discussion<br>第15週<br>/ 第13章：控制<br>Chp.13-Controlling 講授及討論<br>Lecture with Discussion<br>第16週<br>/ 第14：顧客服務管理(1)<br>Chp.14-Customer Service Management(1) 講授及討論<br>Lecture with Discussion<br>第17週<br>/ 第14：顧客服務管理(2)<br>Chp.14-Customer Service Management(2) 講授及討論<br>Lecture with Discussion<br>第18週<br>/ 期末考<br>Final-term exam"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解管理理論之歷史及文化觀點",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能詮釋管理環境的變動及全球化的趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解規劃、組織之管理功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解溝通、領導之管理功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解控制之管理功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析管理個案之問題並提出解決方案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

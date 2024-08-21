@@ -1,0 +1,128 @@
+{
+    "code": "65D00T01",
+    "name": {
+        "zh": "行銷研究",
+        "en": "Marketing Research"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國商三甲"
+    ],
+    "instructors": [
+        "洪一碩"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "S509"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "S509"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "S509"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Marketing Research addresses the practice how to systematically and logically gather and analyze the information that is relevant to the objective of making marketing decisions. The main objective of this course is to equip students with the key concepts and methods of marketing research, and allow student to understand how to apply those tools to solve real-life business problems. Both qualitative and quantitative research methods are covered through the lectures. We also discuss real life application through various mini-cases. A small-scale project report demonstrating students’ learning at this course is required where students identify and solve a real business problem using marketing research methods.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、行銷研究導論<br>二、研究設計<br>三、資料蒐集來源與方法<br>四、資料分析方法<br>五、研究結果撰寫與報告<br>",
+        "en": "The course will cover the following important topics:<br>1. Introduction to Marketing Research<br>2. Research Process and Problem Formulation<br>3. Basic research process and four major steps of a marketing research project<br>4. Marketing research in the social media, TV industry, In-store shopper, and brand perception<br>5. The Marketing 4-Ps: pricing, promotion, product design, positioning<br>6. Exploring company competitive advantages using M. Porter’s Five Forces Analysis. <br>7. Introducing process of marketing quantitative research<br>8. Sampling, questionnaires, survey design, and data analysis<br>9. Making conclusion and marketing suggestions.<br>The course will conclude with student presentations of their group-based marketing research project.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "國際商務知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "資料分析能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "商務簡報能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "商務企劃能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "邏輯思考能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

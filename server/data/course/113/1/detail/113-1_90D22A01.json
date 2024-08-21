@@ -1,0 +1,118 @@
+{
+    "code": "90D22A01",
+    "name": {
+        "zh": "產業分析理論與實務",
+        "en": "The Theory and Practice of Industry analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資管二甲",
+        "四技資管二乙",
+        "四技資管二丙"
+    ],
+    "instructors": [
+        "謝佳宏"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "W0406"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "W0406"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0406"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "為培養學生瞭解產業之定義、範疇與競爭現況等，以因應未來職場對於跨國產業菁英人才之需求。期望修課學生於修習本課程之後，能夠對於產業現況與未來趨勢，利用課堂講授之技巧，加以判斷，並能夠完成一份完整的產業分析報告與上台簡報。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "一、\t產業之定義與範疇<br>二、\t產業競爭模型<br>三、\t產業分析工具<br>四、\t策略性簡報技巧<br>五、\t產業分析報告製作<br>六、\t個人/組別成果報告<br>",
+        "en": "1.\tThe definition and scope of industry<br>2.\tThe analysis model of industry competition<br>3.\tThe tool for industrial analysis<br>4.\tThe skill of strategic presentation<br>5.\tHow to write an excellent industry report<br>6.\tPersonal and team work<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解產業分析的定義與要素",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用正確分析工具進行分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解各項產業的基本現況與政策作法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用所學知識分析並表達自我見解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

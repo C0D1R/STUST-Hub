@@ -1,0 +1,117 @@
+{
+    "code": "15D03501",
+    "name": {
+        "zh": "車輛動力學",
+        "en": "Vehicle Dynamics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技車輛四甲",
+        "四技車輛四乙"
+    ],
+    "instructors": [
+        "蕭瑞陽"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "K401"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "K401"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "K401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "講講解動力學基本原理、輪胎力學以應用於傳統汽車的行駛上。然後介紹汽車在軟路面的越野性，並介紹摩托車動力學與軌道車輛動力學。",
+    "prerequisites": "動力學",
+    "syllabus": {
+        "zh": "1. 動力學基本原理<br>2. 輪胎力學<br>3. 汽車的運動方程<br>4. 車輛越野性<br>5. 機車動力學<br>6. 軌道車輛動力學",
+        "en": "1. Principle of Dynamics<br>2. Mechanics of Tire<br>3. Mobility of Vehicle in Terrain<br>4. Dynamics of Motorcycles<br>5. Railway Vehicle Dynamics"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉車輛動力學原理，並以力學為基礎探討汽車運動行為",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解圖表數據對車輛動力學之物理意義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能規劃選擇車輛動力學之相關參數",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀車輛動力學專業用之英文資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

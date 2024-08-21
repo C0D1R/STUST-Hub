@@ -1,0 +1,115 @@
+{
+    "code": "20D1DN02",
+    "name": {
+        "zh": "數位邏輯設計與實習",
+        "en": "Digital Logic Design and Practice"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技控晶一乙"
+    ],
+    "instructors": [
+        "陳世芳"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "J501"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "J501"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "J501"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.導論2.數字系統3.邏輯闸與布林代數4.組合邏輯5.正反器6.計數器與暫存器7.序向邏輯8.應用實務",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、導論<br>二、數字系統<br>三、邏輯闸與布林代數<br>四、組合邏輯。<br>五、正反器<br>六、計數器與暫存器<br>七、序向邏輯<br>八、應用實務",
+        "en": "1. Introduction to digital system<br>2. Number systems and codes<br>3. Boolean algebra and logic gates<br>4. Gate level minimization<br>5. Combinational logic circuits<br>6. Registers and counter<br>7. Synchronous sequential logic<br>8. Applications"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "應用卡若圖化簡技術設計基本邏輯閘應用電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用組合邏輯IC(SSI/MSI)設計相關應用電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用正反器IC設計計時器/計數器的應用電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用計數器IC設計計時器/計數器的應用電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

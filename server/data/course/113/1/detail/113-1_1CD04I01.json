@@ -1,0 +1,116 @@
+{
+    "code": "1CD04I01",
+    "name": {
+        "zh": "互動式網頁設計",
+        "en": "Introduction to Javascript"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技產設三甲",
+        "四技產設三乙"
+    ],
+    "instructors": [
+        "葉儷棻"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "P403"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "P403"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "P403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "從程式基礎架構知識開始一步步學習HTML 5與JAVASCRIPT，透過上機實作了解如何撰寫簡單程始碼，最後可以完成簡單的互動雲端服務",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程簡介<br>2.基本程式邏輯概念介紹<br>3.ＨＴＭＬ5基本語法<br>4.CSS 教學<br>5.JavaScript 基本入門<br>6.變數與運算子<br>7.流程控制<br>8.函式使用<br>9.物件<br>10.HTML DOM<br>11.陣列<br>12.雲服務介面專案實作",
+        "en": "1. Introduction<br>2.Fundamental programing logic and。concepts<br>3.HTML5 basic syntax<br>4.CSS<br>5.JavaScript introduction<br>6. Variables and operators<br>7. Process control<br>8. Function use<br>9. Objects<br>10.HTML DOM<br>11. Array<br>12. Cloud service interface practice"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習如何整合視覺與互動設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習如何發展不同的互動模式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習如何將互動概念落實成軟體介面",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習如何透過合作完成網路設計專案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

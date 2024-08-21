@@ -1,0 +1,115 @@
+{
+    "code": "60D29301",
+    "name": {
+        "zh": "會計學(一)",
+        "en": "Accounting(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國企一甲"
+    ],
+    "instructors": [
+        "詹志明"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "S510"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "S510"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "S510"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.學習財務會計領域之專業知識與理論規範。 <br>2.瞭解相關之一般公認會計原則的規範與應用。 <br>3.擴大技術面會計知識，使學生能應用所學於實務之中。 <br>4.加強財務報告解讀及分析能力，以助於日後了解企業的經營成果及作出較佳決策的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章：會計之簡介<br>第二章：會計交易之分析<br>第三章：調整分錄<br>第四章：會計循環<br>第五章：買賣業會計<br>第六章：存貨<br>第七章：內部控制與現金 <br>",
+        "en": "Chapter 1: Introduction to Accounting<br>Chapter 2: Analyzing Transactions<br>Chapter 3: The Adjusting Process<br>Chapter 4: Completing the Accounting Cycle<br>Chapter 5: Accounting for Merchandising Businesses<br>Chapter 6: Inventories<br>Chapter 7: Internal Control, and Cash<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能體認正確嚴謹應用會計方法的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對管理問題有效辨識適當的會計方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用會計方法分析管理實務資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現資料分析結果，讓不懂會計專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "X0Q07X01",
+    "name": {
+        "zh": "民法-債編",
+        "en": "Civil Law - Obligations"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "碩專財法二甲"
+    ],
+    "instructors": [
+        "鄭植元"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第11節",
+            "location": "S411B"
+        },
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "S411B"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本學期講授重點，主要以侵權行為、契約、不當得利為主，另就無因管理部分，作簡要介紹探討。本課程上課方式以教師講授為主，並輔以實例解說。學生上課時請自備六法全書。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.契約。<br>2.無因管理。<br>3.不當得利。<br>4.侵權行為。<br>5.債之效力。<br>6.債之消滅 。",
+        "en": "1. Contracts<br>2. Management of Affairs Without Mandate<br>3. Unjust Enrichment<br>4. Torts<br>5. Effects of Obligations<br>6. Extinction of Obligations"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "解釋我國民法債編之各種債之發生原因",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解民法中各類型契約之權利義務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "釐清民法債各中之瑕疵擔保責任之意義及效力與各種有名及非典型契約類型之建構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "針對個別主題透過個案解析之方式，以達到法律常識之建立與養成，並要求同學尋找案例參與討論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

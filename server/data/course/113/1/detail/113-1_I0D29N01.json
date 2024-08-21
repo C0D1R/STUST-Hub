@@ -1,0 +1,110 @@
+{
+    "code": "I0D29N01",
+    "name": {
+        "zh": "教保專題討論",
+        "en": "Project-Based Learning in Early Childhood Education"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技幼保三甲"
+    ],
+    "instructors": [
+        "高家斌"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "W0503"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "W0503"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程著重設計教保創意教學活動，並透過專題研討及實驗研究的方式驗證學習活動的有效性，使學生運用好玩且有創意的遊戲來引導兒童學習，並安排學生至教保機構實際演練，期望增進學生的活動實務能力，鏈結學校課程與產業需求接軌。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程依據課程內容講授、活動設計及展演、實踐及驗證等三階段進行。<br>（一）課程內容：由老師負責專業課程及教保活動實務內涵之講授。<br>（二）教保活動實務：分享兒童遊戲玩法、使用者特性及遊戲設計原則。<br>（三）教保實務展演：參與教保實務學習活動之設計與實踐。<br><br>1.教保活動設計與實務－兒童桌遊活動玩法介紹<br>2.教保活動設計與實務－積木遊戲主題概念與活動設計<br>3.教保活動設計與實務－兒童科學遊戲活動設計<br>4.幼兒園遊戲教學案例分享與實作<br>5.教保教學活動設計與實務－兒童桌遊活動發想與設計<br>6.教保教學活動設計與實務－兒童桌遊課程的教與學<br>7.實務教學反思及報告。<br>",
+        "en": "This course is conducted in three stages based on the course content, activity design and performance, and practical implementation and verification.<br>1. Lecture: The instructor is responsible for teaching professional courses and the practical aspects of educational activities.<br>2. Practical Educational Activities: Sharing children's game play methods, user characteristics, and game design principles.<br>3. Practical Educational Activities Performance: Participation in the design and practice of practical educational activities.<br><br>1. Design and Practice of Educational Activities - Introduction to Children's Board Game Methods<br>2. Design and Practice of Educational Activities - Building Block Game Theme Concepts and Activity Design<br>3. Design and Practice of Educational Activities - Design of Children's Science Game Activities<br>4. Kindergarten Game Teaching Cases Sharing and Practice<br>5. Design and Practice of Educational Teaching Activities - Ideation and Design of Children's Board Games<br>6. Design and Practice of Educational Teaching Activities - Teaching and Learning of Children's Board Game Courses<br>7. Reflection and Report on Practical Teaching.<br>"
+    },
+    "weeklySchedule": "本課程依據課程內容講授、活動設計及展演、實踐及驗證等三階段進行。<br>（一）課程內容：由老師負責專業課程及教保活動實務內涵之講授。<br>（二）教保活動實務：分享兒童遊戲玩法、使用者特性及遊戲設計原則。<br>（三）教保實務展演：參與教保實務學習活動之設計與實踐。<br><br>1-3週.教保活動設計與實務－兒童桌遊活動玩法介紹<br>4-6週.教保活動設計與實務－積木遊戲主題概念與活動設計<br>7-9週.教保活動設計與實務－兒童科學遊戲活動設計<br>10-11週.幼兒園遊戲教學案例分享與實作<br>12-13週.教保教學活動設計與實務－兒童桌遊活動發想與設計<br>14-15週.教保教學活動設計與實務－兒童桌遊課程的教與學<br>16-18週.實務教學反思及報告。<br>",
+    "exams": {
+        "midterm": "報告",
+        "final": "報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解教保活動內容及教學實務應用。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "提升教保問題發現、研究設計與執行之能力。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "增進教保活動設計及教學技巧。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養熟悉多元教保內容及專題呈現方式。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "非課堂展演",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

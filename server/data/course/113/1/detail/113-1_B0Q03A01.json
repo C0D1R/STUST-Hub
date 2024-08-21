@@ -1,0 +1,99 @@
+{
+    "code": "B0Q03A01",
+    "name": {
+        "zh": "企業經營實務研討",
+        "en": "Seminar in Business Management Practice"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩專休閒二甲"
+    ],
+    "instructors": [
+        "楊蓓涵"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將邀請邀請實業界經理人才與學術單位的專家、學者，從實務面來探討企業經營管理的課題。相關重要議題有：一般企業經營、創業管理、藍海策略、人力資管理源，創新與創造力、以及其他管理領域相關議題等",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.高層經理領導<br>2.戰術思維和決心力量<br>3. 企業創造核心能力的生產技術<br>4. 策略管理實務 <br>5. 財務管理實務 <br>6. 行銷管理實務 <br>7. 資訊管理實務 <br>8. 人力資源管理實務<br>9. 品質管理實務<br>10. 知識管理實務<br>11. 科技管理實務<br>12. 創業管理實務<br>13. 中小企業創業成功個案<br>14. 臺灣企業之藍海策略<br>15. 創新與創造力",
+        "en": "1. leadership of high-order manager <br>2. Tactics thinking and resolution strength <br>3. The production technology of key ability <br>4. Strategy management practice <br>5. Financial administration practice <br>6. Marketing management practice <br>7. Information management practice <br>8. Human resources management practice <br>9. Quality control practice<br>10. Knowledge management practice <br>11. Practice of management of science and technology <br>12. Entrepreneurial Management practice <br>13. Successful cases that small and medium-sized enterprises start an undertaking <br>14. Blue sea tactics of enterprises of Taiwan <br>15. Innovation and creativity"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習如何構思研究題材",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "如何收集文獻及二手資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "如何寫作完整研究論文",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "企業倫理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

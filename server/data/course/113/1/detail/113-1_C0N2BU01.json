@@ -1,0 +1,116 @@
+{
+    "code": "C0N2BU01",
+    "name": {
+        "zh": "國際行銷英語會話",
+        "en": "International Marketing Conversation"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜二技應英四甲",
+        "夜四技應英四甲"
+    ],
+    "instructors": [
+        "石耀西"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "N202"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "N202"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "N202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在幫助學生建立在各種情況下在國際營銷領域的口語能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.成功的銷售電話<br>2.產品發布會的英語<br>3.談判/協商的用語<br>4.分銷談判的用語<br>5.商展會場的語言<br>6.展覽通訊的溝通",
+        "en": "1.A successful sales call<br>2.Overseas Trip<br>3.Product Launch<br>4.Bargaining/Negotiation<br>5.Distributorship Negotiation<br>6.Trade Show<br>7.Conventions/Exhibitions Communication"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立國際行銷方面的表達能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "加強國際行銷的管理能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進行銷專業英文的了解程度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練國際行銷的實際運作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

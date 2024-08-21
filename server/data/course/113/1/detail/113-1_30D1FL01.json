@@ -1,0 +1,115 @@
+{
+    "code": "30D1FL01",
+    "name": {
+        "zh": "數位邏輯設計概論",
+        "en": "Introduction to Digital Logic Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專電子二甲"
+    ],
+    "instructors": [
+        "陳順智"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "I0205"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "I0205"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "I0205"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "數位邏輯設計概論 是一門介紹數位邏輯設計基本概念和原理的課程，旨在培養學生對數位系統設計的基本理解和實踐能力。課程涵蓋布林代數、邏輯閘、組合邏輯電路、時序邏輯電路及其應用。此課程適合電子工程及相關專業的初學者。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.數位邏輯概論<br>數位與類比信號<br>基本數位邏輯概念<br>布林代數與邏輯運算<br><br>2.邏輯閘與基本電路<br>基本邏輯閘（AND, OR, NOT, NAND, NOR, XOR, XNOR）<br>邏輯閘的符號與真值表<br>基本邏輯電路設計<br><br>3.組合邏輯電路<br>加法器與減法器<br>編碼器與解碼器<br>多工器與去多工器<br><br>4.時序邏輯電路<br>觸發器（SR, D, JK, T）<br>寄存器與計數器<br>時序電路的狀態圖與狀態表<br><br>5.邏輯電路的簡化<br>卡諾圖<br>簡化布林函數<br>最小化邏輯電路<br><br>6.數位邏輯設計應用<br>小型數位系統設計案例<br>數位邏輯設計在嵌入式系統中的應用<br>設計與實現綜合項目<br>",
+        "en": "1.Introduction to Digital Logic<br>Digital vs. Analog Signals<br>Basic Concepts of Digital Logic<br>Boolean Algebra and Logic Operations<br><br>2.Logic Gates and Basic Circuits<br>Basic Logic Gates (AND, OR, NOT, NAND, NOR, XOR, XNOR)<br>Symbols and Truth Tables of Logic Gates<br>Design of Basic Logic Circuits<br><br>3.Combinational Logic Circuits<br>Adders and Subtractors<br>Encoders and Decoders<br>Multiplexers and Demultiplexers<br><br>4.Sequential Logic Circuits<br>Flip-Flops (SR, D, JK, T)<br>Registers and Counters<br>State Diagrams and State Tables of Sequential Circuits<br><br>5.Simplification of Logic Circuits<br>Karnaugh Maps<br>Simplification of Boolean Functions<br>Minimization of Logic Circuits<br><br>6.Applications of Digital Logic Design<br>Case Studies of Small Digital Systems Design<br>Applications of Digital Logic Design in Embedded Systems<br>Design and Implementation of Comprehensive Projects"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "掌握基本電子元件的實驗測試方法。\n熟悉常用電子測量儀器的操作。\n能夠設計並搭建基本電子電路。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備進行實際電路搭建與測試的能力。\n能夠分析並解釋實驗數據，解決實際工程問題。\n理解電子元件在實際工程中的應用與限制。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "掌握電子實驗數據的收集、處理與分析方法。\n能夠使用相關軟體進行數據分析與模擬。\n熟悉電子學實驗中的常用資料來源與文獻查找方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠將不同的電子元件與模組進行整合，設計完整的實驗電路。\n理解並應用系統整合的基本原理。\n培養系統性思維，完成從需求到實驗的整個過程。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

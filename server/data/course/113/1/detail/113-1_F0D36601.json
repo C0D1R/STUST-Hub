@@ -1,0 +1,116 @@
+{
+    "code": "F0D36601",
+    "name": {
+        "zh": "設計基礎",
+        "en": "Design Basics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資傳一甲"
+    ],
+    "instructors": [
+        "劉以琳"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第1節",
+            "location": "W0606"
+        },
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "W0606"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0606"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.SSE Adobe Illustrator CC",
+        ""
+    ],
+    "description": "整合平面設計領域中運用最廣的的photpshop與illustrator軟體,詳述軟體基本使用技巧,並對其進行綜合運用進行講解，並輔以平面設計美學素養（如構圖、配色）之養成。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.數位媒體設計概論<br>色彩基本原理，設計方法，美學概念，相關資源介紹，讓初學者開始熟悉數位設計概念。<br>2.數位圖像概念<br>數位圖像類型，特點以及如何應用於平面設計，網頁設計，影片製作等各類媒體。<br>3.數位影像處理(Photoshop整合)<br>學習照片圖像處理，影像合成技巧，影像特效濾鏡應用，各類型圖像處理技巧與注意事項。<br>4.設計企劃與方法<br>平面媒體設計基本規劃技巧，視覺與文字，設計企劃與方法等項目。<br>5.平面媒體設計應用(Photoshop &amp;Illustrator整合)<br>海報Poster，型錄DM，報紙雜誌稿等各類平面媒體製作物的應用。<br>6.排版技巧與印刷輸出實務<br>不同需求媒體設計時，常見的版面編排樣式，印刷輸出的檔案規格與其他注意事項。<br><br><br>",
+        "en": "1. Introduction to Digital Media design:<br>Introducing Color schemas, design methods, aesthetic principles, to make students become familiar with the concept of digital design.<br>2. Introduction to Digital Images<br>Introducing Digital image types and features and how to apply to graphic design, web design, film production and other types of media.<br>3. Digital Image processing (integrating Adobe Photoshop &amp; illustrator)<br>Introducing photo image processing, image synthesis techniques, filter applications, various types of image processing skills and considerations.<br>4. Design Planning and methods<br>Applying design planning skills and methods to media projects.<br>5. Print Media design &amp; applications<br>Applying design skills in poster, DM, newspaper, magazine manuscripts and other types of print medias.<br>6. Typesetting and printing practice<br>Requirements of Different media design, including layouts, file specifications, color modes and other specifications.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "整合設計原理原則與數位繪圖技術以產生完整作品",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生了解設計專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備電腦繪圖的運用技巧與製作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具團隊溝通執行企畫與設計專案能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

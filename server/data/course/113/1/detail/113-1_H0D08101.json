@@ -1,0 +1,157 @@
+{
+    "code": "H0D08101",
+    "name": {
+        "zh": "中草藥概論",
+        "en": "Introduction of Chinense Medicine"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技食品四甲",
+        "四技食品四乙"
+    ],
+    "instructors": [
+        "李順來"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "I0701"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "I0701"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "I0701"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "「中藥學」是一門專研中藥的基本理論和各種中藥的來源、產地、採集、炮製、性能、功效及臨床應用等知識的一門學科，本課程「中藥學概論」則以介紹中藥的起源開始繼之發展，了解產地、採集方法、炮製目的、中藥功性、分類，以及常用中藥材的認識，辨識真假與好壞。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元一：中藥的起源和中藥的發展史。<br>單元二：中藥的產地與採集方式。<br>單元三：中藥的炮製目的和方法。<br>單元四：中藥的性能（四氣、五味、歸經、毒性）介紹。<br>單元五：中藥的配伍、用藥禁忌、劑量、用法、介紹。<br>單元六：解表藥、清熱藥的介紹。<br>單元七：理氣藥、消食藥的介紹。<br>單元八：活血化瘀藥、止血藥的介紹。<br>單元九：補虛藥介紹<br>",
+        "en": "1 History of Chinense Medicine<br>                      2 Resourse and Collection of Chinense Medicine<br>                      3 Preparation of Chinense Medicine<br>                      4 Characteristic of Chinense Medicine<br>                      5 The Five-Element Theory<br>                      6 The Yin-Yang Theory<br>                      7 The Combination of Chinense Medicine<br><br>"
+    },
+    "weeklySchedule": "1-3週 中藥的起源和發展史<br>4-5週 中藥的產地和採集<br>6-7週 中藥的炮製目的和方法<br>8-9週 中藥的性能(四氣,五味,歸經)<br>10週 中藥的配伍<br>11-12節 解表方劑<br>13-14週 理氣方劑降<br>15-16週 活血化瘀<br>17週 補虛方劑",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識中草藥之基本知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "知道如何收集中草藥相關資訊",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生實驗數據的分析的能力",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生書面與解說報告的能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解中草藥炮製與生產流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解中草藥產業的相關性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

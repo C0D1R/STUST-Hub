@@ -1,0 +1,139 @@
+{
+    "code": "K0M32C01",
+    "name": {
+        "zh": "實務專題與實習(一)",
+        "en": "Practice Internship I"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研多樂一甲"
+    ],
+    "instructors": [
+        "孫志誠"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "W0806"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "W0806"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "W0806"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為貫徹本校學產一貫與培育專業人才之宗旨，特於研究所開設實務實習必修課程，所有學生皆須至與本科系相關之廠商進行職場實習，提前體驗職場文化，並加強自我實務技能，以達成專業人才畢業即就業之目標。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 了解職場倫理及應有之工作態度。<br>2. 發掘問題及解決問題之能力訓練。<br>3. 如何培養團隊合作精神<br>4. 學習與操作職場相關專業技術及能力。<br>5. 理論與實務相互結合之訓練。<br>6. 實習報告撰寫與表達訓練。<br>",
+        "en": "1. Understand the ethics of the workplace and the attitude of work.<br>2. Ability to develop problems and solve problems.<br>3. How to cultivate team spirit<br>4. Learn and operate professional skills and abilities in the workplace.<br>5. The combination of theory and practice.<br>6. Internship report writing and expression training.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1. 了解職場倫理及應有之工作態度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2. 發掘問題及解決問題之能力訓練。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3. 如何培養團隊合作精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4. 學習與操作職場相關專業技術及能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5. 理論與實務相互結合之訓練。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6. 實習報告撰寫與表達訓練。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

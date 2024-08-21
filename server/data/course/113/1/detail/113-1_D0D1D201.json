@@ -1,0 +1,116 @@
+{
+    "code": "D0D1D201",
+    "name": {
+        "zh": "AI與商業應用",
+        "en": "AI and Business Applications"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技行流四甲",
+        "四技行流四乙"
+    ],
+    "instructors": [
+        "蔡雅玲"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "T0212"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0212"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0212"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在實務技能上，規劃出線上線下整合行銷與 O2O商業應用；更因應新科技的發展，請業師指導藥妝店的市場行銷- ChatGPT 的導入與運用。以期學生畢業進入職場，能參與數位經濟與社會之必備技能，創造出數位經濟就業機會。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "讓學生們先行認識與了解AI技術應用、並熟悉網際網路與資訊安全；進而可知道資訊科技應用與AI的商業與未來應用。",
+        "en": "Let students know and understand the application of AI technology first, and be familiar with the Internet and information security; then they can know the application of information technology and the business and future application of AI."
+    },
+    "weeklySchedule": "日期 課程單元<br>9/5 網際網路與資訊安全<br>9/7 網際網路與資訊安全<br>9/12 AI技術應用<br>9/19 AI技術應用<br>9/26 線上線下整合行銷<br>10/3 線上線下整合行銷<br>10/17 O2O商業應用<br>10/24 O2O商業應用<br>10/31 O2O商業應用<br>11/7 O2O商業應用<br>11/14 資訊科技應用<br>11/21 資訊科技應用<br>11/28 資訊科技應用<br>12/5 藥妝店的市場行銷：ChatGPT 的導入與運用<br>12/12 藥妝店的市場行銷：ChatGPT 的導入與運用<br>12/19 藥妝店的市場行銷：ChatGPT 的導入與運用<br>12/26 藥妝店的市場行銷：ChatGPT 的導入與運用<br>1/2 AI商業與未來應用",
+    "exams": {
+        "midterm": "報告",
+        "final": "報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識與了解AI技術應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "線上線下整合行銷",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "O2O商業應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "藥妝店的市場行銷- ChatGPT 的導入與運用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自行編製講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

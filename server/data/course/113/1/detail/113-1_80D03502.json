@@ -1,0 +1,127 @@
+{
+    "code": "80D03502",
+    "name": {
+        "zh": "貨幣銀行學",
+        "en": "Money and Banking"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技財金二乙"
+    ],
+    "instructors": [
+        "張媛甯"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "S403"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "S403"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "S403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "貨幣銀行學的內容包含貨幣經濟的本質、金融體系、利率、外匯市場、中央銀行與貨幣政策、總體貨幣理論等主題。",
+    "prerequisites": "經濟學原理",
+    "syllabus": {
+        "zh": "1.導論<br>2.金融體系與利率、匯率<br>3.貨幣供需與貨幣政策<br>",
+        "en": "1. Introduction<br>2. Financial system and interest rates, exchange rates<br>3. Money supply and demand and monetary policy<br>"
+    },
+    "weeklySchedule": "W1~2\t貨幣概論<br>W3~4\t金融體系概論<br>W5~6\t利率與利率的決定<br>W7~8\t利率的結構與資訊內涵<br>W9\t期中考<br>W10~11\t金融結構與資訊不對稱<br>W11~12\t金融業的種類與業務<br>W13\t銀行的業務與經營<br>W14\t中央銀行制度<br>W15~16\t貨幣供給的創造與決定因素<br>W16~17\tPjBL報告<br>W18\t期末考<br>",
+    "exams": {
+        "midterm": "有",
+        "final": "有",
+        "other": "PjBL報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解貨幣銀行學的基本學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能應用理論方法解決金融實務問題",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現分析結果，並增強報告之溝通技巧",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解全球貨幣金融情勢變動，調整自我適應社會環境變遷之能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用貨幣金融思維之重要性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "貨幣銀行學概論",
+        "author": "黃志典",
+        "publisher": "華泰",
+        "year": "2024",
+        "ISBN": "9786267395325",
+        "edition": "7"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "需修習過經濟學"
+}

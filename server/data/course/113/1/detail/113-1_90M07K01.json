@@ -1,0 +1,139 @@
+{
+    "code": "90M07K01",
+    "name": {
+        "zh": "企業研究方法與學術倫理",
+        "en": "Business Research and Ethics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研資管二甲"
+    ],
+    "instructors": [
+        "吳盛"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "T0713"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "T0713"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "T0713"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要介紹1.介紹學術倫理的相關基礎學理，包含倫理學的基本概念。2.當前財務會計、管理會計及審計的學術研究方法、主題及其現況，使碩士班同學對會計學術研究的內涵有所了解，做為未來撰寫碩士論文之基礎。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "PART ONE 學術倫理的理論基礎<br>1.價值觀與倫理<br>2.規範倫理學<br>3.道德認知發展模式<br>4.道德的相對論和客觀主義<br>PART TWO研究方法<br>1. 課程簡介<br>2. 研究設計<br>3. 文獻整理<br>4. 研究方法(一)<br>5. 研究方法(二)<br>6. 論文格式與資料蒐集<br>7. 研究討論（一）事件研究法與資訊內涵研究<br>8. 研究討論（二）盈餘反應係數運用研究<br>9. 研究討論（三）盈餘管理研究<br>10. 研究討論（四）財務預測與破產預測研究<br>11. 研究討論（五）代理理論運用研究<br>12. 研究討論（六）員工紅利與獎酬計畫研究<br>13. 研究討論（七）公司治理研究<br>14. 研究討論（八）管理會計研究<br>15. 研究討論（九）審計議題<br>16. 研究討論（十）非營利事業組織研究<br>17. 研究討論（十一）會計準則研究<br>18. 期末報告<br><br><br><br><br><br><br><br>",
+        "en": "To introduce the various elements of the scientific method and ethics. This course aims at providing students with research techniques and skills for analyzing quantitative data that may be required for their individual research project, the publication of the research and an academic career."
+    },
+    "weeklySchedule": "研究的基本觀念<br>如何找研究資料及文獻<br>文獻管理軟體<br>論文相關軟體<br>研究設計<br>量化研究方法：調查法、實驗法、彙總分析法<br>論文常用的統計方法<br>質化研究方法：個案研究、內容分析、觀察法<br>研究論文撰寫<br>研究論文簡報",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "期使學生能了解學術倫理的基本觀念。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "使學生了解論文的基本架構與期刊排名",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "使學生了解論文的實證研究方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學會操作簡單的統計軟體.並對統計結果進行分析",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "論文就是要這樣寫",
+        "author": "張芳全",
+        "publisher": "心理出版社",
+        "year": "2021",
+        "ISBN": "9789860744293",
+        "edition": "5"
+    },
+    "referenceBooks": "韓乾，研究方法原理：論文寫作的邏輯思維，，第三版，五南，2020。<br>古永嘉、楊雪蘭/編譯，企業研究方法，華泰，2019。<br>蕭文龍，統計分析入門與應用：SPSS中文版+SmartPLS 3(PLS-SEM)，第二版，碁峰，2018。<br>顏志龍、鄭中平，給論文寫作者的統計指南：傻瓜也會跑統計，第二版，五南，2017。<br>顏志龍，傻瓜也會寫論文(量化+質化增訂版)：社會科學學位論文寫作指南，五南，2018。",
+    "teachingSoftware": "SPSS, SmartPLS",
+    "rules": "應具備有基礎統計觀念"
+}

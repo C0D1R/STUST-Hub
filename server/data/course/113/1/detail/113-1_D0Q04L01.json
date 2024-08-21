@@ -1,0 +1,127 @@
+{
+    "code": "D0Q04L01",
+    "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專行流二甲"
+    ],
+    "instructors": [
+        "黃識銘"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "T0213"
+        },
+        {
+            "day": "週六",
+            "period": "第9節",
+            "location": "T0213"
+        },
+        {
+            "day": "週六",
+            "period": "第11節",
+            "location": "T0213"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "培養學生具備策略管理的基礎概念及其應用能力，透過概念解說，在緒論闡述策略的概念與方法，建立學生對所謂的策略有個清楚的輪廓。外部分析與內部分析是策略的基本，藉由策略決策與策略領導，強化策略應具備之相關的認知。將相關策略管理分析方法的邏輯推理運用在企業公司中，以奠定學生修習策略管理專業課程之應用基礎。",
+    "prerequisites": "有想要擔任主管者或有上進企圖心的人員",
+    "syllabus": {
+        "zh": "策略領導<br>外部分析<br>內部分析<br>事業層級策略<br>策略與科技<br>全球環境中的策略",
+        "en": "Strategic leadership<br>External analysis<br>Internal analysi<br>Business-level strategy<br>Strategy &amp; Technology<br>Strategy in a global environment"
+    },
+    "weeklySchedule": "1. 課程概述<br>2. Ch1<br>3. Ch2<br>4. ch3<br>5. Ch4<br>6. 國慶<br>7. Ch5  <br>8. Ch6<br>9. 期中考<br>10. CH7<br>11. Ch8<br>12. Ch9<br>13. ch10 <br>14. ch11<br>15. Ch12 <br>16. ch13<br>17. ch14<br>18. 期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "筆試(小考)、期末報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "策略的制定",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "策略決策",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "策略領導",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "外部分析",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "內部分析",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "策略管理",
+        "author": "Hill  and Dchilling 朱文儀  陳建男譯",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "個案講義",
+    "teachingSoftware": "無",
+    "rules": "無"
+}

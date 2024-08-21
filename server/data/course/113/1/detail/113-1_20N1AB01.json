@@ -1,0 +1,147 @@
+{
+    "code": "20N1AB01",
+    "name": {
+        "zh": "電子學",
+        "en": "Electronics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技電機三甲"
+    ],
+    "instructors": [
+        "黃宏銘"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "I0308"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "I0308"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "I0308"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "讓同學了解二極體.BJT.FET.及功率放大器及原理及應用  <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章:半導體材料與二極體<br>第二章:二極體電路<br>第三章:場效電晶體<br>第四章:基本場效電晶體(FET)放大器<br>第五章:雙極接面電晶體<br>第六章:基本雙極電晶體放大器<br>",
+        "en": "1.Semiconductor materials and properties.<br>2.Diode circuits.<br>3.The field-effect transistor.<br>4.Basic FET amplifiers.<br>5.The bipolar junction transistor. <br>6.Basic BJT amplifiers."
+    },
+    "weeklySchedule": "1、半導體材料與二極體<br>2、二極體電路<br>3、雙極接面電晶體(BJT)<br>4、基本雙極電晶體(BJT)放大器及其電路",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第8週及第17週 檢查手寫(筆記+作業)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解近代微電子學的發展",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "知道半導體的特性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能分析與計算二極體電路",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能分析與計算雙極接面電晶體(BJT)的偏壓電路",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能分析與計算雙極接面電晶體(BJT)放大電路",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "筆記",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.電子學(基礎篇)[Electronic Devices] <br>  (作者:Thomas L. Floyd)<br>  (譯者:楊棧雲/蔡振凱/劉堂仁) 全華圖書<br><br>2.電子裝置與電路理論基礎篇[Electronic Devices and Circuit Theory]<br>  (作者: Robert L.Boylestad/Louis Nashelsky)<br>  (譯者: 卓中興/黃時雨) 東華書局<br>",
+    "teachingSoftware": "",
+    "rules": "先修科目或預備能力 電路學<br>筆記及作業35% [每周拍照上傳flipclass(10%),第8及17週收紙本筆記檢查(25%)] <br>期中考試30%<br>期末考試35%"
+}

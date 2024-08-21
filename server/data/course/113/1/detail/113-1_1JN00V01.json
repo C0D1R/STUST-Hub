@@ -1,0 +1,151 @@
+{
+    "code": "1JN00V01",
+    "name": {
+        "zh": "自然照護學暨實務",
+        "en": "Natural Care Studies and Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜二技高福四甲"
+    ],
+    "instructors": [
+        "黃育婷"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "O403"
+        },
+        {
+            "day": "週六",
+            "period": "第9節",
+            "location": "O403"
+        },
+        {
+            "day": "週六",
+            "period": "第11節",
+            "location": "O403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程著重於提供學生相關老年人常見健康照顧技術職能之實務經驗，首先是讓學生瞭解並學習高齡基礎照護之概念與技能，並補強高齡失能者翻身擺位、壓瘡暨居家生活輔具照護之相關知能與技能，進而到評鑑優等之日照中心、及居家生活館進行參訪活動，以促進學生了解老年照護技能實務之應用。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、老化的生理變化與護理<br>二、老年人之溝通技巧<br>三、老年人的營養問題與照護<br>四、老年人的泌尿照護技巧與產業介紹<br>五、高齡醫療照護與評估<br>六、老年人的口腔照護問題<br>七、老年人的口腔照護實務<br>八、老年照護動作、翻身與擺位技巧<br>九、老年照護動作、翻身與擺位實作<br>十、老年照護動作、翻身與擺位實作檢測<br>十一、老化生活輔具<br>十二、老年褥瘡照護對策<br>十三、老年人的居家環境安全福祉照護<br>十四、老化體驗暨心得分享<br>十五、參訪活動",
+        "en": "1.Physiological changes and nursing of aging<br>2.Communication skills for the elderly<br>3.Nutritional problems and care for the elderly<br>4.Urinary care skills and industry introduction for the elderly<br>5.Senior medical care and assessment<br>6.Oral care for the elderly<br>7.Practice of oral care for the elderly<br>8.Movement, turning over and placement skills for the elderly<br>9.Practice of the movement, turning over and placement skills for the elderly<br>10.Test of the movement, turning over and placement skills<br>11.Introduction of aging life aids<br>12.Elderly acne care strategy<br>13.Elderly home security and well-being<br>14.Elderly simulation experience<br>15.Visiting activities"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學會照顧服務的基本技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會照顧服務的基本技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解溝通的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解溝通的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解被照顧者的需求和需要的關懷",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "通過技術考核至少一項",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "通過技術考核至少一項",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

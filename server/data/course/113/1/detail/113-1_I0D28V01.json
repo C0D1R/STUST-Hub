@@ -1,0 +1,110 @@
+{
+    "code": "I0D28V01",
+    "name": {
+        "zh": "嬰幼兒遊戲",
+        "en": "Infant and Children’s Play"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技幼保二甲"
+    ],
+    "instructors": [
+        "陳蔚慈"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第1節",
+            "location": "W0502"
+        },
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "W0502"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "遊戲是孩子也是所有人們的天生本能。期望藉由該應用性課程，重啟未來教保人員們的「玩心」。並透過師生互動、做中學等經驗來實際體驗遊戲在幼兒生活及學校教育的重要性。配合學校活動，讓同學們透過互相的腦力激盪及經驗分享，學習如何將遊戲生活化、教學遊戲化。將遊戲由室內延伸到室外，並學習利用有限的媒材及資源回收物來舉辦一個融合社區的遊戲天活動。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 遊戲的定義、遊戲理論<br>2. 遊戲與嬰幼兒發展、 遊戲的歷史發展<br>3. 遊戲中的個體差異、文化與遊戲<br>4. 遊戲中成人的角色<br>5. 遊戲觀察、戶外遊戲安全<br>6. 遊戲環境的規劃、遊戲與遊戲材料<br>7. 遊戲在嬰幼兒教育及活動帶領之應用<br>",
+        "en": "Definition of play、theories of play<br>Play and infant/child development、History of play<br>Play and individual difference and culture influence<br>Roles of adults in children’s play<br>Observation of play、outdoor play safety<br>Design of play environment、Play and play material<br>Implication of play in infant and ECE education<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解遊戲的意義與功能及其對嬰幼兒發展的重要性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提昇學習遊戲化、遊戲生活化的教保活動規劃技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "善用並統整學習遊戲化概念於教保活動設計。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "實踐嬰幼兒遊戲的規畫技能並學習當一遊戲領導人。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

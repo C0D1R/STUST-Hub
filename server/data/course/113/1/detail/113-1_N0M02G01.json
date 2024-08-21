@@ -1,0 +1,116 @@
+{
+    "code": "N0M02G01",
+    "name": {
+        "zh": "物聯網商業應用",
+        "en": "Internet of Things (IoT) Business Applications"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩全球經管一甲"
+    ],
+    "instructors": [
+        "王智昊"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "E0601"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "E0601"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "E0601"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The course focuses on basic IoT design , covering basic circuit design, single-chip programming and web front-end programming (HTML, CSS and JavaScript).<br>課程主要學習初階物聯網設計，涵蓋基礎電路設計、單晶片程式設計及網頁前端程式設計(HTML、CSS及JavaScript)。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 物聯網系統概論<br>2. 基礎無線感測網路<br>3. 單晶片程式設計<br>4. 網頁設計<br>5. CSS設計<br>6. JavaScript設計<br>",
+        "en": "1. Introduction of IoT system<br>2. Wireless sensor network<br>3. Single chip programming design<br>4. Web HTML design<br>5. CSS design<br>6. JavaScript design<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識物聯網系統的組成",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習建立無線感測網路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習控制WiFi控制器",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習以單晶片建立網頁伺服器",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

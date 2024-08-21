@@ -1,0 +1,110 @@
+{
+    "code": "20D18701",
+    "name": {
+        "zh": "工程‧倫理與社會",
+        "en": "Engineering, Ethics and Society"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技控晶三甲"
+    ],
+    "instructors": [
+        "曾建勳"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "K510"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "K510"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要分為兩部分：<br>一、STS概論：介紹STS，及引導同學熟悉關於STS的重要議題及案例 (如 環境、生技、IT產業)。<br>二、專題：以電機工程問題為起點，如太陽能、核能發電等之科技發展過程與社會發展的相互關係。並以STS所涉及之問題的探究或問題的解決，讓學員了解工程師與倫裡及社會的互動及關係，進一步培養現代公民核心能力。<br><br><br>",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "一、課程簡介：工程設計需要STS嗎？<br>二、STS概論：什麼是STS？STS的核心議題<br>三、倫理素養建立：對工程倫理議題具備基本認識、能對倫理議題理性判斷。<br>四、民主素養建立：參與民主審議之知能與美德。<br>五、科學素養建立：瞭解科學產生之效果及其相應限制，進而願意參與科學相關公共議題之討論、反思及抉擇。<br>六、媒體素養建立：對媒體訊息保有開放、批判及省思之能力。<br>七、美學素養建立：對藝文，亦針對生活世界之種種事物，泛指對於事物（非道德性）統整性價值之體會。",
+        "en": "1.Introduction<br>2.What is STS?<br>3.Ethics Literacy<br>4.Democracy Literacy<br>5.Science Literacy<br>6.Media Literacy<br>7.Aesthetic Literacy<br>"
+    },
+    "weeklySchedule": "第1週: 課程簡介：工程設計需要STS嗎？<br>第2, 3週: STS概論：什麼是STS？STS的核心議題<br>第4, 5週: 倫理素養建立：對工程倫理議題具備基本認識、能對倫理議題理性判斷<br>第6, 7, 8週: 民主素養建立：參與民主審議之知能與美德<br>第9週: 期中考試<br>第10, 11週: 科學素養建立：瞭解科學產生之效果及其相應限制，進而願意參與科學相關公共議題之討論、反思及抉擇。<br>第12, 13, 14週: 媒體素養建立：對媒體訊息保有開放、批判及省思之能力<br>第15, 16, 17週: 美學素養建立：對藝文，亦針對生活世界之種種事物，泛指對於事物（非道德性）統整性價值之體會<br>第18週: 期末考試",
+    "exams": {
+        "midterm": "報告",
+        "final": "報告",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "近年來,一些重大的工業災變與工程弊端的發生,引起煤體與社會大眾的高度觀切,因此開始探討自基礎培養工程倫理的思想與態度及分析複雜倫理問題的能力,",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解可能於職場上遭遇到的倫理議題與困境,以尋求正確的解決辦法.",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "介紹課程環境保護、工業安全、工業衛生與工程倫理等四大主題，與解決方法及方向。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "介紹工程師應具有的基本倫觀念、責任、統禦能力與對公司忠誠，及尊專重雇主職權的觀念。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自行編譯",
+    "teachingSoftware": "無",
+    "rules": "無"
+}

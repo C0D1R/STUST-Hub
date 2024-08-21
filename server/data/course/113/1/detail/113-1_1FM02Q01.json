@@ -1,0 +1,115 @@
+{
+    "code": "1FM02Q01",
+    "name": {
+        "zh": "學術論文寫作",
+        "en": "Academic Writing"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研教經二甲"
+    ],
+    "instructors": [
+        "張媛甯"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "N102"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "N102"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "N102"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The primary purpose of this course is to equip students with a prerequisite ability in academic writing, and provide them with an accessible introduction to academic research, with a specific focus on preparing students to develop a working proposal for the MA theses.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.書目管理軟體以及熟悉線上電子資料庫進行文獻搜尋<br>2.文獻及相關研究之摘述與評析<br>3.選定研究主題以及撰寫碩士論文提案報告<br>4.熟悉APA論文寫作格式規範<br>5.了解學術倫理重要內涵、原則與規範<br>",
+        "en": "1.Learning how to best use the reference management software and the available digital resources to explore literature<br>2.Learning how to cite relevant references and conduct critical review of literature<br>3.Learning how to work out research issues and develop a proposal for the MA thesis<br>4.Be familiar with the APA-conforming guidelines for academic writing<br>5.Learning essential issues, principles and conventions of academic ethics while conducting research<br>"
+    },
+    "weeklySchedule": "週次\t日期\t主要進度<br>一\t09.12\t※課程簡介、教學計畫討論與安排 <br>二\t09.19\t※引導文章的討論(文獻C+D )+學術論文寫作要點及注意事項<br>三\t09.26\t※線上電子資料庫介紹＝＞文獻搜尋(選擇和本身論文相關的學術論文)<br>四\t10.03\t※American Psychological Association(APA)格式書寫<br>**作業：課堂練習繳交<br>五\t10.10\t國慶日放假  <br>六\t10.17\t※書目管理軟體介紹+文章比對工具使用+學術論文word排版全攻略<br>**作業：繳交自選的SSCI或TSSCI期刊論文<br>七\t10.24\t※如何撰寫緒論和文獻探討<br>八\t10.31\t※如何撰寫研究設計與實施<br>九\t11.07\t※如何撰寫研究結果與討論以及結論與建議<br>十\t11.14\t學術論文摘述與評析1 (請說明為何選擇此篇文章的原因)<br>[由同學報告自選的期刊論文，一週三篇]<br>十一\t11.21\t學術論文摘述與評析2 <br>十二\t11.28\t學術論文摘述與評析3 <br>十三\t12.05\t學術論文摘述與評析4 <br>十四\t12.12\t碩士論文提案報告（至少包括第一章及第三章）<br>十五\t12.19\t碩士論文提案報告（至少包括第一章及第三章）<br>十六\t12.26\t碩士論文提案報告（至少包括第一章及第三章）<br>十七\t01.02\t碩士論文提案報告（至少包括第一章及第三章）<br>十八\t01.09\t期末報告繳交：修改後之碩士論文提案<br>",
+    "exams": {
+        "midterm": "無",
+        "final": "無",
+        "other": "口頭報告與繳交作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉書目管理軟體以及線上電子資料庫",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學會文獻及相關研究之摘述與評析",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學會撰寫碩士論文提案",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉APA論文寫作格式規範",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "A.\t張芳全（2021）。論文就是要這樣寫(第五版)。心理。<br>B.\t林雍智（2021）。教育學門論文寫作格式指引：APA格式第七版之應用(第二版)。心理。<br>",
+    "teachingSoftware": "",
+    "rules": ""
+}

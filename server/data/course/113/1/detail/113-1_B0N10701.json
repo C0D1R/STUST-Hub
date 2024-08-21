@@ -1,0 +1,115 @@
+{
+    "code": "B0N10701",
+    "name": {
+        "zh": "日文(一)",
+        "en": "Japanese (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技休閒三甲"
+    ],
+    "instructors": [
+        "黃淑玲"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "T0510"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "T0510"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "T0510"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "五十音開始至名詞句型、形容詞形容動詞句型、自動詞及他動詞的簡単区別。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "１五十音発音、「段」和「行」及羅馬拼音之介紹<br>２平仮名片仮名之区分<br>３名詞句型<br>４日語文節之簡単介紹<br>５肯定句及否定句、過去式<br>６形容詞、形容動詞句<br>７動詞句<br>８自動詞及他動詞之簡単介紹",
+        "en": "<br>1<br>シラバリ、「セグメント」、「ライン」、ローマンピンインの紹介<br>2<br>名刺の名前の区別<br>3<br>名詞の文型<br>4<br>日本語祭の簡単な紹介<br>5<br>肯定文と否定文、過去時制<br>6<br>形容詞<br>7<br>動詞の文<br>8<br>自動単語とその動詞の簡単な紹介"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習日文五十音基礎能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習日語簡單打招呼用語",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認日本社會文化",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "展現已學單句再簡單對話",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

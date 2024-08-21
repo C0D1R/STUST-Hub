@@ -1,0 +1,121 @@
+{
+    "code": "90D19303",
+    "name": {
+        "zh": "企業倫理",
+        "en": "Business Ethics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技資管四丙"
+    ],
+    "instructors": [
+        "汪美香"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "T0312"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "T0312"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.介紹企業倫理的相關基礎學理，包含倫理學的基本概念。<br>2.探討企業倫理的主要議題<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "PART ONE 企業倫理的理論基礎<br>1.價值觀與倫理<br>2.規範倫理學<br>3.道德認知發展模式<br>4.道德的相對論和客觀主義<br><br>PART TWO 企業倫理議題<br>1.利益關係人模式<br>2.企業與員工<br>3.企業與消費者<br>4.企業的社會責任<br>5.企業與政府<br>6.企業與環境—綠色企業<br>",
+        "en": "Part 1<br>Chapter 1 Values and Ethics<br>Chapter 2 Normative Ethics<br>Chapter 3 Moral Relativism and Moral Abjectivism<br>Chapter 4 Cognitive Moral Development Model<br><br>Part 2<br>Chapter 5 The Stakeholder Approach to Business, Society, and Ethics<br>Chapter 6 Employee Stakeholders<br>Chapter 7 Consumer Stakeholders<br>Chapter 8 Corporate Citizenship<br>Chapter 9 Business, Government, and Regulation<br>Chapter 10 The Natural Environment as Stakeholder"
+    },
+    "weeklySchedule": "1. 課程介紹與修課規定<br>2. ch1 倫理與企業倫理<br>3. ch4 道德發展與道德量測<br>4. ch5 倫理意識、決策與判斷<br>5. ch5 倫理意識、決策與判斷<br>6. ch6 倫理判斷的教學操作<br>7. 練習1：倫理個案的判斷分析<br>8. 練習2：倫理個案的判斷分析<br>9. 期中考試<br>10. ch8 職場倫理與職業倫理、ch9 倫理領導與經營倫理<br>11. 倫理個案研討、分組報告(ESG)<br>12. ch10 環境保護的倫理議題、倫理個案研討、分組報告<br>13. ch11 企業社會責任的概念、倫理個案研討、分組報告<br>14. ch12 企業社會責任的實踐、倫理個案研討、分組報告<br>15. ch13 永續及社會責任型投資、倫理個案研討、分組報告<br>16. ch14 企業公民責任的概念、倫理個案研討、分組報告<br>17. ch15 跨國企業的倫理議題、倫理個案研討、分組報告<br>18. 期末考試",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末考",
+        "other": "參與、作業、報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解企業的本質與運作",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "設計培養擔任管理工作的能力",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建構學習者之決策能力",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "養成團隊合作與簡報能力",
+            "teachingMethods": [
+                "分組討論",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "企業倫理：倫理教育與社會責任",
+        "author": "楊政學",
+        "publisher": "全華圖書",
+        "year": "2019",
+        "ISBN": "978-986-463-695-2",
+        "edition": "四版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

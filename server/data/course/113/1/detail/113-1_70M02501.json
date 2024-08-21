@@ -1,0 +1,128 @@
+{
+    "code": "70M02501",
+    "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩全球經管一乙"
+    ],
+    "instructors": [
+        "洪敏莉"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "E0603"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "E0603"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "E0603"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.高考二級(企業管理科)、高考一級",
+        "2.WBSA商務策劃"
+    ],
+    "description": "企業所面對的最大挑戰莫過於未來經營方式的掌握與執行，這正是策略管理研習的主要課題。整體而言，策略管理是指企業為創造價值，建立持續性競爭優勢，以獲取高於產業平均報酬水準的規劃與執行活動；規劃目的在於「做對的事情」，執行則是「把事情做對」。",
+    "prerequisites": "管理學、行銷管理",
+    "syllabus": {
+        "zh": "1. 策略管理與策略性競爭力<br>2. 外部環境分析<br>3. 內部環境分析          <br>4. 事業層策略<br>5. 競爭敵對與競爭動態    <br>6. 公司層策略<br>7. 購併與重整策略        <br>8. 國際策略<br>9. 合作策略            <br>10. 公司治理<br>11. 組織結構與控制      <br>12. 策略領導<br>13. 策略性創業家精神<br>",
+        "en": "1. Strategic Management and Strategic Competitiveness.   <br>2. The External Environment Analysis<br>3. The Internal Environment Analysis                  <br>4. Business-Level Strategy<br>5. Competitive Rivalry and Competitive Dynamics        <br>6. Corporate-Level Strategy<br>7. Acquisition and Restructuring Strategies              <br>8. International Strategy<br>9. Cooperative Strategy                             <br>10. Corporate Governance<br>11. Organizational Structure and Controls               <br>12. Strategic Leadership<br>13. Strategic Entrepreneurship"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解企業策略核心觀念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉策略管理的程序。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用策略管理的工具。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立策略性思考的技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養正確的學習態度與團隊精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

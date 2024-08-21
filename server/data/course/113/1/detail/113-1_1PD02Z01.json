@@ -1,0 +1,121 @@
+{
+    "code": "1PD02Z01",
+    "name": {
+        "zh": "餐飲搭配與品嚐",
+        "en": "Food and Beverage Pairing and Tasting"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "綜合實踐領域"
+    ],
+    "instructors": [
+        "鄭淑勻"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0402"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "T0402"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "T0402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在讓學生探索餐食和飲料搭配的樂趣。學生將學習不僅是過去經典的餐飲搭配方法與專業術語外，也會將自己實際所學知識應用在餐飲搭配上。無論是在家烹調還是在餐廳點餐，學生將會在課程結束後強化餐飲配對知識，從而創造餐飲搭配間之和諧與協同，並培養學生的餐食與飲料搭配的實務技能。<br><br>This course presents an exploration of the pleasure of food and beverage pairing and tasting. This course goes beyond a classic approach to pairing, demystifying the terminology and the methodology of matching beverage and food. Whether preparing a meal at home or ordering in a restaurant, participants leave with an enhanced knowledge of pairing that can create a harmony and synergy between food and beverage, developing students’ practical skills of food and beverage pairing.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t飲料與餐食搭配重要性<br>2.\t現今餐飲搭配趨勢<br>3.\t餐飲搭配與品嚐概念<br>4.\t植物肉(未來肉)介紹與品嚐<br>5.\t咖啡飲料之介紹與實作<br>6.\t無咖啡因飲料之介紹與實作<br>7.\t餐飲搭配實作<br>8.\t課程期末報告<br>",
+        "en": "1. Importance of Food and Beverage Paring  <br>2. The Trends of Food and Beverage Paring <br>3. The Concept of Food and Beverage Paring <br>4. Future Meat Introduction and Tasting<br>5. The Introduction and Application of Coffee Drink <br>6. The Introduction and Application of non-caffeinated drink<br>7. Implementation of Food and Beverage Paring Activities<br>8. Course Final Reports<br>"
+    },
+    "weeklySchedule": "第一週  課程及費用說明與實作規範<br><br><br>第二週  愛馬仕級奶酥厚片 ＋ 遊戲與互動融入實作課程 &amp; 複習<br> <br>第三週  鮮奶茶 ＋ 遊戲與互動融入實作課程 &amp; 複習<br><br>第四週  曲奇餅乾 ＋ 遊戲與互動融入實作課程 &amp; 複習<br> <br>第五週  檸檬皮絲手沖咖啡 ＋ 遊戲與互動融入實作課程 &amp; 複習<br><br>第六週  台式蔥油餅(老楊薑餅屋) ＋ 遊戲與互動融入實作課程 &amp; 複習 <br><br>第七週  冰梅汁百香綠茶 ＋ 遊戲與互動融入實作課程 &amp; 複習<br><br><br>第八週  期中考複習<br><br>第九週  期中考<br><br>第十週  日式海苔玉子燒 ＋ 遊戲與互動融入實作課程 &amp; 複習 <br><br>第十一週  日式玄米抹茶 ＋ 遊戲與互動融入實作課程 &amp; 複習<br><br>第十二週  美式潛艇堡(嫩雞、火腿口味) ＋ 遊戲與互動融入實作課程 &amp; 複習﹡美式潛艇堡(嫩雞、火腿口味)<br><br>第十三週 西西里冰咖啡 ＋ 遊戲與互動融入實作課程 &amp; 複習<br><br>第十四週  酪梨沙沙醬佐玉米片、脆薯 ＋ 遊戲與互動融入實作課程 &amp; 複習<br><br>第十五週  蜂蜜檸檬氣泡飲 ＋ 遊戲與互動融入實作課程 &amp; 複習<br><br>第十六週  放假<br><br>第十七週  期末考(筆試口試演練)<br><br>第十八週  期末考(筆試口試演練)<br><br>",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末報告",
+        "other": "小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解餐飲搭配的概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解餐飲搭配的趨勢",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習餐飲搭配的知識與實際應用",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "餐飲搭配原則、餐飲搭配學和無酒精飲料相關知識與應用",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "1. 課程須繳交材料費<br>2. 若第一週未到課將影響修課權益請務必到課<br>3. 此門課程若成功修過可以抵免英語門檻因此到課率占很大的比重"
+}

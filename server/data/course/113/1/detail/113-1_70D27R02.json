@@ -1,0 +1,167 @@
+{
+    "code": "70D27R02",
+    "name": {
+        "zh": "實務專題",
+        "en": "Team Project"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技企管四乙"
+    ],
+    "instructors": [
+        "林義旭"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "實務專題主旨在於結合理論與實務，藉由指導老師之從旁輔導，訓練學生獨立思考、研究及應用所學之專業知識，以發掘與企業管理有關問題，繼而提出診斷或建議，同時培養處理專門性問題及研究報告撰寫之能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "體會企業經營決策的複雜。<br>作為就業或升學的準備。<br>培養學生分析及決策能力。<br>從實作中瞭解經營管理的困難與問題。",
+        "en": "Experience the complexity of business decision-making.<br>Prepare for employment or progression.<br>Develop students' analytical and decision making skills.<br>Understand the difficulties and problems of business management from the implementation."
+    },
+    "weeklySchedule": "體驗如何經營企業，從練習與合作中學習如解決問題",
+    "exams": {
+        "midterm": "無",
+        "final": "無",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "可以應用已學的專業知識，進行專門性問題的深入研究。",
+            "teachingMethods": [
+                "其他",
+                "－體驗如何經營企業，從練習與合作中學習如解決問題"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－體驗如何經營企業，從練習與合作中學習如解決問題"
+                },
+                {
+                    "method": "平時",
+                    "type": "其他"
+                },
+                {
+                    "method": "－體驗如何經營企業，從練習與合作中學習如解決問題",
+                    "type": "期中"
+                },
+                {
+                    "method": "其他",
+                    "type": "－體驗如何經營企業，從練習與合作中學習如解決問題"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練分析報告的撰寫。",
+            "teachingMethods": [
+                "其他",
+                "－體驗如何經營企業，從練習與合作中學習如解決問題"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－體驗如何經營企業，從練習與合作中學習如解決問題"
+                },
+                {
+                    "method": "平時",
+                    "type": "其他"
+                },
+                {
+                    "method": "－體驗如何經營企業，從練習與合作中學習如解決問題",
+                    "type": "期中"
+                },
+                {
+                    "method": "其他",
+                    "type": "－體驗如何經營企業，從練習與合作中學習如解決問題"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉理論在實務應用的方式",
+            "teachingMethods": [
+                "其他",
+                "－體驗如何經營企業，從練習與合作中學習如解決問題"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－體驗如何經營企業，從練習與合作中學習如解決問題"
+                },
+                {
+                    "method": "平時",
+                    "type": "其他"
+                },
+                {
+                    "method": "－體驗如何經營企業，從練習與合作中學習如解決問題",
+                    "type": "期中"
+                },
+                {
+                    "method": "其他",
+                    "type": "－體驗如何經營企業，從練習與合作中學習如解決問題"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練辦公室軟體以及統計分析工具的使用",
+            "teachingMethods": [
+                "其他",
+                "－體驗如何經營企業，從練習與合作中學習如解決問題"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－體驗如何經營企業，從練習與合作中學習如解決問題"
+                },
+                {
+                    "method": "平時",
+                    "type": "其他"
+                },
+                {
+                    "method": "－體驗如何經營企業，從練習與合作中學習如解決問題",
+                    "type": "期中"
+                },
+                {
+                    "method": "其他",
+                    "type": "－體驗如何經營企業，從練習與合作中學習如解決問題"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

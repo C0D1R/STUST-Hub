@@ -1,0 +1,110 @@
+{
+    "code": "1DD02M02",
+    "name": {
+        "zh": "創意思考與設計方法",
+        "en": "Creative Thinking and Design"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技流音一乙"
+    ],
+    "instructors": [
+        "徐志杰"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W1012"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W1012"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以薛良凱著作之《今天創意教什麼？-進入文化創意產業必修的13堂課》（暖暖書屋出版）做為課程基礎內容，探討創意的產生、衍生、實踐，並且賦予課程任務，學生採分組分工的方式，從創意的發想、模擬、具象化，做為創意思考的訓練與習慣養成。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、創意相關理論<br>二、創意訓練<br>三、創意實作<br>",
+        "en": "i.Theories of Creativity.<br>ii.Creativity and Innovation Training.<br>iii.Creative implementation."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解創意之形成與創意執行之步驟",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備創意素材蒐集與彙整能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "執行創意法則與時間規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用創意之市場設定與比較法則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

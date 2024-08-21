@@ -1,0 +1,124 @@
+{
+    "code": "E0D39301",
+    "name": {
+        "zh": "服務產業進階日語會話(一)",
+        "en": "Professional Japanese conversation for service sector (I)"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應日四甲",
+        "四技應日四乙"
+    ],
+    "instructors": [
+        "中田綠"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "T0104"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "T0104"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.日語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "サービス業における実際に使われる日本語会話のトレーニングを行う授業です。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程は、サービス業における日本語会話のトレーニングを行う授業です。<br>具体的には、主な実習先となるホテルやレストランのほか、空港などの場面も想定し、ロールプレイングを用いて会話のトレーニングを行います。<br>また、日本のサービス業において一般的に用いられている接客のマナーや、サービス業に特有な表現などについての会話訓練も行います。<br>",
+        "en": "本課程は、サービス業における日本語会話のトレーニングを行う授業です。<br>具体的には、主な実習先となるホテルやレストランのほか、空港などの場面も想定し、ロールプレイングを用いて会話のトレーニングを行います。<br>また、日本のサービス業において一般的に用いられている接客のマナーや、サービス業に特有な表現などについての会話訓練も行います。<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "サービス業にかかわる主要な場面に応じた適切な表現を使用できるようになること。仕事先の同僚と一緒にアイデアを出しながら問題解決を図る能力を身に付けてもらう。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "敬語を使った会話がスムーズにできるようになること。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "接客マナーを身に着け、サービス業に従事する心構えを理解すること。\n相手の話を聞いて、意見の要点を把握・整理する能力を習得する。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "サービス業に特有な表現や単語を習得すること。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "適切な表現を使って、自分の意見を論理的かつ平明に言う能力を習得する。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

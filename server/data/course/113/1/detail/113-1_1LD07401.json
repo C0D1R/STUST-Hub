@@ -1,0 +1,151 @@
+{
+    "code": "1LD07401",
+    "name": {
+        "zh": "台灣民俗與風物",
+        "en": "Taiwan folk and scenery"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "王見川"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "K504"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "K504"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "K504"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "【台灣民俗與風物】課程內容包含：台灣的民間宗教信仰、歲時祭典、生命禮俗、傳統戲曲與歌謠、諺語、民俗活動等，提綱挈領地引導學習者認識台灣民俗與歷史的相互關係，從民俗與風物的探討中，體認台灣生命力的所在，再切入到大眾文化的深層結構，藉由問題探討、田野實作，得有進階研究及整合創新的能力,並進一步提昇人文與倫理素養與表達溝通能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 導論<br>2. 台灣的民間信仰<br>3. 台灣的歲時祭典<br>4. 台灣人的生命禮俗<br>5. 寺廟與建築：信仰與歷史<br>6. 武館與曲館：廟會與民俗活動<br>7. 台灣的傳統戲曲與歌謠<br>8. 生活的智慧：台灣諺語<br>",
+        "en": "1.\tIntroduction<br>2.\tFolk beliefs in Taiwan<br>3.\tTraditional festivals in Taiwan<br>4.\tTaiwanese etiquette and custom of life<br>5.\tTemples and architecture: belief and history<br>6.\tHalls of martial arts and traditional music: temple fairs and folk activities <br>7.\tTraditional dramas and ballads in Taiwan<br>8.\tWisdom of life: Taiwanese proverbs"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "運用擁有民俗風物的知能與欣賞能力，實際接觸鑑賞文物價值。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "關懷從事民俗維護者，從中覺知厚實的生命服務體認。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "引導民俗文化的思考以語言表達所見所思。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "激發對台灣社會與歷史的親近性，引發強烈的求知慾，建立台灣主體意識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "解析台灣民俗與風物的觀點，體會民俗風物所傳達的意念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "積極參與民俗風物議題討論與文化活動，提升品味涵養。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "設計有效維護的創新辦法，融合於民俗風物的保存研究。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

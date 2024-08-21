@@ -1,0 +1,133 @@
+{
+    "code": "10D35J01",
+    "name": {
+        "zh": "職場體驗與證照訓練",
+        "en": "Workplace Experience and License Training"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控四甲",
+        "四技自控四乙",
+        "四技製造四甲",
+        "四技製造四乙",
+        "四技車輛四甲",
+        "四技車輛四乙"
+    ],
+    "instructors": [
+        "吳忠春"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "K401"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "K401"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "K401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.熱處理乙級證照",
+        ""
+    ],
+    "description": "針對產業學業的重點就業場域，教導同學進入金屬製造業及熱處理技術產業應具備之基本工作態度，同時認識目前產業工作環境與職場參觀體驗。本課程會安排同學到專班合作廠商進行實地參訪，並安排職場體驗實習訓練。此外針對學生本職學能的培訓，輔導學生考取勞動部熱處理職類乙級技術士證照，強化學生熱處理軟實力，使學生不僅能操作金屬製品之各項製程技術，還具備運用熱處理技術提升金屬產品品質與使用壽命之研發技能。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 金屬製造業與熱處理技術產業的重要性。<br>2. 金屬製造業職場參觀與職場體驗。<br>3. 熱處理技術產業職場參觀與職場體驗。<br>4. 熱處理乙級證照學科知識講解。<br>5. 熱處理乙級證照術科講解與實務練習。<br>6. 職場體驗與熱處理乙級證照考試。",
+        "en": "1. The importance of metal manufacturing and heat treatment technology industry.<br>2. Metal manufacturing workplace visit and workplace experience.<br>3. Workplace visit and experience in the heat treatment technology industry.<br>4. Explanation of the subject knowledge of heat treatment Class B license.<br>5. Explanations and practical exercises of heat treatment B-level license technical subjects.<br>6. Workplace experience and heat treatment level B license examination."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解金屬製造與熱處理技術產業的重要性與產業發展前景",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能完成金屬加工與熱處理產業的職場認識體驗與工安倫理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解金屬製造與熱處理技術產業的技術需求與人才需求",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備熱處理乙級證照的學科知識與術科實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解熱處理乙級證照產業專用之英文術語",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,139 @@
+{
+    "code": "K0N1BV01",
+    "name": {
+        "zh": "遊戲引擎應用(二)",
+        "en": "Game Engine Application II"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技多樂三甲"
+    ],
+    "instructors": [
+        "陳俊瑋"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "W0609"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "W0609"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "W0609"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Unity 2D開發概論、Sprite物件與圖層、2D動畫與角色控制、2D物理與碰撞、粒子系統、介面系統<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. Unity 2D開發概論：理解Unity2D專案架構、操作介面與2D遊戲開發流程<br>2. Sprite物件與圖層：介紹Sprite物件及學習使用Sprite Editor、學習以Sorting Layer規劃與排列場景<br>3. 2D動畫與角色控制：學習使用Animation製作逐格與漸變動畫，及在Machenim中設定動作撥放流程，並透過腳本程式進行控制<br>4. 2D物理與碰撞：學習以腳本程式控制Rigidbody 2D使角色移動、學習使用Collider及碰撞事件<br>5. 粒子系統：學習以粒子系統製作爆破特效，學習透過複製命令將粒子Prefab實體化於擊中位置上<br>6. 介面系統：學習製作計分、開始與結束介面<br>英/日文課程大綱\t1. Introduction to Unity 2D Development: Understanding unity2D project architecture, operat",
+        "en": "1. Introduction to Unity 2D Development: Understanding unity2D project architecture, operation interface and 2D game development process.<br><br>2. Sprite objects and layers: Introducing sprite objects and learning to use sprite editor, learning to arrange and arrange scenes with sorting layer.<br><br>3. 2D animation and character control: Learning to use animation to create dynamics in frames, and set the action dialing process in mecanim, and control through script program.<br><br>4. 2D physics and collision: Learning to use scripts to control rigidbody 2D to move characters, learn to use collider and collision events.<br><br>5. Particle System: Learning to make a blasting effect with the particle system and learn to instance the particle prefab in real applications.<br><br>6. Interface system: Learning to make scores, start and end interfaces."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1. Unity 2D開發概論：理解Unity2D專案架構、操作介面與2D遊戲開發流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2. Sprite物件與圖層：介紹Sprite物件及學習使用Sprite Editor、學習以Sorting Layer規劃與排列場景",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3. 2D動畫與角色控制：學習使用Animation製作逐格與漸變動畫，及在Machenim中設定動作撥放流程，並透過腳本程式進行控制",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4. 2D物理與碰撞：學習以腳本程式控制Rigidbody 2D使角色移動、學習使用Collider及碰撞事件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5. 粒子系統：學習以粒子系統製作爆破特效，學習透過複製命令將粒子Prefab實體化於擊中位置上",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6. 介面系統：學習製作計分、開始與結束介面",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

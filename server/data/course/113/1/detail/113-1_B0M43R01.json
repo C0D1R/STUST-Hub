@@ -1,0 +1,111 @@
+{
+    "code": "B0M43R01",
+    "name": {
+        "zh": "休閒遊憩科技應用研討",
+        "en": "Seminar on Application of Technology in\nLeisure and Recreation"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩研休閒二甲"
+    ],
+    "instructors": [
+        "王嘉淳"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "T0610"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "T0610"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "因應資訊技術的進步與變化，本課程針對休閒與遊憩領域的相關科技應用進行介紹及實務操作，並透過相關文獻的討論，讓修課學生對於該專業之發展及未來有深入之了解。最後透過實務操作使資訊技術與個人主修結合，完成一份跨領域之專案研究。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1\t資訊科技簡介<br>2\t休閒與遊憩之科技應用<br>3\t文獻討論<br>4\t休閒商務<br>5\t實務練習操作(一)<br>6\t實務練習操作(二)<br>7\t實務練習操作(三)<br>8\t實務練習操作(四)<br>9\t期中驗收與回饋<br>10\t實務操作競賽說明<br>11\t實務操作競賽<br>12\t跨領域應用主題報告(一)<br>13\t跨領域應用主題報告(二)<br>14\t跨領域應用主題報告(三)<br>15\t跨領域應用主題報告(四)<br>16\t跨領域應用主題報告(五)<br>17\t跨領域應用主題報告(六)",
+        "en": "1 Introduction to Information Technology<br>2 Technological application of leisure and recreation<br>3 Literature Discussion<br>4 Casual business<br>5 Practical practice operation (I)<br>6 Practical practice operation (II)<br>7 Practical practice operation (III)<br>8 Practical practice operation (IV)<br>9 Mid-term acceptance and feedback<br>10 Practical Operation Competition Description<br>11 Practical Operation Competition<br>12 Thematic Report on Cross-Field Application (I)<br>13 Thematic report on cross-field application (II)<br>14 Thematic report on cross-field application (III)<br>15 Thematic Reports on Cross-Field Application (IV)<br>16 Thematic report on cross-field application (V)<br>17 Thematic report on cross-field application (VI)"
+    },
+    "weeklySchedule": "1. 課程介紹<br>2. 中秋節放假***<br>3. 策略模擬競賽說明 <br>4. Practice Round 1<br>5. Practice Round 2<br>6. Practice Round 3<br>7. Practice Round 4 <br>8. Practice Round 5 <br>9. Practice Round 6<br>10.期中考週<br>11.正式競賽 Round 1<br>12.正式競賽 Round 2<br>13.正式競賽 Round 3<br>14.正式競賽 Round 4<br>15.正式競賽 Round 5<br>16.正式競賽 Round 6<br>17.正式競賽 Round 7<br>18.正式競賽 Round 8",
+    "exams": {
+        "midterm": "期中考",
+        "final": "個人報告",
+        "other": "課堂作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "對休閒與遊憩領域的相關科技應用進行介紹及實務操作",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "並透過相關文獻的討論",
+            "teachingMethods": [
+                "其他",
+                "－文獻討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "修課學生對於該專業之發展及未來有深入之了解",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "最後透過實務操作使資訊技術與個人主修結合",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "本課程使用 Capsim 企業模擬競賽網站，學生須支付部分註冊費用。"
+}

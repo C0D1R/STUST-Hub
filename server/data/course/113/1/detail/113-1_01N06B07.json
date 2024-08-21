@@ -1,0 +1,140 @@
+{
+    "code": "01N06B07",
+    "name": {
+        "zh": "全球英語溝通",
+        "en": "Communicate with Global English"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技餐旅一甲",
+        "夜餐旅產攜一甲"
+    ],
+    "instructors": [
+        "陳桂容"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "T0308"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0308"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0308"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course is designed to develop students’ English skills. Students will learn to communicate about topics relating to hobbies and interests, appearance, daily activities, occupations, opinions, entertainment, and etc. By participating in group discussions, students can also learn to take turns, check confirmation, ask for clarification, read relevant texts and write sentences based on basic patterns.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "學生將能針對主題：<br>掌握基本對話技巧如<br>--a.使用適當的語調及重音<br>--b.使用適當的詞彙以進行對話及討論<br>--c.開始、維持並適切結束對話<br>--d.請求澄清語意<br>--e.要求重述<br>--f.更正錯誤<br><br>運用下列語言功能<br>--a.電話相關用語<br>--b.問路指引<br>--c.描述外表及物品特性<br>--d.描述日常作息<br>--e.表達意見<br>",
+        "en": "With respect to the topics, students will be able to<br>1.Manage basic interaction skills:<br>--a. Use appropriate intonation and stress patterns.<br>--b. Use appropriate vocabulary in short conversations and group discussions.<br>--c. Initiate and participate in dyadic conversations and small group discussions.<br>--d. Seek clarification.<br>--e. Ask for repetition.<br>--f. repair<br><br>Communicate using the following functions:<br>--a. Telephone skills<br>--b. Asking and giving directions<br>--c. Describing appearance and quality of things.<br>--d. Describing daily routines<br>--e. Expressing opinions<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "英文的基本知能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習以網路查詢資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習世界各國文化",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "英語聽說讀寫實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習以英語達到溝通目的",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由課堂活動及教材認識不同的主題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

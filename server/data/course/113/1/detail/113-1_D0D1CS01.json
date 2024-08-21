@@ -1,0 +1,116 @@
+{
+    "code": "D0D1CS01",
+    "name": {
+        "zh": "數位科技應用",
+        "en": "Digital Technology Application"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技行流四甲",
+        "四技行流四乙"
+    ],
+    "instructors": [
+        "陳淑慧"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "T0214"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0214"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0214"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將系統性地探討「無所不在」的數位科技對於社會發展<br>的影響，從個人到環境，各別從家庭與親密關係、工作與就業<br>、醫療與照護、媒體與傳播、教育與學習、交通與運輸、都市<br>與公共治理七個面向。課程中分析各種觀點與案例，提出值得<br>思考的關鍵議題，以及帶來了何種技術生產力的提升效益、產<br>生了何種新型態的創新服務，以及帶來了什麼樣的倫理與風險。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、 第1章 不斷演化的數位科技<br>2、 第2章 數位科技下的家庭與親密關係<br>3、 第3章 數位科技下的工作與就業<br>4、 第4章 數位科技下的醫療與照護<br>5、 第5章 數位科技下的媒體與傳播<br>6、 第6章 數位科技下的教育與學習<br>7、 第7章 數位科技下的交通與運輸<br>8、 第8章 數位科技下的都市與公共治理<br>9、 第9章 無所不在的數位科技",
+        "en": "Chapter 1 Evolving Digital Technology<br>Chapter 2 Family and Intimacy in Digital Technology<br>Chapter 3 Work and Employment in Digital Technology<br>Chapter 4 Healthcare and Nursing with Digital Technology<br>Chapter 5 Media and Communication under Digital Technology<br>Chapter 6 Education and Learning with Digital Technology<br>Chapter 7 Traffic and Transportation under Digital Technology<br>Chapter 8 Urban and Public Governance under Digital Technology<br>Chapter 9 Ubiquitous Digital Technology"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解數位科技對於社會發展的影響",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解數位科技之面向與範圍",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進同學創新服務之知識與能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過個案討論之方式，刺激同學思\n考與學習有關數位科技的倫理與風\n險。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

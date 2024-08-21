@@ -1,0 +1,148 @@
+{
+    "code": "70D28J01",
+    "name": {
+        "zh": "電商溝通實作",
+        "en": "E-commerce marketing communication implementation"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技企管四甲",
+        "四技企管四乙"
+    ],
+    "instructors": [
+        "林義旭"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "S209A"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "S209A"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "S209A"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "將強化學生行銷學程知識，培養學生經營思考與市場分析技術，建構學生更為深入的行銷知識，另外也將藉由業師教導業界所需的電子商務網站架設及管理能力，迅速建立企業形象網站，更教導熟悉Google Analytics數據分析，並輔導同學取得「Google基礎數位行銷資格認證」、「Google Ads 搜尋廣告認證」等相關證照。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 市場分析<br>2. 電子商務網站架設及管理<br>3. Google Analytics數據分析<br>4. Google基礎數位行銷資格認證<br>5. Google Ads 搜尋廣告認證<br>6. 電商架站實作",
+        "en": "1. Market Analysis<br>2. E-commerce website setup and management<br>3. Google Analytics data analysis<br>4. Google Basic Digital Marketing Qualification<br>5. Google Ads Search Advertising Certification<br>6. Implementation of e-commerce rack station"
+    },
+    "weeklySchedule": "(1) 強化學生電商架站實作<br>(2) 建立實務網路行銷概念<br>(3) 考取Google相關認證。",
+    "exams": {
+        "midterm": "無",
+        "final": "無",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "強化學生電商架站實作",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "建立實務網路行銷概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "考取Google相關認證",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "經營思考與市場分析技術",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

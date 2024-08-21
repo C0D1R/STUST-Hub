@@ -1,0 +1,123 @@
+{
+    "code": "70N17B01",
+    "name": {
+        "zh": "計算機與程式設計概論",
+        "en": "Introduction to Computers and Programming"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "夜企管產攜一甲"
+    ],
+    "instructors": [
+        "汪世義"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "S209B"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "S209B"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "S209B"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為所有電腦相關課程之基礎，介紹計算機系統基本知識與應用觀念，包含計算機硬體、軟體、與作業系統基本架構與應用與程式設計等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 資訊基礎介紹<br>2. 硬體與架構介紹<br>3. 軟體介紹與程式設計",
+        "en": "1. Introduction to Information Foundation<br>2. Hardware and architecture introduction<br>3. Software introduction and programming"
+    },
+    "weeklySchedule": "Part 1\t課程簡介<br>Part 2\tai2基礎介紹<br>Part 3\t入門程式練習<br>Part 4\t遊戲設計",
+    "exams": {
+        "midterm": "上機考",
+        "final": "上機考",
+        "other": "報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解計算機領域在商業上應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "加強邏輯能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－上機考"
+                },
+                {
+                    "method": "期中",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "程式設計與其應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "使用資訊科技之際顧到資訊倫理與企業倫理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－上機考"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "輕課程 App Inventor 2：趣味手遊自己做<br>作者：李春雄<br>出版商：台科大圖書",
+    "teachingSoftware": "",
+    "rules": ""
+}

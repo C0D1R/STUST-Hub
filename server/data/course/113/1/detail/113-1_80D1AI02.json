@@ -1,0 +1,115 @@
+{
+    "code": "80D1AI02",
+    "name": {
+        "zh": "初等微積分及實習",
+        "en": "Elementary Calculus and pratice"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技財金一乙"
+    ],
+    "instructors": [
+        "蘇志泰"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "S415"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "S415"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "S415"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "1"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "微積分是管理科學中重要的基礎課程之一。它在一些商業領域中已有非常廣泛的應用，亦是專業科目(如經濟學、統計學)的先修課程。本課程的內容為基本函數介紹及單變數函數的極限、連續、微分、積分、積分技巧與應用。<br>",
+    "prerequisites": "基本的數學觀念及演算能力",
+    "syllabus": {
+        "zh": "中文課程大綱 (Chinese Outline)：<br>至少填寫6個單元以上，3000字元為限。<br>(必填)\t1. 預備知識<br>2. 極限與連續<br>3. 導數<br>4. 導數的應用<br>5. 定積分<br>6. 積分技巧<br>7. 定積分的應用<br>8. 各單元的加強演練與應用<br>",
+        "en": "英/日文課程大綱 (English/Japanese Outline)：<br>專業科目務必填寫，1500字元為限。<br>(必填)\t1. Prerequisites for Calculus<br>2. Limits and Continuity.<br>3. Derivatives.<br>4. Applications of Derivatives.<br>5. The Definite Integral.<br>6. Techniques of Integration<br>7. Applications of the Definite Integral.<br>8. Enhanced practice and applications of each unit<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能理解基本函數、極限與微分的概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能加強演練極限與微分的計算",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能善用基本函數、極限與微分來分析問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用方法解決財金實務問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

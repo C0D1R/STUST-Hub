@@ -1,0 +1,127 @@
+{
+    "code": "15N08E01",
+    "name": {
+        "zh": "汽車自動化概論",
+        "en": "Introduction of Automotive Automation"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技車輛一甲"
+    ],
+    "instructors": [
+        "張宇均"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "R301"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "R301"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "R301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生瞭解汽車自動化之基本觀念，各種自動化元件之構造與功能，以及微電腦控制之相關技術。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.汽車最新技術發展簡介<br>2.自動化技術之基本觀念<br>3.自動化元件介紹<br>4.常用之簡易類比電路介紹<br>5.數位訊號概論<br>6.微電腦控制概論",
+        "en": "1.Introduction of advanced technology in automobile<br>2.Fundamental of automation technology<br>3.Introduction of automation components<br>4.Introduction of basic analog electric circuit<br>5.Overview of digital signal<br>6.Overview of microcomputer control<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解自動化基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知悉車輛搭載自動化項目",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識車輛自動化架構與原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "車輛感測元件介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "類比及數位訊號處理介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

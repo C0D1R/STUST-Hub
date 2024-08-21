@@ -1,0 +1,166 @@
+{
+    "code": "04D06A0H",
+    "name": {
+        "zh": "體育生活(一)",
+        "en": "Physical Education(I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技自控一甲"
+    ],
+    "instructors": [
+        "鄭炎坤"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第1節",
+            "location": ""
+        },
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "四技一年級課程，上下學期共八項進度每三禮拜一進度進行實施教學：<br>A.體適能(徑賽項目)<br>B.籃球<br>C.射箭<br>D.羽球<br>E.體育通識(田賽項目)<br>F.桌球<br>G.排球<br>H.壘球",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "A.體適能(徑賽項目)：培養學生基本體能(心肺功能、肌力肌耐力、柔軟度、爆發力等)及短、中、長跑、接力賽等訓練<br>B.籃球：籃球基本動作及規則，團隊合作觀念養成。<br>C.射箭：射箭運動之基本動作，訓練學生手、眼睛神經之協調性。<br>D.羽球：羽球基本動作及規則。<br>E.體育通識(田賽項目)：跳高、跳遠及投擲鉛球等訓練。<br>F.桌球：桌球基本動作及規則，訓練學生眼、手之協調性及敏捷性。<br>G.排球：排球基本動作及規則，團隊合作觀念養成。<br>H.壘球：壘球基本動作及規則，訓練學生手、腳、眼睛之協調性。",
+        "en": "A. Fitness training :basic physical self-requirement is divided into the following units 1 Cardiopulmonary function 2 Muscle strength, muscle endurance 3 power 4 flexibility.<br>B. Baseball：basic actions and rules<br>C. Archery：basic actions and rules<br>D. Badminton：basic actions and rules<br>E. high jump, long jump, pole vaul and shot-put<br>F. Table tennis：basic actions and rules<br>G. Volleyball：basic actions and rules<br>H. Softball：basic actions and rules<br>"
+    },
+    "weeklySchedule": "一年級課程上、下學期共有八個項目每學期各有四個項目每個項目上課三週分ABCD課程EFGH課程兩組<br>A.體適能:<br>第一週：1認識體適能<br>        2介紹伸展操<br>        3測量身體質量指數<br>第二週：1瞬發力-測量立定跳遠<br>        2肌力、耐力-測量1分鐘屈膝仰臥起坐<br>第三週：1柔軟度-測量坐姿體前彎<br>        2心肺耐力-測量800/1600公尺跑走<br>        3綜合講評<br>B.籃球:<br>第一週：1認識籃球、課程簡介<br>        2持球要點與技術：球感訓練<br>        3基本動作練習-傳球練習-原地傳球、行進間傳球<br>        4走路運球與傳球、跑步運球與傳球<br>        5投籃練習-原地投籃、原地跳投、移位跳投<br>第二週：1運球上籃<br>        2運球、傳球、投籃綜合練習<br>        3進攻與防守訓練、戰術運用<br>        4規則講解<br>        5分組比賽<br>第三週：1運球、傳球、投籃綜合練習<br>        2進攻與防守演練、戰術運用<br>        3規則講解<br>        4分組比賽<br>C.射箭：<br>第一週：1認識射箭、課程簡介<br>        2用具、場地介紹<br>        3上、下弦演練<br>第二週：1複習上、下弦<br>        2站立姿勢、拉弦練習<br>        3箭的擺法<br>        4介紹射箭注意事項-拔劍方式、安全問題<br>        5五公尺射箭練習<br>第三週：1十公尺射箭練習<br>        2姿勢的調整<br>        3比賽<br>D.羽球：<br>第一週：1認識羽球、課程簡介<br>        2握拍法、持球法、手腕運用、球感練習<br>        3發球-高遠球、過網球（發短球）<br>        4對空擊球、二人對打平球<br>第二週：1擊球步法-原地、移位擊球步法、米字型步法<br>        2切球、挑球、殺球練習<br>        3反拍擊球練習<br>        4單打練習比賽<br>第三週：1規則講解<br>        2裁判手勢<br>        3雙打練習比賽<br>        4練習方式介紹<br>E.體育通識-高爾夫球<br>第一週：1認識高爾夫、課程簡介<br>        2握桿法<br>        3揮桿動作-上桿動作與姿勢、下桿動作與姿勢<br>第二週：1複習上、下桿動作<br>        2瞄球與擊球<br>        3姿勢調整<br>        4切球練習<br>第三週：1全揮桿練習、收桿動作練習<br>        2姿勢調整<br>        3規則講解        <br>F.桌球：<br>第一週：1認識桌球、課程簡介<br>        2握拍法<br>        3發球方式與種類<br>        4二人正面互相推球練習<br>第二週：1擊球時間、擊球部位、球拍拍面角度<br>        2切球、殺球練習、防守練習<br>        3反拍擊球練習<br>        4單打練習比賽<br>第三週：1規則講解<br>        2雙打練習比賽<br>        3練習方式介紹<br>G..排球<br>第一週：1認識排球、課程簡介<br>        2基本托球動作練習-個人頭上、低手、雙人練習<br>        3發球練習-原地、跳躍<br>第二週：1複習基本動作<br>        2舉球練習、殺球練習<br>        3分組比賽<br>第三週：1規則講解<br>        2分組練習比賽<br>        3練習方式介紹<br>H.壘球<br>第一週：1認識壘球、課程簡介<br>        2守套拿法<br>        3投球方法與種類、投手投球練習<br>        4傳、接球練習-15公尺二人對傳<br>        5接滾地球練習、姿勢講解<br>第二週：1複習傳、接球<br>        2接反彈球、高飛球練習<br>        3打擊練習-握棒、準備擊球姿勢、瞄球、最後揮棒動作<br>        4跑壘練習<br>        5分組比賽<br>第三週：1雙殺與夾殺練習<br>        2長傳練習<br>        3規則講解<br>        4分組練習比賽<br>",
+    "exams": {
+        "midterm": "技能測驗",
+        "final": "體育常識測驗或學習報告",
+        "other": "第16.17週技能測驗"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "健康身體是享受人活和工作勝任基礎",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "因高齡化壽命的增加，學習自我照顧",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習專業技能和學習運動技巧",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "為人生目標全力以赴自我學習",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習健全人格，服務社會",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養運動藝術的內涵",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習情緒管理與人有良好互動",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "紀律在運動競賽中嚴守",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1中華民國各單項協會最新編審規則-與上課相關項目。<br>2各出版社所出版的體育運動相關書籍-與上課相關項目。<br>",
+    "teachingSoftware": "無",
+    "rules": "1.全班上課應穿著整齊運動服裝、運動鞋。可自備帽子。<br>2.室外課如遇下雨天場地潮濕時，另擇場地上課。<br>3.上課中禁止攜帶食物食用。<br>4.上課中禁止滑手機。<br>課程評分依據:<br>平時分數(含筆試):上課服裝、出席率、學習態度佔50%。曠課次數達6次12節(含6次)以0分計算。<br>期中、期末術科測驗-從上課4個項目中由老師指定二項各佔25%<br>"
+}

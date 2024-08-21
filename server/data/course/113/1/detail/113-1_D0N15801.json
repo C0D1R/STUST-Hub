@@ -1,0 +1,111 @@
+{
+    "code": "D0N15801",
+    "name": {
+        "zh": "企業實務實習(一)",
+        "en": "Industrial practice (I)"
+    },
+    "credit": "4",
+    "type": "必修",
+    "classes": [
+        "夜行流產攜一甲"
+    ],
+    "instructors": [
+        "黃盈裕"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "4",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "如何訓練學生求生存與追求自我成長，訓練軟實力，厚植就業即戰力。本課程冀盼學生能在工作中學習，成就自我理想。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.訂定實務學習目標<br>2.了解職場實務<br>3.搞懂現場作業與應對進退<br>4.提升零售管理就業能力",
+        "en": "1.To set practical learning goals<br>2.To understand workshop practices<br>3.To acquaint the field activities and the appropriate responses<br>4.To enhance employability of retailing management"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "基本知識的運用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟習第一線業務的工作需求",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "善用零售管理知識於實務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "流通知識的應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "觀察顧客適時提出解決方案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

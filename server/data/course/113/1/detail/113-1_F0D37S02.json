@@ -1,0 +1,115 @@
+{
+    "code": "F0D37S02",
+    "name": {
+        "zh": "數位影像處理",
+        "en": "Digital image processing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資傳一乙"
+    ],
+    "instructors": [
+        "葉禾田"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0606"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "W0606"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "W0606"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程針對電腦數位影像進行全面性了解，培養對於電腦數位影像的製作與處理能力，充分掌握電腦數位影像的特性，創作出個人化的作品。<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(1)了解數位影像原理<br>(2)數位影像的調整<br>(3)數位影像特效處理<br>(4)數位影像創作<br>",
+        "en": "(1)Understanding the principle of digital image<br>(2)Adjustment of digital image<br>(3)Effect processing of digital image<br>(4)Digital image design<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "數位影像基礎了解、調整、特效處理、影像創作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "數位影像創作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "數位影像的調整、特效處理、影像創作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "數位影像的調整、特效處理、影像創作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

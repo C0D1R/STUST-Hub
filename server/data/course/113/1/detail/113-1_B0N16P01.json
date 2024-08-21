@@ -1,0 +1,116 @@
+{
+    "code": "B0N16P01",
+    "name": {
+        "zh": "休閒農場管理",
+        "en": "Leisure Farm Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技休閒一甲"
+    ],
+    "instructors": [
+        "洪飛碩"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0505"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0505"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0505"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "台灣休閒農場(業)的起源、發展近況及經營類型；從休閒農場的特性、基本設施、解說與導覽到遊程規劃與生態旅遊相互關係等均作探討與說明。課程旨在幫助學生認識並了解「休閒農場」如何利用田園景觀、自然生態及環境資源，結合農林漁牧生產、農業經營活動、農村文化及農家生活的經營方式，增進學習者對以農業及農村體驗為目的之遊憩與休閒服務經營的管理技能。並有最新的法令規章為有興趣從事休閒農場或休閒農業工作的學生作完整的專業參考資料。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章 台灣的休閒產業<br>第二章 休閒農場的定義<br>第三章 休閒農業的發展近況<br>第四章 休閒農業的經營類型<br>第五章 休閒農業園區<br>第六章 台灣休閒農場各論<br>第七章 休閒農場的基本設施<br>第八章 休閒農場的經營規劃<br>期中考試<br>第九章 休閒農場的行銷管理<br>第十章 休間農場的財務管理<br>第十一章 休閒農場的經營診斷<br>第十二章 間農場的解說與導覽<br>第十三章 休閒農場之遊程規劃<br>第十四章 休閒農場與生態旅遊<br>第十五章 休閒農場之展望<br>第十六章 經營與發展休閒農場的策略與成功之道<br>期末報告",
+        "en": "Chapter 1 Taiwan's leisure industry<br>Chapter 2 Definition of Leisure Farm<br>Chapter 3 Development of Leisure Agriculture<br>Chapter 4 Business Types of Leisure Agriculture<br>Chapter 5 Leisure Agriculture Park<br>Chapter 6 Theories of Taiwan Leisure Farms<br>Chapter 7 Basic Facilities of Leisure Farms<br>Chapter 8 Business Planning of Leisure Farms <br>Midterm<br>Chapter 9 Marketing Management of Leisure Farms<br>Chapter 10 Financial Management of the Rest Farm<br>Chapter 11 Business Diagnosis of Leisure Farms<br>Chapter 12 Interpretation and Navigation of the Farm <br>Chapter 13 Leisure Farm Tour Planning<br>Chapter 14 Leisure Farms and Ecotourism<br>Chapter 15 Prospects of Leisure Farms<br>Chapter 16 Strategies and Success Strategies for Operating and Developing Leisure Farms<br>Final report"
+    },
+    "weeklySchedule": "第01週：台灣休閒農業發展現況1-1<br>第02週：台灣休閒農業發展現況1-2<br>第03週：智慧/科技4.0農業與休閒產業<br>第04週：農、工結盟 三招打造循環農業生態系<br>第05週：科技農企業<br>第06週：【科技農業】+【創新農業】+【樂活農業】<br>第07週：用科技做「肥料」+食農教育<br>第08週：休閒農業之產業分析<br>第09週：期中考<br>第10週：休閒農業之定位<br>第11週：休閒農業之定位<br>第12週：農場企業化經營之策略構想<br>第13週：農場企業化經營之策略構想<br>第14週：個案實例分析討論<br>第15週：個案實例分析討論<br>第16週：休閒資源評估、特色之價值性<br>第17週：體驗、特色之價值性<br>第18週：分組報告",
+    "exams": {
+        "midterm": "筆試",
+        "final": "口試",
+        "other": "平常表現和出席率"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生認識並了解台灣休閒農場(業)的起源、發展近況及經營類型。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "探討與說明休閒農場的特性、基本設施、解說與導覽到遊程規劃與生態旅遊相互關係。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "使學生認識休閒農業經營管理，建立在休閒農業上從業的技能。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "增進學生對以農業及農村體驗為目的之遊憩與休閒服務經營的管理技能。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "休閒農場經營管理",
+        "author": "鄭殷立,郭蘭生",
+        "publisher": "華立圖書",
+        "year": "最新版",
+        "ISBN": "",
+        "edition": "最新版"
+    },
+    "referenceBooks": "段兆麟,休閒農業：體驗的觀點（3版）,華都文化,2014.<br>休閒農業規劃與體驗設計<br>作者： 段兆麟  <br>出版社：五南  <br>出版日期：2021/09/10",
+    "teachingSoftware": "無",
+    "rules": "1.座位固定<br>2.外系選修或旁聽須經任課老師同意 <br>3.修課同學第一周務必來上課,以便了解課程內容及上課要求。<br>4.選修本課程同學，請先閱讀該課程之教學大綱，以免造成個人學習之困擾<br>5.本課程規定建議購買上課用書<br>6.缺課(事假+曠課)9節(含) 平常分數以不及格採計.並依比例扣至0分.<br>7.授課教師點名後修課同學勿自行因自己因由離席缺課.經查2次(含)將以學期不及格計分."
+}

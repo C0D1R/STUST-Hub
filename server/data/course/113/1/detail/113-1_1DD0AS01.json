@@ -1,0 +1,117 @@
+{
+    "code": "1DD0AS01",
+    "name": {
+        "zh": "即興演奏訓練",
+        "en": "Improvisation Training"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技流音三甲",
+        "四技流音三乙"
+    ],
+    "instructors": [
+        "莊承翃"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "W1021"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "W1021"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "W1021"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "即興是一項綜合技能，需要具備多方面的音樂知識和技能之後才能實現。本課程旨在培育學生能在短時間內創作出即興樂句、或是演奏出即席伴奏之技巧。在課程中會陸續教導學生了解即興需要具備的各種基礎知識，並學習如何在一定規律中即興創作出合理的組合。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.即興之前的準備<br>2.用和弦音構建旋律<br>3.和弦外音的使用<br>4.變化音的使用<br>5.張力音符的使用<br>6.線條類樂句的設計<br>7.律動類樂句的設計<br>8.爵士即興技巧",
+        "en": "1.Basic Knowledge of Improvisation<br>2.Building a Melody with Chord Notes<br>3.The Use of Non-Chord Tone<br>4.The Use of Altered Tone<br>5.The Use of Tension Notes<br>6.The Design of Melody-Type Phrases<br>7.The Design of Groove-Type Phrases<br>8.Jazz Improvisation Skills"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備即興演奏之基礎知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備運用和弦音構建旋律之技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備即興伴奏之演奏技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備和弦音之運用技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

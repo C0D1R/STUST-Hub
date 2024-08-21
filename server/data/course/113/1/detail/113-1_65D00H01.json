@@ -1,0 +1,116 @@
+{
+    "code": "65D00H01",
+    "name": {
+        "zh": "策略管理",
+        "en": "Strategic Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國商三甲"
+    ],
+    "instructors": [
+        "居俐"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "E0509"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "E0509"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "E0509"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Strategic Management is a capstone course that requires a lot of effort by students. This is intended to be a big-picture course where you will learn main strategic concepts integrating the knowledge you have gained in the core business curriculum.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 策略管理與策略性競爭力<br>2. 外部環境分析<br>3. 內部環境分析<br>4. 事業層級策略<br>5. 競爭敵對與競爭動態<br>6. 公司層級策略<br>7. 購併與重整策略<br>8. 國際策略<br>9. 合作策略<br>10. 公司治理<br>11. 組織結構與控制<br>12. 策略領導 <br>13. 策略性創業家精神<br>",
+        "en": "1. Strategic Management and Strategic Competitiveness<br>2. The External Environment Analysis<br>3. The Internal Environment Analysis<br>4. Business-Level Strategy<br>5. Competitive Rivalry and Competitive Dynamics<br>6. Corporate-Level Strategy<br>7. Acquisition and Restructuring Strategies<br>8. International Strategy<br>9. Cooperative Strategy<br>10. Corporate Governance<br>11. Organizational Structure and Controls<br>12. Strategic Leadership<br>13. Strategic Entrepreneurship<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "國際商務知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "資料分析能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "商務企劃能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "邏輯思考能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

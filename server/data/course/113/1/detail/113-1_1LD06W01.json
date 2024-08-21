@@ -1,0 +1,165 @@
+{
+    "code": "1LD06W01",
+    "name": {
+        "zh": "哲學與人生(A)",
+        "en": "Philosophy And Life"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "林麗美"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "E0502"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "E0502"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "E0502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以科技大學學生共同的人生問題為起點。從這裡出發，目的在於拉近哲學和人生問題的距離。同時，我們採專題的方式，將同學在學校及畢業後最可能面對的人生情境融入其中。在人生所可能面臨的問題中，哲學這門古老的學問仍能發揮「指點」人生的功能。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、導論：人生、繞路與哲學<br>二、哲學是什麼？<br>三、認識你自己<br>四、洞悉生命的無常與死亡<br>五、為什麼要遵守法律規則？<br>六、誰在控制我們？<br>七、藝術與人生<br>八、宗教與人生<br>",
+        "en": "1. Introduction: Life, Detours and Philosophy<br>2. What is philosophy?<br>3. Know yourself<br>4. Insight into the impermanence and death of life<br>5. Why do you have to abide by the rules of law?<br>6. Who is controlling us?<br>7. Art and life<br>8. Religion and life<br>"
+    },
+    "weeklySchedule": "<br>本課程包含六大單元<br>第一章：導論<br>1. 哲學是什麼？哲學引導你思考，思考引導你批判，批判引導你行動。<br>2. 哲學與自我的關係-建立自我的內在邏輯<br>3. 你的人生哲學決定你看待世界的角度<br><br>第二章：那些親愛而陌生的哲學家們都在想什麼？<br>1.\t量測金字塔高度的泰利斯<br>2.\t天天上街頭的蘇格拉底<br>3.\t來到人世尋找另一半的柏拉圖<br>4.\t博學的天才亞里斯多德<br>5.\t至今一切社會的歷史都是階級鬥爭的歷史—馬克思<br>6.\t惡行不只來自於惡人--漢娜鄂蘭<br>7.\t他人即是地獄--存在主義大師沙特<br>8.\t高於命運的薛西弗斯—卡謬<br>9.\t女人不是生成的--西蒙波娃<br><br>第三章 強化你的偵錯神經<br>1. 錯誤的思考造成錯誤的行動；錯誤的行動可能造成無法挽回的遺憾<br>2.  5間奇特的房子<br>3. 辯證法：讓自己的觀點更站得住腳<br>4. 三段式論證：讓自己的推論有效<br>5. 破解邏輯的謬誤<br>6. 先有蛋還是先有雞<br>7. 帕斯卡的賭注<br>8.你該殺死那個胖子嗎—電車難題討論<br><br>第四章 自我<br>1. 自我是什麼？蘇格拉底說：「認識你自己」<br>2.  30年的動物實驗：習得性的無助感<br>3. 個人與群體“No man is an island，entire of itself；everyman is a piece of the continent，a part of the main”<br>4. 正向心理學<br>5. 存在主義<br><br>第五章：生死<br>1. 你知道台灣人的平均壽命嗎？高齡社會的來臨<br>2. 你與家人之間談論過死亡嗎？<br>3. 想像自己的喪禮<br>4. 生死學是什麼？<br>5. 今生若有諸多不滿，可否提早結束，期待來生從頭再來？<br>6. 安樂死與安寧療護<br>7. 墮胎與自殺<br><br>第六章：看見性/別<br>1. 性別主流化<br>2. 看見男性霸權？<br>3. 看見異性戀霸權？<br>4. 看見帶來改變<br>5. 傳統的兩性觀念<br>6. 性別光譜對傳統兩性觀念的解構<br>7. 層層迷思與破解<br>8. 時代女力。<br>9. 多元性別時代：差異、尊重與包容<br><br><br>第七章：公共議題<br>1. 辨識公共議題<br>2. 知道就是關心 <br>3. 曾實際參與公共議題嗎？<br><br>",
+    "exams": {
+        "midterm": "口頭報告",
+        "final": "作業",
+        "other": "平時隨堂測驗"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解「人生」的意義，進而反思個人的人生意義。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "引導學生在遭遇困難或陷入低潮時，能以正向積極的態度面對。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解遵守法律規則及規範之重要性，提升學生社會性。",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "強化互動能力，能與人融洽相處，互助合作。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解自己，認識自己，進而能以同理心去關懷服務他人。",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "分組報告   20%，期中報告。生命議題或公共議題<br>課堂討論   20%，課堂討論之參與度。<br>隨堂作業*7 35%，課堂即時完成。<br>期末筆記與作業   20%<br>同儕互評    5%<br><br>以上評量基準視情況微調<br>"
+}

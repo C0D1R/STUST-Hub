@@ -1,0 +1,111 @@
+{
+    "code": "1JD00F01",
+    "name": {
+        "zh": "高齡活動設計與規劃",
+        "en": "Older Adult Activity Design and Planning"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技高福二甲",
+        "四高福國專二甲"
+    ],
+    "instructors": [
+        "趙品淳"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "N308"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "N308"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "人口老化是全球普遍現象，老年人的健康維護是大眾關切之議題。當人們步入老年期後，生活中所面臨最直接的改變，除本身生理功能的衰退，外在如社會地位、人際關係、及生活方式的改變，也是無可避免。但透過適當的活動設計，可以保持健康，延緩老化的速度，進而對老年人的生理與心理機能產生良好的成效，達成疾病壓縮的理想。若能鼓勵高齡者多參與社會活動，則可避免產生與社會脫節的現象，達到活躍老化的目標。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、高齡團體活動理論<br>二、高齡團體活動類型<br>三、高齡團體活動設計與規劃<br>四、高齡團體活動帶領技巧<br>五、高齡團體活動記錄與評估<br>六、高齡團體活動帶領實務<br>",
+        "en": "1.The theory of senior group activities<br>2.The type of senior group activities<br>3.The design and planning of senior group activities<br>4.Senior group activity leadership skills<br>5.Assessment of senior group activities<br>6.Leadership practice for senior group activities<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解高齡者的活動需求",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "依據長輩健康狀態設計活動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會高齡活動設計與帶領技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "實際帶領高齡團體活動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

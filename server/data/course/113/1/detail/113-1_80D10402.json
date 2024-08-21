@@ -1,0 +1,171 @@
+{
+    "code": "80D10402",
+    "name": {
+        "zh": "經濟學(一)",
+        "en": "Economics (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技財金一乙"
+    ],
+    "instructors": [
+        "張永佶"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "S415"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "S415"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "S415"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "經濟分析之基本工具概述<br>包含基本的市場模型、消費者選擇模型、生產模型、以及四種不同的市場結構",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.經濟學導論<br>2.供給與需求<br>3.供需的價格彈性 <br>4.消費者的選擇1<br>5.消費者的選擇2<br>6.成本與廠商的決策<br>7.完全競爭市場<br>8.不完全競爭市場(獨占市場)<br><br>",
+        "en": "1.The overview of Economics<br>2.Supply and demand<br>3.The price elasticity of demand and supply<br>4.The theory of choosing behavior of a consumer-1<br>5.The theory of choosing behavior of a consumer-2<br>6.The cost and decision of a firm <br>7.The perfectly competitive market<br>8.The monopoly market<br>"
+    },
+    "weeklySchedule": "1.經濟學導論<br>2.供給與需求<br>3.供需量對價格的反應程度<br>4.消費者的選擇1<br>5.消費者的選擇2<br>6.成本與廠商的決策<br>7.完全競爭市場<br>8.不完全競爭市場(獨占市場)",
+    "exams": {
+        "midterm": "期中考 30%",
+        "final": "期末考 40%",
+        "other": "assignment, discussion, exercises on Flip-class 30%"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解個體經濟的分析方法與基本學理",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能應用個體經濟方法分析經濟實務資料",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現資料分析結果，讓不\n懂經濟專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能將個體經濟資料轉換成資訊並用以建立企業管理決策",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "經濟學 21世紀全球視野",
+        "author": "胡春田 巫和懋 霍德明 熊秉元",
+        "publisher": "雙葉書廊",
+        "year": "2010",
+        "ISBN": "978-986-6672-61-3",
+        "edition": "2"
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "flipclass 數位學習",
+    "rules": "上課嚴禁聊天說話<br>上廁所請先舉手表示<br><br>期末作業成績15% 寫一個生活上的故事，跟你這學期所學的經濟學理論對照，然後發表自己的看法與改善建議<br>期末作業格式：1.故事 2.經濟學理論簡介 3.故事與理論的對照 4.自己的看法與建議<br>"
+}

@@ -1,0 +1,127 @@
+{
+    "code": "20D1DC02",
+    "name": {
+        "zh": "微處理機原理與實習",
+        "en": "Microprocessor Principles and Practice"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技醫電二甲"
+    ],
+    "instructors": [
+        "黃基哲"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "B502"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "B502"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "B502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "述隨著半導體技術的進步，使得電子元件更佳微小及節能，帶動著科技產品的應用範疇更加深入我們的生活，在你我的週遭隨手可見許許多多的應用範例，譬如在智慧型的個人平台、可攜式的醫學產品、汽用電子設備、民生居家用品等等的領域，而在這產品中的智慧核心大多由一顆或數顆的微控制器來完成。<br>本課程將使用德州儀器公司(TI)所生產的MSP430系列的晶片為學習對象，使學生從做中學內化成自己的基本能力，同時搭配由德州器公司(TI)與單晶片協會(TEMI)所舉辦的德州儀器高階微控制器國際能力認證的能力檢定，便於厚植學員的電路設計與應用上的基本能力，也不論未來在就業或升學上有所助益。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 基本概念<br>2. 記憶體架構<br>3. 指令集<br>4. 輸入/輸出<br>5. 中斷架構<br>6. 計時器<br>7. A/D轉換器<br>8. CCP<br>9. WDT<br>10. 應用實驗",
+        "en": "1. Basic concept<br>2. Memory structure<br>3. Instruction set<br>4. Input/Output<br>5. Interrupt structure<br>6. Timer<br>7. A/D converter<br>8. CCP<br>9. WDT<br>10. Application experiment"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解微處理機的種類與功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解PIC微處理機的架構與指令",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會PIC微處理機的特殊功能應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會PIC微處理機的周邊裝置應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會MPLAB—ICD的使用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

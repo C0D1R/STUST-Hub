@@ -1,0 +1,115 @@
+{
+    "code": "F0D36W01",
+    "name": {
+        "zh": "攝影學",
+        "en": "Photography"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資傳一甲"
+    ],
+    "instructors": [
+        "楊斯嵐"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0604"
+        },
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "W0604"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "W0604"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本基礎攝影課程，將以攝影的基本原理、構圖的基本觀念、基本常見的攝影技巧為主。將不包含暗房操作、數位影像處理、與高階的攝影器材應用。請修課同學注意。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "主要課程包含影像環境說明、相機操作與光學解說、靜態攝影與動態影像。<br>A、課程介紹與攝影概論(一週)<br>B、國內外攝影史與影像演進說明(一週)<br>C、相機之機械及光學原理解說。(一週)<br>D、影像畫面的基本控制技巧(光圈、快門、焦長、環境、景深、主題、背景、…)(四週)。<br>E、影像畫面的基本構圖觀念(取景、構圖、背景、主題…)(三週)。<br>F、攝影師精典照片欣賞與解析。(一週)<br>G、靜態影像實務操作與評核(一週)<br>H、動態影像實務操作(三週)<br>I、動態影像作品評核(一週)。<br>J、期中考(一週)及期末考(一週)<br>",
+        "en": "Semester Outline：<br>A. Intrdoctuion.(3 hrs)<br>B. Photographer and History.(3 hrs)<br>C. Introduction of Mechanical and Optics of Camera.(3 hrs)<br>D. Basic Contral Skill( diaphragm, shutter, focal length, depth of field/ background…)(12 hrs)<br>E. Basic Image Composition( topic/ theme/ composition/ background… )(9 hrs)<br>F. Classical picture sight-seeing.(3 hrs)<br>G. Plastic of still photos.(3 hrs)<br>H. Plastic of motion footages(9 hrs)<br>I. Exhibition and Presentation of Final Works(3 hrs)<br>J. Midterm(3 hrs) &amp; Final Exam(3 hrs)<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能夠熟練並實踐攝影團隊的操作技能，並能夠感知各種操作技巧間的差異。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過實際參與操作，讓學生能夠體會攝影傳播的特性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠熟練並準確的操作攝影器材，解決攝影操作過程中的實際問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過準確的攝影操作，讓學生能夠複習影像創作過程中所指導的重點。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

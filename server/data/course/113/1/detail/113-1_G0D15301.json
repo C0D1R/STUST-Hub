@@ -1,0 +1,127 @@
+{
+    "code": "G0D15301",
+    "name": {
+        "zh": "行動裝置遊戲程式設計",
+        "en": "Mobile device game programming"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "五專資工五甲"
+    ],
+    "instructors": [
+        "許子衡"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "C304"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "C304"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "C304"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹Unity軟體開發環境，希望跨領域共同合作來建構一門手機遊戲課程來讓學生具備電腦繪圖與行動裝置遊戲程式設計。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t遊戲企畫製作<br>2.\t電腦動畫概論<br>3.\tC#語言<br>4.\t體感互動(Leap motion、Kinect)<br>5.\t虛擬實境(Virtual Reality、Cardboard)<br>6.\tWeb伺服器的互動<br>7.\t基於TCP/IP協定的聊天實例<br>8.\t用Unity建立網頁遊戲<br>9.\t將Unity遊戲移植到iOS平台<br>10.\t將Unity遊戲移植到Android平台<br>",
+        "en": "1.\tPlanning a game<br>2.\tIntroduction to computer animation<br>3.\tC# programming language<br>4.\tAn introduction to the motion sensing interaction<br>5.\tAn introduction to the Virtual Reality<br>6.\tWriting server and network code for your online game<br>7.\tA chat room based on TCP/IP sockets<br>8.\tUse Unity to build web 2d games<br>9.\tPublish a game to the iOS system<br>10.\tPublish a game to the Android system<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解行動裝置遊戲設計方法與基本學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對行動裝置遊戲問題有效辨識適當的設計方法並能體認正確嚴謹應用行動裝置遊戲設計方法的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用行動裝置遊戲方法建立有效率的遊戲程式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現電腦遊戲設計問題，讓不懂統計專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用電腦遊戲設計技巧分析問題並正確解讀問題與分工",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

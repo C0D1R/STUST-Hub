@@ -1,0 +1,110 @@
+{
+    "code": "W0Q04501",
+    "name": {
+        "zh": "產業智慧化管理",
+        "en": "Smart Manufacturing"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "高企碩士班一甲"
+    ],
+    "instructors": [
+        "施武榮"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "E0604"
+        },
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "E0604"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程對現代的生產與製造管理的主題逐一介紹，首先由基礎之生產作業管理理論切入循序漸近後，再針對現代生產管理新趨勢及發展-智慧製造之理論、觀念及方法予以介紹，俾利學員未來從事生產事業實務之應用。  <br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.現代生產新趨勢-智慧製造導論<br>2.生產模式之過去與未來<br>3.作業排程與控制<br>4.物料需求規劃(MRP)<br>5.企業資源規劃(ERP)<br>6.及時生產作業系統(JIT)<br>7.供應鏈管理<br>8.物聯網與自動化<br>9.人工智能與大數據分析<br>10.現代智慧製造<br>",
+        "en": "1.Introduction to Smart Manufacturing<br>2.Production Model- the past and the future<br>3.Scheduling<br>4.MRP and ERP<br>5.Just-in-Time Systems<br>6.Supply Chain Management<br>7.IOT &amp; Automation<br>8.AI &amp; Big Data<br>9.Smart Manufacturing <br>"
+    },
+    "weeklySchedule": "週1.\t現代產業新趨勢-作業智慧化管理導論<br>週2.\t產業作業模式之過去、現在與未來<br>週3.\t作業安排、時程、資源需求<br>週4.\t企業資源規劃(ERP)<br>週5.\t及時生產作業系統(JIT)及精實作業<br>週6.\t供應鏈管理<br>週7.\t物聯網與自動化管理<br>週8.\t人工智能與大數據分析<br>週9.\t產業智慧化管理<br>",
+    "exams": {
+        "midterm": "上機筆試",
+        "final": "上機筆試",
+        "other": "口頭報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1,建立學學現代智慧製造管理的觀念、原則與技術",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "2.培養學生分析及解決實際生產問題的能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "3.能具備使用生產管理技術不斷改善管理決策品質的態度",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "4.能瞭解現代智慧製造技術的使用限制及其最新發展情形",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "講義",
+        "author": "施威銘研究室",
+        "publisher": "旗標出版社",
+        "year": "2022",
+        "ISBN": "9789863127130",
+        "edition": "一"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

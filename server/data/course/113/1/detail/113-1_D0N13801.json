@@ -1,0 +1,115 @@
+{
+    "code": "D0N13801",
+    "name": {
+        "zh": "統計學(一)",
+        "en": "Statistics (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "夜行流產攜二甲"
+    ],
+    "instructors": [
+        "薛健宏"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "T0201"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0201"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "T0201"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "統計是最重要的資料分析工具，可以將一組資料簡化為有用的資訊，提供管理者有效的決策，其簡化過程所使用的理論依據，即是本課程所探討的範疇。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "緒論<br>統計圖表<br>敘述統計量<br>機率概論<br>離散型隨機變數及其常用的機率分配<br>連續型隨機變數及其常用的機率分配<br>抽樣與抽樣分配",
+        "en": "Introduction<br>Descriptive statistics<br>probability<br>Discrete distribution<br>Continuous distribution<br>Sampling"
+    },
+    "weeklySchedule": "第01週 課程介紹<br>第02週 第01章 緒論<br>第03週 第02章 資料的種類與次級資料的蒐集<br>第04週 第02章 資料的種類與次級資料的蒐集<br>第05週 第03章 原始資料的蒐集<br>第06週 第04章 資料的衡量<br>第07週 第05章 檢視資料的分布–以統計表統計圖呈現<br>第08週 第06章 分析資料–以統計測量數呈現<br>第09週 期中考<br>第10週 資料的蒐集及呈現實作<br>第11週 資料的蒐集及呈現實作<br>第12週 第07章 機率論<br>第13週 第08章 間斷隨機變數及其常用的機率分配<br>第14週 第08章 間斷隨機變數及其常用的機率分配<br>第15週 第09章 連續隨機變數及其常用的機率分配<br>第16週 第09章 連續隨機變數及其常用的機率分配<br>第17週 總複習<br>第18期 期末報告",
+    "exams": {
+        "midterm": "上機考",
+        "final": "上機考",
+        "other": "隨堂作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "資料分析的統計方法與基本理論",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有效辨識是當的統計方法",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "資料轉換成資訊用以建立管理決策",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "利用excel軟體分析資料",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "SPSS統計分析即學即用",
+        "author": "楊世瑩",
+        "publisher": "碁峰",
+        "year": "2009",
+        "ISBN": "9789861818658",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,111 @@
+{
+    "code": "L0D0AT01",
+    "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Project (II)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技半導體四甲"
+    ],
+    "instructors": [
+        "涂瑞清"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "藉由實務製作培訓學生解決問題的能力，以啟發其紮實及創新能力。同時使學生應用所學專業技能於實務製作，以訓練學生思考能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "藉由實務製作培訓學生解決問題的能力，以啟發其紮實及創新能力。同時使學生應用所學專業技能於實務製作，以訓練學生思考能力。",
+        "en": "Inspire students to be solid and innovative by practicing the ability to train students to solve problems. At the same time, students are allowed to apply their professional skills in practical production to train students' thinking skills."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "會使用網路尋找專業中英文論文",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會整理資料並決定題目",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會設計實驗、分析實驗數據、提出未來實驗方向",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會作成書面及口頭報告資料，會回應面試委員問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解抄襲的法律責任",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

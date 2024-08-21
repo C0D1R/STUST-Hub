@@ -1,0 +1,122 @@
+{
+    "code": "W0Q04D01",
+    "name": {
+        "zh": "ESG管理會計",
+        "en": "ESG  Management Accounting"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "高企碩士班一甲"
+    ],
+    "instructors": [
+        "林憶樺"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第1節",
+            "location": "E0604"
+        },
+        {
+            "day": "週六",
+            "period": "第2節",
+            "location": "E0604"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程結合企業永續經營的觀念於管理會計課程，包括基礎的成本資訊、成本的規劃與控制、不同成本會計制度，延伸至資本預算、決策攸關成本分析、獎酬績效管理等管理會計議題，並且納入作業價值管理分析、綠色會計、氣候變遷的相關財務揭露與永續會計、碳會計之相關議題",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.管理會計之基本觀念<br>2.各項成本分類、成本制度規劃及控制<br>3.成本、數量與利潤分析、短期決策分析<br>4.資本支出預算與決策<br>5.績效評估議題，包括勞動相關法規與員工薪酬制度與績效評估、阿米巴管理、平衡計分卡等<br>6. ESG、CSR等永續議題<br>",
+        "en": "1. Basic concepts of management accounting<br>2. Cost classification, cost system planning and control<br>3. Cost, volume, profit analysis and short-term decision analysis<br>4. Capital expenditure budget and strategies.<br>5. Performance evaluation topics, including labor-related laws and regulations, employee compensation system and performance evaluation, Amoeba opreating, and balanced scorecard, etc.<br>6. ESG, CSR and other sustainability issues"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉各項成本規劃及控制",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用會計資訊於經營決策",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "財務與非財務績效評估與管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "定價策略與資本預算",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "企業永續ESG管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

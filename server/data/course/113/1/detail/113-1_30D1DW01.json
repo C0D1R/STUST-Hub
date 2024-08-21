@@ -1,0 +1,116 @@
+{
+    "code": "30D1DW01",
+    "name": {
+        "zh": "進階程式設計實務",
+        "en": "Advanced Computer Programming"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電子二甲",
+        "四技電子二乙"
+    ],
+    "instructors": [
+        "方信普"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "J401"
+        },
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "J401"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "J401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程是針對具程式寫作經驗，及上過部分程式設計課程學生所設計的。經由不同的程式撰寫範例，來解說如物件導向及程序導向之設計方式，並闡述C與C++之差異。將於課程中，介紹高效能計算的設計概念及主要進階程式設計技巧，並希望南台科大的學生，能瞭解程式設計技巧在高效能計算中的重要性。",
+    "prerequisites": "計算機程式(Introduction to Programming Language) with C or better",
+    "syllabus": {
+        "zh": "第 1 章 課程介紹 <br>1. Unix/Linux 作業系統<br>2. 開發環境介紹 <br>3. 程序導向程式設計 <br>第 2 章 指標 <br>1. 指標的宣告與使用 <br>2. 指標的指標 <br>3. 指標與陣列 <br>4. 字串陣列 <br>5. 動態記憶體 <br>6. 函數指標 <br>第 3 章 動態記憶體的配置 <br>1. 陣列的限制 <br>2. 陣列的動態配置 <br>3. 動態二維陣列與指標的指標 <br>第 4 章 自訂資料型別 <br>1. 自訂資料型別 <br>2. 結構 <br>3. 列舉型別 <br>第 5 章 物件導向的基本觀念 <br>1. 物件導向與C++ <br>2. 物件導向的基本觀念 <br>3. 資料的封裝 <br>4. 物件導向系統 <br>第 6 章 類別與物件 <br>1. 類別成員存取權限 <br>2. 物件的生命週期 <br>3. 靜態類別成員 <br>4. 指標與物件 <br>5. 物件參數的傳遞 <br>6. 函式/方法的多載 <br>7. 朋友類別/函數 <br>第 7 章 類別嵌入與繼承 <br>1. 類別嵌入 <br>2. 結合與組合 <br>3. 類別繼承 <br>4. 基礎類別 <br>5. 衍生類別 <br>6. 類別型別轉換 <br>7. 方法的覆載 <br>第 8 章 同名異式 <br>1. 抽象類別 <br>2. 虛擬函式 <br>3. 多重繼承 <br>4. 訊息與多型 <br>5. 靜態的多型",
+        "en": "Chapter 1. Course Introduction<br>1. Unix/Linux Operating Systems<br>2. Developing Environments<br>3. Procedural-oriented Programming<br>Chapter 2. Pointers<br>1. Pointer Declarations and Usages<br>2. Pointer’s Pointer<br>3. Pointers and Arrays<br>4. String Arrays<br>5. Dynamic Memories<br>6. Function Pointers<br>Chapter 3. Dynamic Memory Allocation<br>1. Limitation of Arrays<br>2. Dynamic Arrays<br>3. Dynamic 2-demension Arrays and Pointer’s Pointer<br>Chapter 4. User Defined Types<br>1. User Defined Types<br>2. Structures<br>3. Enumeration Types<br>Chapter 5. Object-Oriented Programming Fundamentals<br>1. OOP and C++<br>2. OOP’s Fundamental Concepts<br>3. Data Encapsulations<br>4. OOP Systems<br>Chapter 6. Classes and Objects<br>1. Class Members Accessibility <br>2. Objects’ Life Cycles <br>3. Static Class Members<br>4. Pointers and Objects<br>5. Passing Objects as Parameters<br>6. Function/Method Overloading<br>7. Friend Classes and Functions<br>Chapter 7. Class Embedding and Inheritance<br>1. Class Embedding<br>2. Associations and Composition<br>3. Class Inheritance<br>4. Base Classes<br>5. Derived Classes <br>6. Classes Type Casting<br>7. Method Overriding<br>Chapter 8. Polymorphism<br>1. Abstract Base Classes<br>2. Virtual Functions<br>3. Multiple Inheritance<br>4. Messages and Polymorphism<br>5. Static Polymorphism"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "訓練Java程式設計專業技能解決工程問題之能力解題技巧與應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以JDK(Java Development Kit)，培養學生軟體的開發能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "介紹C相關的網站，使學生能自行學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養Java程式相關應用實務之分析與設計能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

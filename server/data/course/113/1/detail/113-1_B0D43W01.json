@@ -1,0 +1,117 @@
+{
+    "code": "B0D43W01",
+    "name": {
+        "zh": "解說教育與實務",
+        "en": "The Practice of Tourism Interpretation"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "二技休閒四甲",
+        "四技休閒二甲",
+        "四技休閒二乙"
+    ],
+    "instructors": [
+        "王逸峰"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0608"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "T0608"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "T0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.本課程為教育部卓越計畫補助 旅遊就學程之程。<br>2.配合就業市場將迅速擴增及地區觀光產業需要，設計專業之實務訓練課程，舉辦戶外現場教學觀摩、導覽解說教案示範等紮實的養成教育訓練，期能培訓學生熟習導覽解說之專業技能，培訓",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一周 課程簡介<br>第二周 解說概論<br>第三周 解說媒體 <br>第四周 解說員 <br>第五周 解說原則<br>第六周 解說實例<br>第七周 室內與戶外解說<br>第八周 解說設施與器材<br>第九周 期中考<br>第十周 解說規劃<br>第十一周 戶外教育與解說<br>第十二周 生態旅遊與特殊遊客<br>第十三周 環境教育<br>第十四周 環境教育的內涵<br>第十五周 我國的環境教育<br>第十六周 術科頭報告<br>第十七周 術科頭報告<br>第十八周 期末考",
+        "en": "第一周 課程簡介<br>第二周 解說概論<br>第三周 解說媒體 <br>第四周 解說員 <br>第五周 解說原則<br>第六周 解說實例<br>第七周 室內與戶外解說<br>第八周 解說設施與器材<br>第九周 期中考<br>第十周 解說規劃<br>第十一周 戶外教育與解說<br>第十二周 生態旅遊與特殊遊客<br>第十三周 環境教育<br>第十四周 環境教育的內涵<br>第十五周 我國的環境教育<br>第十六周 術科頭報告<br>第十七周 術科頭報告<br>第十八周 期末考"
+    },
+    "weeklySchedule": "1.導覽與解說概述<br>2.導覽解說技巧<br>3.解說題材的收集<br>4.人員與非人員之導覽解說<br>5.領隊人員規範與導覽解說<br>6.導遊人員規範與導覽解說<br>7.博物館導覽解說<br>8.環境生態導覽解說<br>9.實地訪練<br>10.導遊領隊考試之史地概述",
+    "exams": {
+        "midterm": "現場考試",
+        "final": "現場考試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "解解說的意義與重要性。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學習觀光旅遊解說理論並能實際運用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養對態導覽解說之能力，以加強解說技巧之訓練",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養服務精神及職業道德，使學生成為 術德兼備之觀光事業人才為目的。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "導覽解說實務",
+        "author": "陳炳輝等",
+        "publisher": "華立圖書",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "須有教科書並配合可能的戶外教學"
+}

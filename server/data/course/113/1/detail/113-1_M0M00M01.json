@@ -1,0 +1,127 @@
+{
+    "code": "M0M00M01",
+    "name": {
+        "zh": "餐旅產業資料分析與處理",
+        "en": "Data Analysis and Processing in Hospitality Industry"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研餐旅二甲"
+    ],
+    "instructors": [
+        "胡中州"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0307"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0307"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0307"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程回顧並擴充如何分析與處理有關餐旅事業的資料的核心議題。其目的是要通過資料分析的實踐與研究，教導學生如何思考和管理複雜的真實資料。本課程將以實際運算（而非數學理論探討）和利用統計軟體（以SPSS爲主），通過資料分析技術以解決實際的餐旅商務問題。課程討論的議題包括大數據的概念、資料數值和圖形的摘要與表達、假設檢驗、置信區間、計數和交叉製表、方差分析、回歸、主成分和聚類分析等。學生在完成本課程後，應該能夠批判性地思考數據資料並應用適當的統計推論程序分析得出的結論。學生在閱讀和教學上應預期英語材料的採用。",
+    "prerequisites": "None",
+    "syllabus": {
+        "zh": "1.\t大數據的概念<br>2.\t餐旅業的資料和特性<br>3.\t數位和圖形資料的匯總<br>4.\t置信區間、假設開發和測試<br>5.\t計數、頻率和交叉表<br>6.\t方差分析 （ANOVA）<br>7.\t迴歸分析<br>8.\t主成分與因子分析法<br>9.\t聚類分析<br>10.\t判別分析<br>11.\t資料視覺化<br>",
+        "en": "1.\tThe concept of Big Data<br>2.\tThe hospitality industry data and their natures<br>3.\tNumerical and graphical summaries of data<br>4.\tConfidence intervals, hypothesis development and testing<br>5.\tCounts, frequencies, and cross tabulation<br>6.\tAnalysis of variance (ANOVA)<br>7.\tRegression analysis<br>8.\tPrincipal components and factor analysis<br>9.\tCluster analysis<br>10.\tDiscriminant analysis<br>11.\tData visualization<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解大數據概念之重要性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能理解餐旅業的資料和特性與其表達方式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效辨識適當的產業問題並獨立行使批判性的思維。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效通過資料分析技術以解決實際的餐旅商務問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能發展學生良好的簡報及寫作溝通能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

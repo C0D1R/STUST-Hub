@@ -1,0 +1,110 @@
+{
+    "code": "1JN01301",
+    "name": {
+        "zh": "感染管制概論",
+        "en": "Introduction to Infection Control"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "夜二技高福四甲"
+    ],
+    "instructors": [
+        "陳美珠"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第11節",
+            "location": "O403"
+        },
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "O403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "臺灣將邁入超高齡社會，社會各層面如經濟、政治、醫藥、福利等發展皆息息相關，尤以醫藥，故本課程即對未來學生將進入職場可能遇到之醫藥環境中的感染控制來做詳解，提供感染預防與控制措施的基本知識及實用技巧訓練。本課程目的最終希望透過知識及技巧傳遞，使學生進入工作場域後能清楚明瞭感染控制的基本概念及防護措施。<br>課程內容將會強調所提倡的感染預防及控制措施背後的基本原則，以多種教學形式包括講課丶示範丶舉例等，務求增強學生對感染預防與控制的理解及應用。課程間亦會討論及交流國內現今照中心及安養院內常見的各種感染預防及控制的問題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程簡介<br>2.感染管制綜論<br>3.社區防疫-環境清潔及病媒蚊防治<br>4.社區防疫-環境清潔及病媒蚊防治<br>5.醫療環境與社區常見的微生物簡介<br>6.醫院感染管制通則<br>7.長照機構感染管制通則<br>8.長期照護常見問題及感染管制<br>9.衛生習慣與手部衛生實務應用<br>10.各類傳染病之隔離防護措施與隔離空間設置及使用<br>11.長期照護機構之人員健康管理與探訪客防疫管理及注意事項<br>12.醫院與長照機構環境監測管理<br>13.人口密集機構常見腸道傳染病與防治<br>14.人口密集機構常見呼吸道傳染病與防治<br>15.感染管制相關品質改善概念簡介",
+        "en": "1.Course overview<br>2.A review of infection control<br>3.The prevention of epidemics in the community - environmental cleaning and mosquito vector control<br>4.Introduction to common microbes in the hospital environdment and in the community<br>5.The prevention of epidemics in the community –Vaccination for infection prevention<br>6.General principles for hospital infection control<br>7.General principles for long-term care facility<br>8.Common issues and infection control of long-term care<br>9.The practices and applications of hygienic habits and hand hygiene practice applications<br>10.Protective isolation measures for various infectious diseases and the setting and use of isolation room/space<br>11.The health management of staff in long-term care organization and the prevention management and precautions of visitor epidemic<br>12.Environmental monitoring and management of hospitals and long-term care institutions<br>13.Common intestinal infections and their prevention in population-intensive institutions<br>14.Common respiratory infections and their prevention in population-intensive institutions<br>15.Introduction to the concept of quality improvement related to infection control"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識機構安全與感染控制",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "傳染病介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "防護用具介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "各種感染的預防措施與質量改善",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

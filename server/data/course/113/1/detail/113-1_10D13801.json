@@ -1,0 +1,152 @@
+{
+    "code": "10D13801",
+    "name": {
+        "zh": "無塵室技術應用",
+        "en": "Cleanroom Technology"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技製造三甲",
+        "四技製造三乙"
+    ],
+    "instructors": [
+        "吳俊穎"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "K401"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "K401"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "K401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生對於下述課程內容具備基本知識與能力<br>潔淨室簡介、潔淨室氣流運動、灰塵之來源與物性及濾除與檢測技術、半導體製程之潔淨室設計規劃、半導體製程之空氣供應系統、無塵衣之選擇<br><br><br>",
+    "prerequisites": "最好有熱力學與流體力學的基礎",
+    "syllabus": {
+        "zh": "1.潔淨室簡介：潔淨室之演進、潔淨室之定義及等級分類與規格、潔淨室之型式<br>2.潔淨室氣流運動：污染物顆粒與氣流之關係、潔淨室內氣流之一般操作情況、氣流速度分析、障礙物對氣流之影響<br>3.灰塵之來源與物性及濾除與檢測技術：塵粒之物性與分佈特性、除塵方式介紹、空氣過濾器、空氣過濾器捕集塵粒之原理及其特性曲線、空氣過濾器捕集效率測定法、空氣過濾器壓力損失與空氣流量之關係、靜電式空氣過濾器、塵粒計數器之原理及選擇<br>4.半導體製程之潔淨室設計規劃：半導體製程之潔淨室構造與運轉系統介紹、震動與靜電及電磁波防制、潔淨室建造方式及材料<br>5.半導體製程之空氣供應系統：空調原理簡介、空調基礎計算原理、潔淨室空調需求特性、基本空調控制系統、外氣控制、最少外氣控制法、預熱與主加熱系統、冷卻盤管控制系統與冷卻除濕控制系統、增濕控制系統、整合型空氣供應系統<br>6.無塵衣之選擇：依靜電防制、穿著舒適與、污染物是否容易從無塵布料穿透否、材質的清潔度的分別評估<br><br><br>",
+        "en": "1.Introduction to Cleanroom<br>2.Air Flow Characteristic Features in Cleanroom<br>3.Origin and Physical Properties of Contamination in Clearroom<br>4.Filtration of Contamination in Clearroom<br>5.Cleanroom Facilities in Semiconductor Industry<br>6.Air Handling System Design and Management in Clearroom<br>7.Selection of Working Clothes in Clearroom<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "潔淨室簡介",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "潔淨室氣流運動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "灰塵之來源與物性及濾除與檢測技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "無塵室人員進出管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "半導體製程之潔淨室設計規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "半導體製程之空氣供應系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "無塵衣選擇及清洗",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

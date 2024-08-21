@@ -1,0 +1,127 @@
+{
+    "code": "10D01901",
+    "name": {
+        "zh": "自動控制",
+        "en": "Automatic Control"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技自控三甲"
+    ],
+    "instructors": [
+        "劉雲輝"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "K402"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "K402"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "K402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程概述 本課程包含以下內容 1.概論 2.數學基礎 3.系統建模 4.控制系統表示法 5.控制系統的時域分析 6.控制系統的穩定性 7.控制系統的穩態分析 8.根軌跡法 9.頻域分析",
+    "prerequisites": "物理、微積分",
+    "syllabus": {
+        "zh": "一、概論與數學基礎<br>二、系統建模<br>三、控制系統表示法<br>四、控制系統的時域分析<br>五、控制系統的穩定性<br>六、控制系統的穩態分析<br>七、根軌跡法",
+        "en": "一、Introduction and mathematic background<br>二、Modelling<br>三、Formulation of control system<br>四、Time domain analysis<br>五、Stability<br>六、Steady state analysis<br>七、Root locus"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能以控制方塊圖描述控制系統狀態",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以方塊圖解出各控制系統之轉移函數",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以系統狀態空間方程式作穩定度分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解相關參數之解對根軌跡圖之物理意義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀控制系統專業用之英文資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

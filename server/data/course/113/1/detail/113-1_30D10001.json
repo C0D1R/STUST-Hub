@@ -1,0 +1,124 @@
+{
+    "code": "30D10001",
+    "name": {
+        "zh": "微積分(一)",
+        "en": "Calculus (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電子一甲",
+        "四電子國專一甲"
+    ],
+    "instructors": [
+        "黎靖"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "J206"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "J206"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "J206"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "微積分是工程科學裡最重要的基礎課程之一。它在電子、電機、機械、生物等領域中已有非常廣泛的應用，亦是專業科目(如工程數學)的先修課程。本課程是一學年的科目，分上、下學期。上學期內容為基本函數介紹及單變數函數的極限、連續、微分、積分、積分技巧與應用。",
+    "prerequisites": "邏輯、數、多項式、指數對數三角函數",
+    "syllabus": {
+        "zh": "1. 預備數學<br>2. 極限與連續<br>3. 導數<br>4. 指數 對數及三角函數導數<br>5. 導數的應用<br>6. 定積分<br>7. 積分技巧<br>",
+        "en": "1. Prerequisites for Calculus <br>2. Limits and Continuity.<br>3. Derivatives. <br>4. Exp.&amp;Log Function &amp; Trigo Function Derivatives<br>5. Applications of Derivatives. <br>6. The Definite Integral. <br>7. Techniques of Integration <br>"
+    },
+    "weeklySchedule": "第1周 課程總覽<br>第2周 基礎數學<br>第3周 Desmos繪圖計算器<br>第4、5周 函數<br>第6周 三角函數<br>第7周 微分概念及基本法則<br>第8周 三角函數的微分<br>第9周 期中考<br>第10周 定積分<br>第11周 微積分基本定理<br>第12周 冪函數與指數函數之不定積分<br>第13周 三角函數之不定積分<br>第14周 代數函數之不定積分<br>第15周 微積分第二定理求定積分<br>第16周 微積分在電路學之應用<br>第17周 複習<br>第18周 期末考<br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "不定期平時考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生了解微分、積分之基礎觀念與意義，並學習其解法技巧與其應用。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "使學生能充分掌握微積分這項數學工具，學習分析問題與解決問題的能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "使學生能使用Mathlab等軟體求解複雜的微積分問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建立分析基礎與培養邏輯推理能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "基礎微積分",
+        "author": "黎靖",
+        "publisher": "滄海書局",
+        "year": "2021",
+        "ISBN": "978-986-06515-7-7",
+        "edition": "1"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Desmos 繪圖計算器",
+    "rules": "上課要到、要攜帶課本及紙筆"
+}

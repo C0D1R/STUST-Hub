@@ -1,0 +1,132 @@
+{
+    "code": "20D1FF01",
+    "name": {
+        "zh": "數位邏輯設計概論實習",
+        "en": "Introduction of Digital System Design"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專電機二甲"
+    ],
+    "instructors": [
+        "陳世芳"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "J501"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "J501"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "J501"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "J501"
+        }
+    ],
+    "hours": {
+        "course": "4",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要針對數位邏輯設計之概論進行實習，透過電腦實際進行邏輯設計與模擬等操作，進而讓學生了解數字系統的原理、邏輯閘與布林代數的使用，組合邏輯的概念，正反器、計數器、暫存器等基本邏輯設計的方法，並透過一些應用實例的講解來增進學生數位邏輯設計處理能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、導論<br>二、數字系統<br>三、邏輯闸與布林代數<br>四、組合邏輯。<br>五、正反器<br>六、計數器與暫存器<br>七、序向邏輯<br>八、應用實務<br>",
+        "en": "1. Introduction to digital system<br>2. Number systems and codes<br>3. Boolean algebra and logic gates<br>4. Gate level minimization<br>5. Combinational logic circuits<br>6. Registers and counter<br>7. Synchronous sequential logic<br>8. Applications<br>"
+    },
+    "weeklySchedule": "(A)組合邏輯<br>理論:基礎原理/邏輯閘元件與邏輯電路/卡諾圖化簡/加法器/共陽極七段顯示器解碼器<br>實作:基本邏輯閘元件電路/邏輯電路(SOP/POS/NAND/NOR)/1位元加法器/2位元加法器/共陽極七段顯示器解碼電路<br>(B)循序邏輯<br>理論:正反器元件/MOD-10計數器設計<br>實作: MOD-10計數器<br>(C)軟體使用：Quartus II 軟體操作與燒錄。",
+    "exams": {
+        "midterm": "無",
+        "final": "無",
+        "other": "依課程進度安排實作考試,分2梯次"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "應用卡若圖化簡技術設計基本邏輯閘應用電路",
+            "teachingMethods": [
+                "實作演練",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "應用組合邏輯IC(SSI/MSI)設計相關應用電路",
+            "teachingMethods": [
+                "實作演練",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "應用正反器IC設計計時器/計數器的應用電路",
+            "teachingMethods": [
+                "實作演練",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "應用計數器IC設計計時器/計數器的應用電路",
+            "teachingMethods": [
+                "實作演練",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "相關講議請上【FlipClass數位學習(https://flipclass.stust.edu.tw/)】下載",
+    "teachingSoftware": "Quartus II 軟體(Free)",
+    "rules": "1.評量方式詳見[FlipClass數位學習的課程大綱]說明。<br>2.重要訊息會以e-mail通知，請同學接收學校帳號的e-mail。 <br>3.上課損毀檢定設備，經判定為操作不當或人為因素，則須賠償。<br>4.請同學使用正版教科書，勿非法影印書籍、教材，謹守「不重製」、「不散布」「不公開傳輸」三不原則，以免因侵害他人著作權而觸法。<br>參考網址http://www.tipo.gov.tw/copyright/copyright_book/copyright_book_37.asp<br>5.相關未儘事宜得隨時補充之。<br>"
+}

@@ -1,0 +1,115 @@
+{
+    "code": "15N01401",
+    "name": {
+        "zh": "底盤工學",
+        "en": "Chassis Engineering"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技車輛三甲"
+    ],
+    "instructors": [
+        "張宇均"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "R401"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "R401"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "R401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "針對汽車底盤系統做理論與實務之講解。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1. 講解煞車系統的作動理論與技術<br>2. 講解轉向系統的理論與技術<br>3. 講解懸吊系統的理論與技術<br>4. 講解驅動系統的理論與技術<br>5. 講解輪胎系統的理論與技術<br>6. 講解汽車底盤相關之力學的理論與實例<br>",
+        "en": "1.Introduction to vehicle brake system.<br><br>2.Introduction to vehicle steering system.<br><br>3.Introduction to vehicle suspansion system.<br><br>4.Introduction to vehicle driving system.<br><br>5.Introduction to vehicle wheel system.<br><br>6.Introduction to vehicle dynamics.<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉汽車底盤專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升對汽車的設計、研發的興趣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以力學理念解釋底盤元件作動功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀底盤專業用之英文資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

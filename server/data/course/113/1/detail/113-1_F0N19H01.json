@@ -1,0 +1,128 @@
+{
+    "code": "F0N19H01",
+    "name": {
+        "zh": "3D動畫製作",
+        "en": "3D animation"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技資傳三甲"
+    ],
+    "instructors": [
+        "劉耀鴻"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "W0608"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "W0608"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "W0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.AMP",
+        ""
+    ],
+    "description": "本課程的目標在於指導學生製作遊戲動畫，由基礎開始訓練學習，一步步瞭解動畫製作的元素，包括場景與人物的製作、人物骨架的綁定與權重調整…等，讓學生能夠製作屬於自己的動畫。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、介面介紹<br>二、建模指令介紹<br>三、場景設計<br>四、動畫模型拆UV介紹<br>五、遊戲動力學介紹<br>六、攝影機在遊戲中的運用<br>七、動物角色建模<br>八、人物公仔建模<br>九、材質與人物拆UV介紹<br>十、角色動畫製作",
+        "en": "1. Interface introduction<br>2. Introduction of modeling interface <br>3. Anination scene design<br>4. Demonstration of model UV<br>5. Introduction of dynamics <br>6. Introduction of animating camera<br>7. Character modeling<br>8. Character animation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "拆UV的方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "場景設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "人物建模",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "動畫製作流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "骨架綁定與權重調整",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

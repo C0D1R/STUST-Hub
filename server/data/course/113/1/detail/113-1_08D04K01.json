@@ -1,0 +1,137 @@
+{
+    "code": "08D04K01",
+    "name": {
+        "zh": "多元文化與溝通",
+        "en": "Multicultural Communication"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "王福祥",
+        "曾瓊瑢",
+        "黃武淑娟"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "T0103"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "T0103"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹多元文化、職場與教育環境。授課語言為英語。講師將以英語授課，學生使用英語完成相關作業與進行課間討論。<br>This course is designed to introduce cultural diversity as well as the working and studying environment. English is used during the course, in teaching, assignments, and in class discussions.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 什麼是文化<br>2. 文化的特點<br>3. 文化認同與個人認同<br>4. 語言如何影響人們的想法<br>5. 食<br>6. 衣<br>7. 音樂<br>8. 舞蹈<br>9. 藝術 <br>10. 節慶與假日 <br>11. 運動<br>12. 環境<br>13. 宗教<br>14. 文化差異<br><br>",
+        "en": "1. What is Culture?<br>2. Features of Culture <br>3. Cultural Identity VS Personal Identity<br>4. How does language influence how one thinks? <br>5. Food<br>6. Clothing<br>7. Music <br>8. Dance<br>9. Art <br>10. Celebrations and Holidays <br>11. Sports<br>12. The Environment<br>13. Religion<br>14. Talking about Differences<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "鼓勵學生以英語進行課程活動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "修課後學生能對文化差異有整體性的認識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能使用英文表達意見和進行與文化相關的議題探討",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "蒐集不同文化與社會的資訊",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "課程及分組活動參與",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能使用英語進行討論與溝通",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

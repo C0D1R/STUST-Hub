@@ -1,0 +1,117 @@
+{
+    "code": "70D28M01",
+    "name": {
+        "zh": "企業資源規劃(財務)",
+        "en": "Enterprise Resource Planning(Financial Module)"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管三甲",
+        "四技企管三乙",
+        "四技企管三丙"
+    ],
+    "instructors": [
+        "吳聰皓"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "S209A"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "S209A"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "S209A"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以SAP企業資源規劃系統之實機操作為主，講授各模組與企業流程之間的管理意涵，希望同學能學習從國際企業管理的角度，了解企業活動與外部財報及內部管理報表之應用．",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "財會模組<br>管會模組<br>訂單模組<br>採購模組",
+        "en": "FI module<br>CO module<br>SD module<br>MM module"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "運用企業資源規劃系統之觀念於會計知識上的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用國際資訊系統於跨國企業管理上的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用專業知識分析評估企業相關資訊，協助企業順利運作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "擁有專業責任和職業倫理的觀念，以及負責任的態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

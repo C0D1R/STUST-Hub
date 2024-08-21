@@ -1,0 +1,140 @@
+{
+    "code": "90N13601",
+    "name": {
+        "zh": "行動商務程式設計",
+        "en": "Programming for Mobile Commerce"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技資管四甲"
+    ],
+    "instructors": [
+        "陳俊吉"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "T0709"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "T0709"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "T0709"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "隨著資訊技術與無線通訊科技的蓬勃發展，行動計算設備不斷的推陳出新，行動商務成為現代社會日趨重要的商業行為，行動商務程式設計益發重要。 本課程主要介紹行動商務程式設計的相關技術，行動設備的程式設計主要有 Microsoft Mobile、Apple iPhone 與Google Android等，而Google Android 用 Open Source 發展策略，未來的發展濳力很高，本課程將介紹Android的手機程式設計。同學學會Android手機程式對就業必會有很大的幫助。",
+    "prerequisites": "JAVA程式設計",
+    "syllabus": {
+        "zh": "1. 行動商務簡介<br>2. 行動商務發展與趨勢<br>3. 行動計算軟硬體設備介紹<br>4. Android 開發系統安裝<br>5. Android應用程式核心架構<br>6. Android手機使用者介面設計<br>7. Android手機的繪圖程式<br>8. Android手機的多媒體<br>9. Android手機的資料儲存<br>10. Android手機的網路連線<br>11. Android手機的定位與Google MAP應用程式<br>12. Android手機的SQlite資料庫應用 <br>",
+        "en": "1. Introduction to Mobile Commerce<br>2. Current and Trend of Mobile Commerce<br>3. Introduction to Mobile Computing Hardware and Software<br>4. Android Development Environments<br>5. Android Program Framework<br>6. Android User Interface Design<br>7. Android Graphic Design<br>8. Multimedia on Android<br>9. Data Storage on Android<br>10. Android Web Connection<br>11. Location Provider System and Google MAP Applications<br>12. Android SQLite Database Applications <br>"
+    },
+    "weeklySchedule": "1. 行動商務簡介、行動商務發展與趨勢、行動計算軟硬體設備介紹<br>2. Android 開發系統安裝<br>3. 認識基本的介面元件<br>4. 訊息顯示相關元件<br>5. 單選、複選和下拉式清單<br>6. 期中報告<br>7. 功能表選單元件<br>8. 超連結元件<br>9. 資源管理分配與生命週期<br>10. 程式除錯<br>11. 資料的儲存<br>12. 表列選單元件<br>13. 資料庫<br>14. 期末專題",
+    "exams": {
+        "midterm": "期中專案App製作",
+        "final": "期末專案App製作",
+        "other": "實例App實作與練習"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能應用Android 手機程式設計來開發行動商務應用程式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能以團隊合作以及創新方式開發行動商務應用程式",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能有系統有組織的整理將開發系統的管理資料並將問題轉換成應用系統",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有系統有組織的整理將開發系統的管理資料並將問題轉換成應用系統",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能具備組織力量設計一行動商務系統的能力，及整合商務系統的能力，以提高行動作業力",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現系統問題結果，以開發系統及書面報告方式將行動商務應用可以理解",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "Google!Android手機應用程式設計入門(第五版)，作者：蓋索林，松崗出版，2013<br>Android初學特訓班 (第六版)，鄧文淵/總監製，文淵閣工作室/編著，碁峰出版社，2015，9789863475538，第六版",
+    "teachingSoftware": "App Inventor 2, Android SDK",
+    "rules": "須以小組討論方式，製作Android App作品成果，並報告展示此作品"
+}

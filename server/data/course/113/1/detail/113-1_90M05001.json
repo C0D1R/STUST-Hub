@@ -1,0 +1,127 @@
+{
+    "code": "90M05001",
+    "name": {
+        "zh": "網際網路專論",
+        "en": "Advanced Discussion to Internet"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研資管一甲"
+    ],
+    "instructors": [
+        "陳志達"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "T0713"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "T0713"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0713"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹Internet,TCP/IP相關技術, web網路通訊理論, AJAX, Agent, Web Service網絡服務的相關規格與實作",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.Introduction to Internet <br>2.Introduction to TCP/IP <br>3.Introduction to NOS about Linux,Windows <br>4.Introduction to WWW, HTML,DHTML and HTTP1.1 <br>5.Introduction to Javascript,Java,ASP,PHP,CGI<br>6.Introduction to AJAX<br>7.Introduction to XML,Web Service and SOA<br>8.Introduction to Agents, Mobile Agents and Web Robots <br>9.Introduction to Web security &amp; Firewalls <br>10.Some Interesting Topics <br>",
+        "en": "1.Introduction to Internet <br>2.Introduction to TCP/IP <br>3.Introduction to NOS about Linux,Windows <br>4.Introduction to WWW, HTML,DHTML and HTTP1.1 <br>5.Introduction to Javascript,Java,ASP,PHP,CGI<br>6.Introduction to AJAX<br>7.Introduction to XML,Web Service and SOA<br>8.Introduction to Agents, Mobile Agents and Web Robots <br>9.Introduction to Web security &amp; Firewalls <br>10.Some Interesting Topics <br>"
+    },
+    "weeklySchedule": "第一 ~ 二週  Introduction to Internet <br>第三 ~ 八週  Introduction to TCP/IP <br>第   九  週  期中考<br>第十 ~ 十二週  Introduction to NOS about Linux,Windows <br>第十三 ~ 十四週  Introduction to XML,Web Service and SOA<br>第十五 ~ 十五週  Introduction to Web security &amp; Firewalls <br>第十六 ~ 十七週  Some Interesting Topics <br>第   十八    週  期末考<br>",
+    "exams": {
+        "midterm": "上機考",
+        "final": "上機考",
+        "other": "小考、作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "實踐與執行網際網路軟體程式設計的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "應用與規畫網際網路軟體開發的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建構與設計網際網路軟體的實務技能",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "應用與操作網際網路軟體的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能依系統需求建構與設計網際網路應用軟體",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "線上教材 http://120.117.98.146/internet/",
+    "teachingSoftware": "",
+    "rules": ""
+}

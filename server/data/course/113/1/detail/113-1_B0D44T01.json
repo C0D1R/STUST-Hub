@@ -1,0 +1,116 @@
+{
+    "code": "B0D44T01",
+    "name": {
+        "zh": "社群媒體創作",
+        "en": "Creating social media content"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技休閒一甲",
+        "四技休閒一乙"
+    ],
+    "instructors": [
+        "楊智晶"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "T0509"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "T0509"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0509"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以社群媒體為工具塑造數位品牌形象的時代已經來臨。在休閒產業上，無論是個人、產品或品牌都可以藉由社群媒體曝光與行銷。本課程讓學生了解社群媒體的商業模式、如何行銷與投放廣告，以及須注意之法律問題等。在這個人人都能透過社群媒體打造品牌的時代，加強學生對於社群媒體的專業知識和實作經營能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一週 社群媒體趨勢與市場、平台種類<br><br>第二週 社群媒體定位與市場分析<br><br>第三週 社群媒體商業模式<br><br>第四週 社群媒體內容類型與設計<br><br>第五週 社群媒體經營步驟<br><br>第六週 社群媒體行銷<br><br>第七週 常見社群媒體法律<br><br>第八週 期中分組報告<br><br>第九週 期中分組報告<br><br>第十週 工具數據分析<br><br>第十一週 廣告投放(I)<br><br>第十二週 廣告投放(II)<br><br>第十三週 廣告投放(Ⅲ)<br><br>第十四週 社群媒體供應鏈資源與運用<br><br>第十五週 數據優化分析與策略<br><br>第十六週 社群平台經營操作與創作(I)<br><br>第十七週 社群平台經營操作與創作(II)<br><br>第十八週 社群平台經營操作與創作(Ⅲ)",
+        "en": "1. Introduction to social media<br>2. Positioning and market analysis<br>3. Business model of social media<br>4. Social media content and design<br>5. Steps to start a social media campaign<br>6. Social media marketing<br>7. Common social media law<br>8. Tools of data analysis<br>9. Advertising<br>10. Social media in the application of supply chain management<br>11. Data optimization analysis and strategy<br>12. Practices in creating social media platform"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解社群媒體的商業模式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "如何行銷與投放廣告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "須注意之法律問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "對於社群媒體的專業知識和實作經營能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

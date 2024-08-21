@@ -1,0 +1,111 @@
+{
+    "code": "W0Q04902",
+    "name": {
+        "zh": "新型態產業與法律",
+        "en": "New Type Industries and Law"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "高企碩士班二甲"
+    ],
+    "instructors": [
+        "郭俊麟",
+        "羅承宗"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "E0603"
+        },
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "E0603"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "身處劇烈變化的商業時代，「經營事業，獲取利潤」固然仍是產業經營的鐵則，但是我們看到，越來越多新型態的產業在我們身邊出現。從Uber、Airbnb等分享經濟的出現，以致UberEats、foodpanda的崛起，對運輸業、旅宿、餐飲業帶來不小的影響。尤其，2019年新冠肺炎爆發後，在諸多產業面臨廣泛衝擊下，更加速了人們對新型態產業的關注。本課程以介紹新型態產業之發展為經，以產業發展與法律管制規範的衝突與調和為緯，一方面將針對晚近全球新型態產業之發展提供鳥瞰性的案例介紹，另一方面則將分別就所涉及的法律管制規範進行介紹，促使同學能在法律遵循基礎上，對於新型態產業建立更全面的理解。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(1)課程概論<br>(2)「舊」型態產業回顧<br>(3)新型態產業與案例分享：國外經驗<br>(4)新型態產業與案例分享：台灣經驗<br>(5)新型態產業與法律的衝突：產業定性<br>(6)新型態產業與法律的衝突：勞動關係<br>(7)台灣法制文化與新型態產業的出路<br>",
+        "en": "(1)Introduction <br>(2)Retrospective Analysis of Old Type Industries<br>(3)New Type Industries and Cases: Foreign Experiences<br>(4)New Type Industries and Cases: Taiwan Experiences<br>(5)Conflicts between New Type Industries and Law: Industry Characterization<br>(6)Conflicts between New Type Industries and Law: Labor Relationships<br>(7)Ways Out of New Type Industries under Taiwan Law and Culture"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解新舊產業型態的區分與差異",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解新型態產業國內外相關重要案例",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解新型態產業與法律規範的衝突",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解在法遵基礎上經營新型態事業的可能性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

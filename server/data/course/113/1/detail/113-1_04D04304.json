@@ -1,0 +1,167 @@
+{
+    "code": "04D04304",
+    "name": {
+        "zh": "體育生活(三)：壘球(G)",
+        "en": "Physical Education(III)：Softball"
+    },
+    "credit": "1",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "四技製造二甲",
+        "四技製造二乙",
+        "四技工管二甲",
+        "四技工管二乙",
+        "四技電商二甲",
+        "四技多樂二甲",
+        "四技多樂二乙",
+        "四技多樂二丙",
+        "四機械國專二甲"
+    ],
+    "instructors": [
+        "賴慶霖"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": ""
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1、慢速壘球是結合棒球和壘球比賽型態的一項休閒運動,傳接球容,投手球速緩慢,容易打擊,適合老中清的一項運動<br>2、球賽特性以團隊為主體,可以養成互助合作,以球會友,增進學生之間感情和交流,並提倡正當的休閒運動促進身體健康。<br>",
+    "prerequisites": "注意事項：\n1.請盡量能自備手套、帽子\n2.請準時到達上課地點、著運動服裝、運動鞋\n3.上課中禁止吃零食、麵包、便當等食物",
+    "syllabus": {
+        "zh": "1、短傳球,長傳球,接球,滾地球,高飛球,第一時間反彈球,過頂飛球等練習<br>2、投手投擲練習<br>3、揮打法及推打法兩種擊球方式<br>4、規則研討<br>5、一壘封殺演練<br>6、分組比賽講習規則",
+        "en": "1、 Short pass, long pass, catching, ground ball, high flying ball, overhead flying ball <br>2、 Pitcher throwing practice<br>3、 Hitting methods: swing and push <br>4、 Rules discussion<br>5、 first base force out drill<br>6、 Group competition <br>"
+    },
+    "weeklySchedule": "第一週~第二週 基本傳接球教學複習<br>第三週~第四週 高飛飛球與滾地球教學與實作<br>第五週~第八週 打擊基本動作教學與實作<br>第十週~第十二週 壘球規則講解與實作<br>第十三週~第十七週 分組競賽<br>",
+    "exams": {
+        "midterm": "壘間傳球測驗",
+        "final": "分組競賽",
+        "other": "打擊測驗"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建構豐富全人健康生活，充實壘球運動概念與技能及專業知識",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "養成規律運動習慣，將理論與實際結合，融會貫通",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養健康與快樂生活，有條理的表達與溝通，加強積極回應之能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "發展健全人格特質，培養文藝涵養、道德品格",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建立尊重與關懷他人之習慣，培養與他人互動和發展友誼的能力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養文化表達的能力，欣賞創意、運動、藝術，感受生命的力量，得到美的享受",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "謙虛主動學習新事物，有企圖心，對新環境的應變，有效的調整自我之適應彈性",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "謙虛主動學習新事物，有企圖心，對新環境的應變，有效的調整自我之適應彈性",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "上課期間請穿著合宜的體育服裝，請勿穿牛仔褲、工作褲、休閒褲、拖鞋、涼鞋、靴子等不適宜運動之服裝，違者扣分。<br>請務必準時上課，如無故缺曠課超過三週以上，將給予扣考。<br>如病假、喪假、公假請出示相關證明進行銷假。<br>如有其他相關規定，將會於課堂上再次說明"
+}

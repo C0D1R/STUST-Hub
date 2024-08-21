@@ -1,0 +1,185 @@
+{
+    "code": "E0D39F01",
+    "name": {
+        "zh": "跨語言文化溝通(二)(A)",
+        "en": "Cross-Linguistic and Cultural Communication (II)"
+    },
+    "credit": "2",
+    "type": "自選必修",
+    "classes": [
+        "四技應日二甲",
+        "四技應日二乙"
+    ],
+    "instructors": [
+        "朴廷恩"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "N502"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "N502"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.日語",
+        "2.華語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程涵蓋西班牙語、德語、俄語、法語、日語、越南語、泰語、印尼語等第二外語。各系學生須選修之第二外語語種依各系時序表規定選修。本課程授課對象是學過此第二外語至少一學期程度的學生，授課內容繼續加強發音認知和技巧，再加入重要文法介紹。本課程除了用許多方法讓學生們易於使用第二外語做日常生活的溝通以外，並以循序漸進的方式培養聽、說、讀、寫四個技能，奠定此第二外語之學習基礎。此外為了使學生能欣賞該國文化及提升學習興趣，本課程也針對該國的文化如歷史、風俗民情、飲食、節慶、旅遊及文化活動等方面做介紹。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、進階發音練習：容易混淆發音及特殊規則之發音。<br>二、文法練習：動詞變化、時態應用、連接詞、從屬子句、比較級等。<br>三、會話訓練：餐廳用餐、購物、旅遊、文化活動、看病等主題。<br>四、聽力訓練：餐廳用餐、購物、旅遊、文化活動、看病等主題。<br>五、閱讀訓練：看懂段落式短文。<br>六、文化介紹：歷史、地理、節慶、藝術、飲食及旅遊等主題。",
+        "en": "1. Alphabet teaching<br>2. Pronunciation practice: (1) rules of pronunciation, (2) stress and intonation, (3) liaison.<br>3. Grammatical rules: gender of nouns, singular/plural nouns, uses of interrogatives, usage of pronouns and demonstratives, adjectives, imperative mood, conjugation of verbs, etc.<br>4. Oral practice: topic related to greeting, self-introduction, numbers, asking time and direction, etc.<br>5. Listening practice: topic related to greeting, self-introduction, numbers, asking time and direction, etc.<br>6. Cultural aspects: topics related to history, customs, festivals, arts, diet, tourist attraction, etc."
+    },
+    "weeklySchedule": "第2課 日常生活 <br>第3課 日期、星期 <br>第4課 位置<br><br><br><br>",
+    "exams": {
+        "midterm": "口試、筆試",
+        "final": "口試、筆試",
+        "other": "日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解該外國語的發音規則。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解該外國語的文法規則。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養該外國語之基本日常生活會話能力。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "認識及欣賞該外國語的文化。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "您好！韓國語 初級1",
+        "author": "韓語教育推廣研究會（張亞薇譯）",
+        "publisher": "笛藤",
+        "year": "2022",
+        "ISBN": "9789577108708",
+        "edition": "三版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "1．本課程需準時到課以及全程出席。<br><br>2．課程進度視實際需要調整。<br><br>3．評量方式將於第一週進行說明。<br><br>4．指定用書請自行購入或借閱。<br><br>5．授課語言以韓語為主，華語為輔。"
+}

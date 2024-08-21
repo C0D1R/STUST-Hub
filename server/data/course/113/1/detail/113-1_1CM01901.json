@@ -1,0 +1,117 @@
+{
+    "code": "1CM01901",
+    "name": {
+        "zh": "綜合研究工作室(一)",
+        "en": "Integrated studio(I)"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "碩研產設一甲"
+    ],
+    "instructors": [
+        "王文雄"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "X303"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "面對新世代的需求與挑戰，新一代的設計師需具備研究規劃、整合設計等能力。本課程旨在藉由實務專題的研討，建構設計師在執行設計專案的過程中，進行諸多設計因素的同步探討，並學習如何於專案執行前透過閱讀文獻與資料蒐集進行設計方向的探討與歸納，並針對設計族群之需求進行研究調查。期使設計師具備研究規劃與整合設計的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(1)設計策略<br>(2)設計區隔與定位<br>(3)文獻探討與使用者研究<br>(4)設計專案執行<br>(5)設計構想評估<br>(6)設計驗證<br>",
+        "en": "Facing the demands and challenges of the new generation, the next generation of designers needs to possess research planning and integrated design capabilities. Through practical project discussions, this course aims to construct the simultaneous exploration of various design factors during the execution of design projects. Students will learn to discuss and summarize design directions by reading literature and collecting data before the project execution. Additionally, they will conduct research surveys to address the design community's needs. The goal is to equip designers with the abilities of research planning and integrated design. <br>(1) Design strategy<br>(2) Design interval and positioning<br>(3) Literature reading and user research<br>(4) Design project execution<br>(5) Design concept assessment<br>(6) Design verification<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解設計流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解專案執行內容",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能清楚區隔與定位設計議題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能清楚專案執行前之研究歸納與規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能對設計專案進行評估與驗證",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

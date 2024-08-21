@@ -1,0 +1,127 @@
+{
+    "code": "1DD05501",
+    "name": {
+        "zh": "基礎詞曲創作",
+        "en": "Lyric and Song Writing"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技流音二甲"
+    ],
+    "instructors": [
+        "黃偉豪"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "W0904"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0904"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0904"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹流行歌曲創作之基本概念與技巧；引導學生以分組方式進行歌詞寫作與曲調創作練習，並藉由鑑賞業界主流作品，提升自身之詞曲創作能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、業界主流音樂鑑賞與分析<br>二、流行歌曲基本架構<br>三、歌詞寫作技巧<br>四、曲調創作技巧<br>五、詞曲搭配技巧<br>六、詞曲創作實作與評析",
+        "en": "1.Popular Music Analysis.<br>2.Basic Song Structure of Popular Music.<br>3.Lyrics Writing.<br>4.Melody Writing and Music Composition.<br>5.Matching Melodies and Lyrics.<br>6.Popular Music Analysis and Songwriting Exercises."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解歌曲創作基本概念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備歌詞寫作能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備曲調創作能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析業界作品，提升自身創作能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "完成團隊分工之職責。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

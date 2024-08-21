@@ -1,0 +1,115 @@
+{
+    "code": "10D18601",
+    "name": {
+        "zh": "機械設計",
+        "en": "Mechanical design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技製造三甲"
+    ],
+    "instructors": [
+        "盧燈茂"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "K412"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "K412"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "K412"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要介紹機械元件設計的相關知識，包含負荷及應力分析、失效準則、以及常用機械元件之設計等三大部分，使學生認識機械零組件之組成與設計準則，熟悉各種元件設計方法，並舉例來說明各種機件設計之實際過程。",
+    "prerequisites": "工程力學、材料力學、機械材料、數學、機構學",
+    "syllabus": {
+        "zh": "一、緒論--設計簡介、機械元件種類、標準與法規、公差與配合<br>二、機械設計基礎--負荷、承受靜負荷之失效準則、疲勞<br>三、螺旋--種類及符號、力學理論、應用<br>四、軸與裝置零件--靜負荷、變動負荷、臨界速率、裝置零件<br>五、軸承--滑動軸承、滾動軸承<br>六、傳動裝置--齒輪、帶、鏈<br>七、其它元件設計<br>",
+        "en": "1. Introduction--Introduction to Design, Mechanical Element, Standard and Code, Tolerance and Fit.<br>2. Fundamentals--Load, Failure Criteria, Fatigue.<br>3. Screw--Type and Representation, Mechanics、Application.<br>4. Shafts and Associated Parts--Static Load、Fluctuating Load、Critical Speed, Mounting Part.<br>5. Bearing--Sliding Bearing、Roll Bearing.<br>6. Transmission--Gear、Belt、Chain.<br>7. Others<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "機械元件分析基本知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "靜負荷失效準則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "週期性負荷失效準則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "常用機械元件設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

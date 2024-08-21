@@ -1,0 +1,135 @@
+{
+    "code": "K0D3AI01",
+    "name": {
+        "zh": "漫畫出版及企劃",
+        "en": "Comic publishing and planning"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技多樂四甲",
+        "四技多樂四乙"
+    ],
+    "instructors": [
+        "吳思璿"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0807"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0807"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "漫畫創作為許多創作的源頭，自由奔放的漫畫創作有著各式各樣繪製方式、繪畫風格與創意激盪方法，甚至是創作工具的挑選與意念的表達。本課程經由一開始的創意激發、作品表達設計與規劃、經過不斷的分鏡演練與動筆繪製，最終讓學生完成一話漫畫作品。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.創作與創意激盪<br>2.漫畫市場與風格研究<br>3.創作的工具練習與創意的提案展演<br>4.分鏡與構圖<br>5.完稿程序<br>6.出版加值設計",
+        "en": "1. Comic Creator Project Management<br>2. Creation and creative thinking, in line with market demand<br>3. Story board and composition adjustment<br>4. Draft drawing<br>5. Hand-painted or electronic painted<br>6. Discussion of comic project"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.創作與創意激盪",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.漫畫市場與風格研究",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.創作的工具練習與創意的提案展演",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.分鏡與構圖",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5.完稿程序",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6.出版加值設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,115 @@
+{
+    "code": "G0D00803",
+    "name": {
+        "zh": "計算機程式",
+        "en": "Computer Programming"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技資工一丙"
+    ],
+    "instructors": [
+        "陳定宏"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "C306"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "C306"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "C306"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "程式設計是資訊工程學生的基礎課程，本課程主要希望帶領學生能夠瞭解並開始學習程式設計，此課成主要教授以C語言為主。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.電腦及網際網路之介紹<br>2.不同程式語言之發展與演進<br>3.C程式設計簡介<br>4.結構化程式的開發<br>5.控制流程指令的介紹<br>6.迴圈指令的介紹<br>7.函式的介紹<br>8.陣列的介紹<br>9.指標的介紹<br>10.字串字元的介紹<br>11.格式化輸入/輸出<br>12.Struct, Unions,Bitsand Enums的介紹<br>13. Files system 的介紹<br>",
+        "en": "1.Overview<br>2.Program Language <br>3.C Program Language<br>4.Structure programming development method<br>5.control flow<br>6.loop<br>7.function/subroutine<br>8.array<br>9.pointer<br>10.character/strings<br>11.format in/out<br>12.Struct, Unions,Bitsand Enums<br>13. Files system operations<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.能了解程式執行的流程與開發環境",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.能利用開程式開發環境進行程式的開發與除錯",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.能將想法轉換成可執行的程式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.能辨識適當外語表示之電腦指令，並能閱讀相關文件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,99 @@
+{
+    "code": "C0D5EA01",
+    "name": {
+        "zh": "專題製作(一)",
+        "en": "Graduation Project (Ⅰ)"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "四技應英三甲"
+    ],
+    "instructors": [
+        "陳怡真"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在培養學生透過團隊合作，共同思考、設計、並執行專題計畫，以加強創新與整合的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.團隊運作原則與方法<br>2.主題設定<br>3.資料搜集方法<br>4.資料整理與分析<br>5.報告撰寫與分享<br>",
+        "en": "1. Team operation principles and methods<br>2. Theme setting<br>3. Data collection method<br>4. Data compilation and analysis<br>5. Report writing and sharing<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "以英文描述、說明、分析與語言文化相關之現象或議題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解與語言文化相關的英文文本",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "撰寫、製作與英語教學或商務英文相關之報告及簡報",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以小組合作共同思考、整合與英語教學或商用英文相關之議題與資料，解決或回答所探究之問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

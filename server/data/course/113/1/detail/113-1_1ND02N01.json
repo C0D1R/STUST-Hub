@@ -1,0 +1,139 @@
+{
+    "code": "1ND02N01",
+    "name": {
+        "zh": "家庭醫學與用藥安全",
+        "en": "Family Medicine and Medication Safety"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "自然科學領域"
+    ],
+    "instructors": [
+        "陳韻如"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "T0001"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "T0001"
+        },
+        {
+            "day": "週三",
+            "period": "第7節",
+            "location": "T0001"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "正確的醫學知識是做為一個現代化知識分子所必須具備的。本課程就日常生活保健或容易碰到的健康問題，做深入淺出的介紹，以期大學生能獲得正確的醫學觀念。用藥安全應是所有藥物治療目標的出發點，本課程以民眾易懂的方式講解用藥安全，讓學生獲得正確用藥常識並靈活運用其中的用藥知識於日常生活。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 疫苗的原理及最新發展<br>2. 呼吸道感染之抗生素使用<br>3. 青光眼<br>4. 海洋性貧血<br>5. 原發性經痛的診斷與治療<br>6. 子宮內膜異位症<br>7. 個性與腦中風<br>8. 高壓氧治療簡介<br>9. 懷孕及幼兒用藥安全<br>10.成人用藥安全<br>11.家庭醫學與用藥安全課堂報告<br>",
+        "en": "1. Principles and Latest developments of Vaccines<br>2. Antibiotic use for Respiratory infections<br>3. Glaucoma<br>4. Thalassemia<br>5. Diagnosis and Treatment of Primary Dysmenorrhea<br>6. Endometriosis<br>7. Personality and Stroke<br>8. Introduction to Hyperbaric oxygen therapy<br>9. Safe medicine use for Pregnant women and Children<br>10. Adult medication safety<br>11. In-class presentations for Family Medicine and Medication Safety<br>"
+    },
+    "weeklySchedule": "第一週\t課程簡介<br>第二週\t疫苗的原理及最新發展<br>第三週\t呼吸道感染之抗生素使用<br>第四週\t青光眼、個性與腦中風<br>第五週\t海洋性貧血<br>第六週\t原發性經痛與子宮內膜異位症的診斷與治療<br>第七週\t懷孕及幼兒用藥安全<br>第八週\t期中報告<br>第九週\t期中報告<br>第十週\t期中報告<br>第十一週\t相關影片賞析<br>第十二週\t成人用藥安全<br>第十三週\t成人用藥安全<br>第十四週 高壓氧治療簡介<br>第十五週\t相關影片賞析<br>第十六週\t分組報告（一）<br>第十七週\t分組報告（二）<br>第十八週\t分組報告（三）<br>",
+    "exams": {
+        "midterm": "個人口頭及書面報告",
+        "final": "兩人一組口頭報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "協助學生具備疾病與照護的專業知識。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "讓學生養成因應新事務與學習新知識的能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "協助學生了解個體可能發生的健康問題及其預防與照護。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "協助學生具備正確用藥常識並靈活運用其中的用藥知識於日常生活。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "協助學生能用心精讀，深究內容，並完整表達。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "使學生從認知家庭常見疾病培養關懷與同理心。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "平時成績（30%）: 課程參與度 (出席率)<br><br>期中成績 – 個人口頭及書面報告（35%）<br>           期初至期中上課主題內容之心得進行10分鐘口頭及書面報告<br>           (報告需上傳至flipclass平台才給分!)<br><br>期末成績 – 兩人一組口頭報告（35%）  <br>[請至華藝線上圖書館之 ★家庭醫學與基層醫療 或 ★食品藥物研究年報 選一篇文章研讀並進行20 min + powerpoint file 口頭報告]<br>"
+}

@@ -1,0 +1,149 @@
+{
+    "code": "30M21201",
+    "name": {
+        "zh": "自動光學檢測實務",
+        "en": "Automatic Optical Inspection"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研電子一甲",
+        "碩研電子一甲",
+        "碩電子產業一甲"
+    ],
+    "instructors": [
+        "方信普"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "J301"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "J301"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "J301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "目的:近因人力成本高昂，電子工廠對自動化檢測需求甚殷，加以校外實習被列為必修。本課程目的為教導自動化光學檢測的程式實作，增加同學就業與實習的學識能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. Visual Studio介紹與實作<br>2. 介紹C#, matlab, scilab有關 video與image processing 之toolbox<br>3. Visual C#與AForge.NET的使用與實作<br>4. 工業攝影機的介紹與實作<br>5. Visual C++與OpenCV的使用與實作<br>6. 總結實作:使用工業攝影機擷取即時影像，並簡單處理，取得檢測數據。",
+        "en": "1. Introduction to Visual Studio<br>2. Video and Image Processing<br>3. Using Visual C# and AForge.NET<br>4. Application of Industrial Camera<br>5. Using Visual c++ and Open CV<br>6. Real Time Image Processing and Measurement"
+    },
+    "weeklySchedule": "第一週 緒論，matlab 介紹\t<br>第二週 matlab 基本演算法、矩陣與圖檔的介紹<br>第三週 matlab 圖案的點與線座標、圖形比對<br>第四週 Edge, Erosion, and Dilation<br>第五週 Image Resize, Rotate, Subtract, and Defect<br>第六週 Visual C# 的初步<br>第七週 EmguCV 的初步<br>第八週 讀圖、顯示滑鼠之座標、圖之RGB<br>第九週 期中考<br>第十週 Image Rotate、Add、Substrate<br>第十一週 Histogram、Crop、and Match<br>第十二週 使用EmguCV 簡單處理圖形量測<br>第十三週 使用 EmguCV 尋找圖形之邊緣與量<br>第十四週 Blob的應用與在不同的Form 之間傳遞參數 <br>第十五週 攝影機的使用<br>第十六週 期末專題製作(一)<br>第十七週 期末專題製作(二)<br>第十八週 期末考",
+    "exams": {
+        "midterm": "實作",
+        "final": "實作",
+        "other": "不定時平時考、實作"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過實際操作，了解如何撰寫自動化光學檢測程式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "透過撰寫自動化光學檢測程式可解決工程問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學生可以自動化光學檢測程式學生必須看懂原文使用手冊",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "利用整合各種副程式解決自動化光學檢測問題",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "介紹自動化光學檢測相關網站，使學生能自行學習",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "課堂實做過程之互相觀摩、溝通與討論培養學生團隊合作之精神",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "講義",
+    "teachingSoftware": "Visual, AForge.Net, Emgucv",
+    "rules": "None<br>"
+}

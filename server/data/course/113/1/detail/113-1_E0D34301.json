@@ -1,0 +1,112 @@
+{
+    "code": "E0D34301",
+    "name": {
+        "zh": "商用日語會話(一)",
+        "en": "Business Japanese Conversation (I)"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應日三甲",
+        "四技應日三乙"
+    ],
+    "instructors": [
+        "中田綠"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "N504"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "N504"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.日語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在教授日本商務環境下的基本<br>對話，並學習日本商務禮儀和文化。",
+    "prerequisites": "日本語能力試験N2",
+    "syllabus": {
+        "zh": "１．敬語的複習與練習<br>２．日本商業環境中的基本對話（示例<br>：自我介紹　他人介紹　電話等）<br>３．應用場景的會話（示例：工作面試<br>會議、會議報告、簡報）<br>４．日本業務的基本知識和舉止禮儀（<br>示例：如何鞠躬、交換名片）",
+        "en": "１．敬語の復習と実践練習<br>２．日本のビジネスにおける様々な場<br>面の会話（例：自己紹介、他者の紹介<br>、電話）<br>３．応用場面での会話（例：就職の面<br>接、会議での報告、プレゼンテーショ<br>ン等）<br>４．日本のビジネスにおける基本的な<br>知識やマナー（例：お辞儀の仕方、名<br>刺交換のやり方など）"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "ビジネスの場面における最も基本的な場面の会話を、適切な表現を使って行えるようになる。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "日本の社会において求められる基本的知識やマナー、習慣などを理解する。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "日本企業において求められる習慣やマナーを理解するとともに、日本企業で働く心構えを理解する。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "ビジネスの場面で使われる単語や表現を習得する。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

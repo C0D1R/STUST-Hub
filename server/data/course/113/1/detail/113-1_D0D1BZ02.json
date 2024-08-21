@@ -1,0 +1,99 @@
+{
+    "code": "D0D1BZ02",
+    "name": {
+        "zh": "實務專題(一)",
+        "en": "Applied Projects (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技行流三乙"
+    ],
+    "instructors": [
+        "蔡雅玲"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過專題製作讓學生了解如何找資料來解決問題,每4-6位一組找一位指導老師每週與老師討論進度與所碰到的問題由老師指導及解惑,希望培養學生找問題及找資料解決問題的能力也培養學生寫報告及計劃的能力",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "指導學生各項專題成指導學生各項專題製作<br>(1)專題主題的創意與構思<br>(2)專題結構的設計與假設<br>(3)發現問題,搜尋資料文獻,解決問題<br>(4)建立可行解決方法<br>(5)完成專題製作",
+        "en": "guide students to fulfill team project<br>(1)topic of creative and thinking<br>(2)team project design and hypotheses<br>(3)find problems, gather data and literature, and solve problems<br>(4)to build methods of solution<br>(5)finish team projet"
+    },
+    "weeklySchedule": "分組討論",
+    "exams": {
+        "midterm": "分組討論",
+        "final": "分組討論",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能透過實務專題製作之過程，學習整合與解決問題之能力。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能分析與評估問題之各面向，進而發現問題之能規劃解決問題之方式。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能透過製作實務專題，並應用知識於實務能取得實務技能。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能體認工作態度與團隊合作在職場之重要性，並能接受分工合作的工作方式。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

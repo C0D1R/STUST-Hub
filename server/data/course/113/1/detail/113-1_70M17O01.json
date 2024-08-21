@@ -1,0 +1,148 @@
+{
+    "code": "70M17O01",
+    "name": {
+        "zh": "消費市場分析",
+        "en": "Consumer Market Analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研企管二甲"
+    ],
+    "instructors": [
+        "林育理"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S307"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S307"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "S307"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在現今激烈的商業競爭中，產品暢銷與否的因素不僅是產品本身的功能是否優異，消費者的消費行為、產品需求、產品定位、消費者市場區隔，甚至公司形象與媒體廣告的訴求等等，都影響了產品上市以後成功與否的命運。因此，在行銷上除了行銷人員的企劃經驗外，客觀、精確的市場分析資訊對於決策者的判斷和決定提供不可或缺輔助工具，如何利用科學、系統化的資料分析技術以得到: 潛在客戶群的特質，客戶對產品功能的需求，產品的定位，客戶的消費習性 以適當的時機，提供適當的產品給適當的客戶，實在是消費市場分析不可或缺的課題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、 資料分析的重要性與其發展概況<br> 1.為何需要資料分析?<br> 2.資料分析與資料處理的不同<br> 3.資料分析作些什麼事? <br>二、 資料分析在個人消費市場行銷的應用<br> 1.發掘客戶群的特質(現有客戶或潛在客戶)<br> 2.客戶區隔<br> 3.客戶消費行為的型態 <br>三、實例分析<br> 1. 案例說明與分析 <br>",
+        "en": "(1)\tOverview the data analysis and development <br>  1 Why do we need data analysis? <br>  2. Data analysis and data processing different<br>  3 Data Analysis for what happened? <br>(2)The data analysis in the consumer marketing applications <br>1.\tExplore the nature of the customer base (existing customers or potential customers) <br>  2 Customer Segmentation <br>  3 customer consumption behavior patterns <br>(3)The case study <br>  1 Case Description and Analysis<br>"
+    },
+    "weeklySchedule": "第一週：課程介紹與基礎概念<br>課程介紹、教學目標、評分標準<br>消費市場分析的基本概念<br>主要研究方法概述<br>第二週：消費者行為理論<br>消費者決策過程模型<br>影響消費者行為的內外部因素<br>心理學與社會學在消費者行為中的應用<br>第三週：市場區隔與定位<br>市場區隔的意義與方法<br>消費者區隔變數與指標<br>市場定位與品牌策略<br>第四週：資料收集與分析方法<br>主要與次要資料收集技術<br>調查問卷設計與資料收集工具<br>定量與定性資料分析方法<br>第五週：統計分析與SPSS應用<br>描述性統計與推論性統計<br>迴歸分析與因素分析<br>使用SPSS進行資料分析<br>第六週：消費者洞察與行銷策略<br>消費者洞察的獲取與分析<br>行銷策略的制定與評估<br>案例研究：成功的行銷策略分析<br>第七週：數位行銷與社交媒體分析<br>數位行銷的基本概念與策略<br>社交媒體資料分析方法<br>社交媒體行銷策略制定<br>第八週：大數據與人工智慧在市場分析中的應用<br>大數據技術的應用<br>人工智慧與機器學習在市場分析中的角色<br>案例研究：大數據與AI在市場分析中的應用<br>第九週：消費者滿意度與忠誠度分析<br>消費者滿意度的測量與分析<br>消費者忠誠度的建立與維護<br>問卷設計與統計分析方法<br>第十週：國際市場與文化差異<br>國際市場分析方法<br>文化差異對消費者行為的影響<br>全球行銷策略的制定與實施<br>第十一週：實地研究與市場調查<br>實地研究方法<br>田野調查的設計與實施<br>案例研究：實地研究報告撰寫<br>第十二週：研究報告與成果展示<br>研究報告的撰寫與結構<br>研究成果的展示與溝通技巧<br>期末報告展示與評估",
+    "exams": {
+        "midterm": "口頭報告或考試",
+        "final": "口頭報告或考試",
+        "other": "其他"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解消費市場的相關知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能針對消費市場問題有效辨識問題所在",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用消費市場知識於工作上",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能體認與他人團隊合作對於完成任務的重要性",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能消費市場分析，並撰寫消費市場計畫",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能統整相關消費市場問題，提出解決方案",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "參考書籍與學術文章",
+    "teachingSoftware": "",
+    "rules": ""
+}

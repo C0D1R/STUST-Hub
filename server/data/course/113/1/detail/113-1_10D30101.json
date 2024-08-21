@@ -1,0 +1,144 @@
+{
+    "code": "10D30101",
+    "name": {
+        "zh": "機器人應用",
+        "en": "Applications of Robotics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控三甲",
+        "四技自控三乙",
+        "四技製造三甲",
+        "四技製造三乙",
+        "四技車輛三甲",
+        "四技車輛三乙"
+    ],
+    "instructors": [
+        "吳敏光"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "K408"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "K408"
+        },
+        {
+            "day": "週五",
+            "period": "第9節",
+            "location": "K408"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程包含各種工業機器人之規格與結構介紹，了解各種致動器與感測元件，學習夾爪與工具之選用與整個工作單元之設計，並介紹工業上的各種應用實例以及如何操控機械手臂等",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1. 工業機器人之種類、規格與結構<br>2. 機器人之控制系統、動力傳動系統與致動器<br>3. 位置與速度感測器<br>4. 機器人之夾爪與臂端工具<br>5. 觸覺、力量感測器，各種近接感測器<br>6. 機器人工作單元之佈置與控制<br>7. 視覺系統<br>8. 機器人之各種應用<br>9. 機器人程式語言與操控<br>",
+        "en": "1. Introduction of industrial robots, specifications and structures<br>2. Control systems, transmission and actuators of robots<br>3. Position and velocity sensors<br>4. Grippers and tools of robots<br>5. Touch and tactile sensors, force sensors, proximity sensors<br>6. Layout and control of work cells<br>7. Vision systems<br>8. Applications of robotics<br>9. Programming and operating of robots<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解工業機器人之組成元件、種類、規格與結構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解工業機器人之各種夾爪與臂端工具",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解工業機器人系統之感測器功能與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解工業機器人系統工作單元之佈置與控制",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解工業機器人之各種應用、程式語言與操控",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解工業機器人專業用之英文名詞",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

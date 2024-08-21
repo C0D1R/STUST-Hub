@@ -1,0 +1,124 @@
+{
+    "code": "60D31201",
+    "name": {
+        "zh": "國際人力資源管理",
+        "en": "International Human Rource Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國企四甲",
+        "四技國企四乙"
+    ],
+    "instructors": [
+        "許竹君"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "S516"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "S516"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "S516"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "For students to understand and apply the International Human Rource Management functions",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Ch1 國際人力資源管理所面對的情境<br>Ch2 組織情境<br>Ch3 國際企業持續性的營運<br>Ch4 海外派讉員工的招募與甄選<br>Ch5 訓練與發展<br>Ch10績效管理<br>Ch6 報償<br>Ch7 回任與職涯議題<br>期末考",
+        "en": "Ch1 the surrounding of IHRM <br>Ch2 Organizational context<br>Ch3 Sustained operation<br>Ch4 The expatriate recruitment and selection<br>Ch5 Training and development<br>Ch10 Performance management<br>Ch6 Compensation<br>Ch7 Repatriation and career issues<br>Final"
+    },
+    "weeklySchedule": "Week 01\tCh 1緒論 (1)<br>Week 02\tHoliday <br>Week 03\tCh 1緒論 (2)<br>Week 04\tCh 2 國際人力資源管理的文化情境 (1)<br>Week 05\tTeam 1、Ch 2 國際人力資源管理的文化情境 (2)<br>Week 06\tTeam 2、Ch 3 組織情境 (1)<br>Week 07\tTeam 3、Ch 3 組織情境 (2)<br>Week 08\tTeam 4、Ch 5 全球市場的人力資源招募 (1)<br>Week 09\tMidterm<br>Week 10\tCh 5 全球市場的人力資源招募 (2)<br>Week 11\tTeam 5、Team 6、Ch 6 國際績效管理 (1)<br>Week 12\tTeam 7、Ch 6 國際績效管理 (2)<br>Week 13\tTeam 8、Ch 7 國際訓練、發展與職涯 (2)<br>Week 14\tTeam 9、Ch 7 國際訓練、發展與職涯 (3)<br>Week 15\tTeam 10、Ch 8 國際報償 (1)<br>Week 16\tTeam 11、Ch 8 國際報償 (2)<br>Week 17\tTeam 12、Ch 10國際人力資源管理趨勢與未來挑戰<br>Week 18\tTerm Paper",
+    "exams": {
+        "midterm": "期中考試",
+        "final": "期末報告",
+        "other": "課堂表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "讓學生能了解國際人力資源管理的基本架構。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "陳述國際人力資源管理的實務資訊。",
+            "teachingMethods": [
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "讓學生學習統整特定主題之重點、製作簡報資料以及表達。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "讓學生能參與合作，學習與他人溝通、協調及整合不同的意見。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "國際人力資源管理",
+        "author": "胡承楷",
+        "publisher": "滄海書局",
+        "year": "2018",
+        "ISBN": "9789869508261",
+        "edition": "第七版"
+    },
+    "referenceBooks": "國際人力資源管理：以多國籍企業的觀點探討人力資源管理(第六版) (Dowling 6/e)，胡承楷譯，2014年，滄海書局。<br>國際人力資源管理：以多國籍企業的觀點探討人力資源管理(第五版)(Dowling 5/e)，胡承楷/李國瑋/陳冠浤譯，2010年，滄海書局。<br><br>",
+    "teachingSoftware": "Office",
+    "rules": "none"
+}

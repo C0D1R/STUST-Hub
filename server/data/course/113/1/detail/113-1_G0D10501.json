@@ -1,0 +1,141 @@
+{
+    "code": "G0D10501",
+    "name": {
+        "zh": "Linux程式設計",
+        "en": "Linux Programming"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資工三甲",
+        "四技資工三乙",
+        "四技資工三丙"
+    ],
+    "instructors": [
+        "馮治平"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "C304"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "C304"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "C304"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為進階程式設計課程，將引導學生由一般程式設計，進入Linux程式設計範疇，使學生熟悉Linux系統下之程式設計環境與基本技巧。",
+    "prerequisites": "C 程式設計, C++ 程式設計, Linux 系統概論",
+    "syllabus": {
+        "zh": "1. Linux 系統回顧與自由軟體授權介紹<br>2. Linux 指令回顧與程式設計環境簡介<br>3. gcc/g++ 簡介<br>4. C/C++ 進階程式設計與實例練習 (使用 gcc/g++)<br>5. 除錯與開發工具簡介<br>6. Linux 函示庫建構 – 靜態與分享<br>7. Shell Script 簡介<br>8. Makefile 簡介<br>9. 函式庫編譯與使用<br>10. Linux 檔案處理<br>11. Linux 視窗程式設計",
+        "en": "<br>1. Introduction of Linux and free software Licensing<br>2. Review of shell commands and programming environment<br>3. Introduction of gcc/g++<br>4. Advanced C/C++ programming (using gcc/g++)<br>5. Debug and development tools<br>6. Building Linux library - static and shared<br>7. Shell script<br>8. Makefile<br>9. Building 3rd-party libraries<br>10. Linux file processing<br>11. Window programming in Linux"
+    },
+    "weeklySchedule": "第一週 課程簡介<br>第二週 基本指令介紹<br>第三週 何謂 shell<br>第四週 linux 常見的工具: cut grep sort uniq tr sed<br>第五週 命令及變數<br>第六週 Quote<br>第七週 傳入參數<br>第八週 條件<br>第九週 期中考<br>第十週 廻圈<br>第十一週 基本輸入<br>第十二週 環境變數<br>第十三週 參數進階<br>第十四週 I/O 進階<br>第十五週 陣列<br>第十六週 function<br>第十七週 job control<br>第十八週 期末考",
+    "exams": {
+        "midterm": "上機實測",
+        "final": "上機實測",
+        "other": "不定期以實作方法小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能操作命令列形式的 Linux 系統",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能善用 Linux 系統上的程式設計工具",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解若干 Linux 系統程式設計的模組",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能建立可執行的 Linux 應用程式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能養成良好的系統程式設計習慣",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能注意 Linux 軟體授權的概念與影響",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Unix Shell Programming (3rd Edition)",
+        "author": "Stephen G. Kochan",
+        "publisher": "SAMS",
+        "year": "2003",
+        "ISBN": "0-672-32490-3",
+        "edition": "3"
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "期中，期末上機實測"
+}

@@ -1,0 +1,139 @@
+{
+    "code": "40D1AI01",
+    "name": {
+        "zh": "化學實驗(一)",
+        "en": "General Chemistry Practice (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專化材一甲"
+    ],
+    "instructors": [
+        "黃常寧"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "I0601"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "I0601"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "I0601"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程藉由實驗來驗證普通化學課程中之基本原理與定律，讓理論與實驗能相互印證。另一方面訓練學生基本的實驗操作技巧，養成實事求是的科學精神與態度。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 化學實驗室安全演練<br>2. 實驗室常用器具的操作<br>3. 簡單玻璃細工<br>4. 物質的分離與精製<br>5. 熔點測定<br>6. 固體比重測定<br>7. 化合物化學式的測定<br>8. 質量守恆定律<br>9. 氧的製備與性質<br>10. 二氧化碳的製備與性質<br>11. 氣體體積與溫度關係的驗證<br>12. 硬水檢測與軟化<br>13. 固體溶解度與再結晶<br>14. 膠體溶液性質與凝析<br>",
+        "en": "1. Chemistry Laboratory Safety Drill<br>2. Operation of common laboratory equipment<br>3. Simple Glasswork<br>4. Separation and Refinement of Substances<br>5. Melting point determination<br>6. Determination of solid specific gravity<br>7. Determination of chemical formula of compounds<br>8. The law of conservation of mass<br>9. Preparation and Properties of Oxygen<br>10. Preparation and Properties of Carbon Dioxide<br>11. Verification of the relationship between gas volume and temperature<br>12. Hard water detection and softening<br>13. Solid Solubility and Recrystallization<br>14. Colloidal solution properties and coagulation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解實驗所使用到的化學與材料工程相關專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能執行實驗並分析及解釋實驗數據",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能使用工具與儀器",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能融入團隊並能完成自己所分擔的實驗工作並能清楚說出自己的實驗結果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能分工合作如期完成一份專題報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用網際網路平台收集並研讀相關資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

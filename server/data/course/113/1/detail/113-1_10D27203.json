@@ -1,0 +1,136 @@
+{
+    "code": "10D27203",
+    "name": {
+        "zh": "計算機程式及實習(一)",
+        "en": "Computer Program Design and Experiment (I)"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "四技製造一甲",
+        "四機械國專一甲"
+    ],
+    "instructors": [
+        "林克默"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "E0202"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "E0202"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "本課程主要目標在教授程式設計及程式語言，以計算機硬體及軟體之基本介紹為始，逐步引入程式設計的觀念與方法。用程式語言的實作，由簡單的程式基本流程，透過範例程式學習程式設計技巧，同時輔以程式設計過程所應注意之程式結構、偵錯的基本概念，使得初學者具有紮實和獨立程式設計能力。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.概論<br>2.資料型別、運算子與輸出入<br>3.選擇結構<br>4.反覆及迴圈結構<br>5.陣列與字串<br>",
+        "en": "1.Introduction<br>2.Data Types, Operator, Input and Output<br>3.Selection Structures<br>4.Repetition and Loop Structures<br>5.Array and String<br>"
+    },
+    "weeklySchedule": "第1~2周、概論，瞭解軟體的種類、程式語言發展、程式原理與軟體架構介紹、環境設定與操作 <br>第3~5周、程式語言的基本架構，基本資料型態、變數、常數、運算式、輸入與輸出指令、程式流程設計<br>第6~9周、選擇結構，邏輯判斷指令、各式選擇指令<br>第10~14周、反覆及迴圈結構，各式反覆及迴圈指令<br>第15~18周、陣列與字串，一維陣列、多維陣列、初值設定、搜尋與排序",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉計算機程式語言的基本工作原理。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習程式語言的基本架構(含資料型態宣告、算術運算、輸入與輸出基本等指令)",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建立撰寫程式設計的基礎能力(含程式設計流程、編輯、偵錯與執行等)。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "具備發展程式解決問題之能力(透過範例程式學習程式設計技巧，利用反覆及迴圈等指令解決之數學或工程實務上問題)。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀電腦程式專業用之英文資料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Python基礎必修課",
+        "author": "蔡文龍等",
+        "publisher": "碁峯",
+        "year": "2020",
+        "ISBN": "9789865022921",
+        "edition": "第二版二刷"
+    },
+    "referenceBooks": "第一次學Python就上手，陳惠貞，旗標<br>",
+    "teachingSoftware": "無",
+    "rules": "無"
+}

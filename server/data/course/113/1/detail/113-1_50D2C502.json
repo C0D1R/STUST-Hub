@@ -1,0 +1,139 @@
+{
+    "code": "50D2C502",
+    "name": {
+        "zh": "創意與創新管理",
+        "en": "Creative And Innovative Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電商二甲"
+    ],
+    "instructors": [
+        "曾碧卿"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "T0803"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0803"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "T0803"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要內容在於說明創意的價值，透過解釋創意思維與運用，進而將創意生活化、工作化與實用化，讓學生了解創意並非遙不可及或僅是單純的天馬行空之想像，進而體會創意對於企業營運的價值。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.\t創意的定義<br>2.\t從個人到團隊的創意 <br>3.\t創意義統：管理與產業之意涵<br>4.\t創意的駕馭<br>5.\t創意軌跡<br>6.\t企業發展與組織變革<br>7.\t從創意行銷到創意消費",
+        "en": "1.\tDefining Creativity<br>2.\tFrom Individuals to Processes: Creative Teams and Innovation<br>3.\tCreative Systems: Implications for Management and Policy in the Creative Industries<br>4.\tManaging Creative Work through Release and Control<br>5.\tSeeing the Pattern<br>6.\tBusiness Development and Organizational Change<br>7.\tFrom Creative Marketing to Creative Consumption"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "運用實務案例說明，時學生了解創意思考在管理上之應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用實務案例說明，時學生了解創意思考在管理上之應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用多元性啟發方式，培養學生創意思考之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用多元性啟發方式，培養學生創意思考之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "實務教案，讓學生以集思廣益之方式模擬創新、創業之企劃。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生應用課堂所學，培養參加｢三創｣競賽之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

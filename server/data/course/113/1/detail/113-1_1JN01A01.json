@@ -1,0 +1,134 @@
+{
+    "code": "1JN01A01",
+    "name": {
+        "zh": "高齡休閒設計與旅遊規劃",
+        "en": "Leisure Design and Tourism Planning"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜二技高福四甲"
+    ],
+    "instructors": [
+        "蘇榮堯"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第11節",
+            "location": "O403"
+        },
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "O403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程就銀髮族的特性來探討其餐飲、住宿、休閒及旅遊觀光的需求及管理，使學習者瞭解餐旅觀光休閒產業對於銀髮族的生活中所扮演的角色，以提昇銀髮族的生活品質",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.銀髮族休閒旅遊之現況<br>2.休閒旅遊資源之運用<br>3.銀髮族旅遊事前規劃<br>4.銀髮族旅遊食衣住行問題<br>5.銀髮族旅遊之推廣<br>6.國內外銀髮族旅遊景點<br>7.旅遊過程領隊、導覽技巧",
+        "en": "1. Current status of leisure travel for the silver-haired<br>2. Use of leisure tourism resources<br>3. Silver Hair Tourism Planning<br>4. Silver-haired travel, food, clothing and transportation<br>5. Promotion of Silver Hair Tourism<br>6. Tourist attractions at home and abroad<br>7. Tour leader and tour guide skills"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "銀髮族餐飲",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "銀髮族居住需求",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "銀髮族住宿規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "銀髮族旅遊需求",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "銀髮族旅遊規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "銀髮族旅遊型態",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

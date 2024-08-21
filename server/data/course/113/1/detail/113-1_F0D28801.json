@@ -1,0 +1,128 @@
+{
+    "code": "F0D28801",
+    "name": {
+        "zh": "新聞編採實務",
+        "en": "News Writing and Editing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資傳二甲",
+        "四技資傳二乙"
+    ],
+    "instructors": [
+        "梁丹青"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0402"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "W0402"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "W0402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程安排：本課程將延續新聞寫作課程，加強同學在新聞寫作的功力還有新聞專題的企劃能力，另外包括電子媒體新聞的編輯製作流程以及平面媒體的編輯製作流程，都將是本課程的教學重點。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、新聞專題企劃書的撰寫。<br>二、新聞稿的分類及寫作方式。<br>三、新聞專題的寫作。<br>四、標題製作。<br>五、稿件的來源及處理。<br>六、新聞版面配製。<br>七、圖片及美術編輯。<br>八、電子媒體的編輯流程工作<br>九、網路新聞編輯。<br>",
+        "en": "1 News Feature Planning and Writing<br>2 Writing different types of press release <br>3 Reporting and Writing News Feature<br>4 News Headlines <br>5 News sources and handling of news manuscripts.<br>6 Creative News Page layout <br>7 Art Editorial: Illustration and photographs.<br>8 Editorial process of electronic media<br>9 Online news editing.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "強化同學的新聞採訪及寫作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉電子媒體及平面媒體的編輯與採訪流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過實作培養學生團隊合作能力與獨立編採能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "發掘、規劃及分析新聞議題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立學生新聞編採專業倫理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

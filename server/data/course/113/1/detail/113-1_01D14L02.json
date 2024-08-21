@@ -1,0 +1,111 @@
+{
+    "code": "01D14L02",
+    "name": {
+        "zh": "基礎職場英文溝通(一)",
+        "en": "Success with English 5"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專化材三甲",
+        "五專資工三甲"
+    ],
+    "instructors": [
+        "廖淑瑛"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "D203"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "D203"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This is the 3rd year of a course for teenagers which will give a mix of real-life practical English lessons and academic skills to enable students to bridge the gap between junior high school English and pragmatic, university level English skills for the 21st century global student.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Students will be able to develop the following vocabulary skills:<br>1. Talk about hobbies<br>2. ask questions about famous people<br>3. Describe works of art<br>4. Describe people<br>5. Explaining what things are for<br>6. Describing events<br>Midterm and final examinations are based on the Cambridge PET/FCE English exams at CEFR B1",
+        "en": "Students will be able to develop the following vocabulary skills:<br>1. Talk about hobbies<br>2. ask questions about famous people<br>3. Describe works of art<br>4. Describe people<br>5. Explaining what things are for<br>6. Describing events<br>Midterm and final examinations are based on the Cambridge PET/FCE English exams at CEFR B1."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "英語口語能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "英語聽力技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "與人面對面的用英語對話",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習用英語聆聽簡短對話、交談及宣導",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

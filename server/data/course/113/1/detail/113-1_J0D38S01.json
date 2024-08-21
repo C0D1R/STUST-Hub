@@ -1,0 +1,139 @@
+{
+    "code": "J0D38S01",
+    "name": {
+        "zh": "商業模型製作",
+        "en": "Business Model Making"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技商設二乙"
+    ],
+    "instructors": [
+        "郭志忠"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0701"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "W0701"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "W0701"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為模型進階課程，藉由不同媒材的應用，與市場分析製作出模具，並運用各種翻模技巧，創作屬於自己的模型設計。<br>This course is an advanced model course, through the application of different media and market analysis.<br>Make molds and use various molding techniques to create your own model designs.<br>",
+    "prerequisites": "需先修習並通過「表現技法類」之手繪基礎課程",
+    "syllabus": {
+        "zh": "1.食品模型的歷史起源與發展<br>2.食品模型市場分析<br>2.認識模型製作材質<br>3.翻模技巧體驗(矽膠)<br>4.模型組合上色技巧<br>5.樹脂藝術模型創作",
+        "en": "1. Food models’ history and development.<br>2. Food model market analysis<br>2. Understand model making materials<br>3. Experience of mold turning skills (silicone)<br>4. Model combination coloring skills<br>5. Resin art model creation"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識食品模型基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識模型製作材料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "市場分析與討論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "翻模技巧與模具應用創作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用材質創作模型技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養具備設計美學與責任",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

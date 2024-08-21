@@ -1,0 +1,139 @@
+{
+    "code": "K0N17L01",
+    "name": {
+        "zh": "智慧財產權與專業倫理",
+        "en": "Intellectural Property Discipline"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技多樂四甲"
+    ],
+    "instructors": [
+        "徐良維"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "W0408"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "W0408"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "W0408"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "科技創新進步，使得科技再配合或主導社會活動發展之際，也與規範社會活動之法律產生互動，經由科技衍生的相關議題，逐形成「法律與科技」此一課程。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、認識智慧財產權<br>(1)智慧財產權的基本涵義<br>(2)智慧財產權的分類<br>(3)智慧財產權的現況<br>二、商標權<br>(1)商標的意義<br>(2)商標的申請<br>三、著作權<br>(1)著作權 (一)<br>(2)著作權 (二)<br>四、營業秘密<br>(1)營業與商業秘密<br>(2)公平交易法規<br>五、專利權<br>(1)專利權<br>(2)專利說明書<br>(3)專利侵權<br>六、數位專利授權<br>(1)數位世界的著作權<br>(2)數位世界的授權規則<br>(3)個案分析與討論<br>",
+        "en": "1. Intellectual property rights<br>2. Trademark rights<br>3. Copyright<br>4. Business secrets<br>5. Patent rights<br>6. Digital patent authorization"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "智慧財產權概要",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "著作權",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "商標權",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "專利權",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "智財權管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "智財權法律案例分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

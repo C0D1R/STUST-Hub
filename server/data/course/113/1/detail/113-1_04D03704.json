@@ -1,0 +1,167 @@
+{
+    "code": "04D03704",
+    "name": {
+        "zh": "體育生活(三)：羽球(D)",
+        "en": "Physical Education(III)：Badminton"
+    },
+    "credit": "1",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "四技醫電二甲",
+        "四技電資二甲",
+        "四技控晶二甲",
+        "四技控晶二乙",
+        "四技國商二甲",
+        "四技資管二甲",
+        "四技資管二乙",
+        "四技資管二丙",
+        "四技創設二甲"
+    ],
+    "instructors": [
+        "傅慧榕"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": ""
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.基本動作綜合練習<br>2.規則及裁判法 <br>3.單雙打戰術之運用 <br>4.分組循環比賽",
+    "prerequisites": "注意事項:\n1. 術科測驗60%(期中考30% 期末考30%) 筆試20% 平時20% \n2. 穿著運動服及運動鞋\n3．準時上下課\n4. 上課前熱身運動減少運動傷害\n5. 上課認真學習、上課時間不可用餐、抽煙等。",
+    "syllabus": {
+        "zh": "第一週<br>1. 介紹課程大綱及各項注意事項。<br>2. 場地分配、車輛停放地點排練整齊。<br>3. 器材準備確實，加強球拍、球的選購。<br>4. 加強穿著運動服裝，準時上、下課。<br><br>第二~七週<br>1. 複習上學期所學基本動作。<br>2. 加強上課前的熱身動作，減少運動傷害。<br>3. 正、反拍、短球、發球講解示範說明。<br>4. 發球重點說明 (說明測驗要點)。<br>5. 各種擊球方式及步法移動介紹。<br><br>第八、九週<br>期中考<br>發球測驗 (雙打發球區分六等份，10, 9, 8, 7, 6, 5, 每人發10球)<br><br>第十~十五週<br>1. 場地介紹 (單打)。<br>2. 規則說明 (單打)。<br>3. 單、雙打分析，戰略說明。<br>4. 殺球介紹示範，分組練習。<br><br>第十六~十七週<br>期末考<br>雙打分組比賽測驗 (裁判、擊球法、比賽反應、步法移位動作、規則等)。",
+        "en": "Week 1<br>1. Course introduction<br>2. Grouping<br>3. Reminding of purchasing the racket and shuttles.<br>4. Appropriate sportswear and being in class on time. <br><br>Week 2 ~ Week 7 <br>1. Review skills learned during the last semester.<br>2. Warm-up before starting in order to reduce injuries.<br>3. Demonstration on forehand and backhand grips as well as serve. <br>4. Key points on serving.<br>5. Introduction on hitting methods and footwork.<br><br>Week 8 ~week 9<br>Mid-term <br>Service test (6 scoring areas draw in doubles service area) every one has 10 shuttles   <br><br>Week 10 ~ week 15<br>1. Introduction of singles<br>2. Introduction of rules of singles<br>3. Analysis on singles and doubles<br>4. Demonstration on smashing and practice<br><br>Week 16~ week 17<br>Final test        <br>Doubles (play, umpire, hitting, game reaction, footwork, rules)<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過羽球其運動的正確學習，提升個人的體適能及正確的運動態度與技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過羽球運動技巧的訓練，養成終生運動的習慣，享受高齡化的社會",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過羽球運動尋找適合的球伴，以從中培養良好的人際關係及健康的生活",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "從羽球比賽養成與他人互動和發展友誼的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過羽球比賽養成與他人互動和發展友誼的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由羽球比賽，訓練個人的抗壓性及情緒管理，進而培養勝不驕敗不餒的運動精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過羽球運動培養團隊精神，以團體的目標強化團隊的互助合作精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由羽球比賽及影片欣賞，培養對運動藝術與美個欣賞能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

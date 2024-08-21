@@ -1,0 +1,116 @@
+{
+    "code": "80D16901",
+    "name": {
+        "zh": "個體經濟學",
+        "en": "Microeconomics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技財金二甲",
+        "四技財金二乙"
+    ],
+    "instructors": [
+        "何啟銘"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "S413"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "S413"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S413"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "個體經濟學為基礎經濟學的延伸，其內容為將基礎經濟學中屬於個體經濟的部份做更深入的探討，其所使用的數學也較基礎經濟學為多，另外也會針對一些基礎經濟學所沒有的主題來進行探討，像是不確定下的消費行為、特殊效用函數…等。",
+    "prerequisites": "基礎經濟學",
+    "syllabus": {
+        "zh": "個體經濟學<br>一、供給與需求<br>二、無異曲線<br>三、預算線與消費者均衡<br>四、需求曲線的導出<br>五、勞動供給線的導出<br>六、特殊效用函數<br>七、不確定下的消費者行為<br>八、生產函數<br>九、成本函數<br>十、完全競爭市場<br>",
+        "en": "1.Supply and Demand<br>2.Indifference Curves<br>3.Budget Constraint and Consumers’ equilibrium<br>4.Deriving Demand Curves<br>5.Deriving Labor Supply Curves<br>6.Special Utility Function<br>7.Choice in Uncertain Situations<br>8. Production Function<br>9.Cost Function<br>10.Perfectly Competitive Market<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解個體經濟學知識在財務領域的基本學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用個體經濟學知識在財務相關領域的分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用個體經濟學知識來評估投資計畫的可行性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能結合電腦程式能力與個體經濟學知識解決財金相關問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

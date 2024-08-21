@@ -1,0 +1,120 @@
+{
+    "code": "1PD02C01",
+    "name": {
+        "zh": "國際鏈結社區實務",
+        "en": "An International Touch to Local Community Practice"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "綜合實踐領域"
+    ],
+    "instructors": [
+        "楊晴絨"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "N309"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "N309"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "N309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為青銀共創大學社會責任計畫項下之課程．主要目的有二，其一為攜手學生研發「銀向英語桃花源」系列教學節目，並至社區實踐帶領長輩「烙英語」活動；其二為透過浸潤式學習，提供學生應用生活實用英語機會，跟著老人囡仔一起玩勝英語。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "I.中高齡學習者特性與成人教學法<br>II.在地社區銀髮族英語教學影片及有聲書<br>III.跨域團隊專案管理 <br>",
+        "en": "I.Characteristics of middle-aged and elderly learners and andragogy<br>II.Community-based English programs and podcasts for the elderly<br>III.The practice of project management of cross-disciplinary teams<br>"
+    },
+    "weeklySchedule": "第一週\t大學社會責任 (USR: A~Z) + 青銀共創實踐場域社區介紹<br>第二週\t英文學習經驗分享與反思 + 英語破冰及啟航 + 專案管理須知<br>第三週\t中高齡學習者 (50+ Adult learners) + 成人教學法 (Andragogy)<br>第四週\t分組實踐場域社區踏查：長輩英語場景需求評估<br>第五週\t社區長輩英語應用場景需求評估報告<br>第六週\t~<br>第十五週<br>        1.\t展開「銀向英語桃花源」教學影片及播客(國、台、英語夾雜故事)系列企劃與製作<br>        2.\t共6專案：鯤鯓教學影片(KV)、鯤鯓有聲書(KP)、金華教學影片(JV)、金華有聲書(JP) 、 南美<br>                教學影片(NV)、南美有聲書(NP)<br>        3.\t預計每一集耗時9~12小時製作完成，隨即將教學影片或播客傳給社區合作相關單位，如工作站<br>                或里長或社區發展協會等推廣教學<br>第十六週\t銀向英語桃花源：鯤鯓篇 鯤鯓社區青銀相見歡活動<br>第十七週\t銀向英語桃花源：金華篇 金華社區青銀相見歡活動<br>第十八週\t銀向英語桃花源：南美篇 南美社區青銀相見歡活動<br>",
+    "exams": {
+        "midterm": "reflection journal",
+        "final": "Performance",
+        "other": "N/A"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "探究 中高齡學習者 特性 與成人教學法",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "研發 實踐場域 社區 銀髮族英語教學 影 片及有聲書",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "養成 跨域團隊專案管理知能",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "實踐大學社會責任",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "N/A",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "號召對英語、創作、傳媒、社區服務有興趣、熱誠之大學生20名"
+}

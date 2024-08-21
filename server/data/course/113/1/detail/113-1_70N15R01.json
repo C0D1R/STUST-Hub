@@ -1,0 +1,133 @@
+{
+    "code": "70N15R01",
+    "name": {
+        "zh": "經濟學",
+        "en": "Economics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "夜企管產攜一甲"
+    ],
+    "instructors": [
+        "李東杰"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "S207"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S207"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "S207"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在討論市場交易的原理，特別是完全競爭市場。若市場有其他條件改變時，消費者與生產者之間的交易行為，將如何受到影響。此外，也將介紹政府的價格措施干預市場，對消費者福利(消費者剩餘)與生產者福利(生產者剩餘)的影響。<br>The topics of course are to discuss the principles of market transaction, especially in the perfectly competitive market. If there are other conditions to change in market, the transactions between consumers and producers will how to be affected. Moreover, the course will also introduce the governmental price policies how to affect the both consumer’s welfare (consumer’s surplus) and producer’s welfare (producer’s surplus) of market.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.交易利得。<br>2.需求與供給。<br>3.市場變動分析。<br>4.彈性分析。<br>5.政府政策的干預。<br>6.市場福利分析。<br>7.生產理論。<br>8.成本理論。<br>9.完全競爭市場。<br>",
+        "en": "1.Gains from Trade.<br>2.Demand and Supply.<br>3.Change Analysis of Market.<br>4.Elasticity Analysis.<br>5.Government Policies Intervening in Markets.<br>6.Analysis of Market welfare.<br>7.Production Theory.<br>8.Cost Theory.<br>9.Perfect Competitive Market.<br>"
+    },
+    "weeklySchedule": "第一週~第九週是\"經濟學\";第十週~第十八週是\"管理經濟\"。<br><br>第 1週、課程簡介：(1)章節介紹。(2)成績計算說明。(3)上課方式說明。(4)學習方法說明：勤做筆記，數位學習平台的選擇題測驗、作業要做。<br>       第一章 交易利得(一)。<br>第 2週、第一章 交易利得(二)。<br>第 3週、第二章 供給與需求(一)。<br>第 4週、第二章 供給與需求(二)---市場變動分析。<br>第 5週、期中考。<br>第 6週、第三章 彈性分析(一)。<br>第 7週、第三章 彈性分析(二)。<br>第 8週、第四章 政府政策干預。<br>第 9週、期末考。",
+    "exams": {
+        "midterm": "筆試(第5週)",
+        "final": "筆試(第9週)",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解市場交易的基本理論",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "對市場變動的影響，能利用經濟學知識提出決策",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "對市場變動的影響，能利用經濟學知識進行分析",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "應付各種證照在有關經濟學的考試",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自行設計講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "修課學生須注意:<br>1.每章結束都會進行Flipclass平台的選擇題測驗,未測驗者該章成績一定0分。<br>2.每章結束都會有作業要繳交,未交者該章作業成績一定0分。"
+}

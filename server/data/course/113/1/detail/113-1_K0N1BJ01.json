@@ -1,0 +1,139 @@
+{
+    "code": "K0N1BJ01",
+    "name": {
+        "zh": "遊戲機制與心理",
+        "en": "Game Mechanism psychology"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技多樂二甲"
+    ],
+    "instructors": [
+        "楊智傑"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "W0603"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "W0603"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "W0603"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學習遊戲機制之設計概念與技巧<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 玩家與動機<br>2. 遊戲規則與挑戰<br>3. 遊戲世界的構成<br>4. 遊戲平衡<br>5. 進程與關卡設計<br>6. 獎勵與成就機制",
+        "en": "1. Player and motivation<br>2. Game rules and challenges<br>3. The construction of game world<br>4. Game balancing<br>5. Process and level design<br>6. Game Reward Systems and achievement mechanic"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1. 玩家與動機",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2. 遊戲規則與挑戰",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3. 遊戲世界的構成",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4. 遊戲平衡",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5. 進程與關卡設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6. 獎勵與成就機制",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

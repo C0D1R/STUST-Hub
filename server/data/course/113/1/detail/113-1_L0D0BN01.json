@@ -1,0 +1,139 @@
+{
+    "code": "L0D0BN01",
+    "name": {
+        "zh": "半導體設備實務",
+        "en": "Practice of the Semiconductor Equipments"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技半導體三甲"
+    ],
+    "instructors": [
+        "黃俊傑"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0402"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "W0402"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "W0402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在建立學生對於半導體設備的基礎認知與實務應用，內容包括高溫擴散爐管、真空薄膜、離子佈植、光微影、電漿蝕刻、封裝等設備之硬體架構，與這些設備在積體電路製程的整合應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 積體電路製作簡介<br>2. 高溫擴散爐管設備<br>3. 薄膜沉積設備與實務<br>4. 離子佈植設備<br>5. 光微影設備與實務<br>6. 電漿蝕刻設備<br>7. 化學機械研磨設備<br>8. IC封裝設備與實務<br>9. 半導體製程設備之整合<br>",
+        "en": "1. Introduction of integrated circuit manufacturing<br>2. Furnace for high temperature processing<br>3. Vacuum thin film equipment and practice<br>4. Ion implanter<br>5. Photolithography system and practice<br>6. Plasma etcher<br>7. Chemical Mechanical Polishing System<br>8. IC packaging systems<br>9. Integration of semiconductor equipment<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解積體電路及其製造所需技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解半導體設備包括高溫擴散爐管設備、薄膜沉積設備、離子佈植設備、光微影設備、電漿蝕刻設備、化學機械研磨設備，以及學習其相關的工程實務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解半導體設備包括高溫擴散爐管設備、薄膜沉積設備、離子佈植設備、光微影設備、電漿蝕刻設備、化學機械研磨設備，以及學習其相關的工程實務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解積體電路晶片的封裝方法與其相關的設備，以及學習其相關的工程實務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解積體電路晶片的封裝方法與其相關的設備，以及學習其相關的工程實務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解半導體設備如何整合應用，達到IC生產目的",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

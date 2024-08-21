@@ -1,0 +1,99 @@
+{
+    "code": "B0D42C02",
+    "name": {
+        "zh": "戶外團隊活動(二)",
+        "en": "Outdoor Activities and Team Practice (II)"
+    },
+    "credit": "0",
+    "type": "必修",
+    "classes": [
+        "四技休閒二乙"
+    ],
+    "instructors": [
+        "楊蓓涵"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為培育學生具備領隊、導遊及規劃並執行團隊活動的專業知識與能力，本課程採學生自主學習的方式，從組織、企劃、財務、活動發想、團隊帶領技巧訓練等，由學生主導規劃與執行，並由授課老師從旁協助。希望能培養學生具備領導能力和團隊合作的協同精神，並能精準掌握活動流程，養成獨立自主的思考能力，以因應目前時代的需求。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t團隊組成<br>2.\t團隊運作規劃與規則制定<br>3.\t團隊成員的編制<br>4.\t團隊共識與運作<br>5.\t戶外團隊實作<br>6.\t成果發表與檢討<br>",
+        "en": "1. Team composition<br>2. Team operation planning and rule making<br>3. Preparation of team members<br>4. Team consensus and operation<br>5. Outdoor team practice<br>6. Publish and review results"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "為培育人才之教育目標之一為訓練學生企劃並操作活動之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "主要是訓練學生團體服從紀律及分工合作的概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過團體實作演練與討論，增進團體活動實務設計、操作與演練之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生具備領導能力和團隊合作的協同精神，養成獨立自主的思考能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

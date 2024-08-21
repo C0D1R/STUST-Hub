@@ -1,0 +1,122 @@
+{
+    "code": "C0D5DZ01",
+    "name": {
+        "zh": "基礎法律英文",
+        "en": "Basic Legal English"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應英三甲"
+    ],
+    "instructors": [
+        "林尹星"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "N502"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "N502"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "An introduction to basic terms and concepts of the American legal system<br><br><br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.法律概論<br>2.法律詞彙<br>3.法治的重要性<br>4.刑法<br>5.合同法<br>6.商業和技術法<br>7.國際法<br>8.人權和公民權利<br>9.法律道德<br>10.談判<br>11.在台灣和美國當律師的比較<br>12.娛樂界律師及法律文化調查<br>",
+        "en": "1.Introduction to law<br>2.Legal vocabulary<br>3.The importance of the rule of law<br>4.Criminal law <br>5.Contract law<br>6.Business and technology law<br>7.International law<br>8.Human rights and civil rights<br>9.Legal ethics<br>10.Negotiation<br>11.Comparison of becoming a lawyer in Taiwan and the US <br>12.Survey of lawyers and legal culture in entertainment<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "增加法律詞彙量",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探索刑法、民法和合約法律的概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習法律道德",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解法治的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "檢視律師、法官和陪審團的角色",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

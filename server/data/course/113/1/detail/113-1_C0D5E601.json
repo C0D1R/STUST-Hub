@@ -1,0 +1,110 @@
+{
+    "code": "C0D5E601",
+    "name": {
+        "zh": "英文閱讀與寫作",
+        "en": "English Reading and Writing"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應英一甲"
+    ],
+    "instructors": [
+        "陳怡真"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "N309"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "N309"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This reading and writing course offered for freshmen aims to help students expand vocabulary, develop reading and writing strategies, improve reading comprehension, and write effective sentences and paragraphs.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.幫助學生熟悉英文閱讀技巧，例如根據上下文判斷字義。<br>2.培養獨立閱讀英文文章之能力，例如如何掌握文章大意。<br>3.閱讀不同類型的文章，強化學生辨識文章組織結構之能力。<br>4.使學生熟悉英文寫作不同文體的寫作策略。<br>",
+        "en": "1.To familiarize students with English reading skills, such as getting meanings of the words from context<br>2.To develop students’ abilities to read English texts independently, such as understanding the main idea<br>3.To help students read different types of texts and to enhance their abilities of identifying the text structure<br>4.To familiarize students with writing strategies of different genres<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能理解整篇文章的大意。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能寫出正確的英文句子。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能辨識各種文體和主題文章之寫作。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解英文段落的結構。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

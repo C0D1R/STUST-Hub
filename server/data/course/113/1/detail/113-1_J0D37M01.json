@@ -1,0 +1,110 @@
+{
+    "code": "J0D37M01",
+    "name": {
+        "zh": "工藝設計概論",
+        "en": "Craft Design"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技創設二甲"
+    ],
+    "instructors": [
+        "陳炫助"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "W0607"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0607"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在全球化之下，工藝產業具地方材質的特性是創造差異化的一項重要指標。本課程旨在學習傳統工藝之理論與技法，透過工藝的手感製作過程，與了解工藝創作中材料的特性與極限並尋求創作之適切性。課程中以「做中學」的實作方式，讓學生在實際操作工藝創作的過程中，了解工藝設計創作的內涵與深度，將有助於創意生活設計的廣度累積。本大綱可依教學工藝之內容而變更，但所應學習的技法數量則維持不變。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.工藝的本質與內涵<br>2.工藝設計的範圍<br>3.工藝材質、工具及技法<br>4.工藝設計方法<br>5.工藝設計的發展<br>6.工藝設計綜合創作<br>",
+        "en": "1.The craft of essence and connotation<br>2.The craft of scope <br>3.The craft of materials, tools and techniques<br>4.The craft design method<br>5.The craft design development<br>6.The craft design creation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識工藝的內涵",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解工藝設計的方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解工藝美學",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠運用創意於工藝設計上",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

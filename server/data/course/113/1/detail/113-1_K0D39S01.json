@@ -1,0 +1,135 @@
+{
+    "code": "K0D39S01",
+    "name": {
+        "zh": "動漫實務專題(一)",
+        "en": "projects of comics I"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技多樂三甲",
+        "四技多樂三乙"
+    ],
+    "instructors": [
+        "吳思璿"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "W0703"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "W0703"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "漫畫為許多創作的源頭，漫畫創作有著各式各樣繪製方式、繪畫風格與創意。本課程透過創意激盪、創作意念表達，經過不斷的分鏡練習、繪圖技法練習以及完稿練習，期望學生配合生活、時事話題或是現實觀察等等議題，並不斷動筆繪製，最終讓學生完成漫畫作品。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.話題激盪/幻想/時事/社會思考<br>2.分鏡練習<br>3.構圖思考<br>4.角色設計<br>5.分頁/分鏡/草稿<br>6.漫畫完稿<br><br>",
+        "en": "Practice and complete the comic:<br>1. Write a comic story: practice adapting the comic external compositional structure(ECS), development and controlling the progress of the ECS<br>2. Create a background for the character: Analyze how the role background affects the character's design when creating different roles<br>3. Comic character design: learning to draw a variety of different roles<br>4. Character performance: practice to express stories with different expressions and body movements<br>5. Comic Splitter: Practice splitting the screen according to the plot to express the character's emotions and stories<br>6. Split draft: draw a clear draft of the split as a reference for the final draft<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.話題激盪/幻想/時事/社會思考",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.分鏡練習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.構圖思考",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.角色設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5.分頁/分鏡/草稿",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6.漫畫完稿",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

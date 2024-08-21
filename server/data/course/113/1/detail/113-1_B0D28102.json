@@ -1,0 +1,115 @@
+{
+    "code": "B0D28102",
+    "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技休閒二乙"
+    ],
+    "instructors": [
+        "張婷玥"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0608"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0608"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.會展證照考試",
+        "2.導遊領隊考試"
+    ],
+    "description": "行銷是現代社會必懂的科學，尤其是台灣是以服務業為導向的產業結構。在觀光的領域上，行銷更是非常重要的課題。本課程除介紹一般的行銷的基本常識及主題外，更以觀光休閒之行銷相關案例為教學及探討主體。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.行銷的起源。<br>2.觀光產業與產品。<br>3.觀光產品之市場定位。<br>4.觀光行銷研究。<br>5.觀光產品之行銷通路。<br>6.觀光產品之消費行為。<br>7.廣告、促銷與行銷公關。<br>8.人員銷售、服務品質與關係行銷。<br>9.觀光產品的行銷組合。<br>10.目的地行銷。<br>11.都市之觀光與行銷。<br>12.文化觀光的行銷。<br>13.行銷計畫書的撰寫案。<br>14.行銷案例分析。<br>",
+        "en": "The course will focus on the following topics:<br><br>1.The orientation of Marketing<br>2.Tourism Industry and Products.<br>3.Market Segmentation and target market.<br>4.Marketing channels.<br>5.Consumer Behaviors of Tourism Products.<br>6.Marketing Research.<br>7.Advertisement, Promotion, and Public Relationship.<br>8.Personal Sales, Service Quality, and Relationship Marketing.<br>9.Marketing  Mix.<br>10.Urban Tourism Marketing.<br>11.Cultural Marketing.<br>12.Destination Marketing.<br>13.Marketing Proposals.<br>14.Marketing Case Studies."
+    },
+    "weeklySchedule": "week 1. 課程導論<br>week 2. 中秋節<br>week 3. Ch 01 行銷導論<br>week 4. Ch 01 行銷導論<br>week 5. Ch 02 行銷環境<br>week 6. Ch 02 行銷環境<br>week 7. Ch 03 消費者市場與其購買行為<br>week 8. Ch 03 消費者市場與其購買行為<br>week 9. 期中考週：期中考試<br>week 10. Ch 05 市場區隔與定位分析<br>week 11. Ch 05 市場區隔與定位分析\t<br>week 12. Ch 05 市場區隔與定位分析<br>week 13. Ch 06 產品管理<br>week 14. Ch 06 產品管理<br>week 15. Ch 09 制定價格<br>week 16. Ch 10 行銷通路與實體運配<br>week 17. Ch 11 推廣組合與推廣計畫<br>week 18. 期末考週：期末考試",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "隨堂小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "介紹行銷管理的內涵、演進、行銷環境與行銷研究，讓同學了解行銷管理之基本概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用電腦文書軟體進行個案報告",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用市場區隔、產品定位以及行銷組合4P策略，來進行行銷個案之研討",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "藉由行銷個案之研討，了解行銷管理在實務上之應用",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "行銷學",
+        "author": "林建煌",
+        "publisher": "華泰文化",
+        "year": "2023",
+        "ISBN": "9786260109806",
+        "edition": "七"
+    },
+    "referenceBooks": "1. 曾光華、饒怡雲 (2020)，行銷學原理，台北：前程文化，六版。<br>2. 曾光華 (2021)，行銷管理概論，台北：前程文化，六版。<br>3. 曾光華、饒怡雲(2022)，解析行銷管理，台北：前程文化，二版。",
+    "teachingSoftware": "略。",
+    "rules": "1. 請隨時留意Flipclass數位學習之課程訊息。 <br>2. 出席率與學習態度為本課程之重要成績評核項目。"
+}

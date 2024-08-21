@@ -1,0 +1,118 @@
+{
+    "code": "G0D02003",
+    "name": {
+        "zh": "作業系統",
+        "en": "Operating System"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資工三丙"
+    ],
+    "instructors": [
+        "席家年"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "D301"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "D301"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "D301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹作業系統較基本的一些觀念，包括硬體結構，行程，排程，同步與死結，記憶體管理等等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. Introduction作業系統簡介<br>2. 硬體結構<br>   CPU, Memory, Caching, I/O Interrupt, DMA, Dual-Mode, I/O Protection, <br>   CPU Protection, Memory Protection<br>3. 作業系統結構<br>   System Components, Services, System Call, Virtual Machine<br>4. Process行程<br>   PCB, Scheduling, Context Switch, Process and Thread, Buffer, Synchronization<br>5. Scheduling排程<br>   排程準則, FCFS, SJF, Priority, Round-Robin<br>6. Synchronization and Dealock同步與死結<br>   Critical Section, Bakery Algorithm, Semaphore, Deadlock Detection, <br>   Deadlock Prevention, Banker's Algorithm<br>7. Memory Management記憶體管理<br>   Swapping, Allocation, Paging<br>8. Virtual Memory虛擬記憶體<br>   Page Replacement, FIFO, Optimal, LRU, LFU, MFU, Page Fault<br>",
+        "en": "1. Introduction<br>2. Hardware Structures<br>   CPU, Memory, Caching, I/O Interrupt, DMA, Dual-Mode, I/O Protection, <br>   CPU Protection, Memory Protection<br>3. Operating System Structures<br>   System Components, Services, System Call, Virtual Machine<br>4. Process<br>   PCB, Scheduling, Context Switch, Process and Thread, Buffer, Synchronization<br>5. Scheduling<br>   Scheduling Criteria, FCFS, SJF, Priority, Round-Robin<br>6. Synchronization and Dealock<br>   Critical Section, Bakery Algorithm, Semaphore, Deadlock Detection, <br>   Deadlock Prevention, Banker's Algorithm<br>7. Memory Management<br>   Swapping, Allocation, Paging<br>8. Virtual Memory<br>   Page Replacement, FIFO, Optimal, LRU, LFU, MFU, Page Fault<br>"
+    },
+    "weeklySchedule": "week 1-2.作業系統簡介<br>week 3-4.硬體結構<br>week 5-6.作業系統結構<br>week 7-8.行程<br>week 9.期中考<br>week 10-12.排程<br>week 13-14.同步與死結<br>week 15-16.記憶體管理<br>week 17.虛擬記憶體<br>week 18.期末考",
+    "exams": {
+        "midterm": "筆試或線上評量",
+        "final": "筆試或線上評量",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.能了解作業系統基本學理",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "2.能應用基本學理分析探索作業系統問題",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "3.能將所學透過課程練習與同儕相互檢核講解以發展溝通表達能力",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "4.能出席課程並參與練習以建立責任與倫理的涵養",
+            "teachingMethods": [
+                "其他",
+                "－課堂點名"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "作業系統精論 第10版",
+        "author": "吳庭育、駱詩軒",
+        "publisher": "東華書局",
+        "year": "2021",
+        "ISBN": "9789865522568",
+        "edition": "10"
+    },
+    "referenceBooks": "1.駱詩軒，作業系統精論 第9版，東華書局。ISBN 9789574837984 <br>2.駱詩軒，作業系統概念 第9版，東華書局。ISBN 9789574837939 <br>3.A. Silberschatz etc., Operating System Concepts 9/e, 2014 John Wiley &amp; Sons. 東華書局代理。 <br>4.呂沐錡、陳耀宗，作業系統，高立圖書。書號 :369681<br>5.William Stallings, OPERATING SYSTEMS 7/E (VPIE), 2012, Pearson, 歐亞書局。 <br>6.陳玄玲譯，William Stallings著，作業系統 第6版，台灣培生，全華書局。",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,99 @@
+{
+    "code": "A0D19701",
+    "name": {
+        "zh": "會計資訊學期業界實習(一)",
+        "en": "Accounting Information semester industry internship (1)"
+    },
+    "credit": "10",
+    "type": "管制選修",
+    "classes": [
+        "四技會資四甲"
+    ],
+    "instructors": [
+        "魏慧珊"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "720"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "校外實習",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.本實習課程將協助實習學生活用會計資訊相關系統（企業資源規劃）於營運資訊紀錄、帳務處理、成本計算、稅務申報及財務報表編製等業務，以落實並應用學校習得之技能於實習工作中。<br>2.學生除了獲取寶貴之實習經驗，亦能學習企業的良好工作態度與文化素養，未來能順利適應與融入職場生活。<br>3.結合理論與實務，透過與業界合作實習，強化學生就業競爭力。",
+        "en": "1. This internship course will assist the internship accounting system (Enterprise Resource Planning) in the operation of information records, accounting, costing, tax reporting and financial statement preparation to implement and apply the skills acquired by the school for internships. At work.<br>2. In addition to gaining valuable internship experience, students can also learn the good working attitude and cultural literacy of the company, and can adapt and integrate into the workplace in the future.<br>3. Combine theory and practice, and strengthen student employment competitiveness through internships with the industry.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "協助實習學生活用會計資訊相關系統（企業資源規劃）於營運資訊紀錄、帳務處理、成本計算、稅務申報及財務報表編製等業務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生除了獲取寶貴之實習經驗，亦能學習企業的良好工作態度與文化素養，未來能順利適應與融入職場生活。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "結合理論與實務，透過與業界合作實習，強化學生就業競爭力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "落實並應用學校習得之技能於實習工作中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

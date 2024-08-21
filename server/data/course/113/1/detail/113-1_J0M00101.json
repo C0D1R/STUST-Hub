@@ -1,0 +1,122 @@
+{
+    "code": "J0M00101",
+    "name": {
+        "zh": "專題研討(一)",
+        "en": "Independent Study and Project (I)"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "碩研視傳一甲"
+    ],
+    "instructors": [
+        "陳鴻源"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "W0803"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "W0803"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程分為2部分，1、聽演講，2、論文、專書報告討論或做作品創作。本學院會不定時安排外賓演講，研究生一律參加。不聽演講的時段，由所長指定論文或專書，並於上課時段指定同學上台報告，或做作品討論。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程分為2部分，1、聽演講，2、論文、專書報告討論或做作品創作。本學院會不定時安排外賓演講，研究生一律參加。不聽演講的時段，由所長指定論文或專書，並於上課時段指定同學上台報告，或做作品討論。",
+        "en": "This course is divided into 2 parts, i.e.(1) participating the speech regarding design issue and (2) the oral reports and discussions for journal/conference papers or the practices for design creations. The students should attend the design speeches conducted by our college (College of Digital Design; CCD) in the nonscheduled time. Without the design speeches, the students will read the journal/conference papers, oral reports and discussions, or practice the design creations."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養學生擬定與執行計劃的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生資料搜集的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生理論與實務結合的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練表達與溝通協調的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現設計整合的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

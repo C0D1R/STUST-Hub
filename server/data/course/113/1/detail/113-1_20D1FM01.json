@@ -1,0 +1,131 @@
+{
+    "code": "20D1FM01",
+    "name": {
+        "zh": "專題研討(一)",
+        "en": "Independent Study(I)"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技醫電三甲",
+        "四技電資三甲",
+        "四技控晶三甲",
+        "四技控晶三乙"
+    ],
+    "instructors": [
+        "施嘉興",
+        "楊弘吉"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "B002"
+        },
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "B002"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "B002"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "針對特定專題實務的題目，訓練學生設計與實際製作成品的能力、激發學生團隊分工與系統整合精神。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.討論主題與技術可行性評估。<br>2.相關資料或資訊蒐尋(集)與研究。<br>3.進行系統整合與分組設計。<br>4.分組進行實體製作。<br>5.檢討設計之缺失與改良。<br>6.期末報告與觀摩討論。<br>7.排定進度，提出書面與口頭報告（Power-point）。<br>",
+        "en": "1. Introduction to Search Design Related Reference: Books, Journals, Web Sites<br>2. Searching Method for Useful Parts<br>3. Introduction to Design Method<br>4. Introduction to Proposal Writing<br>5. Introduction to Report Writing<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "概念設計的修改與確認",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "機構與控制系統的具體設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "機構與電路的產出",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "原型機的產出/實驗測試",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "結案報告/技術文件的撰寫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

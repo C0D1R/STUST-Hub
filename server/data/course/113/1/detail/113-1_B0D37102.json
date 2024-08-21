@@ -1,0 +1,122 @@
+{
+    "code": "B0D37102",
+    "name": {
+        "zh": "休閒導論",
+        "en": "Introduction to Leisure and Recreation"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技休閒一乙"
+    ],
+    "instructors": [
+        "石慶賀"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0510"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "T0510"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要目的在介紹休閒的基本概念以及休閒在現代社會的現況與發展。課程重點除了提供學生所應具備的基本休閒知識之外，也希望培養學生對休閒活動的樂趣，並對休閒產業具備完整的概念。  <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "<br>中文課程大綱 (Chinese Outline)<br> 休閒的歷史發展<br>休閒的本質<br>休閒的需求<br>休閒生活型態、性別與家庭<br>休閒娛樂與弱勢族群<br>休閒的經濟和政治重要性<br>休閒場所<br>休閒供給的政治架構<br>休閒與地方政府<br>商業部門的休閒<br>休閒與志工部門<br>教育與休閒<br>休閒與健康生活<br>休閒及其未來展望<br> <br>英/日文課程大綱 (English/Japanese Outline)<br> <br>",
+        "en": "Chinese Outline (Chinese Outline)<br>Historical development of leisure<br>The essence of leisure<br>Leisure needs<br>Leisure lifestyle, gender and family<br>Recreation and disadvantaged groups<br>Economic and political importance of leisure<br>Leisure place<br>Political structure of leisure supply<br>Leisure and local government<br>Leisure in the business sector<br>Leisure and volunteer department<br>Education and leisure<br>Leisure and healthy life<br>Leisure and its future prospects<br><br>English/Japanese Outline"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解當今休閒概念、角色與功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解休閒產業各部門，以及所需具備的專業能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解影響參與休閒活動的各種社會文化與個人因素",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解休閒產業未來發展與可能遇到的挑戰",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "發展休閒綜合知識技能與指出可能問題之所在",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

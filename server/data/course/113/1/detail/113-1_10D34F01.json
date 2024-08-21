@@ -1,0 +1,116 @@
+{
+    "code": "10D34F01",
+    "name": {
+        "zh": "自動化工具機設計與系統整合",
+        "en": "Design and system integration of automation tool machine"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技製造三甲",
+        "四技製造三乙"
+    ],
+    "instructors": [
+        "吳俊穎"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "K308"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "K308"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "K308"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "技專教育的目標是在培育務實致用之人才。「自動化工具機設計與系統整合」課程的目的是透過機電整合實習「動手做，做中學」的方式，培育產業實務人才與工業4.0職能；在這次課程教學計畫申請中，我們預計將課程作跨領域整合，在硬體課程教材中加入軟體程式設計概念的介紹，在軟體課程教材中加入機電整合開發的應用說明，也預計引介企業講師說明軟硬體整合開發在實務工具機產業的重要性，並達到「產學共育」的前期嘗試目的。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.工具機硬體設計與規劃<br>2.控制原理<br>3.機電整合與I/O規劃<br>4.軟體控制應用實務<br>5.軟硬體系統整合<br>6.專題實作<br>",
+        "en": "1.Tool machine hardware design and planning<br>2.Control principle<br>3.Electromechanical and I/O planning<br>4.Software control application practice<br>5.Software and hardware system integration<br>6.Project practice<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解工具機硬體設計架構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "控制原理解析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "監控數據分析與統計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "軟硬體整合應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

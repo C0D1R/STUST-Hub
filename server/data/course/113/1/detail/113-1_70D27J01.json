@@ -1,0 +1,117 @@
+{
+    "code": "70D27J01",
+    "name": {
+        "zh": "產品上市規劃",
+        "en": "Product Launch Planning"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管三甲",
+        "四技企管三乙",
+        "四技企管三丙"
+    ],
+    "instructors": [
+        "簡南山"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "S315"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "S315"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "S315"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以新產品開發流程為課程基本架構，介紹新產品開發流程各階段的管理工作內涵，探討各類新產品開發的技術、分析工具與管理觀念，並著重產品上市各種方案的規畫評估，透過實作演練與課堂案例分析討論，掌握產品上市的管理決策。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、社會趨勢、消費需求與市場機會分析<br>二、產品創意的產生技術與評估準則<br>三、產品開發流程與管理<br>四、銷售預測與財務分析<br>五、產品上市規劃與執行",
+        "en": "1. Social trends, consumer demand and market opportunity analysis<br>2. Product creation technology and evaluation criteria<br>3. Product development process and management<br>4. Sales forecasting and financial analysis<br>5. Product launching planning and execution"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解產品開發過程的管理決策與相關的行銷專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解各種產品創新思考的方法與技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能評估市場環境與消費行為來規劃最可行的產品上市方案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分享與交換產品資訊，並討論產品的使用情境與價值",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

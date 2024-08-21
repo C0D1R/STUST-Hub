@@ -1,0 +1,124 @@
+{
+    "code": "C0N2BX01",
+    "name": {
+        "zh": "旅遊英文",
+        "en": "Tourism English"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技應英二甲"
+    ],
+    "instructors": [
+        "黃郁琇"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "N309"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "N309"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "N309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "2.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "We will look at a number of areas related to travel, tourism, and the hotel industry including hotels and hotel facilities, restaurants, waiting tables, food and menus, making bookings and reservations, tour attractions and itineraries, tour commentaries, and festivals and celebrations.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "應用實際的生活文章、角色扮演、任務指派等課堂活動達成以下學習目標：<br>(1.) Introduction to modern tourism (現代旅遊簡介)<br>(2.) Hotel facilities (旅館設施)<br>(3.) Tourist facilities (遊客設施)<br>(4.) Restaurants menus. (菜單介紹)<br>(5.) Giving tourist information (向旅客介紹資訊)<br>(6.) Dealing with complaints (客訴處理)<br>",
+        "en": "- Using authentic texts, videos, role-plays and practical tasks, students will learn how to understand and communicate in a variety of situations related to travel and tourism.<br>- Learn the functional vocabulary and expressions needed for authentic communication.<br>- Blended learning assignments such as readings and video will be used in addition to communicative classroom-based activities.<br>- A group task to develop English language material to assist tourists.<br>- A group presentation to critically assess the English language facilities of a tourist site, hotel, information centre or international restaurant.<br>The following is a preliminary outline of the topics we will cover over one semester:<br>1. Introduction to modern tourism<br>2. Hotel facilities<br>3. Tourist facilities<br>4. Restaurants menus.<br>5. Giving tourist information<br>6. Dealing with complaints<br>"
+    },
+    "weeklySchedule": "week 1 Introduction &amp; Unit 1 The World<br>Week 2 Unit 2 Planning Ahead<br>Week 3 Unit 3 Booking Flight Tickets<br>Week 4 Unit 4 Making a Reservation for Accommodations<br>Week 5 Unit 5 At the Airport<br>Week 6 Unit 6 Just Arrived<br>Week 7 Unit 7 Hotel Check-In<br>Week 8 Unit 8 Meeting Other Travelers<br>Week 9 Mid-term exam<br>week 10 Unit 9 Having Fun<br>Week 11 Unit 10 Getting Around<br>Week 12 Unit 11 Out and About<br>Week 13 Unit 12 Shopping<br>Week 14 Unit 13 Dining Out<br>Week 15 Unit 14 Food and Snacks<br>Week 16 Unit 15 Medical Issues<br>Week 17 Unit 16 Emergency Situations<br>Week 18 Final exam",
+    "exams": {
+        "midterm": "Role Play, Exam",
+        "final": "Role Play, Exam",
+        "other": "Quiz, worksheet, activity"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "藉由團體任務建立旅行英語素材",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "加強學生的旅遊英語之溝通技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "功能性的英語溝通聽力、閱讀、口說技巧培養",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養旅遊英語資訊並幫助改善現有的設施",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Travel Beyond 2",
+        "author": "Camille Lu",
+        "publisher": "Tung Hua",
+        "year": "2021",
+        "ISBN": "9789865522377",
+        "edition": "1"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "課程評量:<br><br>課堂參與小考作業50%<br>期中對話影片10%<br>期中考15%<br>期末對話影片 10% <br>期末考15%<br><br>"
+}

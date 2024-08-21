@@ -1,0 +1,115 @@
+{
+    "code": "M0D17201",
+    "name": {
+        "zh": "餐旅服務品質管理",
+        "en": "Service Quality Management"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技餐旅三乙"
+    ],
+    "instructors": [
+        "鄭竣丰"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "T0311"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "T0311"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.台語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程的目標在於有系統地探討服務品質管理的理論與應用，強調重要觀念的解析，並以國內外實例與生活見聞來解釋學理的實務價值，藉以提升同學對服務品質議題的興趣，並培養同學分析與解決服務設計與管理問題的能力",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.服務業的重要性與服務的特性<br>2.服務的特性與類型<br>3.服務的組成、定位與創新<br>4.服務實體環境<br>5.服務人員的角色與重要性<br>6.服務流程與供需管理<br>7.服務失誤與服務補救<br>8.顧客知覺價值、服務品質、顧客滿意度",
+        "en": "1.Importance and Environmental Factors of Services<br>2.Characteristics and Classification of Services<br>3.Service Structure, Positioning, and Innovation<br>4.Service Physical Environment<br>5.Importance of Service Personnel<br>6.Service Process and Supply-Demand Management<br>7.Service Failure vs. Service Recovery<br>8.Customer Perceived Value, Service Quality, and Customer Satisfaction"
+    },
+    "weeklySchedule": "第01週：上課標準及規範，評分標準<br>第02週：服務業的現況、趨勢、特性和人員特質<br>第03週：服務業的現況、趨勢、特性和人員特質<br>第04週：服務的概念<br>第05週：服務的概念<br>第06週：顧客的期望<br>第07週：顧客的期望<br>第08週：高服務品質的企業文化<br>第09週：期中考(報告)<br>第10週：高服務品質的企業文化<br>第11週：服務品質的概念<br>第12週：服務品質的概念<br>第13週：員工滿意、顧客滿意和顧客忠誠度<br>第14週：員工滿意、顧客滿意和顧客忠誠度<br>第15週：顧客抱怨處理<br>第16週: 顧客抱怨處理<br>第17週：增進服務品質<br>第18週：期末考(報告)",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "作業、筆試、上課出席狀況及上課表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備服務管理與行銷的相關理論與知識",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉顧客服務與行銷的技巧",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "分析與設計服務之流程",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "解決服務問題之能力",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "服務品質管理：新時代的創新思維",
+        "author": "蘇衍綸",
+        "publisher": "華立圖書",
+        "year": "2022",
+        "ISBN": "978-957-784-976-2",
+        "edition": "一版一刷"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

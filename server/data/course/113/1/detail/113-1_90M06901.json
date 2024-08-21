@@ -1,0 +1,119 @@
+{
+    "code": "90M06901",
+    "name": {
+        "zh": "數位學習理論與實務",
+        "en": "Theory and Practice of E-Learning"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研資管一甲"
+    ],
+    "instructors": [
+        "張儀興"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "T0713"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "T0713"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "T0713"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要示先介紹數位學習概念與理論，接著以實例驗證實務來說明網路教學中的學習、教學與經營之道。最後讓學生報告相關論文來了解目前數位學習領域發展趨勢。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.行動與無所不在學習介紹<br>2.悅趣化學習與社會介紹<br>3.數位化測驗與評量介紹<br>4.數位教材製作軟體介紹與報告<br>5.論文報告<br>6.專題演講",
+        "en": "1.Introduction to Mobile and ubiquitous learning<br>2.Introduction to Joyful Learning and Society<br>3.Introduction to Digital test and assessment<br>4.Introduction to the software for designing digital teaching materials<br>5.Papers report<br>6.Speech"
+    },
+    "weeklySchedule": "第1,2週 數位學習趨勢<br>第3週   數位內容與版權管理<br>第4週   數位學習系統<br>第5週   電腦化測驗與評量<br>第6週   電腦化心智工具<br>第 7週  Key Technologies &amp; Practices報告<br>第8週   適性化學習<br>第9週   期中考<br>第10, 11週 行動與無所不在學習<br>第12, 13, 14週 論文報告<br>第 15, 16週 遊戲式學習<br>第17,18週 應用OpenAI API 於數位學習應用報告<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "專題報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解數位學習的理論與技術",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用數位學習軟體於數位學習上",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用所學知識規劃數位學習平台",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能使用簡報軟體及具備良好的口頭及書面報告。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

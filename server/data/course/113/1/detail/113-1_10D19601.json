@@ -1,0 +1,132 @@
+{
+    "code": "10D19601",
+    "name": {
+        "zh": "工業日文",
+        "en": "Indusial Japanese"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控三甲",
+        "四技自控三乙",
+        "四技製造三甲",
+        "四技製造三乙",
+        "四技車輛三甲",
+        "四技車輛三乙"
+    ],
+    "instructors": [
+        "楊政峰"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "K402"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "K402"
+        },
+        {
+            "day": "週五",
+            "period": "第9節",
+            "location": "K402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "先介紹日本從中國學習漢字之後的文字的演變，接著從發音開始，學習既可當注音符號也可當一般文字使用的「假名」。之後進入基本句型和會話的學習，再導入工程名詞、計量單位及形容詞，最後介紹動詞的分類與變化。為了提升學習興趣與效果，會穿插日本社會習俗與歌曲的介紹。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.日本文字概述、假名<br>2.名詞句型<br>3.數量<br>4.機械工程名詞<br>5.形容詞句型<br>6.會話<br>7.日本科技、文化與習俗<br>8.動詞",
+        "en": "1. Japanese characters and pronunciations<br>2. \"NOUN\" sentences<br>3. Numeral<br>4. Mechanical engineering's words<br>5. \"ADJECTIVE\" sentences<br>6. Conversation<br>7. Japanese technology, culture and customs<br>8. Verbs"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識假名與發音",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會基本文法與句型",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識機械工程名詞",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識日本科技",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識日本文化與習俗",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

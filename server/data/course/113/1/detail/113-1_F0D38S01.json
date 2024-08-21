@@ -1,0 +1,141 @@
+{
+    "code": "F0D38S01",
+    "name": {
+        "zh": "進階影像製作",
+        "en": "Advanced Video Production"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資傳三甲",
+        "四技資傳三乙"
+    ],
+    "instructors": [
+        "楊斯嵐"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0508"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "W0508"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "W0508"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.SGO Mistika",
+        ""
+    ],
+    "description": "本課程以銜接影視業界最新趨勢為主，期望培育具專業能力之人才。",
+    "prerequisites": "需已修畢基礎影像製作及剪接學課程，方得選修本課",
+    "syllabus": {
+        "zh": "一、目前影視新潮流介紹<br>二、新的影視科技如何打破傳統敘事手法<br>三、實務範例分析<br>四、3D影像概念<br>五、VR影像概念<br>六、後製調光調色<br>七、後製特效合成<br>八、提升影片品質的技巧<br>九、輸出多元規格影像檔之流程<br>十、國際影視新潮流現況介紹<br>",
+        "en": "This course is designed to provide students with the opportunity to build, acquire, and utilize an understanding of the 360-degree video production process. Students will be required to develop more sophisticated and complex productions using special computer graphics software. Advanced Video Production will give students the chance to creatively extend their basic editing skills while utilizing more advanced videography techniques through the use of multi camcorders."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解影視最新潮流與科技；以實務演練，縮減學用落差之問題，與影視產業得以無縫接軌",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解影視最新潮流與科技；習得3D電影、ＶＲ影片製作實務；學習後製整合之概念及製程；以實務演練，縮減學用落差之問題，與影視產業得以無縫接軌",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "習得3D電影、ＶＲ影片製作實務；以實務演練，縮減學用落差之問題，與影視產業得以無縫接軌",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以實務演練，縮減學用落差之問題，與影視產業得以無縫接軌",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "習得3D電影、ＶＲ影片製作實務；學習後製整合之概念及製程；以實務演練，縮減學用落差之問題，與影視產業得以無縫接軌",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "習得3D電影、ＶＲ影片製作實務；學習後製整合之概念及製程；以實務演練，縮減學用落差之問題，與影視產業得以無縫接軌",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

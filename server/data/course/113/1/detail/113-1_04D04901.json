@@ -1,0 +1,170 @@
+{
+    "code": "04D04901",
+    "name": {
+        "zh": "體育生活(三)：瑜珈(A)",
+        "en": "Physical Education(III)：Qerobic Yoga"
+    },
+    "credit": "1",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "四技自控二甲",
+        "四技自控二乙",
+        "四技車輛二甲",
+        "四技車輛二乙",
+        "四技休閒二甲",
+        "四技休閒二乙",
+        "四技餐旅二甲",
+        "四技餐旅二乙"
+    ],
+    "instructors": [
+        "張雅評"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": ""
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以教授哈達瑜珈(Hatha Yoga)為主，包括身體的姿勢、呼吸與放鬆技巧。再加上<br>彼拉提斯(Pilates)所包含的肌力、柔軟度、平衡感與協調性等身體訓練。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "頭到腳的暖身操<br>站姿的組合動作<br>坐姿的組合動作<br>跪姿的組合動作<br>臥姿的組合動作<br>放鬆與休息<br>",
+        "en": "Warm-up from head to toe<br>Combination movements of Standing position<br>Combination movements of sitting position <br>Combination movements of kneeling position <br>Combination movements of prone position <br>Relaxation and resting<br>"
+    },
+    "weeklySchedule": "第1週:課程簡介、上課注意事項及請假事宜<br>第2週:1.瑜珈慨論2.介紹瑜珈的歷史及練習瑜珈的注意事項、基本呼吸法、<br> 暖身伸展及靜坐呼吸<br>第3週:1.六項元素及七個能量中心、簡易體位法2.呼吸動作小品組合<br>第4週:1.靜坐呼吸、暖身伸展2.動作教授:半拜日式、基本貓式、動態貓式、<br> 三角式、樹式、大休息3.基本動作小品組合訓練<br>第5週:1.靜坐呼吸、暖身伸展2.動作教授:半拜日式、基本貓式、動態貓式、<br> 三角式、樹式、大休息3.基本動作小品組合訓練<br>第6週:1.靜坐呼吸、暖身伸展2.動作教授:半拜日式、基本貓式、動態貓式、<br> 三角式、樹式、大休息3.基本動作小品組合訓練4.分組練習 <br>第7週:1.基本動作小品組合訓練2.分組練習<br>第8週:分組考試<br>第9週:分組考試<br>第10週:1.靜坐呼吸、暖身伸展2.動作教授:拜日式、坐姿蝶式、頭碰膝式、<br> 仰臥單腿上舉、人面獅身、眼鏡蛇、背部伸展、旋轉三角式、樹式變化、 <br> 大休息<br>第11週:1.靜坐呼吸、暖身伸展2.動作教授:拜日式、坐姿蝶式、頭碰膝式、<br> 仰臥單腿上舉、人面獅身、眼鏡蛇、背部伸展、旋轉三角式、樹式變化、 <br> 大休息<br>第12週:1.靜坐呼吸、暖身伸展2.動作教授:拜日式、坐姿蝶式、頭碰膝式、<br> 仰臥單腿上舉、人面獅身、眼鏡蛇、背部伸展、旋轉三角式、樹式變化、 <br> 大休息<br>第13週:1.靜坐呼吸、暖身伸展2.動作教授:拜日式、坐姿蝶式、橋式、頭碰膝式、<br> 仰臥單腿上舉、連續犬式、英雄式Ⅰ、Ⅱ、Ⅲ、人面獅身、眼鏡蛇、<br> 背部伸展、旋轉三角式、樹式變化、大休息3.基本動作小品組合訓練<br>第14週:1.靜坐呼吸、暖身伸展2.動作教授:拜日式、坐姿蝶式、橋式、頭碰膝式、 <br> 仰臥單腿上舉、連續犬式、英雄式Ⅰ、Ⅱ、Ⅲ、人面獅身、眼鏡蛇、<br> 背部伸展、旋轉三角式、樹式變化、大休息3.基本動作小品組合訓練<br>第15週:1.靜坐呼吸、暖身伸展2.動作教授:拜日式、坐姿蝶式、橋式、頭碰膝式、<br> 仰臥單腿上舉、連續犬式、英雄式Ⅰ、Ⅱ、Ⅲ、人面獅身、眼鏡蛇、<br> 背部伸展、旋轉三角式、樹式變化、大休息3.基本動作小品組合訓練<br>第16週:分組編創練習<br>第17週:分組考試<br>第18週:分組考試",
+    "exams": {
+        "midterm": "分組實作",
+        "final": "分組實作",
+        "other": "分組實作"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "開拓身心紓解之道",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "增進身體內外在的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "遇見身體緩慢的美",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "自我覺察與成長",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "尊重自我與他人的身體",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習正確的運動方式",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習專注動作與呼吸穩定身心",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "協助同學玩誠正確安全的動作",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "請自備瑜珈墊"
+}

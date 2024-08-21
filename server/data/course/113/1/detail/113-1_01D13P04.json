@@ -1,0 +1,131 @@
+{
+    "code": "01D13P04",
+    "name": {
+        "zh": "基礎數學(一)",
+        "en": "Fundamental mathematics (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專化材一甲"
+    ],
+    "instructors": [
+        "王慶安"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "I0305"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "I0305"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將著重在國中數學課程的延續，介紹數系、直角坐標平面上的圖形、函數等主題的基本概念與相關性質。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、數的基本知識<br>二、坐標平面與方程式的圖形<br>三、直線<br>四、函數的基本概念<br>",
+        "en": "1. Introduction of the number system with basic concepts<br>2. Introduction of the Cartesian coordinate plane and graphs of equations<br>3. Introduction of lines on the plane<br>4. Introduction of functions and their basic concepts<br>"
+    },
+    "weeklySchedule": "(預定進度) <br>第一週 \t (09/10) 數的基本知識(一)：數系介紹、實數性質<br>第二週   (09/17) 中秋節放假<br>第三週   (09/24) 數的基本知識(二)：指數與根號、分式與根式的運算(一)<br>第四週   (10/01) 數的基本知識(三)：分式與根式的運算(二)、方程式<br>第五週   (10/08) 數的基本知識(四)：不等式、複數(一) <br>第六週   (10/15) 數的基本知識(五)：複數(二)<br>第七週   (10/22) 坐標平面與方程式的圖形(一)：直角坐標平面<br>第八週   (10/29) 坐標平面與方程式的圖形(二)：方程式的圖形、對稱性<br>第九週   (11/05) 期中考* <br>第十週   (11/12) 直線(一)：直線的方程式、平行線與垂直線<br>第十一週 (11/19) 直線(二)：點到直線的距離<br>第十二週 (11/26) 直線(三)：圓與直線的關係<br>第十三週 (12/03) 直線(四)：圓的切線<br>第十四週 (12/10) 函數的基本概念(一)：函數的定義與圖形<br>第十五週 (12/17) 函數的基本概念(二)：一些常見函數及其圖形<br>第十六週 (12/24) 函數的基本概念(三)：平均變化率<br>第十七週 (12/31) 函數的基本概念(四)：函數的遞增與遞減<br>第十八週 (01/07) 期末考*<br>*期中考、期末考均為隨班考試<br>",
+    "exams": {
+        "midterm": "隨班測驗",
+        "final": "隨班測驗",
+        "other": "隨班測驗(不定期)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學生能了解數學課程的基本觀念。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "訓練學生在學習過程中能運算解題及運用資訊科技來輔助計算的能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "讓學生能將所學應用到其專業領域，使學生具備分析及處理實際問題之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "透過同儕學習演練、作業觀摩及相互評量，提升表達科學報告能力。",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "基礎數學(第一冊)",
+        "author": "徐世敏、劉珈銘合著",
+        "publisher": "滄海圖書有限公司",
+        "year": "2018",
+        "ISBN": "978-986-96593-3-8",
+        "edition": "初版一刷"
+    },
+    "referenceBooks": "1.數學(一)，林昌明、蔡坤達編著，高立圖書。<br>2.數學(一)，張豐宜、王永進合著，全威圖書。<br>",
+    "teachingSoftware": "學校E網通的教學網頁FlipClass數位學習。",
+    "rules": "評分標準  期中考與期末考共佔60%，平常成績佔40%，再依本校成績系統轉換為等第制，其中小考、期中與期末考試之測驗方式為紙筆測驗，作業包括習題或心得報告。<br><br>注意事項  1. 除了期中考與期末考成績，平時上課的作業、心得報告、不定時小考、與老師的互動，以及缺曠課狀況等情形等都是評定學期成績的重要之考量，希望同學能把握每次的成績。<br>         2. 教科書請直接向W棟南台書城洽購或與滄海圖書林妙秋小姐(0910-826349)聯絡洽購。<br>"
+}

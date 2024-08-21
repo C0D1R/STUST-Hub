@@ -1,0 +1,135 @@
+{
+    "code": "1JD01403",
+    "name": {
+        "zh": "人體解剖學",
+        "en": "Human Anatomy"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技高福一甲",
+        "四高福國專一甲"
+    ],
+    "instructors": [
+        "趙品淳"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "O403"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "O403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程概述\t本課程以講述並配合肉眼觀察人體結構，以期能讓同學認識人體構造、明瞭臟器的相關位置及其特徵。課程包括細胞及組織的認識，肌肉、骨骼、消化、呼吸、循環、神經、內分泌、泌尿和生殖各系統的分佈與其生理狀態下的相互關係，及解剖學之應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.解剖學概論及細胞構造與功能<br>2.肌肉系統<br>3.骨骼系統<br>4.消化系統<br>5.呼吸系統<br>6.循環系統<br>7.神經系統<br>8.泌尿系統<br>9.生殖系統<br>",
+        "en": "1.Introduction to anatomy and cell structure and function<br>2.Muscular system<br>3.Skeletal system<br>4.Digestive system<br>5.Respiratory system<br>6.Circulatory system<br>7.Nervous system<br>8.Urinary system<br>9.Reproductive system<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識人體各器官系統在體內的位置",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識人體各器官系統在體內的位置",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習人體之解剖學構造、組成層次",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解人體各器官系統之構造特性及其生理功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "為高齡服務專業領域的知識打下良好的基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "為高齡服務專業領域的知識打下良好的基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

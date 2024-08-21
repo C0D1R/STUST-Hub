@@ -1,0 +1,124 @@
+{
+    "code": "30D1DU01",
+    "name": {
+        "zh": "APP程式設計實務",
+        "en": "APP programming"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子三丙"
+    ],
+    "instructors": [
+        "楊榮林"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "J405"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "J405"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "J405"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程培養學生在在學習中了解程式的設計概念，並培養執行程式時解決問題等能力，並為後續程式設計課程奠定基礎。修讀完本課程，學生將會熟悉App Inventor 2開發工具及相關功能，能夠開發Android手機應用程式，具備行動裝置程式設計能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t建置專案：安裝與建置專案教學<br>2.\t使用者介面元件：標籤、文字方塊、按鈕、圖片及滑桿元件<br>3.\t程式的基礎運算：算術運算與字串運算<br>4.\t程式的流程控制：判斷式的使用<br>5.\t程序的應用：呼叫程序<br>6.\t課堂上機練習<br>7.\t清單相關元件：清單的使用<br>8.\t日期時間相關元件：取得系統時間<br>9.\t期中考<br>10.\t繪圖相關元件：畫布元件<br>11.\t網際網路相關元件：顯示指定的網頁內容<br>12.\t電話連絡人：擷取聯絡人資料<br>13.\t多媒體相關元件：多媒體播放器<br>14.\t課堂上機練習<br>15.\t語音辨識相關元件：語音辨識的使用<br>16.\t資料庫相關元件：資料庫的存取<br>17.\t期末專題驗收<br>18.\t期末考",
+        "en": "1.\tTo create a project<br>2.\tUser interface<br>3.\tDefining variables<br>4.\tConditionals and iterations<br>5.\tProcedures<br>6.\tFace-to-face classroom<br>7.\tListPicker component<br>8.\tClock component<br>9.\tMidterm<br>10.\tUsing the Canvas component for drawing<br>11.\tShowing web pages<br>12.\tPhone calls<br>13.\tShowing pictures and playing sounds<br>14.\tFace-to-face classroom<br>15.\tTextToSpeech component<br>16.\tDatabase access<br>17.\tFinal Project Presentation<br>18.\tFinal exam"
+    },
+    "weeklySchedule": "第一週 App Inventor 開發入門 (Introduction to App Inventor Development)<br>第二、三週 App Inventor 基礎與使用者介面設計 (Basics and UI Layout)<br>第四、五週 畫面控制與資料傳遞 (Screen Navigation and Data Passing)<br>第六、七週 Google Firebase 整合 (Google Firebase Integration)<br>第八週 APP專案討論與練習<br>第九週 期中APP專案 (Midterm Project)<br>第十、十一週 製作簡單遊戲應用程式 (Creating a Simple Game App)<br>第十二、十三週 JavaScript 基礎 (JavaScript Fundamentals)<br>第十四、十五週 Node-RED 基礎 (Node-RED Fundamentals)<br>第十六週 期末專案提案<br>第十七週 專案執行與進度討論 <br>第十八週 期末專案展示與報告 <br>",
+    "exams": {
+        "midterm": "期中APP專案",
+        "final": "期末專案展示與報告",
+        "other": "每個課程單元會有對應的「形成性評量」；APP Inventor 迷你專案"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解程式的設計概念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能夠開發設計App程式",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習製作專業簡報",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解手機APP對人類的長遠影響",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材：數位線上教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自編教材：數位線上教材",
+    "teachingSoftware": "MIT App Inventor 2",
+    "rules": ""
+}

@@ -1,0 +1,127 @@
+{
+    "code": "F0D39C02",
+    "name": {
+        "zh": "數位傳播實習媒體實務(一)",
+        "en": "Digital Media & Communication Project(Ⅰ)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資傳三乙"
+    ],
+    "instructors": [
+        "洪士傑"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "W0508"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "W0508"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "W0508"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "各式數位訊息內容與媒介如雨後春筍般出現，執行過程不但複雜而且多變，如何有效、精準、快速地完成目標訊息的傳遞，實為一大挑戰。數位媒體時代必須思考如何策略性集中製作資源，確保依其傳遞的媒介能有效而完整的到達目標客群。<br>本課程著重在團隊合作與專案執行，學員分組依自身專業能力為基礎，進行專案實務實習，實習內容包含訊息內容製作與訊息內容露出。<br>評量標準包含實務成果與團隊合作表現。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一單元：訊息內容製作<br>-子單元(A)：專案規劃。進行並完成專案提案實務實習。<br>-子單元(B)：專案執行。專案執行、報告、與專案修正實務實習。<br><br>第二單元：訊息內容露出<br>-子單元(C)：專案露出規劃。專案露出、專案整合露出企劃實務實習。<br>-子單元(D)：專案露出執行。專案展示觀摩、專案展示實務實習。<br><br>第三單元：正式上線<br>-執行正式專案初階。",
+        "en": "Unit 1: message content production<br><br>Subunit (A): Project planning.Conduct and complete practical internship on project proposal. <br>Subunit (B): Project execution. Project implementation, reporting and project revision practice internships.<br><br>Unit 2: The message content is exposed<br>Subunit (C): The project is exposed to the plan. Projects revealed and project integration to reveal the planning practice internship.<br>Subunit (D): The project is exposed to execution. The project will display the observations and the practical internships.<br><br>Project exposure planning.Project exposure, project integration to reveal the planning practice internship. <br><br>Unit 3: officially launched. Perform the initial steps of the  project."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "在實習實務工作團隊中，能尊重與接納並傾聽他人意見，具有表達陳述意見的能力，具有說服他人的能力，具有聯繫與協調的能力，能完成工作交接，能夠在會議中扮演應有的角色。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "在實習實務執行團隊裏，能夠仔細觀察事件、合理陳述問題，具有綜合、統整、判斷與推理的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "在實習實務團隊裏，能夠在自身單項工作上具備分析及洞察工作團隊人性的能力，並得以具備管理工作場合的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能與實習實務工作團隊維持良好關係，建立為目標共同努力的良好互動，遵循組織的紀律與制度，重視自我工作流程的有效性與合理性，對工作的品質與成果勇於承擔責任，並能自我省思、自我超越，不斷進取。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "在實習實務執行過程中，能熟悉傳播法規與道德，掌握國內與國際智慧財產權法規現況與發展趨勢，保障自我權益，並培養尊重他人智慧財產權觀念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

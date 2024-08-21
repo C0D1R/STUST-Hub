@@ -1,0 +1,166 @@
+{
+    "code": "04D04102",
+    "name": {
+        "zh": "體育生活(三)：網球(C)",
+        "en": "Physical Education(III)：Tennis"
+    },
+    "credit": "1",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "四技國企二甲",
+        "四技國企二乙",
+        "四技資工二甲",
+        "四技資工二乙",
+        "四技資工二丙",
+        "四技商設二甲",
+        "四技商設二乙",
+        "四資工國專二甲"
+    ],
+    "instructors": [
+        "陳新福"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": ""
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "網球是一門入門門檻很高運動，如何將繁複的網球基本動作簡化到每一位學生都可輕易的吸收課程是我開這門課的重點。學生將從最重要的身體律動(協調)開始,而後是球感的培養，最後才是動作的建構。如果學生能依此方式來學習網球，一定能事半功倍，縱使是大班級的課程也是一樣。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一週 準備週<br>本學期課程須注意事項規定<br>第二週 基本截擊動作教學 <br>1.握拍姿勢介紹<br>2.基本動作介紹<br>3.二人一組(一人抛球另一人截擊十次後互換練習)<br>第三週 基本截擊動作教學 <br>1.同上3<br>2.隔網截擊練習(手抛球方式)<br>第四週 基本截擊動作教學<br>1. 隔網截擊練習(抽球方式)<br>第五週 基本扣剎球動作教學 <br>1.握拍姿勢介紹<br>2.基本動作介紹<br>3.基本扣剎球動作<br><br>第六週 基本扣剎球動作教學<br>1. 基本扣剎球練習<br>第七週 基本扣剎球動作教學<br>1. 基本扣剎球練習<br>第八週 期中考<br><br>隔網截擊<br>第九週 期中考 <br>學校學科考試<br>第十週 綜合演練<br>1.正反手擊球+上網截擊<br>第十一週 綜合演練 <br>1..正反手擊球+上網截擊+扣剎球<br>第十二週 綜合演練 <br>1.正反週手擊球+上網截擊+扣剎球<br>第十三週 迷你網球比賽<br>1.二人小場地(半場)比賽<br>第十四週 迷你網球比賽<br>1.四人小場地(半場)比賽<br>第十五週 迷你網球比賽<br>1.單打比賽<br>2.雙打比賽<br>第十六週 期末考<br>雙打比賽對抗賽<br>第十七週 期末考<br><br>體育學科考試<br>第十八週 期末考 <br>學校學科考試",
+        "en": "Week 1<br>Course introduction<br><br>Week 2 Volley<br>1.\tIntroduction of grip<br>2.\tIntroduction of basic movement<br>3.\tGroup practice ( a group of two: one throw, one volley)<br><br>Week 3 Volley<br>1.\tSame above<br>2.\tVolley practice with net (Hand throw)<br><br>Week 4 Volley<br>Volley practice (forehand)<br><br>Week 5 ~ Week 7  Smash <br>1.\tGrip<br>2.\tBasic movement<br>Smash movement<br><br>Week 8 Mid-term<br>Volley with net<br><br>Week 9 <br>University mid-term<br><br>Week 10  Comprehensive practice <br>Forehand and back hand + Net volley<br><br>Week 11-Week 12  Comprehensive practice<br>Forehand and back hand + Net volley+ Smash<br><br>Week 13<br>2-man half court game<br><br>Week 14<br>4-man half court game<br><br>Week 15 mini tournament<br>1.\tSingles <br>2.\tDoubles <br><br>Week 16<br>Doubles tournament <br><br>Week 17<br>PE written exam<br><br>Week 18<br>University final exam<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解網球的歷史及演變",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解網球的歷史及演變",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以兩人玩球的方式學習控球及對打",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習網球發球的基本動作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習網球截擊的基本動作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解網球比賽的基本規則(單、雙打)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "單、雙打戰術的研擬",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能實際演練網球比賽(單、雙打及團體對抗賽)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

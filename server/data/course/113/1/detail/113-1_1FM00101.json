@@ -1,0 +1,117 @@
+{
+    "code": "1FM00101",
+    "name": {
+        "zh": "教育研究法",
+        "en": "Research Methods in Education"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研教經一甲"
+    ],
+    "instructors": [
+        "沈玫宜",
+        "陳志盛",
+        "陳信豪"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "N107"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "N107"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "N107"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本科目旨在協助研究生瞭解教育研究的特質和基本要項；介紹教育研究主要的研究方法；輔導研究生嘗試將教育研究法實際應用於自己的碩士學位論文研究計畫。",
+    "prerequisites": "無特殊要求；若具備基本的統計學知識與實際教學經驗為佳。",
+    "syllabus": {
+        "zh": "1.教育研究的性質<br>2.研究變項與假設 <br>3文獻探討的重點<br>4.抽樣方法與工具 <br>5.信度與效度考驗 <br>6.推論統計與描述統計 <br>7.實驗研究法<br>8.相關研究法<br>9.調查研究法<br>10.質的研究法<br>11.撰寫一份研究計畫<br><br>  <br>",
+        "en": "1.The Nature of Educational Research<br>2.Variables and Hypotheses<br>3.Reviewing the Literature<br>4.Sampling Methods<br>5.Validity and Reliability<br>6.Inferential Statistics and Descriptive Statistics<br>7.Experimental Research <br>8.Correlational Research<br>9.Survey Research <br>10.Qualitative Research  <br>11. How to Prepare A Research Proposal?<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "教導學生有關獨立研究的相關概念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉研究報告的撰寫與評鑑",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解教育研究的基本概念與方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能理論與實務並重，期望學生深入了解，進而能學以致用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

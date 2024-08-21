@@ -1,0 +1,121 @@
+{
+    "code": "70Q0AD01",
+    "name": {
+        "zh": "企業研究方法與學術倫理",
+        "en": "Business Research Methods and Academic Integrity"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專企管一甲",
+        "碩專企管一乙"
+    ],
+    "instructors": [
+        "簡俊成"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第2節",
+            "location": "S307"
+        },
+        {
+            "day": "週六",
+            "period": "第3節",
+            "location": "S307"
+        },
+        {
+            "day": "週六",
+            "period": "第4節",
+            "location": "S307"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "協助學生學習企業研究方法，從主題選擇、文獻回顧、研究架構的設定、問卷設計、簡單統計分析、到報告撰寫等。藉由結合實例練習與教導學術倫理，讓學生能學以致用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、\t研究類型與程序<br>二、\t訂定研究主題<br>三、\t變數與因果關係<br>四、\t資料蒐集與文獻回顧<br>五、\t抽樣方法<br>六、\t量表發展<br>七、\t量化研究類型<br>八、\t統計分析<br>九、\t質性研究概論<br>十、\t學術倫理<br>",
+        "en": "1.\tStudy patterns and procedures<br>2.\tSet research topics<br>3.\tVariables and causality<br>4.\tData collection and literature review<br>5.\tSampling method<br>6.\tScale development<br>7.\tTypes of quantitative research<br>8.\tStatistical Analysis<br>9.\tIntroduction to qualitative research<br>10.\tAcademic integrity<br>"
+    },
+    "weeklySchedule": "第01週 課程簡介<br>第02週 研究取向、類型與程序<br>第03週 訂定研究主題<br>第04週 變數關係<br>第05週 變數關係<br>第06週 文獻回顧<br>第07週 文獻回顧<br>第08週 ENDNOTE上機<br>第09週 口頭報告<br>第10週 研究方法<br>第11週 抽樣方法<br>第12週 量表發展<br>第13週 SPSS實作<br>第14週 SPSS實作<br>第15週 SPSS實作<br>第16週 學術寫作技巧<br>第17週 質性研究概論<br>第18週 期末測驗<br>",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "筆試",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "指導學生瞭解社會科學研究方法的重要性和主要理論。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "指導學生學會研究方法的流程與技巧。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生正確的研究態度。",
+            "teachingMethods": [
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生正確的學術倫理觀念。",
+            "teachingMethods": [
+                "其他",
+                "－教育部學術倫理線上課程"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－教育部學術倫理課程證書"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

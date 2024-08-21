@@ -1,0 +1,116 @@
+{
+    "code": "G0D09702",
+    "name": {
+        "zh": "人工智慧概論",
+        "en": "Introduction to Artificial Intelligence"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "五專資工四甲"
+    ],
+    "instructors": [
+        "許智淵"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "J405"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "J405"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "J405"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生瞭解計算機如何模擬人類行為，並對於人工智慧的各種應用有初步的認識。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 人工智慧簡介<br>2. 資料探勘<br>3. 模糊理論<br>4. 文件探勘<br>5. 人工智慧應用實例<br>6. 研究案例<br>7. 期末分組報告<br>",
+        "en": "1. Introduction <br>2. Data Mining <br>3. Fuzzy Theory <br>4. Text Mining <br>5. Applications <br>6. Case Study <br>7. Final Project Presentation<br>"
+    },
+    "weeklySchedule": "1. 概念引述<br>2. 技術介紹<br>3. 核心應用<br>4. 產業應用<br>5. 管理應用<br>",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "書面報告",
+        "other": "課程討論"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識人工智慧的專業術語",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備人工智慧的基本知識",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能進行人工智慧專題的簡報",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解人工智慧的發展趨勢",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1. 人工智慧：概念應用與管理，林東清，智勝，2022<br>                                          <br>2. 機器學習最強入門 - 基礎數學／機率／統計邁向AI真實數據專題實作 - 王者歸來，洪錦魁 ，深智數位",
+    "teachingSoftware": "",
+    "rules": "請同學尊重智慧財產權，使用正版教科書，不得非法影印，以免觸犯智慧財產權相關法令。"
+}

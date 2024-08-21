@@ -1,0 +1,140 @@
+{
+    "code": "65D00U01",
+    "name": {
+        "zh": "投資學",
+        "en": "Investment"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國商三甲"
+    ],
+    "instructors": [
+        "朱岳中"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "S509"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "S509"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S509"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The major areas of investment can be summarized into two categories: corporate investment and personal investment. This course will mainly focus on personal investment. Further, personal investment can be divided into two parts: the real assets investment and financial products investment. <br>Investment will introduce the characteristics of financial products, related financial institutions, classification of financial markets, the market trading norms, the skills of investment, and various risks. Investment management also means planning, organizing, and directing the invest activities that investors can make the right and appropriate investment decisions.<br>This course is to equip students with the knowledge and capability to make investment decisions. Investment decisions include capital allocation, investment in fixed assets, investment opportunity selection, risk and return evaluation, etc. This course also will equip students to engage invest related work in the future.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.投資基本概念<br>2.報酬與風險<br>3.投資市場分析<br>4.產業分析<br>5.個別投資標的分析<br>6.借貸市場<br>7.新金融商品",
+        "en": "The course will cover the following important topics:<br>1. General conception<br>2. Return and Risk<br>3. Financial products – equity securities<br>4. Financial products – fixed incomes securities<br>5. Investment market analysis.<br>6. Industry Analysis.<br>7. Underlying asset analysis.<br>8. Credit and Debit market.<br>9. New financial instruments."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解財務報表基本分析、國內外總體經濟對投資組合管理、績效運作之影響。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用excell軟體分析資料並正確解讀財務報表。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能觀察國內外貨幣市場、證券市場之資料轉換成資訊統合建構相關管理投資決策。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "充分了解投資理財的決策角色，達成企業的目標及建立企業社會責任。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備職場上之創新、國際觀及多元化專業知識的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "主動跨領域整合新知與積極參與多元學習，建構研究能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

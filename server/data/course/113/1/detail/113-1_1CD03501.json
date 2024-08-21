@@ -1,0 +1,110 @@
+{
+    "code": "1CD03501",
+    "name": {
+        "zh": "設計思考",
+        "en": "Design thinking"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技產設二甲"
+    ],
+    "instructors": [
+        "葉儷棻"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "E0507"
+        },
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "E0507"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過理論學習與實際演練,同學們將在本課堂上學習創新思考流程中的各種基本設計研究方法。以案例方式,學習應用所學方法於創新產品概念發想與概念評估階段,透過實作案例的結果與理論的測驗為本學期主要的評量方式。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程簡介<br>2.設計創新思考的7大階段<br>3.尋找機會點的方法<br>4.分析機會點的方法<br>5.使用者研究方法論<br>6.使用者研究資料分析<br>7.概念發想方法<br>8.概念評估方法<br>9.創意思考流程的案例運用",
+        "en": "1. Introduction to the course<br>2. 7 stages of design innovation thinking<br>3. Ways to find opportunities<br>4. Method of analyzing opportunity points<br>5. User research methodology<br>6. User research data analysis<br>7. Conceptual thinking method<br>8. Concept evaluation method<br>9. Case study of creative thinking process"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解基本設計研究方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習創意思考基本流程並實際體驗",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養分析與說服他人的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習分享與共同改善設計與成長",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

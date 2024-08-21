@@ -1,0 +1,108 @@
+{
+    "code": "20D18S01",
+    "name": {
+        "zh": "專業英文閱讀與寫作",
+        "en": "English Reading and Writing in Engineering"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "四技醫電四甲",
+        "四技電資四甲",
+        "四技控晶四甲",
+        "四技控晶四乙"
+    ],
+    "instructors": [
+        "趙春棠"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "K401"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程接續科技英文之後，希望能強化同學之專業英文閱讀與寫作能力。以工程專業英文為上課素材，每次上課都會指定習作，所有的習作都由教師批改。<br>",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.\t導螺桿線性致動器<br>2.\t超導體<br>3.\t系統程式<br>4.\t光譜儀<br>5.\t變壓器<br>6.\t電晶體放大電路<br>",
+        "en": "1.\tLeadscrew Linear Actuators<br>2.\tSuperconductors<br>3.\tSystem Software<br>4.\tMass Spectrometer<br>5.\tThe Transformers<br>6.\tTransistor Amplifier<br>"
+    },
+    "weeklySchedule": "Week 1-2:<br>1. 論文與技術報告的文法<br><br>Week 3-4:<br>2. 英文的標點符號<br><br>Week 5-6:<br>3. 論文與技術報告的字彙與文句<br><br>Week 7-8:<br>4. 論文與技術報告的格式與內容<br><br>Week 9: Mid-Term Exam<br><br>Week 10:<br>5. 論文投稿<br><br>Week 11:<br>6. 英文書信寫作<br><br>Week 12:<br>7. 履歷表與個人簡歷<br><br>Week 13:<br>8. 備忘錄、傳真暨其他文件<br><br>Week 14-15:<br>9. 常用字彙<br><br>Week 16-18: Final Report",
+    "exams": {
+        "midterm": "筆試",
+        "final": "口頭報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "擁有講演、示範、以及工程圖表、書面報告的溝通技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "擁有國際觀，並至少能夠使用一種外國語文於專業領域之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "擁有終身學習意願與能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "擁有融合人文與工程創作之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "科技英文寫作",
+        "author": "李開偉",
+        "publisher": "全華圖書",
+        "year": "2019",
+        "ISBN": "978-986-503-050-6",
+        "edition": "5"
+    },
+    "referenceBooks": "科技英文論文寫作<br>俞炳丰， 五南，2016<br>978-957-11-8466-1 (805)<br>第2版",
+    "teachingSoftware": "",
+    "rules": "修課一定要有教科書。若有經濟問題，可購買二手書，或向老師說明。"
+}

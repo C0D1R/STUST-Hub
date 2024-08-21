@@ -1,0 +1,115 @@
+{
+    "code": "20D1FR01",
+    "name": {
+        "zh": "智慧系統設計實務",
+        "en": "Intelligent system design and applications"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技醫電四甲"
+    ],
+    "instructors": [
+        "陳有圳"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "B503"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "B503"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "B503"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程完整而淺顯地介紹研習智慧型系統與相關機電資領域所需的專業基礎，並詳細探討各種新進的智慧型系統應用技術。來培育具備創新設計、跨領域技術整合、多元視野、科技生活化等特質能力及人本核心能力的科技人才為目標。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1 人工智慧及智慧型系統簡介<br>2 專家系統<br>3 機器學習<br>4 類神經網路<br>5 應用實例研析<br>",
+        "en": "1.Introduction to intelligent systems<br>2 Artificial intelligent systems<br>3 Machine learning<br>4.Neural networks<br>5.Application study<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "智慧系統導論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "人工智慧系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "類神經網路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "智慧系統實務應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

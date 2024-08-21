@@ -1,0 +1,108 @@
+{
+    "code": "70N15H01",
+    "name": {
+        "zh": "進階套裝軟體應用",
+        "en": "Advanced Software Package  Application"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜企管產攜一甲"
+    ],
+    "instructors": [
+        "汪世義"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.《電腦證照》TQC",
+        ""
+    ],
+    "description": "Excel已成為一項商務資料處理及分析的重要工具。本課程將以實例講解分析的方式，說明如何將Excel所提供的功能，靈活地應用在行政管理、營運收益分析等方面的實務工作。本課程將積極輔導同學考取相關電腦證照。<br>",
+    "prerequisites": "計算機概論",
+    "syllabus": {
+        "zh": "一、Excel基本操作與函數活用<br>1.資料格式化<br>2.公式的建立<br>3.資料的排序<br>4.資料的分析：資料篩選、樞紐分析表、篩選<br>5.合併彙算、運算列表<br>6.統計圖表的建立<br><br>二、實例講解與電腦證照考照輔導<br>",
+        "en": "1.) Creating and Naming Documents and Worksheets.<br>2.) Cell Formatting.<br>3.) Formulas.<br>a. Referencing formulas from other documents/worksheets.<br>b. Financial &amp; Mathematical Models.<br>c. Checking Formulas/Proof-reading Spreadsheets.<br>d. Repeating Cells and Copying Formulas.<br>e. Sum( ), Average(), Count(), Max(), Min(), vLookup( ), Rank(), PMT(), If( ), Dsum()...<br>4.) Sorting<br>5.) PivotTable Making<br>6.) Data Filtering<br>7.) Graphing/Charts.<br>"
+    },
+    "weeklySchedule": "第1週<br>課程介紹<br><br>第2~7週<br>Documents 文書處理<br>1 圖文編輯<br>2 表格設計<br>3 合併列印<br><br>第8~12週<br>Spreadsheets 電子試算表<br>1 資料編修與格式設定<br>2 基本統計圖表設計<br>3 基本試算表函數應用",
+    "exams": {
+        "midterm": "上機考",
+        "final": "上機考",
+        "other": "報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具有操作Excel軟體的基本能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能流暢地操作Excel解決日常作業的需求",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－上機考"
+                },
+                {
+                    "method": "期中",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練TQC Excel進階級整合性案例的解決方法，進而具有獲取證照的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "可以統整課堂上所學的技能，進而應用在工作問題的解決上",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－上機考"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "商務軟體應用能力Microsoft Office 2019",
+        "author": "財團法人中華民國電腦技能基金會",
+        "publisher": "碁峰/全華",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "商務軟體應用能力 2019<br>https://www.gotop.com.tw/books/BookDetails.aspx?Types=v&amp;bn=AEY040900",
+    "teachingSoftware": "https://s.yam.com/ZwzsW",
+    "rules": ""
+}

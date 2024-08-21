@@ -1,0 +1,115 @@
+{
+    "code": "80D17202",
+    "name": {
+        "zh": "會計學(一)",
+        "en": "Accounting (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技財金一乙"
+    ],
+    "instructors": [
+        "莊淨琳"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "S415"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "S415"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "S415"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 應熟悉如何利用正確的會計資訊，以提供即時攸關的決策。<br>2. 本課程著重於觀念之建立及原則之探討。<br>   由淺入深對於報表之製作，運用與決策攸關性等均有深入之剖析。<br>3. 期許能使同學對財會觀念有深入瞭解與應用<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程簡介<br>2.會計基本概念<br>3.會計科目與借貸法則<br>4.會計處理程序I—分錄，過帳，試算表<br>5..會計處理程序II—調整，結帳、編表<br>6.買賣業會計<br>7.買買業存貨<br>8.內部控制與現金<br>9.會計人員專業道德<br><br><br><br>",
+        "en": "1.Introduction to Accounting <br>2.Accounting Concept<br>3.Accounts and Rule of Debit and Credit<br>4.Accountnig Process I—Journalizing,Posting and Preparation of a Trial Balance<br>5.Accounting Process II—Adjusting,Closing and Preparation of Financial Statements<br>6. Merchandising Operations<br>7.Merchandising Inventory<br>8.Internal control and Cash <br>9.Accountants’ professional ethics and related obligation<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立國際財務報導準則的觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立會計基本問題的解決能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解各報表所有會計科目間的關聯性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "體認會計人員的職業道德",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

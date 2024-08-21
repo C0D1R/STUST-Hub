@@ -1,0 +1,110 @@
+{
+    "code": "X0Q08801",
+    "name": {
+        "zh": "商事法專題研討(一)",
+        "en": "Seminar on Commercial Law(I)"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩專財法一甲"
+    ],
+    "instructors": [
+        "鄭植元"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第11節",
+            "location": "S411B"
+        },
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "S411B"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "商事法應是除民法外，為日常生活相當容易接觸到的法律之一，也是商業化社會所應該具備之能力。本課程設計目的，期能讓同學在上完一學期課程後，可具備初步解決未來工作中所面臨之商事法相關法律問題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、信託之類型<br>二、我國信託法之解釋與適用<br>三、信託之權利與義務<br>四、目前信託法之改進<br>",
+        "en": "1. Various Types of Trust<br>2. Interpretation and Application of Trust Law<br>3. Rights and Obligation of Trust<br>4. Improvements to Current Trust Law<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "暸解信託之核心概念與重點法制議題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "暸解信託法常見之法律爭議及思考方式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "掌握信託法之條文解讀能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過實務案例討論，了解信託法之實務運作方式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

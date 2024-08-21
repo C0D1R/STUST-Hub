@@ -1,0 +1,182 @@
+{
+    "code": "I0D01901",
+    "name": {
+        "zh": "幼兒行為輔導",
+        "en": "Behavioral Counseling for Young Children"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技幼保三甲"
+    ],
+    "instructors": [
+        "楊淑娥"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "H206"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "H206"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在於認識兒童常見的行為問題及障礙，並探討兒童行為問題的輔導策略及技巧，以增進對兒童行為及情緒問題之理解與處遇的專業知能。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.常見的兒童行為問題，以及輔導策略與技巧。<br>2.幫助兒童學習順從。<br>3.幫助兒童學習遵守規定。<br>4.增進兒童的社交行為技巧。<br>5.增進兒童的問題解決技巧。<br>6.增進兒童處理生氣的能力。<br>7.增進兒童管理自己學業的行為技巧。<br>8.增進兒童瞭解及表達感覺的能力。<br>9.幫助父母增進處理兒童行為問題的能力與技巧。<br>",
+        "en": "1. Common problem with children’s behavior, and counseling strategies and techniques.<br>2. Help children learn to obey.<br>3. Help children to learn by following the rules.<br>4. Improve children's social behavior skills.<br>5. Improve children's problem-solving skills.<br>6. Improve children's ability to manage their anger.<br>7. Improve children's behavioral skills in managing their own studies.<br>8. Improve children's ability in both understanding and expressing feelings.<br>9. Help parents improve their ability and skills in dealing with children’s behavioral problems.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識兒童常見的行為問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識兒童常見的行為問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識處理兒童行為問題的輔導策略及技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識處理兒童行為問題的輔導策略及技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進父母的參與及正向增強。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進父母的參與及正向增強。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進父母的參與及正向增強。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升幫助父母處理兒童行為問題的策略及技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升幫助父母處理兒童行為問題的策略及技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升幫助父母處理兒童行為問題的策略及技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

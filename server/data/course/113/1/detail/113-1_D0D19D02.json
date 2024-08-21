@@ -1,0 +1,122 @@
+{
+    "code": "D0D19D02",
+    "name": {
+        "zh": "管理學",
+        "en": "Management"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技行流一乙"
+    ],
+    "instructors": [
+        "黃盈裕"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "T0211"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "T0211"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "台灣的企業現正面臨非常大的內外環境變化，在過去國際舞台所扮演的專業生產角色的台灣企業，也因此被迫面臨不得不面對的許多議題。企業主及管理者則需要更宏觀及更長遠的視野，及更快更有效率的應變能力。本課程除介紹基本管理概念外，也希望將發生在今天的各項國際議題融入",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章 管理概論<br>第二章 管理思潮的演變<br>第三章 企業經營環境<br>第四章 規劃與策略<br>第五章 規劃的方法與工具<br>第六章 組織<br>第七章 組織變革與創新<br>第八章 溝通與激勵<br>第九章 領導<br>第十章 人力資源管理",
+        "en": "Chapter 1 What Is Management?<br>Chapter 2 A Brief History of Management<br>Chapter 3 The Environment<br>Chapter 4 The Strategic and Operational Planning Process<br>Chapter 5 Planning Tools<br>Chapter 6 Organizing and Delegating Work<br>Chapter 7 Managing Change:Culture,Innovation,and Diversity<br>Chapter 8 Communicating &amp; Motivating<br>Chapter 9 Leading<br>Chapter 10 Human Resources Management"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解管理學理論的過去與未來的發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解企業經營環境趨勢及策略規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解組織發展及管理議題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解人力資源發展與社會責任",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解創業與創新發展趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

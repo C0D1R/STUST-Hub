@@ -1,0 +1,99 @@
+{
+    "code": "70N06502",
+    "name": {
+        "zh": "管理會計",
+        "en": "Managerial Accounting"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜行流產攜二甲"
+    ],
+    "instructors": [
+        "陳億蓮"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程概述 (Introduction)：<br>1.針對各重要管理會計主題逐一探討:制度設計，成本習性，規劃與控制，利潤規劃，<br>績效評估及投資決策等<br>2. 本課程以中文講義, 循序漸進的方式安排，在不增加太多負擔下, 使同學對管會有基本的了解<br>3.身為企管人應熟悉如何利用正確的會計資訊",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程簡介<br>2.成本名詞與觀念<br>3.分批成本制<br>4.分步成本制<br>5.預算<br>6.成本習性與估計<br>7.成本數量利潤分析<br>8.標準成本與績效評估<br>9.彈性預算<br>10.責任會計<br>11.攸關分析<br>12.資本預算",
+        "en": "1.Overview<br>2.Basic cost term and concept<br>3.Job-order costing systems<br>4.Process costing system<br>5.Budgeting<br>6.Cost behavior and estimation<br>7.Cost-volume-profit analysis<br>8.Standard costing and performance measures<br>9.Flexible budgeting<br>10.Responsibility accounting<br>11.Relevant costs and benefits<br>12.Capital expenditure decision"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解並描述管理會計領域之專業知識與理論學理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用管理會計原理，分析會計實務資料。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對決策攸關事項有效辨識適當之處理原則與方式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現分析結果，以了解企業的經營成果及協助商業決策。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,115 @@
+{
+    "code": "20D1GB01",
+    "name": {
+        "zh": "臨床實驗與數據分析",
+        "en": "Clinical experiment and data analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技醫電四甲"
+    ],
+    "instructors": [
+        "侯春茹"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "K401"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "K401"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "K401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程第一部分簡介臨床實驗相關的問題與倫理以及簡單的實驗設計；第二部份介紹臨床研究常用之數據分析方法，應用EXCEL或SPSS統計軟體執行數據繪圖與分析，讓同學瞭解如何將數據轉變成圖表和統計數據，未來可應用在專題報告結果的撰寫。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.臨床試驗簡介<br>2.臨床試驗之倫理議題<br>3.研究程序與抽樣<br>4.資料的整理<br>5.敘述統計<br>6.推論統計<br>",
+        "en": "1. Introduction to clinical trials<br>2. Ethical issues in clinical trials<br>3. Research procedure and sampling<br>4.Data presentation<br>5.Descriptive statistics<br>6. Inference statistics<br>"
+    },
+    "weeklySchedule": "第1周 臨床試驗簡介<br>第2周  放假<br>第3周 倫理道德議題<br>第4周 研究問題<br>第5周 研究母體<br>第6周 基本研究設計<br>第7周 隨機過程<br>第8周 盲性<br>第9周 期中考<br>第10周 統計試驗設計的觀念與方法<br>第11周 樣本數與統計檢定力<br>第12周 數據性質和取得的方法<br>第13周 數據的整理:製表<br>第14周 數據的整理:製圖<br>第15周 數據分析:敘述性統計<br>第16周 數據分析:推論統計<br>第17周 期末考<br>第18周 放假",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解臨床實驗與倫理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解臨床實驗設計的方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學習將實驗數據進行繪圖與製表",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習運用電腦軟體進行統計分析",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Fundamentals of Clinical Trials",
+        "author": "Friedman, L.M., Furberg, C.D., DeMets, D., Reboussin, D.M., Granger, C.B.",
+        "publisher": "Springer International Publishing",
+        "year": "2015",
+        "ISBN": "978-3-319-18538-5",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

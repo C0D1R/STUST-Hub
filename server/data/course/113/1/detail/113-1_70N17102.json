@@ -1,0 +1,127 @@
+{
+    "code": "70N17102",
+    "name": {
+        "zh": "行銷學",
+        "en": "Marketing"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技企管二甲"
+    ],
+    "instructors": [
+        "林育理"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "S314"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "S314"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "S314"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "行銷管理所探討者，即為企業如何透過市場區隔變數界定目標市場，並進行產品價值的思考與定位，繼而擬訂落實產品定位之4P(產品、價格、訂價、促銷)策略。Mㄕ",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 瞭解行銷的角色<br>2. 行銷資訊與行銷研究<br>3. 掌握市場機會<br>4. 塑造產品價值<br>5. 促進產品流通<br>6. 傳達產品價值<br>7. 行銷執行與控制",
+        "en": "1. Introduction to marketing<br>2. Marketing information system and marketing research<br>3. Identifying market opportunity<br>4. Creating the value of product<br>5. Product promotion<br>6. Delivering product value<br>7. Marketing control"
+    },
+    "weeklySchedule": "課程內容與進度：<br>第一週：課程介紹與行銷概述<br>課程介紹、教學目標、評分標準<br>行銷的定義與重要性<br>行銷觀念的演變<br>第二週：行銷環境分析<br>行銷宏觀環境<br>行銷微觀環境<br>SWOT分析<br>第三週：消費者行為<br>消費者決策過程<br>影響消費者行為的因素<br>市場調查與數據分析<br>第四週：市場區隔與目標市場<br>市場區隔的概念與方法<br>目標市場選擇<br>市場定位策略<br>第五週：產品策略<br>產品生命周期<br>新產品開發<br>品牌管理與包裝策略<br>第六週：定價策略<br>定價目標與方法<br>影響定價的因素<br>定價策略與實務<br>第七週：通路策略<br>通路設計與管理<br>物流與供應鏈管理<br>電子商務與直銷通路<br>第八週：推廣策略<br>廣告與公共關係<br>促銷與人員銷售<br>數位行銷與社交媒體策略<br>第九週：服務行銷<br>服務的特性<br>服務品質管理<br>顧客服務與滿意度<br>第十週：國際行銷<br>國際行銷環境分析<br>國際行銷策略<br>跨文化行銷挑戰<br>第十一週：行銷計劃與實施<br>行銷計劃的制定<br>行銷活動的執行<br>行銷計劃的評估與控制",
+    "exams": {
+        "midterm": "考試或報告",
+        "final": "考試或報告",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解行銷的基礎理論與其所扮演的角色",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能建立行銷分析及計畫的能力、了解行銷策略制定的方法及分析市場戰略的應用",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能熟練獨立思考、邏輯分析及統整之能力，有效率地解決行銷問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能養成管理者應有的表達、溝通、協調與談判能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能形塑具職業倫理與社會責任之專業管理人才",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "",
+    "rules": ""
+}

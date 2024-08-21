@@ -1,0 +1,115 @@
+{
+    "code": "20N1BT01",
+    "name": {
+        "zh": "尖端科技",
+        "en": "State-of-the-art Technology"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技電機四甲"
+    ],
+    "instructors": [
+        "陳啟杰"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "I0309"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "I0309"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "I0309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.從五花八門的發明科技中瞭解並介紹技術開發的背景，引導學生對未來科技的走向有更進一步的認識，並激發起學生對科技發展創新的興趣。<br>2.介紹未來最具前瞻性的科技技術，包括此尖端高科技之發展歷程、延伸的企業價值及導引之產業發展、科技法規規劃評估、創新與研發、技術商品化等重要內容。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1 能源科技<br>   * 現代能源危機<br>   * 全球暖化現象<br>   * 再生能源<br>   * 替代能源<br>2. 智慧型機器人之現況與未來發展趨勢<br>3. 人工智慧之現況與未來發展趨勢<br>4. 生物科技之現況與未來發展趨勢<br>5. 奈米科技之現況與未來發展趨勢<br>6. 網際網路及電腦未來發展及應用趨勢\"",
+        "en": "1. Energy Technology<br>   * Energy Resource Crisis<br>   * Global Warming<br>   * Renewable Energy<br>   * Alternative Energy<br>2. Intellent Robots Technology -- the present status and future trend<br>3. Artificial Intelligence -- the present status and future trend<br>4. Bio Technolgy -- the present status and future trend<br>5. Nano Technolgy -- the present status and future trend<br>6. Internet Technology -- the present status and future trend"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "請問你是否了解核能發電的原理嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "請問你了解機器人有哪些感測嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "請問你知道類神經網路與基因演算法等人工智慧嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "請問你了解網際網路與電腦之未來發展及應用趨勢嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

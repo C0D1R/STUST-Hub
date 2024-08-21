@@ -1,0 +1,122 @@
+{
+    "code": "1JN01801",
+    "name": {
+        "zh": "高齡福祉生活空間規劃與設計",
+        "en": "The planning and design of well-being living environment for the Elderly"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜二技高福四甲"
+    ],
+    "instructors": [
+        "張序槐"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第1節",
+            "location": "O403"
+        },
+        {
+            "day": "週六",
+            "period": "第2節",
+            "location": "O403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在於使學生對於高齡者生活居住環境的區分方式與現況，及在規劃設計上所必需重視的要項能有所學習與認織。課程主要區分為四大部分，分別為高齡居住環境的分類、高齡居家生活的現況與設計、高齡社區生活環境的現況與規劃、與老人在機構生活環境的現況與規劃等四大部分來進行，授課主要以講義與簡報來進行，並在課程中安排高齡居住環境規劃與經營的實務工作者來進行演講，以建構學生對於高齡者福祉生活空間規劃與設計能有完整的概念與認知。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、高齡者居住環境概論<br>二、高齡者居住環境構成與相關法令<br>三、高齡者居住環境現況、問題與對策<br>四、無障礙環境與通用設計規劃原則與實例<br>五、高齡者居家環境與居住安排<br>六、高齡者終身住宅與服務提供<br>七、高齡者住宅與合作式住宅規劃與設計<br>八、高齡者社區照顧環境構成與現況<br>九、從社區照顧到在地生活的實踐<br>十、社區關懷據點規劃設置與運作<br>十一、高齡者社區日間照顧中心與小規模多機能規劃與設計<br>十二、高齡者社區生活照顧空間參訪活動<br>十三、Group Home的空間規劃與設計-失智老人團體家屋規劃設置與經營<br>十四、高齡者社會福利機構之籌設與管理<br>十五、複合式高齡者福祉設施規劃設置與運作<br>十六、高齡者連續性照顧環境構成與生活品質",
+        "en": "1.Introduction to the living environment of the elderly<br>2.The composition of the living environment of the elderly and related laws and regulations<br>3.Current situation, problems and countermeasures of living environment for the elderly<br>4.Accessibility and general design planning principles and examples<br>5.Elderly living environment and living arrangements<br>6.Elderly homes and services provided<br>7.Planning and design of elderly residential and cooperative housing<br>8.The composition and current situation of community care for the elderly<br>9.From community care to the practice of living in the land<br>10.Planning setup and operation of community care center<br>11.Planning setup and design for the center of day care and small-scale multi-function unit<br>12.Visiting activity of elderly community life care space<br>13.Planning setup and design for the group home<br>14.The establishment and management of social welfare institutions for the elderly<br>15.Compound elderly people's welfare facilities planning and operation<br>16.Elderly care for the environment and quality of life"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解高齡者居住環境構成與相關法令",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解高齡者居住環境現況、問題與對策",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識無障礙環境與通用設計規劃原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識高齡者各式住宅、生活照顧空間與福祉環境之規劃與設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "促進學生對高齡者福祉生活空間規劃與設計之正確的認知與了解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

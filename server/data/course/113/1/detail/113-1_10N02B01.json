@@ -1,0 +1,113 @@
+{
+    "code": "10N02B01",
+    "name": {
+        "zh": "職場自主學習(一)",
+        "en": "workplace learning(I)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技自控一甲"
+    ],
+    "instructors": [
+        "李友竹"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第11節",
+            "location": "K401"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "1"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "體認職場自主學習的重要",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、職場自我導向學習能力、態度與準備程度。 <br>二、職場壓力的不同背景變項。<br>三、職場壓力的感受。 <br>四、職場學習參與。<br>",
+        "en": "1. Self-learning, attitude and preparation in career<br>2. Pressure from different background<br>3. Feelings of pressure in career<br>4. Participation and learning in career"
+    },
+    "weeklySchedule": "1~8週   課堂溝通與問題追蹤<br>9週     自修<br>10~17週 期末前書面報告準備工作<br>18週    書面報告繳交",
+    "exams": {
+        "midterm": "出席率",
+        "final": "書面報告",
+        "other": "出席率"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "職場自我導向學習能力、態度與準備程度。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "職場壓力的不同背景變項。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "職場壓力的感受。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "職場學習參與方法。",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "NONE",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "期末報告100%"
+}

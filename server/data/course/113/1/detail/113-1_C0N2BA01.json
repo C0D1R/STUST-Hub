@@ -1,0 +1,125 @@
+{
+    "code": "C0N2BA01",
+    "name": {
+        "zh": "英文閱讀與寫作(一)",
+        "en": "English Reading and Writing (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜二技應英三甲",
+        "夜四技應英三甲"
+    ],
+    "instructors": [
+        "黃大夫"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "N310"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "N310"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "N310"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程是基礎英文閱讀寫作，目標在於增加學生單字量，培養學生閱讀理解能力，加強閱讀寫作技巧。<br><br>This is a beginning level reading and writing course offered for freshmen. It aims to help students expand vocabulary, improve reading comprehension, and develop reading and writing strategies. <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 利用字根、字首、字尾幫助學生記憶單字。<br>2. 幫助學生熟悉英文閱讀寫作技巧,例如根據上下文判斷字義。<br>3. 介紹不同的文章結同構和格式<br>4. 閱讀不同類型的文章,強化學生辨識文章組織結構之能力。<br>5. 文章題材包含教育、文化、語言學習、媒體、電影、科技、藝術、全球化、社會科學等各類型文章。<br>6.練習運用工具書<br>",
+        "en": "This course aims to <br>1.Help students remember vocabulary by using root words, prefixes, and suffixes.<br>2.Familiarize students with reading and writing strategies.<br>3.Introduce students to different reading and writing structures and formats.<br>4.Introduce students to different genres.<br>5.Offer a chance for students to read texts of different topics, including education, culture, language learning, media, movies, technology, arts, globalization, social science, etc.<br>6.Help students learn how to use reference tools<br>"
+    },
+    "weeklySchedule": "WK1-2: Intro; Understand essential issues of vocabulary use and acquisition<br>WK3-4: Understand relevant theories of vocabulary knowledge and learning <br>WK5-6: Learn to use vocabulary assessment tools<br>WK7-8: Be familiar with useful word lists<br>WK9: Midterm<br>WK10-11: Understand key elements for corpus-based analysis  <br>WK12-14: Learn to do corpus-based analysis of vocabulary<br>WK15-16: Learn to use corpus analysis tools or software<br>WK17: Be familiar with reading and writing strategies;Learn about different genres <br>WK18: Final<br>",
+    "exams": {
+        "midterm": "筆試/簡報",
+        "final": "書面報告",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "利用字根字首字尾，學習記憶單字。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉閱讀和寫作策略",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "認識文章結構和格式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "閱讀及練習各種主題和風格文章之寫作",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

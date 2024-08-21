@@ -1,0 +1,136 @@
+{
+    "code": "1GM00E01",
+    "name": {
+        "zh": "產業經濟學專題研討",
+        "en": "Seminar in Industrial Economics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研經管二甲"
+    ],
+    "instructors": [
+        "朱美琴"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "E0602"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "E0602"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "E0602"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Industrial Economics is the study of firms, industries and markets. Thus, the aim of this course is to provide students with an understanding of theoretical models of firm behaviour and of empirical approaches to testing such models.  The first part concentrates on understanding firm’s behaviours in different market structures.  We will also introduce key concepts in game theory and then apply them to some specific industrial economics models.  The second part of the course focuses on empirical analysis in industrial economics.  We will look at studies of structure and firm/industry performance, dealing with relevant measurement and econometric issues.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. Introduction of industrial economics.<br>2. A game theory <br>3. Quantity and Price Setting Models \t\t<br>4. Product Differentiation Models \t\t<br>5. Empirical Analysis I: theoretical basis\t\t<br>6. Empirical Analysis II: SCP\t\t\t<br>7. Summing up: the role of theory and evidence\t<br>",
+        "en": "1. Introduction of industrial economics.<br>2. A game theory <br>3. Quantity and Price Setting Models \t\t<br>4. Product Differentiation Models \t\t<br>5. Empirical Analysis I: theoretical basis\t\t<br>6. Empirical Analysis II: SCP\t\t\t<br>7. Summing up: the role of theory and evidence\t<br>"
+    },
+    "weeklySchedule": "I.  WHAT IS INDUSTRIAL ORGANIZATION? References: W&amp;J, Chapters 1 and 2; C&amp;W, CH 1<br>    o Review your intermediate microeconomics or managerial economics text concerning competition, monopoly, monopolistic competition, and oligopoly markets.<br><br>II. Taiwan Industrial Development and Industrial Policy, Machinery Industry , Fastener Industry, IC industry, etc.<br><br><br>III.Approaches to Market power References: WJ (Ch. 6); Besanko et al. CH8； C&amp;W CH 12<br>    o SCP approach <br>    o Structural approach <br>    o Empirical examples <br><br>IV. Pricing strategies with Market Power C&amp;W, CH4 &amp; 5<br><br>V.  Homogeneous-Product Oligopoly C&amp;W, CH7-8<br>    (1) Single-Period Oligopoly Models <br>        a. Cournot Model <br>        b. Bertrand Model <br>    (2) Sequential Moves – Stackelberg Leader <br><br>VI. Market Power <br>(1) Collusion and Dynamic games References: WJ (Ch. 9 and 10)； C&amp;W CH 10<br>   o Factors affecting collusion <br>   o Collusion Imperfect information and imperfect monitoring <br>   o Antitrust laws <br>(2) Differentiated products References: WJ (Ch. 13) ； C&amp;W CH 11<br>   o Horizontal differentiation <br>   o Vertical differentiation <br>   o Approaches to estimation <br>   o Examples of market power estimation <br>(3) Mergers References: WJ (Ch. 4, 4.3)<br>   o Market definition and the price effect of mergers <br><br>VII. Entry (References: WJ Ch. 11 and 12； C&amp;W CH 13-14)<br>    o Definition of entry <br>    o Entry deterrence <br>    o Limit pricing <br>    o Predatory pricing <br>    o Excess capacity <br> <br><br>",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "上台報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "To understand different market structures under which firms operate, with particular emphasis on concentration and monopoly power and oligopoly.",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "To analyze how market structures impact the behavior of firms.",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "To apply game theory to understand the strategic behavior of firms in the market.",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "To use the theoretical insights presented in this course to explain observed features of particular markets and industries.",
+            "teachingMethods": [
+                "參觀實習"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "To analyze the role of governmental regulations in industries and the subsequent implications of public regulation.",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Industrial Organization: A Strategic Approach",
+        "author": "Jeffrey Church and Roger Ware (C & W)",
+        "publisher": "The McGraw-Hill Companies, Inc",
+        "year": "2000",
+        "ISBN": "ISBN 0-256-20571-X",
+        "edition": ""
+    },
+    "referenceBooks": "C&amp;W, the Text is available at: http://works.bepress.com/jeffrey_church/23<br><br>Waldman and Jensen, Industrial Organization: Theory and Practice, 2nd edition (2001)<br>Oz Shy, Industrial Organization: theory and applications, MIT Press, 5th edition",
+    "teachingSoftware": "no",
+    "rules": "Keeping Current About Industrial Organization: e-mail me at least once a week with a synopsis of the article you found most interesting during the past week in either the WSJ or other daily or weekly news publication.  Each e-mail must list the date and page number(s) of the article, as well as a brief description of the article and an analysis of how this fits into the course.<br>Asking Questions"
+}

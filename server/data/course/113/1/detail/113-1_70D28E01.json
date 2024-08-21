@@ -1,0 +1,117 @@
+{
+    "code": "70D28E01",
+    "name": {
+        "zh": "就服專業人員實務",
+        "en": "Employment Services Specialist Practices"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管三甲",
+        "四技企管三乙",
+        "四技企管三丙"
+    ],
+    "instructors": [
+        "方妙玲"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S316"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "S316"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "S316"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹就業服務業，並協助學生準備相關的檢定考。<br>Introduction to Employment Services Industry and assistance to students in preparing for relevant certification exams",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.就業服務業<br>2.就業服務法<br>3.勞動法令<br>4.報考資訊<br>5.解考古題",
+        "en": "1. Employment Services Industry <br>2. Employment Service Act <br>3. Labor Laws and Regulations <br>4. Registration Information<br>5.Analysis of Past Exam Papers"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解就業服務機構的運作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解就業服務專業人員的業務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "研讀勞動法令",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解就業服務專業人員檢定的規定事項",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

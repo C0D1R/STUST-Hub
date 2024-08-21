@@ -1,0 +1,124 @@
+{
+    "code": "E0D31701",
+    "name": {
+        "zh": "日語基本句型練習(一)",
+        "en": "Japanese Sentence Pattern Practice I"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應日一甲",
+        "四技應日一乙"
+    ],
+    "instructors": [
+        "陳亭希"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "N501"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "N501"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.日語能力檢定3,4級",
+        ""
+    ],
+    "description": "此課程延續日文(一)A之課程,與日文(一)課程內容一貫,限一年級A組同學選修,並不得單選此課程。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一週 發音 名詞句<br>第二週 形容詞句<br>第三週 存在句<br>第四週 形容詞中止形<br>第五週 動詞句<br>第六週 來去動詞句<br>第七週 期中複習<br>第八週 期中考<br>第九週 推測表達句<br>第十週 動詞中止形<br>第十一週 進行式<br>第十二週 原因理由句<br>第十三週 連體修飾句<br>第十四週 自動詞狀態存在句<br>第十五週 願望表達<br>第十六週 可能形動詞<br>第十七週 總複習<br>第十八週 期末考",
+        "en": "(A組)日本語が全く分らない新入生を対象として開講されたコースです。日本語の発音、文法という基礎的な内容を中心に扱って授業を行います。主な授業内容は次のようです。<br>１、平仮名、カタカナなどの発音、<br>名詞・述語表現「～は～です。」<br>２、形容詞<br>３、存在表現「ある」と「いる」<br>４、形容詞の連用表現　<br>５、動詞の変化及び活用<br>６、往復の動詞「いく」、「来る」<br>７、中間の復習<br>８、中間テスト<br>９、推量表現<br>10．動詞の連用形表現<br>11．アスペクト<br>12．原因・理由の表現<br>13．動詞の連体形表現<br>14．自動詞・他動詞<br>15．目的・希望の表現<br>16．可能・難易の用法<br>17．総復習<br>18．期末試験<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過閱讀文章，了解及掌握日語的基本句 型及語法架構。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用習得的日語能力，透過閱讀及朗誦日 語文章可以培養基礎的翻譯及口譯能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用語言練習，達到訓練與人溝通的技巧 與能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "面對各種句法問題，能獨立思考、判斷， 並正確地使用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過閱讀文章提升欣賞文學藝術作品之 美能力及素養。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

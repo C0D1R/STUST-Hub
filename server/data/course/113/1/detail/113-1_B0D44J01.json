@@ -1,0 +1,110 @@
+{
+    "code": "B0D44J01",
+    "name": {
+        "zh": "管理學",
+        "en": "Management"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技休閒一甲"
+    ],
+    "instructors": [
+        "林舜涓"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "T0510"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "T0510"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程探討管理的功能包括為什麼要學管理,管理的歷史根源,管理所面對的環境,規劃的基本慨念,決策的制定,組織的設計,管理變革與創新,領導與激勵,控制的重要與工具",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.管理者與管理<br>2.管理的環境<br>3.規劃的基本概念<br>4.制定決策<br>5.組織設計<br>6.用人與人力資源管理<br>7.領導<br>8.激勵與獎酬<br>9.溝通與人際技巧<br>10.控制的重要與控制工具",
+        "en": "1.HISTORY OF MANAGEMENT THOUGHT AND PRACTICE2<br>2.ENVIORONMENTAL CONTEXT OF MANAGEMENT<br>3.PLANNING AND DECISION MAKING<br>4.STRATEGIC MANAGEMENT<br>5.ORGANIZING AND STAFFING<br>6.MANAGING HUMAN RESOURCES<br>7.LEADING<br>8.MONITORING AND EVALUATING<br>9.OPERATIONS MANAGEMENT<br>10.ORGANIZATIONAL CHANGE AND RENEWAL"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養具備一般性管理知識之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備分析歸納推理的管理能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "擁有計劃評估及執行管理功能之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備解決管理問題與協調機制之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

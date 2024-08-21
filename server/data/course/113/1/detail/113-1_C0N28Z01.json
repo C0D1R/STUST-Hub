@@ -1,0 +1,156 @@
+{
+    "code": "C0N28Z01",
+    "name": {
+        "zh": "英語口語訓練(一)",
+        "en": "English Oral Training (Ⅰ)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技應英二甲"
+    ],
+    "instructors": [
+        "史帝夫"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "N501"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "N501"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "N501"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This is the core course in improving and practicing English speaking skills.<br>Students will be able to increase their ability to speak, listen and communicate effectively in English.<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Students will develop speaking ability in English, using English listening and speaking activities in class. Students will improve pronunciation, will identify and use language for everyday contexts, and will identify and apply language for topics of immediate interest to students. Students will be expected to use English in all class activities and in preparing reports, presentations, and role plays for use in class.",
+        "en": "Students will develop speaking ability in English, using English listening and speaking activities in class. Students will improve pronunciation, will identify and use language for everyday contexts, and will identify and apply language for topics of immediate interest to students. Students will be expected to use English in all class activities and in preparing reports, presentations, and role plays for use in class."
+    },
+    "weeklySchedule": "Listening and speaking exercises related to a variety of everyday topics, such as making small talk, describing people, accommodations, and locations, and talking about news items and recent events (and so on).",
+    "exams": {
+        "midterm": "Listening Test, Oral Test",
+        "final": "Listening Test, Oral Test",
+        "other": "Quizzes, Homework Assignments"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "To be able to listen to and understand spoken English",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "To be able to speak English effectively",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "To be able to pronounce English clearly and intelligibly",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "To be able to identify and use language for everyday contexts",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "To be able to identify and use language for topics of immediate interest of students",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Vibe Book 2",
+        "author": "Lambert, S.",
+        "publisher": "Caves Books Ltd.",
+        "year": "2017",
+        "ISBN": "978-957-606-831-7",
+        "edition": "1"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

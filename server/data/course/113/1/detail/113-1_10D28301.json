@@ -1,0 +1,116 @@
+{
+    "code": "10D28301",
+    "name": {
+        "zh": "電腦輔助設計",
+        "en": "Computer-Aided Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技製造三甲",
+        "四技製造三乙"
+    ],
+    "instructors": [
+        "許絜翔"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "E0202"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "E0202"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "E0202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "提供複合式幾何資料建構環境，對於3D線架構及NURBS曲線(最高24階)做多種整順編輯，配合變數式草圖特徵功能，融合參變數系統與變易幾何之架構，做自動拘束求解。並在建構實體後，可將多個組立特徵及非參數實體，運用布林運算融合或剪切工件。以工程特徵導向作為產品設計之應用，其內建參數提供更便捷的設變程序。例如：孔、槽、圓柱、錐拔槽、倒圓角、倒斜角、螺紋、薄殼…等標準設計特徵。可直接在實體或薄殼上設計複雜之自由曲面，並融合為一關聯性、特徵幾何、參變數之模型實體。支援Bottom-Up及Top-Down及Designing In Context三種設計思維，關聯性鏈結各零組件之幾何資料，並提供多種組裝關係，零件材料表及組立件立體爆炸圖等。",
+    "prerequisites": "具備基本識圖能力將有助於學習本課程。",
+    "syllabus": {
+        "zh": "單元\t                         教材綱要\t <br>簡介\t                         UG NX2使用環境、參數設定\t\t<br>線架構繪製與編修\t                平面曲線繪製 <br>實體建構\t                         螺栓,煙灰缸,口哨器<br>草圖繪製\t                         草圖曲線及尺寸約束<br>實體組立\t                         吊車零件,吊車組合件<br>3D轉2D工程圖繪製\t                法籣接頭尺寸標注<br>進階實體建構與編修\t                水龍頭,馬克杯<br>自由曲線建構與編修\t                高腳杯,牛奶杯<br>進階曲面建構與編修                滑鼠<br>",
+        "en": "Uuit Topics\t                        <br>Itroduction                   UG NX2 environment using、arameter setting<br>Create and Edit Wireframe Drawing         Plane curve drawing<br>Create Solid Feature          Screw、Circle Smoke Set、Whistle devices<br>Create Sketch Drawing         Sketch curve、Dimension constrain<br>Parts Assembly                Hook parts、Hook Parts Assembly<br>3D Transfer to 2D Diagram     Flange Drawing、Drafting Dimension<br>Create and Edit Advanced Solid feature        Facet、Mark cup<br>Create and Edit Free Form Feature            High heel cup、 Milk Cup<br>Create and Edit Advanced Free Form Feature    Mouse case<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能具有產品三D視圖的原理知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備機械零件設計與應用能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備使用機械組立技術之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備機械零件設計報告分析與撰寫能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,111 @@
+{
+    "code": "20D1DG01",
+    "name": {
+        "zh": "實務專題(二)",
+        "en": "Special Projects (II)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技控晶四甲"
+    ],
+    "instructors": [
+        "陳有圳"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.由學生擇定專題實務的題目，並設計與實際製作出成品。<br>2.發揮學生團隊分工與系統整合精神。<br>3.應用與雙向溝通、互動討論。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、課程內容<br>1.充分討論之主題與技術可行性評估。<br>2.相關資料或資訊蒐尋(集)與研究。<br>3.進行系統整合與分組設計。<br>4.分組進行實體製作。<br>5.檢討設計之缺失與改良。<br>6.期末報告與觀摩討論。<br>7.排定進度，提出書面與口頭報告（Power-point）。<br><br>二、請各組儘速完成企劃書，其撰寫內容如下：<br>2-1 摘要<br>2-2 研究背景動機與目的<br>2-3 文獻回顧與專利、資料蒐集<br>2-4 研究目標與預期成效<br>2-5 研究方法、進行步驟與進度<br>2-6 人員分工編配<br>2-7 機器、儀器、設備與材料<br>2-8 經費需求<br>2-9 時程管制與計畫進度<br>2-10 預期遭遇困難或瓶頸與解決方案<br>2-11 參考文獻",
+        "en": "describe simply as follows:<br>（1） Introduction to Search Design Related Reference: Books, Journals, Web Sites<br>（2） Searching Method for Useful Parts<br>（3） Introduction to Design Method<br>（4） Introduction to Proposal Writing<br>（5） Introduction to Report Writing"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "概念設計的修改與確認",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "機構與控制系統的具體設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "機構與電路的產出",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "原型機的產出/實驗測試",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "結案報告/技術文件的撰寫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

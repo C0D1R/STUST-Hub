@@ -1,0 +1,152 @@
+{
+    "code": "G0D00801",
+    "name": {
+        "zh": "計算機程式",
+        "en": "Computer Programming"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技資工一甲",
+        "四資工產業一甲",
+        "四資工國專一甲"
+    ],
+    "instructors": [
+        "黃琨義"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "C303"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "C303"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "C303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "程式設計是資訊工程學生的基礎課程，本課程主要希望帶領學生能夠瞭解並開始學習程式設計，此課成主要教授以C語言為主。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.電腦及網際網路之介紹<br>2.不同程式語言之發展與演進<br>3.C程式設計簡介<br>4.結構化程式的開發<br>5.控制流程指令的介紹<br>6.迴圈指令的介紹<br>7.函式的介紹<br>8.陣列的介紹<br>9.指標的介紹<br>10.字串字元的介紹<br>11.格式化輸入/輸出<br>12.Struct, Unions,Bitsand Enums的介紹<br>13. Files system 的介紹<br>",
+        "en": "1.Overview<br>2.Program Language <br>3.C Program Language<br>4.Structure programming development method<br>5.control flow<br>6.loop<br>7.function/subroutine<br>8.array<br>9.pointer<br>10.character/strings<br>11.format in/out<br>12.Struct, Unions,Bitsand Enums<br>13. Files system operations<br>"
+    },
+    "weeklySchedule": "01. 認識 C 語言<br>02. C 語言基本概述<br>03. 基本資料型態<br>04. 格式化的輸出與輸入<br>05. 運算子、運算式與敘述<br>06. 選擇性敘述<br>07. 迴圈<br>08. 函數<br>09. 陣列與字串<br>10. 指標<br>11. 結構與其它資料型態<br>12. 檔案處理<br>13. 大型程式的發展<br>14. 動態記憶體配置與鏈結串列<br>15. 位元處理<br>16. 邁向 C++ 之路",
+    "exams": {
+        "midterm": "上機考",
+        "final": "上機考",
+        "other": "上機考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.能了解程式執行的流程與開發環境",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－上機考"
+                },
+                {
+                    "method": "期中",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.能利用開程式開發環境進行程式的開發與除錯",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－上機考"
+                },
+                {
+                    "method": "期中",
+                    "type": "其他"
+                },
+                {
+                    "method": "－上機考",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "3.能將想法轉換成可執行的程式",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－上機考"
+                },
+                {
+                    "method": "期中",
+                    "type": "其他"
+                },
+                {
+                    "method": "－上機考",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "4.能辨識適當外語表示之電腦指令，並能閱讀相關文件",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "C 語言教學手冊 第4版",
+        "author": "洪維恩",
+        "publisher": "旗標",
+        "year": "",
+        "ISBN": "9789574424849",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "Attendance: 15%, Others: 25% (上課表現、作業、小考等), Midterm examination: 30%, Final examination: 30%"
+}

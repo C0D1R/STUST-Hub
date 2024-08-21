@@ -1,0 +1,128 @@
+{
+    "code": "15D01501",
+    "name": {
+        "zh": "汽車新式裝備",
+        "en": "Automobile New Equipment"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技車輛一甲",
+        "四技車輛一乙"
+    ],
+    "instructors": [
+        "許哲嘉"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "R302"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "R302"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "R302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "現今車輛新式配備的原理與功能介紹",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1. 講解ABS系統的作動理論與技術<br>2. 講解TCS系統的理論與技術<br>3. 講解EBD系統的理論與技術<br>4. 講解BAS系統的理論與技術<br>5. 講解恆溫空調系統的熱流控制理論與技術<br>6. 講解混合引擎車的理論與技術<br>7. 講解汽車導航系統的理論與技術",
+        "en": "1. Theory and technology of Anti-Brake System<br>2. Theory and technology of Tracing Control System<br>3. Theory and technology of Electrical Brake Distribution<br>4. Theory and technology of Brake Assistance System<br>5. Theory and technology of Auto Air-Conditioning System<br>6. Theory and technology of Hybrid Engine Vehicle<br>7. Theory and technology of GPS<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解近代車輛發展現況",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知悉車輛搭載新式裝備項目",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識各新式裝備架構與原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "未來車輛發展趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "延伸創新創意思考邏輯",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

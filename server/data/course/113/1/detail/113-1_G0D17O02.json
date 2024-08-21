@@ -1,0 +1,115 @@
+{
+    "code": "G0D17O02",
+    "name": {
+        "zh": "行動通訊網路概論與實務",
+        "en": "Introduction & Practice to Mobile Communication Networks"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "五專資工五甲"
+    ],
+    "instructors": [
+        "吳東興"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "C304"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "C304"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "C304"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹各種行動通訊網路，討論行動通訊網路的無線電技術、通訊協定、資源與行動管理等議題。藉由行動通訊網路的介紹並結合問題的思考與實作，培育行動資通訊人才。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t行動通訊網路簡介<br>2.\t行動通訊網路發展歷程<br>3.\t行動通訊網路的移動性管理技術<br>4.\t行動通訊網路的資源管理<br>5.\t行動通訊網路的應用<br>",
+        "en": "1.\tIntroduction to Mobile Communication Networks <br>2.\tHistory of Mobile Communication Networks <br>3.\tMobility Management for Mobile Communication Networks<br>4.\tResource Management in Mobile Communication Networks  <br>5.\tApplications over VANETs<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立行動通訊和網路實務工程之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養行動通訊和網路專業知識與技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道如何搜尋行動通訊和網路之相關期刊、網站及網路資源。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過課堂提問、作業、考試、書面報告與上台提報等過程培養學生抗壓力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "1JN01101",
+    "name": {
+        "zh": "運動與保健",
+        "en": "Introduction to Exercise and Health"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜二技高福三甲"
+    ],
+    "instructors": [
+        "許宏志"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第3節",
+            "location": "O101"
+        },
+        {
+            "day": "週六",
+            "period": "第4節",
+            "location": "O101"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "運動與健康，闡述「健康促進概念與運動行為改變策略」、「體適能的健身理論」、「健身運動指導」以及「運動保健」等理念與做法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程介紹、老化<br>2.生理學原理與老化機制<br>3.積極老化與全人健康<br>4.身體活動與老化<br>5.老人功能性體適能的概念與評量<br>6.老人心肺適能指導<br>7.高齡相關議題與新聞<br>8.老人肌肉適能指導<br>9.老人柔軟度指導<br>10.老人平衡力指導<br>11.老人高血壓之運動指導<br>12.老人糖尿病之運動指導<br>13.如何指導老人開始運動<br>",
+        "en": "1. Course introduction<br>2. Physiological principles and aging mechanisms<br>3. Active aging and whole-person health<br>4. Physical activity and aging<br>5. The concept and assessment of functional fitness of the elderly<br>6. Elderly cardiopulmonary guidance<br>7. Senior issues and news<br>8. Elderly muscular fitness guidance<br>9. Elderly softness guidance<br>10. Elderly balance guidance<br>11. Exercise guidance for the elderly with hypertension<br>12. Exercise guidance for the elderly with diabetes<br>13. How to guide the elderly to start exercising<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解運動與保健",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識健康促進概念與運動行為改變策略",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解高齡健康飲食文化與營養保健",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進運動促進保健創意教學技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

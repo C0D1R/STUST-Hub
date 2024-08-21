@@ -1,0 +1,127 @@
+{
+    "code": "D0D1BY02",
+    "name": {
+        "zh": "企業資源規劃",
+        "en": "Enterprise Resource Integration and Planning"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技行流三乙"
+    ],
+    "instructors": [
+        "薛健宏"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0204"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0204"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "T0204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "如何將企業的物流、金流、資訊流作充分的整合，使管理者獲得與企業運作相關的即時資訊，以對有限資源做出最適時、適地的安排，是「企業整合資源規劃-ERP」系統扮演的角色。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 課程介紹與ERP系統之發展與趨勢。<br>2. ERP導入方法。<br>3. Work Flow ERP系統介紹與操作。<br>4. ERP配銷模組介紹。<br>5. ERP生管與製造模組介紹。<br>6. ERP配銷模組應用師認證與生管製造模組應用師認證。",
+        "en": "1. Course Introduction and ERP System Development and Trends;<br>2. ERP Implementation;<br>3. Work Flow ERP Introduction and Operation;<br>4. Introduction to ERP Distribution Module;<br>5. Introduction to ERP Production &amp; Manufacturing Module;<br>6. Certification Examinations of ERP."
+    },
+    "weeklySchedule": "第1週 管理維護系統<br>第2週 基本資料管理系統<br>第3-4週 庫存管理系統<br>第5-6週 訂單管理系統<br>第7-8週 採購管理系統<br>第10-11週 應收管理系統<br>第12-13週 應付管理系統<br>第14-15週 票據資金系統<br>第16-17週 會計總帳管理系統",
+    "exams": {
+        "midterm": "上機考",
+        "final": "上機考",
+        "other": "隨堂作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "採購與存貨管理",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "生產規劃與控制",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "銷售與配銷管理",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "運籌資訊管理",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "ERP證照",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "ERP GP應用人才培訓系列-ERP基礎觀念及導入方法篇",
+        "author": "鼎新電腦",
+        "publisher": "",
+        "year": "",
+        "ISBN": "978-957-29613-6-0",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

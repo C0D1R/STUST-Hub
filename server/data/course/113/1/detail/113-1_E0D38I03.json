@@ -1,0 +1,123 @@
+{
+    "code": "E0D38I03",
+    "name": {
+        "zh": "口譯入門(一)(C)",
+        "en": "Introduction to Interpretation (I)"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技應日三甲",
+        "四技應日三乙"
+    ],
+    "instructors": [
+        "盧駿葳"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "N410"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "N410"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "訓練學生中日口譯之基本技巧與能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、認識口譯<br>二、跟述練習<br>三、加譯<br>四、減譯<br>五、 paraphrasing<br>六、 link",
+        "en": "1.Introduce of interpretation<br>2.Shadowing practice<br>3.Adding words practice<br>4.Reducing words practice<br>5.Paraphrasing<br>6.link"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養聽力、專注力、對口語文法的理解力，藉以培養符合職場需求之口譯技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養日翻中、中翻日口譯的基礎能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "基礎筆記技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養跟述的實戰能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以分組活動進行商務實況演練活動，學生具備日文口譯能力之外，同時習得解決問題的方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

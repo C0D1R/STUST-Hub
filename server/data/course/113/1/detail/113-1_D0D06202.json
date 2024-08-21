@@ -1,0 +1,115 @@
+{
+    "code": "D0D06202",
+    "name": {
+        "zh": "統計學(一)",
+        "en": "Statistics (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技行流二乙"
+    ],
+    "instructors": [
+        "施坤壽"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "T0204"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0204"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "統計是最重要的資料分析工具，可以將一組資料簡化為有用的資訊，提供管理者有效的決策，其簡化過程所使用的理論依據，即是本課程所探討的範疇。<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "緒論<br>統計圖表<br>敘述統計量<br>機率概論<br>離散型隨機變數及其常用的機率分配<br>連續型隨機變數及其常用的機率分配<br>抽樣與抽樣分配<br>",
+        "en": "Introduction<br>Descriptive statistics<br>probability<br>Discrete distribution<br>Continuous distribution<br>Sampling"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "資料分析的統計方法與基本理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效辨識是當的統計方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "資料轉換成資訊用以建立管理決策",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "利用excel軟體分析資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

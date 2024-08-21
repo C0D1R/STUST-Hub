@@ -1,0 +1,115 @@
+{
+    "code": "G0D12303",
+    "name": {
+        "zh": "物理",
+        "en": "Physics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資工二丙"
+    ],
+    "instructors": [
+        "黃琨義"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "D204"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "D204"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "D204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "物理是科學的一個分支,在現今的科技中,要了解許多原理及技術,必須要有物理的知識.本課程分上、下學期各三學分.課程內容包含:力學(含運動學)、熱力學、振動與波、電磁學、幾何光學與物理光學.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章:緒論<br>第二章:一維運動<br>第三章:二維運動<br>第四章:力與牛頓運動定律<br>第五章:等速率圓周運動<br>第六章:功與能量<br>第七章:衝量與動量<br>第八章:旋轉運動學<br>第九章:旋轉動力學<br>第十章:彈性與簡諧運動",
+        "en": "Chapter 1 Introduction <br>Chapter 2 Kinematics in One Dimension <br>Chapter 3  Kinematics inTwo Dimensionas<br>Chapter 4 Forces and Newton's Laws of Motion<br>Chapter 5 Dynamics of Uniform Circular Motion<br>Chapter 6 Work and Energy<br>Chapter 7 Impulse and Momentum<br>Chapter 8 Rotational Kinematics<br>Chapter 9 Rotational Dynamics<br>Chapter 10 Simple Harmonic Motion and Elasticity"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.能了解基本物理觀念與其應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.能將基本物理學之原理應用於工程及日常生活中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.藉由撰寫物理作業，訓練學生的表達能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.能具備從事工程科學所需觀察、分析、思考之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

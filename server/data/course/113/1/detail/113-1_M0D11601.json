@@ -1,0 +1,151 @@
+{
+    "code": "M0D11601",
+    "name": {
+        "zh": "統計學(一)",
+        "en": "statistics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技餐旅二甲"
+    ],
+    "instructors": [
+        "李源明"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0310"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "T0310"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "T0310"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹統計方法的基本概念，內容包括資料的蒐集與整理、分析與解釋等敘述統計以及由樣本推論母體的估計、檢定、迴歸分析、變異數分析、卡方檢定等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一單元<br>第1章 緒論<br>第2章 資料的性質與蒐集<br>第3章 資料的整理與表現<br>第二單元<br>第4章 機率論<br>第5章 間斷性隨機變數<br>第6章 簡單隨機抽樣與抽樣分配<br>第三單元 估計與檢定<br>第7章 母體的參數估計<br>第8章 母體的假設檢定<br>第四單元 線性統計模式<br>第9章 變異數分析<br>第10章 簡單迴歸分析<br>第五單元 無母數統計<br>第11章 卡方檢定",
+        "en": "1. Introduction<br>2. Collection and presentation of data<br>3. Description and summary of data<br>4. Probability<br>5. Discrete random variable<br>6. Sampling distribution<br>7. Estimation<br>8. Hypothesis testing<br>9. Analysis of Variance<br>10.Simple linear regression<br>11.Chi-square test"
+    },
+    "weeklySchedule": "Week 1-2:   資料與統計<br>Week 3-5:   敘述統計：表格與圖形法<br>Week 6-8:   敘述統計：數值方法<br>Week 9  :   期中考<br>Week 10-11: 機率導論<br>Week 12-14: 離散機率分配<br>Week 15-17: 連續機率分配<br>Week   18 : 期末考<br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "有不定期小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解資料分析的統計方法與基本學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能針對管理問題有效辨識適當的統計方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用統計方法的重要性",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能將資料轉換成資訊並用以建立管理決策",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用統計方法分析管理實務資料",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用統計軟體分析資料並正確解讀報表",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現資料分析結果，讓不懂統計專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "統計學",
+        "author": "陳可杰、黃連海 (譯)",
+        "publisher": "滄海書局",
+        "year": "2023",
+        "ISBN": "978-626-97379-2-5",
+        "edition": "6版"
+    },
+    "referenceBooks": "方式榮、張文賢(2020)，基礎統計學，華泰文化出版。ISBN:978-986-98977-8-5。",
+    "teachingSoftware": "MS-power-point、MS-EXCELL",
+    "rules": "請準時繳交作業，上課不得遲到早退，不得講話干擾上課，正常發問除外!"
+}

@@ -1,0 +1,116 @@
+{
+    "code": "1GM00K01",
+    "name": {
+        "zh": "模糊理論與決策分析",
+        "en": "Fuzzy Theory and Decision Analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研經管二甲"
+    ],
+    "instructors": [
+        "朱大中"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "E0602"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "E0602"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "E0602"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course is to introduce concepts of fuzzy set theory, fuzzy decision making models, fuzzy number ranking methods and theirs applications to management and/or business.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(1)模糊集合<br>(2)語意變數及語意值<br>(3)模糊數<br>(4)模糊算數運算<br>(5)模糊數比序法<br>(6)模糊多準則決策<br>(7)模糊近似最佳解排序技術<br>(8)模糊線性規劃<br>(9)管理相關應用<br>(10)商業相關應用",
+        "en": "(1) Fuzzy set<br>(2) Linguistic variable and values<br>(3) Fuzzy numbers<br>(4) Fuzzy arithmetic operations<br>(5) Fuzzy number ranking methods<br>(6) Fuzzy multiple criteria decision making<br>(7) Fuzzy technique for order preference by similarity to ideal solution<br>(8) Fuzzy linear programming<br>(9) Applications to management<br>(10) Applications to business"
+    },
+    "weeklySchedule": "week 1-2. Fuzzy sets<br>week 3-4. Linguistic variable, values and fuzzy numbers<br>week 5-7. Fuzzy arithmetic operations<br>week 8. Fuzzy number ranking methods<br>week 9. Midterm Exam week<br>week 10-11. Fuzzy number ranking methods<br>week 12-13. Fuzzy multiple criteria decision making<br>week 14-15. Fuzzy technique for order preference by similarity to ideal solution<br>week 16. Fuzzy linear programming (optional)<br>week 17. Applications to management and business<br>week 18. Final Exam week<br>",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "書面報告",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "專業知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "問題分析",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "研究創新",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "教學與研究倫理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1. H.-J. Zimmermann, Fuzzy set theory and its applications, Kluwer Academic Publishers 2001. 2. A. Kaufmann and M. M. Gupta,Introduction to Fuzzy Arithmetic: Theory and Application, VanNostrand Reinhold, New York, 1991.",
+    "teachingSoftware": "",
+    "rules": "Course schedule, teaching materials, evaluation etc. may be adjusted upon students' learning performance."
+}

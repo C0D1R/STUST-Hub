@@ -1,0 +1,139 @@
+{
+    "code": "1LD05201",
+    "name": {
+        "zh": "從電視影集談哲學",
+        "en": "The philosophical conversation about TV series"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "薛清江"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "M204"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "M204"
+        },
+        {
+            "day": "週五",
+            "period": "第9節",
+            "location": "M204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "相較於電影，電視影集最大的特色在於不受時間與場地的限制，能將錯綜複雜故事情節交待清楚。筆者以為，作為一種哲學普及傳播的媒介，它除了有吸引學生的敘事手法外，裡頭更涉及豐富的哲學議題，值得拿來課堂跟同學們討論。因此，本課程擬從同學比較關注的電視影集談起，帶領學生們一窺哲學思想的堂奧，希望提供他們省思自身的生命課題的思辯能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.導論：電視影集中的哲學面向<br>2.公視影集中人文視野：以王小棣系列作品為主軸<br>3.韓劇「信號」中的弱勢關懷<br>4.日劇中的生活美學：從《不能結婚的男人》展開<br>5.《怪醫豪斯》中的生命倫理爭議<br>6.克里斯多夫‧諾蘭兄弟的科技反思：聚焦於《疑犯追縱》與《西方極樂世界》<br>7.《謊言終結者》中的人性洞察<br>",
+        "en": "1. Introduction: The Philosophical Approach of TV Series<br>2. The public view of the humanities vision: with Wang Xiaoyu's series as the main axis<br>3. Weak care in the Korean drama \"Signal\"<br>4. Life Aesthetics in Japanese Drama: From \"Man Who Can't Get Married\"<br>5. Bioethics Disputes in \" House, M.D. \"<br>6. The Science and Technology Reflection of the Christopher Nolan Brothers: Focus on \" Person of Interest \" and \" Westworld \"<br>7. Human Insights in The\" Lie to Me\"<br>"
+    },
+    "weeklySchedule": "一、導論：影集的敘事方式及其哲學意涵<br>(本課程各專題符合SDGs目標4：優質教育，確保有教無類、公平及高品質的教育，及提倡終身學習。)\t<br>二、生命的迷航與校準：/公視影集《花甲少年轉大人》、《俗女養成記》、日劇《我的事說來話長》<br>三、脆弱者如何尋找霸凌下的可能出口?：/美劇《漢娜的遺言》<br>四、群體孤獨與手機成癮：/美劇《虛擬幻夢》\t<br>五、愛情中的佔有與放手：/美劇《安眠書店》與日劇《東京愛情故事》\t<br>六、厭女情結與體制階級：/韓劇《信號》<br>(本專題符合SDGs目標5：性別平等，實現性別平等，消除所有地方婦女的各種形式的歧視。)<br>七、生存遊戲與合作競化：/美劇《驚恐島》<br>八、生命的悲劇感與死亡：/《怪醫豪斯》與《不死法醫》<br><br>",
+    "exams": {
+        "midterm": "期中替代作業",
+        "final": "期末心得報告",
+        "other": "平時作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解「生命倫理」、「科技反思」、「生活美學」等核心概念。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "藉由不同國籍的電視影集，理解各國文化的差異。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "從影集欣賞中習到的語文能力，實際運用在未來的工作當中。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "與修課同學討論哲學議題。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "建立自我的人生觀與負責任的人生態度。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "利用不同的哲學視角反思，提升價值判斷。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "《從電視影集談哲學》",
+        "author": "薛清江",
+        "publisher": "自行出版",
+        "year": "2024",
+        "ISBN": "978-626-01-2230-0",
+        "edition": "初版"
+    },
+    "referenceBooks": "1、教師自編補充講義與投影片。<br>2、內格爾(2002)，《哲學入門的九堂課》，台北：究竟。<br>3、侯貝等人(2016)，《法國高中生哲學讀本1：政府是人民的主人還是僕人？ 探討政治的哲學之路》，台北：大家出版社。<br>4、侯貝等人(2017)，《法國高中生哲學讀本2：人能自主選擇而負擔道德責任嗎？──思考道德的哲學之路》，台北：大家出版社。<br><br>",
+    "teachingSoftware": "PPT、多媒體、Flip數位平台",
+    "rules": "一、手機請關機或改震動，如果重大的電話，請直接去外面聽，以不干擾老師和同學們上課為原則。本課程不歡迎整節滑手機的同學，若是無法自我克制，請勿選此門課。<br>二、禁止帶寵物來旁聽。上課時如果和同學有重大事件要商量，請跟老師報備後直接出去找地方討論，之後再進來上課。若硬要在上課時講話聊天吵到老師及其他同學上課的權益，老師會不客氣地把同學趕出去；若履勸不聽，平常成績將以零分計算。<br>"
+}

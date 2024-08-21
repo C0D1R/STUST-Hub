@@ -1,0 +1,115 @@
+{
+    "code": "J0N14B01",
+    "name": {
+        "zh": "文化創意商品與周邊設計",
+        "en": "Cultural and creative goods design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技視傳四甲"
+    ],
+    "instructors": [
+        "陳瀅"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "W0701"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "W0701"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "W0701"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "目前全球創意產業市場相當活絡，美國、歐洲的進出口量超過全球市場的50%，由於全球各地的創意產業按照當地的產業發展背景有所差異，政府的輔導機制也有所差異，要生產出可以銷售全球市場的商品，須具備真正的市場差異性，要了解市場差異性就必須對當地市場具備一定的探討，在台灣，大部分中小企業全以外銷為主，但文創的商品發展與一般市場稍微有些差異，然還是必須符合市場需求，因此要發展創意產業市場仍須先了解全球產業市場才能永續發展，且創意產業可以發展的領域相當廣泛，不同的周邊商品為產業所創造的市場最後可以超越本業，本課程將從市場概況及全球相關案例探討，進而了解未來發展機會。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.全球創意產業市場及當地產業背景分析<br>2.分產業類型探討相關產品發展趨勢<br>3.創意商品開發企劃<br>4.開發流程及可應用模式<br>5.創意商品創意商品開發設計<br>6.創意產業行銷模式探討<br>",
+        "en": "1. Analysis of global creative industry market and local industry background<br>2. Discuss the development trend of related products by industry type<br>3. Creative product development plan<br>4. Development process and applicable mode<br>5. Creative product creative product development and design<br>6. Discussion on the marketing model of creative industries<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解文創商品全球市場概況",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析產品定位",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "設計實務操作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "行銷策略制定",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

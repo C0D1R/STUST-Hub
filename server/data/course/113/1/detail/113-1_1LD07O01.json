@@ -1,0 +1,116 @@
+{
+    "code": "1LD07O01",
+    "name": {
+        "zh": "古典文學與娛樂創意(A)",
+        "en": "Classical Literature and Entertainment Creativity"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "王淑蕙"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "T0211"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0211"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0211"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.課程核心：解說「古典文學」，運用於現代生活之各種「娛樂創意」，為主要課程核心。<br>2.課程進度：以「神話與動漫遊戲」、「儒家與影視文創」、「六朝志怪之與神同行」、「唐詩與流行歌曲」、「宋詞與耽美敘事」、「元雜劇與報仇爽劇」等單元主題，分配16週教學進度。<br>3.預期成效：教授古典文學，使學生具有娛樂創意的審美能力。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第1週：介紹課程、分組、準備教材<br>第2 - 5週：神話與動漫遊戲<br>第6 - 8週：儒家與影視文創<br>第9週：期中考<br>第10 - 11週：六朝志怪之與神同行<br>第12 - 14週：唐詩與流行歌曲<br>第15週：宋詞與耽美敘事<br>第16 -1 7週：元雜劇與報仇爽劇<br>第18週：期末考<br>",
+        "en": "Week 1：Introductory Course, group, Prepare teaching materials<br>Week 2-5：Myth  and Animation games<br>Week 6-8：Confucianism and film and television cultural creation<br>Week 9：Midterm exam<br>Week 10-11：Monsters of the Six Dynasties: Walking with the Gods<br>Week 12-14：Tang poetry and popular songs<br>Week 15-17：Yuan Zaju and Revenge Drama<br>Week 18：Final exam<br>"
+    },
+    "weeklySchedule": "課堂進行方式：四人一組，上課因討論的方便，可依組別而坐。<br><br>第一週　授課方式；期考、平時成績計算方式介紹<br>        <br>第二週　「《山海經》與動漫遊戲」1<br>          神話角色介紹：女媧、西王母、九尾狐、刑天、相柳、燭陰...<br><br>第三週　「《山海經》與動漫遊戲」2<br>          英雄聯盟-阿璃、山海情缘四大神獸廣告片、山海經‧騶吾  進入哈利波特宇宙...<br><br>第四週  「《山海經》與動漫遊戲」3<br>          【長城】(饕餮大軍襲擊片段) HD、寄生獸 動漫 有著眼睛及嘴巴...<br><br>第五週  「《山海經》與動漫遊戲」4<br>          神話角色+遊戲作業說明、分配、實作<br><br>第六週　「儒道的處世智慧」1<br>          孔廟的文創、電影片斷介紹<br><br>第七週　「儒道的處世智慧」2<br>          現代社會違反仁、義的惡質商人<br><br>第八週  「現代影視應用」：韓劇篇<br><br>第九週　期中考\t<br><br>第十週　檢討考卷、「六朝志怪之死後的世界」1 <br>           亞洲地府與幽冥鬼魂展、麻豆代天府十八層地獄、朱秀華借屍還魂...<br><br>第十一週  「死後的世界之商機」2<br>          「念大杯咒」享咖啡半價、金紙蛋糕<br><br>第十二週  「與神同行」電影觀賞<br><br>第十三週　「唐詩與流行歌」1<br>            李白〈靜夜思〉與流行歌曲欣賞：〈如果你是李白〉...<br><br>第十四週　「唐詩與流行歌」2<br>           絕句詩與流行歌曲欣賞：〈戀愛絕句選〉...<br><br>第十五週　 「唐詩與流行歌」3<br>           其他詩人流行歌曲欣賞：〈緣分一道橋〉...<br>           <br>第十六週　 唐詩電影觀賞<br>           日本作家夢枕獏的魔幻歷史小說《沙門空海之大唐鬼宴》<br><br>第十七週　「元雜劇的悲劇意識」<br>          竇娥冤故事介紹、報仇爽劇欣賞<br><br>第十八週　期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "出席率+討論+作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "「儒家與影視文創」內涵教學",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "「唐詩與流行歌曲」之詩與歌",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "「神話與動漫遊戲」報告",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "「元雜劇與報仇爽劇」例舉",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "古典‧今用",
+        "author": "王淑蕙主編",
+        "publisher": "滄海",
+        "year": "2019",
+        "ISBN": "9789863630975",
+        "edition": "初版"
+    },
+    "referenceBooks": "1.王淑蕙：《山海經與動漫遊戲》103學年度獎助教師編纂教材及製作教具審核通過呈繳作品,限館內閱覽(A411089)<br>2.張曼娟：《唐詩樂遊園》（台北：遠見天下文化，2013.10）。<br>3.有鬼君：《拍案叫絕的中國志怪小說精彩故事》(台北：遠流出版社，2021.07)。<br>4.余恕誠：《唐詩風貌及其文化底蘊》（台北文津出，1999.8）。<br>",
+    "teachingSoftware": "依學校配備之教學設備。",
+    "rules": "1.課程的內容與進度，將視授課需要作調整。<br>2.作業或加分作業請按時繳交。<br>"
+}

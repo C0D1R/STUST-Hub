@@ -1,0 +1,132 @@
+{
+    "code": "11N12701",
+    "name": {
+        "zh": "車輛工程概論",
+        "en": "Introductory to Vehicle Engineerning"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技車輛一甲"
+    ],
+    "instructors": [
+        "盧建源"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "R301"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "R301"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "R301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "藉由車輛產業各領域之現狀及車輛各系統之工作原理之介紹，激發學生對車輛相關領域之興趣。",
+    "prerequisites": "對車輛相關領域有興趣者",
+    "syllabus": {
+        "zh": "1.車輛產業之管理<br>2.汽車業之銷售與營運<br>3.汽車簡易機械常識<br>4.汽車車身簡介<br>5.汽車電器系統簡介<br>6.汽車底盤簡介<br>",
+        "en": "1. Vehicle industry management.<br>2. Marketing and opetating of vehicle.<br>3. Gereral mechanical informations of vehicle.<br>4. Introduction of vehicle body.<br>5. Introduction of vehicle electronic devices.<br>6. Introduction of vehicle chassis."
+    },
+    "weeklySchedule": "第1週 ~ 第3週 車輛產業之管理<br>第4週 ~ 第6週 汽車產業之銷售與營運<br>第7週 ~ 第8週 汽車機械運作模式簡介<br>第9週 期中考<br>第10週 ~ 第12週 汽車底盤結構特性簡介<br>第13週 ~ 第15週 汽車電路迴路系統簡介<br>第16週 ~ 第17週 複合動力汽車系統之簡介<br>第18週 期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "隨堂測驗"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "車輛產業之管理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "汽車業之銷售與營運",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "汽車簡易機械常識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "汽車底盤簡介",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "汽車原理",
+        "author": "黃靖雄, 賴瑞海",
+        "publisher": "全華圖書",
+        "year": "2015",
+        "ISBN": "9789572192290",
+        "edition": "第一版"
+    },
+    "referenceBooks": "汽車是怎樣設計製造的, 陳新亞, 機械工業出版社, 2013",
+    "teachingSoftware": "學校FlipClass 數位學習軟體",
+    "rules": "1.出席率、學習態度精神、表達與建議。<br>2.請同學尊重智慧財產權，使用正版教科書，不得非法影印，以免觸犯智慧財產權相關法令。"
+}

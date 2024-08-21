@@ -1,0 +1,111 @@
+{
+    "code": "X0M06601",
+    "name": {
+        "zh": "法律倫理",
+        "en": "Legal Ethics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "碩研財法一甲",
+        "碩研財法二甲"
+    ],
+    "instructors": [
+        "郭戎晉"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "S410"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S410"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程屬道德倫理的法理內涵，法律層面的倫理，除包括法律的形式主義與實質主義的要求外，尚須顧及社會環境、民主狀態的發展來作為法律倫理實踐的基礎理論，也即，法律的實踐與法律正義的實現，必須受法律倫理的拘束，尚且受當今社會其他倫理道德的制約.",
+    "prerequisites": "法理學、法律哲學",
+    "syllabus": {
+        "zh": "本課程並無概略的大綱，依據研習者的自我認知，展開本課程相關議題之討論。大致上可從道德理論、法律理論、職業倫理與實用主義到法律制度層面，均為本課程的研討內容。",
+        "en": "英文大綱 1.this course is mainly talking about jurispudence specially the problematics of moral and legal theory.<br>2.discuss and reseach the ethics of law.<br>3.to use for practical law and there are were formed into law."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解身為法律人應有之道德與倫理規範",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "說明法律實用方面或實踐方面能顧及倫理的層面思考，以利社會的需求。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "詮釋法律倫理在現今社會中實踐的範例",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析法律倫理的判斷標準",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

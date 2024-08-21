@@ -1,0 +1,110 @@
+{
+    "code": "20D1AM01",
+    "name": {
+        "zh": "科技專業英文",
+        "en": "Science and technology English"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技醫電三甲"
+    ],
+    "instructors": [
+        "高至誠"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "I0706"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "I0706"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程著重於電機系學生必須俱備之科技常識，諸如：液晶應用、人工智慧、專家系統、 超導體、系統軟體、新型超導體、變壓器及電晶體擴大器等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "01.液晶應用<br>02.人工智慧<br>03.汽球飛行<br>04.標題廣告<br>05.達美樂(DOMINO)披薩的門市管理<br>06.專家系統<br>07.漢登堡號<br>08.導螺桿線性傳動器<br>09.甲烷水合物<br>10.超導體<br>11.系統軟體<br>12.質譜儀<br>13.新型超導體<br>14.變壓器<br>15.電晶體擴大器",
+        "en": "01. Applications of Liquid Crystals<br>02. Artificial Intelligence<br>03. Balloon Flight<br>04. Banner Ads<br>05. Domino’s Store Management<br>06. Expert Systems<br>07. Hindenburg<br>08. Leadscrew Linear Actuators<br>09. Methane Hydrate.Jaw Crusher: Coarse Range<br>10. Superconductors<br>11. Systems Software<br>12. The Mass Spectrometer<br>13. The New Superconductors<br>14. The Transformer<br>15. Transistor Amplifiers"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "知道Applications of Liquid Crystals(液晶應用) 之內容",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解Artificial Intelligence(人工智慧) 之內容",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道Superconductors(超導體)可分類為高溫與低溫超導體",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道The Transformer(變壓器)之內容",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

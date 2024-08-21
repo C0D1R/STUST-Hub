@@ -1,0 +1,129 @@
+{
+    "code": "G0D14C01",
+    "name": {
+        "zh": "資訊安全",
+        "en": "Information Security"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資工三甲",
+        "四技資工三乙",
+        "四技資工三丙"
+    ],
+    "instructors": [
+        "吳東興"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "C304"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "C304"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "C304"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "有系統地概述與資訊安全有關的各項主題",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.資訊與網路安全簡介<br>2.資訊管理中心與實體安全<br>3.使用者身份鑑別<br>4.作業系統安全<br>5.秘密金鑰密碼系統<br>6.新一代密碼系統<br>7.公開金鑰密碼系統<br>8.訊息鑑別<br>9.金鑰管理及認證中心<br>10.多媒體安全<br>11.網路通訊協定安全<br>12.網路安全<br>13.行動通訊與無線網路安全<br>14.電子商務安全<br>15.資料庫安全<br>16.資訊安全管理<br>",
+        "en": "1.Introduction to information and network security<br>2.Management center of information and its physical security<br>3.Authentication of user<br>4.Security of operation system<br>5.Secret key encryption system<br>6.Advanced encryption system<br>7.Public key encryption system<br>8.Message authentication<br>9.Key management and certification center<br>10.Multimedia security<br>11.Security for network communication protocol<br>12.Network security<br>13.Mobile communication and wireless network security<br>14.Security for e-commerce<br>15.Security for database<br>16.Management of information security<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解資訊安全演進歷程，並能辨別安全攻擊的種類",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "推導數論公式，以驗證密碼系統正確性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "設計或開發加密系統，以保護機密資訊",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "操作密碼系統，以達到資訊安全目標",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "逐步養成資安觀念，塑造安全環境",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

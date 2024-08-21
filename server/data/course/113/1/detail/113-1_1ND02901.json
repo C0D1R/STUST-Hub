@@ -1,0 +1,152 @@
+{
+    "code": "1ND02901",
+    "name": {
+        "zh": "生命科學概論",
+        "en": "Life Sciences Introduction"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "自然科學領域"
+    ],
+    "instructors": [
+        "李國陽"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "M202"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "M202"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "M202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "生命科學之基礎是生物學，也是綜合基礎科學，近年其影響領域日漸擴大，包括物理、化學、醫藥學、農學、工程學、甚至社會學、法學、商學，21世紀健康與環境問題與我們息息相關，所以現代人都應該具備生命科學的基本知識。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "生命科學課程介紹，從認識生命,介紹生物五界與病毒，五界的細菌與真菌，原生生物界,植物界,動物界。同時認識生命誕生、生物的起源與演化，並了解基因與分子生物學、遺傳學。課程也介紹生命分子，認識有機與生物大分子，另外介紹細胞學與免疫學、生物科技技術、生物倫理學、生態學與環境學。",
+        "en": "The course for introduction of the life sciences, focus in understanding life, introducing the biological five kingdoms and viruses. The five kingdoms have the monera and fungi, the protista, the plantae kingdom, and the animalia kingdom. At the same time, it also recognize the birth of life, the origin and evolution of organism, and understand the genetics and molecular biology. The course also introduces life molecules, understanding organic and biological macromolecules, and introduces cytology and immunology, biotechnology, bioethics, ecology and environmental science."
+    },
+    "weeklySchedule": "第一週\t課程介紹\t                                生命科學在生活應用<br>第二週\t認識生命與生物資源，介紹生物五界\t        生物資源與生物五界<br>第三週\t病毒與細菌認識，生活知識與應用             生物知識學習一<br>第四週\t原生生物界與真菌應用，生活知識     \t生物知識學習二 <br>第五週\t植物界、動物界應用，生活知識       \t生物知識學習三 <br>第六週\t地球生物的演變              \t        了解地球環境與生物演化<br>第七週\t生物資源與商業應用一<br>        生活實作學習  (學習無毒花草茶、鮮榨種籽油、愛玉子多元飲品等製作工藝)<br>第八週\t生物資源與商業應用二<br>        生活實作學習  (學習自製水果酒醋學習、菇菇栽培、靈芝咖啡茶等製作工藝)<br>第九週\t期中考\t                                   期中報告<br>第十週\t了解生命密碼，基因，影片DNA時代               生命知識學習<br>第十一週\t了解遺傳與網路資料收集遺傳疾病\t           了解自我秘密，收集資料<br>第十二週\t認識生命生物分子 \t                   認識身體化學組成 <br>第十三週\t認識食物、運動與心靈                         心靈、飲食與健康 \t<br>第十四週\t健康人生，認識營養與免疫學 \t           健康生活<br>第十五週\t生物科技技術應用與生物倫理學                  生物技術與未來世界      <br>第十六週\t生態學與永續發展\t                           了解世界的生態與永續發展<br>第十七週\t團隊學習交流經驗\t                           討論交流成果<br>第十八週\t期末考\t企劃學習報告<br>",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "八、十七分組企劃討論成果"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "釐清生命起源與演化，並能歸類生物物種與多樣性。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能有系統、有組織地整理基因與遺傳學基本知能。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解DNA、細胞在生物生命上的重要性。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "參與生物科技發展與基因相關之議題討論與思維進而關懷、保護週遭生態環境。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能表達生命基因與遺傳學間的關係與影響。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "網路資料收集",
+    "teachingSoftware": "南臺科大FlipClass，Google Meet",
+    "rules": "上課主要用學校FlipClass ，數位學習https://flipclass.stust.edu.tw/，有問題可在留言區留言，或0918640547聯繫<br>"
+}

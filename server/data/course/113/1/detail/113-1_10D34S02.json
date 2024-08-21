@@ -1,0 +1,115 @@
+{
+    "code": "10D34S02",
+    "name": {
+        "zh": "工廠實習",
+        "en": "Machine tool operation"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技車輛一乙"
+    ],
+    "instructors": [
+        "黃冠展"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "V205"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "V205"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "V205"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過傳統加工設備﹙車床、銑床、鑽床﹚的基礎訓練，奠定學員基本的加工常識及技巧；另外再加入電腦數值控制設備之硬體操作及刀具設定等項目，作為日後學習數控工具機之前導訓練，藉以提升日後在數控工具機課程之學習效果。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "全學期實習課程區分為兩階段進行<br>第一階段6週：<br>工作編組、工作環境介紹、安全講習及各單元工作之操作示範。<br>第二階段9週：<br>全班分三組輪流操作車工、銑工及數控工具機基本練習；每一工作項目各操作三週。<br>",
+        "en": "The whole semesterses to be classified into two stages to carry on<br>6 weeks of the first stage : work environment introduces , the operation of the safe seminar and each unit work demonstrates.<br>9 weeks of the second stage : whole classes separately three sets of by turn operate the lathe work , the milling work and the CNC machine of basic practice."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉機械製造原理，並以力學為基礎探討加工行為.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用量具方法的重要性.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能辨識工程圖內容.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能規劃選擇加工方法.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

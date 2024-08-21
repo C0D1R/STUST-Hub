@@ -1,0 +1,116 @@
+{
+    "code": "1DD0AU02",
+    "name": {
+        "zh": "流行音樂和聲學",
+        "en": "Pop Music Voicings"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技流音二乙"
+    ],
+    "instructors": [
+        "林佩儒"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "W0903"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "W0903"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "W0903"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "本課程將引導學生解析、組成、以及運用多樣的流行音樂和聲變化，讓學生以樂器獨奏或合奏方式，實際感受聲響結果，進而培養流行音樂和聲進行之概念。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.常用的和弦進行模式<br>2.基礎三和弦七和弦與原位引伸和弦<br>3.指標性音符 Guide Tones 與和聲音程<br>4.和弦轉位表示法<br>5.調性級數和弦 Diatonic Chords<br>6.老套線條和聲 Line Cliché Voicings<br>7.左手貝殼外型和聲<br>8.無根音引伸和聲<br>9.雙手和聲<br>10.複合多和弦<br>11.板音和聲<br>12.調式化和聲 Modal Voicings<br>13.變化屬和弦<br>14.代理和弦<br>15.調式互換之和弦借用",
+        "en": "1.The commonly used chord mode<br>2.Basic triads &amp; seventh and extension chords<br>3.Indicator notes Guide Tones and harmony process<br>4.Chord transposition representation<br>5.Tonal series chords Diatonic Chords<br>6.Sounds Line Cliché Voicings<br>7.Left hand shell appearance harmony<br>8.No root extension and harmony<br>9.Two hands harmony<br>10.Compound multiple chords<br>11.sounds voicings<br>12.Modal Voicings<br>13.Alter dominants chords<br>14.Substitute chords<br>15.Modal interchang"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉各種和弦、音階、調式之結構及運用方式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分辨各種和弦、音階、調式之音響效果。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備應用鍵盤樂器展示和聲理論之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提昇音樂性與創造力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

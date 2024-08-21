@@ -1,0 +1,122 @@
+{
+    "code": "J0D33601",
+    "name": {
+        "zh": "廣告動畫設計",
+        "en": "Advertising animation design"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技商設三甲"
+    ],
+    "instructors": [
+        "詹博鈞"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "W0709"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "W0709"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "當今各種廣告的形式中，動畫已成為不可或缺的元素，不論是作為拍攝的補足、特效強化、或者是單純以動畫作為廣告主體，皆是本課程的範圍；因而本課程包含動態影像設計、基礎視覺特效，以期商設組同學對於實拍的後製、基本的動態設計有一定的基礎與能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "動態影像設計<br>特效設計<br>",
+        "en": "In today's various forms of advertising, animation has become an indispensable element, whether it is as a complement to shooting, special effects enhancement, or simply using animation as the main body of the subject. This course includes motion graphic design and basic visual effects. <br>Motion graphics design<br>Visual effects<br>"
+    },
+    "weeklySchedule": "第01週：課程介紹<br>第02週：講師個人接案實例解析<br>第03週：彈性運動<br>第04週：慣性運動<br>第05週：曲線運動<br>第06週：預備和緩沖<br>第07週：靜態變形<br>第08週：形狀的打散與聚合<br>第09週：期中個人作品進度發表<br>第10週：加與減<br>第11週：變形運動原理的運用<br>第12週：綜合練習實例<br>第13週：廣告動畫與動畫MV賞析（一）<br>第14週：廣告動畫與動畫MV賞析（二）<br>第15週：廣告動畫與動畫MV賞析（三）<br>第16週：廣告動畫與動畫MV賞析（四）<br>第17週：作品討論<br>第18週：期末發表",
+    "exams": {
+        "midterm": "個人作品進度報告",
+        "final": "個人作品發表",
+        "other": "平時作業；報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解動畫技巧如何在商業領域上應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "創意思維的養成",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養運用動畫形式行銷商品之創作能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "建立團隊合作之與溝通表達的能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "動態影像美學的養成",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "查理．威廉斯 (2011) 。動畫基礎技法。臺北：龍溪。",
+    "teachingSoftware": "",
+    "rules": "1.課堂缺席者，由學期總成績計算後再行扣分(缺席每節扣2分)。<br>2.平時作業30%；期中30%；期末40%。<br>3.期中考、期末考，未繳交作業及未出席者，視同缺考，學期成績將不及格。"
+}

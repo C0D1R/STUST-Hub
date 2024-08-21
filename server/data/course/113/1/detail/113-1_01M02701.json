@@ -1,0 +1,189 @@
+{
+    "code": "01M02701",
+    "name": {
+        "zh": "英語加強課程(一)",
+        "en": "Intensive English Course (I)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "碩研英語加強班"
+    ],
+    "instructors": [
+        "包尼爾",
+        "史帝夫"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "W0402"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "W0402"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "W0402"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0404"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "W0404"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "W0404"
+        }
+    ],
+    "hours": {
+        "course": "6",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This is an IELTS preparation course for post-grad students who aim to study abroad.<br>Students will become more confident and competent with general and academic English speaking, listening, reading, and writing. Specifically, we hope that each student will see a 1.5 band increase on the IELTS exam over the course of two semesters in this course.",
+    "prerequisites": "Students must take a placement exam and send their schedules to the program coordinator by the posted deadline in order to be eligible for this course. Further, this course is only open to those in the GMBA program or in the Overseas Study Program, and no auditors are allowed.",
+    "syllabus": {
+        "zh": "Speaking<br>•Pair work and small group discussions which focuses on specific IELTS test questions<br>•Extensive practice expressing, explaining and giving reasons for opinions and preferences<br>•Oral presentations that teach students how to organize topics<br>•Simulated IELTS speaking tests<br><br>Listening<br>•Real life listening practices which teach students to listen for context<br>•Timed listening practices where students practice listening for main ideas and details<br>•Practice listening to lectures (5+ minutes)<br>•Learning to listen for signaling in lecture language<br>•Simulated IELTS listening tests<br><br>Reading<br>•Intensive reading of medium-length academic passages<br>•Training in skimming and scanning<br>•Training in reading strategies such as surveying, predicting, and summarizing<br>•Training in how to recognize unknown vocabulary from context<br>•Simulated reading tests<br><br>Writing<br>•General grammar instruction<br>•Training on thought development in order to be able to logically express an opinion in writing<br>•Instruction and practice on describing graphs, charts, tables, maps, and diagrams in written English<br>•Practice writing in a timed atmosphere<br>•Frequent writing homework assignments<br>•Simulated IELTS writing tests<br><br>Vocabulary<br>•Intensive vocabulary building through either personal journals or biweekly quizzes<br>•Students will learn <br>   *vocab from the academic word list<br>   *vocab used in a university setting<br>   *phrasal verbs<br>   *common idioms<br>   *prefixes, suffixes, and root words<br><br>Culture<br>•Mini-lectures from instructors on American and British culture in general and university life in particular<br>•Self-study and oral presentations on topics such as English speaking countries, university life, universities in the STUST study abroad program, or other cultural aspects (such as sports, holidays, rituals, and daily life)<br>",
+        "en": "Speaking<br>•Pair work and small group discussions which focuses on specific IELTS test questions<br>•Extensive practice expressing, explaining and giving reasons for opinions and preferences<br>•Oral presentations that teach students how to organize topics<br>•Simulated IELTS speaking tests<br><br>Listening<br>•Real life listening practices which teach students to listen for context<br>•Timed listening practices where students practice listening for main ideas and details<br>•Practice listening to lectures (5+ minutes)<br>•Learning to listen for signaling in lecture language<br>•Simulated IELTS listening tests<br><br>Reading<br>•Intensive reading of medium-length academic passages<br>•Training in skimming and scanning<br>•Training in reading strategies such as surveying, predicting, and summarizing<br>•Training in how to recognize unknown vocabulary from context<br>•Simulated reading tests<br><br>Writing<br>•General grammar instruction<br>•Training on thought development in order to be able to logically express an opinion in writing<br>•Instruction and practice on describing graphs, charts, tables, maps, and diagrams in written English<br>•Practice writing in a timed atmosphere<br>•Frequent writing homework assignments<br>•Simulated IELTS writing tests<br><br>Vocabulary<br>•Intensive vocabulary building through either personal journals or biweekly quizzes<br>•Students will learn <br>   *vocab from the academic word list<br>   *vocab used in a university setting<br>   *phrasal verbs<br>   *common idioms<br>   *prefixes, suffixes, and root words"
+    },
+    "weeklySchedule": "This skills-based course is designed to help students improve their test-taking skills, specifically those required to do well on the IELTS test. Authentic test materials will be used to explore a variety of topics (e.g. travel, business, environment), allowing students to familiarize themselves with test format and acquire relevant vocabulary. Students will learn how to express opinions, discuss topics at length, and compose both academic reports and opinion essays as is required in the IELTS test. Regular simulated tests will help students track their progress.<br><br>Materials for this course will be provided. No textbook required.",
+    "exams": {
+        "midterm": "Part IELTS Exam",
+        "final": "Full IELTS Exam",
+        "other": "Assignments, Quizzes"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "說－兩人練習、訓練學生表達意見與喜好等",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "聽－針對雅思聽力訓練、訓練學生將聽力應用到短篇作文當中等",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "讀－長篇學術文章閱讀、快速重點閱讀技巧等",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "寫－看圖表寫作、文法加強等",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "單字－建立廣泛的單字能力。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "口試",
+                    "type": "期中"
+                },
+                {
+                    "method": "口試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "Useful links: www.bbc.co.uk/worldservice/learningenglish (great for practicing various aspects of ESL); https://www.abc.net.au/education/learn-english/study-english-ielts-preparation/7568250 (great website for speaking style questions and grammar activities); http://learnenglish.britishcouncil.org (provides information about all aspects of learning English and studying in the UK); http://www.ielts.org/ (the official website for IELTS); http://www.englishcentral.com/ (great for practicing listening skills); http://www.ielts-blog.com/ (great for looking at the type of mistakes students often make in IELTS writing); http://www.breakingnewsenglish.com/ (good website for contemporary news with an excellent vocab section).",
+    "teachingSoftware": "",
+    "rules": ""
+}

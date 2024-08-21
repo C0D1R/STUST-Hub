@@ -1,0 +1,115 @@
+{
+    "code": "1FQ01F01",
+    "name": {
+        "zh": "多模態雙語教學",
+        "en": "Multimodality and Bilingual Education"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專教經一甲"
+    ],
+    "instructors": [
+        "李嘉宜"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第5節",
+            "location": "N102"
+        },
+        {
+            "day": "週六",
+            "period": "第6節",
+            "location": "N102"
+        },
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "N102"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程的目的是教學生如何通過多種不同的感官方式來展示教學材料。學生可以學習如何使用任何學習方式的組合，例如聽覺和視覺方法，或視覺和触覺方法。此外，他們學習如何實施許多策略以確保學生理解和保留信息。<br>教師設計學習過程和環境，學生設計他們的學習（New London Group，1996；Selander，2017）。重要的是使用視聽輔助工具和多媒體來克服因使用新語言而引起的問題。對於雙語教師來說，多模式的課堂教學可以創造有吸引力的專業資源，並提供語言支持。對於雙語學習者來說，多模式方法可以成為強大的動力。它可以增加課程的多樣性和互動性，並提供刺激的視覺效果來支持對語言的理解。它也可以成為文化意識的豐富來源。最重要的是，它可以讓學習者透過多模態互助合作或獨立工作。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第 1 週介紹<br>第 2 週學習風格<br>第 3 週 多元智能<br>第 4 週多模式學習<br>介紹模式（信息渠道）<br>第 5 週 演講<br>第 6 周 音頻<br>第 7 週 書面和印刷<br>第 8 週 插圖<br>第 9 週  期中<br>第 10 週多模式示例<br>第 11 週 -16 周如何在 CLIL 中應用多模式學習<br>第 17 周和第 18 週  成果發表(期末報告)<br>",
+        "en": "Week 1 Introduction<br>Week 2 Learning Styles<br>Week 3 Multiple Intelligences<br>Week 4 Multimodal Learning<br>Introducing Modes (channels of information)<br>Week 5 Speech<br>Week 6 Audio<br>Week 7 Written and print<br>Week 8 Illustrations<br>Week 9 Mid-term<br>Week 10 Multimodal examples<br>W11-16 How to apply multimodal learning in CLIL<br>Week 11 Multiliteracy <br>Week 12 Infographic and CLILL<br>Week 13 Bloom's Digital Taxonomy<br>Week 14 how ICT tools and technologies can facilitate learning.<br>Week 15 Language Games<br>Week 16 Multimodal and local culture<br>Week 17 &amp; 18 Final presentation <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解多模式學習的概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道如何應用不同的信息渠道來找到合適的多模式學習材料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道如何使用多模態演示課程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解如何設計多模式學習課程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

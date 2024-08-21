@@ -1,0 +1,107 @@
+{
+    "code": "J0N15C01",
+    "name": {
+        "zh": "職場自主學習(三)",
+        "en": "Workplace Practices (III)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技資傳二甲",
+        "夜四技視傳二甲",
+        "夜四技多樂二甲"
+    ],
+    "instructors": [
+        "黃國禮"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第11節",
+            "location": "W0406"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為貫徹以培養實務能力為課程目標之精神，特於一、二年級共四學期課程中制定「職場實務研討」之選修課程，藉由實習的舉辦，了解各類型相關專業領域之實務工作，培養更多傳播相關人員，並且透過實習強化傳播相關之媒體素養，建立業界與學界良好互動模式。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.介紹職場心理學，利於同學了解職場人際關係。<br>2.介紹職涯規劃要點<br>3.同學分享職場技能或運用工具等相關經驗。<br>4.分組心得報告<br>",
+        "en": "1.Introduce workplace psychology to help students understand workplace relationships.<br>2.Introduce the main points of career planning<br>3.Students share relevant skills in workplace skills or using tools.<br>4.Grouping report<br><br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解並整合傳播知識與實務工作經驗，體驗身為傳播工作者的角色、工作內容與方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解實習機構的組織運作與傳播產業生態現況",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養自我職能的認知及就業技能的準備，準備自我生涯規劃之方向",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習媒體工作的專業精神，倫理與價值系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

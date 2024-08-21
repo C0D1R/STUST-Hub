@@ -1,0 +1,118 @@
+{
+    "code": "70N15G01",
+    "name": {
+        "zh": "管理經濟",
+        "en": "Managerial Economics"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜企管產攜一甲"
+    ],
+    "instructors": [
+        "李東杰"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在討論經濟社會的發展，及其長期的影響因素。此外，市場均衡理論可解釋短期經濟的景氣循環。最後，還將介紹政府實施財政與貨幣政策，對經濟體系的效果。<br>The topics of course are to discuss the development of economic society and its influence factors in the long term. Furthermore, the theory of market equilibrium is used to explain the cycle of short-term economics. Finally government implements the effects of financial or monetary policies will be also introduced.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.國內生產毛額。<br>2.儲蓄與投資。<br>3.均衡國民所得的決定與財政政策。<br>4.物價指數。<br>5.失業率。<br>6.貨幣的衡量與創造。<br>7.貨幣政策與物價。<br>",
+        "en": "1.Gross Domestic Production.<br>2.Saving and Investment.<br>3.The Decision to Equilibrium National Income and Fiscal policy.<br>4.Price Index.<br>5.Unemployment Rate.<br>6.Measurement and Creation of Money.<br>7.Monetary Policy and Prices.<br><br>"
+    },
+    "weeklySchedule": "第一週~第九週是\"經濟學\";第十週~第十八週是\"管理經濟\"。<br><br>第十週：第一章、國內生產毛額(GDP)(一)。<br>第十一週：第一章、國內生產毛額(GDP)(二)。<br>第十二週：第二章、儲蓄與投資(一)。<br>第十三週：第二章、儲蓄與投資(二)。<br>第十四週：期中考。<br>第十五週：第三章、物價(一)。<br>第十六週：第三章、物價(二)。<br>第十七週：失業。<br>第十八週：期末考。<br>",
+    "exams": {
+        "midterm": "筆試(第14週)",
+        "final": "筆試(第18週)",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解經濟變動與穩定的政府政策理論",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "經濟變動的影響，能利用知識提出決策",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "對某一因素是否會引起經濟的變動，能利用知識進行分析",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "應付各種證照在有關經濟學的考試",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自製講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "修課學生須注意:<br>1.每章結束都會進行Flipclass平台的選擇題測驗,未測驗者該章成績一定0分。<br>2.每章結束都有作業要繳交,未交者該章作業成績一定0分。"
+}

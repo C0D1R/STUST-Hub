@@ -1,0 +1,116 @@
+{
+    "code": "52D07701",
+    "name": {
+        "zh": "精實管理",
+        "en": "Lean Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技工管四甲",
+        "四技工管四乙"
+    ],
+    "instructors": [
+        "王鵬森"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "T0104"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0104"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0104"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹精實管理的意義與內涵，透過流程改善來熟悉精實管理的原理與應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 精實管理概述<br>2. 豐田生產系統及拉式生產系統<br>3. 精實管理架構<br>4. 精實管理改善手法<br>5. 精實管理案例探討<br><br>",
+        "en": "1. Introduction to lean management<br>2. Toyota production system and pull production system<br>3. Structure of lean management<br>4. Improvement tools of lean management<br>5. Case study of lean management<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生了解精實管理之知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉精實管理之原理及應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能改進流程並提出詳盡說明。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "擁有簡報及書面報告之溝通技巧與能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

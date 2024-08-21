@@ -1,0 +1,116 @@
+{
+    "code": "D0D1CU01",
+    "name": {
+        "zh": "全通路行銷",
+        "en": "Omni-Channel Marketing"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技行流四甲",
+        "四技行流四乙"
+    ],
+    "instructors": [
+        "蘇子炘"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0213"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0213"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0213"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "從零售端（實體通路）的大數據、AI、IOT等資訊流的技術串聯發展，<br>以顧客端的需求管理以及智慧物流供應鏈等知識，藉以做為通路整合發<br>展的基礎；此外也將延伸到即時物流的配送、及時回饋系統等，對應於<br>顧客關係管理有關之相關課題，掌握產業中長程發展的趨勢。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.讓學生認識全通路行銷的發展趨勢。 <br>2.運用數位科技掌握消費需求發掘創新商機。 <br>3.打造全通路的消費者體驗。 <br>4.強化虛實體通路整合的知識與能力以提升就業力。",
+        "en": "1. Let students know The development trend of omni-channel<br>   marketing<br>2. Use digital technology to grasp consumer demand and explore<br>   innovative business opportunities<br>3. Create omni-channel consumer experience<br>4. Strengthen the knowledge and ability of virtual and physical<br>   channel integration to enhance employment."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "讓學生認識全通路行銷的發展趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用數位科技掌握消費需求發掘創新商\n機",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "打造全通路的消費者體驗",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "強化虛實體通路整合的知識與能力以提\n升就業力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "80D16002",
+    "name": {
+        "zh": "民法概要",
+        "en": "Civil Law"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技財金二乙"
+    ],
+    "instructors": [
+        "郭戎晉"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "S403"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "S403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "民法分為總則、債、物權、親屬與繼承等五編，全部條文超過一千條，它是與我們日常生活最習習相關的法律，規定內容主要涵蓋人的財產與身分關係。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章 民法導論\t<br>第二章 權利主體\t<br>第三章 債的發生\t<br>第四章 買賣契約<br>第五章 租賃契約\t<br>第六章 物權\t<br>第七章 親屬\t<br>第八章 繼承\t<br><br>",
+        "en": "Chapter 1 Introduction to Civil Law<br>Chapter II Rights in Rem<br>Chapter III Sources of Obligations<br>Chapter IV Sale Contract<br>Chapter V Lease Contract<br>Chapter VI Property Rights<br>Chapter VII Family<br>Chapter VIII Succession<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備工作場域所需的法律基本能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提高參與商事各項議題討論、認知與反思能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生運用法律知識解決商事問題的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生與法律人的溝通能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

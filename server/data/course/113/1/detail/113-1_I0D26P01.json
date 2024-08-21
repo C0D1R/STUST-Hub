@@ -1,0 +1,134 @@
+{
+    "code": "I0D26P01",
+    "name": {
+        "zh": "心理學",
+        "en": "Psychology"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技幼保一甲"
+    ],
+    "instructors": [
+        "楊淑娥"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "H206"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "H206"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "心理學是研究人類行為的科學。主要是以個人為研究對象，研究結果可以增進對人的了解，幫助個人充分發揮潛能，人格健全發展，成為身心健全的人。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.現代生活的適應。<br>2.人格理論。  \t<br>3.壓力與因應。<br>4.社會心理學。<br>5.心理疾患與治療，壓力與適應。<br><br>",
+        "en": "1. Psychology Applied to Modern Life.<br>2. Theory of personality.<br>3. Stress and coping.<br>4. Social psychology.<br>5. Mental disorders and treatment, stress and adaptation.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能具備愛心温暖關懷開放人文氣質",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有良好的社會適應能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將心理學知識應用於保育工作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備良好的人際溝通能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將心理學知識應用於實際生活",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能遵守倫理規範並勇於承擔責任",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

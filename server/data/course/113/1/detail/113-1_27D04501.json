@@ -1,0 +1,115 @@
+{
+    "code": "27D04501",
+    "name": {
+        "zh": "醫學工程概論",
+        "en": "Introduction of Medical Engineering"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技醫電三甲"
+    ],
+    "instructors": [
+        "陳世中"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "I0702"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "I0702"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "I0702"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "醫學工成乃結合基礎科學,工程科技與臨床醫學於疾病診斷或治療,傷害防治,醫療器材,人工臟器與組織材料的專門學科.本課程將以深入淺出及校外學者專家之實際經驗闡述誇領域之整合技術.",
+    "prerequisites": "生理學,解剖學",
+    "syllabus": {
+        "zh": "1.電生理學<br>2.生醫儀表<br>3.生醫訊號處理<br>4.生理模型與分室分析<br>5.硬組織生物力學<br>6.人體動作生物力學<br>7.醫學影像處理與分析<br>8.核磁共振與磁振造影<br>9.生醫光電與雷射<br>10.生醫超音波<br>11.醫療資訊<br>12.生醫材料<br>13.組織工程<br>14.奈米生醫科技",
+        "en": "This course introduces the basic knowledge of medical engineering in medical disciplines. The outline includes the applications of physics, mathematics, electrical engineering, mechanics and engineering technologies for the fields of clinical and medical sciences including physiology, life sciences, anatomy, pathology, nursing, etc."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解醫學工程領域的基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠了解醫學工程的各類主要技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠擁有與醫學人員配合的研發理念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解工程在醫學的應用，並持續發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

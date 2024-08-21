@@ -1,0 +1,140 @@
+{
+    "code": "K0D3A001",
+    "name": {
+        "zh": "人工智慧",
+        "en": "Evolution Process and Future Trends"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技多樂四甲",
+        "四技多樂四乙"
+    ],
+    "instructors": [
+        "陳光雄"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "W0708"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "W0708"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "W0708"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "人工智慧的應用已是時勢所趨，猶如一股不可逆的時代洪流，未來勢必會有更多的人工智慧技術應用於生活及產業上的各個領域上。本『人工智慧』課程的主要內容包含遊戲決策樹、基本搜尋和最佳搜尋、分群法、正規語言和模糊理論、類神經網路及深度學習等技術內容，目的是透過課堂上的專業學習，引導學生在解決各種問題上具備更智慧化的思維及能力，以符合未來社會的發展趨勢及技術需求。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 了解人工智慧的演化過程及未來趨勢<br>2. 遊戲決策樹<br>3. 基本搜尋及最佳搜尋<br>4. 分群法<br>5. 正規語言及模糊理論<br>6. 類神經網路及深度學習<br>",
+        "en": "1. Evolution Process and Future Trends of Artificial Intelligence<br>2. Game Decision Tree<br>3. Basic Search and Optimal Search<br>4. Clustering<br>5. Formal Language and Fuzzy Theory<br>6. Neural Network and Deep Learning<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1. 了解人工智慧的演化過程及未來趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2. 遊戲決策樹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3. 基本搜尋及最佳搜尋",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4. 分群法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5. 正規語言及模糊理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6. 類神經網路及深度學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

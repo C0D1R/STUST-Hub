@@ -1,0 +1,116 @@
+{
+    "code": "D0D1A801",
+    "name": {
+        "zh": "全通路管理",
+        "en": "Marketing Channels"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技行流三甲",
+        "四技行流三乙"
+    ],
+    "instructors": [
+        "莊勝雄"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "W0405"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0405"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0405"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以通路管理之重要議題為主軸，內容主要包括通路結構、通路設計與規劃、通路管理與其績效評估等議題做概念性探討，探討內容涵蓋管理與技術層面，並與企業實務做連結。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第 1 章 行銷通路：功能與結構<br>第 2 章 通路結構與行銷<br>第 3 章 通路的權力行為<br>第 4 章 通路衝突<br>第 5 章 配銷的污染與浪費<br>第 6 章 打造綠色通路<br>第 7 章 批發與零售<br>第 8 章 攤販的勢力<br>第 9 章 連鎖加盟<br>第 10 章 商圈調查與店鋪選址<br>第 11 章 賣場空間、展示和陳列<br>第 12 章 爭奪訂價控制<br>第 13 章 不該無知的消費者<br>第 14 章 通路倫理與安全<br>",
+        "en": "Chapter 1 Marketing Channel : Functions and Structure<br>Chapter 2 Channel Structure and Marketing<br>Chapter 3 Power of the Channel<br>Chapter 4 Channel Conflict<br>Chapter 5 Distribution Pollution and Waste<br>Chapter 6 Creating a Green Channel<br>Chapter 7 Wholesale and Retail Trade<br>Chapter 8 Power of Street Vendor<br>Chapter 9 Franchising<br>Chapter 10 Business Circle Survey and Shop Location <br>Chapter 11 hypermarket, Demonstration, and Display<br>Chapter 12 Predatory Pricing Control<br>Chapter 13 Consumers who Should not be Ignorant<br>Chapter 14 Channel Ethics and Safety"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "資訊科技運用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升溝通協調能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "行銷與流通整合能力提升",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "團隊合作意識提升",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

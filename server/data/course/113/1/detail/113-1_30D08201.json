@@ -1,0 +1,156 @@
+{
+    "code": "30D08201",
+    "name": {
+        "zh": "工程數學(一)",
+        "en": "Advanced Engineering Mathematics (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電子二甲",
+        "四技電子二乙"
+    ],
+    "instructors": [
+        "鄭建民"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "J206"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "J206"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "J206"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "We begin our program of studying ordinary differential equations by deriving them from physical or other problems (modeling), solving them by standard methods, and interpreting solutions and their graphs in terms of a given problem.<br>The simplest ordinary",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第1章 一階常微分方程式<br>1.1 基本觀念‧模擬<br>1.3 可分離微分方程式‧模擬<br>1.4 正合常微分方程式‧積分因子<br>1.5 線性常微分方程式‧柏努利方程式‧人口動態學<br>第2章 二階線性微分方程式<br>2.1二階齊性線性常微分方程式<br>2.2齊性線性常係數常微分方程式<br>2.5尤拉─歌西方程式<br>2.6 解的存在與唯一性‧榮斯基恩<br>2.7 非齊性常微分方程式<br>2.9 模擬：電路<br>2.10 參數變換法解方程式<br>第3章 高階線性微分方程式<br>3.1 齊性線性常微分方程式<br>3.2齊性常係數常微分方程式<br>3.3非齊性線性常微分方程式<br>第6章 拉普拉斯轉換<br>6.1拉普拉斯轉換‧反轉換‧線性‧s軸位移<br>6.2導函數與積分式之轉換<br>6.3單位階梯函數‧t軸位移<br>6.4 短脈衝‧狄拉克突波函數‧部份函數<br>6.5 連結‧積分方程式<br>6.6 轉換式之微分與積分<br>",
+        "en": "Chapter 1 First-Order Ordinary Differential Equations.<br>1.1 Basic concepts. Modeling<br>1.3 Separable ODEs. Modeling<br>1.4 Exact ODEs. Integrating factors<br>1.5 Linear ODEs. Bernoulli Equations. Population dynamics<br>Chapter 2 Second-Order Linear Differential Equations.<br>2.1 Homogeneous linear ODEs of second order<br>2.2 Homogeneous linear ODEs with constant coefficients<br>2.5 Euler-Cauchy equations<br>2.6 Existence and uniqueness of solutions. Wronskian<br>2.7 Nonhomogeneous ODEs<br>2.9 Modeling: electric circuits<br>2.10 Solution by variation of parameters<br>Chapter 3 Higher Order Linear Differential Equations.<br>3.1 Homogeneous linear ODEs<br>3.2 Homogeneous linear ODEs with constant coefficients<br>3.3 Nonhomogeneous linear ODEs<br>Chapter 6 Laplace Transforms.<br>6.1 Laplace transform. Inverse transform. Linearity. s-shifting<br>6.2 Transforms of derivatives and integrals<br>6.3 Unit step function. t-shifting<br>6.4 Short impulse. Dirac’s delta function. Partial functions<br>6.5 Convolution. Integral equations<br>6.6 Differentiation and integration of transforms<br><br>"
+    },
+    "weeklySchedule": "第1-2週：基礎數學、基礎微積分復習<br>第3-4週：變換變數、變數可分離、正合等微分方程式<br>第5-6週：常係數微分方程式之齊性解/第1次平時考<br>第7週：常係數微分方程式之特解(待定係數法)<br>第8-9週：常係數微分方程式之特解(反運算子法)與Euler-Cauchy Equation/第2次平時考與期中考<br>第10~11週：常係數微分方程式之特解(參數變異法)<br>第12-13週：拉式轉換法-1<br>第14-15週：拉式轉換法-2/第3次平時考<br>第16~17週：拉式轉換解常係數微分方程式/第4次平時考<br>第18週：期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第5、8、14、17週共4次平時考。其他週每週幾乎都有作業(3-5題)共約10次"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "利用物理、電學、機械、化學等各種理論建立其數學方程式，並熟悉解答技巧。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "運用數學計算及預測工程有關參數。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "從數學推理及演算過程中培養整合創新能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "建立以數學為基礎之理工知能終身學習能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學生於課堂中接受教師提問，並報告其學習成果。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "工程數學",
+        "author": "許世壁、邱創雄著",
+        "publisher": "高立書局",
+        "year": "108",
+        "ISBN": "978-986-378-207-0",
+        "edition": "5"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "1.學生需先將下列基礎數學複習一遍:因式分解、勘根定理、根號、虛數和複數、三度空間解析幾何、簡易向量運算、三角函數定義及圖形以及簡易公式、基礎微分和積分，請自行上FlipClass數位平台下載題庫練習。<br>2.除了拍照外，上課不准划手機。<br>3.出席率與上課狀況(划手機、睡覺)會列入期末加減計分(至少15%)。<br>4.每位同學請先自行購買並學會操作掌上型工程計算器(約NT300-500)。<br>5.除了考試，每一週幾乎都會有作業(3-5題)"
+}

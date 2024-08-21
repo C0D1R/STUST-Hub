@@ -1,0 +1,133 @@
+{
+    "code": "50D19601",
+    "name": {
+        "zh": "統計資料分析",
+        "en": "Statistical Data Analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技工管三甲",
+        "四技工管三乙"
+    ],
+    "instructors": [
+        "陳忠和"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "T0206"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0206"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "T0206"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.高普考",
+        "2.品管、財經等專技人員"
+    ],
+    "description": "資料的統計分析關係著一份研究報告能否完整呈現的重要關鍵。此門課在幫助學生如何根據研究問題以及研究資料的屬性，選用適當的統計方法，做正確的統計分析，進而有效的呈現分析的結果。目標在以實例的方式幫助同學熟悉一些常用的統計方法，理論的基礎會視需要予以講授，但會盡量以應用為主。希望可幫助同學從事專題研究的資料分析。",
+    "prerequisites": "統計學(一)，統計學(二)。\n若曾修過統計套裝軟體課程，將會有很大的幫助。",
+    "syllabus": {
+        "zh": "1.\t課程簡介<br>2.\t敘述統計<br>3.\t母體是否服從常態分配之檢定<br>4.\t平均數之檢定<br>5.\t變異數分析<br>6.\t變異數之檢定<br>7.\t比例之檢定<br>8.\t卡方檢定<br>9.\t迴歸分析<br>10.\t特殊資料的分析<br>11.\t量表的問卷資料分析<br>12.\t無母數統計方法<br>",
+        "en": "1.\tIntroduction<br>2.\tDescriptive Statistics<br>3.\tNormality Checking<br>4.\tTests of Population Mean(s)<br>5.\tAnalysis of Variance (ANOVA)<br>6.\tTests of Population Variance(s)<br>7.\tTests of Population Proportion(s)<br>8.\tChi-square Tests<br>9.\tRegression Analysis<br>10.\tAnalysis of Special Types of Data<br>11.\tQuestionnaire Data Analysis<br>12.\tNonparametric Methods<br>"
+    },
+    "weeklySchedule": "第1,2週 概論<br>第3,4週 抽樣分配<br>第5.6週 假設檢定與信賴區間<br>第7,8週 卡方檢定<br>第9週 期中考<br>第10,11週 變異數分析<br>第12,13週 迴歸分析<br>第14,15週 時間數列分析<br>第16,17週 無母數統計方法<br>第18週 期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第8, 17週平時考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能整理、轉換分析資料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解研究問題並選擇適當的統計方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能操作套裝統計軟體",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能判讀分析結果並對研究問題做出結論",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "陳順宇 鄭碧娥著, 統計學, 華泰書局, 2004年, 四版",
+    "teachingSoftware": "",
+    "rules": ""
+}

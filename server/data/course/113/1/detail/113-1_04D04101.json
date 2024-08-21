@@ -1,0 +1,169 @@
+{
+    "code": "04D04101",
+    "name": {
+        "zh": "體育生活(三)：網球(B)",
+        "en": "Physical Education(III)：Tennis"
+    },
+    "credit": "1",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "四技高福二甲",
+        "四技企管二甲",
+        "四技企管二乙",
+        "四技行流二甲",
+        "四技行流二乙",
+        "四技應日二甲",
+        "四技應日二乙",
+        "四技半導體二甲",
+        "四技半導體二乙",
+        "四高福國專二甲",
+        "四半導國專二甲"
+    ],
+    "instructors": [
+        "鄭炎坤"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": ""
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "網球是一門入門門檻很高運動，如何將繁複的網球基本動作簡化到每一位學生都可輕易的吸收課程是我開這門課的重點。學生將從最重要的身體律動(協調)開始,而後是球感的培養，最後才是動作的建構。如果學生能依此方式來學習網球，一定能事半功倍，縱使是大班級的課程也是一樣。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一週 準備週<br>本學期課程須注意事項規定<br>第二週 基本截擊動作教學 <br>1.握拍姿勢介紹<br>2.基本動作介紹<br>3.二人一組(一人抛球另一人截擊十次後互換練習)<br>第三週 基本截擊動作教學 <br>1.同上3<br>2.隔網截擊練習(手抛球方式)<br>第四週 基本截擊動作教學<br>1. 隔網截擊練習(抽球方式)<br>第五週 基本扣剎球動作教學 <br>1.握拍姿勢介紹<br>2.基本動作介紹<br>3.基本扣剎球動作<br><br>第六週 基本扣剎球動作教學<br>1. 基本扣剎球練習<br>第七週 基本扣剎球動作教學<br>1. 基本扣剎球練習<br>第八週 期中考<br><br>隔網截擊<br>第九週 期中考 <br>學校學科考試<br>第十週 綜合演練<br>1.正反手擊球+上網截擊<br>第十一週 綜合演練 <br>1..正反手擊球+上網截擊+扣剎球<br>第十二週 綜合演練 <br>1.正反週手擊球+上網截擊+扣剎球<br>第十三週 迷你網球比賽<br>1.二人小場地(半場)比賽<br>第十四週 迷你網球比賽<br>1.四人小場地(半場)比賽<br>第十五週 迷你網球比賽<br>1.單打比賽<br>2.雙打比賽<br>第十六週 期末考<br>雙打比賽對抗賽<br>第十七週 期末考<br><br>體育學科考試<br>第十八週 期末考 <br>學校學科考試",
+        "en": "Week 1<br>Course introduction<br><br>Week 2 Volley<br>1.\tIntroduction of grip<br>2.\tIntroduction of basic movement<br>3.\tGroup practice ( a group of two: one throw, one volley)<br><br>Week 3 Volley<br>1.\tSame above<br>2.\tVolley practice with net (Hand throw)<br><br>Week 4 Volley<br>Volley practice (forehand)<br><br>Week 5 ~ Week 7  Smash <br>1.\tGrip<br>2.\tBasic movement<br>Smash movement<br><br>Week 8 Mid-term<br>Volley with net<br><br>Week 9 <br>University mid-term<br><br>Week 10  Comprehensive practice <br>Forehand and back hand + Net volley<br><br>Week 11-Week 12  Comprehensive practice<br>Forehand and back hand + Net volley+ Smash<br><br>Week 13<br>2-man half court game<br><br>Week 14<br>4-man half court game<br><br>Week 15 mini tournament<br>1.\tSingles <br>2.\tDoubles <br><br>Week 16<br>Doubles tournament <br><br>Week 17<br>PE written exam<br><br>Week 18<br>University final exam<br>"
+    },
+    "weeklySchedule": "1.課程介紹、評量方法及上課注意事項說明。<br>2.網球運動發展現況介紹，握拍介紹及球感練習。<br>3.正手拍揮拍及自拋擊球講解與練習。<br>4.正手拍揮拍擊球練習。<br>5.正手拍擊球練習。(分組送球)<br>6.反手拍揮拍擊球講解與練習。<br>7.反手拍擊球練習。(分組送球)<br>8.技能測驗-正手拍擊球。<br>9.技能測驗-正手拍擊球。<br>10.正、反手拍綜合練習。<br>11.平擊發球講解與練習。<br>12.平擊發球與接發球練習。<br>13.發球與接發球練習、比賽規則介紹。<br>14.雙打比賽練習。<br>15.雙打比賽練習。<br>16.技能測驗-發球。<br>17.技能測驗-發球。<br>18.筆試測驗。<br><br>",
+    "exams": {
+        "midterm": "技能測驗",
+        "final": "學習報告",
+        "other": "第16.17週技能測驗"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解網球的歷史及演變",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解網球的歷史及演變",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能以兩人玩球的方式學習控球及對打",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學習網球發球的基本動作",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習網球截擊的基本動作",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解網球比賽的基本規則(單、雙打)",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "單、雙打戰術的研擬",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能實際演練網球比賽(單、雙打及團體對抗賽)",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.學校體育教材教法與評量----教育部印行-----八十六年六月<br>2.網球技巧----李懷志編譯----益群書店股份有限公司----八十五年六月初版6刷",
+    "teachingSoftware": "無",
+    "rules": "1.體育成績評量：技能測驗佔百分之五十，平時成績佔百分之四十，體育常識測驗或報告佔百分之十，上課缺課6週以上成績以0分計算<br>2.第一週上課再三連堂集合<br>3.上課要穿著運動服裝及運動鞋<br>"
+}

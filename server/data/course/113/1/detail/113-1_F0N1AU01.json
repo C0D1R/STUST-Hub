@@ -1,0 +1,115 @@
+{
+    "code": "F0N1AU01",
+    "name": {
+        "zh": "網路多媒體專題",
+        "en": "Project of Network Multimedia"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技資傳四甲"
+    ],
+    "instructors": [
+        "陳思婕"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "W0606"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "W0606"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "W0606"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程著重在指導學生發揮創意、設計、規劃網路影音多媒體專題，藉此提升學生網路多媒體知識應用與熟悉技術運用，亦增進學生在客戶網路多媒體需求規劃與管理。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 發揮網路影音多媒體創意應用<br>2. 提升網路多媒體設計與技術運用<br>3. 了解網路影音多媒體專案規劃與管理之原則",
+        "en": "1.To develop online video and multimedia creative applications<br>2.To promote network multimedia design and technology application<br>3.To understanding the principles of planning and management of network video and audio multimedia project"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "發覺問題，以分工執行，並進行協調控制及整體對外發表，結合理論與實務，並將各小組之創意具體實施呈現",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "團隊方式專題成果的綜合表現，為設計溝通與內涵傳達最佳方式，並對視覺化傳達與展示表現的相關知識技能有所發揮",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用美學之原理，以系統性方式，彙整成設計成果及理念過程，展現視覺資訊，以供個人未來升學及求職之用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備企畫、設計與執行網路多媒體專案的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

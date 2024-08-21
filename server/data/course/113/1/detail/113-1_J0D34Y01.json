@@ -1,0 +1,127 @@
+{
+    "code": "J0D34Y01",
+    "name": {
+        "zh": "基礎動畫場景設計",
+        "en": "Basic Animation Scene Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技動畫三甲"
+    ],
+    "instructors": [
+        "李雅雪"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "W0808"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "W0808"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "W0808"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "場景設計是在動畫中最容易被忽略的一環，本課程著重於場景設計的方法，包括透視原理、構圖法則、基礎繪畫能力、鏡頭差異等動畫個案實務設計的技巧與設計操作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.動畫場景的圖形繪製<br>2.動畫場景的構圖設計<br>3.動畫場景元素設計<br>4.動畫場景的色彩規劃<br>5.圖形應用<br>6.動畫場景的案例研究<br>",
+        "en": "1.Graphics drawing of Animation scene<br>2.Layout design of Animation scene<br>3.Element object design of Animation scene<br>4.Color planning of Animation scene<br>5.Graphic applications<br>6.Case study of Animation scene<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "場景設計的基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "場景元素的繪製與設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "場景的概念設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "場景實務與運用設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "場景的創意整合",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

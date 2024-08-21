@@ -1,0 +1,111 @@
+{
+    "code": "I0N1AV01",
+    "name": {
+        "zh": "幼兒自然科學與數學創造性教學",
+        "en": "The Creative Instruction with Mathematics and Science for Children"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜二技幼保四甲"
+    ],
+    "instructors": [
+        "高家斌",
+        "黃盈斐"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "H206"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "H206"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程係針對幼兒自然科學與數學教學活動設計進行介紹，內容包括幼兒科學教育的內涵及教學實施方式，幼兒數學教學活動的教學方式及其相關重要議題的發展現況來瞭解幼兒科學與幼兒數學的活動設計及教學實務發展。課程內容將以引導式學習方式，透過書籍閱讀、觀察體驗、遊戲實驗、網際科技應用和主題探討等互動式學習進行。目的在帶領學生認識自然科學與數學的內涵及創造性教學活動的使用方法；建立正確幼兒科學知識及數學教學概念；熟悉幼兒自然科學概念發展及數學教學技能；及瞭解幼兒自然科學教育理念和數學教學實施方法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "課程介紹<br>幼兒科學教育定義、目標與內涵<br>幼兒科學教學模式<br>各國幼兒科學教育實施現況<br>幼兒科學教學設計與實施<br>幼兒數學教育定義、目標與內涵<br>幼兒數學教學模式<br>期中考<br>各國幼兒數學教學實施現況<br>幼兒數學教學設計與實施<br>幼兒創造性教學活動融入方法探討(一)<br>幼兒創造性教學活動融入方法探討(二)<br>期末考",
+        "en": "Definition, goal and connotation of early childhood science education<br>Early childhood science teaching mode<br>Current status of implementation of early childhood science education in various countries<br>Design and implementation of early childhood science teaching<br>Definition, goal and connotation of mathematics education for children<br>Early childhood mathematics teaching mode<br>Midterm exam<br>Current status of implementation of mathematics teaching for children in different countries<br>Design and implementation of mathematics teaching for children<br>Discussion on the Incorporation of Preschool Creative Teaching Activities (1)<br>Discussion on the Incorporation of Children's Creative Teaching Activities (II)<br>Final exam"
+    },
+    "weeklySchedule": "第一週：認識課程內容<br>第二、三週：介紹幼兒科學的主要目標與教學定義<br>第三週：探討不同的幼兒科學教學模式<br>第四週：探討不同國家的科學教育實施的方式<br>第五、六週：實際設計幼兒科學教學活動<br>第七、八週：介紹幼兒數學的主要目標與教學定義<br>第九週：期中報告<br>第十、十一週：探討不同的幼兒數學教學模式<br>第十二、十三週：探討不同國家的數學教學模式<br>第十四、十五週：實際設計幼兒數學教學活動<br>第十六、十七週：探討如何將創造性教學活動融入在生活中<br>第十八週：期末報告<br><br>",
+    "exams": {
+        "midterm": "報告",
+        "final": "報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解幼兒科學與數學教學的內涵及相關議題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解幼兒科學與數學教學的實施方式",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "增進學生對於幼兒科學與數學教學的專業知能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "擴大學生對於創造性教學活動融入科學與數學教學議題的瞭解及視野",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

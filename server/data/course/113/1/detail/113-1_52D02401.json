@@ -1,0 +1,195 @@
+{
+    "code": "52D02401",
+    "name": {
+        "zh": "專案管理",
+        "en": "Project Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技工管三甲",
+        "四技工管三乙"
+    ],
+    "instructors": [
+        "林高正"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0206"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0206"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "T0206"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.台語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "單一訂製之個別生產本就是主要生產型態之ㄧ，加上企業必須不斷地進行合理化與 e 化以提升整體競爭力，使得企業必須面對許多工程專案與軟體專案，因而將專案管理列為中高階管理人員必備之知識與技能。本課程目標在敎導學生於接到任務指派時，如何以適當的流程、步驟與方法協助完成專案目標，尤其是如何扮演專案經理或團隊成員的角色，以及如何規劃與執行專案管理的工作。換言之，即在提升學生對單一訂製之個別生產或專案計劃的規劃、排程與控制技能。<br><br>",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "一、導 論<br>二、組織策略與專案選擇<br>三、專案的組織<br>四、專案規劃<br>五、專案時程分析<br>六、專案資源之配置<br>七、專案時間與成本的預估<br>八、專案契約管理<br>九、專案風險管理<br>十、BOT 專案管理\"<br>",
+        "en": "1. Introduction<br>2. Organization Strategy and Project Selection<br>3. The Organization, The Team, and The Manager<br>4. Defining and Developing a Project Plan<br>5. Temporal Analysis<br>6. Project Resources Allocation<br>7. Estimating Project Times and Costs<br>8. Contracts and Procurement<br>9. Managing Project Risk<br>10. Managing a BOT Project<br><br><br>"
+    },
+    "weeklySchedule": "一、導論：1.前言；2.專案的定義與特性；3.專案的生命週期；4.管理概要；5.專案管理的架構。(第一、二週)<br>二、策略性專案管理：1.策略管理程序概述；2.專案組合的選擇；3.專案組合選擇程序；4.建立策略性夥伴關係；5.決策工具：層級分析法 (AHP)。(第三、四週)<br>三、專案的組織：1.專案組織型態；2.專案團隊的組成；3.專案經理的選擇。(第五週)<br>四、專案的規劃：1.專案目標的確立；2.任務描述；3.專案內容的決定；4.工作分解結構(WBS)；5.作業劃分表；6.責任矩陣；7.專案網路圖的繪製。(第六、七週)<br>五、專案時程分析：1.作業工期的估計；2.專案各項時間值的估算；3.作業寬鬆時間；4.時程估算範例；5.關鍵作業與作業要徑；6.甘特圖。(第七、八週)<br>六、專案資源之調配：1.前言；2.專案趕工問題；3.資源的負荷；4.資源水準的設定；5.跨專案的資源水準設定；6.關鍵鏈排程與緩衝管理。(第十、十一週)<br>七、專案預算與成本：1.影響預估品質的因素；2.時間、成本與資源預估的準則；3.預估的程序；4.預估的方法；5.成本的種類；6.以WBS為基礎的成本預估；7.預估的調整；8.預估資料庫的建立。(第十二、十三週)<br>八、專案合約管理：1.專案合約之擬訂；2.專案合約管理之步驟；3.合約的型態；4.合約的成立與效力；5.實際訂約時應注意事項。(第十四週)<br>九、專案的控制：1.專案控制系統；2.進度控制；3.成本控制；4.品質控制；5.變更管理。(第十五週)<br>十、專案風險管理：1.風險的定義；2.風險管理的意義與目標；3.風險管理的步驟與方法。(第十六週)<br>十一、專案規劃實作：1.任務描述；2.工作分解結構；3.作業劃分表與責任矩陣；4.專案網路圖；5.作業工期估計--三時估計法；6.時間估算與甘特圖；7.專案趕工模式；8.拉平計算；9.關鍵鏈排程。 (第十七、十八週)",
+    "exams": {
+        "midterm": "筆試一節課",
+        "final": "期末作業",
+        "other": "第 8 週與第 17 週各平時考一節課"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解 PMI 所指出的 PMBOK 專案管理九大知識範疇",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "使學生瞭解專案管理常用的基礎工具和方法",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "讓學生瞭解專案管理循環與其執行",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能有效辨識出企業專案管理的問題，提出的適當的工具和方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用專案管理方法的重要性",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用 Excel 軟體進行專案排程，以減少專案工期，並降低成本",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能應用科學的方法分析專案管理實務資料",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Project Management: The Managerial Process",
+        "author": "C.F. Gray and E.W. Larson",
+        "publisher": "McGraw-Hill (華泰代理)",
+        "year": "2014",
+        "ISBN": "978-1-259-01070-5",
+        "edition": "6th"
+    },
+    "referenceBooks": "1. Kerzner (2013), Project Management: A System Approach to Planning, Scheduling, and Controlling, 11th edition. 2. Meredith and Mantel (2003), Project Management: A Managerial Approach, 5th edition. 3. PMI (2021), A Guide to the Project Management Body of Knowledge (PMBOKr Guide) and The Standard for Project Management (PMBOK® Guide), 7th edition. 4. Wysocki and McGray (2003), Effective Project Management: Traditional, Adaptive, Extreme, 3rd edition. 5. Rosenau (1992), Successful Project Management: A Step by Step Approach with Practical Examples, 2nd edition. 6. Elmaghraby (1977), Activity Networks: Project Planning and Control by Network Models. 7. Wiest and Levy (1977), A Management Guide to PERT/CPM: with GERT/PDM/DCPM and Other Networks, 2nd edition. 8. Demeulemeester and Herroelen (2002), Project Scheduling: A Research Handbook. 9. Chapman and Ward (1997), Project Risk Management: Processes, Techniques and Insights. 10. Smith (ed.)(1995), Project Cost Estimating. (詳細參考書目請參閱課程講義)",
+    "teachingSoftware": "本課程備有上課投影片PDF檔、課程補充資料電子檔。",
+    "rules": "一、學期作業未繳交、抄襲別人或分數未達50分者，學期成績最高為50分。<br>二、依學校規定，為保障同學受教權，本課程第一週即正式上課。請同學務必進到“FlipClass”教學網頁下載並列印課程大綱與第一章講義備用。<br>三、教科書中譯本：劉雯瑜 (2015)，專案管理，第六版，華泰文化 (ISBN:978-986-341-144-4)。<br>"
+}

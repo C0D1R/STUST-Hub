@@ -1,0 +1,158 @@
+{
+    "code": "K0D39E02",
+    "name": {
+        "zh": "使用者介面設計",
+        "en": "User Interface Design"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技多樂三乙"
+    ],
+    "instructors": [
+        "楊智傑"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "W0603"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "W0603"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程訴求人機介面基礎理論，讓學生體驗不同平台使用者介面差異，來探討設計方針和程序，並以實際產品案例與實作介面設計練習，了解使用者經驗設計方法。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.什麼是使用者介面設計<br>2.使用者介面設計歷史的演進<br>3.介面設計師的種類與介紹<br>4.使用者介面設計原則與設計實務方法介紹<br>5.如何運用使用者經驗設計對應物聯網產品設計上的軟體提升<br>6.學習如何將使用者經驗視覺化<br>7.運用使用者經驗設計的實務方法<br>8.學習如何將使用者經驗視覺化，增加對設計上的幫助",
+        "en": "1. What is the user interface design?<br>2. Evolution of user interface design history<br>3. Types and introductions of interface designers<br>4. User interface design principles and design practice methods<br>5. How to use user experience to design software upgrades corresponding to IoT product design<br>6. Learn how to visualize user experience<br>7. Practical methods designed using user experience<br>8. Learn how to visualize user experience and increase design assistance"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.什麼是使用者介面設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.使用者介面設計歷史的演進",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.介面設計師的種類與介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.使用者介面設計原則與設計實務方法介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5.如何運用使用者經驗設計對應物聯網產品設計上的軟體提升",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6.學習如何將使用者經驗視覺化",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "7.運用使用者經驗設計的實務方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "8.學習如何將使用者經驗視覺化，增加對設計上的幫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

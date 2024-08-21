@@ -1,0 +1,115 @@
+{
+    "code": "50D2CV01",
+    "name": {
+        "zh": "大數據分析",
+        "en": "Big Data Analytics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電商二甲"
+    ],
+    "instructors": [
+        "陳淑玲"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "T0806"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "T0806"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0806"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "資訊科技的發展使得社交媒體的爆炸式增長，以及社會和經濟活動各個方面的數位化，導致大量數據的產生。隨著電腦運算功能和雲端儲存服務的增長，使的巨量數據可以便宜地存儲和提取分析。本課程的目的是讓學生熟悉大數據分析的原理，使用數據處理與分析的工具和技術對巨量資料進行建模、分析和呈現，和了解大數據分析在產業的應用。<br><br>The development of information technology has facilitated the explosion of social media and the digitization of all aspects of social and economic activity, resulting in the generation of vast amounts of data. With the growth of computing power and cloud storage services, large amounts of data can be cheaply stored and retrieved for analysis. The purpose of this course is to familiarize students with the principles of big data analytics, enable students to model, analyze, and present data using tools and techniques for big data processing and analysis, and gain an understanding of big data analytics in industry.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.&nbsp;大數據分析簡介 <br>2.&nbsp;大數據分析的技術<br>3.&nbsp;大數據應用案例<br>4.&nbsp;大數據分析的工具<br>5.&nbsp;大數據分析實作<br>",
+        "en": "1.&nbsp;&nbsp;Introduction to Big Data Analytics<br>2.&nbsp;&nbsp;Big Data Analytics Techniques<br>3.&nbsp;&nbsp;Big Data Case Studies<br>4.&nbsp;&nbsp;Big Data Analytics Tools<br>5.&nbsp;&nbsp;Big Data Analytics Implementation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解大數據分析之基本觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉大數據分析在產業的應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解大數據分析技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用大數據分析工具解決問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

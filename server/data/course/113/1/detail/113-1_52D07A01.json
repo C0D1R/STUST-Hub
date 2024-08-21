@@ -1,0 +1,132 @@
+{
+    "code": "52D07A01",
+    "name": {
+        "zh": "圖學",
+        "en": "Graphics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技工管二甲",
+        "四技工管二乙"
+    ],
+    "instructors": [
+        "林培煌"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "E0205"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "E0205"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "E0205"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生了解各種工程圖之製作（正投影、立體圖、剖視圖、公差與配合等基本之畫法），並能完成相關成品之繪製。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t介紹圖學基本觀念與技巧<br>2.\t繪製物體多視圖投影<br>3.\t繪製立體投影: 透視投影與等角投影與<br>4.\t繪製輔助視圖、剖面圖<br>5.\t尺寸標示、註解、公差<br>",
+        "en": "1.\tIntroduction of fundamental drawing concept and skill <br>2.\tObject presentation of multiview projections<br>3.\tObject 3D presentation: perspective projection and isometric projection <br>4.\tDrawing auxiliary views and section views<br>5.\tDimensions, notes, and Geometric tolerance"
+    },
+    "weeklySchedule": "周次\t日期(二)\t圖學<br>第01周\t9/10\t圖學導論, 介紹以AI為工具快速精進圖學學習<br>第02周\t9/17\t點線面的正投影、物體的正投影、Sketchup 介面介紹<br>第03周\t9/24\t正投影視圖畫法 (Sketchup 3D繪圖基礎介紹)<br>第04周\t10/1\t中秋節放假<br>第05周\t10/8\tSketchup 3D 物件繪製(根據立體圖)含實體工具介紹<br>第06周\t10/15\tSketchup 3D 物件繪製(根據立體圖)<br>第07周\t10/22\tSketchup 3D 物件繪製 (根據投影視圖)<br>第08周\t10/29\tSketchup 3D 物件繪製(根據投影視圖)<br>第09周\t11/5\t期中考週(Sketchup 3D物件繪製上機考)<br>第10周\t11/12\tAutoCAD 繪製幾何圖形(含繪圖環境設定)<br>第11周\t11/19\tAutoCAD 繪製幾何圖形(含座標系統、指令與操控方法)<br>第12周\t11/26\tAutoCAD 繪製幾何圖形(含圖塊與工具選項板編製)<br>第13周\t12/3\tAutocad繪製投影視圖(含尺寸標註)<br>第14周\t12/10\tAutocad繪製投影視圖(含出圖)<br>第15周\t12/17\tAutocad繪製投影視圖(含公差標註)<br>第16周\t12/24\tAutocad繪製剖視圖<br>第17周\t12/31\t期末考_上機考(繪製投影視圖與出圖)<br>第18周\t1/7\tAutocad繪製輔助視圖<br><br>",
+    "exams": {
+        "midterm": "上機考",
+        "final": "上機考",
+        "other": "第7周平時考,上機"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生具備有基本識圖與製圖的能力",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "使學生有能力將構想以圖形繪出以便和工程人員溝通",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "使學生了解正投影、立體圖、剖視圖、公差與配合等基本之畫法，並能完成相關成品之繪製",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "使學生了解各種工程圖之製作之方法",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "工程圖學 精簡版",
+        "author": "王輔春",
+        "publisher": "全華",
+        "year": "2019",
+        "ISBN": "9789865031794",
+        "edition": "二版"
+    },
+    "referenceBooks": "邱嘉佑(2022)。AutoCAD 2022 電腦輔助設計。台科大 。<br>張萬子(2018)。工程圖學。洪雅書坊<br>吳永進、林美嬰(2016)。TQC+ 電腦輔助平面製圖認證指南解體秘笈 AutoCAD 2016。碁峯資訊。<br>中華民國電腦技能基金會(2020)。TQC+電腦輔助平面製圖認證指南。全華",
+    "teachingSoftware": "SketchUP \nAutoCAD 2024\nSolidWorks eDrawings",
+    "rules": ""
+}

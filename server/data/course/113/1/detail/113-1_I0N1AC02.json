@@ -1,0 +1,139 @@
+{
+    "code": "I0N1AC02",
+    "name": {
+        "zh": "幼兒發展",
+        "en": "Development of Young Children"
+    },
+    "credit": "3",
+    "type": "管制必修",
+    "classes": [
+        "夜二技教保三甲"
+    ],
+    "instructors": [
+        "歐慧敏"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第1節",
+            "location": "W0404"
+        },
+        {
+            "day": "週六",
+            "period": "第2節",
+            "location": "W0404"
+        },
+        {
+            "day": "週六",
+            "period": "第3節",
+            "location": "W0404"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 瞭解幼兒期之意義及重要性。<br>2. 認識幼兒發展相關理論。<br>3. 認識幼兒 發展之研究方法。<br>4. 探討幼兒各領域發展之階段、特徵影響因素及輔導策略。<br>5. 透過合作學習探討家庭、學校媒體文化等 幼兒發展相關議題。<br>6. 培養尊重個別差異之教保人員專業素。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.說明發展之定義、幼兒期之定義及其在發展上之重要性。<br>2.簡介童年的歷史觀點─ 比較西方與非西方的兒童觀及其歷史演變。<br>3.介紹幼兒發展相關理論─ 人類發展的六種理論觀點，包括：心理分析(Freud, Erikson)、<br>學習理論 (Pavlov, Watson, Skinner, Bandura)、人本主義 (Maslow)、認知理論 (Piaget,<br>Vygotsky, information processing, 新皮亞傑理論, 認知神經科學取向)、動物行為學<br>(Lorenz, Bowlby, Ainsworth)、環境系絡 (Bronfenbrenner 生態系統論, Vygotsky 社會<br>文化理論)。<br>4.幼兒發展之研究方法─ 兒童研究的歷史、兒童發展相關研究法。<br>5.幼兒生理與腦的發展─ 說明不同階段胎兒、嬰兒、幼兒腦的發展及生理發展之特徵、影響<br>因素及輔導策略。<br>6.介紹知覺 / 動作發展─ 包括知覺發展的神經基礎、知覺與動作發展之階段 /特徵/輔導。<br>7.幼兒認知發展─ 包括認知的概念、皮亞傑理論與評論、布魯納認知論、維高斯基社會文化<br>論與評論、訊息處理論、後設認知論、思考的電腦認知模式、模糊痕跡理論、新皮亞傑理論、<br>認知神經科學取向、影響認知發展的因素、認知能力發展的輔導策略。<br>8.幼兒智力與學術技能之發展─ 包括智力理論 (心理計量法學派、史登堡 Sternberg 智力<br>三元論、加德納 Gardner 多元智力論)、智力評估、數學 / 閱讀 /寫作技能之發展。<br>9.幼兒語言發展─ 包括語言的意義、語言發展理論、幼兒語言發展階段與特徵、語音/語法 /<br>詞彙發展、影響幼兒語言發展之因素、幼兒語言發展之輔導策略。<br>10.幼兒社會發展─ 包括依附關係之發展(定義、類型、影響因素)、氣質之發展(定義、分類、<br>影響因素)、氣質評量、不同氣質幼兒之輔導策略、幼兒遊戲之發展(遊戲之意義與類型、<br>遊戲發展階段、影響遊戲發展的因素、幼兒遊戲的輔導策略)、同儕關係、幼兒的利社會<br>行為。<br>11.幼兒情緒發展─ 包括情緒的概念、 幼兒情緒的發展階段、影響情緒發展的因素、幼兒<br>情緒的輔導策略。<br>12.幼兒人格發展─ 包括人格的定義、精神分析論 (佛洛伊德性心理發展論 / 艾力克森人格<br>發展論)、榮格的分析心理學、人本論 (羅吉斯 /馬斯洛)、認知理論 (艾理斯 Albert<br>Ellis / 貝克 Aaron Beck)、學習理論、幼兒自我概念之發展、幼兒自我概念發展之<br>輔導策略、性別概念與性別刻板行為之發展、.性別角色發展理論、性別角色發展之輔導<br>策略。<br>13.幼兒道德發展─ 包括道德行為的定義及重要性、道德認知與行為之發展階段、影響幼兒<br>道德發展的因素、幼兒道德發展之輔導策略。<br>14.家庭與幼兒發展─ 包括父母教養方式、親子關係、變化中的家庭結構(離婚、未婚生子、<br>繼親家庭、領養家庭、同性戀家庭、不同族群家庭)。<br>15.學校、媒體、文化與幼兒發展─ 包括學校與發展之關係、兒童與媒體之關係、發展的文化<br>脈絡。<br>16.不同發展遭遇的兒童─ 包括特殊幼兒之發展特徵與輔導、兒童虐待與疏忽。",
+        "en": "1.Definition and significance of development and early childhood<br>2.Historical viewpoint of childhood: Comparison between the western and non-western world<br>3.Related theories of early childhood development: Six theoretical viewpoints of human development<br>4.Research methods of early childhood development<br>5.Physical and brain development in early childhood<br>6.Introduction to sensory and motor development: Neurological basis, stages, and guidance strategies<br>7.Cognitive development: Related theories and guidance strategies<br>8.Development of intelligence and academic skills: Theories and assessment<br>9.Language development: Related theories and guidance strategies<br>10.Social development: Theories and guidance strategies of attachment, temperament, and play<br>11.Emotional development: Stages, influencing factors and guidance<br>12.Personality development: Theories and guidance strategies<br>13.Moral development in early childhood: Theories and guidance strategies<br>14.Family and child development: Parenting styles, parent-child relationship, family structures<br>15.School, media, culture and child development: Relationships among school, media and children;<br>cultural contexts in development<br>16.Children with different encounters: Exceptional young children, child abuse and negligence"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.瞭解幼兒期之意義及重要性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "2.理解幼兒發展之相關理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "3.認識幼兒發展之研究方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "4.探討幼兒發展各階段之身心特質及輔導策略",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "5.透過合作學習探討幼兒發展相關議題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "6.培養尊重幼兒個別差異之專業素養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

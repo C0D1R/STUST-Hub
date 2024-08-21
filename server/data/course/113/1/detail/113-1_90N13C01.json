@@ -1,0 +1,115 @@
+{
+    "code": "90N13C01",
+    "name": {
+        "zh": "統計學",
+        "en": "Statistics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技資管二甲"
+    ],
+    "instructors": [
+        "林雅智"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0210"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0210"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0210"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹統計方法的基本概念與Excel軟體分析統計資料的操作與解讀。內容包括資料的蒐集與整理，分析解釋等敘述統計及由樣本推論母體的估計檢定，迴歸分析，變異數分析，無母數統計等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第1章 資料與統計<br>1.1 商業與經濟上的應用<br>1.2 資料<br>1.3 資料來源<br>1.4 敘述統計<br>1.5 推論統計<br>1.6 電腦與統計分析<br><br>第2章 敘述統計I：表格與圖形法<br>2.1 定性資料的彙總<br>2.2 定量資料的彙總<br>2.3 探究性資料分析：莖葉圖表示法<br>2.4 交叉表格與散佈圖<br><br>第3章 敘述統計II：數值方法<br>3.1 位置量數<br>3.2 離散量數<br>3.3 相對位置量數與離群值的偵測<br>3.4 探究性資料分析：箱形圖<br>3.5 兩變數的相關性量數<br>3.6 加權平均與群組資料的處理<br><br>第4章 機率導論<br>4.1 實驗、計數法則以及機率指派<br>4.2 事件與事件機率<br>4.3 機率的基本關係<br>4.4 條件機率<br>4.5 貝氏定理<br><br>第5章 離散機率分配<br>5.1 隨機變數<br>5.2 離散機率分配<br>5.3 期望值與變異數<br>5.4 二項機率分配<br>5.5 卜瓦松機率分配<br>5.6 超幾何機率分配<br><br>第6章 連續機率分配<br>6.1 均勻機率分配<br>6.2 常態機率分配<br>6.3 二項機率的常態分配近似值<br>6.4 指數機率分配<br><br>第7章 抽樣及抽樣分配<br>7.1 Electronics Associates 的抽樣問題<br>7.2 簡單隨機抽樣<br>7.3 點估計<br>7.4 抽樣分配簡介<br>7.5 樣本平均的抽樣分配<br>7.6 樣本比例的抽樣分配<br>7.7 點估計量的性質<br>7.8 其他抽樣方法<br><br>第8章 區間估計<br>8.1 母體平均數：σ已知<br>8.2 母體平均數：σ未知<br>8.3 樣本大小的決定<br>8.4 母體比例<br><br>第9章 假設檢定<br>9.1 建立虛無假設與對立假設<br>9.2 型I和型II錯誤<br>9.3 母體平均數：σ已知<br>9.4 母體平均數：σ未知<br>9.5 母體比例<br>9.6 假設檢定與決策<br>9.7 計算型II錯誤的機率<br>9.8 在檢定母體平均時決定樣本數<br><br>第10章 兩母體平均數與比例的統計推論<br>10.1 兩母體平均數之差的推論：已知σ1與σ2<br>10.2 兩母體平均數之差的推論：σ1與σ2未知<br>10.3 兩母體平均數之差的推論：配對樣本<br>10.4 母體比例之差的推論<br><br>第11章 母體變異數的推論<br>11.1 單一母體變異數的推論<br>11.2 兩母體變異數的推論<br><br>第12章 適合度與獨立性的檢定<br>12.1 適合度檢定：多項母體<br>12.2 獨立性檢定<br>12.3 適合度檢定：卜瓦松分配與常態分配<br><br>第13章 變異數分析與實驗設計<br>13.1 變異數分析介紹<br>13.2 變異數分析：檢定K個母體平均數是否相等<br>13.3 多重比較程序<br>13.4 實驗設計介紹<br>13.5 完全隨機設計<br>13.6 隨機區集設計<br>13.7 因子實驗<br><br>第14章 簡單迴歸<br>14.1 簡單線性迴歸模型<br>14.2 最小平方法<br>14.3 判定係數<br>14.4 模型假設<br>14.5 顯著性檢定<br>14.6 利用估計迴歸方程式進行估計與預測<br>14.7 電腦解答<br>14.8 殘差分析：驗證模型假設<br>14.9 殘差分析：離群值及具影響力的觀察值<br><br>第15章 複迴歸<br>15.1 複迴歸模型<br>15.2 最小平方法<br>15.3 複判定係數<br>15.4 模型假設<br>15.5 顯著性檢定<br>15.6 利用估計迴歸方程式進行估計與預測<br>15.7 定性自變數<br>15.8 殘差分析<br>15.9 羅吉斯迴歸<br>",
+        "en": "1. Data and Statistics<br>2. Descriptive Statistics: Tabular and Graphical Presentations <br>3. Descriptive Statistics: Numerical Methods<br>4. Introduction to Probability<br>5. Discrete Probability Distributions<br>6. Continuous Probability Distributions<br>7. Sampling and Sampling Distributions<br>8. Interval Estimation<br>9. Hypothesis Tests<br>10. Statistical Inference about Means and Proportions with Two Populations<br>11. Inferences About Population Variances<br>12. Tests of Goodness of Fit and Independence<br>13. Analysis of Variance and Experimental Design<br>14. Simple Linear Regression<br>15. Multiple Regression"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解資料分析的統計方法與基本學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用統計方法分析管理相關實務資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用Excel 軟體計算資料並解讀報表",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對管理問題獨立思考和精準辨識適當的統計方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

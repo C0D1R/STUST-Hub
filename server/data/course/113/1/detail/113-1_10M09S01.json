@@ -1,0 +1,111 @@
+{
+    "code": "10M09S01",
+    "name": {
+        "zh": "書報討論(一)與學術倫理",
+        "en": "Seminar (I) and Academic Ethics"
+    },
+    "credit": "0",
+    "type": "必修",
+    "classes": [
+        "博研機電一甲",
+        "碩研機械一甲"
+    ],
+    "instructors": [
+        "呂金塗"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "K214"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "K214"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹學術倫理之內涵與規範，使學生瞭解從事學術研究工作應堅守的基本倫理及須遵守的專業規範；安排專家學者演講，以吸收科技新知及觀摩口述表達；並講授科技論文寫作技巧，使學生能正確清楚簡潔地撰寫研究成果。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.學術倫理的概述：研究倫理的定義與內涵、專業規範、個人責任、政府規定與政策<br>2.不當研究行為的定義與類型：不當的資料處理－捏造與篡改資料；不當的研究寫作－抄襲與剽竊、自我抄襲<br>3.學術研究的寫作技巧；引用著作、作者：引述、改寫與摘寫；引用他人著作的議題、作者定義與列名原則<br>4.學術研究相關法規基本概念與原則：著作權法、個人資料保護法、隱私權、受試者保護的原則與作法<br>5.科技論文概述、導論：重要性、撰寫技巧；背景資料、文獻回顧、問題陳述、研究目的與價值、組織結構<br>6.理論分析、實驗與方法：數學分析、模型介紹、方程式；設備、材料或方法描述，實驗程序，統計分析方法<br>7.結果與討論：介紹研究結果、敘述最重要結果、評論研究結果；研究結果一致性，所得出推論，方法或結果限制<br>8.結論、摘要、參考文獻：概述主要研究工作、陳述研究主要結論、應用前景與新研究方向；敘述性摘要、資訊性摘要；序號格式、其它注意事項<br>9.專題演講：聆聽專家學者演講，吸收科技新知、演講技巧<br>10.口頭報告：簡報技巧、演練",
+        "en": "1. Introduction to Academic Ethics: definition and constructs of research ethics; professional norms, personal responsibility, government regulations and policies<br>2. Definition and Types of Research Misconduct: inappropriate data processing－fabrication, falsification; misconduct in academic writing－plagiarism<br>3. Academic Writing Skills; References, Authorship: quoting, paraphrasing, summarizing; appropriate reference issues; authorship definition, designation principles<br>4. Relevant Acts and Protection Principles in Academic Research: copyright act, personal information protection act, right to privacy, principle of human-subject protection<br>5. Technical Writing; Introduction: importance, writing skills: background, literature review, problem statement, research goal<br>6. Theoretical Analysis, Experiment and Methods: mathematical analysis, modeling; description of equipment, materials or methods; experimental procedures, statistical methods<br>7. Results and Discussion: introduction to research results, statement of important results, comments on and consistence of the results, conclusion, limitations<br>8. Conclusion, Abstract, References: introduction to research work, statement of main conclusion, application prospects, new studies; descriptive/ informative abstract; numbering format<br>9. Speeches: new technology, expression skills<br>10. Oral Presentations: briefing skills, rehearsal"
+    },
+    "weeklySchedule": "第1週：學術倫理的概述<br>第2週：不當研究行為的定義與類型<br>第3週：學術研究的寫作技巧<br>第4週：學術研究相關法規基本概念<br>第5週：科技論文；導論<br>第6週：理論分析、實驗與方法<br>第7週：結果與討論<br>第8週：結論、摘要及參考文獻<br>第9週：期中考<br>第10至12週：專題演講<br>第13至17週：學生口頭報告<br>第18週：期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "書面報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解學術倫理的內涵及規範",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能透過聆聽演講吸收科技新知",
+            "teachingMethods": [
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉簡報之口述表達技巧",
+            "teachingMethods": [
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能正確清楚地撰寫研究成果",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "科學研究論文寫作 Science Research Writing",
+        "author": "Hilary Glasman-Deal著；連程翔 譯",
+        "publisher": "華樂絲語文顧問有限公司",
+        "year": "2012",
+        "ISBN": "978-986-85379-7-2",
+        "edition": ""
+    },
+    "referenceBooks": "1.俞炳丰 著、陸瑞強 校訂，科技英語論文寫作(第2版) Practical Guide to Scientific English Writing，五南圖書公司，2016，ISBN 9789571184661.<br>2. Heather Silyn-Roberts著；鄧婉貞 譯，科學與工程寫作：論文、簡報與報告(中譯本)，華樂絲語文顧問有限公司，2012，978-986-85379-5-8.<br>3. Philip Rubens著；黃詠蘭 譯，科技英文寫作手冊(中譯本)，華樂絲語文顧問有限公司，2011，978-986-85379-4-1.<br>4.臺灣學術倫理教育資源中心-學習資源https://ethics.nctu.edu.tw/resource<br>",
+    "teachingSoftware": "無",
+    "rules": "1. 本課程使用個人電腦與投影機上課。<br>2. 部分補充教材或題解公布於https://flipclass.stust.edu.tw/<br><br>"
+}

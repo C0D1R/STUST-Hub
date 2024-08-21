@@ -1,0 +1,110 @@
+{
+    "code": "1CD03B02",
+    "name": {
+        "zh": "專業英文",
+        "en": "English for Special Purpose"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技產設三乙"
+    ],
+    "instructors": [
+        "吳啟華"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "E0508"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "E0508"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "教導學生認識專業英文相關英文知識及培養學生專業英文相關應用之能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.文法介紹 (I) <br>2.文法介紹 (II)<br>3.專業單字<br>4.專業詞彙<br>5.寫作訓練 (I)<br>6.寫作訓練 (II)<br>7.口說訓練 (I) <br>8.口說訓練 (II)",
+        "en": "1.Grammar – I<br>2.Grammar - II<br>3.Vocabulary in Industrial Management<br>4.Terminology in Industrial Management<br>5.Writing – I<br>6.Writing - II<br>7.Speaking – I<br>8.Speaking - II"
+    },
+    "weeklySchedule": "堂數\t主要內容<br>1\t課程介紹、學習經驗分享<br>2\t英文的起源、如何使用英英字典<br>3\t查字典練習、富饒之城<br>4\t查字典練習、回音法、富饒之城<br>5\t英文歌詞、富饒之城<br>6\t英文歌詞、富饒之城、影片問答<br>7\t英文歌詞、富饒之城、影片問答<br>8\t英文歌詞、富饒之城、影片問答<br>9\t期中：影片問答<br>10\t情境對話：交易流程<br>11\t英文學習遊戲分享<br>12\t英文學習遊戲開發(1)<br>13\t英文學習遊戲開發(2)<br>14\t英文學習遊戲測試(I)<br>15\t英文學習遊戲測試(II)<br>16\t期末：影片問答<br>17\t經典文章閱讀(1)<br>18\t經典文章閱讀(2)<br>",
+    "exams": {
+        "midterm": "實作、口頭報告",
+        "final": "書面報告",
+        "other": "日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解英語基本知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "分析設計相關專業英語資料",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "正確應用英語與外籍專業從業人員溝通",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "體認英語重要性並能適應社會全球化趨勢",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

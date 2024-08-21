@@ -1,0 +1,135 @@
+{
+    "code": "E0D38O01",
+    "name": {
+        "zh": "台日服務產業管理概論",
+        "en": "The Service Industries Management between Taiwan and Japan"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應日四甲",
+        "四技應日四乙"
+    ],
+    "instructors": [
+        "盧駿葳"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "N501"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "N501"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "日式企業管理嚴明，十分重視上下尊卑倫理關係。而台日企業的管理文化與模式方面有何差異，將於本課程中敘述。服務業涵括甚廣，包含教育、金融、觀光、貿易、航空、物流等行業。其中包含的字彙與含意甚多，故於課程中，藉由講解，帶領同學了解不同性質之台日服務產業管理差異。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.服務業的定義<br>2.台日管理的基礎架構差異性<br>3.台日服務業職場文化<br>4.服務業管理相關專門用語與法規<br>",
+        "en": "1.Identified of the service industries<br>2.The differentiation of companies bases between Taiwan and Japan<br>3.The differentiation of carrier culture between Taiwan and Japan <br>4.Professional words and rules of this industries"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過教師講解，理解台日服務產業管理的日語。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過老師實務經驗的講解，使學生能夠正確地翻譯口譯台日服務產業管理相關用語。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由分組報告及充分討論和書面資料之呈述，讓學生活用台日服務產業管理相關用語。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由分組報告的過程，學生可以充分收集台日服務產業管理相關用語並了解其特殊性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過本課程的解說，讓學生了解台日服務產業管理的差異性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由課堂展演，讓學表現自我的人文管理特長。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

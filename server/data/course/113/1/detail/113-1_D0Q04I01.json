@@ -1,0 +1,110 @@
+{
+    "code": "D0Q04I01",
+    "name": {
+        "zh": "資料分析",
+        "en": "Data Analysis and Application"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩專行流二甲"
+    ],
+    "instructors": [
+        "唐楚君"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "T0214"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "T0214"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著電商經濟與智慧製造興起，資料分析與應用在企業價<br>值鏈中的重要性提升。資料分析與應用已成為企業建立核<br>心能力與創造價值的重要關鍵。本課程內容涵蓋資料分析<br>知識與技術、應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1課程介紹/資料分析與應用概論<br>2問卷建立與資料取得<br>3次數分配<br>4敘述統計<br>5 交叉分析<br>6複選題的議題<br>7均數檢定<br>8單因子變異數分析<br>9期中報告<br>10相關<br>11 迴歸<br>12因素分析<br>13信度分析<br>14判別分析一<br>15判別分析二<br>16集群分析一<br>17集群分析二<br>18期末報告",
+        "en": "1curriculum introduction/ introduction to data analysis and application<br>2Questionnaire creation and data acquisition<br>3Frequency distribution<br>4Descriptive statistics<br>5Cross-analysis<br>6Multiple choice questions<br>7Mean test<br>8Single factor variance analysis<br>9Interim report<br>10Related<br>11return<br>12Factor analysis<br>13trust level analysis<br>14Discriminant Analysis One<br>15Discriminant Analysis Two<br>16Cluster Analysis One<br>17Cluster Analysis Two<br>18Final report"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "有系統地探討資料管理概念、特性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解行銷管理與應用相關知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過實務資料介紹與討論之方式，刺激 同學之思考與批判分析。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養具備資料管理與應用企劃力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

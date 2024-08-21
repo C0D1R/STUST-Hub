@@ -1,0 +1,139 @@
+{
+    "code": "70Q09W01",
+    "name": {
+        "zh": "消費市場分析",
+        "en": "Consumer Market Analysis"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專企管二甲"
+    ],
+    "instructors": [
+        "簡南山"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "S209A"
+        },
+        {
+            "day": "週六",
+            "period": "第9節",
+            "location": "S209A"
+        },
+        {
+            "day": "週六",
+            "period": "第10節",
+            "location": "S209A"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在現今激烈的商業競爭中，產品暢銷與否的因素不僅是產品本身的功能是否優異，消費者的消費行為、產品需求、產品定位、消費者市場區隔，甚至公司形象與媒體廣告的訴求等等，都影響了產品上市以後成功與否的命運。因此，在行銷上除了行銷人員的企劃經驗外，客觀、精確的市場分析資訊對於決策者的判斷和決定提供不可或缺輔助工具，如何利用科學、系統化的資料分析技術以得到: 潛在客戶群的特質，客戶對產品功能的需求，產品的定位，客戶的消費習性 以適當的時機，提供適當的產品給適當的客戶，實在是消費市場分析不可或缺的課題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、 資料分析的重要性與其發展概況<br> 1.為何需要資料分析?<br> 2.資料分析與資料處理的不同<br> 3.資料分析作些什麼事? <br>二、 資料分析在個人消費市場行銷的應用<br> 1.發掘客戶群的特質(現有客戶或潛在客戶)<br> 2.客戶區隔<br> 3.客戶消費行為的型態 <br>三、實例分析<br> 1. 案例說明與分析<br>",
+        "en": "(1)\tOverview the data analysis and development <br>  1 Why do we need data analysis? <br>  2. Data analysis and data processing different<br>  3 Data Analysis for what happened? <br>(2)The data analysis in the consumer marketing applications <br>1.\tExplore the nature of the customer base (existing customers or potential customers) <br>  2 Customer Segmentation <br>  3 customer consumption behavior patterns <br>(3)The case study <br>  1 Case Description and Analysis<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解消費市場的相關知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對消費市場問題有效辨識問題所在",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用消費市場知識於工作上",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認與他人團隊合作對於完成任務的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能消費市場分析，並撰寫消費市場計畫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能統整相關消費市場問題，提出解決方案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

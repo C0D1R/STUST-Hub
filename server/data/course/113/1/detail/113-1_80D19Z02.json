@@ -1,0 +1,107 @@
+{
+    "code": "80D19Z02",
+    "name": {
+        "zh": "實務專題(二)",
+        "en": "Team Project (II)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技財金四乙"
+    ],
+    "instructors": [
+        "張永佶"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "採分組方式，在指導老師指導下進行實務專題研究<br><br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "緒論、文獻探討、研究方法、實證結果、結論、參考文獻",
+        "en": "Introduction, Literature Review, Methodology, Empirical Results,<br>Conclusion, Reference."
+    },
+    "weeklySchedule": "採分組方式，在指導老師指導下進行實務專題研究<br><br>期末報告需針對主題撰寫下列各個項目<br>緒論、文獻探討、研究方法、實證結果、結論、參考文獻<br><br>期末繳交報告",
+    "exams": {
+        "midterm": "無",
+        "final": "實習訪視",
+        "other": "主管考察問卷"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能應用經濟方法分析企業資料",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現資料分析結果，讓不懂經濟專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能將經濟資料轉換成有用的資訊，並用以建立企業管理決策",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能利用Excel 軟體分析財金議題",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "NA",
+        "author": "NA",
+        "publisher": "NA",
+        "year": "NA",
+        "ISBN": "NA",
+        "edition": "NA"
+    },
+    "referenceBooks": "NA",
+    "teachingSoftware": "NA",
+    "rules": "需準時繳交專題報告"
+}

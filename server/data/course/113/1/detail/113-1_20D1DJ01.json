@@ -1,0 +1,151 @@
+{
+    "code": "20D1DJ01",
+    "name": {
+        "zh": "可程式控制設計實習",
+        "en": "Programmable Logic Controller Design"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技電資二甲"
+    ],
+    "instructors": [
+        "李宗勳"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "A202"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "A202"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "A202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "可程式控制器的架構、特性、應用及發展，經由程式書寫器或電腦連線軟體操作，進行基本指令、順序功能流程圖及應用指令的解說與實習，並透過實用範例演練，培養學生具有自行設計程式的知識和技能。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、FX3U硬體架構介紹<br>二、FX3U特性說明<br>三、程式書寫器<br>四、電腦連線軟體<br>五、基本指令解說及實習<br>六、順序功能流程圖程式解說及實習<br>七、實用範例",
+        "en": "一、Hardware of FX3U PLC<br>二、Characteristics and Performance of FX3U<br>三、Programming Panel<br>四、Software for PLC<br>五、Basic Function Explanation and Practice<br>六、Sequential Function Chart (SFC) Programming<br>七、Example of Application"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解可程式控制器之輸出輸入點架構及其外部配線。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解可程式控制器基本指令及階梯圖設計技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會可程式控制基本電路控制設計技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會以可程式控制器設計_三相感應電動機正反轉、Y-Δ起動控制設計技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會以可程式控制器順序功能流程圖程式設計_電動機順序啟動逆序停止控制。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會以可程式控制器順序功能流程圖程式設計_電動機順序啟動逆序停止控制。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會以可程式控制器順序功能流程圖程式設計_大小成品分類控制。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

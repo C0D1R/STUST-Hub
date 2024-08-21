@@ -1,0 +1,110 @@
+{
+    "code": "03D13W03",
+    "name": {
+        "zh": "教學原理(中等學校)",
+        "en": "Principles of Instruction"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "教育學程－中"
+    ],
+    "instructors": [
+        "王志蓮"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "N107"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "N107"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程在探討教學原理與主要教學方法及其應用，課程內容包括教學的基本概念、教學的理論基礎、認知領域的教學方法、情意領域的教學方法、技能領域的教學方法、個別化教學法、教學評量原理與方法及創新教學革命介紹。<br><br>【專業素養指標】<br>1 了解教育發展的理念與實務<br>■1-1 了解有關教育目的和價值的主要理論或思想，以建構自身的教育理念與信念。<br>■1-3 了解我國教育政策、法規及學校實務，以作為教育實踐基礎。<br>2 了解並尊重學習者的發展與學習需求<br>■2-2 了解並運用學習原理，以符合學生個別學習需求與發展。<br>3 規劃適切的課程、教學及多元評量<br>■3-1 依據課程綱要/大綱、課程理論及教學原理，以規劃素養導向課程、教學及評量。<br>■3-2 依據課程綱要/大綱、課程理論及教學原理，以協同發展跨領域/群科/科目課程、教學及評量。<br>■3-3 具備任教領域/群科/科目所需的專門知識與學科教學知能，以進<br>行教學。<br>■3-4 掌握社會變遷趨勢與議題，以融入課程與教學。<br>■3-5 應用多元教學策略、教學媒材與學習科技，以促進學生有效學習。<br>■3-6 根據多元評量結果調整課程與教學，以提升學生學習成效。<br>4 建立正向學習環境並適性輔導<br>▓4-1 應用正向支持原理，共創安全、友善及對話的班級與學習環境，以養成學生良好品格及有效學習。<br>5 認同並實踐教師專業倫理<br>■5-1 思辨與認同教師專業倫理，以維護學生福祉。<br>■5-2 透過教育實踐關懷弱勢學生，以體認教師專業角色。<br>■5-3 透過教育實踐與省思，以發展溝通、團隊合作、問題解決及持續專業成長的意願與能力。<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程簡介<br>2.教學意義與性質<br>3.教學過程的概念<br>4.教學計畫的意義、功能與類型<br>5.教學目標內容與撰寫<br>6.教學活動設計與實作<br>7.學習理論與教學<br>8.班級經營與教室管理<br>9.教學技術-發問與討論技巧<br>10.教學技術-教學媒體與翻轉教學<br>11.教學模式-直接教學法<br>12.教學模式-概念與探究教學法<br>13.教學模式-合作學習法<br>14.教學模式-適應個別差異教學法<br><br>--因字數限制，以下為補充課程概述之內容--<br><br>【課程核心內容】<br>1了解教育發展的理念與實務<br>■(1)教育本質、教育目的與內容<br>■(2)主要教育理論與思想<br>■(6)我國主要教育政策、法規及實務<br>2了解並尊重學習者的發展與學習需求<br>■(2)主要學習理論及其教育應用<br>■(3)主要學習動機理論及其教育應用<br>■(4)學習策略<br>3規劃適切的課程、教學及多元評量<br>■(1)主要課程、教學與評量的理論<br>■2)重要議題融入課程、教學與評量<br>■(3)我國課程、教學與評量的重要政策<br>■(5)課程、教學與評量的創新及學習科技的應用<br>■(6)領域/學科(或科目)/群科專門知識與學科教學知能<br>▓(8)探究與實作設計與實施<br>4建立正向學習環境並適性輔導<br>■(5)班級經營的意義、目的、內容與方法<br>■(7)親師生關係<br>5認同並實踐教師專業倫理<br>■(1)教師專業、倫理及其承諾<br>■(2)教師專業角色及其權利與義務<br>■(5)教師自我反思、溝通互動與解決問題<br><br>【融入議題】<br>■資訊教育(含數位學習)<br>■閱讀素養<br><br>",
+        "en": "1. Course introduction<br>2. The significance and nature of instruction<br>3. Instruction process<br>4. Instruction plan<br>5. Content of instruction objectives<br>6. Learning motivation<br>7. Learning theory and teaching<br>8.Classroom management<br>9.Midwife teaching method and questioning skills<br>10.Application of teaching media<br>11.Didactic Teaching<br>12.Inquiry instructional strategy<br>13.Cooperative Teaching Method<br>14.Differentiated Instruction<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解教學的基本概念與教學模式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "精熟教學目標與教學計畫之撰寫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識並熟練基本的教學技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "辨別不同評量方式的使用時機",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

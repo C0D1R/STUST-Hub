@@ -1,0 +1,128 @@
+{
+    "code": "50D24901",
+    "name": {
+        "zh": "ISO 9000品質管理系統",
+        "en": "ISO 9000 Quality Management Systems"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技工管三甲",
+        "四技工管三乙"
+    ],
+    "instructors": [
+        "王鵬森"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "W0404"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "W0404"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "W0404"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "讓學生了解ISO 9000標準及如何建立與維持ISO標準。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\tISO 9000概述<br>2.\t品質管理系統與文件化<br>3.\t管理階層責任<br>4.\t資源管理<br>5.\t產品實現<br>6.\t量測、分析及改進<br>",
+        "en": "1.\tIntroduction to ISO 9000 <br>2.\tQuality Management System and documentation<br>3.\tManagement commitment<br>4.\tManagement of resources <br>5.\tProduct realization <br>6.\tMeasurement, analysis and improvement <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解ISO 9000國際品質標準",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能建立與維持ISO標準",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將ISO的概念明確表達並讓人理解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能培養具備流程與系統管理之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解品質系統的最新發展情形",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,128 @@
+{
+    "code": "20D1FH01",
+    "name": {
+        "zh": "基礎電路學(二)",
+        "en": "Basic Electric Circuits (II)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專電機三甲"
+    ],
+    "instructors": [
+        "洪得峻"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "I0206"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "I0206"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "I0206"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.1.電機技師 2.電子技師",
+        ""
+    ],
+    "description": "介紹阻抗網路的交流電路分析方法、網路定律、共振、濾波器與波德圖、變壓器與耦合電路、三相系統、與非弦波波形。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 交流串並聯電路<br>2. 交流分析方法<br>3. 交流網路定律<br>4. 共振<br>5. 濾波器與波德圖<br>6. 變壓器與耦合電路<br>7. 三相系統<br>8. 非弦波波形",
+        "en": "1. AC series-parallel circuits<br>2. Methods of AC analysis<br>3. AC network theorems<br>4. Resonance<br>5. Filters and the Bode plot<br>6. Transformers and coupled circuits<br>7. Three-phase systems<br>8. Nonsinusoidal waveforms"
+    },
+    "weeklySchedule": "第8章　 RL 電路與 RC 電路之完整響應<br>第9章　 具有兩個儲能元件電路之完整響應<br>第10章　弦波穩態分析<br>第11章　交流穩態功率<br>第12章　三相電路<br>第13章　頻率響應<br>第14章　拉氏轉換",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末考",
+        "other": "平時作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學得用複數去定義相量和阻抗以獲得電路描述，再分析交流穩態嗎？",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學得用微分方程式來描述含有電感器和電容器的電路，並求解嗎？",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "請問你是否知道電路之完全響應是暫態響應與穩態響應的和嗎？",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "知道平衡三相電壓它們的量相同，但相位彼此相差120°嗎？",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學得用拉普拉斯轉換時域的微分方程式為頻域的代數方程式，以代數運算來求解變數嗎？",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "基礎電路學",
+        "author": "DORF(黃世杰)",
+        "publisher": "高立",
+        "year": "2019",
+        "ISBN": "9789863782223",
+        "edition": "初版"
+    },
+    "referenceBooks": "電路學 Dorf’s Introduction to Electric Circuits(Global Edition)<br>譯者： 黃世杰<br>出版社：高立圖書<br>ISBN：9789863782216<br>規格：平裝 / 792頁 / 19 x 26 x 3.96 cm / 普通級 / 雙色印刷 / 初版",
+    "teachingSoftware": "",
+    "rules": ""
+}

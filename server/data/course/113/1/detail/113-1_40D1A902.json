@@ -1,0 +1,123 @@
+{
+    "code": "40D1A902",
+    "name": {
+        "zh": "實務專題(一)",
+        "en": "Independent Study I"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技化材四乙"
+    ],
+    "instructors": [
+        "黃常寧"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本項課程設計是希望同學能於課程外之時間，訓練學生從實驗設計、實驗實作、數據整理與報告撰寫能力之建立。本課程由學生自行尋找系上老師進行三學期的專題研究實驗，最後撰寫出實驗報告與舉行口頭，由指導老師遴聘系上其它教師一併對學生之專題提出建言，促使修習之學生能體驗實務。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.資料收集及閱讀<br>2.研究題目之選定<br>3.實驗規劃與實驗技巧<br>4.數據取得與數據整理<br>5.問題與討論<br>6.心得與建議",
+        "en": "1.Literature survey<br>2.Determination of subject<br>3.Experiment planning and skill training<br>4.data collecting and processing<br>5.Discussion<br>6.Suggestion"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解實驗所使用到的化學與材料工程相關專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能執行實驗並分析及解釋實驗數據",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能使用工具與儀器",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能融入團隊並能完成自己所分擔的實驗工作並能清楚說出自己的實驗結果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能發掘問題並解決問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用電腦軟體處理實驗數據，並上網收集相關資料。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

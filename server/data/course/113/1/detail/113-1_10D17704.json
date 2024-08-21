@@ -1,0 +1,119 @@
+{
+    "code": "10D17704",
+    "name": {
+        "zh": "靜力學",
+        "en": "Applied Mechanics (Statics)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技製造二乙"
+    ],
+    "instructors": [
+        "翁景洲"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "K309"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "K309"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "K309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "應用(工程)力學原理概述與分析計算,其內容包括質點、剛體、力與力系的概念、力矩的分析計算,自由體圖繪製，重心等位置計算、摩擦與慣性矩暨應用平衡方程求解。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.概論-基本概念<br>2.力、向量和合力<br>3.力矩和力偶<br>4.平衡<br>5.結構與桿件<br>6.三維空間靜力平衡<br>7.摩擦<br>8.形心與重心<br>9.慣性矩<br>10.應用與解答<br>",
+        "en": "1.Intoduction-Basic Concept <br>2.ForceVector and Resultant<br>3.Moments and Couples<br>4.Equilibrium<br>5.Structure and Member<br>6.Static equilibrium of three dimension spaces <br>7.Frictions<br>8.Center of Gravity, Centric and Center of Mass <br>9.Moments of Inertia<br>10.Application and Solution<br>"
+    },
+    "weeklySchedule": "第一週---第一章--靜力學緒論牛頓力學定律<br>第二週---向量的基本性質<br>第三週---第二章-力系的基本運算---向量的基本運算<br>第四週---力對一點的力矩.<br>第五週---力偶(小考)<br>第六週---共面平衡分析-單一物體問題的平衡分析..<br>第七週--涉及內部反作用力的自由體圖<br>第八週--二力與三力物體<br>第九週--期中考<br>第十週---形心<br>第11週---平面面積和曲線的形心<br>第12週---平面面積和曲線的形心<br>第13週---平面面積和曲線的形心<br>第14週---面積的慣性矩(小考)<br>第15週---面積的慣性矩<br>第16週---面積的慣性矩<br>第17週---面積的慣性矩<br>第18週---期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "作業及小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解質點靜力平衡",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "力量系統的分析",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "剛體平衡的分析",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "形心與慣性矩的計算",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "應用力學--靜力學4e--si",
+        "author": "Pytel--kiusalaas",
+        "publisher": "高立圖書有限公司",
+        "year": "",
+        "ISBN": "",
+        "edition": "4E"
+    },
+    "referenceBooks": "自編講義---翁景洲",
+    "teachingSoftware": "",
+    "rules": "主要讓學生學習力學的基本知識，在日後設計方面及實務方面有相輔相成的效果，同時對接下來的材料力學的學習有更好的基本能力。"
+}

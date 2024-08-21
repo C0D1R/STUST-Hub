@@ -1,0 +1,129 @@
+{
+    "code": "10D32Z01",
+    "name": {
+        "zh": "自動化概論",
+        "en": "Introduction to Automation"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技製造一甲",
+        "四技製造一乙",
+        "四機械國專一甲"
+    ],
+    "instructors": [
+        "莊鎧榤"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "K504"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "K504"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "K504"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生明瞭自動化對工業界的影響以知其必要性，並對自動化的設備有個初步的了解，以供後續課程選擇的參考",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1自動化概論 自動化對工業界之必要性及員工心態之調適與自動化元件<br>2驅動器之介紹 光和熱， 壓電力產生器， 電磁線圈，<br>空氣動力驅動器和電磁閥 油壓驅動器和閥門<br>3馬達簡介 馬達隻種類及適合自動化之馬達<br>4感測器元件 感測器的特質，開關及量能感測器之重要性，<br>位置、速度和加速度感測器<br>5伺服系統 伺服系統簡介與閉迴路控制系統之優缺點及其他控制法<br>6控制器分類與工業用機器人之簡介 <br>7自動化作業單元 自動化島、彈性製造系統與電腦整合製造",
+        "en": "1.Introduction<br>2.Actuators<br>3.Motor<br>4.Component of Sensor<br>5.Servo-system<br>6.Controller and Robot<br>7.Workcell of Automation"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能以CAD設計流程規劃生產自動化效益之評估",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以各式驅動器設計所需之控制生產流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解各種感測器相關參數之特性輸出對生產自動化系統之物理意義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能規劃選擇伺服控制系統之相關參數",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀汽車專業用之英文資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

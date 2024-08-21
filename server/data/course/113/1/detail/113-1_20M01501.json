@@ -1,0 +1,110 @@
+{
+    "code": "20M01501",
+    "name": {
+        "zh": "專題研討(三)",
+        "en": "Independent Study(III)"
+    },
+    "credit": "0",
+    "type": "必修",
+    "classes": [
+        "碩研電機二甲"
+    ],
+    "instructors": [
+        "汪輝明"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "B201-1"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "B201-1"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "訓練學生報告能力",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "訓練學生報告能力",
+        "en": "A formal report regarding personal research area"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "知道一種找到英文專業期刊的方法嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會使用一套電腦軟體來製作研究報告嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會操作口頭報告時的設備嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "曾經發覺同學的報告有錯誤嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

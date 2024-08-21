@@ -1,0 +1,110 @@
+{
+    "code": "10D36401",
+    "name": {
+        "zh": "基礎物理",
+        "en": "Fundamental of Physics"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "四技自控一甲",
+        "四技自控一乙",
+        "四技製造一甲",
+        "四技製造一乙",
+        "四技車輛一甲",
+        "四技車輛一乙"
+    ],
+    "instructors": [
+        "莊鎧榤"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "K302"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹物理學的基本工具，與物理現象的描述；包含向量運算介紹、運動學、動力學、功與能轉換，熱學等基本物理描述方法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.物理介紹<br>2.位移、速度、加速度<br>3.力、運動定律<br>4.功、動能與功能原理<br>5.位能<br>6.動量與衝量<br>",
+        "en": "1. Introduction to Physics<br>2. Displacement, Velocity, Acceleration<br>3. Force, The Laws of Motion<br>4. Work, Kinetic Energy and the Work-Energy Theorem<br>5. Potential Energy<br>6. Momentum and Impulse<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解基本物理觀念與其應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備從事工程科學所需觀察、分析、思考之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將基本物理學之原理應用於工程及日常生活中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由撰寫物理作業，訓練學生處理問題的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

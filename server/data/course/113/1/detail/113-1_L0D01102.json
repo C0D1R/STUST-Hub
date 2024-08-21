@@ -1,0 +1,127 @@
+{
+    "code": "L0D01102",
+    "name": {
+        "zh": "工程數學(一)",
+        "en": "Engineering Mathematics (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技半導體二乙"
+    ],
+    "instructors": [
+        "黃俊傑"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "W0409"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "W0409"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0409"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "工程數學包含許多數學主題，這些主題與學生日後學習科學或工程相關課程有關。其主要內容為常微分方程式（Ordinary Differential Equations）及偏微分方程式（Partial Differential Equations）的定理和應用。",
+    "prerequisites": "微積分",
+    "syllabus": {
+        "zh": "<br>一階微分方程式 :<br>1.微分方程式之數學模型<br>2分離變數微分方程式<br>3.一階線性微分方程式<br>4.正合方程式<br>5.柏努力方程式<br><br>高階微分方程式 :<br>1.常係數齊次線性微分方程式<br>2.未定係數法<br>3.參數變換法<br>4.逆運算法<br>5.柯奇-尤拉方程式<br>",
+        "en": "Ftrst Order Differentiaal Equations <br>1 Differential Equations as mathematical models<br>2 Separable Variable Differential Equations<br>3 Ftrst Order Linear Equations<br>4 Exact Equations<br>5 Bernoulli Equation<br>Higher Order Differential Equations<br>1 Homogeneous Linear Equations with Constant Coefficients<br>2 Undetermined Coefficients<br>3 Variation of Parameters<br>4.Inverse Operation<br>5 Cauchy-Euler Equations<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能夠瞭解微分方程式之數學意義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠瞭解各種一階微分方程式之數學觀念與解題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習二階齊次線性微分方程式之觀念與運算",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解特殊之二階非齊次線性 微分方程之觀念與解題運算",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立高階之微分方程式之觀念與計算方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

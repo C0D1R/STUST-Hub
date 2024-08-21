@@ -1,0 +1,116 @@
+{
+    "code": "50Q05G01",
+    "name": {
+        "zh": "六標準差管理",
+        "en": "Six Sigma Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專工管一甲",
+        "碩專工管二甲"
+    ],
+    "instructors": [
+        "王鵬森"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第1節",
+            "location": "T0803"
+        },
+        {
+            "day": "週六",
+            "period": "第2節",
+            "location": "T0803"
+        },
+        {
+            "day": "週六",
+            "period": "第5節",
+            "location": "T0803"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生了解六標準差管理實務的內容及意義，並進階熟練六標準差各個階段之原理及應用實務，並輔以個案探討。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 六標準差概述<br>2. 六標準差的界定階段<br>3. 六標準差的衡量階段<br>4. 六標準差的分析階段<br>5. 六標準差的改進階段<br>6. 六標準差的控制階段<br>7. 六標準差專案與個案研究<br><br>",
+        "en": "1. Introduction to six sigma <br>2. Define phase of six sigma<br>3. Measure phase of six sigma<br>4. Analyze phase of six sigma<br>5. Improve phase of six sigma<br>6. Control phase of six sigma<br>7. Projects and Case studies of six sigma<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生了解六標準差管理之知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能使用六標準差管理實務之各項工具。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能使用六標準差概念改進流程並提出詳盡說明。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "擁有專業簡報及書面報告之溝通技巧與能力，來執行六標準差管理實務。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

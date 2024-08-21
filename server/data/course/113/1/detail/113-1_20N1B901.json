@@ -1,0 +1,127 @@
+{
+    "code": "20N1B901",
+    "name": {
+        "zh": "基本電學",
+        "en": "Basic Electricity"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技電機一甲"
+    ],
+    "instructors": [
+        "顏嘉宏"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "I0306"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "I0306"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "I0306"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在說明電學基本原理、網路理論及電容、電感之電器特性。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、歐姆定律、功率及能量<br>二、串並聯電路<br>三、網路理論<br>四、電容器<br>五、磁路<br>六、電感器",
+        "en": "1. Voltage and Current<br>2. Resistor<br>3. Ohm’s Law<br>4. Series and Parallel Circuits Analysis<br>5. Capacitor and Inductor<br>6. Magnetic Component Introduction"
+    },
+    "weeklySchedule": "1. 電壓與電流(第一週~第二週)<br>2. 歐姆定律和功率(第三周~第四周)<br>3. 串並聯電路(第五周~第八周)<br>4. 網路理論(第九周~第十一周)<br>5. 電容充放電(第十二周~第十四周)<br>6. 電磁與電感(第十五周~第十八周)",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解開路，短路，通路等電路狀態之區別",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解電阻器之種類及應用場合",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解電線走火原因及其預防方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解電容器之種類及其應用場合",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解電感器之種類及其應用場合",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "基本電學",
+        "author": "趙和昌 審閱／林愷‧李俊良 編譯",
+        "publisher": "CENGAGE/高立",
+        "year": "2022",
+        "ISBN": "9789865840075",
+        "edition": "5"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "上課期間勿穿拖鞋與吃東西"
+}

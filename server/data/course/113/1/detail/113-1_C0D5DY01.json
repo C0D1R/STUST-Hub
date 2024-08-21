@@ -1,0 +1,119 @@
+{
+    "code": "C0D5DY01",
+    "name": {
+        "zh": "英文簡報",
+        "en": "English Briefing and Presentation"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應英三甲"
+    ],
+    "instructors": [
+        "楊晴絨"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "N309"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "N309"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course is designed to help students to understand the key elements of good speeches and presentations in English, and to give students ample practice in giving a range of oral presentations in class.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "學生將學習識別有效的口頭簡報的內容，並在課堂上練習準備和進行各種口頭演講。 該課程將涵蓋語音，語言，手勢，組織和視覺輔助工具的成功使用。",
+        "en": "Students will learn to identify the elements of effective oral presentations, and will practice preparing and giving a variety of oral presentations in class. Successful use of voice, language, gestures, organization, and visual aids will be covered in the class."
+    },
+    "weeklySchedule": "1. Introduciton to the course; Genreral tips<br>2. The 3 Ps<br>3. Types<br>4. Strong openers<br>5. Body structure<br>6. Powerful closings<br>7. Preparing slides<br>8. Explaining types of visuals<br>9. Power of voice<br>10. Effective body language<br>11. Engagign the audience<br>12. Impromptu speaking<br>13. Using technology <br>14. Storytelling techniques<br>15. Cultural presentations<br>16. Final presentation preparation<br>17. Review and feedbafck<br>18. Final presentations",
+    "exams": {
+        "midterm": "Presentation",
+        "final": "Presentation",
+        "other": "N/A"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能理解有效簡報之關鍵要素",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能以英語呈現簡報",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能將口頭簡報與視覺輔助結合",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養在公開場合演講的信心",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Get ready for your presentation",
+        "author": "Tamzin Thompson",
+        "publisher": "Crane",
+        "year": "2021",
+        "ISBN": "9789861479484",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

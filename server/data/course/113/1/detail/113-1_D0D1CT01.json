@@ -1,0 +1,116 @@
+{
+    "code": "D0D1CT01",
+    "name": {
+        "zh": "職場學與商業簡報",
+        "en": "Career planning and Business Presentation"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技行流四甲",
+        "四技行流四乙"
+    ],
+    "instructors": [
+        "林美蘭"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "T0209"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0209"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "T0209"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "職場如戰場，如何求生存與追求自我成長，已持為必備條件。成長需要<br>準備，機會何時到來無從預測，只能事先規劃與準備。本課程主要提供<br>職場訊息，了解生存眉角，訓練軟實力，厚植就業即戰力。本課程冀盼<br>學生能聰明的工作，工作能成功且成就自我理想。<br>以及訓練學生具有良好的商業簡報技巧，商業簡報是企業組織的日常重<br>要活動，有效的簡報必須整合企劃提案、視覺呈現、以及表達溝通。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.訂定職涯目標<br>2.了解自我定位<br>3.搞懂長官想法<br>4.升官加薪之道<br>5.轉換跑道策略<br>6.提升就業能力<br>7.商業簡報介紹<br>8.簡報製作觀念<br>9.商業簡報類型<br>10.簡報工具認識<br>11.簡報內容設計<br>12.商業簡報溝通<br>13商業簡報演練",
+        "en": "1.set career object<br>2.understanding self-position<br>3. Understand senior official thinking<br>4. The way of promoted and gain wealth<br>5. transform career strategy<br>6. Improve career capabilities<br>7.Business Presentation Introduction<br>8. Business Presentation Concepts<br>9.Business Presentation Types<br>10. Understanding Presentation Tools"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "加強商管知識基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進商業簡報設計能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進表達與溝通的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養正確的學習態度與團隊精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

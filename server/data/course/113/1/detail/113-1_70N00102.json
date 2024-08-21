@@ -1,0 +1,139 @@
+{
+    "code": "70N00102",
+    "name": {
+        "zh": "人力資源管理",
+        "en": "Human Resource Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技企管三甲"
+    ],
+    "instructors": [
+        "林育理"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "S315"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "S315"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "S315"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "了解人力資源管理有哪些功能以及如何運作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "01. 簡介人力資源管理的策略性角色 <br>02. 工作分析 <br>03. 人事規劃與召募 <br>04. 員工的測試與甄選 <br>05. 面談 <br>06. 員工訓練與發展 <br>07. 組織再生與管理 <br>08. 績效評估 <br>09. 前程管理與公平對待 <br>10. 建立薪酬計畫 <br>11. 福利 <br>12. 勞工關係與集體談判 <br>13. 員工安全與健康<br>",
+        "en": "01. The Strategy Role of Human Resource Management<br>02. Job Analysis<br>03. HR Planning and Recruiting<br>04. Employee Testing and Selection<br>05. Interviewing Candidates<br>06. Training and Developing Employees<br>07. Managing Strategy Organizational Renewal<br>08. Appraising and Managing Performance<br>09. Managing Careers and Fair Treatment<br>10. Establishing Strategy Pay Plans<br>11. Benefits<br>12. Labor Relations and Collective Bargaining<br>13. Employee Safety and Health"
+    },
+    "weeklySchedule": "第一週：課程介紹與人力資源管理概述<br>課程介紹、教學目標、評分標準<br>人力資源管理的定義與重要性<br>現代人力資源管理的挑戰與趨勢<br>第二週：人力資源規劃<br>人力資源規劃的概念與流程<br>人力資源需求預測方法<br>員工流動與留任策略<br>第三週：招聘與選拔<br>招聘的策略與方法<br>工作分析與職位描述<br>選拔工具與技術<br>第四週：員工培訓與發展<br>培訓需求分析<br>培訓計劃的設計與實施<br>員工發展與職業生涯規劃<br>第五週：績效管理<br>績效評估方法與工具<br>績效管理的過程與策略<br>反饋與績效改進計劃<br>第六週：薪酬管理<br>薪酬結構設計與薪酬策略<br>獎勵與激勵系統<br>薪酬調查與市場對標<br>第七週：福利與員工服務<br>員工福利的種類與設計<br>員工關懷計劃<br>工作與生活的平衡<br>第八週：勞動關係與法律<br>勞動法規概述<br>員工權利與組織義務<br>勞資關係管理<br>第九週：組織文化與員工參與<br>組織文化的定義與類型<br>文化對員工行為的影響<br>員工參與與組織承諾<br>第十週：國際人力資源管理<br>全球化對人力資源管理的影響<br>國際人才管理策略<br>跨文化管理挑戰<br>第十一週：新興趨勢與技術在HR中的應用<br>人力資源信息系統（HRIS）<br>大數據與人工智慧在HR中的應用<br>遠程工作與彈性工作安排<br>第十二週：專題研究與期末報告<br>專題研究指導<br>學生專題報告展示<br>課程總結與回顧",
+    "exams": {
+        "midterm": "考試或報告",
+        "final": "考試或報告",
+        "other": "相關作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解人力資源管理的相關知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能針對組織人管問題有效辨識問題所在",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用人管知識於工作上",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能體認與他人團隊合作對於完成任務的重要性",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能工作分析，並撰寫工作計畫書",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能統整相關人事問題，提出解決方案",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,147 @@
+{
+    "code": "20D09103",
+    "name": {
+        "zh": "微積分(一)",
+        "en": "Calculus(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電資一甲"
+    ],
+    "instructors": [
+        "黃宏銘"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "K403"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "K403"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "K403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "微積分是工程科學裡最重要的基礎課程之一。它在電子、電機、機械、生物等領域中已有非常廣泛的應用，亦是專業科目(如工程數學)的先修課程。本課程是一學年的科目，分上、下學期。上學期內容為基本函數介紹及單變數函數的極限、連續、微分、積分、積分技巧與應用。",
+    "prerequisites": "邏輯、數、多項式、指數對數三角函數",
+    "syllabus": {
+        "zh": "1. 預備數學<br>2. 極限與連續<br>3. 導數<br>4. 指數 對數及三角函數導數<br>5. 導數的應用<br>6. 定積分<br>7. 積分技巧<br>",
+        "en": "1. Prerequisites for Calculus <br>2. Limits and Continuity.<br>3. Derivatives. <br>4. Exp.&amp;Log Function &amp; Trigo Function Derivatives<br>5. Applications of Derivatives. <br>6. The Definite Integral. <br>7. Techniques of Integration <br>"
+    },
+    "weeklySchedule": "第1週: 函數定義及其圖形、基本函數<br>第2~3週: 極限定義、極限的基本性質<br>第4~5週: 導數的定義<br>第6~7週: 基本的微分運算<br>第8週: 復習+檢查手寫筆記<br>第9週: 期中考<br>第10~12週: 連鎖律與隱函數的導函數<br>第13~14週: 指數與對數函數的導函數、三角的導函數<br>第15~16週: 高階導函數<br>第17週: 復習+檢查手寫筆記<br>第18週: 期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第8週及第17週 檢查手寫(筆記+作業)"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "在學習過程中能與高中數學課程相銜接，並具有解題、演算及證明的能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "建立微積分的基本觀念。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "應用微積分的技巧到專業領域。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "展現邏輯推理能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "具備製作報告及解說報告的能力，並養成合群負責的態度。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "手寫筆記",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "微積分, 作者 Ron Larson   (譯者:張海潮/林延輯)  歐亞書局<br>微積分, 作者 James Stewart(譯者:王慶安/陳慈芬)  滄海書局",
+    "teachingSoftware": "",
+    "rules": "筆記及作業35%  [每周拍照上傳flipclass(10%), 第8及17週檢查手寫紙本筆記(25%)]<br>期中考試30%<br>期末考試35%"
+}

@@ -1,0 +1,116 @@
+{
+    "code": "90N13401",
+    "name": {
+        "zh": "基礎程式設計",
+        "en": "Basic programming"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技資管一甲"
+    ],
+    "instructors": [
+        "林泰隆"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "T0708"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "T0708"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "T0708"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "C語言嬌小、勻稱，用途廣、效率高且融合了電腦語言裡流程控制的特色，使得程式設計師可以很容易的設計出具有結構化及模組化的程式如此，廣受程式設計師及資訊界人士的喜愛。<br>在此課程中，將教導C所提供的功能，並實際應用來開發出一些應用軟體。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第1章 認識C語言<br>第2章 C語言基本概述<br>第3章 基本資料型態<br>第4章 格式化的輸出與輸入<br>第5章 運算子、運算式與敘述<br>第6章 選擇性敘述<br>第7章 迴圈<br>第8章 函數<br>第9章 陣列與字串<br>第10章 指標<br>第11章 結構與其它資料型態<br>第12章 檔案處理<br>",
+        "en": "1. Introduction<br>2. Basic Statements<br>3. Basic Data Types<br>4. Formatted Input and Output<br>5. Operator, Expression and Statement<br>6. Selection Statement<br>7. Loop<br>8. Function<br>9. Array and String<br>10. Pointer<br>11. Struct and other Data Types<br>12. File<br><br>"
+    },
+    "weeklySchedule": "ch01 .NET Framework 與 Visual Studio 2019 介紹<br>ch02 主控台應用程式與資料型別<br>ch03 流程控制<br>ch04 陣列與方法<br>ch05 視窗應用程式<br>ch06 物件與類別<br>ch07 繼承、多型、介面<br>ch08 列舉器與集合<br>ch09 例外與檔案處理<br>ch10 表單與基礎控制項<br>ch11 常用控制項(一)<br>ch12 常用控制項(二)<br>ch13 豐富文字方塊與工具列<br>ch14 滑鼠鍵盤與共用事件<br>ch15 對話方塊與多表單應用<br>ch16 ADO.NET 簡介與 SQL Express 資料庫設計<br>ch17 ADO.NET 資料庫存取與交易處理",
+    "exams": {
+        "midterm": "上機考",
+        "final": "上機考",
+        "other": "課堂練習"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能進行思考及分析問題.。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解程式語言與設計電腦程式.。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用程式語言開發應用程式。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "具備規劃及創新開發新的應用程式.。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

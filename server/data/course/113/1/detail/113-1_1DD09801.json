@@ -1,0 +1,111 @@
+{
+    "code": "1DD09801",
+    "name": {
+        "zh": "流行音樂賞析",
+        "en": "Appreciation of Popular Music"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技流音四甲",
+        "四技流音四乙"
+    ],
+    "instructors": [
+        "林岑芳"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "W1002"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "W1002"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "概述流行音樂之演進與種類，鑑賞50至90年代之中外流行音樂，蒐集分析各曲風之文化特色，培養具備中外流行音樂之鑑賞知識。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.流行音樂演進概述<br>2.流行音樂定義與類型介紹<br>3.流行音樂曲風特色",
+        "en": "1. Overview of Popular Music Evolution<br>2. Introduction to the Definition and Type of Popular Music<br>3. Popular Music Style Features"
+    },
+    "weeklySchedule": "第一週(9/11) 統整式藍調一系開場～ 概述～TinPanAlley /  哈薩克斯坦流行樂<br>第二週(9/18) 爵士樂1 / 第1屆作品欣賞討論<br>第三週(9/25) 爵士樂2 / 第3屆作品欣賞討論<br>第四週(10/2) 藍調樂 / 第4屆作品欣賞討論<br>第五週(10/9) 靈魂樂1 / 第5屆作品欣賞討論 / 期中小報告1<br>第六週(10/16) 搖滾樂1 2（跳著說，金屬留後半學期）/ 第6屆作品欣賞討論 / 期中小報告2<br>第七週(10/23) 鄉村樂/ 歷屆作品綜合欣賞討論 / 期中小報告3<br>第八週(10/30) 專題講座<br>第九週(11/6) 期中考週 加分用線上測驗 / 期中小報告完成<br>第十週(11/13) 爵士樂2後半 / 芬蘭金屬…<br>第十一週(11/20) IndieRock / Cyberpunk / 金屬（從搖滾2最後續）（前衛）金屬Polyphia / 巴西流行樂 / 印度金屬<br>第十二週(11/27) 台灣原住民音樂與流行樂 / 音樂節<br>第十三週(12/4) 學期報告1  / add-ons <br>第十四週(12/11) 學期報告2<br>第十五週(12/18) 學期報告3<br>第十六週(12/25) 學期報告4<br>第十七週(1/1) 放假  <br>第十八週(1/8)  總結  <br>",
+    "exams": {
+        "midterm": "主題報告",
+        "final": "主題報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "欣賞中外流行音樂演出",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "製作流行音樂專題簡報",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "與同儕進行流行音樂團隊研究",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養理解流行音樂美學之能力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "1. 期中報告（前半學期，自選主題小報告，會排序）30%，期末報告35%（後半學期，自選主題簡明扼要的報告，會排序），平時成績（含指定作業如舉手發言）35%，。第九週線上考試成績為加分用。<br>2.本課程配合系會討論後修改課程方向（未來課名改為大四專題討論）新作法：<br>(1)前半學期除音樂史風格分類整理外，第二週起會放過去畢製作品賞析，請在座同學討論發表意見。有方向、有想法的發言。說明：曲風、配器、特點、若現場展演則如何合適、自己意見想法…<br>(2)期中報告：自選小主題的報告即可，例如單曲製作評論賞析。鼓勵提出與自己畢製相關之製作歌曲類型之評論賞析。<br>(2)刪除過去第9週期中筆試作為期中成績方式，將第9週改為音樂史分類複習與南台幣獎勵以及補成績用。<br>(3)期末報告：後半學期一次自選流行音樂相關議題簡明扼要的報告當作期末成績（需上傳參考範例）。<br>3.凡選修本課程者視同默認：所有上傳資料之供課程公佈活動所使用之版權問題需自行負責。"
+}

@@ -1,0 +1,139 @@
+{
+    "code": "1LD06201",
+    "name": {
+        "zh": "歷史、書寫與記憶",
+        "en": "History, writing and memory"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "沈文珺"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "T0210"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0210"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0210"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程在介紹歷史學的來歷、定義、和功用，並告訴學生為何要瞭解歷史，又該如何學習和研究歷史，及如何蒐集、分析、考證史料，進而書寫和紀錄家族、家鄉史。透過這些關於歷史知識、歷史思考與相關領域的講授，進一步提昇學生經由探索歷史與結合個人歷史經驗，而得以獨立思考及獲得智慧。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "歷史的定義：<br>「歷」與「史」的本義、歷史的定義、遺跡遺物與歷史、神話與歷史、民間故事與歷史、新聞與歷史<br>2.歷史研究與歷史意義：<br>傳統史學、歷史敘事與歷史解釋、史學家的基本原則<br>3.史料析論：<br>史料的分類、史料的蒐集、史料的考證、史料的使用、相關學科的運用<br>4.歷史的功用：<br>淑世及致用的境界、負面的功能、歷史的智慧<br>5.歷史的書寫：<br>歷史研究領域及取向、比較史學與世界歷史<br>6.史籍一二三：<br>近人歷史作品解讀<br>7.生活的歷史：<br>文化、宗教與民間信仰<br>8.家族與社會：<br>從上古到隋唐的家族、從宋到清的家族、婦女社會地位與婚姻、家族史的書寫<br>",
+        "en": "1.\tDefinition of history<br>To explain the original meaning of \"history\" and the relationships between relics and history, myths and history, folktales and history, news and history, respectively.<br>2.\tHistorical research and historical significance<br>Traditional historiography<br>Historical narrative and interpretation<br>Historians’ principles<br>3.\tAnalyzing historical materials<br>Classification of historical materials<br>Collection of historical materials<br>Research on historical materials<br>Use for historical materials <br>Application of related disciplines<br>4.\tFunctions of history<br>To understand both positive and negative sides of learning history, and to receive wisdom from learning history. <br>5.\tWriting of history<br>Different historical research topics and directions<br>Comparative historiography and world history<br>6.\tIntroduction to history books<br>Interpretation of modern historical works<br>7.\tCulture, religion and folk customs<br>8.\tFamily and society<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解歷史學的來歷、定義、和功用\nA3",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習蒐集、分析、考證史料A3",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習書寫和紀錄家族、家鄉史J3",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "解釋文化與歷史的意義，並於生活中展現反省、理性思維及批判的能力。\nI4",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成獨立思考的及有條不紊地語文來適切表達。G1",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "積極參與在團體中與人融洽地互助合作。H5",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

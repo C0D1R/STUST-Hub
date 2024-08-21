@@ -1,0 +1,150 @@
+{
+    "code": "H0D14M01",
+    "name": {
+        "zh": "生物化學實習(A)",
+        "en": "Biochemistry laboratory"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技食品三甲"
+    ],
+    "instructors": [
+        "吳定峰"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "I1002"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "I1002"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "I1002"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "生命現象的基本組成大型分子概略分為四大類:蛋白質、核酸、糖類與酯質，其共同特性都是由連續性的多種小單位所組成，因組合變化形成不同分子。因此生物技術之衍生隨著分子作用機轉的研究而陸續開發出來，本學期課程將著重於DNA功能分析。",
+    "prerequisites": "分子生物學，細胞生物學，生物化學",
+    "syllabus": {
+        "zh": "1.細菌轉型<br>2質體DNA之純化<br>3限制酶切割及DNA電泳分析<br>4 DNA指紋分析<br>5聚合脢鏈鎖反應<br>6 DNA選殖",
+        "en": "1. Bacteria transformation<br>2. Purification of plasmid DNA<br>3. Restriction digestion of DNA<br>4. DNA fingerprinting<br>5. Polymerase chain reaction<br>6. DNA cloning"
+    },
+    "weeklySchedule": "第1週 Genetic engineering<br>第2週 Bacteria transformation<br>第3週 Purification of plasmid<br>第4週 Restriction digestion of DNA<br>第5週 DNA agarose electrophoresis<br>第6週 Genetic engineering design and PCR<br>第7週 Agarose electrophoresis and ligation<br>第8週 Genetic engineering and transformation<br>第9週 期中考<br>第10週 Protein Extraction<br>第11週 Gel preparation<br>第12週 SDS-PAGE<br>第13週 Gel Staining  &amp; Analysis<br>第14週 SEC<br>第15週 HIC<br>第16週 Protein assay<br>第17週 ELISA<br>第18週 期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "操作考",
+        "other": "平時繳交實驗報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解質體與基因功能與細菌轉型的關聯",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "操作質體DNA之純化",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "分析DNA電泳",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "說明DNA複製過程與操作聚合酶鏈鎖反應",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解基因工程技術的基本過程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "Bio-Rad Biotechnology Explorer instruction manuals",
+    "teachingSoftware": "powerpoint",
+    "rules": "上課時不吃東西、穿實驗衣、不穿拖鞋、不使用手機"
+}

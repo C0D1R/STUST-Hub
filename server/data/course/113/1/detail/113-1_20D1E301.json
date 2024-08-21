@@ -1,0 +1,115 @@
+{
+    "code": "20D1E301",
+    "name": {
+        "zh": "機器人概論",
+        "en": "Introduction to Robotics"
+    },
+    "credit": "3",
+    "type": "系定選修",
+    "classes": [
+        "五專電機三甲"
+    ],
+    "instructors": [
+        "趙全鋐"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "B304"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "B304"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "B304"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 透過本課程之研討，可使學生建立機器人學相關知識及應用實務技術。<br>2. 學習機器人學各項技術，可延伸應用至機電整合系統。<br>3. 機器人學之各項分部技術，均可獨立成為一項專門之研究方向，學生可從整體概念之建立，延伸至各部研究之發揮。<br>4. 預計使學生至少完成一項實際專題之演練，來驗證所學理念之可行性。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 自走式機器人之簡介<br>2. 機器人運動學及動力學<br>3. 組合式機器人之設計原理<br>4. 機器人之感知能力<br>5. 機器人之定位控制<br>6. 路徑規劃及導航<br>7. 行為導向控制系統<br>8. 機器人智能之設計概念<br>9. 其他相關技術<br>10. 機器人之應用",
+        "en": "1. Introduction to autonomous mobile robots<br>2. Locomotion<br>3. Mobile Robot Kinematics<br>4. Perception<br>5. Mobile Robot Localization<br>6. Planning and Navigation<br>7. Behavior-based control system<br>8. Robotic Intelligence<br>9. Other Aspects of Autonomous Mobile Systems<br>10.Applications on Robotics"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解工業機器人之組成元件、種類、規格與結構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解工業機器人系統之感測器功能與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解工業機器人之各種應用、程式語言與操控",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解工業機器人專業用之英文名詞",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

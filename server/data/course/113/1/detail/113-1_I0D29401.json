@@ -1,0 +1,110 @@
+{
+    "code": "I0D29401",
+    "name": {
+        "zh": "親師溝通與情緒管理",
+        "en": "Parent-teacher communication and emotion management"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技幼保四甲"
+    ],
+    "instructors": [
+        "張治遙"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "W0503"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "W0503"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在提升學生未來與家長溝通的能力、技巧與策略，使能夠與家長建構良好的親師合作關係一起來關心輔導幼兒的成長。同時，本課程亦旨在增進學生對自己情緒的覺察與接納，並學習有效的表達、舒解及管理自己情緒的能力與技巧，使能夠提升因應職場壓力的效能。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.親師合作關係的重要性。<br>2.親師溝通的技巧與效能。<br>3.同理心的技巧與應用。<br>4.認識與覺察自己的情緒。<br>5.接納自己的情緒。<br>6.合宜有效的情緒表達與情緒管理。<br>7.因應職場壓力的技巧。",
+        "en": "1.The importance of teacher-parent cooperation.<br>2.Skills and effectiveness of teacher-parent communication.<br>3.Empathy skills and applications.<br>4.Recognize and perceive your emotions.<br>5.Accept your emotions.<br>6.Appropriate emotional expression and emotional management.<br>7.Skills for workplace stress."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "提升與家長溝通的能力和技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進與家長的關係與合作的效能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進學生對自己情緒的認識與覺察",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習有效的表達及管理自己情緒的能力，以提升因應職場壓力的效能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

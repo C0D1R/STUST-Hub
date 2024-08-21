@@ -1,0 +1,139 @@
+{
+    "code": "G0D00802",
+    "name": {
+        "zh": "計算機程式",
+        "en": "Computer Programming"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技資工一乙"
+    ],
+    "instructors": [
+        "吳建中"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "C105"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "C105"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "C105"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "程式設計是資訊工程學生的基礎課程，本課程主要希望帶領學生能夠瞭解並開始學習程式設計，此課成主要教授以C語言為主。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.電腦及網際網路之介紹<br>2.不同程式語言之發展與演進<br>3.C程式設計簡介<br>4.結構化程式的開發<br>5.控制流程指令的介紹<br>6.迴圈指令的介紹<br>7.函式的介紹<br>8.陣列的介紹<br>9.指標的介紹<br>10.字串字元的介紹<br>11.格式化輸入/輸出<br>12.Struct, Unions,Bitsand Enums的介紹<br>13. Files system 的介紹<br>",
+        "en": "1.Overview<br>2.Program Language <br>3.C Program Language<br>4.Structure programming development method<br>5.control flow<br>6.loop<br>7.function/subroutine<br>8.array<br>9.pointer<br>10.character/strings<br>11.format in/out<br>12.Struct, Unions,Bitsand Enums<br>13. Files system operations<br>"
+    },
+    "weeklySchedule": "1. 電腦程式設計簡介與結構化程式的開發（一週）<br>2. C語言程式執行流程與軟體安裝（一週）<br>3. 資料型態的介紹（一週）<br>4. 資料算數運算與邏輯運算，平時考（一週）<br>5. 格式化輸入/輸出的介紹，平時考（一週）<br>6. 控制流程指令的介紹（一週）<br>7. 迴圈指令的介紹，平時考（二週）<br>8. 期中考<br>9. 檔案處裡的介紹（一週）<br>10. 字串字元的介紹，平時考（一週）<br>11. 函式與巨集的介紹，平時考（二週）<br>12. 陣列的介紹，平時考（二週）<br>13. 指標的介紹（一週）<br>14. struct, Unions, Bits and Enums的介紹，平時考（一週）<br>15. 期末考",
+    "exams": {
+        "midterm": "選擇+填充上機考試",
+        "final": "選擇+填充上機考試",
+        "other": "第8周期中實作考試，第17周期末實作考試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.能了解程式執行的流程與開發環境",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "2.能利用開程式開發環境進行程式的開發與除錯",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "3.能將想法轉換成可執行的程式",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "4.能辨識適當外語表示之電腦指令，並能閱讀相關文件",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "C語言教學手冊",
+        "author": "洪維恩",
+        "publisher": "旗標",
+        "year": "2007",
+        "ISBN": "9789574424849",
+        "edition": "四版"
+    },
+    "referenceBooks": "[1]王智祥,\"C語言程式設計\",藍海文化 [2]許金童,\"快速精通C語言\",博碩文化 [3]陳會安,\"C/C++程式設計範例教本 第二版\",學貫 [4]吳國粱,\"C:程式設計的藝術(第四版）\",全華圖書 [5]Jeri R. Handly,\" Problem Solving and Program Designin C\",Addison Wesley [6]H. M. Deitel, P.J. Deitel,\"C++ How to Program 4/e\", Person Education Taiwan Ltd. [7]陳錦輝,\"C語言初學指引(第三版)\",上奇 [8]許富強 ，\"C語言程式設計範例入門\",上奇。[9]蔡明志，\"戰勝C語言(第三版)\"，碁峰資訊股份有限公司。",
+    "teachingSoftware": "DEV-C++, Code Blocks",
+    "rules": ""
+}

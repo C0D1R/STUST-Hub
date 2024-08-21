@@ -1,0 +1,116 @@
+{
+    "code": "70Q09V01",
+    "name": {
+        "zh": "企業倫理",
+        "en": "Business Ethics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "碩專企管二甲",
+        "碩專企管二乙",
+        "碩專資管一甲"
+    ],
+    "instructors": [
+        "伍家德"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第1節",
+            "location": "S303"
+        },
+        {
+            "day": "週六",
+            "period": "第2節",
+            "location": "S303"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.介紹企業倫理的立論基礎，主要內容為倫理學的基本概念。<br>2.探討企業倫理的主要議題，包含企業與各利益關係人的對應關係及權利義務。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Topic 1企業倫理的立論基礎<br>Topic 2利益關係人理論<br>Topic 3企業組織的社會責任<br>Topic 4企業組織與員工<br>Topic 5企業組織與消費者<br>Topic 6企業組織與自然環境—綠色企業<br>Topic 7性別平等議題<br>",
+        "en": "Topic 1 Foundations of Business Ethics<br>Topic 2 The Stakeholder Approach to Business, Society, and Ethics<br>Topic 3 Corporate Social Responsibility<br>Topic 4 Employee Stakeholders<br>Topic 5 Consumer Stakeholders<br>Topic 6 The Natural Environment as Stakeholder<br>Topic 7 Gender Equity<br>"
+    },
+    "weeklySchedule": "第一週　第1章：企業的社會責任<br>　　第二週　第1章個案討論<br>　　第三週　第2章：道德法則與道德研判<br>　　第四週　第2章個案討論<br>　　第五週　第3章：專業經理人的經營倫理<br>　　第六週　第3章個案討論<br>　　第七週　第4章：行銷倫理<br>　　第八週　第4章個案討論<br>　　第九週　第5章：環境倫理<br>　　第十週　第5章個案討論<br>　　第十一週　第6章：科技與資訊應用倫理<br>　　第十二週　第6章個案討論<br>　　第十三週　第7章：全球化經營的倫理問題<br>　　第十四週　第7章個案討論<br>　　第十五週　第8章：內部管理機制與企業倫理政策<br>　　第十六週　第8章個案討論<br>　　第十七週　第9章：外部規範與企業倫理<br>　　第十八週　第9章個案討論<br>",
+    "exams": {
+        "midterm": "無",
+        "final": "無",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解企業倫理的立論基礎，包含倫理、道德及價值的概念。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "討論企業經營的倫理議題，引導學生認識企業倫理的本質及意義，以及具體的實踐方法，進而建立正向的企業經營價值觀。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "提供系統性分析架構，並透過個案討論引導學生有組織、有條理的表達與溝通。",
+            "teachingMethods": [
+                "分組討論",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "透過個案討論，引導學生培養正確適宜的行事準則，並能建立職業道德的觀念。",
+            "teachingMethods": [
+                "分組討論",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "不訂書",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "余坤東、謝金田，企業倫理_商業的道德規範，前程文化",
+    "teachingSoftware": "",
+    "rules": "本課程除開課班級學生外,只有符合修課條件的企管碩專一乙學生可以修課.非前述班級同學請勿選修本課程。<br><br>另外,<br>1.線上教學週次請務必依規定要求及時間完成線上學習活動.<br>2.實體教室上課時,請依規定準時到課並共同維護班級上課的氛圍.<br>3.請勇於思考及表達意見.<br>"
+}

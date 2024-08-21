@@ -1,0 +1,139 @@
+{
+    "code": "20D1EG02",
+    "name": {
+        "zh": "可程式控制應用實務",
+        "en": "Application of Programmable logic controller"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技控晶二乙"
+    ],
+    "instructors": [
+        "許毅然"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "A202"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "A202"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "A202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學習PLC應用指令的使用規則，各應用指令的含義及應用程式設計等基本知能，並熟悉特殊模組應用及PLC圖形監控。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.應用指令的使用規則<br>2.應用指令解說及實習<br>3.PLC應用實務及程式設計<br>4.特殊模組應用<br>5.PLC圖形監控<br>",
+        "en": "1. General Rule of Application Instruction<br>2.Explanation and Experience of Application Instruction<br>3.Program Design and Implementation of PLC<br>4.Application of Special Function Module<br>5.Control of Phenumatics and Hydrolics using PLC<br>6.Graphic Monitoring of PLC<br>"
+    },
+    "weeklySchedule": "1. PLC 常用應用指令<br>2. PLC 應用實務及程式設計範例介紹<br>3. PLC 圖形監控<br>4. 通用型人機介面<br>5. 三菱人機介面與圖形監控<br>6. 介面開關與指示燈應用<br>7. 資料顯示與輸入<br>8. 圖表與儀錶顯示<br>9. 傳輸應用",
+    "exams": {
+        "midterm": "考試或報告",
+        "final": "考試或報告",
+        "other": "平時考或作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解PLC的架構與功能？",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解PLC在工業自動控制上所扮演的角色",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學會人機介面操作軟體",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學會以人機介面操控PLC的方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學會以應用指令控制馬達",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "PLC與未來職場之發展性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "三菱人機介面GOT入門手冊",
+        "author": "双象貿易股份有限公司",
+        "publisher": "文笙出版社",
+        "year": "2019",
+        "ISBN": "",
+        "edition": "第一版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

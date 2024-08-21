@@ -1,0 +1,110 @@
+{
+    "code": "10D36101",
+    "name": {
+        "zh": "基礎數學",
+        "en": "Fundamental of Mathematics"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "四技自控一甲",
+        "四技自控一乙",
+        "四技製造一甲",
+        "四技製造一乙",
+        "四技車輛一甲",
+        "四技車輛一乙"
+    ],
+    "instructors": [
+        "蕭瑞陽"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "K302"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.使學生了解函數、指數、對數、三角函數解等相關原理、計算與應用。<br>2.讓學培養基本的數學能力，以應付將來的數學課程。<br>",
+    "prerequisites": "高職數學",
+    "syllabus": {
+        "zh": "1.函數<br>2.指數<br>3.對數<br>4.三角函數<br>",
+        "en": "1.\tThe function.<br>2.\tExponential function.<br>3.\tLogarithmic function<br>4.\tTrigonometric functions"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解學習數學的重要",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "數學函數的演練",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "基本數學函數的計算能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "專有名詞",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,158 @@
+{
+    "code": "D0D1AS02",
+    "name": {
+        "zh": "專業英文",
+        "en": "English for the workplace"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技行流三乙"
+    ],
+    "instructors": [
+        "蔣宗益"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0207"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0207"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "提供學生職場中所需的語言技巧與知識，期學生未來在職場上能達成該有的英語表現。涵蓋商業職場上常見的情境主題，例如：到新公司任職、接待、電話答覆、信件回覆及海外出差等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 接待英文<br>2. 速食餐廳<br>3. 購物<br>4. 問路<br>5. 飯店英文<br>6. 機場英文<br>7. 電話英文<br>8. 電子信件<br>9. 履歷<br>10. 面試英文<br>11. 簡報英文",
+        "en": "We will arm you with the skills you require to communicate<br>effectively and confidently in the workplace."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "善用必要的知識、技能做出有條理的企劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用資訊科技協助英文的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用外語，展現自己對國際的理解與文化的學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習與體驗新事物、新觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "有組織、有條理的表達與溝通，能與人\n交換意見、思想，以至於互相協調搭配\n來共同達成目標",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "與學習夥伴維持良好的關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具文藝涵養及道德品格，能理解文化與\n歷史的意義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具文藝涵養及道德品格，能理解文化與\n歷史的意義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

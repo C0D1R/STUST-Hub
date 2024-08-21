@@ -1,0 +1,122 @@
+{
+    "code": "70N17D01",
+    "name": {
+        "zh": "創意思考",
+        "en": "Creative Thinking"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜企管產攜一甲"
+    ],
+    "instructors": [
+        "伍家德"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "S207"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "S207"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "S207"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "創意思考課程在於訓練與學習如何想點子，透過各種思考技巧的演練、各種啟發性案例的討論、小組任務性的實際創作，激發學生構想出賺錢的點子、製造新產品的點子、在競爭中脫穎而出的點子、解決問題的點子、以及用新方法做事的點子等等創意。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 創意的重要性<br>2. 創意基本概念<br>3. 創意的影響因素<br>4. 創造力的衡量<br>5. 創意障礙<br>6. 創意性思考<br>7. 創意訓練",
+        "en": "1. The Importance of Creativity<br>2. Basic Concept of Creativity<br>3. The Influence Factors of Creativity<br>4. Measurement of creativity<br>5. Obstacles of creativity<br>6. Creative Thinking<br>7. Creativity Training"
+    },
+    "weeklySchedule": "課程講授部份:<br> 1.課程概述\u000b<br> 2.企劃內涵與流程\u000b <br> 3.創意基本概念\u000b  <br> 4.創意人的經驗談<br> 5.創意的影響因素\u000b <br> 6.創造力的衡量\u000b   <br> 7.創意障礙\u000b <br> 8.創意性思考\u000b  <br> 9.創意訓練\u000b<br>10.創意與生活<br><br>實作演練部份:<br><br>個人創意記錄與小組創意應用報告<br><br>",
+    "exams": {
+        "midterm": "無",
+        "final": "無",
+        "other": "產攜只有12週，故第12週考試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解創意(創造力)的核心觀念與知識。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能建立多元思考能力。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能將創意落實在解決實際的問題。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能培養創意的溝通技巧。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "不訂書",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.游伯龍，習慣領域：IQ和EQ沒談的人性軟體，時報文化出版 <br>2.詹宏志，創意人，臉譜出版<br>3.林佑齡譯(John Langrehr) ，創意思考是教出來的，久周文化<br>4.胡瑋珊譯(Luc de Brabandere) ，創意人的思考鍛鍊，臉譜出版<br>5.黛恩編著，改變心態，就能改變未來，普天出版社<br>6.齊若蘭譯(Tina Seelig) ，(1)真希望我20歲就懂的事；(2)學創意，現在糾該懂的事，遠流出版<br>7.黃孝如、胡琦君 譯(Ken Robinson) ，讓創意自由，天下遠見出版<br>",
+    "teachingSoftware": "",
+    "rules": "1.請你保持愉快的心情來修讀本課程,但亦請為你的選擇表現出相對的投入.<br>2.課程活動會需要小組互動,故請修課的同學務必融入小組互動."
+}

@@ -1,0 +1,115 @@
+{
+    "code": "D0N15601",
+    "name": {
+        "zh": "計算機程式與應用",
+        "en": "Computer Programming And Application"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜行流產攜二甲"
+    ],
+    "instructors": [
+        "唐楚君"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0214"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0214"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0214"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "今日的電腦已經不僅僅是協助工作的工具，電腦更是成為人際溝通與娛樂上的重要工具。本課程的目的在於協助學生瞭解電腦本身的構造、作業系統、應用工具、與應用時衍生出的各種問題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.電腦硬體<br>2.系統元件<br>3.周邊設備<br>4.電腦軟體<br>5.作業系統<br>6.應用軟體<br>7.網路",
+        "en": "1.Computer Hardware<br>2.System Components<br>3.Peripheral Devices<br>4.Computer Software<br>5.Operating System<br>6.Application Software<br>7.Network"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "教導學生熟悉試算表軟體應用之基本技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生建立統計圖表、巨集等試算表軟體 之進階技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練學生利用試算表軟體提升本身在行 銷與流通實務應用上的整合能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "輔導學生取得 Excel 相關證照。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,115 @@
+{
+    "code": "I0D28B01",
+    "name": {
+        "zh": "音樂創意教學活動設計與實務(一)",
+        "en": "Design of creative music activity (Ⅰ)"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技幼保四甲"
+    ],
+    "instructors": [
+        "魏欣儀"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "W0503"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "W0503"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "W0503"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程著重如何設計創意的音樂教學活動，並能至相關產業實際演練，期望增進學生的實務能力，加強實務面的訓練，與產業界接軌。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 瞭解創意音樂教學活動之設計方法<br>2. 增進創意音樂教學技巧<br>3. 加強音樂教學實務面的訓練<br>4. 培養從事音樂創意教學工作的實務能力",
+        "en": "1. Understand the design method of creative musical activities<br>2. Enhance creative musical teaching skills<br>3. Strengthen the training of music teaching practice<br>4. Develop practical ability to engage in creative music teaching"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解創意音樂教學活動之設計方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進創意音樂教學技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "加強音樂教學實務面的訓練",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養從事音樂創意教學工作的實務能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

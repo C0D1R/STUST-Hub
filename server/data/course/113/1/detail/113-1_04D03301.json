@@ -1,0 +1,166 @@
+{
+    "code": "04D03301",
+    "name": {
+        "zh": "體育生活(三)：有氧舞蹈(A)",
+        "en": "Physical Education(III)：Qerobic dance"
+    },
+    "credit": "1",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "四技自控二甲",
+        "四技自控二乙",
+        "四技車輛二甲",
+        "四技車輛二乙",
+        "四技休閒二甲",
+        "四技休閒二乙",
+        "四技餐旅二甲",
+        "四技餐旅二乙"
+    ],
+    "instructors": [
+        "徐翠敏"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": ""
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為有氧舞蹈之延伸課程，教學目的在於讓學生瞭解有氧舞蹈進階動作之特性並能做出有氧舞蹈進階組合動作與肌力訓練之動作，進而享受有氧舞蹈之樂趣，增進心肺功能與養成其終身運動之習慣。",
+    "prerequisites": "注意事項：\n1、有心臟病、高血壓、糖尿病、氣喘等特殊疾病者，請勿上課，預防危險\n2、遲到者注意先自行暖身\n3、請更換乾淨的運動鞋\n4、請穿著有彈性的運動服裝",
+    "syllabus": {
+        "zh": "1.課程介紹:瞭解本學期進階有氧舞蹈課程內容與上課進度<br>2.有氧舞蹈基本動作複習:基本舞步複習與肌力訓練以及音樂節奏配合之練習<br>3.進階有氧舞曲(I):<br>1.暖身 2.基本舞步訓練3.主動作(每週四個八拍進階舞步組合) 4.肌力訓練5.緩和<br>4.創意組合動作:期中考試：<br>1.舞步之熟練度與團隊默契<br>2.創意組動作<br>3.服裝<br>5.進階有氧舞曲(II):<br>1.暖身 2.基本舞步訓練3.主動作(每週四個八拍進階舞步組合) 4.肌力訓練5.緩和<br>6.創意組合動作:複習<br><br>期末考試：<br>1.舞步之熟練度與團隊默契<br>2.創意組動作<br>3.服裝<br><br>",
+        "en": "1. Course introduction: Understand the content of the advanced aerobic dance and the progress<br>2. Review the basic moves of aerobic dance: reviewing basic steps and strength training <br>3. Advanced Aerobic Dance music (I):<br>1. Warm-up 2. Basic steps training 3. Main action 4. Strength training 5. Cool-down/Relaxation <br>4. Creative combination: mid-term exam:<br>1. Proficiency of the dance steps and understanding of team tacit <br>2. Creative moves<br>3. Costumes<br>5. Advanced Aerobic Dance music (II):<br>1. Warm-up 2. Basic dance training 3. Main moves 4. Strength training 5. Relaxation<br>6. Creative combination: Review<br>Final exam:<br>1. Proficiency of the dance steps and understanding of team tacit <br>2. Creative actions<br>3. Costumes <br>"
+    },
+    "weeklySchedule": "本課程以增強心肺功能，提昇健康體適能為主，因此除了透過有氧運動的原理，在活動過程，藉由不同轉速的音樂節拍，或者結合強度較強、動作較大的流行歌曲舞蹈動作來帶動全身的大肌肉運動之外，並穿插徒手重訓方式，來強化肌肉適能與骨骼關節活動穩定度，以期望能達到體適能（Physical Fitness）訓練的目的（包括心肺耐力、肌力、肌耐力、增加柔軟度及體脂肪的減少）。<br>有氧舞蹈課程大綱<br>1、何謂有氧舞蹈？運動與健康、荒謬的減肥方法、身體本質等<br>2、不同風格有氧：以JAZZ FUNCK、Hip Hop、階梯、格鬥或MV舞蹈等為主<br>3、肌肉適能的重要與強化練習<br>4、柔軟度的重要與練習<br><br>週 次 日期 課程進度 備 註<br>第 一 週 課程介紹；暖身運動；呼吸與放鬆 <br>第 二 週 低衝擊有氧步法與組合；呼吸與核心控制 <br>第 三 週 低衝擊有氧暖身組合；高衝擊有氧步法與組合 <br>第 四 週 高低衝擊有氧組合 <br>第 五 週 高低衝擊有氧組合變化；腹部、背部肌群訓練 <br>第 六 週 高低衝擊有氧步法與組合；上、下肢肌力訓練 <br>第 七 週 總複習 <br>第 八 週 期中測驗 <br>第 九 週 停課 期中考週<br>第 十 週JAZZ FUNCK步法與組合；柔軟度訓練 <br>第十一週JAZZ FUNCK步法與組合；柔軟度訓練 <br>第十二週JAZZ FUNCK組合變化；整合訓練 <br>第十三週 階梯有氧組合變化；整合訓練 <br>第十四週 階梯有氧組合編創；整合訓練 <br>第十五週 總複習 <br>第十六週 討論與分享 <br>第十七週 期末測驗 <br><br>",
+    "exams": {
+        "midterm": "分組實作",
+        "final": "分組實作",
+        "other": "平時練習與筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立學生對於有氧舞蹈基本認知，進而養成良好及規律性的運動習慣",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "由舞蹈中養成規律運動終生享受運動樂趣",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "課程中皆搭配音樂，一方面增強學生對音樂的敏感度，使其提升節奏感，另一方面提升學生聆聽其音樂旋律之美",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "訓練個人與社會生活上的應用之技能",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "由舞蹈運動中學習關懷他人培養與他人互動",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "由舞蹈的欣賞，增進個人美感意境的內涵養成",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "調劑身心，將有氧舞蹈成為紓壓放鬆之休閒運動",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "由舞蹈運動中建立及強化互助合作的合群團體意識",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "運動處方<br>方進隆<br>華都文化事業有限公司<br>",
+    "teachingSoftware": "",
+    "rules": "有氧舞蹈課程注意事項<br>1、請盡量不要遲到，別吃太飽並做好暖身活動，遲到者注意先自行暖身。<br>3、請更換乾淨的運動鞋（有氧鞋或慢跑鞋），以舒適為原則。<br>4、請穿著有彈性的運動服裝。<br>5、這是一項增強心肺的運動，有心臟病、高血壓、糖尿病、氣喘、脊椎等特殊疾病者，請先告知身體狀況，預防危險，量力而為。由於個人體質不同，因此，從事有氧舞蹈運動務必小心體能狀況，循序漸進。<br>"
+}

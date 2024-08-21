@@ -1,0 +1,122 @@
+{
+    "code": "03D04401",
+    "name": {
+        "zh": "普通數學",
+        "en": "General Mathematics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "教育學程－小"
+    ],
+    "instructors": [
+        "李育強"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "N401"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "N401"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "數學並非只是快速計算答案，學數學更應該重視思考的過程、自主發現關係、運用關係的歷程，進而解決生活情境上的問題。課程內容以素養導向為基礎之數與量、代數、幾何、資料與不確定性。強調正確理解並活用數學概念、運用合理的方法與步驟以解決生活中的數學問題。<br><br>【專業素養指標】<br>2 了解並尊重學習者的發展與學習需求<br>■2-2 了解並運用學習原理，以符合學生個別學習需求與發展。<br>3 規劃適切的課程、教學及多元評量<br>■3-1 依據課程綱要/大綱、課程理論及教學原理，以規劃素養導向課程、教學及評量。<br>■3-3 具備任教領域/群科/科目所需的專門知識與學科教學知能，以進<br>行教學。<br>■3-5 應用多元教學策略、教學媒材與學習科技，以促進學生有效學習。<br>■3-6 根據多元評量結果調整課程與教學，以提升學生學習成效。<br>4 建立正向學習環境並適性輔導<br>■4-1 應用正向支持原理，共創安全、友善及對話的班級與學習環境，以養成學生良好品格及有效學習。<br><br>【課程核心內容】<br>2了解並尊重學習者的發展與學習需求<br>■(4)學習策略<br>3規劃適切的課程、教學及多元評量<br>■(4)12 年國民基本教育素養導向 (單科/跨領域統整/跨科統整)課程、教學及評量的發展及實踐<br>■(5)課程、教學與評量的創新及學習科技的應用<br>■(6)領域/學科(或科目)/群科專門知識與學科教學知能<br>4建立正向學習環境並適性輔導<br>■(6)學生自律與自治<br><br>【融入議題】<br>■科技教育<br>■資訊教育(含數位學習)<br>■閱讀素養<br>■理財教育<br>■生活教育<br>",
+    "prerequisites": "無。",
+    "syllabus": {
+        "zh": "1.生活中的數學<br>2.數與量<br>3.代數<br>4.幾何<br>5.資料與不確定性<br>6.生活情境與解題<br><br>",
+        "en": "1.Mathematics of life<br>2.Number and volume<br>3.Algebra<br>4.Geometry<br>5. Data and probability<br>6. Life situation and problem solving<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解數學教學設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解數學教學方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解數學教育",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解各種數學基本知識、及教學新知",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解數學與電腦的關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

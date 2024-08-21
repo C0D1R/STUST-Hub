@@ -1,0 +1,127 @@
+{
+    "code": "40D15101",
+    "name": {
+        "zh": "化學(一)",
+        "en": "Chemistry I"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專化材一甲"
+    ],
+    "instructors": [
+        "廖渭銅"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "I0305"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "I0305"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "I0305"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以介紹原子、分子及離子，原子的電子結構及週期表，氣體及溶液的性質，能量的變化之關係。<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、\t氣體<br>二、\t熱化學<br>三、\t原子的電子結構<br>四、\t週期表<br>五、\t化學建 I ：共價鍵<br>六、\t化學鍵 II：分子幾何形狀和原子軌域之混成化<br>七、\t分子間作用力和液體與固體",
+        "en": "The Outline of this semester：<br>1.  Gases<br>2.\tThermochemistry<br>3.\tThe Electronic Structure of Atoms<br>4.\tThe Periodic Table <br>5.\tChemical Bonding I: The Covalent Bond<br>6.\t Chemical Bonding II: Molecular Geometry and Hybridization of Atomic Orbitals<br>7.\tIntermolecular Forces and Liquids and Solids"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能知道氣體定律、原子的電子結構、週期表、 化學鍵、分子間作用力和液體與固體之特性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將所學的化學知識應用於日常生活上",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有系統及有組織的回答課堂上老師詢問之專業問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能與同學相互討論完成作業",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用網際網路平台收集並研讀相關資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

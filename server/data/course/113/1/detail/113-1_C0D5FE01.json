@@ -1,0 +1,115 @@
+{
+    "code": "C0D5FE01",
+    "name": {
+        "zh": "企業永續發展與專案管理實務",
+        "en": "ESG Project Management for Sustainable Business Development"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技應英四甲"
+    ],
+    "instructors": [
+        "楊晴絨"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "N202"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "N202"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "N202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "此課程旨在教導學員如何整合環境、社會與公司治理 (ESG) 原則至專案管理實務中，以促進企業永續發展。課程將深入探討ESG概念，並結合專案管理工具與方法，使學員能夠有效規劃、執行與監控符合ESG準則的專案。學員將學習如何運用專案管理技巧，推動企業的ESG專案，並理解ESG對企業永續發展的重要性。透過案例分析與實務應用，學員將掌握如何在專案管理中融入ESG理念，並瞭解ESG對企業價值創造的影響。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. ESG概念與原則介紹<br>   - 環境（Environmental）、社會（Social）、公司治理（Governance）的定義與重要性<br>   - ESG對企業的影響與價值<br>2. ESG與專案管理的整合<br>   - ESG原則如何融入專案管理流程<br>   - 專案目標設定與ESG指標的關聯性<br>3. ESG專案管理工具與方法<br>   - ESG評估與風險管理工具<br>   - ESG報告與溝通策略<br>4. 專案管理中的ESG執行與監控<br>   - ESG指標的監控與報告<br>   - 環境永續性與社會責任的整合<br>5. 案例分析與實務應用<br>   - 分析實際ESG專案案例<br>   - 討論如何應用專案管理技巧推動ESG專案<br>6. 最佳實踐分享<br>   - 企業成功整合ESG與專案管理的案例分享<br>   - 與業界專家分享最佳實踐與趨勢<br>",
+        "en": "1. Introduction to ESG concepts and principles<br>   - Definition and importance of Environmental, Social, and Governance<br>   - The impact and value of ESG on the enterprise<br>2. Integration of ESG and project management<br>   - How ESG principles are integrated into the project management process<br>   - Relevance of project goal setting to ESG metrics<br>3. ESG project management tools and methods<br>   - ESG assessment and risk management tools<br>   - ESG reporting and communication strategy<br>4. ESG implementation and monitoring in project management<br>   - Monitoring and reporting of ESG indicators<br>   - Integration of environmental sustainability and social responsibility<br>5. Case analysis and practical application<br>   - Analyze actual ESG project cases<br>   - Discuss how to apply project management skills to drive ESG projects<br>6. Best practice sharing<br>   - Case studies of companies successfully integrating ESG and project management<br>   - Share best practices and trends with industry experts<br>"
+    },
+    "weeklySchedule": "第一週\t課程介紹與企業永續發展概念\t<br>第二週\t永續發展的歷史與發展背景\t<br>第三週\t企業社會責任（CSR）\t<br>第四週\t專案管理基礎\t<br>第五週\t專案啟動階段\t<br>第六週\t專案規劃階段\t<br>第七週\t專案執行與監控\t<br>第八週\t企業永續發展策略\t<br>第九週\t學習反思\t<br>第十週\t利害關係人管理\t<br>第十一週\t風險管理\t<br>第十二週\t永續發展指標與評估\t<br>第十三週\t專案結束與評估\t<br>第十四週\t永續發展的未來趨勢\t<br>第十五週\t專案管理工具與技術\t<br>第十六週\t總結與回顧\t<br>第十七週\t課程報告準備\t<br>第十八週\t課程報告展示",
+    "exams": {
+        "midterm": "reflection",
+        "final": "discussion",
+        "other": "N/A"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解ESG指標對企業永續發展的影響",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "熟稔ESG結合專案管理工具方法應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "運用專案管理方法有效推動企業ESG專案",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "提昇ESG SDGs與專案管理結合應用之概念",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "N/A",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

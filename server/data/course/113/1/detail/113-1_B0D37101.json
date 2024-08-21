@@ -1,0 +1,125 @@
+{
+    "code": "B0D37101",
+    "name": {
+        "zh": "休閒導論",
+        "en": "Introduction to Leisure and Recreation"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技休閒一甲"
+    ],
+    "instructors": [
+        "洪飛碩"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0505"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0505"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要目的在介紹休閒的基本概念以及休閒在現代社會的現況與發展。課程重點除了提供學生所應具備的基本休閒知識之外，也希望培養學生對休閒活動的樂趣，並對休閒產業具備完整的概念。  <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "<br>中文課程大綱 (Chinese Outline)<br> 休閒的歷史發展<br>休閒的本質<br>休閒的需求<br>休閒生活型態、性別與家庭<br>休閒娛樂與弱勢族群<br>休閒的經濟和政治重要性<br>休閒場所<br>休閒供給的政治架構<br>休閒與地方政府<br>商業部門的休閒<br>休閒與志工部門<br>教育與休閒<br>休閒與健康生活<br>休閒及其未來展望<br> <br>英/日文課程大綱 (English/Japanese Outline)<br> <br>",
+        "en": "Chinese Outline (Chinese Outline)<br>Historical development of leisure<br>The essence of leisure<br>Leisure needs<br>Leisure lifestyle, gender and family<br>Recreation and disadvantaged groups<br>Economic and political importance of leisure<br>Leisure place<br>Political structure of leisure supply<br>Leisure and local government<br>Leisure in the business sector<br>Leisure and volunteer department<br>Education and leisure<br>Leisure and healthy life<br>Leisure and its future prospects<br><br>English/Japanese Outline"
+    },
+    "weeklySchedule": "第一章 緒論<br>第二章 休閒事業人力資源與服務行銷管理<br>第三章 休閒事業環境教育與風險管理<br><br>上篇 觀光遊樂業<br>第四章 主題樂園之經營管理<br>第五章 休閒農場<br>第六章 博物館<br>第七章 溫泉遊憩區<br>第八章 休閒渡假村<br><br>下篇 觀光旅館業<br>第九章 環保旅館(綠色旅館)<br>第十章 觀光旅館業<br>第十一章 休閒旅館客房管理<br>第十二章 休閒旅館餐飲管理",
+    "exams": {
+        "midterm": "筆試",
+        "final": "口試",
+        "other": "平常表現和出席率"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解當今休閒概念、角色與功能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解休閒產業各部門，以及所需具備的專業能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解影響參與休閒活動的各種社會文化與個人因素",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解休閒產業未來發展與可能遇到的挑戰",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "發展休閒綜合知識技能與指出可能問題之所在",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "休閒事業經營管理（第二版）",
+        "author": "陳鈞坤, 周玉娥",
+        "publisher": "全華圖書",
+        "year": "2020",
+        "ISBN": "9789865031848",
+        "edition": "2020"
+    },
+    "referenceBooks": "(參考書籍)休閒事業管理/曹勝雄, 顏昌華, 劉瓊如, 張樑治/2021/華立圖書",
+    "teachingSoftware": "Teams",
+    "rules": "1.開始上課請從前面第一排坐起(若因疫情線上上課請全程參加.提早離線或只上線一下.該堂課程列為缺課)。<br>2.開始上課請勿聊天與玩手機以及請勿趴在桌上睡覺。<br>3.固定點名,切勿遲到早退 因有要事須提早離開要主動告訴授課老師,若點名後早退(或點名後早退)被授課教師發現而離開則以當天全課程為曠課論處.此情形經查獲2次平常分數全學期0分採計。無故缺課且整學期缺席時數超過6節者，「平時成績」將不及格論處且依照比例給分.<br>4.外系選修或旁聽須經任課老師同意<br>5.修課同學第一周務必來上課,以便了解課程內容 評分及上課要求。<br>6.選修本課程同學，請先閱讀該課程之教學大綱，以免造成個人學習之困擾<br>7.本課程建議買上課用書."
+}

@@ -1,0 +1,139 @@
+{
+    "code": "1LD04U01",
+    "name": {
+        "zh": "影視美學",
+        "en": "Audio and Visual Arts"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "陳雯宜"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "W0406"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "W0406"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "W0406"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "許多以影視美學為名的課程多以電影為探討重點，本課程「影視美學」不單單探究電影類，而是認為各類藝術的欣賞均需兼顧影像、視覺、聽覺等，故課程擴而大之，引導學生欣賞建築、音樂、舞蹈、戲劇、繪畫、動畫、電影等不同藝術類別。現今的藝術大多為藝術類別間互相融合應用之跨類別藝術，而且近年來文化創意是項顯學，文創商品充斥於市面、網路，亦是必須提及的要項。課程內諸多的單元，均以提高學生的興趣，與美學素養而設計。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一單元\t各國之藝術場館、藝術活動簡介<br>第二單元\t建築、環境與環保—房屋新型態的發展<br>第三單元\t繪畫、繪本、漫畫與動畫<br>第四單元\t古典與當代的西方音樂<br>第五單元\t華語、日本、韓國流行音樂<br>第六單元\t音樂劇的舞台魅力<br>第七單元\t結合影像的舞蹈<br>第八單元\t電視、電影暨幕後製作<br>",
+        "en": "This course guides students to appreciate different genres of arts, such as architecture, music, dance, drama, painting, animation, and films."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "解析今昔不同之藝術領域並多方統合應用之新世代藝術，且充分具備反思的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解各國藝術互相影響的趨勢，培育具世界觀的、人文素養的公民",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能形塑美學素養，產生關心藝術新聞、網站與參與藝術活動的興趣，建立對生活中事物美感之領受力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "展現創造力，創作屬於個人的藝術作品",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能善用言語或肢體語言適切表達所欣賞之人事物，並與他人研討",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能在團體中與人融洽地互助合作，盡責地完成任務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,106 @@
+{
+    "code": "01D14N02",
+    "name": {
+        "zh": "健康與照護(一)",
+        "en": "Health and care"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "五專化材三甲",
+        "五專資工三甲"
+    ],
+    "instructors": [
+        "陳美珠"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "D203"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為促進國人健康，應加強年輕人相關健康與照護的知能，引導其落實健康的生活型態、預防慢性病與傳染病、開啟心靈之窗-促進心理健康、及向物質濫用say no，並以同理心關懷高齡者，為健康老化做準備；同時學習成為健康消費高手，以期在生活中能健康消費，成為明智的消費者；並教導同學在面對各種意外事故和緊急狀況時，能正確運用急救原則與技能，有效挽救生命，以維國人之安全生活社會。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元(一)　掌握健康靠自己<br>第一章　打造富有的健康人生<br>第二章　健康體位大作戰<br>第三章　健康殺手──慢性病與傳染病<br>第四章　活得久，更要活得好──成功老化<br>單元(二)　安全生活白皮書<br>第五章　臨危不亂，永保安康<br>第六章　關鍵時刻，掌握先機──CPR與異物哽塞處理<br>第七章　應變急先鋒──常見急症<br>",
+        "en": "1.\tIntroduction to Health and life<br>2.\tTo understanding Body mass index<br>3.\tPrevention of chronic and infectious diseases<br>4.\tSuccessful aging<br>5.\tEmergency management<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "增進個人健康與照護的知能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養能具備健康生活策略與實踐的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進人際關係與互動的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養及建立健康及安全的生活行為",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

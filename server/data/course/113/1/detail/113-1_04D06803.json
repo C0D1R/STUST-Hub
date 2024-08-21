@@ -1,0 +1,167 @@
+{
+    "code": "04D06803",
+    "name": {
+        "zh": "體育生活(三)：拳擊(F)",
+        "en": "Boxing"
+    },
+    "credit": "1",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "四技流音二甲",
+        "四技流音二乙",
+        "四技化材二甲",
+        "四技資傳二甲",
+        "四技資傳二乙",
+        "四技食品二甲",
+        "四技食品二乙",
+        "四技幼保二甲",
+        "四食品國專二甲"
+    ],
+    "instructors": [
+        "李政達"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": ""
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "拳擊運動的發展，歷史久遠，在古代奧林匹克運動會即列為正式的比賽項目。可說是具有傳統的武術競技，但在台灣的發展，卻是參與人數較少的冷門項目。因基本拳種(直、勾、上擊)並不複雜，入門容易，可說是最有效率的格鬪技巧。因此，無論針對男、女同學的防身禦敵，均有直接且立即的幫助，這也是我們想將此項運動介紹，推廣的原因。",
+    "prerequisites": "一、準時出席上課，勿無故缺曠，欲提早離席務必報備。\n二、按規定穿著運動服裝、攜帶個人器材(手繃帶、牙墊)。\n三、上課專心聽講，有不明白處務必詢問清楚。\n四、上課過程務須嚴謹，切忌以開玩笑心態面對。\n五、愛惜公用器材，勿恣意破壞，否則照價賠償。\n六、崇尚武德，不輕易與人動手。",
+    "syllabus": {
+        "zh": "1.拳擊運動的簡史、場地、器材、規則之簡介<br>2.選修拳擊需具備的條件和心理素質<br>3.基本動作講解<br>4.直拳介紹(攻擊)<br>5.直拳防禦(防守)<br>6.器材的輔助",
+        "en": "1. Brief introduction on boxing history, venues, equipment, and rules<br>2. What do you need to have physically and mentally for the boxing class?<br>3. Explanation of Basic movements<br>4. Straight punch (attack)<br>5. Straight punch (defense)<br>6. Auxiliary equipment<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "經由拳擊運動的上課，培養學生具備基本的防身技巧，進而增加健康體適能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "經由拳擊有氧的介紹與訓練，培養學生作為抒解壓力終生參與的運動項目",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "在安全無虞的前題下，因對手的差異性，提高該項運動的趣味性，藉此訓練學生面對競爭的抗壓性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "拳擊運動，可訓練學生積極熱忱，守法守紀，不驕不餒的人格特質",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由武術運動習就防身技巧的過程，教育學生體悟一旦出手所帶來的殺傷力是難以掌控的，藉此崇尚武德，養成不輕易與人動武關懷社會的涵養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過比賽或影片的觀看，瞭解拳擊運動的攻、防技巧，藉由養成欣賞競技運動所散發力與美的感官覺醒",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "習武首重武德的培養，經由運動訓練的過程抒發壓力，建構優質的情緒管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "同儕間的配合、互動，是攻、防技巧訓練過程中不可或缺的一環，藉由強化互助合作的團隊意識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

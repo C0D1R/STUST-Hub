@@ -1,0 +1,122 @@
+{
+    "code": "J0D32H01",
+    "name": {
+        "zh": "視覺心理學",
+        "en": "Visual psychology"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技商設三甲"
+    ],
+    "instructors": [
+        "吳亭誼"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0607"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "W0607"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程著重於介紹視覺心理學應用於有關藝術創作、視覺思考、平面設計之介紹與練習，內容包含視知覺、形態知覺（完型心理學）、亮度視覺、知覺恆常性、空間知覺（視覺透視）、錯視等，並藉由課堂講解視覺相關知識並強化觀察分析到行為思考能力，配合簡報及實例說明、同學實際作品創作與檢討，培養學生自我學習成長，以有助於後續從事藝術、設計認知與視覺傳達等工作。<br>The course focuses on the introduction and practice of visual psychology to artistic creation, visual thinking, and graphic design. The course content includes visual perception, Gestalt psychology, luminance vision, perceptual constancy, spatial perception, illusion, and etc. It also explains the visual knowledge and strengthen the observation and analysis of the behavior thinking ability in the classroom by providing briefings and examples, works creation and review to improve students' self-learning. It helps to follow the work of art, design cognition and visual communication.<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.視知覺概論<br>2.視覺注意力<br>3.形態知覺<br>4.知覺恆常性<br>5.色彩知覺<br>6.明暗與對比效應t<br>7.綜合討論：錯視<br>",
+        "en": "1.Introduction of visual perception<br>2.Visual selective attention<br>3.Morphological perception<br>4.Perceptual constancy<br>5.Color perception<br>6.Contrast effect<br>7.Conclusion: Optical Illusion<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解視覺心理學的基本學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養繪製識別圖像，完成圖形之技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成分析圖形原理並轉換為創新視覺圖形能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解應用視覺心理學在視覺圖形上的設計方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠感受及表現視覺圖形的美學觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

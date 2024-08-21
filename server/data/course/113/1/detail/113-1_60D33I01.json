@@ -1,0 +1,110 @@
+{
+    "code": "60D33I01",
+    "name": {
+        "zh": "專業英文",
+        "en": "English for Special Purpose"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技國企三甲"
+    ],
+    "instructors": [
+        "林容璟"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "S514"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "S514"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程著重於英語以及一般的商業，金融，投資知識。學生必須閱讀相關的新聞，並學習其中的語言，再加上它的資料和訊息。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.金融市場的運作<br>2.投資的基本知識<br>3.認識基本金融工具<br>4.美國財經新聞導讀<br>5.認識各種景氣指標<br>",
+        "en": "1.How Financial Markets Work<br>2.Basic Investment Knowledge<br>3.Knowing Investment Instruments<br>4.Reading CNN News on Business and Finance<br>5.Understanding Leading Indicators<br>"
+    },
+    "weeklySchedule": "1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18",
+    "exams": {
+        "midterm": "個人筆試",
+        "final": "個人筆試",
+        "other": "依課程老師說明"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "國際經貿財經訊閱讀",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "各國景氣金融指標判讀分析",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "分組專題整合報告",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "分組英文簡報",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "輕鬆駕馭英語會議",
+        "author": "空中英語教室編輯群/薛詠文",
+        "publisher": "財團人台北市基教救世傳播協會",
+        "year": "2021",
+        "ISBN": "978-986-5599-86-7",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

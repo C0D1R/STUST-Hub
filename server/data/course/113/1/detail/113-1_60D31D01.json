@@ -1,0 +1,116 @@
+{
+    "code": "60D31D01",
+    "name": {
+        "zh": "會展概論",
+        "en": "MICE Industry Introduction"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國企三甲",
+        "四技國企三乙"
+    ],
+    "instructors": [
+        "曾盛杰"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "S511"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "S511"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "S511"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要是介紹會展產業的相關概念，包括：會議、展覽、獎勵旅遊，以及活動。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.認識會展<br>2.會展產業<br>3.展覽<br>4.會議<br>5.獎勵旅遊<br>6.活動<br>7.會展場地<br>8.政府與會展產業<br>9.會展產業的重要性<br>10.綠色會展<br>",
+        "en": "1.Scope and Meaning of MICE<br>2.MICE Industry<br>3.Exhibitions<br>4.Meetings<br>5.Incentive Travels<br>6.Events<br>7.Venues<br>8.Governments and MICE Industry<br>9.Importance of MICE Industry<br>10.Green MICE<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解會展產業的相關知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用相關知識，分析會展業者的經營作為。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能與他人合作，來探討會展活動案例。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確應用會展產業知識的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

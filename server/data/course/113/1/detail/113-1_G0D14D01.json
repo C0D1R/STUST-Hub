@@ -1,0 +1,125 @@
+{
+    "code": "G0D14D01",
+    "name": {
+        "zh": "使用者經驗設計實務",
+        "en": "User experience design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資工四甲",
+        "四技資工四乙",
+        "四技資工四丙"
+    ],
+    "instructors": [
+        "林子嵐"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "D303"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "D303"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "D303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使用者經驗設計主要學習人與系統間的互動關係。學習如何設計滿足或支持使用者的需求和目標，以及系統的要求與結構的限制。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t何謂使用者經驗設計<br>2.\t專案目標設定與方法<br>3.\t使用者需求研究<br>4.\tPersonas<br>5.\t將需求轉換成設計<br>6.\t系統設計方法<br>7.\t系統開發<br>",
+        "en": "1.\tWhat is User Experience (UX) design<br>2.\tProject objectives and approach<br>3.\tUser Research<br>4.\tPersonas<br>5.\tTransition: From Defining to Designing<br>6.\tDesign principles<br>7.\tPrototyping<br>"
+    },
+    "weeklySchedule": "1-4週   認識Dreamweaver cc2019 與 響應式網頁相關的功能<br>5-8週   使用Bootstrap打造響應式網頁<br>9週     期中考<br>10-14週 打造酷炫的一頁式網頁<br>15-17週 更多關於Bootstra的錦囊妙招",
+    "exams": {
+        "midterm": "期中報告 30%",
+        "final": "期末報告 40%",
+        "other": "平時表現 30%"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能學習軟體設計時考慮使用者需求",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能學習完整的系統規劃設計流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能學習表達軟體設計理念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解軟體設計與人類需求的關係",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "響應式網頁設計驚嘆號",
+        "author": "李啟宏",
+        "publisher": "悅知",
+        "year": "",
+        "ISBN": "978-986-5100-37-7",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Dreamweaver CC",
+    "rules": ""
+}

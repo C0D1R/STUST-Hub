@@ -1,0 +1,129 @@
+{
+    "code": "G0D13G01",
+    "name": {
+        "zh": "Android程式設計(A)",
+        "en": "Android Programming"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資工三甲",
+        "四技資工三乙",
+        "四技資工三丙"
+    ],
+    "instructors": [
+        "許子衡"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "C306"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "C306"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "C306"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹以Java程式語言開發Android應用程式。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.安裝Android開發工具、管理SDK、開啟現有專案<br>2.操作Android虛擬機器<br>3.建立一個 Android 應用程式<br>4.描述使用者介面、設計使用者介面<br>5.解讀程式流程<br>6.重構程式、加入對話框(Dialog)、查看線上內容(Uri)<br>7.加入選單(Menu)、定義Android清單(Manifest)<br>8.加入新活動(Activity)、傳送資料到新活動(Intent)<br>9.訊息提醒(Notification)、記錄與偵錯(Log)<br>10.活動的生命週期(LifeCycle)、儲存資訊(Preference)<br>11.支援多國語系、針對特性配置 (Orientation)、使用接口(Adapter)<br>12.加入下拉選單元件(Spinner)、發佈應用程式到實機<br>13.發佈到 Android 市集(Market)<br>14.使用資料庫(SQLite)、存取資料表 (SQLiteOpenHelper)<br>15.申請 Google 地圖服務(API Key)、使用地圖(MapView)",
+        "en": "1. Install Android Development Tools<br>2. Android virtual machine<br>3. Writing your first Android Application<br>4. User interface design<br>5. Android Activity lifecycle<br>6. Reconstruction program, adding dialog, view the online content (Uri)<br>7. Add menu ro program and definef Android Manifest<br>8. Add a new Activity, send data to a new Activity<br>9. Notification and debugging log<br>10. Android Activity Life cycle and Preference<br>11. Multiple language support for feature configuration<br>12. Adding drop-down menu component (Spinner), published applications to the real machine<br>13. Posted to the Android Market<br>14. Using the database (SQLite), access data tables (SQLiteOpenHelper)<br>15. Google Maps application (API Key)"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解Android軟體執行流程與各軟體堆疊的分層情形",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用Eclipse工具開發應用程式與能實際透過模擬機或智慧型平台進行程式的相關設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將想法與創意轉換成可執行應用程式與專案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能辨識及閱讀外語的文件與手冊令，並能進行開發",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與除錯程式的內涵，並能加以說明與註解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

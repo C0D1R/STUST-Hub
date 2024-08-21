@@ -1,0 +1,116 @@
+{
+    "code": "60D32G01",
+    "name": {
+        "zh": "國際貿易理論與政策",
+        "en": "International Business Analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國企三甲",
+        "四技國企三乙"
+    ],
+    "instructors": [
+        "許淑媖"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "S514"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "S514"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "S514"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹國際貿易中常用的經濟理論及分析國際貿易對整體經濟社會的影響。另外，數個重要的傳統貿易理論亦將以基本但嚴謹的經濟模型作分析，並經由淺顯易懂的圖形加以介紹。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1 生產面與消費面<br>2 自給自足經濟體系下之一般均衡<br>3 自由貿易經濟體系下之一般均衡<br>4 The Ricardian Model<br>5 The Heckscher-Ohlin Model<br>6 The Specific-Factor Model<br>",
+        "en": "1. offer references to empirical evidence<br>2. learn to access sources/data about information<br>3. several sets of theoretical analysis on international trade topics<br>4. be familiar with the concept of comparative advantage<br>5. study models showing how technological differences, differences in resource endowments, and economies of scale determine trade patterns and income distribution.<br>6. the effect of government policies such as tariff, export subsidies, VER international trade agreements.<br>"
+    },
+    "weeklySchedule": "1. Introduction<br>2. Analytical tools<br>3. The Classical Theory of Comparative Cost<br>4. The Orthodox Theory<br>5. The New Trade Theories <br>6. Tariff<br>7. Quota and Other Non-Tariff Trade Barriers<br>8. Political Economy of Trade Policy <br>9. Regional Economic Integration<br>10. Foreign Direct Investment and Multinationals <br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "報告",
+        "other": "平時表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解國際財經的相關脈動與知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能利用統計及計量方法分析國際商務相關資料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備清晰邏輯思考及推理能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "生活中展現人文反省、理性思維及批判的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "國際貿易:理論與政策",
+        "author": "劉碧珍,陳添枝,翁永和",
+        "publisher": "雙葉書局",
+        "year": "2014",
+        "ISBN": "978-986-5668-01-3(平裝)",
+        "edition": "第5版"
+    },
+    "referenceBooks": "there are online teaching materials offered in class",
+    "teachingSoftware": "",
+    "rules": ""
+}

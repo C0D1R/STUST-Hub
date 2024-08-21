@@ -1,0 +1,136 @@
+{
+    "code": "10D34C01",
+    "name": {
+        "zh": "底盤工學",
+        "en": "Chassis Engineering"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技車輛二甲",
+        "四技車輛二乙"
+    ],
+    "instructors": [
+        "蔡肇煌"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "K402"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "K402"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "K402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "教導學生認識現代汽車之底盤系統及其運作理論的知識。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.講解煞車系統的作動理論與技術<br>2.講解轉向系統的理論與技術<br>3.講解懸吊系統的理論與技術<br>4.講解輪胎系統的理論與技術<br>5.講解汽車底盤相關之力學的理論與實例",
+        "en": "1. Explain theory and technology of braking system<br>2. Explain theory and technology of steering system<br>3. Explain theory and technology of suspension system<br>4. Explain theory and technology of the tire system<br>5. Explain theory and examples of mechanics related to automobile chassis<br>"
+    },
+    "weeklySchedule": "1.講解煞車系統的作動理論與技術<br>2.講解轉向系統的理論與技術<br>3.講解懸吊系統的理論與技術<br>4.講解輪胎系統的理論與技術<br>5.講解汽車底盤相關之力學的理論與實例",
+    "exams": {
+        "midterm": "考卷筆試",
+        "final": "考卷筆試",
+        "other": "筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉汽車底盤專業知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "升對汽車的設計、研發的興趣",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能以力學理念解釋底盤元件作動功能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀底盤專業用之英文資料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "底盤原理",
+        "author": "邱傳福",
+        "publisher": "全華",
+        "year": "2024",
+        "ISBN": "04c55126",
+        "edition": "2"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

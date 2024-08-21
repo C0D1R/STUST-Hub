@@ -1,0 +1,115 @@
+{
+    "code": "J0D38Q01",
+    "name": {
+        "zh": "專題動畫實務",
+        "en": "Project animation practice"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技動畫三甲"
+    ],
+    "instructors": [
+        "劉千凡"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "W0903"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "W0903"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "W0903"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "此課程是進入大四畢業專題前的熱身，上課的同學必須分組進行小專題的專案討論及製作，最終發表小專題影片成果。內容可以是2D動畫、3D動畫、停格動畫等各種類型的影片，各組至少需要找一位視傳系老師指導作品。<br>This course is a warm-up before entering the senior graduation project. Students in the class must be divided into groups to discuss and produce small-topic projects, and finally publish the results of small-topic videos. The content can be 2D animation, 3D animation, stop-motion animation and other types of films. Each group needs to find at least one teacher from the Department of Visual Communication Design to guide the work.",
+    "prerequisites": "建議具有動畫組劇本寫作及分鏡基礎能力；並至少修過以下其中一種類型（2D、3D或停格動畫）課程及具有影音製作經驗。",
+    "syllabus": {
+        "zh": "1.課程說明<br>2.專案發想<br>3.專案討論<br>4.專案進行<br>5.成果發表<br>",
+        "en": "1.Course Description<br>2.Project ideas<br>3.Project discussion<br>4.Project progress<br>5.Result publication<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "動畫專案發想",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "動畫專案製作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "團隊分工協調",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "影片成果展演",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

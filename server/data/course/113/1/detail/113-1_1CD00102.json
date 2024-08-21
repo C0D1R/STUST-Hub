@@ -1,0 +1,115 @@
+{
+    "code": "1CD00102",
+    "name": {
+        "zh": "基礎繪畫",
+        "en": "Drawing  of  Basics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技產設一乙"
+    ],
+    "instructors": [
+        "張家誠"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "P405"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "P405"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "P405"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "基礎繪畫-素描+水彩<br>素描是研究造形美術最根本的訓練方式之一。換言之，就是畫者在平面的物質上，描繪出物體在空間中的位置，藉此掌握物體形象、明暗的基本訓練。<br>水彩是一種有彩色的最簡易繪畫媒材,藉此可訓練學生練習有彩色的繪畫能力.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "週數教學單元教學內容<br>1.準備週…………講解本學期授課的內容與評量方式<br>2.素描簡介………講解素描的定義及作品欣賞<br>3.靜物素描………工具材料介紹及明暗階段表現法示範<br>4.靜物素描.....學生製作及巡視指導<br>5.靜物素描.....完成及欣賞評鑑<br>6.石膏素描.....老師示範<br>7.石膏素描.....學生製作及巡視指導<br>8.石膏素描.....完成及欣賞評鑑<br>9.期中考 ………靜物素描（器物）（標準開紙）<br>10.色彩與調色...老師講解、示範<br>11.水彩畫(靜物)……老師講解、示範<br>12.水彩畫(靜物)……學生製作及巡視指導<br>13.水彩畫(靜物)……完成及欣賞評鑑<br>14.水彩畫(風景)……老師講解、示範<br>15.水彩畫(風景)……學生製作及巡視指導<br>16.水彩畫(風景)……完成及欣賞評鑑<br>17.期末考……………綜合素材（標準開紙）<br>18.總評………………期中、期末作品總評<br>",
+        "en": "Sketch is one of basic skills for studying Plastic Arts. The course focuses on observing objects and drawing shapes over a 2D plane. Through the process, students will be getting to handle the sketch and rendering.<br>Water Color is one of classic painting techniques. It can help students to build the coloring ability further."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解繪畫技巧的專業",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用工具表現繪畫創意",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練繪畫工具練習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養繪畫的美感表現",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

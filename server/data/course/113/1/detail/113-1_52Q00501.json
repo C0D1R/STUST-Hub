@@ -1,0 +1,139 @@
+{
+    "code": "52Q00501",
+    "name": {
+        "zh": "高等品質管理",
+        "en": "Advanced Quality Control"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專工管一甲"
+    ],
+    "instructors": [
+        "方正中"
+    ],
+    "schedule": [
+        {
+            "day": "週日",
+            "period": "第4節",
+            "location": "T0802"
+        },
+        {
+            "day": "週日",
+            "period": "第5節",
+            "location": "T0802"
+        },
+        {
+            "day": "週日",
+            "period": "第6節",
+            "location": "T0802"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "製程品質管制著重於製程穩定、分析製程能力指標、產品合格率以及量測系統之優劣，本課程詳細授與其技術，使學生學會利用管制圖以分析並穩定製程品質，分析量測系統之好壞。",
+    "prerequisites": "統計學",
+    "syllabus": {
+        "zh": "1. Xbar-R 管制圖、Xbar-S 管制圖<br>2. X-MR管制圖<br>3. 製程能力解析、合格率<br>4. 量測分析(MSA, GR&amp;R)<br>5. p、np 管制圖<br>6. c、u 管制圖<br>",
+        "en": "1. Xbar-R control chart、Xbar-S control chart<br>2. X-MR control chart<br>3. Process capability analysis、percent of conforming<br>4. Measurement system analysis (MSA, GR&amp;R)<br>5. p、np control chart<br>6. c、u control chart"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解品質管理與基本學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對管理問題辨識適當的品質管理，並用以建立管理決策",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用品質管理的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用品質管理分析管理實務資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用MINTAB軟體分析資料並正確解讀報表",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現資料分析結果，讓不懂實驗設計專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

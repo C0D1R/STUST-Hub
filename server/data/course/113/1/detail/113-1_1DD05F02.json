@@ -1,0 +1,99 @@
+{
+    "code": "1DD05F02",
+    "name": {
+        "zh": "畢業專題",
+        "en": "Gratuation Project"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技流音四乙"
+    ],
+    "instructors": [
+        "林佩儒"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過分組完成畢業製作企劃提報，選出最佳企劃後，依演唱會幕前及幕後專長能力進行功能分組，完成畢業展演巡迴表演。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.畢製總企劃撰寫<br>2.畢製總企劃審查<br>3.依企劃功能分組<br>4.執行畢展工作<br>5.巡迴展演<br>6.參加競賽",
+        "en": "1. Graduation project master plan writing.<br>2. Graduation project master plan review.<br>3. Group fellow students by project planning functions.<br>4. Exhibition performing of the graduation project.<br>5. Graduation project performance tour.<br>6. Graduation project participations in various competitions."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備演唱會創作展演技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備演唱會舞台製作技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備執行演唱會各項工作溝通能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備執行演唱會團隊分工合作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

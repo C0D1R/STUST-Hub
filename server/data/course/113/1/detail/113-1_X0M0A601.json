@@ -1,0 +1,106 @@
+{
+    "code": "X0M0A601",
+    "name": {
+        "zh": "法律服務學習(一)",
+        "en": "Legal Service Learning(I)"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "碩研財法一甲",
+        "碩研財法二甲"
+    ],
+    "instructors": [
+        "羅承宗"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "S411A"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "培養學生能夠實務與理論結合，藉由參與研討會、論文發表、法治教育等學術活動，增進本身法律經驗。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.參與律師公會學術研討會<br>2.參與財法所舉辦各型學術研討會<br>3.參與智慧財產權種子師資培育<br>4.中小學及社區法治教育<br>5.學生論文發表會<br>6.協助舉辦各類型活動",
+        "en": "Students are required to:<br>participate conferences<br>participate training lessons for IP seed lectures<br>attend community legal education<br>attend academic paper presentation<br>help in external curriculum<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養學生服務觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生學以致用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "吸收多元觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析重大時事議題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

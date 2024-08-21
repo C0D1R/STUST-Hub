@@ -1,0 +1,131 @@
+{
+    "code": "1LD06403",
+    "name": {
+        "zh": "西洋古典音樂欣賞(C)",
+        "en": "Western Classical Music Appreciation"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "邱亭雅"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0206"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "T0206"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "T0206"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程的目的在於引導學生具備欣賞西洋古典音樂的知識、興趣與能力。課程理論部分由耳熟能詳的小品入門，循序漸進地介紹音樂風格、代表性作曲家、經典曲目、以及文化現象。實作部分協助學生搜尋音樂會訊息並進入表演廳堂聆賞，以提升欣賞古典音樂的興趣，培養終身學習的動機和能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、進入西洋古典音樂的世界<br>1. 古典音樂的定義<br>2. 欣賞古典音樂的方法<br>3. 音樂會節目搜尋、購票管道及聽眾禮儀<br>二、古典音樂基本知識<br>1. 音樂三要素<br>2. 樂器介紹、演奏型態與器樂曲種類<br>3. 人聲介紹、表演型態與聲樂曲種類<br>三、各時期的音樂風格、代表性作曲家、經典作品<br>1. 巴洛克時期<br>2. 古典時期<br>3. 浪漫樂派與國民樂派<br>4. 印象樂派<br>四、古典音樂文化現象<br>1. 莫札特的經濟效益<br>2. 維也納新年音樂會<br>3. 蕭邦國際鋼琴比賽<br>4. 全球知名演奏家與交響樂團<br>5. 全球知名演唱家與合唱團<br>6. 全球知名音樂廳與歌劇院<br>",
+        "en": "Unit 1 Getting started with classical music<br>\tWhat is classical music<br>\tHow to appreciate classical music<br>\tHow to attend a concert<br>Unit 2 Basic knowledge of classical music<br>\tElements of music<br>\tInstrumental music<br>\tVocal music<br>Unit 3 Famous composers and works<br>\tBaroque period<br>\tClassical period<br>\tRomantic period<br>\tModern period<br>Unit 4 Classical music today<br>\tMozart today<br>\tThe Vienna New Year's Concert<br>\tInternational Chopin Piano Competition<br>\tFamous performers and orchestras <br>\tFamous singers and choirs<br>\tConcert halls and opera houses<br>"
+    },
+    "weeklySchedule": "第一週：簡介概論: 古典音樂、電影配樂、音樂劇電影<br>第二週：古希臘時期 (Ancient Greece) 歷史背景、音樂風格、代表作品介紹賞析<br>第三週：中世紀時期 (Medieval Period) 歷史背景、音樂風格、代表作品介紹賞析<br>第四週：文藝復興時期  (Renaissance Period) 歷史背景、音樂風格、代表作品介紹賞析<br>第五週：巴洛克樂派 (Baroque Period) 歷史背景、音樂風格、代表作品介紹賞析<br>第六週：古典樂派 (Classical Period) 歷史背景、音樂風格、代表作品介紹賞析<br>第七週：浪漫樂派 (Romantic Period) 歷史背景、音樂風格、代表作品介紹賞析<br>第八週：現代樂派 (Contemporary Period) 歷史背景、音樂風格、代表作品介紹賞析<br>第九週：期中考\t<br>第十週：音樂劇電影：Beauty and the Beast (美女與野獸)創作風格研討<br>第十一週：電影配樂概論: 構成聲軌三大要素--對白(dialogue)、音樂(music) 、音效(sound effects)<br>第十二週：電影配樂：好萊塢電影配樂主要時期--Golden Age、1960s、1970-1980、1990-2000後<br>第十三週：電影配樂：Golden Age 歷史沿革與代表編曲家與作品風格賞析--Max Steiner、Herbert Stothart、George Gershiwin<br>第十四週：電影配樂：1960s 歷史沿革與代表編曲家與作品賞析--Bernard Herrman、John Williams、Ennio Morricone<br>第十五週：電影配樂：1970-1980 (合成器時期) 歷史沿革與代表編曲家與作品賞析--Hans Zimmer、 Danny Elfman、Vangelis<br>第十六週：電影配樂：1990-2000後 時代背景與代表作品--Troy、 Harry Potter 、 Titanic、Gladiator<br>第十七週：電影配樂：現代好萊塢與台灣電影工業--James Bond 007、林強、王希文、李欣芸<br>第十八週：期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "課堂學習單"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解西洋古典音樂的風格、代表性作曲家、經典曲目與音樂文化。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "參與音樂性藝文活動，提升個人生活品味。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備以語言、肢體或樂器表達音樂內涵的能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養團隊合作精神，達成課程要求任務。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "統整西洋古典音樂的知識，運用於其他類型音樂的學習。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Hearing the movies: music and sound in film history",
+        "author": "James Buhler",
+        "publisher": "Oxford University Press",
+        "year": "2016",
+        "ISBN": "978-0-19-998771-9",
+        "edition": "2"
+    },
+    "referenceBooks": "1. Pejrolo, Andrea, and Richard Derosa. Acoustic and MIDI Orchestration for the Contemporary Composer. Boston: Focal, 2007.<br>2. Grout, Donald Jay. (2006). A History of Western Music. New York: W.W. Norton.",
+    "teachingSoftware": "powerpoint",
+    "rules": "1. 準時出席<br>2. 參與課堂討論<br><br>"
+}

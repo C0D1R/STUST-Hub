@@ -1,0 +1,129 @@
+{
+    "code": "90D22L01",
+    "name": {
+        "zh": "跨平台網頁設計(A)",
+        "en": "Responsive Web Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資管三甲",
+        "四技資管三乙",
+        "四技資管三丙"
+    ],
+    "instructors": [
+        "陳志達"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0709"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "T0709"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0709"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹XML和相關的規格技術，瞭解跨平台資料交換的技術。<br>從HTML與CSS切入整個網頁的靜態架構的組成，並介紹響應式網頁設計，透過範例實際進行網頁的實作。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "XML基礎與文件建立<br>XML語法檢查 -- DTD與Schema<br>XML內容的展現 -- CSS與XSL/XSLT<br>初探HTML<br>CSS概念以及應用<br>RWD網頁介紹<br>RWD實例製作<br>",
+        "en": "XML Basic Concept and XML document Creation<br>Introduction to DTD and Schema<br>Introduction to CSS and XSL/XSLT<br>Introduction to HTML<br>Concept of CSS and Related examples<br>Introduction to RWD Web Design<br>Example of RWD Web Design<br>"
+    },
+    "weeklySchedule": "第 一  ~  二  週  初探HTML<br>第 三  ~  六  週  CSS概念以及應用<br>第 七  ~  八  週  RWD網頁相關技術介紹<br>第 九 週  期中考 <br>第 十   ~ 十一週  Bootstrap CSS 樣式<br>第 十二 ~ 十二週  Bootstrap 元件<br>第 十三 ~ 十五週  Bootstrap JS 外掛<br>第 十六 ~ 十七週  RWD實例製作<br>第十八週  期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "期末專題報告",
+        "other": "小考、作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "應用與規畫網站的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "操作與管理網站的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建構與設計網站應用的實務技能",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "應用與操作跨網站系統能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能依系統需求建構跨平臺網站",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "設計師一定要學的 Bootstrap 5 RWD 響應式網頁設計",
+        "author": "陳惠貞",
+        "publisher": "旗標出版社",
+        "year": "2021",
+        "ISBN": "",
+        "edition": "F1477"
+    },
+    "referenceBooks": "(一)線上教材 http://120.117.98.146/RWD<br>",
+    "teachingSoftware": "Dreamweaver and vs code",
+    "rules": "1. 請遵守上課不戴耳機、不講話與不睡覺的三不要求，若無法同意和遵守，請不要修課。"
+}

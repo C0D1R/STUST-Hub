@@ -1,0 +1,140 @@
+{
+    "code": "30D1CY01",
+    "name": {
+        "zh": "無線感測網路協定與應用",
+        "en": "Protocols and Architectures for Wireless Sensor Networks"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子三甲",
+        "四技電子三乙"
+    ],
+    "instructors": [
+        "田子坤"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "J401"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "J401"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "J401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程的主要目標，在於讓學生了解無線感測網路相關通訊協定、軟體開發技術以及硬體介面之基本知識與觀念，並輔以一系列實驗課程，讓學生透過自己所撰寫的程式，控制無線感測器之硬體元件，以達到理論與實務兼備的教學目的。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. Introduction Applications of WSNs<br>2. Single-node architecture Hardware components<br>3. Fundamentals of wireless protocols <br>4. Routing protocols<br>5. Topology control<br>6. Time synchronization<br>7. Localization and positioning<br>8. Coverage<br>9. 物聯網簡介<br>10. Special Topics Report 專題報告",
+        "en": "1. Introduction Applications of WSNs<br>2. Single-node architecture Hardware components<br>3. Fundamentals of wireless protocols <br>4. Routing protocols<br>5. Topology control<br>6. Time synchronization<br>7. Localization and positioning<br>8. Coverage<br>9. Introduction to Internet of Things<br>10. Special Topics Report"
+    },
+    "weeklySchedule": "無線區域網路<br>無線隨意網路<br>無線感測網路<br>無線寬頻網路<br>水下感測網路<br>無線體域網路<br>車載資通訊網路<br>感知無線電網路",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第3, 5,7, 11,13,15週平時考，筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解無線感測網路",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "撰寫程式，控制無線感測器之硬體元件",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "軟體及硬體介面的設計",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "透過專題報告訓練學生團隊合作",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解無線感測網路未來的發展方向與應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無線網路與行動計算",
+        "author": "陳裕賢等",
+        "publisher": "全華圖書",
+        "year": "2023",
+        "ISBN": "978-957-21-9620-5",
+        "edition": "2"
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "1. 選修此課程需準備一本教科書<br>2. 每位學生需撰寫一本專題研究報告，題目另行指定"
+}

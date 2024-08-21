@@ -1,0 +1,127 @@
+{
+    "code": "1LD05101",
+    "name": {
+        "zh": "跨越文化偏見與歧視的批判思考",
+        "en": "A Critical Reflection on Cultural Prejudice and Discrimination"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "方中士"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0104"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "T0104"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "T0104"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "培養學生檢視個人生活與理解他人處境的意識與能力，進而促成所處社會具有自我檢視與調整的公民行動。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.省思日常生活經驗裡的文化偏見與歧視<br>2.理解文化結構、解構、建構等文化批評在生活中的實例與尋求個人精神主體覺醒的關聯<br>3.當代科技進展背景下的生命倫理學──墮胎、安樂死、動物權、代理孕母、複製人與生殖計畫。<br>4.公民與國家關係─當代政治哲學在正義議題上的困境<br>5.自由人？──當代媒體文化操控與各人心靈自由的可能<br>6.從文化操控的角度省思藝術與宗教活動中的個人心靈滿足<br>",
+        "en": "1.\tReflection on cultural prejudice and discrimination in daily life experience<br>2.\tUnderstand the relationship between cultural criticism, deconstruction, construction and other cultural criticisms in life and the search for the awakening of individual spiritual subjects<br>3.\tBioethics in the context of contemporary scientific and technological progress-- Abortion, euthanasia, animal rights, surrogate mother, reproduction of human and reproductive plans.<br>4.\tCitizenship and state relations-- The Dilemma of Contemporary Political Philosophy on the Issue of Justice<br>5.\tThe control of contemporary media culture and the possibility of freedom of mind<br>6.\tReflection on art and religious activities<br><br><br><br><br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "深化獨立與批判思考能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養自我檢視與理解他人觀點能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養公民審議公共議題能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養關懷社會弱勢的倫理態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養當代檢視網路社群資訊之媒體素養以促進包容多元文化態度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

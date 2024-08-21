@@ -1,0 +1,123 @@
+{
+    "code": "30D1DW02",
+    "name": {
+        "zh": "進階程式設計實務",
+        "en": "Advanced Computer Programming"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電子二乙"
+    ],
+    "instructors": [
+        "方信普"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "J405"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "J405"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "J405"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程是針對具程式寫作經驗，及上過部分程式設計課程學生所設計的。經由不同的程式撰寫範例，來解說如物件導向及程序導向之設計方式，並闡述C與C++之差異。將於課程中，介紹高效能計算的設計概念及主要進階程式設計技巧，並希望南台科大的學生，能瞭解程式設計技巧在高效能計算中的重要性。",
+    "prerequisites": "計算機程式(Introduction to Programming Language) with C or better",
+    "syllabus": {
+        "zh": "第 1 章 課程介紹 1. Unix/Linux 作業系統2. 開發環境介紹 3. 程序導向程式設計 第 2 章 指標 1. 指標的宣告與使用 2. 指標的指標 3. 指標與陣列 4. 字串陣列 5. 動態記憶體 6. 函數指標 第 3 章 動態記憶體的配置 1. 陣列的限制 2. 陣列的動態配置 3. 動態二維陣列與指標的指標 第 4 章 自訂資料型別 1. 自訂資料型別 2. 結構 3. 列舉型別 第 5 章 物件導向的基本觀念 1. 物件導向與C++ 2. 物件導向的基本觀念 3. 資料的封裝 4. 物件導向系統 第 6 章 類別與物件 1. 類別成員存取權限 2. 物件的生命週期 3. 靜態類別成員 4. 指標與物件 5. 物件參數的傳遞 6. 函式/方法的多載 7. 朋友類別/函數 第 7 章 類別嵌入與繼承 1. 類別嵌入 2. 結合與組合 3. 類別繼承 4. 基礎類別 5. 衍生類別 6. 類別型別轉換 7. 方法的覆載 第 8 章 同名異式 1. 抽象類別 2. 虛擬函式 3. 多重繼承 4. 訊息與多型 5. 靜態的多型",
+        "en": "Chapter 1. Course Introduction1. Unix/Linux Operating Systems2. Developing Environments3. Procedural-oriented ProgrammingChapter 2. Pointers1. Pointer Declarations and Usages2. Pointer’s Pointer3. Pointers and Arrays4. String Arrays5. Dynamic Memories6. Function PointersChapter 3. Dynamic Memory Allocation1. Limitation of Arrays2. Dynamic Arrays3. Dynamic 2-demension Arrays and Pointer’s PointerChapter 4. User Defined Types1. User Defined Types2. Structures3. Enumeration TypesChapter 5. Object-Oriented Programming Fundamentals1. OOP and C++2. OOP’s Fundamental Concepts3. Data Encapsulations4. OOP SystemsChapter 6. Classes and Objects1. Class Members Accessibility 2. Objects’ Life Cycles 3. Static Class Members4. Pointers and Objects5. Passing Objects as Parameters6. Function/Method Overloading7. Friend Classes and FunctionsChapter 7. Class Embedding and Inheritance1. Class Embedding2. Associations and Composition3. Class Inheritance4. Base Classes5. Derived Classes 6. Classes Type Casting7. Method OverridingChapter 8. Polymorphism1. Abstract Base Classes2. Virtual Functions3. Multiple Inheritance4. Messages and Polymorphism5. Static Polymorphism"
+    },
+    "weeklySchedule": "Ch01　Visual C# 2022的基本概念Ch02　Visual C#程式的組成與語法規則Ch03　變數、資料型別與運算子Ch04　單向與雙向選擇結構Ch05　多向選擇與巢狀選擇結構Ch06　迴圈結構Ch07　巢狀迴圈結構與變更迴圈流程敘述Ch08　陣列期中考週Ch09　二維陣列Ch10　函式與系統函式庫Ch11　資料夾與檔案的輸入與輸出Ch12　視覺化與系統元件Ch13　影像與二維矩陣Ch14　簡單的影像處理Ch15　Blob大型二值化影像Ch16　影像比對期末考週",
+    "exams": {
+        "midterm": "實作",
+        "final": "實作",
+        "other": "不定時平時考、實作"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "訓練Java程式設計專業技能解決工程問題之能力解題技巧與應用。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "以JDK(Java Development Kit)，培養學生軟體的開發能力。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "介紹C相關的網站，使學生能自行學習",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養Java程式相關應用實務之分析與設計能力。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "程式設計－使用Visual C# 2022",
+        "author": "黃建庭",
+        "publisher": "全華圖書股份有限公司",
+        "year": "2022",
+        "ISBN": "9786263281486",
+        "edition": "1"
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "Visual Studio .Net",
+    "rules": "無"
+}

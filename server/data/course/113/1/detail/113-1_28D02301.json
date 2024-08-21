@@ -1,0 +1,168 @@
+{
+    "code": "28D02301",
+    "name": {
+        "zh": "電力系統",
+        "en": "Power System Analysis"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電資三甲"
+    ],
+    "instructors": [
+        "凌拯民"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "K401"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "K401"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "K401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.高普考",
+        "2.電機技師"
+    ],
+    "description": "介紹電力系統之基本理論，包括電力系統組成、三相電路、發電機、變壓器、輸`配線路、電力潮流、故障分析、穩定度分析",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.電力系統概論<br>2.基本原理<br>3.發電機與變壓器模式<br>4.輸電線路模型<br>5.電力潮流分析<br>6.短路故障分析<br>7.穩定度分析",
+        "en": "1.Power system concepts<br>2.Basic theorem<br>3.Generator and transformer<br>4.Transmission line modeling<br>5.Power flow analysis<br>6.Short circuit fault analysis<br>7.Stability analysis<br>"
+    },
+    "weeklySchedule": "1 台灣電力系統之現況及未來發展趨勢 \t\t<br>2.分散式再生能源的應用及未來發展趨勢 <br>3 電力系統中須具備的電路及工程數學基本觀念，及電機機械相關元件之系統模型 \t\t<br>4 電力系統中輸電線路參數代表的意義及形成原因 \t\t<br>5 輸電線路電壓及電流方程式所代表的意義及其應用型式 \t\t<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "作業--不定時"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解分散式再生能源的應用及未來發展趨勢",
+            "teachingMethods": [
+                "啟發思考",
+                "個案研究(PBL)",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解台灣電力系統之現況及未來發展趨勢",
+            "teachingMethods": [
+                "個案研究(PBL)",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解於電力系統中須具備的電路及工程數學基本觀念，及電機機械相關元件之系統模型",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解電力系統中輸電線路參數代表的意義及形成原因",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解輸電線路電壓及電流方程式所代表的意義及其應用型式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解輸電線路之暫態方程式所代表的意義及其應用型式",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "電力系統分析與設計",
+        "author": "黃世杰 譯",
+        "publisher": "歐亞書局",
+        "year": "2023",
+        "ISBN": "978-626-96852-5-7",
+        "edition": "第7版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

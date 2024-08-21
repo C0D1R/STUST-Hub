@@ -1,0 +1,128 @@
+{
+    "code": "C0N2BT01",
+    "name": {
+        "zh": "基礎英語口譯",
+        "en": "Introduction to English interpretation"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜二技應英四甲",
+        "夜四技應英四甲"
+    ],
+    "instructors": [
+        "林尹星"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "N204"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "N204"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "N204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This is an introductory level course divided into four training stages: public speaking skills, paraphrasing, sight translation and consecutive interpretation.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "演說技巧講述<br>演說技巧實作訓練<br>視譯介紹<br>視譯演練<br>逐步口譯筆記技巧講述<br>逐步口譯筆記技巧示範<br>逐步口譯筆記技巧訓練",
+        "en": "lectures on public speaking skills<br>public speaking skills training<br>introduction on paraphrasing<br>paraphrasing exercises<br>principles of consecutive interpretation note taking<br>demonstration over note-taking skills<br>training on note-taking skills"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識口譯的基本型態，並熟悉運作模式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "演練聽力、理解、語言轉換並傳達的一貫過程，著重語言轉換的達意與流暢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過閱讀、理解、語言轉換進而傳譯，著重譯入語是否符合其行文習慣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以不同的題材廣泛建立各領域基礎的專業知識，習得相關字彙與語法結構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "習得逐步口譯筆記之技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

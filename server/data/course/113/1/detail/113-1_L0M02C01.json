@@ -1,0 +1,115 @@
+{
+    "code": "L0M02C01",
+    "name": {
+        "zh": "太陽光電工程",
+        "en": "Photovoltaic Engineering"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研半導體一甲"
+    ],
+    "instructors": [
+        "高至誠"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "Q403"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "Q403"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "Q403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹太陽光電工程之基本知識，從發展沿革、半導體材料特性、光電原理、晶片製造技術、系統設計到實際應用等層面，逐一說明太陽能的特性以及相關檢測技術，是太陽光電應用的重要基礎。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、 溫室效應與再生能源<br>2、 太陽光電原理<br>3、 太陽電池結構與製備<br>4、 太陽電池特性量測<br>5、 太陽模組封裝技術<br>6、 太陽電池系統規劃與應用<br>",
+        "en": "1、 Global warming and green energy<br>2、 Introduction<br>3、 Structure and production of solar cell<br>4、 Measurement of characteristic <br>5、 Packaging technique<br>6、 Application of solar cell system"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解溫室效應與再生能源",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解光伏原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解太陽能電池之構造",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解太陽能電池之應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

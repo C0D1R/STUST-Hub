@@ -1,0 +1,116 @@
+{
+    "code": "65D00F01",
+    "name": {
+        "zh": "人力資源管理",
+        "en": "Human Resource Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國商三甲"
+    ],
+    "instructors": [
+        "艾米麗"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "E0509"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "E0509"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "E0509"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Drawing from human resource management (HRM) theories and cases, this course emphasizes on learning practical personnel management and hands-on experiences. Specifically, students will be taught to understand human resource practices, policies, and outlook in Taiwan and beyond. Using international businesses as discussion bases, this course provides HRM knowledge and skills from employee hiring to compensation planning, to essential performance evaluation administration, and strategic reward management (motivation) in the enterprises.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 策略與人力資源管理<br>2. 組織設計<br>3. 工作分析<br>4. 人力資源規劃、招募與選擇<br>5. 訓練與發展<br>6. 績效評估<br>7. 策略性獎酬管理<br>8. 人力資源之企業倫理議題<br>9. 員工動機與紀律管理<br>10. 員工領導<br>11. 國際人力資源管理<br>",
+        "en": "The course will cover the following important topics:<br>1. Strategy and Human Resource Management.<br>2. Organizational Design.<br>3. Job Analysis.<br>4. Human Resource Planning, Recruitment, and Selection.<br>5. Training and Development.<br>6. Performance Evaluation.<br>7. Strategic Reward Management.<br>8. Business Ethics in Human Resources.<br>9. Employee Motivation and Disciplinary Management.<br>10. Leading Employees (Leadership).<br>11. International Human Resources Management."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "定義並了解人力資源管理的功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "指出多樣化勞力面對的潛在挑戰與威脅",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "清楚人力資源管理部門可提供的協助",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "扼要說明傳達人力資源方案時所需的指導原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

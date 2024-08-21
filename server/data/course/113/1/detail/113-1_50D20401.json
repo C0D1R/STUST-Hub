@@ -1,0 +1,129 @@
+{
+    "code": "50D20401",
+    "name": {
+        "zh": "實驗設計",
+        "en": "Design of Experiments"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技工管四甲",
+        "四技工管四乙"
+    ],
+    "instructors": [
+        "方正中"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0802"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0802"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0802"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.品質工程師",
+        ""
+    ],
+    "description": "學習提升產品品質的有效率方法, 增強專業技能, 有效運用於生產製造業",
+    "prerequisites": "統計學",
+    "syllabus": {
+        "zh": "1.\t迴歸分析的應用 (Excel)<br>2.\t變異數分析 (Excel)<br>3.\t二因子設計<br>4.\tP-B設計<br>5.\t中央組合設計<br>6.\t篩選設計<br>",
+        "en": "1.\tRegression analysis<br>2.\tAnova <br>3.\t2-factor design<br>4.\tP-B design<br>5.\tCentral composite design<br>6.\tScreening Design<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解實驗設計的基本原理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能用適當的統計方法分析蒐集所得資料。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能依據問題特性選擇適當的實驗設計方法。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將所學方法應用於實際問題的求解。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解實驗設計方法的最新發展。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

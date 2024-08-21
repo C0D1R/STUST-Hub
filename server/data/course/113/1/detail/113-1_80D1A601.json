@@ -1,0 +1,129 @@
+{
+    "code": "80D1A601",
+    "name": {
+        "zh": "企劃管理與實務",
+        "en": "Planning and management practices"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技財金二甲",
+        "四技財金二乙"
+    ],
+    "instructors": [
+        "林容萱"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "S409"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "S409"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S409"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過理論與實際個案，指導學生企畫書的撰寫，其中包括企劃案的發想到實際撰寫的流程與步驟，本課程讓學生參與創業、創新或創意行銷等全國大專競賽，實際執行企劃書撰寫並能主動規劃企劃書的進度，若進入全國決賽將能練習口語上台表達並與其他各校隊伍進行觀摩。",
+    "prerequisites": "Office文書處理能力",
+    "syllabus": {
+        "zh": "1.\t創業動機與構想<br>2.\t產品與服務內容<br>3.\t市場與競爭分析<br>4.\t行銷策略<br>5.\t財務規劃與風險分析<br>6.\t結論與投資效益<br>",
+        "en": "1. Entrepreneurship motivations and ideas<br>2. Product and service content<br>3. Market and competition analysis<br>4. Marketing Strategy<br>5. Financial planning and risk analysis<br>6. Conclusion and investment benefits<br>"
+    },
+    "weeklySchedule": "第一章 創業動機與構想-研究背景、研究目的(問題)、研究設計(架構)<br>第二章產品與服務內容<br>第三章市場與競爭分析STP、PEST、SWOT、五力分析<br>第四章行銷策略<br>第五章財務規劃與風險分析:預估企劃案成本、預期效益、預估報表、投資收益與風險分析<br>第六章結論<br>第七章企劃進度<br>第八章企劃名稱與團隊名稱創意發想<br><br>進度將配合競賽時程<br>",
+    "exams": {
+        "midterm": "報告",
+        "final": "報告",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解企劃製作程序並尋找創意商機",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用電腦文書軟體進行企劃報告",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能將企劃方法與財務專業知識應用於三創競賽",
+            "teachingMethods": [
+                "STEM教學法"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能針對企劃案進行報告與解說",
+            "teachingMethods": [
+                "成果驗收",
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "利用團隊合作、責任分派與進度審視，將企劃案逐步完成",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "古禎彥，行銷企劃理論與實務，第二版，全華圖書公司，2020.",
+    "teachingSoftware": "flipclass",
+    "rules": "修課學生均必須參加創新創意創業等競賽或遊程設計等競賽，若入圍決賽則必須參加決賽。<br>競賽入圍複賽，依學校規定核銷差旅費。團體競賽成績70%，個人作業與表現成績30%(或與學生討論後決定)<br>附註：根據本系專題製作辦法，若大三專題成員於大三下或大四上參加企劃報告進入決賽上台簡報，可抵專題報告，仍須與專題老師討論決定"
+}

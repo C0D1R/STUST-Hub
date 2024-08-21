@@ -1,0 +1,100 @@
+{
+    "code": "1GM00W01",
+    "name": {
+        "zh": "獨立研究(A)",
+        "en": "Independent Study (A)"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研經管三甲"
+    ],
+    "instructors": [
+        "黃仁鵬"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The subject aims to provide students the capability to engage an independent study on the topic assigned by his/her advisor. It will facilitate students’ research skills and experience as well as their knowledge on the topic.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Students need to complete the following tasks of the course, including<br>1. working with the advisor to form the research topic, or on the assigned topic by the advisor,<br>2. engaging a comprehensive literature survey of the topic,<br>3. structuring the report for the research topic, and<br>4. writing a report of the study, and publishing it at a peer-reviewed international academic conference.<br>",
+        "en": "Students need to complete the following tasks of the course, including<br>1. working with the advisor to form the research topic, or on the assigned topic by the advisor,<br>2. engaging a comprehensive literature survey of the topic,<br>3. structuring the report for the research topic, and<br>4. writing a report of the study, and publishing it at a peer-reviewed international academic conference.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能獨立進行文獻探討",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對研究主題構思研究報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能完成撰寫一份研究報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養批判性思考和整合能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

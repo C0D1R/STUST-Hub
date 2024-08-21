@@ -1,0 +1,115 @@
+{
+    "code": "1FQ01X01",
+    "name": {
+        "zh": "教育經營實務研究",
+        "en": "Practical Research on Educational Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專教經二甲"
+    ],
+    "instructors": [
+        "王揚智"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第5節",
+            "location": "N107"
+        },
+        {
+            "day": "週六",
+            "period": "第6節",
+            "location": "N107"
+        },
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "N107"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "當前教育、學校經營的重要課題，主要圍繞在如何提升學校行政效能及改進學校教育成效。綜觀近年來新的教育思潮與教育革新，十分強調學校自主改革與學校本位管理。處在資訊化、科技化、智慧化、多元化、國際化與提倡全齡教育的終身學習社會，教育與學校面對各項變遷與挑戰，如何進行符應發展的教育革新、學校教育革新與學校行政革新，更顯重要性與迫切性。本課程主要內容分為: 教育行政的核心理念、現代化的教育行政行為、教育行政發展的趨勢、學校教育與行政革新的理論基礎、成功的學校行政領導、學校本位管理與學校教育革新、我國學校教育與行政革新的計畫和策略、教育人事、教育經費、教育法令、教育公共關係…等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程主要內容大綱分為: 教育行政的核心理念、現代化的教育行政行為、教育行政發展的趨勢、學校教育與行政革新的理論基礎、成功的學校行政領導、學校本位管理與學校教育革新、我國學校教育與行政革新的計畫和策略、教育人事、教育經費、教育法令、教育公共關係…等。<br>一、教育行政的核心理念<br>(一)組織思想<br>(二)作決定理論<br>(三)領導理論<br>(四)溝通理論<br>二、現代化的教育行政行為<br>(一)現代化教育行政運作的理念<br>(二)現代化教育行政行為的歷程<br>(三)現代化教育行政行為的特色<br>三、教育行政發展的趨勢<br>(一)強調民主化的行政運作<br>(二)重視科學化的計量技術<br>(三)追求精緻化的過程積效<br>(四)專業化的行政發展<br>四、學校教育與行政革新的理論基礎<br>(一)學校教育革新的研究內涵<br>(二)學校本位管理的理論內涵<br>(三)學校教育與行政革新理論的發展趨勢<br>五、成功的學校行政領導<br>(一)成功學校行政領導的意義<br>(二)學校行政領導的原則<br>(三)成功學校行政領導者應有的作法<br>六、學校本位管理與學校教育革新<br>(一)教育鬆綁與學校本位改革<br>(二)學校本位改革的主要策略<br>(三)學校本位管理的高參與模式<br>七、學校教育與行政革新的計畫和策略<br>(一)我國教育改革政策與學校教育革新內涵<br>(二)各國學校教育與行政革新的共同趨勢<br><br>八、教育人事<br>(一)教育人事的意義與行政原則<br>(二)教育人員的培育與任用<br>(三)教育人員的專業化發展與其他教育人事業務<br>九、教育經費<br>(一)教育經費的來源<br>(二)教育經費的分配<br>(三)教育經費的運用與考核<br>十、教育法令<br>(一)教育法令的性質與種類<br>(二)教育法令制訂的過程與影響因素<br>(三)教育法令制訂的原則<br>十一、教育公共關係<br>(一)教育公共關係的意涵與必需性<br>(二)教育公共關係的理論基礎<br>(三)教育公共關係的核心任務",
+        "en": "The main content outline of this course is divided into: the core concepts of educational administration, modern educational administrative behavior, the development trend of educational administration, the theoretical basis of school education and administrative innovation, successful school administrative leadership, school-based management and school education innovation, China Plans and strategies for school education and administrative reform, educational personnel, education funding, education laws, education public relations, etc. <br>1. Core Concepts of Educational Administration <br>2. Modern educational administrative behavior <br>3. Trends in the development of educational administration<br>4. Theoretical basis of school education and administrative innovation <br>5. Successful school administrative leadership <br>6. School-based management and school education innovation<br>7. Plans and strategies for school education and administrative innovation <br>8. Education and personnel <br>9. Educational Funds <br>10. Education Act <br>11. Educational Public Relations <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "習得教育經營、學校教育與行政革新的理論基礎，運用於教育經營與研究。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解社會發展脈動與教育行政發展的趨勢，能適時提出因應之道促進教育發展。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解學校行政領導與溝通理論與運用策略，成為優秀的教育經營者做準備。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "對學校教育計畫、教育人事、教育經費、教育法令、教育公共關係等充分理解並能運用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

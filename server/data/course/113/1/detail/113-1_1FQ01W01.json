@@ -1,0 +1,115 @@
+{
+    "code": "1FQ01W01",
+    "name": {
+        "zh": "課後照顧輔導產業經營實務研究",
+        "en": "Practical research on after-school care and tutoring industry management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專教經一甲"
+    ],
+    "instructors": [
+        "梁鎮菊"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第5節",
+            "location": "N204"
+        },
+        {
+            "day": "週六",
+            "period": "第6節",
+            "location": "N204"
+        },
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "N204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "「課後照顧輔導產業經營實務研究」課程旨在提供學生深入了解課後照顧輔導產業的相關知識和實務技能。本課程將探討課後照顧輔導服務的核心概念、專業技能，以及管理與運營方面的最佳實踐。課程內容包括但不限於以下方面：<br><br>1.課程背景與介紹： 簡介課後照顧輔導產業的發展歷程、重要性以及未來趨勢。<br>2.課後輔導服務的基本概念： 包括課後照顧的定義、目標、範疇，以及相關的法規和政策。<br>3.專業知識與技能： 學習提供課後輔導服務所需的專業知識和技能，如情緒支持、課程規劃、活動設計等。<br>4.市場分析與策略： 分析課後照顧輔導產業的市場需求與競爭格局，制定適切的市場策略。<br>5.倫理與溝通： 探討課後輔導服務中的倫理考量，以及建立良好溝通與互動的技巧。<br>6.組織管理與運營： 瞭解課後照顧機構的管理模式、運營機制，包括人力資源管理、財務管理等。<br>7.問題解決與實務應用： 通過個案分析和實際情境模擬，培養學員解決問題的能力，並將所學應用於實際工作中。<br>通過本課程的學習，學生將能夠全面理解課後照顧輔導產業的運作機制，具備提供專業服務所需的知識和技能，並能夠在實務工作中應用所學知識解決問題，提升服務品質與組織效能。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一週\t放學後第二個家-課後照顧中心課程導讀說明\t<br>第二週\t課後照顧服務人員180小時專業訓練課程說明\t<br>第三週\t課後服務照顧的內涵\t<br>第四週\t教保領域-兒童發展與輔導\t<br>第五週\t教保領域-兒童發展與輔導\t<br>第六週\t教保領域-課程規劃與輔導\t<br>第七週\t教保領域-學習指導\t<br>第八週\t教保領域-班級經營\t<br>第九週\t期中考\t<br>第十週\t衛保領域-健康照護\t<br>第十一週\t衛保領域-生活照顧\t<br>第十二週\t行政管理領域-經營與管理\t<br>第十三週\t行政管理領域-專業教師及人員與成長\t<br>第十四週\t行政管理領域-教育資源利用\t<br>第十五週\t課後照顧服務之現況與相關問題之討論\t<br>第十六週\t規畫課程報告(一)團康遊戲活動、團康體能設計實作\t<br>第十七週\t規畫課程報告(二)課程教學科目設計實作\t<br>第十八週\t期末考\t<br>",
+        "en": "Week 1: Introduction to After-School Care Center Program Guide<br>Week 2: Explanation of the 180-hour Professional Training Course for After-School Care Service Personnel<br>Week 3: The Essence of After-School Care Services<br>Week 4: Educational and Care Field - Child Development and Counseling<br>Week 5: Educational and Care Field - Child Development and Counseling<br>Week 6: Educational and Care Field - Curriculum Planning and Counseling<br>Week 7: Educational and Care Field - Learning Guidance<br>Week 8: Educational and Care Field - Classroom Management<br>Week 9: Midterm Examination<br>Week 10: Health and Care Field - Health Care<br>Week 11: Health and Care Field - Daily Care<br>Week 12: Administrative Management Field - Operation and Management<br>Week 13: Administrative Management Field - Professional Teacher and Personnel Growth<br>Week 14: Administrative Management Field - Utilization of Educational Resources<br>Week 15: Discussion on the Current Situation of After-School Care Services and Related Issues<br>Week 16: Curriculum Planning Presentation (1) - Recreational Game Activities, Recreational Physical Fitness Design and Implementation<br>Week 17: Curriculum Planning Presentation (2)Curriculum Teaching Subject Design and Implementation<br>Week 18: Final Examination<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解課後照顧輔導產業的基本概念和法規。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養課後輔導服務的專業知識與技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析市場需求與競爭格局，發展策略思維。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "強化專業倫理與溝通技巧，提升服務品質。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

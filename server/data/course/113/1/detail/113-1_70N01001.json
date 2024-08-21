@@ -1,0 +1,139 @@
+{
+    "code": "70N01001",
+    "name": {
+        "zh": "行銷管理",
+        "en": "Marketing Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜二技企管三甲"
+    ],
+    "instructors": [
+        "黃建中"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "S413"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "S413"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "S413"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "行銷管理所探討者，即為企業如何透過市場區隔變數界定目標市場，並進行產品價值的思考與定位，繼而擬訂落實產品定位之4P(產品、價格、訂價、促銷)策略。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 瞭解行銷的角色<br>2. 行銷資訊與行銷研究<br>3. 掌握市場機會<br>4. 塑造產品價值<br>5. 促進產品流通<br>6. 傳達產品價值<br>7. 行銷執行與控制",
+        "en": "1. Introduction to marketing<br>2. Marketing information system and marketing research<br>3. Identifying market opportunity<br>4. Creating the value of product<br>5. Product promotion<br>6. Delivering product value<br>7. Marketing control"
+    },
+    "weeklySchedule": "本課程乃有系統地探討行銷管理理論及其應用，強調重要觀念的解析，並以國內外實例與生活見聞來解釋學理的應用。藉以提升同學對行銷議題的興趣，並培養同學分析與解決行銷問題的能力。<br>1.瞭解行銷的意義與內涵<br>2.透視行銷環境<br>3.維護行銷道德<br>4.執行行銷研究<br>5.分析消費者行為<br>6.分析組織購買行為<br>7.發展市場區隔、目標市場與定位<br>8.管理產品與推出新產品<br>09發展服務與體驗行銷",
+    "exams": {
+        "midterm": "筆試",
+        "final": "報告",
+        "other": "日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解行銷管理的意義與內涵",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解人力資源管理與行銷管理之相互關聯性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解行銷活動中消費者與企業的關連性，並分析現有市場中消費者購買行為",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能了解現行企業如何運用理論制定符合市場機制之行銷管理模式",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解市場價格機制對行銷管理之重要性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解現行企業如何擴展或創新既有市場，達到永續經營之目的",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

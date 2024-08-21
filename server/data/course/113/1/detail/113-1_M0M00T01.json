@@ -1,0 +1,110 @@
+{
+    "code": "M0M00T01",
+    "name": {
+        "zh": "餐旅專題討論(一)",
+        "en": "Seminar(I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "碩研餐旅一甲"
+    ],
+    "instructors": [
+        "黃旭怡"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "T0602"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0602"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "指導學生進行論文搜集與研讀,並訓練學生研擬,構思,與研擬論文計畫書",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "學術研究之重要性<br>如何蒐集學術論文<br>研讀學術論文之重要性與方法<br>介紹論文計畫書之重要性,結構與寫作方式<br>論文研讀與報告<br>綜合討論",
+        "en": "To introduce the improtant of academic research <br>To introduce how to search and collect research papers<br>To introduce the improtant and process of reading papers<br>Talking about the process of writing a proposition<br>Students make presentations<br>Discussions and comments"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備創意思考、發現問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能綜合所學，具備計畫、組織、執行與評估管控之能力並完成餐旅相關專案計畫或研究。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "解決餐旅管理相關問題之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

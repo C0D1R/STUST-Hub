@@ -1,0 +1,132 @@
+{
+    "code": "60D32O01",
+    "name": {
+        "zh": "區域經貿分析",
+        "en": "Regional economic and trade analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國企三甲",
+        "四技國企三乙"
+    ],
+    "instructors": [
+        "劉炳欽"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "S514"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "S514"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S514"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在培養同學對國際經貿環境的觀察力與應變能力，解析經貿發展的背景、概念與趨勢，引領同學認識當今各大區域經貿市場發展的歷程，分析區域經貿市場若干現存與潛在的問題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元1：氣候變遷、能源與永續發展與區域經貿發展背景<br>單元2：世紀論戰與經貿整合理論<br>單元3：區域經貿的演化與發展<br>",
+        "en": "Unit 1 Climate change, Energy , Sustainable Development , Regional Economic and Trade <br>       Development Background<br>Unit 2 Century Controversy and Economy Integration Theory<br>Unit 3 Evolution and Development of Regional Economic and Trade<br>"
+    },
+    "weeklySchedule": "Week 1 課程及大綱介紹<br>       第1章 世界經濟的全球化<br>Week 2 第1章 世界經濟的全球化<br>Week 3 第2章 人口與世界經濟 <br>Week 4 第2章 人口與世界經濟 <br>Week 5 第3章 資源與環境 <br>Week 6 第3章 資源與環境 <br>Week 7 補ch1 區域經濟集團<br>Week 8 補ch1 區域經濟集團<br>Week 9 期中考<br>Week 10 第7章 國際貿易與投資<br>Week 11 第7章 國際貿易與投資<br>Week 12 章 8章 國際貿易型態<br>Week 13 章 8章 國際貿易型態<br>Week 14 補ch2 世界經濟的區域集團化<br>Week 15 補ch2 世界經濟的區域集團化<br>Week 16 個案討論及分組報告<br>Week 17 個案討論及分組報告<br>Week 18 期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "個案討論及分組報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解區域經貿制度的演化與發展",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能以創新作為有效地解決問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "對國際經貿環境的觀察力與應變能，能以正向思考來因應環境的變化。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "提高理性思辨面臨的抉擇與難題，展現反省、理性思維及批判的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "世界經濟導論：全球化的生產與貿易",
+        "author": "杜震華",
+        "publisher": "華泰",
+        "year": "2016",
+        "ISBN": "9789869243575",
+        "edition": "三版"
+    },
+    "referenceBooks": "Chang, Ha-Joon, 2007, Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism,胡瑋珊（譯），『富國的糖衣：揭穿自由貿易的真相』，博雅書屋出版，2010",
+    "teachingSoftware": "",
+    "rules": "專心課堂討論，請勿滑手機"
+}

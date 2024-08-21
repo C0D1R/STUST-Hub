@@ -1,0 +1,129 @@
+{
+    "code": "G0D10401",
+    "name": {
+        "zh": "動態程式語言",
+        "en": "Dynamic Programming Language"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資工三甲",
+        "四技資工三乙",
+        "四技資工三丙"
+    ],
+    "instructors": [
+        "李宗儒"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "C105"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "C105"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "C105"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "動態語言就是一種在運行時可以改變其結構的語言：例如新的函數可以被引進，已有的函數可以被刪除等在結構上的變化。眾所周知的ECMAScript(JavaScript)便是一個動態語言，除此之外如Ruby、Python等也都屬於動態語言，而C、C++等語言則不屬於動態語言。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Understand Action script syntax and how it works<br>Use event handlers to create a variety of activities<br>Use a built-in classes, properties, and methods<br>Use functions<br>Create custom classes<br>Use conditional logic<br>Use loops<br>Use components<br>Understand object-oriented techniques<br>Use Bitmap Data class<br>Use XML with flash<br>Use your application to communicate with a third-party web service<br>Use the ExternalInterface class to communicate with JavaScript<br>Create an application that uses a third-party tool to enhance its functionality beyond flash's built in capabilities",
+        "en": "Understand Action script syntax and how it works<br>Use event handlers to create a variety of activities<br>Use a built-in classes, properties, and methods<br>Use functions<br>Create custom classes<br>Use conditional logic<br>Use loops<br>Use components<br>Understand object-oriented techniques<br>Use Bitmap Data class<br>Use XML with flash<br>Use your application to communicate with a third-party web service<br>Use the ExternalInterface class to communicate with JavaScript<br>Create an application that uses a third-party tool to enhance its functionality beyond flash's built in capabilities"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解動態程式語言設計的方法與原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用動態程式語言設計執行及解決軟體應用問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "針對動態程式語言問題，有效辨識適當的解決方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "擁有程式設計專業責任與工程倫理的觀念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "可使用英文解讀國外技術文件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

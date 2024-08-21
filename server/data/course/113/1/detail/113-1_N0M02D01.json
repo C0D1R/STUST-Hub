@@ -1,0 +1,163 @@
+{
+    "code": "N0M02D01",
+    "name": {
+        "zh": "供應鏈金融與區塊鏈應用",
+        "en": "Supply Chain Finance and Blockchain Application"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩全球經管一乙"
+    ],
+    "instructors": [
+        "洪崇文"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "E0602"
+        },
+        {
+            "day": "週三",
+            "period": "第7節",
+            "location": "E0602"
+        },
+        {
+            "day": "週三",
+            "period": "第8節",
+            "location": "E0602"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "供應鏈金融是金融機構運用供應鏈完整資訊對於大型中心廠與中小企業供應商所提供的整合型融資，本課程介紹供應鏈金融最新實務與發展，培養學生未來從事本業務的基礎能力。<br>因應全球化的趨勢及資訊科技的進步，無國界的經濟體制逐漸成形；企業發展國際營運時，由於生產據點散佈於全球，加上整合配銷通路間整體運作程序與實際需求，企業必須能協調與整合全球性之產銷活動，其中產品的誕生，往往需要經由供應鏈以接力的模式一步一步完成出貨，而這中間需要的諸如營銷、原料、輸送等各個流程都會需要專門的公司互相協作；然而，在物流專業化的同時，也往往帶出複雜的溝通問題，像是貨品的數量、價格的確定，往往都需要多次往來與文件確認才能成功運轉。因此許多公司在進行供應鏈交易上效率非常低落，然而在許多公司仍苦惱於使用傳統的管理方式經營供應鏈的同時，區塊鏈已為全球供應鏈掀起新革命。<br>近年來，區塊鏈技術的研究與應用呈現出大量增長的態勢，被認為是繼大型機、個人電腦、網際網路、移動/社交網絡之後的第五次顛覆式創新，依據智庫顧能（Gartner）估計，全球區塊鏈在2025年將有1700億美元（約5.1兆台幣）的商機，是台灣半導體產值的兩倍，在2030年邁入成熟期前，年成長率近60%，而在區塊鏈大量應用於金融業的同時，也為供應鏈構築嶄新商業模式。籍由區塊鏈技術，把資料延伸至整體供應鏈成員，為供應鏈成員創建了一條清晰的文件流程，公司與公司之間享受著透明的共享訊息，也相對地能減緩在發票或訂單上出現的錯誤，聚焦於提升企業效率。而去中間化交易，防偽與憑證，溯源與安心履歷四大應用面，打造智慧供應鏈提升企業競爭力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.供應鏈金融簡介<br>2.貿易融資介紹<br>3.應收帳款承購介紹<br>4.供應鏈金融風險管理<br>5.供應鏈金融對-供應商觀點<br>6.供應鏈金融對-買方觀點<br>7.供應鏈金融對-金融機構觀點<br>8.供應鏈金融平台<br>9.數位銀行介紹<br>10. 供應鏈整合介紹<br>11. 供應鏈管理價值與創造<br>12. 供應鏈需求作業管理<br>13. 區塊鏈源起與介紹<br>14. 區塊鏈技術運作原理<br>15. 區塊鏈商業應用-供應鏈去中間化交易",
+        "en": "1. Introduction to Supply Chain Finance<br>2. Introduction to Trade Finance<br>3. Factoring<br>4. Risk Management of Supply Chain Finance<br>5. Supply Chain Finance – Suppliers’ View<br>6. Supply Chain Finance – Buyers’ View<br>7. Supply Chain Finance – Banks’ View<br>8. Supply Chain Finance Platform<br>9. Digital Banking<br>10. Introduction to supply chain integration<br>11. Supply chain management value and creation<br>12. Supply chain demand operation management<br>13. Origin and introduction of blockchain<br>14. Operation principle of blockchain technology<br>15. Blockchain business application-supply chain de-intermediate transaction"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能整合供應鏈金融相關知識、觀念與原理，實際應用於各種商業環境。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用資訊科技工具於供應鏈金融。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "對於供應鏈金融能進行創意思考。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解國際供應鏈金融決策所產生之影響。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓學生學習與瞭解全球供應鏈策略與規劃。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以企業全球化之觀點，探討現今企業在供應鏈管理上所面臨的問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由實務操作，嘗試透過區塊鏈的建置，模擬供應鏈去中間化交易、溯源、防偽等功能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "解決供應鏈所面臨效率不彰的問題，築起供應鏈成員間之「數位信任機制」。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

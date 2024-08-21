@@ -1,0 +1,129 @@
+{
+    "code": "70D23O01",
+    "name": {
+        "zh": "企業資源規劃(生管)",
+        "en": "Enterprise Resource Planning: Production Management System"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技企管四甲",
+        "四技企管四乙"
+    ],
+    "instructors": [
+        "丁志宏"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S209A"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "S209A"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "S209A"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.ERP應用師認證",
+        ""
+    ],
+    "description": "本課程是針對企業資源規劃系統中，生產管理模組各系統的介紹。透過理論介紹與實務操作，以了解生產與作業管理之基本觀念，並熟悉ERP系統生管作業的操作。此外，本課程亦涵蓋ERP系統架構與導入的觀念複習，協助學生通過生管模組的應用師認證。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. ERP基本操作<br>2. ERP生產模組基本資料收集<br>3. 產品結構管理與操作<br>4. 生產製令流程與操作<br>5. 託外製令流程與操作<br>6. 需求計畫流程(LRP)與操作<br>7. 製程管理與操作",
+        "en": "1. Practice of basic ERP functions.<br>2. Collection of basic data for ERP production module.<br>3. Management of product structure and practice.<br>4. Manufacturing order process and practice .<br>5. Outsourcing process and practice.<br>6. Demand plan process (LRP) and practice.<br>7. Management of manufacturing process and practice."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養ERP之基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解訂單、生產規劃與控制、外包、採購等企業營運流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "實務操作ERP生管模組",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習ERP之導入程序",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養團隊合作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

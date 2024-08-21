@@ -1,0 +1,127 @@
+{
+    "code": "28D05201",
+    "name": {
+        "zh": "電機機械專論",
+        "en": "Electric Machinery Analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電資三甲"
+    ],
+    "instructors": [
+        "陳盛基"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "I0707"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "I0707"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "I0707"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "電機機械之原理<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.Introduction to machinery principle<br>2.Transformers<br>3.Introduction to power electronics<br>4.Ac machinery fundamentals<br>5.Synchronous Generators<br>6.Synchronous motors<br>7. Induction motors",
+        "en": "1.Introduction to machinery principle<br>2.Transformers<br>3.Introduction to power electronics<br>4.Ac machinery fundamentals<br>5.Synchronous Generators<br>6.Synchronous motors<br>7. Induction motors"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學得旋轉電機轉換機械能和電能的公式嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解變壓器T型等效電路嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道同步電機的模型和感應電機的模型嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道直流電機的轉子為電樞、定子為磁極嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道步進馬達是一種可變磁阻電機嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

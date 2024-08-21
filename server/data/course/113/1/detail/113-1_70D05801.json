@@ -1,0 +1,181 @@
+{
+    "code": "70D05801",
+    "name": {
+        "zh": "統計學(一)",
+        "en": "Statistics (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技企管二甲"
+    ],
+    "instructors": [
+        "賴明材"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "S315"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "S315"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "S315"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.保險證照",
+        "2.證券期貨"
+    ],
+    "description": "介紹統計方法的基本概念與Excel軟體分析統計資料的操作與解讀。內容包括資料的蒐集與整理，分析解釋等敘述統計及由樣本推論母體的估計檢定，迴歸分析，變異數分析，無母數統計，時間序列分析等。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.  緒論 <br>2.  資料蒐集與整理<br>3.  資料敘述與表現<br>4.  機率概論<br>5.  間斷性隨機變數<br>6.  連續性隨機變數<br>",
+        "en": "1. Introduction<br>2. Collection and presentation of data<br>3. Description and summary of data<br>4. Probability<br>5. Discrete random variable<br>6. Continuous random variable"
+    },
+    "weeklySchedule": "第一週\t緒論<br>第二週\t統計資料的蒐集與整理(1)<br>第三週\t統計資料的蒐集與整理(2)<br>第四週\t統計資料的蒐集與整理(3)<br>第五週\t機率(1)、小考1<br>第六週\t機率(2)<br>第七週\t機率(3)<br>第八週\t小考2、期中複習<br>第九週\t期中考試週  <br>第十週\t隨機變數與機率分配(1)<br>第十一週\t隨機變數與機率分配(2)<br>第十二週\t隨機變數與機率分配(2)<br>第十三週\t小考3<br>第十四週\t抽樣分配(1)<br>第十五週\t抽樣分配(2)<br>第十六週\t抽樣分配(2)<br>第十七週\t小考4、期末複習<br>第十八週\t期末考試週<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解資料分析的統計方法與基本學理",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能針對管理問題有效辨識適當的統計方法",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能應用統計方法分析管理實務資料",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用Excel 軟體分析資料並正確解讀報表",
+            "teachingMethods": [
+                "實作演練",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現資料分析結果，讓不懂統計專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "現代統計學",
+        "author": "張紘炬、吳淑妃、吳忠武",
+        "publisher": "華泰書局",
+        "year": "2014",
+        "ISBN": "",
+        "edition": "四版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "EXCEL",
+    "rules": ""
+}

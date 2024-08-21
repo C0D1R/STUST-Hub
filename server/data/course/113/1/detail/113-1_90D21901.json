@@ -1,0 +1,116 @@
+{
+    "code": "90D21901",
+    "name": {
+        "zh": "多媒體實務與應用",
+        "en": "Practice and Application of Multimedia"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資管二甲"
+    ],
+    "instructors": [
+        "王博文"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "E0403"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "E0403"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "E0403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.ACA Photoshop CS3",
+        ""
+    ],
+    "description": "By practicing homework assignments and doing the semester project, students will learn the skills of the multimedia softwares which include Photoshop，CorelDraw，Flash and Dreamweaver。透過指定作業及學期專題的練習，讓學生學習到Photoshop，CorelDraw，Flash and Dreamweaver的功能。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.Photshop： image editing<br>2.CorelDraw：illustrator design<br>3.Flash：元件使用與 管理，匯入與匯出，動畫製作，Action Script指令等功能<br>4.Dreamweaver ：超連結，表格，CSS等功能)。<br>",
+        "en": "1.Photshop： image editing<br>2.CorelDraw： illustrator design<br>3.Flash：Usage of elements, Import and Export, Acton Script, Making Animation 4.Dreamweaver ：Hyperlink, table, CSS。<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "應用多媒體套裝軟體來進行軟體開發的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "利用多媒體套裝軟體可以讓學生熟練實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使用多媒體套裝軟體來設計實用的網站",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "製作有創新性的多媒體作品",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

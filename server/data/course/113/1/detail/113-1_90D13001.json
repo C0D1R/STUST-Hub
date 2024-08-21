@@ -1,0 +1,129 @@
+{
+    "code": "90D13001",
+    "name": {
+        "zh": "網路作業系統",
+        "en": "Network operation system"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資管二甲",
+        "四技資管二乙",
+        "四技資管二丙"
+    ],
+    "instructors": [
+        "陳志達"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "T0709"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "T0709"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "T0709"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要介紹Linux網路作業系統相關的技術與觀念，對於各種伺服器的架設與管理亦是本課程的重點。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. Linux的基本觀念與安裝<br>2. 檔案系統介紹<br>3. 帳號管理<br>4. 磁碟分割與套件管理<br>5. 系統維護與Shell的使用<br>6. 網路基礎與TCP/IP研究<br>7. 常用伺服器架設與管理<br>8. Linux防火牆與通訊安全<br>9. 路由管理<br>",
+        "en": "1. Basic Conecpt and installation about Linux NOS.<br>2. Introduction to File System.<br>3. Account Management.<br>4. Disk Partition and Package management.<br>5. System maintanance and using SHELL.<br>6. Introduction to Network and TCP/IP.<br>7. Various server setup and management.<br>8. Firewall and sercurity about Linux.<br>9. How to set Routing principle."
+    },
+    "weeklySchedule": "第一~二週 Linux的基本觀念與安裝<br>第三~三週 檔案系統介紹<br>第四~六週 帳號管理<br>第七~八週 磁碟分割與套件管理<br>第九~九週  期中考<br>第十  ~十一週 系統維護與Shell的使用<br>第十二~十二週 網路基礎與TCP/IP研究<br>第十三~十四週 常用伺服器架設與管理<br>第十五~十六週 Linux防火牆與通訊安全<br>第十七~十七週 路由管理<br>第  十八   週 期末考<br>",
+    "exams": {
+        "midterm": "上機考",
+        "final": "上機考",
+        "other": "小考、作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "應用與規畫Linux作業系統開發的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "操作與管理Linux作業系統主機能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建構與設計Linux作業系統的實務技能",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "應用與操作Linux作業系統能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能依系統需求建構與設計Linux作業系統",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "IT 工程師必需！Linux 快速入門實戰手冊",
+        "author": "施威銘研究室",
+        "publisher": "旗標出版社",
+        "year": "2022",
+        "ISBN": "9789863127345",
+        "edition": "F2127"
+    },
+    "referenceBooks": "自製教學網站，網址 http://120.117.98.146/nos",
+    "teachingSoftware": "Linux OS and applications",
+    "rules": "1. 請遵守上課不戴耳機、不講話與不睡覺的三不要求，若無法同意和遵守，請不要修課。"
+}

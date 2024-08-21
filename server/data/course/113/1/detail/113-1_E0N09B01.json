@@ -1,0 +1,127 @@
+{
+    "code": "E0N09B01",
+    "name": {
+        "zh": "進階日文(一)",
+        "en": "Advanced Japanese  I"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技應日二甲"
+    ],
+    "instructors": [
+        "陳亭希"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "T0109"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "T0109"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "T0109"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "語言學習聽、說、讀、寫中，佔有極重要位置的文章「解讀」上，雖是「閱讀」但須綜合所具備能力才能達成正確理解，是屬於實力的培訓基礎課程。 <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(A組)<br>1.使役及被動複習<br>2.比較<br>3.樣態‧類似<br>4.程度‧變化<br>5.對比‧逆接<br>6.傳聞<br>7.時間節<br>8.期待‧預測<br>9.原因‧理由",
+        "en": "(A組)<br>1.使役及び受け身文の複習<br>2.比較表現<br>3.様子‧類似表現<br>4.程度‧変換を表す表現<br>5.対比と逆接<br>6.伝聞を表す表現<br>7.「とき」節<br>8.期待‧予測<br>9.原因‧理由<br><br>(B組)<br>第一単元 第２課　鉄腕アトムを目指せ<br>第二単元 第３課　食生活を見直そう<br>長文読解練習１  「三つの異文化体験」<br>第三単元 第４課　4つ目のR<br>第四単元 第５課　事柄を加える（１）プレーパーク<br>第五単元 第６課　言い換える・まとめる　実感<br>長文読解練習２　 長寿国にふさわしい社会<br>第六単元 　      事柄を加える（２）　原因はどこに<br>第七単元 第7課　 時・場面を示す（２）　言葉の世界を楽しむ<br>第八単元 第8課   會話及句型<br>第九単元 第9課<br>(実際の状況により調整することがある,今学期は[完成篇]第九課までを予定している。)<br>C組<br>C組の学生は一年生の読解の授業で、基<br>本的にはN2レベルの文型を一通り習得<br>したため、更にN1レベルの読解文及び<br>文型を授業を進めることにします。<br>1.名詞修飾<br>2.推量の言い方<br>3.人や物の状態を表す言い方<br>4.希望・願望を表す言い方　<br>5.可能の言い方<br>6.意志を表す言い方<br>7.伝聞の言い方<br>8.許可と禁止の言い方<br>9.必要や義務の有無を表す言い方<br>(以上は参考のみで、場合によって調整すること<br>もあります。)<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "加強中級日語文閱讀能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養中級日語文章賞析能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "加強筆記整理能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練主題相關資料搜尋整理分析能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "銜接三年級就業學程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

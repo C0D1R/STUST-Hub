@@ -1,0 +1,116 @@
+{
+    "code": "G0M03001",
+    "name": {
+        "zh": "網路數位內容通訊技術與應用",
+        "en": "Technologies and Applications of Networking Multimedia Content"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研資工二甲"
+    ],
+    "instructors": [
+        "林榮三",
+        "洪國鈞"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "C202"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "C202"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "C202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "To help students to learn digital content technologies and applications over Internet",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "數位內容與家用網路之簡介<br>Digital Life Network Services and Media Technologies<br>家用網路技術與標準<br>家用網路服務平台<br>Techniques for Home Services and Applications<br>Retrieval and Storage of Multimedia Content<br>Multimedia Content Description Interface<br>DRM (Digital Right Management)<br>Applications and Technologies in Description of Multimedia Content<br>Image and Data Compression Basics",
+        "en": "Introduction to Digital Content and Home Network<br>Digital Life Network Services and Media Technologies<br>Home Network Technologies and Standard<br>Home Network Service Platform<br>Techniques for Home Services and Applications<br>Retrieval and Storage of Multimedia Content<br>Multimedia Content Description Interface<br>DRM (Digital Right Management)<br>Applications and Technologies in Description of Multimedia Content<br>Image and Data Compression Basics"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解數位內容與家用網路架構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使用家用網路多媒體服務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使用數位內容工具進行多媒體製作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使用家用網路相關的技術原理提出新構想的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

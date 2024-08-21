@@ -1,0 +1,127 @@
+{
+    "code": "90M07C01",
+    "name": {
+        "zh": "科技管理與專利實務",
+        "en": "Technology Management and Patent Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研資管一甲"
+    ],
+    "instructors": [
+        "謝佳宏"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0713"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0713"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0713"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要分成二部份,第一部份為基本的科技管理理論介紹與科技管理研究論文的研讀學習之理論課程;而第二部份則是介紹常見專利創意類型,專利檢索,解讀專利說明書,專利侵害鑑定,等以上但不限於上述議題之專利實務課程。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.科技策略管理<br>2.智慧財產權<br>3.創意類型與案例<br>4.專利檢索與國際專利分類<br>5.專利要件與專利案例<br>6.專利說明書之閱讀與解析<br>7.申請專利範圍之規劃與實例<br>8.專利寫作實務<br>",
+        "en": "1.Technology Management Strategy<br>2.Intellectual Property<br>3.Innovation Type and Case<br>4.Patent Search and Patent Classification<br>5.Patent Case Study<br>6.Patenet Document Reading and Explaining<br>7.Patent Claim Planning<br>8.Patenet Writing Practice<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解專利的基本理論與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用專利創作方法來探討與因應生活中的不便",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用專利來解決生活中的需求",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效呈現專利結果,透過文件來讓別人理解創作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解科技管理的基本理論與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

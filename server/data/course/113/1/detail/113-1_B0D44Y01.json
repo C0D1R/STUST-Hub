@@ -1,0 +1,116 @@
+{
+    "code": "B0D44Y01",
+    "name": {
+        "zh": "活動企劃",
+        "en": "Event Planning"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技休閒二甲",
+        "四技休閒二乙"
+    ],
+    "instructors": [
+        "楊智晶"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0608"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "T0608"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "T0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "由於時代潮流的變化，優質的休閒活動已是人們夢寐以求的休閒需求與期待。本課程希望能激發同學思考，提供有創意和高品質的休閒活動。透過授課和課堂討論，讓同學能了解活動企劃的核心、企劃元素、活動流程，執行過程中的重要考量以及危機處理的應變措施，最後能執行活動並符合消費者需求。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "活動企劃課程規劃<br>1. 為什麼要辦活動<br>2. 活動案例分享<br>3. 活動醞釀期<br>4. 撰寫活動企劃書<br>5. 活動廣宣計畫與製作<br>6. 提案與表達<br>7. 簡報技巧<br>8. 活動籌備與管理<br>9. 活動執行與控管<br>10. 禮賓工作<br>11. 活動司儀與主持<br>12. 活動結案報告撰寫",
+        "en": "1. Why do you want to hold an event?<br>2. Activity case sharing<br>3. Event incubation period<br>4. Write an event plan<br>5. Event promotion planning and production<br>6. Proposal and Expression<br>7. Presentation Skills<br>8. Event preparation and management<br>9. Activity execution and control<br>10. Concierge work<br>11. Event emcee and host<br>12. Activity closing report writing"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "由於時代潮流的變化，優質的休閒活動已是人們夢寐以求的休閒需求與期待。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "課程希望能激發同學思考，提供有創意和高品質的休閒活動。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過授課和課堂討論，讓同學能了解活動企劃的核心、企劃元素、活動流程，執行過程中的重要考量以及危機處理的應變措施，",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能執行活動並符合消費者需求。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

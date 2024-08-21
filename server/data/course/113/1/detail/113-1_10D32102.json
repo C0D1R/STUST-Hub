@@ -1,0 +1,115 @@
+{
+    "code": "10D32102",
+    "name": {
+        "zh": "物理",
+        "en": "Physics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技車輛一乙"
+    ],
+    "instructors": [
+        "莊鎧榤"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "R302"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "R302"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "R302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹物理學的基本工具，與物理現象的描述；包含向量運算介紹、運動學、動力學、功與能轉換，熱學等基本物理描述方法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "單元一:一維空間運動<br>1.位移, 2.速度, 3.加速度, 4.運動圖, 5.一維等加速度運動, 6.自由落體。<br><br>單元二:向量和二維空間運動<br>1. 向量與其性質, 2.向量的分量, 3. 二維空間的位移、速度與加速度, 4. 二維空間運動。<br><br>單元三:運動定律<br>1.力, 2.牛頓第一運動定律, 3. 牛頓第二運動定律, 4. 牛頓第三運動定律, 5. 牛頓運動定律的應用, 6.摩擦力。<br><br>單元四:功<br>1.功, 2.動能與功能原理, 3.重力位能, 4.彈力位能, 5.能量守恆, 6.功率。<br><br>單元五:動量與碰撞<br>1. 動量與衝量, 2. 動量守恆, 3. 碰撞。",
+        "en": "Unit 1: Motion in One Dimension<br>1. Displacement<br>2. Velocity<br>3. Acceleration<br>4. Motion Diagrams<br>5. One-Dimensional Motion with Constant Acceleration<br>6. Freely Falling Object<br><br>Unit 2: Vectors and Two-Dimensional Motion<br>1. Vectors and Their Properties<br>2. Components of a Vector<br>3. Displacement,Velocity,and Acceleration in Two Dimensions<br>4. Motion in Two Dimensions<br><br>Unit 3: The Laws of Motion<br>1. Forces<br>2. Newton's First Law<br>3. Newton's Second Law<br>4. Newton's Third Law<br>5. Applications of Newton's Law<br>6. Forces of Friction<br><br>Unit 4: Energy<br>1. Work<br>2. Kinetic Energy and the Work-Energy Theorem<br>3. Gravitational Potential Energy<br>4. Spring Potential Energy<br>5. Systems and Energy Conservation<br>6. Power<br><br>Unit 5: Momentum and Collisions<br>1. Momentum and Impulse<br>2. Conservation of Momentum<br>3. Collisions"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解基本物理觀念與其應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備從事工程科學所需觀察、分析、思考之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將基本物理學之原理應用於工程及日常生活中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由撰寫物理作業，訓練學生處理問題的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

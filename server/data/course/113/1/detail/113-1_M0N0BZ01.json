@@ -1,0 +1,105 @@
+{
+    "code": "M0N0BZ01",
+    "name": {
+        "zh": "職場實務探索(三)",
+        "en": "Exploration of Workplace Practice(Ⅲ)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技餐旅四甲"
+    ],
+    "instructors": [
+        "梁仲正"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第11節",
+            "location": "T0310"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學生可藉由至企業進行實務技能訓練，提升學生於職場的適應力與競爭力，以瞭解相關專業領域之實務工作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "分組討論或口頭報告與職場學習有關的主題",
+        "en": "This course focuses on the knowledge of restaurant industry trend concept. Students will develop<br>basic ideas of restaurant business when working in the hospitality industry."
+    },
+    "weeklySchedule": "第一週  課程模式說明<br>第二週   職場 心得報告<br>第三週   職場心得報告<br>第四週   職場心得報告<br>第五週   職場心得報告<br>第六週   職場心得報告<br>第七週   職場心得報告<br>第八週   職場心得報告<br>第九週  期中考週<br>第十週    職場心得報告<br>第十一週   職場心得報告<br>第十二週   職場心得報告<br>第十三週   職場心得報告<br>第十四週   職場心得報告<br>第十五週   職場心得報告<br>第十六週  職場心得報告<br>第十七週  職場心得報告<br>第十八週  期末考週<br><br>",
+    "exams": {
+        "midterm": "期中交電子報告",
+        "final": "交電子報告",
+        "other": "交電子報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能綜合所學，展現餐旅專業技術、能力於餐旅實務工作中。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能綜合所學，展現餐旅專業技術、能力於餐旅實務工作中。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "老師編製中英文講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "老師編製中英文講義",
+    "teachingSoftware": "電腦 投影機 教學網頁  flip 數位學習",
+    "rules": "期中交電子報告"
+}

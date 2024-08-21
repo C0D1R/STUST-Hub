@@ -1,0 +1,115 @@
+{
+    "code": "30D1CX01",
+    "name": {
+        "zh": "物聯網概論與應用",
+        "en": "Introduction to Internet of Things"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子二丙"
+    ],
+    "instructors": [
+        "吳宗勲"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "P203"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "P203"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "P203"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "物聯網 (Internet of Things, IoT) 是近期非常重要也受到高度關注的議題, 主要訴求是\"物物聯網\"或是\"萬物聯網\", 就是將全球物件以及各式各樣的感應器 (sensors) 等等也連上網路, 除了資料與數據收集分析外, 也可以回饋進行各種控制, 這對於未來生活的便利性將有極大的影響",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(1) 物聯網的基礎架構與創新應用<br>(2) 物聯網感知層/網路層/應用層技術<br>(3) IPv6 協議運作原理與  IPv6 最新發展趨勢<br>(4) IPv4/IPv6 轉移機制<br>(5) 物聯網感測器平台 (Sensor  Node Platforms)<br>(6) 物聯網感測器網路 (Sensors Networks) 的路由協議 (routing protocols)<br>(7) 物聯網無線傳輸技術<br>(8) 物聯網框架標準 (IoT framework)",
+        "en": "(1) Introduction to IoT Basic Architectures and Its Innovation Applications <br>(2) Introduction to IoT Sensing Layer/Networking Layer/Application Layer Techniques <br>(3) Introduction to IPv6 Protocols Theory and the State of Arts <br>(4) Introduction to IPv4/IPv6 Transfer Mechanism <br>(5) Introduction to IoT Sensor Nodes Platform <br>(6) Introduction to Routing Protocols of IoT Sensor Networks <br>(7) Introduction to IoT Wireless Communications Techniques <br>(8) Introduction to IoT Frameworks"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解物聯網系統原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用物聯網系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使用C語言設計應用程式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "介紹相關的網站，使學生能自行學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

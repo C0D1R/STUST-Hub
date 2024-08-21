@@ -1,0 +1,133 @@
+{
+    "code": "10D30401",
+    "name": {
+        "zh": "專利檢索與創作",
+        "en": "Patent Search Training and Creation Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控三甲",
+        "四技自控三乙",
+        "四技製造三甲",
+        "四技製造三乙",
+        "四技車輛三甲",
+        "四技車輛三乙"
+    ],
+    "instructors": [
+        "吳忠春"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "K402"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "K402"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "K402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "介紹智慧財產權的內容與重要性，包括專利權、商標權及著作權等等。接下來再針對『專利權』及『商標權』等兩大重點作深入的探討與介紹，讓選修本課程同學了解專利權與商標權相關法規、制度與檢索技巧，並藉由專利申請的實作練習，來訓練同學的學習專利權的申請與產業實務應用。最後將介紹『專利管理』的重要性，同時針對『專利地圖』的觀念說明如何利用專利地圖規劃產業研發主題與方向。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.智慧財產權簡介：介紹智慧財產權的概念與重要性，包括(1)專利權；(2)著作權；(3)商標權；(4)營業秘密等。<br>2.智慧財產權制度與相關法規簡介：包括(1)著作權制度與相關法律規定；(2)商標權制度與相關法律規定；(3)商標權的種類與申請實務。<br>3.專利權制度與法規介紹：針對專利權進一步詳細說明，包括(1)各國專利制度介紹；(2)專利種類與專利要件說明；(3)介紹專利法相關知識。<br>4.專利檢索技巧與應用：包括(1)介紹如何檢索前案資料、定義關鍵詞、線上檢索資料庫介紹及如何獲得前案資料全文等。<br>5.專利創作實務示範與實作訓練：舉例示範教學，教導同學如何撰寫專利申請書及專利說明書，並須繳交一份實作作業。<br>6.專利地圖的重要性與應用：含(1)專利管理簡介與其重要性；(2)專利地圖的重要性；(3)專利地圖規劃產業研發主題與方向之應用。",
+        "en": "一、Introduction of Taiwan Intellectual Property, including (1) Patent; (2) Trademark, (3) Copyright and (4) Trade Secret.<br>二、Introduction to Taiwan Intellectual Property System and Acts: (1) Trademark Systems and Laws of Main Industrial Country; (2) Taiwan Copyright Systems and Laws; (3) Taiwan TrademarkClassification. (4) How to apply Trademark Licenses.<br>三、Introduction to Taiwan Patent System and Patent Acts: (1) Patent Systems of Main Industrial Country; (2) Patent Classification: Invention Patents, Utility Model Patents and Design Patents; (3) Patentability of Inventions: Industrially Applicable, Novelty and Non-Obviousness; (4) Taiwan Patents Acts.<br>四、Introduction to Patent Search Technology: (1) How to search Prior Patents; (2) How to Define the Keywords; (3) Introduction to Taiwan Patent Database, United Stated Patent Database and European Patent Database; and (4) How to get Patent Descriptions and Claims.<br>五、Demonstration and Show Some Prior Patent Examples to Students, including: (1) Show Some Excellent Invention Patents and Utility Model Patents to Explain How to Write the Patent Application Documents; (2) Practical Training and Homework.<br>六、Introduction to the Importance and Application of Patent Map, including (1) Importance of Patent Management; (2) Importance and Application of Patent Map; (3) Relationship between Patent Map and R&amp;D Trends."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解智慧財產權的內涵與重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備分析專利主題與撰寫專利申請書的基礎能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能獨立完成專利與商標主題檢索報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解產業研發成果與職場倫理的關聯性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備專利與商標檢索與分析的資訊能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

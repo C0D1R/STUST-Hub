@@ -1,0 +1,123 @@
+{
+    "code": "1DD09901",
+    "name": {
+        "zh": "音樂單曲製作與上架",
+        "en": "Singles Production And Releasing"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技流音四甲",
+        "四技流音四乙"
+    ],
+    "instructors": [
+        "韓羅賢"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "W1012"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "W1012"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程訓練學生可獨立上架音樂創作作品，課程內容涵蓋單曲企劃、詞曲創作、錄音統籌、歌曲後製剪輯、混音、拍攝封面、封面設計等並上架至各大免費數位平台、宣傳、簡易行銷。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.單曲製作教學-歌曲創作技巧<br>2.單曲製作教學-編曲<br>3.單曲製作教學-錄音<br>4.單曲製作教學-混音<br>5.單曲製作教學-封面設計<br>6.數位平台介紹與上架",
+        "en": "1.Single production -song creation skills<br>2.Single production -arrangement<br>3.Single production -recording<br>4.Single production -mixing<br>5.Single production -cover design<br>6.Digital platform introduction and releasing"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解簡易詞曲創作之技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "實踐自創曲製作之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備簡易歌曲錄音後製之技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備簡易封面設計之技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉各大數位平台之特色",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

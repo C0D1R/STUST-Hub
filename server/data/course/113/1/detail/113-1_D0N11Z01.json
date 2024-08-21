@@ -1,0 +1,127 @@
+{
+    "code": "D0N11Z01",
+    "name": {
+        "zh": "行銷研究",
+        "en": "Marketing Research"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技行流二甲"
+    ],
+    "instructors": [
+        "陳淑慧"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "T0204"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "T0204"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "T0204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程除了介紹行銷研究的觀念外，並強調研究技術(量化與質性研究)的訓練，內容涵蓋科學方法之概念、研究流程、文獻探討、資料收集、資料分析與解釋及研究報告撰寫等相關主題，並由同學分組進行專題研究報告之實務訓練，以建立同學基本研究能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、行銷研究導論<br>二、研究設計<br>三、資料蒐集來源與方法<br>四、資料分析方法<br>五、研究結果撰寫與報告<br>",
+        "en": "1. Introduction to Marketing Research<br>2. The Design of Business Research<br>3. The Sources and Collection of Data<br>4. Data Analysis Methods<br>5. Presenting Results : Written and Oral Reports <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解行銷研究及其與行銷之關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解行銷研究資料分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "產品行銷研究之實務規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "產品行銷企劃之實務規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養團隊解決問題能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,155 @@
+{
+    "code": "80D17201",
+    "name": {
+        "zh": "會計學(一)",
+        "en": "Accounting (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技財金一甲"
+    ],
+    "instructors": [
+        "蔡惠丞"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "S414"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "S414"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "S414"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 應熟悉如何利用正確的會計資訊，以提供即時攸關的決策。<br>2. 本課程著重於觀念之建立及原則之探討。<br>   由淺入深對於報表之製作，運用與決策攸關性等均有深入之剖析。<br>3. 期許能使同學對財會觀念有深入瞭解與應用<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程簡介<br>2.會計基本概念<br>3.會計科目與借貸法則<br>4.會計處理程序I—分錄，過帳，試算表<br>5..會計處理程序II—調整，結帳、編表<br>6.買賣業會計<br>7.買買業存貨<br>8.內部控制與現金<br>9.會計人員專業道德<br><br><br><br>",
+        "en": "1.Introduction to Accounting <br>2.Accounting Concept<br>3.Accounts and Rule of Debit and Credit<br>4.Accountnig Process I—Journalizing,Posting and Preparation of a Trial Balance<br>5.Accounting Process II—Adjusting,Closing and Preparation of Financial Statements<br>6. Merchandising Operations<br>7.Merchandising Inventory<br>8.Internal control and Cash <br>9.Accountants’ professional ethics and related obligation<br><br>"
+    },
+    "weeklySchedule": "第1週 課程簡介&amp;測驗(了解高職學習情形)<br>第2週 會計基本概念<br>第3週 會計科目與借貸法則<br>第4週 調整與編表<br>第5週 買賣業會計<br>第6週 買買業會計<br>第7週 現金與銀行存款<br>第8週 補充:四欄式銀行往來調節表<br>第9週 期中考<br>第10週 應收款項<br>第11週 應收款項<br>第12週 存貨<br>第13週 存貨<br>第14週 流動負債<br>第15週 會計原則<br>第16週 不動產、廠房及設備<br>第17週 不動產、廠房及設備<br>第18週 期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立國際財務報導準則的觀念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "建立會計基本問題的解決能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解各報表所有會計科目間的關聯性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "體認會計人員的職業道德",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "會計學理論與應用(全一冊 )",
+        "author": "李宗黎、林蕙真",
+        "publisher": "証業出版社",
+        "year": "2023",
+        "ISBN": "9786269602278",
+        "edition": "第12版"
+    },
+    "referenceBooks": "會計學(第六版)修訂<br>吳燕瑛,廖素娟,柯瓊鳳,楊惠雅,詹乾隆,謝永明,陳專塗,馬君梅，新陸書局，出版日期：2023-10-01 ISBN：9786269517220",
+    "teachingSoftware": "無",
+    "rules": "評分: 期中考25%、期末考25%、作業15%、點名15%、不定期小考 20%<br>點名未到 每次扣該項成績的五分之一，作業未按時繳交每次扣該項成績五分之一"
+}

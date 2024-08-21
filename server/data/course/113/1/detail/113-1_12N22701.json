@@ -1,0 +1,128 @@
+{
+    "code": "12N22701",
+    "name": {
+        "zh": "電機機械簡介",
+        "en": "Machinery Of Electrical Machinery Introduction"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技自控四甲",
+        "夜四技車輛四甲"
+    ],
+    "instructors": [
+        "周承學"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "K404"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "K404"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "K404"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要針對非電機背景的學生授課故從最基本的電力供電系統開始介紹再以電能機械能之間的轉換原理應用到各種電機機械並以磁路分析介紹電機的設計概念與實務",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.電力介紹<br>2.交流三相電路<br>3.電機原理<br>4.變壓器<br>5.直流電機<br>6.交流電機<br>7.電機設計<br>8.電機應用與實務",
+        "en": "1.Electrical Power System<br>2.AC and 3-phase Circuts<br>3.Electric Machinery Principles<br>4.Transformers<br>5.DC Electric Machinery<br>6.AC Electric Machinery<br>7.Electric Machinery Desgin<br>8.Electric Machinery Application and Practice"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解磁場的特性與作用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解各種形式電機的基本操作原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解各種形式電機的基本操作原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解電機的基本控制原理與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備各種電機的專用英文術語",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,127 @@
+{
+    "code": "J0D31N03",
+    "name": {
+        "zh": "概念傳達設計",
+        "en": "Conceptual Communication Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技創設二甲"
+    ],
+    "instructors": [
+        "童鼎鈞"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "W0903"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "W0903"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0903"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "培養設計實作的能力，理解並培養美感，透過各種不同的創意方法、技巧訓練及媒材表現，設計、製作出具有傳達概念與意含之視覺媒體作品。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "以概念引導與設計思考為教學目標，期望提升學生概念發想的可能。<br>1、課程簡介、設計運用領域與美感鑑賞<br>2、桌遊設計<br>3、聽覺─音樂海報<br>4、味覺─食品包裝<br>5、觸覺─產品DM<br>6、作品集整理<br>",
+        "en": "Taking concept guidance and design thinking as the teaching goals. Hope to improve the students concept thinking.<br>1. Course introduction, design application field and aesthetic appreciation<br>2. Board game design<br>3. Sense of hearing - music poster<br>4. Sense of taste - food packaging<br>5. Sense of touch - product DM<br>6, Portfolio of works<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解設計概念的重要性。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用適當的設計符碼來傳達設計概念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能做有效的設計概念發想。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能感受出好的設計作品所要傳達的概念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能學會如何參與設計概念溝通活動。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

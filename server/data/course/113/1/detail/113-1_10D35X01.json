@@ -1,0 +1,133 @@
+{
+    "code": "10D35X01",
+    "name": {
+        "zh": "智動化永續淨零執行應用實務",
+        "en": "Project practice in Intelligent and automatic for sustainable net zero execution"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控二甲",
+        "四技自控二乙",
+        "四技製造二甲",
+        "四技製造二乙",
+        "四技車輛二甲",
+        "四技車輛二乙",
+        "四機械國專二甲"
+    ],
+    "instructors": [
+        "陳宥任"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "K309"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "K309"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "K309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以科學化、智慧化、自動化方式，透過技術與數位整合，結合實作設計與應用，達成永續淨零執行。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.微處理器場域應用實際範例<br>2.智動化邏輯觀念演練與範例講解操作<br>3.傳感器數位化傳輸訓練<br>4.Visual Studio Code應用操作<br>5.產品實際發想與設計執行<br>6.系統功能性驗證與測試<br>",
+        "en": "1. Practical examples of microprocessor field applications<br>2. Intelligent logic concept drill and example explanation operation<br>3. Sensor digital transmission training<br>4. Visual Studio Code application operation<br>5. Product actual idea and design execution<br>6. System functional verification and testing<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解微處理器之應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "程式碼邏輯能力建立與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "軟、硬體實務操作教學與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "產品設計發想與實際場域樣用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練英文相關文獻資料收集與探討",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

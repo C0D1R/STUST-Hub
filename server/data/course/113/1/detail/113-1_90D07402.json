@@ -1,0 +1,115 @@
+{
+    "code": "90D07402",
+    "name": {
+        "zh": "統計學(一)",
+        "en": "Statistics(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資管二乙"
+    ],
+    "instructors": [
+        "楊棠堯"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "T0312"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0312"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0312"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹統計方法的基本概念與Excel軟體分析統計資料的操作與解讀。內容包括資料的蒐集與整理，分析解釋等敘述統計及由樣本推論母體的估計檢定，迴歸分析，變異數分析，無母數統計，時間序列分析等。",
+    "prerequisites": "高中職數學",
+    "syllabus": {
+        "zh": "本課程著重於介紹統計方法的基本概念與Excel軟體分析統計資料的操作與解讀。內容包括資料的蒐集與整理，分析解釋等敘述統計及由樣本推論母體的估計檢定，迴歸分析，變異數分析等。預期培養學生對於統計學的認知及分析能力，並能運用統計方法辨識與解決國際企業問題。<br>1 認識統計學<br>2 資料的蒐集與整理<br>3 常用的統計測量數<br>4 機率概論<br>5 機率分配<br>6 抽樣與抽樣分配<br>7 估計<br>8 假設檢定<br>9 變異數分析<br>10 簡單線性迴歸與相關分析<br>11 類別資料的分析<br>12 使用Excel進行問卷分析<br>13 多元迴歸分析",
+        "en": "This course focuses on the introduction of fundamental statistics, the use of Excel in analyzing quantitative data, and interpretation of the statistical results. Main topics include: Data Collection and Analysis, General Statistics, Introduction to Probability, Probability Distributions, Sampling and Sampling Distributions, Estimate, Hypothesis Testing, Analysis of Variance, and Simple Linear Regression and Correlation Analysis. Upon completion of the course, students will be able to (1) have the understanding of statistical methods and develop analytical thinking skills; (2) adopt the statistical methods in identifying and solving the problems related to international business management. <br>1 Introduction to Statistics<br>2 Data Collection and Analysis<br>3 General Statistics<br>4 Introduction to Probability<br>5 Probability Distributions<br>6 Sampling and Sampling Distributions<br>7 Estimate<br>8 Hypothesis Testing<br>9 Analysis of Variance<br>10 Simple Linear Regression and Correlation Analysis<br>11 Qualitative Data Analysis<br>12 Questionnaire Analysis Using Excel<br>13 Multiple Regression Analysis"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解資料分析的統計方法與基本學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用統計方法分析管理相關實務資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用Excel 軟體計算資料並解讀報表",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對管理問題獨立思考和精準辨識適當的統計方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

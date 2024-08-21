@@ -1,0 +1,119 @@
+{
+    "code": "20M10K01",
+    "name": {
+        "zh": "數位影像處理與應用",
+        "en": "Digital Image Processing and Application"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研電機一甲",
+        "博電機國際一甲",
+        "碩研電機一甲",
+        "碩電機國際一甲"
+    ],
+    "instructors": [
+        "陳彥廷"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "B504"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "B504"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "B504"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "All key concepts of Digital Signal Processing （DSP）are covered in the course. Practical problems will be presented and solved. Advanced applications of DSP for sound and images are also investigated.",
+    "prerequisites": "Matlab programming skills are recommended but not essential for the students taking this course.",
+    "syllabus": {
+        "zh": "1.數位訊號處理簡介<br>2.離散時間序列與LTI系統及其運算<br>3.離散時間系統之時域與頻域分析<br>4.離散傅利葉轉換和快速傅利葉轉換及其運用<br>5. Z轉換與其運用<br>6.數位濾波器設計與其運用",
+        "en": "1. Crash Course in Digital Signal Processing<br><br>2. Analog-to-Digital and Digital-to-Analog Conversion<br><br>3. Digital Signals<br><br>4. Difference Equations and Filtering<br><br>5. Convolution and Filtering<br><br>6. Z Transforms<br><br>7. Fourier Transforms and Filter Shape<br><br>8. Digital Signal Spectra<br><br>9. Finite Impulse Response Filters<br><br>10. Infinite Impulse Response Filters<br><br>11. DFT and FFT Processing<br><br>12. Introduction to Audio Signal Processing<br><br>13. Introduction to Image Processing"
+    },
+    "weeklySchedule": "Week 1.  Introduction<br>Week 2.  Digital Image Fundamentals<br>Week 3.  Image Enhancement in the Spatial Domain (1)<br>Week 4.  Image Enhancement in the Spatial Domain (2)<br>Week 5.  Image Enhancement in the Frequency Domain (1)<br>Week 6.  Image Enhancement in the Frequency Domain (2)<br>Week 7. Color Image Processing (1)<br>Week 8. Color Image Processing (2)<br>Week 9.  Midterm Exam<br>Week 10. Color Image Processing (3)<br>Week 11. Morphological Image Processing (1)<br>Week 12. Morphological Image Processing (2)<br>Week 13. Image Segmentation (1)<br>Week 14. Image Segmentation (2)<br>Week 15. Image Pattern Classification(1)<br>Week 16. Image Pattern Classification(2)<br>Week 17. Image Pattern Recognitin<br>Week 18. Final Exam<br>",
+    "exams": {
+        "midterm": "Open Book, Explanation questions",
+        "final": "Open Book, Explanation questions",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解數位影像處理系統的種類或相關應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "否了解訊號方塊圖、差分方程式的表示法、及轉移函數的意義",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解系統時域脈衝響應與頻譜響應之關係",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解FIR濾波器與IIR濾波之區別，及基本設計方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Digital Image Processing (4th Edition, Global Edition)",
+        "author": "Rafael C. Gonzalez , Richard E. Woods",
+        "publisher": "Pearson FT Press",
+        "year": "2017",
+        "ISBN": "9781292223049",
+        "edition": "4"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Matlab, Octave, Python",
+    "rules": "1.Students need to pay attention and read the content of the teaching materials carefully.<br>1. 學生必須要認真研讀上課教材<br>2. Students need to take responsibility if they get poor scores in exams and miss homework assignments.<br>2. 若考試獲得低分或作業不交, 學生必須負起責任<br>3. If students do not put in effort during the course, they should not expect their course grades to meet the requirements. To pass the course is the student's own responsibility, not the teacher's.<br>3. 若你沒有付出努力, 不要期望學期成績過關. 讓你過關是你的責任,不是我的.<br>"
+}

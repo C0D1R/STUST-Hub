@@ -1,0 +1,115 @@
+{
+    "code": "J0D34X01",
+    "name": {
+        "zh": "動態影像設計",
+        "en": "Motion Graphics Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技動畫一甲"
+    ],
+    "instructors": [
+        "高逸峯"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0709"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "W0709"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "W0709"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "此課程以原創動態影像創作為主，整合傳統平面圖像和數位動態影像，將影像處理技術運用在動態設計、影片製作與合成上。課程以主題練習與專題創作為主，並融合設計、創意與美感製作出富個人特色之作品。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "○ 場景與造形設計<br>○ 時間節奏設計<br>○ 動態圖像編輯技巧<br>○ 3D和2D空間設計<br>○ 構圖與運鏡技巧<br>○ 特效與合成製作<br>",
+        "en": "This course focuses on motion graphic creation, integrating traditional static images and digital motion pictures, and applying image to motion design. The course focuses on thematic exercises and thematic creations, and combines design, creativity and aesthetics to produce works with personal characteristics.<br><br>○ Scene and shape design<br>○ Timing<br>○ Motion image editing skills<br>○ 3D and 2D space design<br>○ Composition and camera<br>○ FX<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "美學設計能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "媒體特色整合",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "數位動態製作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "手繪設計技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

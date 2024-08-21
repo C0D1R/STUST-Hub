@@ -1,0 +1,115 @@
+{
+    "code": "10N01F01",
+    "name": {
+        "zh": "行銷管理",
+        "en": "Marketing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技車輛四甲"
+    ],
+    "instructors": [
+        "李清河"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "R402"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "R402"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "R402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "1"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "行銷管理所探討者，即為企業如何透過市場區隔變數界定目標市場，並進行產品價值的思考與定位，繼而擬訂落實產品定位之4P(產品、價格、訂價、促銷)策略。",
+    "prerequisites": "行銷",
+    "syllabus": {
+        "zh": "1.行銷理論<br>2.行銷環境分析<br>3.關鍵成功因素與競爭優勢<br>4.市場區隔與目標市場選擇<br>5.消費市場的顧客分析<br>6.產品策略",
+        "en": "The course will cover the following important topics:<br>Part 1: Defining marketing and the marketing Process<br>Part 2: Understanding the Marketplace and Consumers<br>Part 3: Designing a Customer-Driven Strategy and Mix<br>Part 4: Extending Marketing"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解行銷學的意義及在組織扮演的角色",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解公司策略規劃、行銷企劃的層級及程序.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析行銷環境,瞭解消費者及競爭者",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "市場區隔與目標市場選擇 消費市場的顧客分析產品策略",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

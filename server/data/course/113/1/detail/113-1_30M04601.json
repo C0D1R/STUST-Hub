@@ -1,0 +1,141 @@
+{
+    "code": "30M04601",
+    "name": {
+        "zh": "天線工程",
+        "en": "Antenna Engineering"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研電子一甲",
+        "碩研電子一甲",
+        "碩電子產業一甲"
+    ],
+    "instructors": [
+        "陳文山"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S607"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S607"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "S607"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "天線為輻射電磁波之元件.天線的工作原理及應用為rf工程師必備之專業知識之一.天線的參數及物理意義亦為重點",
+    "prerequisites": "Electromagnetics, Advanced Mathematics, circuit theory",
+    "syllabus": {
+        "zh": "簡介<br>天線基礎<br>天線種類<br>點源<br>陣列天線<br>電偶極與薄的線性天線<br>迴路天線<br>槽孔,微帶 及號角天線<br>天線量測<br>第一章\t引論<br>第二章\t天線基礎<br>第三章\t天線家族<br>第四章\t點源<br>第五章(上)點源陣<br>第五章(下)點源陣<br>第六章   電偶極子和細直天線<br>第七章\t   環天線<br>第八章\t天線量測<br>第九章  微帶天線<br>第十章  無線應用之印刷天線<br>",
+        "en": "Chapter\t1\tIntroduction<br>Chapter\t2\tAntenna Basics<br>Chapter\t3\tThe Antenna Family<br>Chapter\t4\tPoint Sources<br>Chapter\t5\tArrays of Point Sources, Part I<br>Chapter\t6\tThe Electric Dipole and Thin Linear Antennas<br>Chapter\t7\tThe Electric Dipole and Thin Linear Antennas<br>Chapter\t8\tAntenna Measurements.  <br>Chapter 9    Microstrip antennas<br>Chapter 10   Printed antennas for wireless application<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習電磁波與微波原理用來解決工程問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練學生根據分析設計結果來提高工程實務。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "撰寫程式或應用簡易軟體解決課堂的作業。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學生能夠知道如何透過改變微波結構、應用等，設計所需微波元件與電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "採用英文教科書，訓練學生專業英文研讀能力。學生能搜尋微波工程之相關期刊及網路資源。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由撰寫期末報告，訓練學生撰寫學術報告及發表的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

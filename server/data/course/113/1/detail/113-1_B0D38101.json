@@ -1,0 +1,116 @@
+{
+    "code": "B0D38101",
+    "name": {
+        "zh": "國際禮儀",
+        "en": "International Etiquette"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技休閒二甲",
+        "四技休閒二乙"
+    ],
+    "instructors": [
+        "楊智晶"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "T0608"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0608"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 瞭解日常生活衣、食、住、行、育、樂的禮節，提升個人處事能力，使<br>  人際關係更加和諧與圓融。<br>2.專業形象塑造、高雅的儀態。<br>3.得體的應對進退之道及人文禮節素養。<br>4.適宜展現個人魅力與修養。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第1章 食的禮儀<br> 第2章 衣的禮儀<br> 第3章 住的禮儀<br> 第4章 行的禮儀<br> 第5章 溝通聯繫的禮儀<br> 第6章 社交往來的禮儀<br> 第7章 職場禮儀<br> 第8章 商務人員<br> 第9章 出國旅遊禮儀<br>",
+        "en": "1  Etiquette of food<br>2  Etiquette in a hotel<br>3  Manners of walking<br>4  manner<br>5  Group Discussion＆Practice<br>Midterm-exam<br>Final exam<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "獲得國際禮儀的知識，及了解各國的差異之處",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解國際禮儀在社會各階層的實務運用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "獲取宏觀的國際觀",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "考取導遊、領隊專業證照",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

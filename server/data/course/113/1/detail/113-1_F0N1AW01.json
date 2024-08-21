@@ -1,0 +1,127 @@
+{
+    "code": "F0N1AW01",
+    "name": {
+        "zh": "戲劇表演實務",
+        "en": "Drama & Performance Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技資傳四甲"
+    ],
+    "instructors": [
+        "胡悅盈"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "W0407"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "W0407"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "W0407"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 本課程透過戲劇欣賞、劇本導讀，讓學生瞭解戲劇原理，學習如何當個好演員、好觀眾。<br>2. 藉由角色扮演與即興創作，訓練演員的肢體及聲音，並培養想像力及創造力。<br>3. 透過排演的經驗，學習團體溝通及提昇表達能力。<br>",
+    "prerequisites": "不限，但曾修習&lt;藝術與文化&gt;相關課程者尤佳",
+    "syllabus": {
+        "zh": "1.戲劇概論<br>2.中西戲劇簡史<br>3.當代戲劇<br>4.劇本選讀<br>5.表演方法<br>6.演員訓練<br>7.排演實習<br>",
+        "en": "\"Course Description and Objectives<br>1. In this course, through appreciating dramas and reading plays, students learn the basic principles of drama and theater. In addition, they learn how to be a good actor as well as how to be a good appreciator.<br><br>2. This course let students play roles and improvise in a drama performance to train them to act with their bodies and voice and to develop their imagination and creativity.<br>3. Through rehearsals and performances, students learn how to communicate with other group members and increase their expression ability.<br><br>Course Contents<br>1. Introduction to Drama and Theater<br>2. Brief History of Chinese &amp; Western Drama<br>3. General Introduction to the Modern Theatre<br>4. Readings of Selected Plays<br>5. Methods of Acting<br>6. Actor Training<br>7. Rehearsal &amp; Performance \"<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養創意發想及勇於實踐的精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能奠定戲劇理論基礎知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過戲劇排演，增進協調與團體合作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備戲劇表演創作展演能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "拓展表演藝術行銷企畫能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

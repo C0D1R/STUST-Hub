@@ -1,0 +1,116 @@
+{
+    "code": "N0M02301",
+    "name": {
+        "zh": "SAP配銷與財務精進實務",
+        "en": "Advanced Practical in SAP Distribution and Finance"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩全球經管二甲"
+    ],
+    "instructors": [
+        "洪崇文"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "E0601"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "E0601"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "E0601"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "說明企業營運中的銷售與配送流程，採購管理流程、會計循環流程。<br>藉由SAP的系統，實際操作SAP銷售模組中的系統運作流程。<br>藉由SAP的系統，實際操作SAP採購模組中的系統運作流程。<br>最後藉由SAP財務模組，實際操作將應收帳款、應付帳款、總帳管理帶入SAP系統中，完成企業營運交易流程。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、企業資源規劃導論<br>二、SAP基礎認識(一)-案例公司介紹與基本操作<br>三、SAP基礎認識(二)-進階操作<br>四、MM物料管理後台配置<br>五、MM採購管理後台配置<br>六、MM採購循環前台操作<br>七、採購之應付帳款前台操作<br>八、SD銷售管理後台配置<br>九、期中考-採購循環上機操作<br>十、SD銷售循環前台操作<br>十一、銷售之應收帳款前台操作<br>十二、MM庫存管理前台操作<br>十三、FI財務後台配置<br>十四、AP應付帳款後台配置<br>十五、AR應收帳款後台配置<br>十六、AA固定資產後台配置<br>十七、GL總帳與迴轉分錄前台操作<br>十八、期末考(ERP應用師-SAP配銷模組認證考試)",
+        "en": "Introduction to Enterprise Resource Planning<br>SAP basic knowledge (1) –Case study and Practical operation<br>SAP basic knowledge (2) –Advanced Operation<br>MM module – Back-End Setup: Material Management<br>MM module – Back-End Setup: Procurement Management<br>MM module –Front-End Operation: Procurement Cycle<br>Front-End Operation: Procurement and Account Payable<br>SD module –Back-End Setup: Sales Management<br>Midterm Exam<br>SD module –Front-End Operation: Sales Cycle<br>SD module –Front-End Operation: Sales and Account Receivable<br>MM module – Front-End Operation: Inventory Management<br>FI module – Back-End Setup: Finance<br>FI module – Back-End Setup: Account Payable<br>FI module – Back-End Setup: Account Receivable<br>FI module – Back-End Setup: Asset Management<br>FI module – Front-End Operation: General Ledger Accounting and Reversing entries<br>Final Exam"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習SAP配銷模組與財務模組企業流程與導入設定",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習SAP配銷模組與財務模組系統操作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養ERP系統理論基礎和實務運作的專業能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養運用適切而前瞻的資訊系統來支援企業營運作業實務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

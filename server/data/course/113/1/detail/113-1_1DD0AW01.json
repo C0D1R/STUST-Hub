@@ -1,0 +1,137 @@
+{
+    "code": "1DD0AW01",
+    "name": {
+        "zh": "跨域展演實踐",
+        "en": "Interdisciplinary Performance Practice"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技流音四甲",
+        "四技流音四乙"
+    ],
+    "instructors": [
+        "徐志杰",
+        "葉家彰"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "W1012"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "W1012"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "這門課程為流行音樂產業系的學生和有志於透過文創實現社會融合的南臺學生度身訂製。我們的目標是引導學生運用他們在詞曲創作、展演、音響與燈光硬體規劃、演藝活動企劃與錄音工程等領域的專業知識和技能，結合在地的人文特色，與當地居民共同策劃和執行一場跨領域的展演。我們期待藉由文化創作和交流的力量，加深群體間的理解，回應在地需求，並提供學生一個將所學付諸實踐、與社區分享成果的平台。這不僅是學生個人成長的有效途徑，也體現了南臺科技大學實踐大學社會責任的重要步驟。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 單元一：跨域展演課程簡介<br>    - 課程目標與基本架構<br>    - 學習跨域展演與流行音樂的跨界想像<br>2. 單元二：專業技能回顧與應用<br>    - 回顧與深化詞曲創作與展演、音響與燈光硬體規劃、演藝活動企劃與錄音工程等專業知識<br>    - 發想如何利用自身專業技能運用在實際場景中<br>3. 單元三：在地人文特色研究<br>    - 進行在地人文特色的調查與研究，包含個人訪談、影片紀錄與焦點團體法等。<br>    - 學習如何將人文特色與專業技能結合<br>4. 單元四：跨域展演策劃<br>    - 學習如何策劃一場跨域展演<br>    - 實際操作：分組進行展演策劃，包含活動企劃、音樂創作與硬體規劃。<br>5. 單元五：跨域展演實踐<br>    - 跨域展演實踐<br>    - 實際操作：進行展演的準備工作，包括排練、場地設置與行銷活動設計等。<br>6. 單元六：跨域展演評析與反思<br>    - 學習如何評鑑展演成果，包含量化問卷法與質化訪談。",
+        "en": "- Unit One: Introduction to Interdisciplinary Performance<br>    - Course objectives and basic structure<br>    - Exploration of the interdisciplinary imagination between performance and pop music<br>- Unit Two: Review and Application of Professional Skills<br>    - Review and deepen professional knowledge in areas such as songwriting and performance, audio and lighting hardware planning, performing arts event planning, and sound engineering<br>    - Brainstorm on how to apply your professional skills in real-life scenarios<br>- Unit Three: Study of Local Cultural Characteristics<br>    - Conduct research on local cultural characteristics, including personal interviews, video documentation, and focus group methodology<br>    - Learn how to combine cultural characteristics with professional skills<br>- Unit Four: Planning of Interdisciplinary Performance<br>    - Learn how to plan an interdisciplinary performance<br>    - Practical operation: group work on performance planning, including event planning, music creation, and hardware planning<br>- Unit Five: Practice of Interdisciplinary Performance<br>    - Implementation of interdisciplinary performance<br>    - Practical operation: preparations for the performance, including rehearsals, venue setup, and design of marketing activities<br>- Unit Six: Critique and Reflection on Interdisciplinary Performance<br>    - Learn how to evaluate performance outcomes, including quantitative survey methods and qualitative interviews."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解跨域展演之定義與樣態",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "籌劃跨域展演之企劃與實踐",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備蒐集、分析、應用資料之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升整合跨界資源與創新能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "展現尊重在地與多元觀點之態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養創作展演、活動企劃與硬體規劃人力安排之領導能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

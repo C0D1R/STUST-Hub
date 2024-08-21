@@ -1,0 +1,140 @@
+{
+    "code": "60D28201",
+    "name": {
+        "zh": "國際行銷學",
+        "en": "International Marketing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國企四甲",
+        "四技國企四乙"
+    ],
+    "instructors": [
+        "梁文科"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "S511"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "S511"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "S511"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程先介紹目前企業所面對全球環境的一些狀況，並據此引申相關的一些經營實務上的廠商行為，如企業環境資訊的收集，市場的收尋與定位及進入策略的考量因素與形成等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、導論<br>1.國際行銷的重要 <br>2.迫使全球整合的因素<br>二、國際行銷環境分析的基本概念 <br>1.政治經濟環境 <br>2.科技法律環境<br>3.社會文化環境 <br>三、全球資訊系統和行銷研究<br>1.市場資訊的來源 2.行銷研究的步驟<br>四、定位與區隔 <br>1.國際品牌知覺圖<br>2.區隔變數的選擇<br>五、進入策略 <br>1.進入策略的類型<br>2.策略夥伴",
+        "en": "1. Introduction<br>(1) The importance of Global Marketing<br>(3) Forces Affecting Global Integration and Global Marketing<br>2. The Global Marketing Environment<br>(1) Society, Culture, and Global Consumer Culture<br>(2) The Global Trade Environment<br>(3) Economic Systems<br>(4) The Political Environment<br>3. Global Information Systems and Market Researct<br>(1) Souces of Market Information<br>(2) Formal Market Research <br>4. Segmentation, Targeting, and Positioning<br>(1) Assessing Market Potential and Choosing Target Markets<br>(2) Positioning<br>7. Entry Strategies<br>(1) Licensing<br>(2) Investment<br>(3) Strategic Partnerships<br>"
+    },
+    "weeklySchedule": "第 一 週： 課程介紹與基本概念，師生認識；課程介紹；課堂規定與評分標準<br>第 二 週： 全球視野與行銷<br>第 三 週： 政治與法律環境<br>第 四 週： 經濟環境<br>第 五 週： 社會與文化環境<br>第 六 週： 全球行銷研究<br>第 七 週： 全球市場區隔與定位<br>第 八 週： 全球市場進入策略<br>第 九 週： 期中考試<br>第 十 週： 全球產品策略<br>第十一週： 全球品牌策略<br>第十二週： 全球定價策略<br>第十三週： 全球通路策略<br>第十四週： 全球推廣策略：商展、人員銷售、企業網站<br>第十五週： 全球溝通策略：廣告、公關<br>第十六週         個案教學<br>第十七週\t\t個案教學<br>第十八週\t\t個案教學<br>",
+    "exams": {
+        "midterm": "考試",
+        "final": "報告",
+        "other": "小組討埨"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解國際行銷的相關知識、策略、技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用質性方法分析國際商務相關資料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能夠組織特定主題之重點、製作簡報資料以及清晰的呈現與表達",
+            "teachingMethods": [
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "養成實務操作之經驗與能力，並擁有相關的專業證照之考照能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能夠建立清晰邏輯思考及推理能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解各國文化與歷史的意義，並於生活中探索接納不同文化的差異，展現人文反省的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "國際行銷：突破眼界、突圍市場",
+        "author": "曾光華",
+        "publisher": "前程文化",
+        "year": "2023",
+        "ISBN": "9786269728046",
+        "edition": "2"
+    },
+    "referenceBooks": "請注意課程規範!",
+    "teachingSoftware": "",
+    "rules": "1. 請務必注意:此課程會有考試和期末報告。<br>2. 第一節課因故未能出席者，務必請同學代理告知上課訊息。"
+}

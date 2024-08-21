@@ -1,0 +1,139 @@
+{
+    "code": "2IN00C01",
+    "name": {
+        "zh": "電子學與實習",
+        "en": "Electronics and Laboratory"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜電機產攜二甲"
+    ],
+    "instructors": [
+        "何冠德"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "I0310"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "I0310"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "I0310"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "1"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "讓同學了解二極體,雙極性電晶體(BJT)放大器,場效電晶體(FET)放大器原理及應用",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、半導體材料與二極體<br>2、二極體電路<br>3、雙極接面電晶體(BJT)<br>4、基本雙極電晶體(BJT)放大器<br>5、基本場效電晶體(MOSFET)放大器<br>6、積體電路模組",
+        "en": "1. Semiconductor Materials and Diodes<br>2. Diode Circuits<br>3. The Bipolar Junction Transistor<br>4. Basic BJT Amplifiers and Circuits<br>5. Basic MOSFET Amplifiers and Circuits<br>6. OP Amplifier"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解近代微電子學的發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道半導體的特性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析與計算二極體電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析與計算雙極接面電晶體(BJT)放大電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析與計算場效電晶體(MOSFET)放大電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運算放大器",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

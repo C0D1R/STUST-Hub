@@ -1,0 +1,127 @@
+{
+    "code": "20D18P01",
+    "name": {
+        "zh": "電力電子學實務",
+        "en": "Power Electronics Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電資四甲"
+    ],
+    "instructors": [
+        "朱慶隆"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "K310"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "K310"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "K310"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "電力電子系統之基本架構及控制器之實際電路。  <br> <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、課程簡介<br>二、控制整流器：單向半控整流器實作、單向全控整流器實作<br>三、交流電壓控制器：單向半波電壓控制器實作、單向半波電壓控制器實作<br>四、截波器：單象限截波器實作、雙象限截波器實作、四象限截波器實作<br>五、PWM電路：PWM控制電路實作<br>六、昇壓型轉換器：昇壓型轉換器實作<br>七、降壓型轉換器：降壓型轉換器實<br>八、高頻隔離型轉換器：高頻隔離型轉換器實作<br>",
+        "en": "1.  Introduction<br>2.  Control rectifier: single phase half-controlled rectifier and single phase full control rectifier implementation<br>3.  AC voltage controller: single phase half-wave voltage controller and single phase half-wave voltage controller implementation<br>4.  Chopper: single quadrant chopper, dual quadrant chopper and four quadrant chopper implementation<br>5.  PWM circuit: PWM control circuit implementation<br>6.  Boost converter: boost converter implementation<br>7.  Buck converter: buck converter<br>8.  High frequency isolated converter: high frequency isolated converter implementation<br>"
+    },
+    "weeklySchedule": "一、課程簡介<br>二、控制整流器：單向半控整流器實作、單向全控整流器實作<br>三、交流電壓控制器：單向半波電壓控制器實作、單向半波電壓控制器實作<br>四、截波器：單象限截波器實作、雙象限截波器實作、四象限截波器實作<br>五、PWM電路：PWM控制電路實作<br>六、昇壓型轉換器：昇壓型轉換器實作<br>七、降壓型轉換器：降壓型轉換器實<br>八、高頻隔離型轉換器：高頻隔離型轉換器實作<br><br>",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "書面報告",
+        "other": "口頭報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解電力電子技術的種類或相關應用嗎？",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解將交流電源轉成直流電源的可行技術有那些嗎",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解將直流電源轉成另一直流電源的可行技術有那些嗎",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解將直流電源轉成交流電源的可行技術有那些嗎",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解如何利用電壓與電流回授設計一電源轉換器嗎",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

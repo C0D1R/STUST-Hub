@@ -1,0 +1,139 @@
+{
+    "code": "M0N0AM01",
+    "name": {
+        "zh": "西餐製備與實習",
+        "en": "Western culinary & laboratory"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技餐旅三甲"
+    ],
+    "instructors": [
+        "許煜忠"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0403"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0403"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1、傳授學生西餐理論知識，使其了解基本西餐之分佈及特色。<br>2、指導學生實際操作以學習基本西餐不同之食材及烹調法。<br>This course reinforce the knowledge and skill learned in the preceding class and help you build confidences in the techniques of basic western <br>",
+    "prerequisites": "中餐製備",
+    "syllabus": {
+        "zh": "1 廚房打掃整理、西餐製備概論、刀具介紹、西餐設備器具介紹、設備操作及使用方法<br>2 刀工練習、高湯介紹、洋蔥湯<br>3 刀工練習、分解全雞、紅酒燴雞 Coq-au-vin、基本馬鈴薯烹煮、季節蔬菜<br>4 刀工練習、牛肉介紹、普羅旺斯牛肉、基本米飯烹煮、季節蔬菜<br>5 小考刀工練習、基本湯烹煮、季節蔬菜<br>6 刀工練習、基本魚烹煮、基本馬鈴薯烹煮、季節蔬菜<br>7 刀工練習、基本麵糊烹煮、季節蔬菜、起司焗海鮮<br>8 刀工練習、西式早餐介紹、基本蛋的烹煮<br>9 期中考：刀工練習、季節蔬菜、分解全雞",
+        "en": "The purpose of the class is to provide a culinary base for you to build on. You will be introduced to the fundamental concept, skills and techniques of basic cookery. Special emphasis is gain to the study of ingredients, cooking theories and techniques. Knowledge acquired in prior courses of Western Cooking I &amp;II Sanitation and culinary math is used on a daily basis. The new skills gained in these course will provide you with a Western Cooking foundation which will be used in production setting in Banquet Room Lunch serving."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識及熟練西餐設備、器具之操作方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解基本西餐備製技能的培養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "體認西餐烹調理論知識，應用之分佈及特色",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用西餐備製基本認知，分析餐旅文化管理實務能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "有效分析與呈現西餐專業表達能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "有效分析與呈現西餐專業表達能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

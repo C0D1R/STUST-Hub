@@ -1,0 +1,159 @@
+{
+    "code": "A0D19R01",
+    "name": {
+        "zh": "審計實務與內部稽核",
+        "en": "The Practices of Internal Auditing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技會資四甲"
+    ],
+    "instructors": [
+        "何威德"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "S302"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "S302"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "S302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要是以內部稽核角度說明治理、風險與控制之關連性，瞭解稽核規劃與稽核程式之設計，稽核證據之蒐集與稽核報告之撰寫，並輔以介紹交易循環案例，協助學生瞭解內部稽核所扮演之角色，培養學生未來從事內部稽核工作之實務能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、內部稽核概論<br>二、治理、風險與控制<br>三、稽核之規劃與實地查核<br>四、稽核程式<br>五、稽核證據<br>六、稽核抽樣<br>七、資料分析<br>八、稽核報告<br>九、資訊科技稽核<br>十、舞弊偵防<br><br>",
+        "en": "一、Introduction to Internal Auditing<br>二、Governance, Risk and Control<br>三、Audit Planning and Physical Audit <br>四、Audit Progarm<br>五、Audit Evidence<br>六、Sampling<br>七、Data Analysis<br>八、Audit Report<br>九、IT Auditing<br>十、Assess the Risk of Fraud<br><br>"
+    },
+    "weeklySchedule": "Weeks\tContents<br>1\t單元一 課程與證照考試(CIA)簡介<br>2\t單元二 內部稽核概論<br>3\t單元三 治理、風險與控制<br>4\t單元三 治理、風險與控制<br>5\t單元三 治理、風險與控制<br>6\t單元四 稽核之規劃與實地查核<br>7\t單元四 稽核之規劃與實地查核<br>8\t單元四 稽核之規劃與實地查核<br>9\t期中報告<br>10\t單元五 整體稽核過程<br>11\t單元五 整體稽核過程<br>12\t單元六 個案分析1 (ACL之運用)<br>13\t單元六 個案分析1 (ACL之運用)<br>14\t單元六 個案分析1 (ACL之運用)<br>15\t單元七 個案分析2 (ACL之運用)<br>16\t單元七 個案分析2 (ACL之運用)<br>17\t單元七 個案分析2 (ACL之運用)<br>18\t期末報告<br>",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "平時作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解內部稽核之基本觀念",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "讓學生具備稽核規劃與分析之能力",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生從事內部稽核工作之能力",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "以新思維面對未來內部稽核工作之挑戰",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "主要上課資料為講義.PPT",
+    "teachingSoftware": "ACL 10.5",
+    "rules": "建議先修ACL基礎課程及審計學課程"
+}

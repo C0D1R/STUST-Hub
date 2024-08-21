@@ -1,0 +1,120 @@
+{
+    "code": "B0D41L01",
+    "name": {
+        "zh": "航空票務訂位",
+        "en": "Air Ticketing"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技休閒三乙"
+    ],
+    "instructors": [
+        "盧筱筠"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0509"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0509"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "讓學生瞭解休閒管理的意義和重要性。 <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "\t航空運輸概論An Introduction to Air Transportation<br>\t航空客運發展Air Transportation Development<br>\t航空基本票務Basic Air Ticketing<br>\t電腦訂位系統Computer Reservation System（CRS）<br>\t地勤運務管理Ground Duty Management<br>\t空勤服務管理Air Duty Management<br>\t航站經營管理 Air Terminal Management<br>\t航空客運行銷Air Transportation Marketing<br>\t航空客運術語Air Transport Terminology<br>",
+        "en": "An Introduction to Air Transportation<br>Air Transportation Development<br>Basic Air Ticketing<br>Computer Reservation System（CRS）<br>Ground Duty Management<br>Air Duty Management<br>Air Terminal Management<br>Air Transportation Marketing<br>Air Transport Terminology"
+    },
+    "weeklySchedule": "第一週  課程介紹 / 代號 (課本第十章)<br>第二週  航空區域, 航權與指標, 時間換算 (課本第八章)<br>第三週  機票種類與使用 (課本第十一章)<br>第四週  電子機票 (課本第十二章)<br>第五週  票價基礎規則(課本第十三章)<br>第六週  票價練習(課本第十四章<br>第七週  Sabre訂位系統 /查詢航班資料<br>第八週  Sabre訂位系統 /航班時刻表/可售機位查詢<br>第九週  期中考<br>第十週  Sabre訂位系統 /訂位, 人名輸<br>第十一週 Sabre訂位系統 /電話輸入, 開票, 簽收, 儲存 (完成訂位紀錄)<br>第十二週 Sabre訂位系統 /更改訂位, 輸入票號<br>第十三週 Sabre訂位系統 /分割, 特殊服務輸入<br>第十四週 Sabre訂位系統 /選位, Q信箱<br>第十五週 Sabre Abacus 證照輔導<br>第十六週 證照考試<br>第十七週 元旦放假<br>第十八週 期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第十六周證照考試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "航空服務業包括航空票務、地勤運務、空勤服務及航管業物等內涵",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "認知各項實用航空服務業務技能，並達成學以致用之目標",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "經由線上練習的過程, 讓學生在實習前 體驗與旅行社及航空公司的同步系統",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "透過課堂上的討論及實作 讓學生對系統地熟能生巧並對航空的運作有一定的認識",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "航空服務管理與票務",
+        "author": "鄭章瑞",
+        "publisher": "全華圖書",
+        "year": "2020",
+        "ISBN": "ISBN: 978-986-503-389-7",
+        "edition": "第四版"
+    },
+    "referenceBooks": "Sabre初級訂位使用手冊<br>老師整理講義",
+    "teachingSoftware": "數位講桌, PPT, Abacus訂位系統",
+    "rules": "各項成績評量:上課出席 20% ,上課態度 15%, Abacus實作作業 15%, 期中考: 25%, 期末考: 25%<br>1.每堂必點名，請假請按照學校規定辦理手續。<br>2.其他相關課程規定隨課程進行保留調整空間，並於課堂中口頭宣達。<br>3.此門科目之實作作業請於老師指定繳交時間繳交，逾期繳交者則不計分。<br>4.上課請尊重班上同學上課權益,請勿吵鬧、使用手機, 也請不要在課堂上私下交談。<br>5.開學第一週請務必到課了解課堂進行方式、課程要求、評分方式或提出對課程相關(調整)建議。<br>6.請同學尊重智慧財產權，使用正版教科書，不得非法影印，以免觸犯智慧財產權相關法令。"
+}

@@ -1,0 +1,128 @@
+{
+    "code": "60D32I01",
+    "name": {
+        "zh": "商務企劃",
+        "en": "International Business Analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國企三甲",
+        "四技國企三乙"
+    ],
+    "instructors": [
+        "楊維珍"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "S502"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "S502"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "S502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以培養學生能以創新觀點,撰寫創意、創業企畫為主。課程內容將包括：創業企劃介紹、市場評估調查、行銷模組、財務規劃、營運規劃等重要議題。並於期末完成模擬企劃書。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程介紹及分組<br>2.商務企劃實例介紹分析<br>3.撰寫商務企劃書前的準備<br>4.如何撰寫商務企劃書<br>5.各組訂立企劃主題並發表<br>6.各組市場分析及行銷規劃<br>7.各組發表財務規劃及營運計劃<br>8.各組商務企劃簡報<br>9.繳交商務企劃書<br>",
+        "en": "1.\tCourse introduction and grouping<br>2.\tIntroduction to business planning examples<br>3.\tPreparation before writing a business plan<br>4.\tHow to write a business plan<br>5.\tEach group has a planning theme and published<br>6.\tGroup analysis and marketing planning<br>7.\tEach group publishes financial planning and operating plans<br>8.\tBusiness planning briefings of each group<br>9.\tSubmit a business plan<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "國際商務知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "商務簡報能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "邏輯思考能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "主動負責學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "商務企劃能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

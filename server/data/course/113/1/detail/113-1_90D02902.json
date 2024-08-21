@@ -1,0 +1,130 @@
+{
+    "code": "90D02902",
+    "name": {
+        "zh": "軟體工程(B)",
+        "en": "Software Engineering"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資管四甲",
+        "四技資管四乙",
+        "四技資管四丙"
+    ],
+    "instructors": [
+        "陳炳文"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "E0403"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "E0403"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "E0403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "對軟體生命週期中的各階段，做全面性的介紹。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 軟體工程概論<br>2. 軟體開發流程模式<br>3. 需求工程<br>4. 系統分析與設計<br>5. 軟體測試<br>6. 軟體維護<br>7. 進階議題",
+        "en": "1. An Overview of Software Engineering<br>2. Software Development Process Models<br>3. Requirements Engineering<br>4. System Analysis and Design<br>5. Software Testing<br>6. Software Maintenance <br>7. Advanced Topics<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備軟體系統之分析、設計、測試的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟練軟體開發過程中分析、設計、測試的技能，並能應用於開發實務當中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備使用軟體開發工具的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能指出問題並提供解決方案的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備組織與整合能力，完成各項書面文件及口頭簡報。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

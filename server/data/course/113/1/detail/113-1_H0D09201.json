@@ -1,0 +1,115 @@
+{
+    "code": "H0D09201",
+    "name": {
+        "zh": "機能性食品與臨床應用",
+        "en": "Functional Foods and Medical Application"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技食品三甲"
+    ],
+    "instructors": [
+        "褚俊傑"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "I0303"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "I0303"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "I0303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "現代人偏好精緻、肉類與速食的飲食習慣，是造成許多疾病的根源。保健食品（或稱功能食品）在近十餘年來相繼在全世界發展起來。它因有特定保健功能而與普通食品不同；以無需醫生處方、食用安全、增強體質、預防疾病以及不追求短期臨床療效，而與治療藥品相區別。",
+    "prerequisites": "生物技術概論/生物化學/分子生物學/細胞生物學/實驗動物學",
+    "syllabus": {
+        "zh": "機能性食品的定義與範疇<br>機能性食品的成分與臨床營養學<br>機能性食品的功能性測試<br>機能性食品的安全性評估<br>食藥用菇類等機能性食品的資源開發<br>具高度商業價值之機能性食品<br>機能性食品的篩選平台與配方運用<br>期中考<br>分組討論<br>分組討論<br>分組討論<br>分組討論<br>分組討論<br>分組討論<br>分組討論<br>分組討論<br>期末考",
+        "en": "Lesson Introduction<br>Definition and the category of the functional foods<br>Ingredient of the functional foods and clinical nutricology<br>Functional trials of the functional foods<br>Safety evaluation of the functional foods<br>Development of the mushroom resources<br>Potential functional foods in business<br>Screening platform and formula utilization for functional food<br>Middle-examination<br>Group Meeting<br>Group Meeting<br>Group Meeting<br>Group Meeting<br>Group Meeting<br>Group Meeting<br>Group Meeting<br>Group Meeting<br>Final-examinatio"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "機能性食品的定義與範疇",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "機能性食品的成分與臨床營養學",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "高度商業價值之機能性食品",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "機能性食品的篩選平台與配方運用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

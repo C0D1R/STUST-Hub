@@ -1,0 +1,147 @@
+{
+    "code": "1MD03N02",
+    "name": {
+        "zh": "全球地緣戰略(B)",
+        "en": "Global Geostrategy"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "社會科學領域"
+    ],
+    "instructors": [
+        "蔡漢生"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "T0407"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "T0407"
+        },
+        {
+            "day": "週五",
+            "period": "第9節",
+            "location": "T0407"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "根據全球各國之政治、經濟、文化、外交、軍事和各種資源的地理稟賦，以地緣關係來探討近現代的全球利益體系和國際關係。然後再從全球各國之地理稟賦優勢和基於利益關係之權力鬥爭的視角，以理解台灣地理位置的戰略價值、以及美、中、俄、日、歐盟等全球主要國家的全球利益謀略。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.緒論：地緣戰略的意義、理論與目的<br>2.地緣戰略與國際關係的連動性<br>3.近現代霸權國家之全球地緣戰略的轉變<br>4.全球地緣戰略對區域經濟整合的影響<br>5.中國崛起後的地緣戰略與影響<br>6.當今亞太地區的地緣戰略衝突<br>7.台灣地理位置在全球地緣戰略中的角色<br>8.科技發展對全球地緣戰略的影響<br>",
+        "en": "1. Introduction: The Significance, Theory and Purpose of Geostrategy<br>2. Linkage between geostrategy and international relations<br>3. Global geostrategic transformation of modern hegemonic countries<br>4. The impact of global geostrategy on regional economic integration<br>5. China's geostrategy and influence after the rise<br>6. Geostrategic conflicts in the Asia-Pacific region today<br>7. The role of Taiwan's geographical location in global geostrategy<br>8. The impact of technological development on global geostrategy<br>"
+    },
+    "weeklySchedule": "第1週\t地緣政治的意義與理論<br><br>第2週\t地緣政治與地緣經濟的連動性  <br>※本專題符合SDGs目標10 減少不平等：減少國內及國家間的不平等<br><br>第3週\t近現代美英等霸權國家對全球地緣政治觀的異同(一)<br><br>第4週\t近現代美英等霸權國家對全球地緣政治觀的異同(二)<br><br>第5週\t當今區域經濟整合的地緣政治觀(一)   <br>※本專題符合SDGs目標17 全球夥伴關係：建立多元夥伴關係，協力促進永續願景<br><br>第6週\t當今區域經濟整合的地緣政治觀(二)   <br>※本專題符合SDGs目標17 全球夥伴關係：建立多元夥伴關係，協力促進永續願景<br><br>第7週\t中國崛起後的地緣政治觀與影響(一)<br><br>第8週\t中國崛起後的地緣政治觀與影響(二)<br><br>第9週\t期中考<br><br>第10週\t當今美、中、俄、日在亞太地區的地緣政治衝突(一)<br><br>第11週\t當今美、中、俄、日在亞太地區的地緣政治衝突(二)<br><br>第12週\t台灣區位在美中日俄心目中的戰略價值(一)<br><br>第13週\t台灣區位在美中日俄心目中的戰略價值(二)<br><br>第14週\t科技典範轉換牽動全球地緣政治的變遷(一)  <br>※本專題符合SDGs目標9 工業、創新及基礎建設：建構民眾可負擔、安全、對環境友善，且具韌性及可永續發展的運輸<br><br>第15週\t科技典範轉換牽動全球地緣政治的變遷(二)  <br>※本專題符合SDGs目標9 工業、創新及基礎建設：建構民眾可負擔、安全、對環境友善，且具韌性及可永續發展的運輸<br><br>第16週\t分組討論與報告<br><br>第17週\t分組討論與報告<br><br>第18週\t期末考<br><br>備註：上列課程進度會根據學生學習成效酌於調整。<br>",
+    "exams": {
+        "midterm": "教室內線上考試",
+        "final": "教室內線上考試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認知全球主要地緣戰略的關聯性，以具備統整性的思考邏輯與社會科學的基本知能。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "解析全球地緣格局的複雜性，以學得有組織地統整和表達所學知能，且將之用於生活或學習中。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "深刻理解本土及國際的連動性，以適切認知地球村及國際化趨勢，並能以創新觀點面對國際局勢的變化。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "正確認知國際關係的權謀競爭，從而提升理性思維及批判的能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "正確認知國際關係的權謀競爭，從而提升理性思維及批判的能力。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "增強對媒體訊息保有開放、批判及省思的能力。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "PowerPoint",
+    "rules": "1. 本課程以課堂講授為主，討論為輔，本教學大綱得視教學需要調整之。<br>2. 上課勤惰情況（缺曠或遲到）會列為平時成績之考核。<br>3. 上課時會採隨機抽問方式的討論。<br>4. 請同學尊重智慧財產權，不得非法影印，以免觸犯智慧財產權相關法令。"
+}

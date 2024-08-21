@@ -1,0 +1,115 @@
+{
+    "code": "70N15Q01",
+    "name": {
+        "zh": "財務會計",
+        "en": "Financial Accounting"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "夜企管產攜一甲"
+    ],
+    "instructors": [
+        "蔡宗岳"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S207"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S207"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "S207"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1. 身為企管人應熟悉如何利用正確的會計資訊，以提供周全 的決策基礎。<br>同時實務管理者就會確信會計於管理上所扮演之角色。<br>2. 本課程著重於觀念之建立及原則之探討。由淺入深對於報 表之製作，運用與決策攸關性等均有深入之剖析。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1 會計循環<br>2 現金與內部控制<br>3 存貨<br>4 應收帳款<br>5 固定資產<br>6 流動負債<br>7 長期負債<br>8 業主權益<br>",
+        "en": "1 Accounting cycle<br>2 Cash and internal control<br>3 Inventory <br>4 Accounts receivable<br>5 Fixed assets<br>6 Current liabilities<br>7 Long-term liability<br>8 Owners’ Equity<br>"
+    },
+    "weeklySchedule": "1 2會計原理介紹<br>3 4 會計循環<br>5 現金與內部控制<br>6 存貨<br>7期中考<br>8 應收帳款<br>9 固定資產<br>10 流動負債/長期負債<br>11 業主權益<br>12期末考<br>",
+    "exams": {
+        "midterm": "筆試+倫理報告+期中書面報告",
+        "final": "筆試",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解並描述財務會計領域之專業知識與理論學理。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能針對不同商業交易事項有效辨識適當之適用會計原則與處理方式。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用會計知識，分析會計實務資料。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現分析結果，以了解企業的經營成果及協助商業決策。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "稍後公布於FLIPCLASS",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

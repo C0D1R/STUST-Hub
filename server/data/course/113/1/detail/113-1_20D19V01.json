@@ -1,0 +1,127 @@
+{
+    "code": "20D19V01",
+    "name": {
+        "zh": "基礎解剖生理學",
+        "en": "Basic Anatomy and Physiology"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技醫電三甲"
+    ],
+    "instructors": [
+        "劉璟鋒"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "I0209"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "I0209"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "I0209"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程講授人體各系統的構造、相關位置以及生理功能，發生在人體內的正常生理機能或變化，並能實際應用於日常生活中，且深切認知解剖生理學是一其他科目的學問基礎。<br>實施方式：以講述、問答、討論等方法，並佐以投影片以補無實體解剖之不足，著重理論與實際，以解剖位置配合生理功能之方式解說，強調重點啟發，以達求知解惑之功效。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一部分 人體的組成<br>第一章 身體的組成<br>第二章 生命的化學性質<br>第三章 細胞的構造及功能<br>第四章 身體的組織和膜<br>第五章 皮膚系統<br><br>第二部分 支持與運動<br>第六章 骨骼系統<br>第七章 肌肉系統<br><br>第三部分 整合與協調<br>第八章 神經系統<br>第九章 感覺系統<br>第十章 內分泌系統<br><br>第四部分 身體的維持<br>第十一章 血液<br>第十二章 循環系統<br>第十三章 淋巴系統和免疫<br>第十四章 呼吸系統<br>第十五章 消化系統<br>第十六章 泌尿系統<br><br>第五部分 生殖與發育<br>第十七章 生殖系統<br>第十八章 人體的發育及生產<br>第十九章 人類遺傳學<br>",
+        "en": "Chapter 1 Organization of the body<br>Chapter 2 Chemistry of life<br>Chapter 3 Cell structure and function<br>Chapter 4 Body tissues and membranes<br>Chapter 5 The integumentary system<br>Chapter 6 The skeletal system<br>Chapter 7 The muscular system<br>Chapter 8 The nervous system<br>Chapter 9 The sense system<br>Chapter 10 The endocrine system<br>Chapter 11 Blood<br>Chapter 12 The circulatory system<br>Chapter 13 The lymphatic system and immunity<br>Chapter 14 The respiratory system<br>Chapter 15 The digestive system<br>Chapter 16 The urinary system<br>Chapter 17 The reproductive system<br>Chapter 18 Human development and birth<br>Chapter 19 Human genetics"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解構成人體的10大系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解何謂人體的”Landmark”",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道人類生命的起源及發展過程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道大型醫院的醫學工程部門之工作內容",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道何種疾病到醫院要看哪種門診的知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

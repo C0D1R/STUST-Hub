@@ -1,0 +1,137 @@
+{
+    "code": "M0D16K01",
+    "name": {
+        "zh": "房務作業",
+        "en": "Hotel room and housekeeping"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技餐旅二甲",
+        "四技餐旅二乙"
+    ],
+    "instructors": [
+        "鄭竣丰"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "T0310"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "T0310"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.台語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過業界實務的操作與分享,提供學生房務作業管理的專業知識及技能之外,亦呈現優秀服務品質應有之專業態度!",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.電話接聽禮儀<br>2.客房設施及備品之產品知識<br>3.如何進入客房及注意事項<br>4.如何整床<br>5.如何清理浴室<br>6.如何擦塵<br>7.如何吸塵<br>8.整理客房之標準作業流程<br>9.如何整理續住房及注意事項<br>10.Lost and Found 之標準處理程序<br>11.整理客衣之標準處理程序<br>12.夜床服務",
+        "en": "1.Telephone etiquette<br>2.Guestroom equipment and amenities<br>3.Enter the Guestroom<br>4.Make the bed<br>5.Being to clean the bathroom<br>6.Dust the Guestroom<br>7.Vacuum the Guestroom<br>8.SOP for clean the Guestroom<br>9.Clean the Occupied room<br>10.Lost &amp; Found Service<br>11.Laundry Service<br>12.Turn down Service"
+    },
+    "weeklySchedule": "第01週：上課標準及規範，評分標準<br>第02週：房務部管理與編制(1)<br>第03週：房務部管理與編制(2)<br>第04週：客房備品類型與配置<br>第05週：房務檢查作業<br>第06週：房務服務作業<br>第07週：客房保養與維護<br>第08週：公共區域清潔與管理<br>第09週：期中考(報告)<br>第10週：洗衣作業與布巾管理<br>第11週：客房安全與衛生管理<br>第12週：房務人力資源管理<br>第13週：客房規劃策略<br>第14週：房務實務操作<br>第15週：房務實務操作<br>第16週: 房務實務操作<br>第17週：房務實務操作<br>第18週：期末考(房務實作)",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末餔床實作",
+        "other": "作業、筆試、上課出席狀況及上課表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解房務部的組織與職責，具備房務清潔打掃及維護保養技能，進而管理房務部門運作。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解房務部與其他部門的關係及聯繫的重要性，以及各部門間如何協調完成任 務。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "客房整理常見問題與危機預防處理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培育符合餐旅相關職場之專業能力，並奠定學習餐旅專業知識之基本能力。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "鼓勵並輔導考取餐旅相關證照。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解不同型態旅館之經營管理模式，進而 培養全方位餐旅專業管理人才。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "旅館房務管理實務：贏在旅館產業市場",
+        "author": "吳勉勤, 吳武忠, 高任首, 徐銀樹",
+        "publisher": "華立圖書",
+        "year": "2020",
+        "ISBN": "9789577848475",
+        "edition": "四版一刷"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

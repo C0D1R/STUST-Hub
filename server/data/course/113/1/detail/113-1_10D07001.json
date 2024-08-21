@@ -1,0 +1,121 @@
+{
+    "code": "10D07001",
+    "name": {
+        "zh": "數控工具機",
+        "en": "Numerical Control Machine"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控二甲",
+        "四技自控二乙",
+        "四技製造二甲",
+        "四技製造二乙",
+        "四技車輛二甲",
+        "四技車輛二乙",
+        "四機械國專二甲"
+    ],
+    "instructors": [
+        "陳璟璿"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "E0202"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "E0202"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "E0202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "認識數控機械原理及硬體基本結構，瞭解數控機械加工程式設計製作及對產業自動化之重要性，結合精密機械加工理論與實際運用。彙整適合經濟科技發展所需的課程，積極培育自動化技術人力配合產業自動化技術發展。",
+    "prerequisites": "工廠實習",
+    "syllabus": {
+        "zh": "1.電腦數控工具機概論<br>2.電腦數控機械構造與系統分類<br>3.程式設計、製作之認識<br>4.數控車床程式設計與應用<br>5.數控中心切削機程式設計與應用<br>6.電腦數控機械基本操作<br>",
+        "en": "(1):Introduction of Numerical Control(N.C.) 1:definition &amp; principle of N.C.2:advantage,disadvantage &amp; development tendency of Numerically Controlled Machine Tools<br>(2):Control system 1:open &amp; closed control system 2.:absolute &amp; incremental coordinate system<br>(3): Turning codes 1:fundamental codes 2:fixed canned cyclecodes <br>(4): Turning examples &amp; path simulation 1:design of turning programs(main &amp; subprogram) 2:turning path simulation <br>(5): Milling codes 1:T,G,M codes 2:single &amp; fixed canned cycle codes<br>(6): Milling examples &amp; path simulation 1:design of milling programs(main &amp; subprogram) 2:milling path simulation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉CNC車床原理，並以二軸空間為基礎探討刀具運動行為",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解程式碼對CNC車床之意義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能規劃選擇刀具路徑與參數",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀原廠手冊之英文資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

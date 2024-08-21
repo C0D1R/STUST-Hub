@@ -1,0 +1,105 @@
+{
+    "code": "B0N17401",
+    "name": {
+        "zh": "職場實務探索 (一)",
+        "en": "Exploration of Workplace Practice (I)"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "夜四技休閒三甲"
+    ],
+    "instructors": [
+        "石慶賀"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第11節",
+            "location": "T0608"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "培養學生在職場上應有的核心競爭能力，其中包含職涯三大領域的重要課題（即職涯探索、職場適應、職能發展），透過授課過程中之互動討論、心得報告與實務演練等方式，使學生得以學習到職場工作者必備的關鍵能力，提升未來在職場上的競爭發展優勢。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 教師介紹本系學生應具備的專業素養<br>2. 教師介紹職場應該具備之倫理<br>3. 學生分組討論<br>4. 每週一組口頭報告職場相關課題<br>5. 課程由導師協助授課與評分<br>6. 期末繳交報告<br>7. 其他未盡事宜，皆依本校相關辦法辦理。",
+        "en": "第一週 課程介紹<br>第二週 個人職場介紹及說明<br>第三週 職場目標探索<br>第四週 職場計畫格式說明<br>第五週 報告格式說明<br>第六週 第一階段觀察<br>第七週 第一階段觀察<br>第八週 進度確認(一)<br>第九週 進度確認(二)<br>第十週 第二階段觀察<br>第十一週 第二階段觀察<br>第十二週 確認進度(二)<br>第十三週 確認進度(二)<br>第十四週 第三階段定稿<br>第十五週 個人報告<br>第十六週 個人報告<br>第十七週 個人報告<br>第十八週 期末考週"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "增加學生對職場倫理之認知及專業責任之了解。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解社會之脈動及適應社會之能力。並透過討論，培養學生自主學習新事物之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養在職場之口頭表達與溝通能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養具備策畫及分析個案之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

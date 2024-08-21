@@ -1,0 +1,123 @@
+{
+    "code": "40D1BY01",
+    "name": {
+        "zh": "基礎有機化學(一)",
+        "en": "Organic Chemistry I"
+    },
+    "credit": "2",
+    "type": "系定選修",
+    "classes": [
+        "五專化材二甲"
+    ],
+    "instructors": [
+        "蘇莉芸"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "I0310"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "I0310"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.化學丙級技術證照",
+        "2.化學乙級技術證照"
+    ],
+    "description": "本課程為化工材料的基本專業課程，有機化學主要是對含有碳、氫、氧、氮等之化合物且與生命有機體有關的化學物質做一分類、物理性質與化學性質做一系統化的介紹。包括：烷類、烯類、醇類、酮類、醛類、胺類、芳香族等各類的有機化合物之化學反應。<br>",
+    "prerequisites": "1.General Chemistry(普通化學) 2.化學工程與材料工程系學生",
+    "syllabus": {
+        "zh": "單元1烷類與環烷類: 結構、命名、物理與化學性質等<br>單元2.烯類與炔類: 結構、命名、物理與化學性質等<br>單元3.烯類的反應<br>單元4.分子的光學性與對掌性<br>單元5.鹵烷類: 結構、命名、物理與化學性質等<br>單元6.醇及醚類: 結構、命名、物理與化學性質等",
+        "en": "1. Alkanes and Cycloalkanes: structure, nomenclature, physical and chemical properties.<br>2. Alkenes and Alkynes: structure, nomenclature, physical and chemical properties.<br>3. Reactions of Alkenes.<br>4. Chirality and the Handedness of Molecules.<br>5. Haloalkanes: structure, nomenclature, physical and chemical properties.<br>6. Alcohols and Ethers: structure, nomenclature, physical and chemical properties."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能熟悉各類有機化合物之結構、命名、製備法、化學反應等專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能區別各類有機化合物的物理、化學性質以及應用於分析檢驗方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能與同學、教學助理相互討論完成作業問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用網際網路平台收集並學習相關知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能理解化學品或藥物性質並正當使用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "30D1FE01",
+    "name": {
+        "zh": "套裝軟體應用",
+        "en": "Suite Software Applications"
+    },
+    "credit": "2",
+    "type": "系定選修",
+    "classes": [
+        "五專電子一甲"
+    ],
+    "instructors": [
+        "謝文哲"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "J404"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "J404"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著科技的發展，套裝軟體成為日常生活和職業場域中不可或缺的工具。從文書處理到資料分析，這些軟體大大提高了工作效率。《套裝軟體應用》課程旨在為五專學生提供套裝軟體的基礎知識和技能，使他們在未來的職業生涯中能夠更加自信地使用這些工具。<br><br>透過此課程，學生將獲得不同套裝軟體的操作經驗，從基本的功能到進階的技巧。此外，課程也將深入探討如何在實際工作中整合這些軟體，以實現最佳的效果。學生還將有機會參與實際的專案，應用所學的知識和技能，進一步鞏固他們的學習。<br><br>透過這個課程，學生將具備套裝軟體應用的全面知識，並能夠在未來的工作中實際運用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "套裝軟體的概述<br>文書處理軟體的應用<br>資料庫管理軟體的操作<br>表格和資料分析軟體的技巧<br>報告和演示軟體的設計<br>專案實戰：整合套裝軟體完成專業任務",
+        "en": "Overview of Suite Software<br>Applications of Word Processing Software<br>Operations of Database Management Software<br>Techniques in Spreadsheet and Data Analysis Software<br>Designing with Reporting and Presentation Software<br>Project Implementation: Integrating Suite Software for Professional Tasks<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習和掌握不同套裝軟體的基本操作和功能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解如何在實際工作中整合和應用套裝軟體。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過專案練習，鞏固套裝軟體的應用知識和技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養批判性思考，有效評估和選擇最合適的軟體工具來完成特定任務。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,139 @@
+{
+    "code": "M0N0BC01",
+    "name": {
+        "zh": "餐旅法規與案例分析",
+        "en": "Law And Case Study in Hospitality Industry"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技餐旅四甲"
+    ],
+    "instructors": [
+        "徐良維"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "T0310"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "T0310"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "T0310"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "由實務的判決了解餐旅業各種法令規範及相關的民、刑事責任，並教導同學各種案例糾紛之處理方式及實務操作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "刑法概述，講述刑法基礎概念和與餐旅業者相關的刑事責任<br>(消費者受傷、公共危險等相關刑事案件)<br>民法概述，講述民法上與餐旅業有關契約責任<br>(旅遊契約、旅館訂房糾紛、旅客身體受傷、物品毀損之賠償及其他侵權行為責任)<br>旅館業設立與監督責任與相關法規<br>(主管機關、業務範圍和設備執照、消防措施及各種相關法規)<br>旅館業法律糾紛之處理<br>(旅遊契約糾紛、消費者使用設備之糾紛紛)<br>旅館業法律案例報告<br>(同學尋找案例提出報告、老師講解)",
+        "en": "Introduction<br>Legal Reading and Research<br>Introduction to Act Governing Food Safety and Sanitation<br>Administrative Liability and Sanctions of Food Businesses in Act Governing Food Safety and Sanitation &amp; Case Study<br>Criminal Liability for Food Businesses in Act Governing Food Safety and Sanitation &amp; Case Study<br>Other Important Rules in Act Governing Food Safety and Sanitation &amp; Case Study<br>Consumer Protection Act &amp; Case Study<br>Supplements of Other Acts and Regulations<br>Conclusion"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "增進學生餐旅法規知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養個人法治觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習溝通與意見表達",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習溝通與意見表達",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解如何爭取權益及解決問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解如何爭取權益及解決問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

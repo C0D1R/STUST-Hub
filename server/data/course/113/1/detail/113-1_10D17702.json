@@ -1,0 +1,115 @@
+{
+    "code": "10D17702",
+    "name": {
+        "zh": "靜力學",
+        "en": "Applied Mechanics (Statics)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技自控二乙"
+    ],
+    "instructors": [
+        "莊鎧榤"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "K309"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "K309"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "K309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "應用(工程)力學原理概述與分析計算,其內容包括質點、剛體、力與力系的概念、力矩的分析計算,自由體圖繪製，重心等位置計算、摩擦與慣性矩暨應用平衡方程求解。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.概論-基本概念<br>2.力、向量和合力<br>3.力矩和力偶<br>4.平衡<br>5.結構與桿件<br>6.三維空間靜力平衡<br>7.摩擦<br>8.形心與重心<br>9.慣性矩<br>10.應用與解答<br>",
+        "en": "1.Intoduction-Basic Concept <br>2.ForceVector and Resultant<br>3.Moments and Couples<br>4.Equilibrium<br>5.Structure and Member<br>6.Static equilibrium of three dimension spaces <br>7.Frictions<br>8.Center of Gravity, Centric and Center of Mass <br>9.Moments of Inertia<br>10.Application and Solution<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解質點靜力平衡",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "力量系統的分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "剛體平衡的分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "形心與慣性矩的計算",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

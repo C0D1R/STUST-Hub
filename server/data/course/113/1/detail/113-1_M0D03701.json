@@ -1,0 +1,122 @@
+{
+    "code": "M0D03701",
+    "name": {
+        "zh": "餐旅行銷管理",
+        "en": "Marketing for Hospitality"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技餐旅二甲"
+    ],
+    "instructors": [
+        "鄭淑勻"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0310"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0310"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "藉由了解餐旅行銷系統及模式，將餐旅管理基礎融會貫通到本課程，<br>進而具備餐旅產品行銷規劃之能力。<br>",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.課程介紹：行銷學導論與定義<br>2.餐飲旅館服務行銷<br>3.餐飲旅館服之行銷系統、顧客行為<br>4.行銷機會分析、行銷研究<br>5.行銷策略:市場區隔與趨勢<br>6.行銷研究<br>7.行銷計劃與8Ps<br>8.產品開發與合作<br>9.期中考<br>10.人員:服務與服務品質、人員銷售與銷售管理<br>11.包裝與節目規劃、配銷組合<br>12.溝通與促銷組合<br>",
+        "en": "Introduction to Hospitality Marketing Management<br>Service marketing<br>Experience marketing<br>Positioning<br>Web marketing <br>8 P <br>Promotion<br>Package"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解行銷學的基本原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用行銷學原理到餐旅業實務上",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用行銷實務案例分析行銷涵義",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生團隊合作的精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "體認與消費者溝通在行銷上的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

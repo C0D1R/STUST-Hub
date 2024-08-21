@@ -1,0 +1,100 @@
+{
+    "code": "70N14T01",
+    "name": {
+        "zh": "(此課不開)不動產投資與管理概要",
+        "en": "Real Estate Investments Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜二技企管四甲",
+        "夜四技企管四甲"
+    ],
+    "instructors": [
+        "余建明"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程提供國內不動產發展、不動產法規制度、不動產類型、不動產相關行業等 ，並講授不動產投資與市場分析，讓同學了解不動產的投資特性，再藉以簡單的財管理論為基礎，介紹不動產的投資管理。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 國內不動產之發展歷程與展望、不動產管理概論、不動產相關法規制度。<br>2. 簡易投資分析基礎、不動產市場投資基本理念。<br>3. 不動產簡易財務分析方法、不動產風險分析與管理、不動產證券化。<br>",
+        "en": "1. History and Prospects of the domestic real estate, real estate management Studies, real estate-related laws and regulations.<br>2. Simple investment analysis based on the basic concept of the real estate investment market.<br>3. simple real estate financial analysis, risk analysis and management of real estate, real estate securities.<br>"
+    },
+    "weeklySchedule": "第01週　不動產投資概論<br> 第02週　不動產投資之風險、報酬與風險管理<br> 第03週　利率、現值、終值與年金<br> 第04週　不動產財務分析<br> 第05週　當代不動產投資分析工具<br> 第06週　不動產開發及市場分析<br> 第07週　不動產估價(1)<br> 第08週　不動產估價(2)<br> 第09週　期中作業<br> 第10週　不動產與金融市場分析<br> 第11週　不動產抵押貸款分析<br> 第12週　不動產與金融資產證券化<br> 第13週　不動產抵押債權及相關證券之評價<br> 第14週　不動產稅賦與財政政策<br> 第15週　專案融資與其他不動產相關主題<br> 第16週　不動產投資個案之實例探討(1)<br> 第17週　不動產投資個案之實例探討(2)<br> 第18週　期末作業",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "書面報告",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "提供不動產管理之基本慨念與相關背景知識。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "簡易投資分析基礎、並提供同學正確的不動產市場投資基本理念的重要性。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "提供不動產風險分析與管理及不動產證券化的概念。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備不動產投資與管理知識與考取不動產鑑價人員證照的基本知識與能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "不動產投資管理",
+        "author": "林左裕",
+        "publisher": "智勝出版",
+        "year": "2018",
+        "ISBN": "9789864570485",
+        "edition": "6版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "請同學尊重智慧財產權，使用正版教科書，不得非法影印，以免觸犯智慧財產權相關法令"
+}

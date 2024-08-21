@@ -1,0 +1,200 @@
+{
+    "code": "65D01I01",
+    "name": {
+        "zh": "國際企業個案研討",
+        "en": "Case Study in International Business"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國商四甲"
+    ],
+    "instructors": [
+        "居俐"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "E0509"
+        },
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "E0509"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "E0509"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course engages students in conducting business in global markets through a Case Study Approach. It includes analyzing a leading global company case study, presenting individual global company case study examples, and creating a business strategy for their own product/service. Students develop critical thinking skills, effective solutions for international business cases, and an understanding of cultural and economic factors influencing global business. Real-life case studies bridge the gap between theory and practice, addressing challenges faced by multinational corporations. Ethical dilemmas and frameworks in international business are explored, fostering responsible decision-making in a global context.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一部分：國際商務背景<br>• 全球化與國際商務<br>第二部分：比較環境框架<br>• 商務面臨的文化環境<br>• 商務面臨的政治和法律環境<br>第三部分：全球戰略、结構和實施<br>• 國際商務戰略，包括國家評估和選擇<br>• 國際商務組織<br>第四部分：管理國際運營<br>• 全球市場營銷<br>• 領導全球公司<br>• 國際人力資源管理<br>• 全球公司的企業社會責任和可持續發展<br>",
+        "en": "PART I. BACKGROUND FOR INTERNATIONAL BUSINESS<br>•Globalization and International Business<br><br>PART II. COMPARATIVE ENVIRONMENTAL FRAMEWORKS<br>•The Cultural Environments Facing Business<br>•The Political and Legal Environments Facing Business<br><br>PART III. GLOBAL STRATEGY, STRUCTURE, AND IMPLEMENTATION<br>•The Strategy of International Business, including Country Evaluation and Selection<br>•The Organization of International Business<br><br>PART IV. MANAGING INTERNATIONAL OPERATIONS<br>•Marketing Globally<br>•Leading Global Companies<br>•International Human Resource Management<br>•CSR and Sustainable Development for Global Companies <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養分析能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養分析能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養分析能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "將理論概念應用於現實情況",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "將理論概念應用於現實情況",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "將理論概念應用於現實情況",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "將理論概念應用於現實情況",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "將理論概念應用於現實情況",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增強跨文化能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "促進道德決策",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "促進道德決策",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

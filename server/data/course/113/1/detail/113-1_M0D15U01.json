@@ -1,0 +1,134 @@
+{
+    "code": "M0D15U01",
+    "name": {
+        "zh": "管理學",
+        "en": "Management"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技餐旅一甲"
+    ],
+    "instructors": [
+        "毛佩娟"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "T0109"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "T0109"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "讓學習者了解管理的重要性包括管理的功能:規劃,組織,領導,激勵,控制<br>使管理功能應用於辦理各項活動以及就業後的工作範圍,尤其是當一個領導幹部更需要學習與運用管理<br>",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.管理者與管理<br>2.管理的環境<br>3.規劃的基本概念<br>4.制定決策<br>5.組織設計<br>6.用人與人力資源管理<br>7.領導<br>8.激勵與獎酬<br>9.溝通與人際技巧<br>10.控制的重要與控制工具 <br>",
+        "en": "1.HISTORY OF MANAGEMENT THOUGHT AND PRACTICE2<br>2.ENVIORONMENTAL CONTEXT OF MANAGEMENT<br>3.PLANNING AND DECISION MAKING<br>4.STRATEGIC MANAGEMENT<br>5.ORGANIZING AND STAFFING<br>6.MANAGING HUMAN RESOURCES<br>7.LEADING<br>8.MONITORING AND EVALUATING<br>9.OPERATIONS MANAGEMENT<br>10.ORGANIZATIONAL CHANGE AND RENEWAL<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解管理理論之歷史及文化觀點",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能詮釋管理環境的變動及全球化的趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解規劃、組織之管理功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解溝通、領導之管理功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解控制之管理功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分析管理個案之問題並提出解決方案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

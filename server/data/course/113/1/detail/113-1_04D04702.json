@@ -1,0 +1,169 @@
+{
+    "code": "04D04702",
+    "name": {
+        "zh": "體育生活(三)：籃球(B)",
+        "en": "Physical Education(III)：Basketball"
+    },
+    "credit": "1",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "四技高福二甲",
+        "四技企管二甲",
+        "四技企管二乙",
+        "四技行流二甲",
+        "四技行流二乙",
+        "四技應日二甲",
+        "四技應日二乙",
+        "四技半導體二甲",
+        "四技半導體二乙",
+        "四高福國專二甲",
+        "四半導國專二甲"
+    ],
+    "instructors": [
+        "洪榮臨"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": ""
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.說明籃球運動相關的知識與技能<br>2.說明籃球運動規則與競賽<br>3.訓練籃球裁判的方法<br>4.籃球運動的基本技術訓練<br>5.籃球團隊戰術實際的演練<br>",
+    "prerequisites": "注意事項：\n1.請穿著服運動服.運動褲.運動鞋.運動襪.上課.。\n2.上課不遲到.及無故缺席.。\n3.請遵守上課規定。\n4.注意運動安全與避免運動傷害。\n5.如有重大或慢性疾病,請事先告知教師。",
+    "syllabus": {
+        "zh": "1.籃球歷史與演進:<br><br>2.籃球基本體能與訓練:<br>(1).腰力<br>(2).耐力<br>(3).地板動作<br>(4).跳躍力<br>(5).爆發力<br><br>3.籃球基本動作與練習方式:<br>(1).腳步的基本動作:進攻的基本步法,防守的基本步法<br>(2).傳球:基本持球動作,胸前傳球,彈地傳球,過頭傳球,單手肩上傳球<br>(3).接球:技術重點,分析<br>(4).運球:技術重點,分析<br>(5).投籃:單手,雙手,下手走籃,上手走藍<br>(6).籃板球:技術重點,分析<br>(7).快攻戰術:兩人短傳,兩人長傳,三人組織<br>(8).防守戰術:人盯人,2-1-2區域聯防.3-2區域聯防<br>(9).進攻戰術:傳切配合,掩護配合<br><br>4.籃球比賽規則與進行<br>(1).場地面積介紹<br>(2).器材設備介紹<br>(3).規則介紹<br><br>5.籃球裁判訓練法<br>(1).成為裁判所應具備的知識<br>(2).成為裁判所應具備的技能與手勢技巧<br><br>6.籃球相關活動欣賞<br>(1).街頭籃球<br>(2).3對3鬥牛<br>(3).SBL影片欣賞 <br>",
+        "en": "1.The history of basketball.<br><br>2.Below are the fundamentals of physical and training for basketball. <br>(1).Waist-power. <br>(2).Staying-power.<br>(3).Floor action. <br>(4).Jumping ability<br>(5).Explosive force.<br><br>3.Below are the fundamentals and (practice) the way of training for basketball. <br>(1).The fundametals of step<br>(2).Ball pass<br>(3).Ball catch<br>(4).Dribble<br>(5).To shoot a ball<br>(6).Rebound <br>(7).Fast break strategy <br>(8).Defense strategy <br>(9).Give and go strategy<br>4.Below are the rules of basketball game and process. <br>(1).The introduction of basketball ground. <br>(2).The introduction of equipments. <br>(3).The introduction of rules. <br><br>5.Following are the methodology of training a people to be a judge of basketball. <br>(1).Neccessary knowleges relating to basketball. <br>(2).The skills and signs<br><br>6.Exercises. <br>(1).Free style game. <br>(2).3 to 3 game. <br>(3).SBL video watch."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "發展全身性的協調性，增強肌力的強度，讓健康成為生活的要素",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練反應的靈敏性及生理機能的強化，對於照護自身健康的能力持續發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過籃球技巧的精進學習，以籃球做為與人互動的工具，建立良好的人際關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過籃球運動的競技活動，讓參與者內斂養成各項良好的運動精神及健全人格",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以運動能力為標準，組織健全的社群活動，並發展社群組織，讓運動走進社區活動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過運動的美感，培養創造及創新的人力素養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以籃球運動的過程，訓練個體據被控壓的能力及優質情緒的管理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "合群的態度是競爭力重要的一環，透過團體的競技活動，加以磨練",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,132 @@
+{
+    "code": "10D35K01",
+    "name": {
+        "zh": "金屬材料與熱處理技術",
+        "en": "Metal Materials and Heat Treatment Technology"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控四甲",
+        "四技自控四乙",
+        "四技製造四甲",
+        "四技製造四乙",
+        "四技車輛四甲",
+        "四技車輛四乙"
+    ],
+    "instructors": [
+        "吳忠春"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "K401"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "K401"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "K401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹金屬材料的種類與應用，分別從金相組織、合金機械性質與製程等關係探討工程材料的選用及表面處理的重要性，並配合材料機械性質與相圖的介紹，來說明材料結構與機械性質的關係，以及讓同學了解施加熱處理製程可以改變材料結構與提昇機械性質的原理。本課程亦將邀請業界講師講授金屬材料的產業應用，達到理論與實務技能結合之目的。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.金屬材料種類與產業應用<br>2.鑄鐵特性介紹與產業應用<br>3.不銹鋼特性介紹與產業應用<br>4.鋼鐵材料熱處理原理<br>5.熱處理實務技術應用<br>6.熱處理產品品質測試與管理",
+        "en": "1. Types of metal materials and industrial applications<br>2. Introduction of cast iron characteristics and industrial application<br>3. Introduction of stainless steel characteristics and industrial applications<br>4. Principles of heat treatment of steel materials<br>5. Practical technology application of heat treatment<br>6. Quality testing and management of heat treatment products"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解金屬材料的種類與產業應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識熱處理技術的基本原理與產業實務應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備材料製造與熱處理加工從業人員之製程概念與專業態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解金屬材料加工與熱處理的使用選擇及其參數設定技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解金屬材料與熱處理專用之英文術語",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,122 @@
+{
+    "code": "10D35V04",
+    "name": {
+        "zh": "環境永續與安全衛生概論",
+        "en": "Introduction of hygiene and safety"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技製造一乙"
+    ],
+    "instructors": [
+        "董景瑞"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "K504"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "K504"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "因應全球環境永續SDGs發展趨勢，及國內勞工三權的推動，本課程除了強化學生在淨零排碳環境永續的概念外，另以職業安全衛生相關法規為基礎，建立學生在未來就業環境中的勞動三權與相關法規的熟悉度。另加入了過往的經驗及事故案例，期望能以文字及口授的方式針對職業安全衛生環境與事故之因果作分析，並提出對策以保障工作者之安全與健康。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.職業安全衛生法規簡介並以此基礎，建立學生在未來就業環境中的勞動三權與相關法規的熟悉度<br>2.職業災害之雇主責任與勞工權益<br>3.職業安全衛生組織與人員<br>4.職業安全衛生檢查<br>5.職業安全衛生教育訓練<br>6.勞工健康檢查與管理<br>7.職業災害調查與處理<br>8.機械設備與安全<br>9.噪音危害<br>10.化學性危害<br>11.危害通識<br>12.強化學生在淨零排碳環境永續的概念，因應全球環境永續SDGs發展趨勢<br>",
+        "en": "1.Occupational Safety and Health Act Statute<br>2.Responsibility of Employer &amp; Protection for Workers Incurring Occupational Accidents<br>3.Organization of Occupational Safety and Health<br>4.Inspection for Occupational Safety and Health<br>5.Education &amp; Training for Occupational Safety and Health<br>6.Inspection and Management for Labor Health<br>7.Investigation &amp; Measures for Occupational Accidents<br>8.Equipment Safety<br>9.Noise Hazard<br>10.Chemical Hazard<br>11.Hazard Communication<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解人類與工業對環境的影響，強化學生在淨零排碳環境永續的概念，因應全球環境永續SDGs發展趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立學生在未來就業環境中的勞動三權與相關法規的熟悉度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解機械設備與安全",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識職業病",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識危害通識標準",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

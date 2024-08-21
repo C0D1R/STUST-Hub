@@ -1,0 +1,117 @@
+{
+    "code": "90D20201",
+    "name": {
+        "zh": "無線網路安全",
+        "en": "Wireless Network security"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資管四甲",
+        "四技資管四乙",
+        "四技資管四丙"
+    ],
+    "instructors": [
+        "陳偉業"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "E0403"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "E0403"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "E0403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將介紹行動通信系統、無線區域網路及藍芽網路等的運作原理與相關安全機制，讓學生瞭解無線網路上所面臨的安全相關議題，並可比較與傳統的有線網路的安全問題有何差異，學習無線網路資訊安全技術。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 無線網路技術介紹 <br>2. 行動通訊系統簡介 <br>3. 行動通訊系統之安全機制 <br>4. 無線區域網路簡介<br>5. 無線區域網路之安全機制 <br>6. 藍芽網路簡介<br>7. 藍芽網路之安全機制 <br>8. 架設安全的無線網路實作",
+        "en": "1. Introduction to Wireless Network Technology<br>2. Introduction to Mobile Communication Systems<br>3. The Security of Mobile Communication Systems<br>4. Introduction to Wireless Area Network<br>5. The Security of Wireless Area Network<br>6. Introduction to Bluetooth Network<br>7. The Security of Bluetooth Network<br>8. Practice of Installing a Secure Wireless Network<br>"
+    },
+    "weeklySchedule": "1. 無線網路技術介紹   3hr<br>2. 無線區域網路簡介   6hr<br>3. 無線區域網路之安全機制   9hr<br>4. 行動通訊系統簡介   6hr<br>5. 行動通訊系統之安全機制   9hr<br>6. 藍芽網路簡介   3hr<br>7. 藍芽網路之安全機制  6hr<br>8. 架設安全的無線網路實作   12hr",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解無線網路網路的基礎概念與管理實務",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能應用指令正確設定並管理網路設備",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用網路軟體分析資料並正確解讀實驗結果",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用所學知識規劃網路並解決問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.資通安全聯盟「無線網路安全」教材模組<br>2.駭客攻防技術新擂台-入侵與無線網路篇 程秉輝 (旗標) 2008<br>3.無線網路駭客現形攻防戰  莊添發 (旗標) 2006<br>4. Internet上相關資料",
+    "teachingSoftware": "",
+    "rules": "課堂上請勿滑手機及趴睡，上課情況列入平時成績"
+}

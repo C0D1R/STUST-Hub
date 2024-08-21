@@ -1,0 +1,116 @@
+{
+    "code": "1JD01503",
+    "name": {
+        "zh": "人類發展學暨實驗",
+        "en": "Human development (include Lab.)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技高福一甲",
+        "四高福國專一甲"
+    ],
+    "instructors": [
+        "劉明宜"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "T0001"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0001"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "T0001"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程的內容涵蓋由基因至死亡整個人生過程的整體性探討，藉由各種教學活動與實驗，提供學生認識人類在發展過程中各階段的生理、心理、認知、社會文化與靈性之發展現象及健康需求。並透過各項活動的參與，瞭解不同發展理論對人類發展的看法，以及文化、歷史對於人類發展之影響。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.認識人類發展理論基礎。<br>2.認識各年齡層個體的認知發展及心理與社會發展之特徵。<br>3.瞭解生命過程中各階段之常見問題及預防保健。<br>4.家庭評估與家庭關係、家庭影片欣賞與剖析。<br>5.青壯年期之發展、中年期之發展。<br>6.老年期之發展、生命的最後驛站。<br>7.回顧個人過去的發展歷史與前瞻未來的發展方向，提昇對自我的認識。<br>8.應用所習得之知識，面對並處理自己成長過程中遭遇之問題。<br>9.培養學生認識人類發展學之範疇並具備基礎理論以提升終身學習之能力。<br>10.團體報告<br>",
+        "en": "1.\t認識人類發展理論基礎。<br>2.\t認識各年齡層個體的認知發展及心理與社會發展之特徵。<br>3.\t瞭解生命過程中各階段之常見問題及預防保健。<br>4.\t家庭評估與家庭關係、家庭影片欣賞與剖析。<br>5.\t青壯年期之發展、中年期之發展。<br>6.\t老年期之發展、生命的最後驛站。<br>7.\t回顧個人過去的發展歷史與前瞻未來的發展方向，提昇對自我的認識。<br>8.\t應用所習得之知識，面對並處理自己成長過程中遭遇之問題。<br>9.\t培養學生認識人類發展學之範疇並具備基礎理論以提升終身學習之能力。<br>10.\t團體報告<br>1.Understand the theoretical basis of human development<br>2.Recognize the cognitive development and the characteristics of psychological and social development of individuals of all ages<br>3.Understand the common problems and preventive care at all stages of the life process<br>4.Family assessment and family relationship, family film appreciation and analysis<br>5.The development of young and middle-aged, the development of middle-aged<br>6.The development of old age, the last stop of life<br>7.Reviewing the past development history of the individual and the future development direction of the future, and raising awareness of the oneself<br>8.Apply the acquired knowledge to face and deal with the problems encountered in the process of growing up<br>9.Cultivate students to understand the scope of human development and have basic theories to enhance lifelong learning<br>10.Group reports and various age development tasks<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解人生各階段在生理、心理、認知、社會文化及靈性的發展特徵",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用皮亞傑(Piaget)認知理論，艾力克森(Erikson)心理社會發展理論及佛洛依德(Freud)的性心理發展理論觀點探索人類各階段的發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "確認各發展階段中個人之健康需求以及可能面臨發展上之問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用人類發展之知識與理論，分析人類各階段的發展特徵",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

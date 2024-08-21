@@ -1,0 +1,116 @@
+{
+    "code": "30D1FC01",
+    "name": {
+        "zh": "計算機概論",
+        "en": "Introduction to Computer Science"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子一甲",
+        "四電子國專一甲"
+    ],
+    "instructors": [
+        "林福林"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "P301"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "P301"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "P301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹計算機的軟、硬體，並說明組成硬體各單元的功能及邏輯原理，另外也說明系統軟體及應用軟體的區別，最後說明程式語言和簡單的資料結構。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.簡介<br>2.數目系統<br>3.資料的儲存<br>4 資料運算<br>5.計算機組織<br>6.電腦網路<br>7.作業系統<br>8.演算法<br>9.程式語言<br>10.軟體工程",
+        "en": "1. Introduction<br>2. Number Systems<br>3. Data Storage<br>4. Operation on Data<br>5. Computer Organization<br>6. Computer Networks<br>7. Operating System<br>8. Algorithms<br>9. programming Languages<br>10.Software Engineering"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "資訊技術的介紹與資訊工程及相關工程上，所需要的軟硬體設計概念與技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "簡介系統軟體及應用軟體。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "介紹各項資訊產品，使學生能了解資訊產業與人類之密切關係。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由分組報告，訓練學生團隊合作與敬業合群的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,151 @@
+{
+    "code": "90D08002",
+    "name": {
+        "zh": "經濟學",
+        "en": "Economics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資管二乙"
+    ],
+    "instructors": [
+        "王靜怡"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第1節",
+            "location": "S313"
+        },
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "S313"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "S313"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹經濟學的基本概念及分析方法，包括供需法則、國民所得、通貨膨脹等定義，以及分析經濟成長、開放經濟和景氣波動之模型，使學生能夠了解經濟學之相關議題和其在日常生活中的應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章揭開經濟學之面紗 <br>第二章供給與需求<br>第三章彈性<br>第四章消費的選擇與需求<br>第五章廠商的生產成本<br>第六章完全競爭<br>第七章不完全競爭市場<br>第八章市場機能與經濟效率<br>",
+        "en": "chap1 economics and economic problems<br>chap2 demand and supply<br>chap3 demand and supply elasticity<br>chap4 utility analysis<br>chap5 production and cost<br>chap6 market style<br>chap7 market procing and productions decision<br>chap8 markets for factors of production <br>"
+    },
+    "weeklySchedule": "1-2  週  揭開經濟學的面紗<br>3-4  週  供給與需求<br>5-6  週  彈性<br>7-8  週  消費的選擇與需求<br>9    週  期中考<br>10-11週  廠商的生產成本<br>12-13週  完全競爭<br>14-15週  不完全競爭市場<br>16-17週  市場機能與經濟效率<br>18   週  期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解經濟學的基本學理",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－課堂問瘩"
+                },
+                {
+                    "method": "平時",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期中",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能將經濟消息轉換成資訊並用以建立管理決策",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－課堂問答"
+                },
+                {
+                    "method": "平時",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期中",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用經濟原理分析經濟資料",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－課堂問答"
+                },
+                {
+                    "method": "平時",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現經濟資訊，讓不懂經濟專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－課堂問答"
+                },
+                {
+                    "method": "平時",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "基礎經濟學",
+        "author": "李堯賢等人",
+        "publisher": "高立出版社",
+        "year": "2022",
+        "ISBN": "9789869685085",
+        "edition": "四版三刷"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "1.課程相當重視出席率，所以請同學多到課。<br>2.在課堂上，請勿使用影印版的教科書，請尊重智財權。"
+}

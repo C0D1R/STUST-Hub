@@ -1,0 +1,147 @@
+{
+    "code": "1LD07B01",
+    "name": {
+        "zh": "電影與在地文化",
+        "en": "Film and Local Culture"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "邱瀅儒"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0103"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "T0103"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "T0103"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "台灣許多國片都是以台灣在地的風俗文化、歷史或青少年文化為背景，讓觀眾在觀賞之餘，也會產生在地情感和認同感，進而支持電影和觀光產業的發展。<br>本課程主要是培養學生對臺灣電影知識產業與文化的分析能力。授課方式以閱讀、電影欣賞、討論與報告為主。由於過去電影在目前大學教育中較少主題性教學與討論。有鑑於此，本課程以探討在地文化的電影作為媒介，不單侷限於過去事實的敘述，繼而帶領學習者嘗試對各個不同類型在地文化進行思辨，期待能培養問題分析的能力，累積媒體識讀的經驗，熟悉資料批判的技巧。同時引導學習者評價人、事、物時避免僅用現代的觀點，而是回到過往的時空脈絡，以同理心來揣摩並理解前人的觀念價值，進而反躬己身就現今社會加以相對化。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程目標為培養學生獨立思考、關懷戰後影像娛樂與國家形象重製的關係，提供學生一個全景式的早期電影視野；鼓勵學生在討論與交流當中，重新思考過去的電影文化與工業在庶民文化中所扮演的角色，並從影像角度理解當代臺灣社會與在地文化建構。",
+        "en": "The goal of this course is to train students to think independently, to care about the relationship between post-war video entertainment and national image reconstruction, and to provide students with a panoramic perspective of early cinema; students are encouraged to rethink the past film culture and industry in the discussion and exchange. The role played in culture, and to understand contemporary Taiwan society and local cultural construction from the perspective of video."
+    },
+    "weeklySchedule": "第一週\t導論：電影與在地文化的關係,分組<br>第二週\t電影與夜市文化(一)<br>第三週\t電影與夜市文化(二)<br>第四週\t鹽水踏查(融入SDGs 目標11-永續城鄉)<br>第五週\t電影與台灣傳統飲食文化(一)<br>第六週\t鹽水竹工藝社區共學課程(一)(融入SDGs 目標17-多元夥伴關係)<br>第七週\t電影與地方廟會陣頭文化(一)<br>第八週\t電影與地方民俗文化(一)<br>第九週\t期中考：繳交個人專題報告<br>第十週   電影與地方民俗文化(二)<br>第十一週\t 電影與原住民文化(一)<br>第十二週\t鹽水竹工藝社區共學課程(二)(融入SDGs 目標17-多元夥伴關係)<br>第十四週\t電影與客家文化(一)<br>第十五週 電影與客家文化(二)<br>第十六週\t電影與地方特色行銷(一)(融入SDGs 目標11-永續城鄉)<br>第十七週\t電影與地方特色行銷(二)<br>第十八週\t期末考：繳交個人專題報告<br>",
+    "exams": {
+        "midterm": "分組報告",
+        "final": "分組成果報告",
+        "other": "分組討論"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備中文、人文藝術的基本知能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "經由深化對歷史與文化的理解，從而強化本土意識，進而放眼國際",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能融合統整所學知能，並以創新思維有系統地解決各項問題及積極學習",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "就所學以口頭或文字說明或介紹歷史電影的構成要素與藝術價值",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能負責盡職，具備良好的自主學習態度；於團體中與人互助合作、有效地達成既定目標",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能理解並分析電影的敘事表現，並能提高個人對影視藝術的鑑賞品味",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.\tFerro, Marc，張淑娃譯，《電影與歷史》，臺北：麥田出版社，1900.01，ISBN：<br>9577086446。<br>2.盧非易，《臺灣電影：政治、經濟、美學（1949-1994）》，臺北：遠流出版公司，1998.12，ISBN：9573235943。<br>3.葉龍彥，《春花夢露：正宗台語電影興衰錄》，臺北：博楊出版社，1999.09，ISBN：9579771006。<br>4.廖金鳳，《消逝的影像：台語片的電影再現與文化認同》，臺北：遠流出版公司，2001.06，ISBN：9753243804。<br>5.徐樂眉，《百年台灣電影史(第二版)》，臺北：揚智出版公司，2015.09，ISBN：9789862981634。<br>6.林文淇，《華語電影中的國家認同與國族寓言》，臺北：國家電影資料館，2010.11，ISBN：9789868445543。<br>7.林文淇、沈曉茵、李振亞編著，《戲夢時光：侯孝賢電影的城市、歷史、美學》，臺北：財團法人國家電影中心，2015.02，ISBN：9789869139915。<br>8.林贊庭。2003 。《台灣電影攝影技術發展概述》。臺北：行政院文化建設委員會。<br>9.李天鐸，《台灣電影、社會與歷史》，臺北：揚智文化，1998.01，SBN：9789579856119。<br>10.葉蓁，黃宛瑜譯，《想望台灣：文化想像中的小說、電影和國家》，臺北：書林，2011.08，ISBN：9789574453986。<br>11.陳儒修，《穿越幽暗鏡界：台灣電影百年思考》，臺北：書林，2013.04，ISBN：9789574454433。<br>",
+    "teachingSoftware": "",
+    "rules": "1.第一週未到課者(有意加選者也應到課，否則視同未到)，於學期成績扣分。<br>2.上課勤惰(缺曠或遲到)列為學期成績之參酌，有缺課紀錄、學習單/作業/報告未交者，其學期成績不及格機率極高。<br>3.上課中請勿睡覺、聊天及使用手機、筆電、平板等通訊設備。<br>"
+}

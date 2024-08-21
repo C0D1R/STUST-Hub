@@ -1,0 +1,100 @@
+{
+    "code": "1CD04V01",
+    "name": {
+        "zh": "設計產業人培實習(三)",
+        "en": "Design Professional Incubation(三)"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技產設四甲",
+        "四技產設四乙"
+    ],
+    "instructors": [
+        "程筑鈺"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "設計人才培育實習與專案實務開發參與",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 設計實務技能訓練<br>2. 設計專業知識養成<br>3. 專案整合創新研發<br>4. 團體合作專案討論",
+        "en": "1. Design knowledge &amp; skills training.<br>2. Incubation of design Professional.<br>3. Integration innovation and development in project.<br>4. Team cooperation &amp; project discussion"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "設計實務技能訓練",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "設計專業知識養成",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "專案整合創新研發",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "團體合作專案討論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

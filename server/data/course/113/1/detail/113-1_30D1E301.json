@@ -1,0 +1,110 @@
+{
+    "code": "30D1E301",
+    "name": {
+        "zh": "創意設計",
+        "en": "creative design"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技電子二丙"
+    ],
+    "instructors": [
+        "唐蔚"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "P303"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "P303"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過對於創意設計之介紹及案例分析，培養學生進行創意設計之能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.收集資料_國內外文創品牌分析<br>2.競爭者分析報告<br>3.目標族群分析與規劃方式<br>4.品牌哲學定義與中心思想<br>5.材質種類認識與運用<br>6.產品線開發方式與成本分析<br>7.行銷方式與市場策略",
+        "en": "1.Data collection and analysis<br>2.Competitor analysis<br>3.Target group analysis and planning<br>4.Brand philosophy<br>5.Material analysis and design<br>6.Product line development method and cost analysis<br>7.Marketing methods and marketing strategies"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "創意產業的認知與學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創意品牌走向產業化的規劃建構與操作技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創意商品開發與設計實務製作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "如何建立創意品牌的架構規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

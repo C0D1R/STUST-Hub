@@ -1,0 +1,115 @@
+{
+    "code": "B0M43O01",
+    "name": {
+        "zh": "景觀與環境永續規劃",
+        "en": "Sustainable Landscape Architecture and\nEnvironmental Planning"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研休閒一甲"
+    ],
+    "instructors": [
+        "楊蓓涵"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "T0609"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0609"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0609"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "景觀規畫論是一門自然與人文的應用科學，景觀規畫範疇大者從國土規劃到國家公園、國家風景區、都市設計、都市公園，小至庭園、工廠、學校、住宅等，甚至於裝置藝術，都和景觀密不可分。因此，一般常使用原風景、都市景觀、農村景觀、森林景觀、溪流景觀、住宅區景觀等名詞，可以窺視其涵蓋廣大的層面。本課程主要針對休閒遊憩相關之景觀編排授課內容，因此僅選擇與觀光休閒產業相關的景觀，闡明其學理與案例。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1  概論-自然與人文的應用科學<br>2  都市論- 都市的形成理論都市景觀形成之案例（例如台北、台中、台南、高雄）<br>3  農漁山村景觀-北海道美瑛．富良野，千枚田，中國四川竹海等美的條例<br>4  聚落景觀-岐阜県白山村、岡山縣倉敷美觀地區，中國周庄、烏鎮等世界遺產<br>5  河川溪流景觀-東京都隅田川、靜岡縣源兵衛川等<br>6  主題樂園-東京迪斯奈樂園，北海道旭動物園等<br>7  自然山水景觀-包含國家公園、國家風景區、國家地質公園、森林遊樂區等<br>8  自然環境調查-地名探源，水文調查，地圖製作，地形、地勢、坡度、地質、土壤、氣候、動植物調查，以自<br>   然條件為基礎的土地使用計畫<br>9  社會環境調查-地名探源，人口，產業，土地使用，建築，交通設施，歷史文化，圈域，社會動向，法規，政<br>   策與既定計畫，公害，災害，都市設施，能源設施，地方居民意識，事業者條件，計畫對象地的市場競爭條件， <br>   觀光遊憩休閑產業設施，使用者意識調查及需要，計畫對象地的資源條件，及社會環境調查綜合分析。<br>10 景觀調查-景觀實態、景觀意識、文獻資料調查。<br>11 計畫書編撰-土地使用計畫，分區計畫，動線計畫，主要設施計畫，細部設施計畫，供水計畫，排水計畫，能<br>   源計畫，分期實施計劃，維護管理計畫，防災計畫，經費及預算，施工管理計畫，監造計畫<br>12觀摩活動－高雄市高雄港（旗津燈塔），林蔭大道，壽山，高雄都會公園等",
+        "en": "This course is mainly aimed at the layout of lectures related to leisure and recreation. Therefore, only the landscapes related to the tourism and leisure industry are selected to clarify their theories and cases."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "一般常使用原風景、都市景觀、農村景觀、森林景觀、溪流景觀、住宅區景觀等名詞，可以窺視其涵蓋廣大的層面，",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "僅選擇與觀光休閒產業相關的景觀",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "主要針對休閒遊憩相關之景觀編排授課內容",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "選擇與觀光休閒產業相關的景觀，闡明其學理與案例。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

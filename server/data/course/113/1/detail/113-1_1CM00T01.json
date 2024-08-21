@@ -1,0 +1,110 @@
+{
+    "code": "1CM00T01",
+    "name": {
+        "zh": "綜合研究工作室(三)",
+        "en": "Integrated studio(III)"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩研產設二甲"
+    ],
+    "instructors": [
+        "歐陽昆"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "X303"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "X303"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "面對新世代的需求與挑戰，新一代的設計師需具備整合設計能力。本課程旨在藉由實務專題的研討，建構設計師在執行設計專案的過程中，進行諸多設計因素的同步探討。期使設計師具備整合設計的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(1)設計策略<br>(2)設計區隔與定位<br>(3)設計專案執行<br>(4)設計構想評估<br>(5)設計驗證",
+        "en": "The needs and challenges of the new generation designers，they need to have integrated design capabilities. This course aims to construct a designer to carry out a series of design factors in the process of executing the design project through the discussion of practical topics. So that students have the ability to integrate the design team.<br>(1) Design strategy<br>(2) Design interval and positioning<br>(3) Design project execution<br>(4) Design concept assessment<br>(5) Design verification"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解設計流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解專案執行內容",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能清楚區隔與定位設計議題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能對設計專案進行評估與驗證",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

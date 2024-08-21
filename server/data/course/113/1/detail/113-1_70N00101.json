@@ -1,0 +1,139 @@
+{
+    "code": "70N00101",
+    "name": {
+        "zh": "人力資源管理",
+        "en": "Human Resource Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜二技企管四甲"
+    ],
+    "instructors": [
+        "王姿力"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "S414"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "S414"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "S414"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "了解人力資源管理有哪些功能以及如何運作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "01. 簡介人力資源管理的策略性角色 <br>02. 工作分析 <br>03. 人事規劃與召募 <br>04. 員工的測試與甄選 <br>05. 面談 <br>06. 員工訓練與發展 <br>07. 組織再生與管理 <br>08. 績效評估 <br>09. 前程管理與公平對待 <br>10. 建立薪酬計畫 <br>11. 福利 <br>12. 勞工關係與集體談判 <br>13. 員工安全與健康<br>",
+        "en": "01. The Strategy Role of Human Resource Management<br>02. Job Analysis<br>03. HR Planning and Recruiting<br>04. Employee Testing and Selection<br>05. Interviewing Candidates<br>06. Training and Developing Employees<br>07. Managing Strategy Organizational Renewal<br>08. Appraising and Managing Performance<br>09. Managing Careers and Fair Treatment<br>10. Establishing Strategy Pay Plans<br>11. Benefits<br>12. Labor Relations and Collective Bargaining<br>13. Employee Safety and Health"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解人力資源管理的相關知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對組織人管問題有效辨識問題所在",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用人管知識於工作上",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認與他人團隊合作對於完成任務的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能工作分析，並撰寫工作計畫書",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能統整相關人事問題，提出解決方案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

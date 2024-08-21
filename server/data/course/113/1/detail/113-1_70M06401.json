@@ -1,0 +1,115 @@
+{
+    "code": "70M06401",
+    "name": {
+        "zh": "管理會計",
+        "en": "Managerial Accounting"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研企管一甲"
+    ],
+    "instructors": [
+        "許淑鈴"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "S209A"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "S209A"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "S209A"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "從管理決策之角度來彙集成本資料，透過成本習性之了解來分析決策攸關成本，並運用於各個管理層面之決策.",
+    "prerequisites": "會計學",
+    "syllabus": {
+        "zh": "1. 成本行為分析及運用<br>2. 成本、數量與利潤之關係 &amp; 利潤規劃<br>3. 分批成本制 &amp; 作業基礎成本制<br>4. 標準成本 &amp; 彈性預算及差異分析<br>5. 攸關成本及決策制定 &amp; 資本預算決策<br>",
+        "en": "1. Cost Concepts &amp; Cost Behavior: Analysis and Use <br>2. Cost-Volume-Profit Relationships &amp; Profit Planning <br>3. Systems Design: Job-Order Costing &amp; Activity-Based Costing <br>4. Standard Costs &amp; Flexible Budgets and Overhead Analysis <br>5. Relevant Costs for Decision Making &amp; Capital Budgeting Decisions<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立運用經營數據之基本能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養以全觀角度面對瞭解問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "搜集並掌握不同方案之差異成本",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "強化實務與科學之攸關",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

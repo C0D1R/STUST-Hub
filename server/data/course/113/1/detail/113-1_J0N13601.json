@@ -1,0 +1,143 @@
+{
+    "code": "J0N13601",
+    "name": {
+        "zh": "商業攝影",
+        "en": "Commercial Photograph"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技視傳三甲"
+    ],
+    "instructors": [
+        "陳彥碩"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第12節",
+            "location": "W0702"
+        },
+        {
+            "day": "週二",
+            "period": "第13節",
+            "location": "W0702"
+        },
+        {
+            "day": "週二",
+            "period": "第14節",
+            "location": "W0702"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以商業攝影的服務對象及目標為研究範疇，進行專題式的實務教學。課程的內容包括：攝影概論、相機原理、鏡頭光學、曝光控制、構圖分析、燈光實務，攝影棚專題實習及數位化影像後製等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.攝影觀念與技術介紹<br>2.數位攝影機原理/單眼數位相機解說<br>3.鏡頭光學原理與應用<br>4.景深<br>5.構圖<br>6.色溫 <br>7.曝光控制 <br>8.攝影棚燈光 <br>9.數位影像處理<br>10.專題實務 （一）靜物攝影<br>11.專題實務 （二）食品攝影<br>12.專題實務 （三）時尚攝影<br>13.專題實務 （四）人像與婚紗攝影<br>14.專題實務 （五）風景與空間攝影<br>",
+        "en": "1.Concepts and skills of photography<br>2.Digital Camera / Digital SLR Features<br>3.Use of lenses<br>4.Depth of field <br>5.Composition<br>6.Color temperature<br>7.Exposure control<br>8.Studio Lighting <br>9.Digital Image Processing/PHOTOSHOP<br>10. Still life photography<br>11. Food photography<br>12. Fashion and glamour photography<br>13. Portrait and wedding photography<br>14. Landscape photography<br>"
+    },
+    "weeklySchedule": "1.課程大綱介紹，評分標準說明<br>2.數位影像媒體介紹<br>3.認識你的數位相機<br>4.數位相機原理，數位單眼相機(DSLR)介紹<br>5.攝影基本概念—曝光三要素<br>6.攝影基本概念—鏡頭＿對焦＿測光＿白平衡<br>7.攝影實作<br>8.主題攝影<br>9.期中作業發表<br>10.人像攝影：自然光源<br>11.人像攝影：人工光源<br>12.人像攝影棚<br>13.商品攝影技巧<br>14.攝影棚商業攝影打光法<br>15.數位影像處理1<br>16.數位影像處理2<br>17.期末作業檢討<br>18.期末作業發表<br>",
+    "exams": {
+        "midterm": "作業及報告",
+        "final": "作業及報告",
+        "other": "作業及報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解攝影的相關技巧並能夠熟練地操作",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "將攝影技巧運用於商品行銷",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "對於光線的敏銳度與環境感知能力培養",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "數位影像美學的養成",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期中"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                },
+                {
+                    "method": "設計製作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自編教材",
+    "teachingSoftware": "PHOTOSHOP",
+    "rules": ""
+}

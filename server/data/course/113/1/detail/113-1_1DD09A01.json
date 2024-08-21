@@ -1,0 +1,140 @@
+{
+    "code": "1DD09A01",
+    "name": {
+        "zh": "舞台美術基礎",
+        "en": "Foundations in Scenography"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技流音一甲",
+        "四技流音一乙"
+    ],
+    "instructors": [
+        "梁靜謙"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "W0904"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "W0904"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "W0904"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "舞台美術基礎引領探討舞臺、道具、燈光、聲音、化妝、服裝和投影等設計的基礎知識，以舞台美術的觀點，學習經由分析故事及文本，綜合多種藝術形式與設計方法運用，將適合舞台的設計元素及演出文本所需要的人與物，用最適切的美學方式呈現。<br>本課程引導學生經由分析舞台文本、美學形式與元素，透過資料蒐集與分析討論後，學習舞台美術的基礎概念與技能，提升學生對於設計與現場表演相關的視覺元素能力。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.舞台美術基礎課程介紹。<br>2.故事與文本分析探討。<br>3.舞台美術實務案例分析探討。<br>4.設計元素與製作材料應用探討。<br>5.美學與意象探討。<br>6.設計方法討論。<br>7.作業發表與討論。<br>",
+        "en": "This course explores the fundamentals of stage, set, costume, lighting, and sound. The goal of this course is, through critical texts and art practice, for students to further their Practice in Art and Design ability to design visual elements pertaining to pop music performance. <br><br>i. to explore various areas of scenography.<br>ii. to develop an appreciation for visual and design elements in theater and their relationship to other aspects of performance<br>iii. to learn fundamental design concepts, skills, and processes used in scenography. <br>iv. to develop skills to communicate design thinking and concept in a variety of forms with on the visual.<br>v. to discussion, practice skills such as sketching, model building, drafting, painting and storyboards.<br>vi. to complete assigned readings and artwork projects.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解流行音樂聲音與影像設計之基礎理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備流行音樂展演活動舞台、燈光、音響之設計與操作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備蒐集、分析、應用資料之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備結合各方資源並運用創新方法發揮資源效益之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "展現尊重、接納他人想法之態度，具備清楚表達個人意見與有效說服他人之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備跨領域與團隊合作之能力，並恪守職場倫理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

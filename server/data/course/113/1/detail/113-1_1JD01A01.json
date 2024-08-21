@@ -1,0 +1,120 @@
+{
+    "code": "1JD01A01",
+    "name": {
+        "zh": "心理學",
+        "en": "Psychology"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技高福二甲",
+        "四高福國專二甲"
+    ],
+    "instructors": [
+        "胡小玫"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "E0508"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "E0508"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "E0508"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "心理學乃為現代各類學門的基礎學科知能，在人類生活中應用十分廣泛。本課程旨在使學生掌握心理基本學識，包括認知神經科學、腦與行為的研究、感覺與知覺之研究與應用，情緒及智力、性格的基因和演化論、正向心理學、文化的社會心理學等觀點，期透過本課程學習，學生得以為各域進階學科學習奠基或生活、職業場域之應用。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.心理學的本質<br>2.心理學的生物基礎<br>3.心理發展<br>4.感覺<br>5.知覺<br>6.意識<br>7.學習<br>8.記憶<br>9.語言與思考<br>10.動機<br>11.情緒<br>12.智力<br>13.性格<br>14.壓力與健康<br>15.精神疾病<br>16.心理健康問題的治療<br>17.社會影響<br>18.社會認知",
+        "en": "(English/Japanese Outline)<br>1. The Nature of Psychology<br>2. Biological Foundations of Psychology<br>3. Psychological Development<br>4. Sensory Processes<br>5. Perception<br>6. Consciousness<br>7. Learning and Conditioning<br>8. Memory<br>9. Language and Thought<br>10. Motivation<br>11. Emotion<br>12. Intelligence<br>13. Personality<br>14. Stress, Health, and Coping<br>15. Psychological Disorders<br>16. Treatment of Mental Health Problems<br>17. Social Influence<br>18. Social Cognition"
+    },
+    "weeklySchedule": "第一週 緒論<br>第二週 心理學的生理基礎<br>第三週 心理發展<br>第四週 感覺歷程<br>第五週 知覺<br>第六週 意識<br>第七週 學習<br>第八週 記憶<br>第九週 期中考、語言與思考<br>第十週 動機<br>第十一週 情緒<br>第十二週 智力<br>第十三週 性格<br>第十四週 壓力與健康<br>第十五週 精神疾病<br>第十六週 心理健康問題<br>第十七週 社會影響<br>第十八週 社會認知、期末考",
+    "exams": {
+        "midterm": "期中考試",
+        "final": "期末考試",
+        "other": "平日表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "協助學生瞭解老人心理的概念與內涵",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "協助學生能掌握老人心理相關理論及行為表徵",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學生具備了解老人心理及解讀相關資訊的能力",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生能應用老人心理相關知識於實務場域的問題解決",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "心理學導論",
+        "author": "危芷芬",
+        "publisher": "雙葉",
+        "year": "2015",
+        "ISBN": "9789865840976",
+        "edition": "2"
+    },
+    "referenceBooks": "葉重新（2011）。心理學。台北：心理。<br>王震武、林文瑛、林烘煜、陳學志（2001）。心理學。台北：學富。<br>陳憶貞譯（2006）。普通心理學。台北：雙葉。<br>張春興（2003）。心理學原理。台北：東華。<br>黎士鳴編譯（2008）。心理學概論。台北：雙葉。<br>陸洛、高旭繁譯(2006)。心理學：日常生活中的應用。台北：洪葉。<br>張進輔主編（2002）。心理學。台北：新文京。",
+    "teachingSoftware": "power point",
+    "rules": ""
+}

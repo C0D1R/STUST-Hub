@@ -1,0 +1,135 @@
+{
+    "code": "10D35I01",
+    "name": {
+        "zh": "智慧型感測數據分析與應用",
+        "en": "Intelligent sensing data analysis and application"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控三甲",
+        "四技自控三乙",
+        "四技車輛三甲",
+        "四技車輛三乙"
+    ],
+    "instructors": [
+        "林育昇"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "K413"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "K413"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "K413"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "根據 (1)AI技術實務應用、(2)程式寫作能力培養與 (3)機電整合實作能力等三項能力養成做為「智慧型感測數據分析與應用」之課程目標，課程內容將結合Python程式語言與深度學習教學，培養AI技術之程式寫作能力，並應用於感測數據分析，以提升學生在機電整合之實作應用能力。",
+    "prerequisites": "程式語言、電子學",
+    "syllabus": {
+        "zh": "1.樹莓派4B單晶片作業系統環境介紹與操作<br>2.Python程式語言介紹與基本程式撰寫練習<br>3.單晶片GPIO介面介紹與LED、按鈕開關控制示範練習<br>4.基本GPIO連接電路接線與控制程式實作<br>5.資訊安全與資安例介紹<br>6.單晶片GPIO介面應用與感測器量測程式撰寫練習，網路資料傳輸程式撰寫練習<br>7.Python程式語言深度學習介紹與感測數據分析程式撰寫",
+        "en": "1. Raspberry Pi 4B single chip operating system environment introduction and operation<br>2. Introduction to Python programming language and basic programming exercises<br>3. Introduction to GPIO interface and demonstration exercises for LED and button switch control<br>4. Basic GPIO connection circuit wiring and control program implementation<br>5. Introduction to Information Security and Information Security Regulations<br>6. GPIO interface application and sensor measurement program writing exercises, data transmission program writing exercises for network<br>7. Introduction to Python programming language for deep learning and sensing data analysis programs writing"
+    },
+    "weeklySchedule": "1.樹莓派4B單晶片作業系統環境介紹與操作<br>2.Python程式語言介紹與基本程式撰寫練習<br>3.單晶片GPIO介面介紹與LED、按鈕開關控制示範練習<br>4.基本GPIO連接電路接線與控制程式實作<br>5.資訊安全與資安例介紹<br>6.單晶片GPIO介面應用與感測器量測程式撰寫練習，網路資料傳輸程式撰寫練習<br>7.機器學習與深度學習實作<br>8.專題製作",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解單晶片應用",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論",
+                "實作演練",
+                "個案研究(PBL)",
+                "專題演講"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解GPIO應用與設計",
+            "teachingMethods": [
+                "課堂講授",
+                "個案研究(PBL)",
+                "參觀實習",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "設計製作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解感測訊號之程式分析與應用",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解單晶片之GPIO符號意義與專業術語",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1. 蔡文龍、何嘉益、張志成、張力元，Python基礎必修課，出版社:碁峯<br>2. 洪哲倫、蔡英德、張志宏、詹毓偉，智慧製造:資料庫與大數據分析，出版社:教育部",
+    "teachingSoftware": "Python IDE: Google Colab, Spider, Thonny ... etc",
+    "rules": "修習本課程建議自行攜帶筆記型電腦(Notebook)，需要繳交指定的作業、並且參與專案實作。"
+}

@@ -1,0 +1,127 @@
+{
+    "code": "20D1GF01",
+    "name": {
+        "zh": "能源科技概論",
+        "en": "Energy technology Introduction"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專電機二甲"
+    ],
+    "instructors": [
+        "高至誠"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "I0210"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "I0210"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "I0210"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要各種不同的能源型態，同時也將各種能源的應用方式進行說明。另一方面也談到發電及不同儲能的方式，探討能量源與儲能元件之能量轉換的原理及關係。最後進入再生能源與環境的範疇，介紹大家能源與環境之間的相依性及應用系統。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、能源簡介<br>2、各類型能源介紹<br>3、儲能元件介紹<br>4、發電科技<br>5、能源與環境",
+        "en": "1. Energy Introduction<br>2. Different Type of Energy Introduction<br>3. Storage Component Introduction<br>4. Power Generation Technology<br>5. Energy and Environment"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能源與生活相關性知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能源與經濟相關性知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "各類型能源及其轉換技術的介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "儲能元件介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能源與環境的相關性知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

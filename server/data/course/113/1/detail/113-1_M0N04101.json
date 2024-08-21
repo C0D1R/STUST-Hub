@@ -1,0 +1,115 @@
+{
+    "code": "M0N04101",
+    "name": {
+        "zh": "餐旅人力資源管理",
+        "en": "Hospitality Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技餐旅三甲"
+    ],
+    "instructors": [
+        "梁仲正"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "T0309"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "T0309"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "T0309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "今日經理人所面對的工作環境與管理對象與過去已大不相同。現今企業的人力資源管理也已備受重視。本課程透過種種人力資源議題加以實例探討及角色扮演，讓同學了解何謂人力資源並且知道如何在勞資之間取得平衡並扮演好管理者的角色。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "一、餐旅產業人力資源管理導向<br>二、工作設計與分析<br>三、人力資源規劃<br>四、人員招募、遴選、任用、遷調<br>五、員工訓練<br>六、績效考核<br>七、生涯規劃<br>八、薪資管理與獎勵<br>九、員工福利<br>十、餐旅人力資源管理的未來趨勢<br>",
+        "en": "-Using Job Analysis and Competency Modeling <br>-Recruiting and Retaining Qualified Employees <br>-Selecting Employees to Fit the Job and the Organization<br>-Training and Developing a Competitive Workforce<br>-Developing an Approach to Total Compensation<br>-Measuring Performance and Providing Feedback<br>-Using Performance-Based Pay to Enhance Motivation<br>-Providing Benefits and Services"
+    },
+    "weeklySchedule": "9/9   class regulation and introduction<br>9/16  hospitality trend analysis<br>9/23   hospitality trend analysis<br>9/30  Introduction 餐旅產業人力資源管理導論<br>10/7  餐旅人力資源管理與組織績效<br>10/14  餐旅人力資源管理與策略<br>10/21  Hospitality employee performance evaluation and management <br>10/28  組織文化、組織設計與工作分析 <br>11/4  mid term exam and paper due<br>11/ 11  人力訓練與發展  training and development <br>11/18 餐旅員工績效評估與管理 performance evaluation<br>11/25 餐旅員工領導策略 and oral presentation<br>12/ 2 餐旅員工激勵機制與員工福利  motivation<br>12/9  oral presentation<br>12/16  企業倫理 趨勢與挑戰<br>12/23 人力規劃、招募與遴選<br>12/30  human resource management strategies<br>1/6   final   oral presentation<br><br>",
+    "exams": {
+        "midterm": "期中交報告mid term  paper due",
+        "final": "oral presentation",
+        "other": "平時成績包括不定期小考、點名 課堂參與討論、及上課態度"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解餐旅產業人力資源管理的相關理論與實例",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備餐旅業人力資源規劃之專業能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "評估餐旅業人力資源現況",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "預測餐旅人力未來趨勢之能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "老師編製中英文講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "黃廷和等編著 人力資源管理 休閒餐旅特色 (2022) 全華.<br>餐旅人力資源管理   Hospitality Management",
+    "teachingSoftware": "電腦 投影機 教學網頁  flip 數位學習 Print out",
+    "rules": "註1: 平時成績 40% 包括1-3次不定期小考、點名 課堂參與討論、及上課態度 (包括手機鈴響、上課睡覺及講話等影響上課秩序行為)。<br>註2：期中報告30% ;  期末報告30%以3人一組為限，最遲請於第三週前繳交名單(包括組員及組長)及名單，若有不清楚之地方請詢問任課老師。<br>註3：上課前請先做好預習之工作，上課中間將會有問題提問與討論，若表現不佳將會影響成績。<br>註4: 請準時上課，遲到超過15分鐘以上者視同曠課。因故缺席者請當日上課前一天或24小時之內以Email、電話或請同學告知老師。若為病假，事後請補上證明，否則仍以曠課論。<br>PS. 曠課5次以上以平時成績零分計<br><br>"
+}

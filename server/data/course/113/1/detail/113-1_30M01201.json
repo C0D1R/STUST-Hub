@@ -1,0 +1,123 @@
+{
+    "code": "30M01201",
+    "name": {
+        "zh": "專題研討(三)",
+        "en": "Seminar (III)"
+    },
+    "credit": "0",
+    "type": "必修",
+    "classes": [
+        "博研電子二甲",
+        "碩研電子二甲"
+    ],
+    "instructors": [
+        "黎靖"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "J105"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "J105"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "藉由蒐集研讀資料培養基礎研究能力、藉由聽演講吸取科技新知、藉由分組討論培養團隊研究能力、藉由口頭報告訓練表達能力、藉由撰寫報告訓練論文寫作能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t蒐集論文資料<br>2.\t研讀論文資料<br>3.\t聽演講並撰寫報告<br>4.\t分組討論<br>5.\t分組口頭報告<br>",
+        "en": "1.\tGather the thesis material <br>2.\tStudy the thesis material<br>3.\tListen to the speech and write reports<br>4.\tgroup discussion<br>5.\tgroup oral report<br>"
+    },
+    "weeklySchedule": "學生依序上台報告",
+    "exams": {
+        "midterm": "無",
+        "final": "無",
+        "other": "日常生活考察"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認知電子科技發展趨勢。",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "知所學電子專業知識如何整合以解決問題。",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "具備終身學習之基本知識。",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "於課堂發表專業論文及一般心得報告。",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "認知電子科技對個人與社會的影響。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自編教材",
+    "teachingSoftware": "",
+    "rules": ""
+}

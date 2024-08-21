@@ -1,0 +1,128 @@
+{
+    "code": "1GM00501",
+    "name": {
+        "zh": "高等企業研究方法",
+        "en": "Advanced Business Research Method"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "博研經管一甲"
+    ],
+    "instructors": [
+        "黃峰蕙"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "E0602"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "E0602"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "E0602"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學習社會及行為的研究方法，從題目的選擇、文獻回顧、研究架構的設定、問卷設計、進階統計分析、到報告撰寫等。透過選讀學術期刊文章來認識進階的研究議題：包括共同方法變異、多階層研究，並選擇一個研究題目來實作研究過程。<br>To learn how to choose a research topic, conduct a literature review, set up a theoretical framework, design questionnaires, analyzing data statistically, and write a research report. The students will practice a research project individually.",
+    "prerequisites": "統計學",
+    "syllabus": {
+        "zh": "一、社會科學研究的理論：<br>1. 範型、理論與研究<br>2. 因果關係的本質<br><br>二、研究規劃與設計： <br>3. 研究設計<br>4. 概念化、測量與問卷設計<br>5. 抽樣 <br>6. 共同方法變異<br>7. 多層次研究議題<br><br>三、研究執行策略： <br>8. 調查研究法<br>9. 田野調查法<br><br>四、研究分析方法： <br>10. 資料的量化與分析<br>11. 社會與行為統計<br>12. 社會與行為研究的倫理<br>",
+        "en": "1. Paradigms, Theory, and Research.<br>2. The characteristics of Casual Relationship.<br>3. Research Design.<br>4. Conceptualization, Measurement and Questionnaire Design.<br>5. Sampling.<br>6. Common Method Variance.<br>7. Multi-level Research Issues.<br>8. Survey Research.<br>9. Qualitative Field Research.<br>10. Quantitative Data Analysis.<br>11. Social and Behavioral Statistics.<br>12. The Ethics of Social and Behavioral Research"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "To be able to understand the core concepts and knowledge of research methods.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to acquire the skills of collecting first and secondary data.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to apply professional statistical software on data analysis and to interpret its output properly.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To accomplish a research report with analysis results under standard format.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To be able to cultivate a good learning attitude and independent-research spirit.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

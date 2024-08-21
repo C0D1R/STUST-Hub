@@ -1,0 +1,122 @@
+{
+    "code": "50D2CQ01",
+    "name": {
+        "zh": "計算機與程式設計概論",
+        "en": "Introduction to computers and programming"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技工管一甲"
+    ],
+    "instructors": [
+        "施武榮"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "T0806"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "T0806"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在使學生了解資訊安全相關議題，且能使用HTML建置網頁，利用雲端環境撰寫程式以了解程式設計的脈絡及邏輯架構，並能夠使用大數據分析。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 雲端環境程式撰寫簡介<br>2. 數位資安介紹<br>3. HTML語言介紹與簡易實作<br>4. 虛擬實境(VR)與擴增實境(AR)介紹與簡易實作<br>5. 大數據分析及人工智慧簡介",
+        "en": "1. Introduction to Cloud Environment Programming<br>2. Introduction to Digital Information Security<br>3. Introduction and Implementation of HTML<br>4. Introduction to AR and VR<br>5. Introduction to Big Data Analysis and AI"
+    },
+    "weeklySchedule": "1~2週 資訊科技新未來<br>3~4週 資訊科技應用案例<br>5~6週 人工智慧<br>7~8週 電腦軟體及硬體<br>9 期中考試<br>10~11週 作業系統與行動裝置<br>12~13週 網際網路與物聯網<br>14~15週 雲端運算及應用<br>16~17週 電子商務及資訊安全<br>18 期末考試",
+    "exams": {
+        "midterm": "上機筆試",
+        "final": "上機筆試",
+        "other": "作業與練習"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能在雲端環境下撰寫程式，以了解程式設計的脈絡及邏輯架構。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解資訊安全基礎知識，認識社交工程和勒索病毒，知道個人電腦和行動裝置的資安保護。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能以HTML實作簡易的網頁",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解並實作虛擬實境(VR)與擴增實境(AR)",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解常見的大數據工具，並知道如何使用大數據分析。了解人工智慧的相關應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "計算機概論 2023",
+        "author": "施威銘研究室",
+        "publisher": "旗標出版社",
+        "year": "2022",
+        "ISBN": "9789863127130",
+        "edition": "一"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

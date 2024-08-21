@@ -1,0 +1,122 @@
+{
+    "code": "80D16001",
+    "name": {
+        "zh": "民法概要",
+        "en": "Civil Law"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技財金二甲"
+    ],
+    "instructors": [
+        "李莉娟"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "S413"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "S413"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "民法分為總則、債、物權、親屬與繼承等五編，全部條文超過一千條，它是與我們日常生活最習習相關的法律，規定內容主要涵蓋人的財產與身分關係。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章 民法導論\t<br>第二章 權利主體\t<br>第三章 債的發生\t<br>第四章 買賣契約<br>第五章 租賃契約\t<br>第六章 物權\t<br>第七章 親屬\t<br>第八章 繼承\t<br><br>",
+        "en": "Chapter 1 Introduction to Civil Law<br>Chapter II Rights in Rem<br>Chapter III Sources of Obligations<br>Chapter IV Sale Contract<br>Chapter V Lease Contract<br>Chapter VI Property Rights<br>Chapter VII Family<br>Chapter VIII Succession<br>"
+    },
+    "weeklySchedule": "第一週\t課程介紹、民法架構<br>第二週\t民法總則(1)<br>第三週\t民法總則(2)<br>第四週\t民法總則(3)<br>第五週\t債法總論(1)<br>第六週\t債法總論(2)<br>第七週\t債法總論(3)<br>第八週\t債法各論(1)<br>第九週\t期中考<br>第十週\t債法各論(2)<br>第十一週\t專題報告(1)<br>第十二週\t專題報告(2)<br>第十三週\t物權(1)<br>第十四週\t物權(2)<br>第十五週\t身分法(1)<br>第十六週\t身分法(2)<br>第十七週\t身分法(3)<br>第十八週\t期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "口頭報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備工作場域所需的法律基本能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "提高參與商事各項議題討論、認知與反思能力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生運用法律知識解決商事問題的能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生與法律人的溝通能力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

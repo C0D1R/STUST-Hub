@@ -1,0 +1,131 @@
+{
+    "code": "12N18901",
+    "name": {
+        "zh": "微奈米工程概論",
+        "en": "Micro-Nano Engineering"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技自控三甲"
+    ],
+    "instructors": [
+        "黃東雍"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "K403"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "K403"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "K403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹微奈米科技，特別是奈米工程方面，內容包括掃描探針顯微鏡、奈米定位、量測與製造、微奈米機電工程、奈米材料及奈米生物技術等。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "一、奈米科技簡介<br>二、掃描探針顯微鏡<br>三、奈米定位、量測與製造<br>四、微奈米機電工程<br>五、奈米材料<br>六、奈米生物技術",
+        "en": "一、Introduction of Nanotechnology<br>二、Scanning Probe Microscopy(SPM)<br>三、Nano-Positioning System, Measurement, Manufacture<br>四、Micro/Nano Electro-Mechanical Engineering<br>五、Nano Materials<br>六、Nanobiotechnology"
+    },
+    "weeklySchedule": "1. 微奈米與生活-食<br>2. 微奈米與生活-衣<br>3. 微奈米與生活-住<br>4. 微奈米與生活-行<br>5. 微奈米與生活-育<br>6. 微奈米與生活-樂",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第4週、第8週、第13週、第17週 筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能具備奈米科技基本知識",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能了解奈米科技實務所需的技術",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能了解運用奈米科技的場合",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能了解奈米科技造成的影響",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀奈米科技專業用之英文資料",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "奈米工程概論",
+        "author": "范光照、黃漢邦、陳炳煇、張所鋐、顏家鈺",
+        "publisher": "普林斯頓",
+        "year": "2005",
+        "ISBN": "9789867688231",
+        "edition": "2"
+    },
+    "referenceBooks": "1. 陳炳煇編著，微機電系統，五南文化事業，民國92年<br>2. 羅吉宗、戴明鳳、林鴻明、鄭振宗、蘇程裕，奈米科技導論，全華，2003<br>3. 國科會精密儀器發展中心，微機電系統技術與應用<br>4. 馮榮豐等，奈微米工程：精密製程與量測技術，滄海書局<br>5. 林建中著，奈米科技：基礎與實務，新文京，2003.<br>6. 川合 知二，圖解奈米科技，工業研究院翻譯出版<br>7. 蔡信行、孫光中 著，奈米科技導論：基本原理及應用，新文京，2004.",
+    "teachingSoftware": "ppt",
+    "rules": "1. 由於大綱學校輸入後，已經無法由老師自行修改。<br>老師衡量科技與社會狀況，決定修改成進度表內容，實際進行時，仍會依狀況調整，希望對每一個修課學生都有幫助。<br>2. 第2周起，上課前要找資料整理。<br>3. 上課將以分組討論方式進行。<br>4. 記得抄筆記。"
+}

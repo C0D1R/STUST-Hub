@@ -1,0 +1,180 @@
+{
+    "code": "50D11101",
+    "name": {
+        "zh": "品質管理",
+        "en": "Quality Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技工管三甲"
+    ],
+    "instructors": [
+        "陳忠和"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "T0802"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0802"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0802"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.品質管理技術師",
+        "2.品質管理工程師"
+    ],
+    "description": "本課程教授主要以線上品管為主，針對生產製程的管制和原料及產品的檢驗，使用的手法有QC七大手法、製程管制方法、檢驗方法等。期望這套品管理念和品質改善方法能帶給同學完整的品管基礎。<br><br>",
+    "prerequisites": "統計學",
+    "syllabus": {
+        "zh": "1. 品質管制概念<br>2. 品質成本<br>3. 製程品質推論<br>4. 管制圖的概念<br>5. 計量值管制圖<br>6. 管制圖的研判<br>7. 計數值管制圖<br>8. 品質改善的工具(一)<br>9. 品質改善的工具(二)<br>10. 六個標準差<br>11. 抽樣檢驗概念<br>12. 道奇雷敏抽樣計劃<br>13. MIL-STD-105E抽樣計劃<br>14. 其它計數值抽樣計劃<br>15. 計量值抽樣計劃<br>",
+        "en": "1. Introduction to quality control<br>2. Quality cost<br>3. Inferences about process quality<br>4. Concept of control charts<br>5. Control charts for variables<br>6. Pattern recognition for control charts<br>7. Control charts for attributes<br>8. Quality-improvement techniques(Ⅰ)<br>9. Quality-improvement techniques(Ⅱ)<br>10. Six sigma<br>11. Concept of sampling plans<br>12. Dodge-roming sampling plans<br>13. MIL-STD-105E sampling plans<br>14. Other acceptance sampling plans for attributes<br>15. Acceptance sampling plans for variables<br>"
+    },
+    "weeklySchedule": "第1,2週 概論<br>第3,4週 品質改善的工具與技術<br>第5,6週 統計方法與品管<br>第7,8週 統計製程管制<br>第9週 期中考<br>第10,11週 製程能力分析<br>第12,13週 六標準差<br>第14,15週 抽樣與檢驗<br>第16,17週 可靠度概述<br>第18週 期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第8, 17週平時考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解生產製程資料分析的統計方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能針對現場品質問題有效辨識適當的統計方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用製程管制方法的重要性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能將製造過程資料轉換成資訊並用以建立品質管制決策",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能應用統計品管方法分析管理實務資料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用Excel 軟體分析資料並正確解讀管制圖報表",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現品質資料分析結果，讓不懂品質專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "品質管理",
+        "author": "楊素芬",
+        "publisher": "華泰書局",
+        "year": "2006年",
+        "ISBN": "",
+        "edition": "二版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

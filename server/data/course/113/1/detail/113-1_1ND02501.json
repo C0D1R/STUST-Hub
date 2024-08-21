@@ -1,0 +1,151 @@
+{
+    "code": "1ND02501",
+    "name": {
+        "zh": "無障礙生活與環境",
+        "en": "Accessible Living and Environment"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "自然科學領域"
+    ],
+    "instructors": [
+        "王鈺霖"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "W0404"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "W0404"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "W0404"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著世界潮流對身心障礙者權益的重視，以及保障與落實人權平等觀念的日益提升，建構一個無障礙生活環境，使身心障礙者於醫療、學業及就業等各方面，能在機會均等及公平權益下參與社會各項活動，是未來重要的課題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "各單元主題如下：<br>1.身心障礙者的定義<br>2.身心障礙者的照顧<br>3.無障礙環境法規<br>4.無障礙環境定義<br>5.身心障礙者相關社會資源<br>6.身心障礙體驗之旅<br>7.無障礙環境與相關設施設計<br>8.無障礙環境控制<br>9.同學分組上臺簡報。指導與說明。學生演講錄影影片 PO上「Flip 數位學習」，班上師生彼此觀摩學習。<br>10.無障礙環境設施使用<br>11.身心障礙者之自立生活<br>12.身心障礙者職場的職務再設計<br>13.科技輔具在無障礙環境的應用<br>14.友善無障礙環境發展現況<br>15.創造未來無障礙環境<br>16.規劃無障礙的硬體與軟體環境<br>",
+        "en": "Topics and Units are as Fellows:<br>1.\tDefinition of the handicap<br>2.\tCare for the handicap<br>3.\tLaws and regulations of accessible environment<br>4.\tDefinition of accessible environment<br>5.\tSocial resources for the handicap<br>6.\tHandicap experience journey <br>7.\tDesigning and developing accessible environment<br>8.\tEnvironment control of accessible environment<br>9.\tGroup presentation and discussion <br>10.\tAccessibility of handicap facilities<br>11.\tIndependent living for the handicap<br>12.\tJob accommodation and redesign for the handicap<br>13.\tAssistive technology device of accessible environment<br>14.\tFriendly accessible environment<br>15.\tFuture of accessible environment<br>16.\tPlanning of applying software and hardware design on friendly accessible environment<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解身心障礙者的定義及照顧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解無障礙環境法規及相關社會資源。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能統整歸納所學之身心障礙者知識，設計創新。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能主動學習並認識無障礙環境，藉以因應社會的改變。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解生命的意義及倫理法規，並思辨各種倫理抉擇與難題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "對於需要幫助的人，能以同理心去關懷，提供其所需的服務。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分組收集資訊，整理成簡報PPT檔案，上臺報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

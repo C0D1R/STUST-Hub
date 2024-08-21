@@ -1,0 +1,141 @@
+{
+    "code": "90D24501",
+    "name": {
+        "zh": "人工智慧應用",
+        "en": "Applied Artificial Intelligence"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資管二甲",
+        "四技資管二乙",
+        "四技資管二丙"
+    ],
+    "instructors": [
+        "王智昊"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "E0402"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "E0402"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "E0402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "因應人工智慧的浪潮，本課程目的在於培養學生人工智慧基礎概念，學習如何撰寫程式讓電腦模擬人類行為完成特定任務，了解相關領域知識與技術，其中涵蓋不同技術原理的介紹，探究人工智慧各種應用、未來發展及倫理與道德之相關議題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. Python程式語言基礎<br>2. 基礎演算法<br>3. 人工智慧簡介與應用<br>4. 大數據簡介與應用<br>5. 資料探勘簡介與應用<br>6. 機器學習簡介與應用<br>7. 深度學習簡介與應用<br>8. 智慧計算簡介與應用<br>9. 電腦遊戲的人工智慧<br>",
+        "en": "1. Foundations of Programming in Python<br>2. Foundations of Algorithms<br>3. Introduction of Artificial Intelligence<br>4. Introduction of Big Data<br>5. Introduction of Data Mining<br>6. Introduction of Machine Learning<br>7. Introduction of Deep Learning<br>8. Introduction of Computational Intelligence<br>9. Artificial Intelligence for Computer games<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識人工智慧相關程式語言",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識人工智慧專業術語",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識人工智慧相關應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備人工智慧的基礎知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備人工智慧創新應用思考能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能進行人工智慧的簡報",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

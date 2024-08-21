@@ -1,0 +1,126 @@
+{
+    "code": "G0D15601",
+    "name": {
+        "zh": "微型平台開發實務",
+        "en": "Micro-Platform Development Application"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資工二甲",
+        "四技資工二乙",
+        "四技資工二丙",
+        "四資工國專二甲"
+    ],
+    "instructors": [
+        "楊榮林"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "C303"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "C303"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "C303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "認識物聯網主角之一Raspberry Pi之構造與功能，並習得利用Raspberry Pi控制周邊感測器之能力。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.樹梅派編程環境簡介<br>2.Linux基礎<br>3.Python基礎<br>4 GUI編程<br>5.網路與網頁編程<br>6.樹梅派Python控制<br>7.樹梅派感測器的使用<br>8.樹梅派專案實務<br>",
+        "en": "1.Configuration for programming on Raspberry Pi<br>2.Basic of Linux<br>3.Basic of Python<br>4.GUI Programming<br>5.Network Programming<br>6.Control of Raspberry Pi with Python<br>7.Sensors Use on Raspberry Pi<br>8.Raspberry Pi Project Practice<br>"
+    },
+    "weeklySchedule": "1 Course Overview Formative Assessment (Pre-test)<br>2 Introduction to Raspberry Pi &amp; Raspberry Pi Pico W Fundamentals of Linux and Commonly Used Commands<br>3 Programming Language for Raspberry Pi Pico Workshop Python (MicroPython) vs. C/C++ (Arduino IDE)<br>4 Fundamentals of Raspberry Pi Pico Programming (Part 1)<br>5 Fundamentals of Raspberry Pi Pico Programming (Part 2)<br>6 Fundamentals of Raspberry Pi Pico Programming (Part 3)<br>7 Raspberry Pi Pico I/O Practice (Part 1)<br>8 Raspberry Pi Pico I/O Practice (Part 2)<br>9 Midterm Exam/Project<br>10 Exploring Sustainable Development Goals (SDGs) via Tabletop Gaming An Introduction to University Social Responsibility (USR)<br>11 Internet of Things (IoT) Final Project Discussing the Project and Crafting the Proposal<br>12 Wireless Communication - WIFI<br>13 Wireless Communication - BLE or LoRa<br>14 Node-Red Basics (Part 1)<br>15 Node-Red Basics (Part 2) Sufficient JavaScript Knowledge for Node-Red<br>16 Node-Red Basics (Part 3)<br>17 Confirming the Final Project and Refinement<br>18 Final Project Demonstration and Presentation Formative Assessment (Post-test)",
+    "exams": {
+        "midterm": "上機實作考試",
+        "final": "「微型專題展示」或「上機實作考試」",
+        "other": "每個課程單元會有對應的「形成性評量」；微處理器實作"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解Raspberry Pi基本構造與功能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習Linux與Python指令與用法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學習利用Raspberry Pi控制感測器",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "完成一件Raspberry Pi實務系統",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材：數位線上教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Microprocessor Online Emulator (Wokwi)\nThonny IDE (MicroPython)",
+    "rules": ""
+}

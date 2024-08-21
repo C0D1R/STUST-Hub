@@ -1,0 +1,127 @@
+{
+    "code": "12N25101",
+    "name": {
+        "zh": "控制工程實驗",
+        "en": "Control Engineering Experiment"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技自控四甲"
+    ],
+    "instructors": [
+        "沈毓泰"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "K408"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "K408"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "K408"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本實習課程是繼自動控制課程後，以實際馬達系統做為控制實習對象，可將理論與實際系統間之控制特性相互應證。",
+    "prerequisites": "Laplace transformation and automatic control theory",
+    "syllabus": {
+        "zh": "實驗一： 微分與積分特性分析<br>實驗二： 一階系統特性分析<br>實驗三： 二階系統特性分析<br>實驗四： 非線性系統特性分析<br>實驗五： 回授系統特性分析<br>實驗六： 回授系統非線性特性分析<br>實驗七： 回授系統PID控制器設計<br>實驗八： 直流馬達開迴路分析<br>實驗九： 直流馬達速度回授比例控制系統<br>實驗十： 直流馬達位置回授比例控制系統<br>實驗十一：直流馬達PID控制系統<br>實驗十二：參數誤差對系統之影響<br>實驗十三：零點對系統響應之影響<br>",
+        "en": "1.Differentiation and integration<br>2.Analysis of first order system<br>3.Analysis of second order system<br>4.Analysis of nonlinear system<br>5.Feedback control analysis for linear system<br>6.Feedback control analysis for nonlinear system<br>7.PID controller for linear system<br>8.Open loop analysis for DC motor<br>9.P controller for velocity control of DC motor<br>10.P controller for position control of DC motor<br>11.PID controller for the control of DC motor<br>12.Effects of parameter error<br>13.System response with zeros<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解如何由實驗獲得控制系統的響應",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備執行控制實驗與解釋系統響應的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備實驗分組之分工合作的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備實驗探討控制系統特性的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備撰寫控制實驗報告的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

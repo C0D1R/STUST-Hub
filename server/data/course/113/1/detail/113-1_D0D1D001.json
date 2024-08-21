@@ -1,0 +1,127 @@
+{
+    "code": "D0D1D001",
+    "name": {
+        "zh": "談判與溝通",
+        "en": "Negotiation and Communication"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技行流二甲"
+    ],
+    "instructors": [
+        "黃靖媛"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "T0208"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "T0208"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0208"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "具備專業的談判與協商技巧才能幫助業務人員在過程中順利完成工作目標。在極大的行銷業務競爭中，擁有優勢溝通的能力來增進談判與協商技巧，是積極達成成交的重要關鍵。本課程將指導業務人員，如何優先掌控談判與協商節奏、學習溝通技巧及過程中困境的處理，有效掌控談判情勢以達成雙贏協商策略。學習談判與協商的方法與溝通技巧並藉由上課實際演練學習掌控談判與協商節奏及過程中困境的處理。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第1章 溝通的意涵<br>第2章 職場上的溝通<br>第3章 商業溝通與科技<br>第4章 小型團體與團隊之溝通<br>第5章 跨文化與性別溝通<br>第6章 傾聽的藝術<br>第7章 說話的技巧<br>第8章 非口語溝通-肢體語言<br>地9章 商業溝通<br>第10章 時間管理<br>第11章 情緒管理與壓力調適<br>第12章 衝突管理<br>第13章 協調與談判<br>",
+        "en": "Chapter 1 Meaning of communication<br>Chapter 2 Business Communication and Technology<br>Chapter 3 Business Communication and Technologies<br>Chapter 4 Communication in Small Group and Teams<br>Chapter 5 Communication across Cultures and Gender<br>Chapter 6 Workplace Listening<br>Chapter 7 Speaking Skills<br>Chapter 8 Nonverbal Communication<br>Chapter 9 Preparing for a Professional Career<br>Chapter 10 Time Management<br>Chapter 11 Stress Management<br>Chapter 12 Conflict Management<br>Chapter 13 Negotiation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解溝通的意涵",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "掌握說話的技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "情緒管理與壓力調適",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "協調與談判",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "商業溝通與科技",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

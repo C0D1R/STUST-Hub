@@ -1,0 +1,126 @@
+{
+    "code": "01D13G0M",
+    "name": {
+        "zh": "英語聽講實務(一)(C)",
+        "en": "English Listening and Speaking Practicum (1)"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技流音一甲",
+        "四技流音一乙",
+        "四技商設一乙",
+        "四技動畫一甲"
+    ],
+    "instructors": [
+        "陳詩卉"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0108"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0108"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.TOEIC",
+        "2.BULATS"
+    ],
+    "description": "This course is aimed to help students develop English speaking and listening skills for daily communications. Students will learn to understand and communicate about topics related to everyday situations including hobbies, appearances, daily activities, directions, important life events, and etc.by focusing on basic vocabulary, grammar and pronunciation skills. To build up their listening skills, students will do a number of listening exercises by listening to short dialogues and talks. They will also learn to talk about themselves, describe daily routines, ask questions, and make simple requests. By participating in pair and group activities, they will learn to take turns, negotiate meanings and maintain conversations in English.<br>此課程的目的為培養學生英語聽說能力以利英語日常溝通。學生將學習如何聽懂，並以英語描述興趣嗜好及外表，學習以英語問路並指引方向，討論日常活動及熱門時事等話題。透過課堂聽力練習及小組討論，學生將能理解簡短的英語對話及演說並能以英語進行日常活動及參與討論。",
+    "prerequisites": "本校訂有外語課程免修之辦法，相關辦法查詢請至教務處網站查詢下載。",
+    "syllabus": {
+        "zh": "學生將能針對上述主題：<br>1.辨識名稱地點並簡要介紹自己。<br>2.辨識人物外表特色並描述朋友及家人。<br>3.理解個人時程表並安排會面及活動。<br>4.推論及辨識物品位置並與家人朋友協議。<br>5.理解方向指引並能詢問及指引方向。<br>6.理解特殊狀況及經歷並談論周末計畫及活動。<br>7.展現以下附屬聽力技巧<br>  a.能辨識訊息主要意思<br>  b.能察覺特殊細節<br>  c.能推論<br>  d.能預測<br>  e.能概括推論<br>  f.能分門別類<br>8. 掌握基本對話技巧如<br>  a.使用適當的語調及重音<br>  b.使用適當的詞彙以進行對話及討論<br>  c.提出談話或討論主題<br>  d.開始、維持並適切結束對話<br>  e.要求重述<br>  f.提出或更正錯誤<br>9. 運用下列文法要點進行溝通：<br>  a.簡單現在式<br>  b.頻率副詞<br>  c.介係詞<br>  d.簡單過去式<br>  e.現在與過去進行式",
+        "en": "With respect to the topics, students will be able to:<br>1.Identify names and locations and make a self-introduction to a group of people.<br>2.Identify physical features and describe friends and family members.<br>3.Understand personal schedules and make a date.<br>4.Identify locations of objects and negotiate with parents and friends.<br>5.Follow map directions, ask for and give directions.<br>6.Understand situations and topics and talk about weekends.<br>7.Develop sub-skills of listening:<br>  a.Discerning main idea<br>  b.Noticing specific details<br>  c.Inferring<br>  d.Predicting<br>  e.Generalizing<br>  f.Classifying<br>8.Manage basic interaction skills:<br>  a.Use appropriate intonation and stress patterns.<br>  b.Use appropriate vocabulary in short conversations and group discussions.<br>  c.Nominate a topic<br>  d.Initiate and participate in dyadic conversations and small group discussions.<br>  e.Ask for repetition.<br>  f.Repair and repair initiation<br>9.Demonstrate the control of communication using the following grammar points:<br>  a.Simple present tense<br>  b.Adverbs of frequency<br>  c.Prepositions<br>  d.Simple past tense<br>  e.Present and past continuous"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "增進英語聽說實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養英語溝通應對能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過教材及網路資源了解世界各國文化",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習利用網路資源以提高英語學習興趣及效率",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由教材及課堂活動提升人文素養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

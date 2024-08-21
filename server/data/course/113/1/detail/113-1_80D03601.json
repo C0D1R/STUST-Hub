@@ -1,0 +1,132 @@
+{
+    "code": "80D03601",
+    "name": {
+        "zh": "期貨與選擇權",
+        "en": "Futures and Options"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技財金四甲",
+        "四技財金四乙"
+    ],
+    "instructors": [
+        "劉海清"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "S313"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "S313"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "S313"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在介紹期貨與選擇權這兩種最常見的衍生性金融商品，包括基本觀念、交易所與市場結構、避險與套利交易、投機與價差交易、選擇權交易策略、市場交易實務等。修習本課程後能夠對這兩類商品的交易與市場的結構與運作有相當的瞭解。對於日後就業後接觸一些新金融商品例如結構債等，也能夠更快的膫解其商品特性與風險承擔程度。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.衍生性金融商品簡介<br>2.期貨市場概況<br>3.期貨價格之決定<br>4.期貨之套利,避險與投機操作策略<br>5.股價指數, 利率期貨, 與外匯期貨<br>6.選擇權市場概況<br>7.選擇權之基本交易策略<br>8.選擇權之定價模式<br>9.股價指數, 外幣, 及期貨選擇權<br>10.利率選擇權及非標準化利率交換合約<br>",
+        "en": "1.Introduction to derivative instruments<br>2.Introduction to futures markets<br>3.Determinations of futures prices<br>4.Arbitraging, hedging and speculating strategies using futures<br>5.Index futures,interest rate futures, and foreign exchange rate futures<br>6.Introduction to options markets<br>7.Elementary options trading strategies<br>8.Options pricing formula<br>9.Options on stock indices, currencies and futures contracts<br>10.Options on interest rates and non-standardized interest rate swap<br>"
+    },
+    "weeklySchedule": "第1-2週-期貨交易概論<br>第3-5週-國外期貨交易實務<br>第6-8週-期貨避險交易<br>第9週-期中考<br>第10-12週-期貨投機交易與價差交易<br>第13-15週-選擇權基本概念與交易策略<br>第16-17週-台灣期貨交易所期貨與選擇權交易實務<br>第18週-期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解期貨與選擇權的基本特徵與交易技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能分析期貨與選擇權市場的趨勢",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能使用期貨與選擇權知識管理證券投資組合",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能規劃與設計企業融資與避險方案",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "期貨交易理論與實務",
+        "author": "",
+        "publisher": "證券基金會網路書店",
+        "year": "2024",
+        "ISBN": "978-986-98622-5-7",
+        "edition": "最新版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

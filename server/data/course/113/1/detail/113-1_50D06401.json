@@ -1,0 +1,139 @@
+{
+    "code": "50D06401",
+    "name": {
+        "zh": "統計學",
+        "en": "Statistics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技工管二甲"
+    ],
+    "instructors": [
+        "顏榮祥"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "T0207"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "T0207"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0207"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹統計方法的基本概念與Excel軟體分析統計資料的操作與解讀。內容包括資料的蒐集與整理，分析解釋等敘述統計及由樣本推論母體的估計檢定，迴歸分析，變異數分析，無母數統計，時間序列分析等。",
+    "prerequisites": "微積分",
+    "syllabus": {
+        "zh": "一、緒論<br>二、敘述統計<br>三、機率概論<br>四、隨機變數<br>五、常用之隨機變數<br>六、抽樣分配<br>",
+        "en": "1. Introduction<br>2. Descriptive Statistics<br>3. Introduction to Probability<br>4. Random Variables<br>5. Fundamental Random Variables<br>6. Sampling Distributions<br>"
+    },
+    "weeklySchedule": "第1週  緒論<br>第2週  集中量數<br>第3週  變異量數與分佈形狀<br>第4週  常態分佈<br>第5-6週  間斷機率分佈<br>第7-8週  連續機率分佈<br>第9週    期中考<br>第10-12週  抽樣分佈與估計式<br>第13-14週  一個母體未知參數之區間估計<br>第15-17週  兩個母體未知參數之區間估計<br>第18週    期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第3，6，12，15周平時考，筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解統計方法與基本學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能針對管理問題辨識適當的統計方法，並用以建立管理決策",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用統計方法的重要性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能應用統計方法分析管理實務資料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用Excel 軟體分析資料並正確解讀報表",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現資料分析結果，讓不懂統計專業術語的決策者亦可以理解",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "顏榮祥",
+        "publisher": "無",
+        "year": "2024",
+        "ISBN": "無",
+        "edition": "無"
+    },
+    "referenceBooks": "統計學與EXCEL-資料分析之實習應用<br>第六版  2012  978-986-201-579-9<br>王文中、錢才瑋<br>博碩文化股份有限公司<br>",
+    "teachingSoftware": "excel",
+    "rules": "5不:上課不遲到、不玩手機、不睡覺、不吃東西、不講話(請確實遵守)<br>1沒有:沒熱情(不要修)"
+}

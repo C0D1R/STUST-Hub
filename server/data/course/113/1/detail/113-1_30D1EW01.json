@@ -1,0 +1,128 @@
+{
+    "code": "30D1EW01",
+    "name": {
+        "zh": "現代無線通訊技術",
+        "en": "Modern Wireless Telecommunication and Network Technologies"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子四甲",
+        "四技電子四乙"
+    ],
+    "instructors": [
+        "陳文山"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "J206"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "J206"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "J206"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "完整而淺顯地介紹研習無線通訊和網路所需的理論基礎，其中儘量避免複雜的數學式，並以範例及圖表說明，另外也詳細探討較新的通訊與網路技術，例如展頻通訊、蜂巢式行動通訊、TCP/IP協定藍芽、超寬頻、IEEE 802.11(WiFi)、IEEE 802.16(WiMAX) 等無線技術與協定。",
+    "prerequisites": "訊號與系統、通訊系統",
+    "syllabus": {
+        "zh": "第1章 緒論<br>第2章：傳輸基礎概述(Transmission Fundamentals)<br>第3章：通訊網路(Communication Networks)<br>第4章：通訊協定與TCP/IP(Communication Protocols and the TCP/IP)<br>第5章：無線信號傳播(Wireless Signal Propagation)<br>第6章：訊號調變技術(Signal Modulation Techniques)<br>第7章：展頻(Spread Spectrum)<br>第8章：錯誤控制和通道編碼(Error Control and Channel Coding)<br>第9章：蜂巢式無線通訊網路(Cellular Wireless Communication Networks)<br>第10章：無線系統及無線區域迴路(Cordless Systems and Wireless Local Loop)<br>第11章：無線區域網路(Wireless Area Network, WLAN)<br>第12章：無線個人區域網路(Wireless Personal Area Network, WPAN)",
+        "en": "Chapter 1：Introduction<br>Chapter 2：Transmission Fundamentals<br>Chapter 3：Communication Networks)<br>Chapter 4：Communication Protocols and the TCP/IP<br>Chapter 5：Wireless Signal Propagation<br>Chapter 6：Signal Modulation Techniques<br>Chapter 7：Spread Spectrum<br>Chapter 8：Error Control and Channel Coding<br>Chapter 9：Cellular Wireless Communication Networks<br>Chapter 10：Cordless Systems and Wireless Local Loop<br>Chapter 11：Wireless Area Network, WLAN<br>Chapter 12：Wireless Personal Area Network, WPAN"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立無線通訊和網路實務工程之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "撰寫Matlab程式解題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養無線通訊和網路專業知識與技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道如何搜尋無線通訊和網路之相關期刊、網站及網路資源。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過課堂提問、作業、考試、書面報告與上台提報等過程培養學生抗壓力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

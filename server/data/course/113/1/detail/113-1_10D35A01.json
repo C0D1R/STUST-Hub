@@ -1,0 +1,123 @@
+{
+    "code": "10D35A01",
+    "name": {
+        "zh": "Arduino程式設計與應用",
+        "en": "Program Design and Application with Arduino"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控三甲",
+        "四技自控三乙",
+        "四技製造三甲",
+        "四技製造三乙",
+        "四技車輛三甲",
+        "四技車輛三乙",
+        "四技化材三甲",
+        "四技化材三乙",
+        "四技食品三甲"
+    ],
+    "instructors": [
+        "董景瑞"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "E0202"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "E0202"
+        },
+        {
+            "day": "週五",
+            "period": "第9節",
+            "location": "E0202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "人工智慧已經漸漸普及，走入人們的生活，無論手機應用程式、智慧家電、車牌辨識、購物廣告推播、自駕車、輔助機器人等，這些機器設備或是應用都有賴不同的軟體程式來實現他們所謂的智慧功能。因此培養程式設計能力與基本概念，將有助於理解並在未來產業中增加競爭力。<br>本課程將以目前廣為採用、方便學習、易於取得、低成本、開放源碼的Arduino系統作為對象，帶領同學進入程式設計的領域。課程將從程式基礎開始，然後透過目標導向，讓程式能夠與外接溝通，連結各種感測裝置(溫度偵測、距離測量、聲音、觸碰等)，透過無線通訊(紅外線、藍芽、無線)，來驅動外界的設備(馬達、風扇、燈光等)，使同學能夠學習以程式、單晶片來控制設備。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.微電腦系統簡介<br>2.Arduino系統介紹<br>3.程式設計基本I (基本變數宣告、迴圈判斷等)<br>4.程式設計基本II(通訊、串列埠、輸入輸出實驗)<br>5.程式讀取外界資訊(類比數位轉換原理、感測器)<br>6.程式輸出控制設備(驅動器、馬達、繼電器、LED等)<br>7.專題製作",
+        "en": "1.Introduction to micro-computer system<br>2.Introduction to Arduino system<br>3.Design basics of the programming I<br>4.Design basics of the programming II<br>5.Environment information measurement (digital analog, sensors)<br>6.Equipment control (driver, motor, relay, led.)<br>7.Project implementation"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解單晶片與微電腦控制基本知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備程式設計能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能透過程式進行設備溝通與控制",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解產業自動化專業外語與常用術語",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

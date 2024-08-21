@@ -1,0 +1,124 @@
+{
+    "code": "90N11801",
+    "name": {
+        "zh": "企業流程概論",
+        "en": "The introduction to business process management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技資管二甲"
+    ],
+    "instructors": [
+        "吳昭儀"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "T0709"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "T0709"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "T0709"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.初階ERP規劃師",
+        ""
+    ],
+    "description": "本課程的目的在於從ERP系統模組的角度, 幫助學生了解企業營運流程中的各項挑戰，並說明企業營運過程中如何精進內部作業流程以獲取最大營運效率與效力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.ERP系統功能概論<br>2.銷售與配送功能流程<br>3.生產規劃與控制流程<br>4.採購管理流程<br>5.庫存管理流程<br>6.系統導入<br>7.ERP系統規劃<br>",
+        "en": "Following topics will be included in the first semester:<br>1. Introduction of ERP system<br>2. Sales &amp; Delivery process<br>3. Production planning and control process<br>4. Purchasing/Acquistion process<br>5. Invertory management process<br>6. Deployment of ERP system <br>7. Planning an ERP prototype system<br>"
+    },
+    "weeklySchedule": "Week 1~3  : 第一章 企業資源規劃簡介<br>Week 4,5: 第二章 企業流程管理與ERP<br>Week 6~8: 第三章 銷售與配銷模組<br>Week 9: 期中考<br>Week 10,11: 第四章 生產規劃與控制\u000b<br>Week 12,13: 第五章 企業之採購管理<br>Week 14,15: 第六章 庫存管理系統<br>Week 16: 第七章 財會作業流<br>Week 16,17: 第八章 成本控制模組<br>Week 17: 第九章 人力資源模組<br>Week 18: 期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解企業基本作業流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能了解ERP系統基本功能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能透過分組期末個案報告熟練文件撰寫並養成團隊合作精神",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能透過分組期末報告針對個案公司進行的E化分析中，應用相關知識提出可行建議",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "ERP企業資源規劃導論",
+        "author": "中央大學ERP中心",
+        "publisher": "碁峰資訊股份有限公司",
+        "year": "2022",
+        "ISBN": "",
+        "edition": "第六版"
+    },
+    "referenceBooks": "無",
+    "teachingSoftware": "無",
+    "rules": "上課禁止使用手機, 禁止趴睡<br>課間作業不接受補交"
+}

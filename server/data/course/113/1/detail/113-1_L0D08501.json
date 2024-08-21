@@ -1,0 +1,151 @@
+{
+    "code": "L0D08501",
+    "name": {
+        "zh": "化合物半導體技術",
+        "en": "Compound Semisonductor Technology"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技半導體四甲"
+    ],
+    "instructors": [
+        "管鴻"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "R501"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "R501"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "R501"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要介紹由二個元素以上所形成的光電半導體元件,由材料介紹開始,材料之相圖以及各種三-五族光電元件.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 相圖<br>2. 由熔體中生長晶體<br>3. 材料的磊晶成長<br>4. III-V族化合物半導體材料<br>5. 其他化合物半導體材料<br>6. 發光二極體<br>7. 雷射二極體<br>8. 光檢測器<br>9. 光伏元件",
+        "en": "1. Phase diagram<br>2. Crystal grow from melt<br>3. Epitaxial grow<br>4. Group III-V of compound semiconductor<br>5. The other compound semiconductor<br>6. Light emitting diode<br>7. LASER diode<br>8. Photo detector<br>9. Photovoltage"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解化合物半導體理論與架構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠有效理解光電效應與理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠分析各式太陽能技術與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠分析各式太陽能技術與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生對太陽能科技的興趣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生對太陽能科技的興趣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生對太陽能科技的興趣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

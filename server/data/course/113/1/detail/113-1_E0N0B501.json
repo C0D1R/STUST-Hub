@@ -1,0 +1,116 @@
+{
+    "code": "E0N0B501",
+    "name": {
+        "zh": "日語會話(一)",
+        "en": "Japanese conversation (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技應日三甲"
+    ],
+    "instructors": [
+        "榊祐一"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "T0112"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "T0112"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "T0112"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.日語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程は、日本語初級レベルの会話トレーニングのための授業です。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程は、日本語の初級レベルの会話トレーニングのための授業です。まず、日本語の発音に慣れる訓練を繰り返します。そして、数字（金額・日付・時間）を正確に聞き取り、また発声できるように練習します。そして、簡単な文型を使って、質問に答えたり、質問をしたりする練習をします。",
+        "en": "本課程は、日本語の初級レベルの会話トレーニングのための授業です。まず、日本語の発音に慣れる訓練を繰り返します。そして、数字（金額・日付・時間）を正確に聞き取り、また発声できるように練習します。そして、簡単な文型を使って、質問に答えたり、質問をしたりする練習をします。"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "日本語を話す能力を向上させる",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "相手や場面などに応じた言語行動の選択ができる",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "文化や習慣に適応した言語行動ができる",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "日本語を使い、人前で話す能力を養成する",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

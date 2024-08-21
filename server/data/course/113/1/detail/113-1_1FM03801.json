@@ -1,0 +1,116 @@
+{
+    "code": "1FM03801",
+    "name": {
+        "zh": "社會與情緒發展研究",
+        "en": "Research on Social and Emotional Development"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研教經二甲"
+    ],
+    "instructors": [
+        "張治遙",
+        "楊淑娥"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "N102"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "N102"
+        },
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "N102"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹個體的人格發展、社會與情緒發展的歷程及相關的理論，以瞭解影響個體社會與情緒發展的重要條件因素。同時介紹常見的社會與情緒問題的類型及輔導策略，以提升因應處理社會與情緒發展問題的實務能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、心理分析理論的發展觀點<br>二、依附理論的發展觀點<br>三、學習理論的發展觀點<br>四、覺察原生家庭的影響<br>五、人際信念與自我觀點的形成與發展<br>六、認識情緒行為障礙：亞斯伯格症、注意力缺失過動症及其他常見的情緒障礙<br>七、社會與情緒發展問題的評估與輔導策略<br>",
+        "en": "1. Development perspective on Psychoanalytic Theory.<br>2. Developmental Perspective on Attachment Theory.<br>3. Developmental Perspectives on Learning Theory.<br>4. Aware the influence of family of origin.<br>5.Formation and Development of Interpersonal Beliefs and Self-Viewpoints.<br>6.Understand Emotion/Behavioral Disorders: Asperger’s syndrome, ADHD and other common emotional disorders<br>7.Assessment and Counseling Strategies for Social and Emotional Developmental Problems.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識個體社會與情緒發展的重要理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探討影響個體社會與情緒發展的重要條件因素。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解常見的社會與情緒問題的類型及輔導策略。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升因應處理社會與情緒發展問題的實務能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

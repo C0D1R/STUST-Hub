@@ -1,0 +1,122 @@
+{
+    "code": "1JD01V01",
+    "name": {
+        "zh": "緩和療護",
+        "en": "Palliative Care"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技高福三甲"
+    ],
+    "instructors": [
+        "林正耀"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "N007"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "N007"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "高齡者所面臨的議題不僅是如何維持身體的健康與發展，在面對不可治癒的疾病與死亡時，服務高齡者必須具有的能力與技巧來協助高齡著處理其相關的焦慮與擔憂。因此藉由理解生命的本質、思考如何開創其意義的人生哲學，並關心死亡對生命的影響與價值。從生命倫理學出發，透過安寧緩和醫療的全人照護理念與實務的學習，從生理、心理、社會、靈性的面向，達成全人、全隊、全程、全家、全社區的五全照護。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 生命與死亡的本質與意義<br>2. 生命倫理<br>3. 安寧療護概論<br>4. 安寧緩和醫療條例<br>5. 安寧療護服務須知與全人關懷<br>6. 不同的安寧緩和療護服務模式<br>7. 末期病人的心理反應與靈性照顧<br>8. 整體性疼痛與疼痛控制<br>9. 病情告知與溝通<br>10. 非癌症末期病人的安寧療護<br>11. 悲傷關懷與陪伴<br>12. 預立安寧緩和醫療與病人自主權利法",
+        "en": "1.Introduction to hospice<br>2.Hospice Palliative Care Act<br>3.Palliative care service modes<br>4.The care of terminal patients<br>5.Pain control<br>6.Notification and communication<br>7.Hospice care for non-cancer patients<br>8.Companionship<br>9.Advance Care Planning"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解高齡者的生命意義，並思索死亡對生命的影響與價值",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培育對高齡者全人舒適照護的知識與技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "促進對高齡者的深層同理與終極關懷",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "同理心溝通與關懷技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以人文精神體會並轉化生命的價值",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

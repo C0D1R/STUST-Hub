@@ -1,0 +1,129 @@
+{
+    "code": "D0N15J01",
+    "name": {
+        "zh": "創意思考",
+        "en": "Thinking with Originality"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技行流一甲"
+    ],
+    "instructors": [
+        "李昀真"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "T0206"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "T0206"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "T0206"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為提升大專院校學生的素質及競爭力，開授「創意思考」課程，藉由水平發散、由外向內等多元思考理論的探討，顛覆傳統的垂直收斂、由內向外等制式思考方式，俾便「全人教育」之目標能擴大格局順應多元化發展的社會。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1緒論、創造力的涵義<br>2創意與智能結構<br>3創意的五種能力<br>4創意思考能力的增進與激發<br>5創意的策略<br>6創意的技法<br>7創意與生意<br>8創意的環境與動力",
+        "en": "1. Introduction<br>2. Creative and intelligent structure<br>3. Five abilities of creativity<br>4. Enhancement and stimulation of creative thinking ability<br>5. Creative strategy<br>6. Creative technique<br>7. Creativity and business<br>8. Creative environment and power"
+    },
+    "weeklySchedule": "1\t課程簡介<br>2\t創意概論\t第一章<br>3\t設計自己的人生\t第二章<br>4\t設計自己的人生\t<br>5\t設計思考         第三章<br>6\t設計思考 \t<br>7\t設計思考 \t<br>8\t創意構思的基礎理論 第四章<br>9\t期中考週<br>10\t創意思維模型\t第五章<br>11\t創意思維模型\t<br>12\t創意思維模型\t<br>13\t創意行銷模型 \t第六章<br>14\t創意行銷模型\t<br>15\t溝通\t        第七章<br>16\t分組報告<br>17\t分組報告<br>18\t期末考",
+    "exams": {
+        "midterm": "撰寫個人報告",
+        "final": "分組報告",
+        "other": "出席及討論"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "提升學生多元的創意能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "引導學生解決問題的思考能力。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生創意設計之表現能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養學生保持對環境的好奇心",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "創造、想像、創新的觀察力",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "向創意天才學思考",
+        "author": "中野明",
+        "publisher": "台北市：城邦",
+        "year": "2009",
+        "ISBN": "9789866572531",
+        "edition": "1"
+    },
+    "referenceBooks": "★堀公俊，周若珍譯，商業框架圖鑑╳創意發想圖鑑，台北市：采實文化，2021<br>★Kevin Lane Keller &amp; Vanitha Swaminathan，楊景傅、徐世同譯，策略品牌管理五版，台北市：華泰文化，2021<br>★曾光華、饒怡雲，行銷學原理六版，新北市：前程企管，2020<br>★Larry Leifer、Michael Lewrick &amp; Patrick Link，周宜芳譯，設計思考全攻略，台北市：天下雜誌，2019<br>★Bill Burnett &amp; Dave Evans，許恬寧譯，做自己的生命設計師：史丹佛最夯的生涯規畫課、用「設計思考」重擬問題、打造全新生命藍圖，台北市：大塊文化，2016<br>★Alexander Osterwalder et al，尤傳莉譯，獲利世代，台北市：早安財經，2012",
+    "teachingSoftware": "Powerpoint",
+    "rules": "1.上課時請不要在下面發言。如果需要發言，老師願意開放時間請妳上台發表。<br>2.上課時請將手機靜音或關機。如果手機響者，請準備一則笑話或表演與全班同學分享。切記，請勿賴皮喔！！<br>3.期中作業涉嫌抄襲者，無論抄襲者及被抄襲者，一概以不及格論，絕不寬貸！此外，請在規定時間內繳交期中及期末作業，逾時不候！並請將報告印列繳交，請勿直接以E-mail繳交！<br>4.期末口頭報告當天的組員，如未到者，期末口頭成績以零分計。如口頭報告當天因故未到者，請提出證明，以方便老師評分。<br>5.其他，得隨時補充之。"
+}

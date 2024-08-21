@@ -1,0 +1,132 @@
+{
+    "code": "20D1E101",
+    "name": {
+        "zh": "可程式邏輯設計應用",
+        "en": "Design and Implement of a Programmable Logic Controller"
+    },
+    "credit": "3",
+    "type": "系定選修",
+    "classes": [
+        "五專電機三甲"
+    ],
+    "instructors": [
+        "黃玉君"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "A202"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "A202"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "A202"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "A202"
+        }
+    ],
+    "hours": {
+        "course": "4",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學習PLC應用指令的使用規則，各應用指令的含義及應用程式設計等基本知能，並熟悉特殊模組應用，PLC氣液壓控制及PLC圖形監控。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、應用指令的使用規則<br>二、應用指令解說及實習<br>三、PLC應用實務及程式設計<br>四、特殊模組應用<br>五、PLC氣液壓控制<br>六、PLC圖形監控",
+        "en": "1.General Rule of Application Instruction<br>2.Explanation and Experience of Application Instruction<br>3.Program Design and Implementation of PLC<br>4.Application of Special Function Module<br>5.Control of Phenumatics and Hydrolics using PLC<br>6.Graphic Monitoring of PLC"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解PLC的架構與功能？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解PLC在工業自動控制上所扮演的角色",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會人機介面ADP操作軟體",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會以人機介面操控PLC的方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會以應用指令控制步進馬達正反轉及轉速控制",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

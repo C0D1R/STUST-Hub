@@ -1,0 +1,127 @@
+{
+    "code": "E0N09D01",
+    "name": {
+        "zh": "進階日語基本句型練習(一)",
+        "en": "Advanced Japanese Sentence Pattern Practice I"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技應日二甲"
+    ],
+    "instructors": [
+        "駱昭吟"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0109"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0109"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0109"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.本課程前半部分將進行考古題解題,複習一年級教過的三級文法和句型<br>2.本課程後半部分將配合[進階日文]內容上課,熟悉二級文法和句型",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第1週 課程說明和介紹+三級考古題解題<br>第2週 三級考古題解題<br>第3週 三級考古題解題<br>第4週 三級考古題解題<br>第5週 三級考古題解題<br>第6週 三級考古題解題<br>第7週 三級考古題解題<br>第8週 小考及複習<br>第9週 期中考<br>第10週 三級考古題解題<br>第11週 三級考古題解題<br>第12週 三級考古題解題<br>第13週 三級考古題解題<br>第14週 あらわす<br>第15週 いきる<br>第16週 こまる<br>第17週 小考及複習<br>第18週 期末考<br>(以上僅作參考,會視實際情形作適當調整) <br>",
+        "en": "夜間部二年生の講義です。<br>テキストは完全掌握3級を使っています。<br>また、学生がA組(基礎なし)なので、丁寧に一年生で習ったN5～N4の文法をくり返し復習し、N4～N3の文型につなげます。<br>N4の受身･使役･可能･命令･禁止･仮定･意向形といった基礎的な活用をしっかり固め、N3の能力試験向けの文型を導入します。<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "日語應用：訓練日語聽、讀、寫之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "翻譯實務：培養精確的中文翻譯能力 (以準確的翻譯區分不同的句型及字彙)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "辨識構思：培養解題能力 (能夠辨別相似的句型及字彙並正確解答)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "外國語文：以淺顯的英文來解釋區分日文",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "人文藝術：透過文章閱讀培養短時間內能夠掌握要旨並賞析作答之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

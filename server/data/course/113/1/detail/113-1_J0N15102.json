@@ -1,0 +1,127 @@
+{
+    "code": "J0N15102",
+    "name": {
+        "zh": "廣告設計實務",
+        "en": "Advertising Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技視傳三甲"
+    ],
+    "instructors": [
+        "林明達"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "W0808"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "W0808"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "W0808"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "(一)提高學生對廣告原理之瞭解，培養廣告設計之能力，利用廣告影片與個案討論，傳授廣告設計實務與企劃之技巧。<br>(二)透過同學合作學習與廣告個案，不但對廣告設計流程能有充分瞭解，並具備撰擬廣告企劃案與提案發表之能力。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 課程介紹<br>2. 廣告設計的基本概念與流程<br>3. 廣告個案討論<br>4. 廣告企劃書架構<br>5. 現況分析1：市場分析<br>6. 現況分析2：產品分析<br>7. 現況分析3：競爭者分析<br>8. 現況分析4：消費者分析<br>9. 期中報告：廣告分析報告<br>10. 廣告策略擬定<br>11. 廣告媒體計劃<br>12. 整合性傳播企劃<br>13. 廣告創意表現<br>14. 廣告執行<br>15. 提案策略與技巧<br>16. 企劃資訊視覺化<br>17. 期末發表會：廣告企劃提案發表<br>18. 期末考週<br>",
+        "en": "This course Improved students' understanding of advertising principles, and developed the ability of advertising design. By using advertising films and case discussions to teach advertising design practices and planning skills.Through the cooperative learning and advertising cases, hope students can not only understand the advertising design process, but also have the ability to compose advertising plans and proposals.<br>1.Course Introduction<br>2.Basic concepts and processes of advertising design<br>3.Discussion of dvertising case<br>4.Advertising plan structure<br>5.Status Analysis 1: Market Analysis<br>6.Status Analysis 2: Product Analysis<br>7.Status Analysis 3: Competitor Analysis<br>8.Status Analysis 4: Consumer Analysis<br>9.Advertising Analysis Report<br>10.Advertising strategy development<br>11.Advertising media plan<br>12.Integrated communication planning<br>13.Advertising creative performance<br>14.Advertising execution<br>15.Proposal strategies and techniques<br>16.Planning information visualization<br>17.Final Conference: Advertising Planning Proposal<br>18.Final exam week<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能開放性思考並予以實踐",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備設計前展開計畫的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能著手於設計多元的表現",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用不同技法將廣告設計作完整呈現",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能透過課程的學習，具有更高度的鑑賞能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

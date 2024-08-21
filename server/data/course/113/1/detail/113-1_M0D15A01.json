@@ -1,0 +1,159 @@
+{
+    "code": "M0D15A01",
+    "name": {
+        "zh": "餐旅專業實習",
+        "en": "Internship in Hospitality Industry"
+    },
+    "credit": "9",
+    "type": "必修",
+    "classes": [
+        "四技餐旅三甲"
+    ],
+    "instructors": [
+        "劉國寧"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "960"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "大三餐旅專業實習以上下學期2班輪替方式進行，使學生能提早體驗職場之工作經驗，將所學融入餐飲實務經營管理<br>1. 使學生能提早體驗職場之工作經驗<br>2. 使學生能將所學融入餐飲實務經營管理中<br>3. 使學生能增長餐旅專業知識與專業技術<br>4. 學習良好之社會互動、團隊合作、與人際溝通之技巧 <br>實習時數以960小時為準則，但可依實習單位之需求必要時進行調整",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "大三餐旅專業實習以上下學期2班輪替方式進行，使學生能提早體驗職場之工作經驗，<br>將所學融入餐飲實務經營管理<br>1. 使學生能提早體驗職場之工作經驗<br>2. 使學生能將所學融入餐飲實務經營管理中<br>3. 使學生能增長餐旅專業知識與專業技術<br>4. 學習良好之社會互動、團隊合作、與人際溝通之技巧<br>Junior students attended half year internship on spring ( fall ) semester so that could acquire job<br>experience and practical hospitality practice as well.<br>1. Allow student expose to working environment in advance.<br>2. Engage school learning on practical management situation.<br>3. Enhance professional skills and know how.<br>4. Learn how to adapt to internal personal teamwork and social interaction.",
+        "en": "1. Knowing hospitality industry<br>2. Preparation for internship<br>3. Job interview, manner, and personal image.<br>4. Experience sharing for internship.<br>5. Pre-job training.<br>6. Hand-on operation.<br>7. Report of internship"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能綜合所學，展現餐旅專業技術、能力於餐旅實務工作中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能綜合所學，展現餐旅專業技術、能力於餐旅實務工作中。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

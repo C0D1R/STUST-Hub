@@ -1,0 +1,115 @@
+{
+    "code": "1LD04Y01",
+    "name": {
+        "zh": "生命倫理學",
+        "en": "The Bioethics"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "楊劍豐"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0209"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "T0209"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "T0209"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "作為一門應用規範倫理學，生命倫理學不謀求建立體系，而以問題為取向，其目的是如何更好地解決生命科技或醫療保健中提出的倫理問題。解決倫理問題需要倫理學理論，但實際的倫理問題往往是複雜的，很難用一種理論解決所有的倫理問題。本課程以讓學生了解生命的意義與倫理法規,進而了解近代生命醫療技術的發展及其對現代社會倫理法律的影響與衝擊,使學生在面對此些議題時能理性的思考與下判斷，加深他們對人性和道德複雜性的體認，以實現通識教育的最主要的核心精神與價值。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、為什麼要有倫理？<br>二、基本倫理原則<br>三、死亡議題—死亡意義與判定標準<br>四、人工流產議題<br>五、死的尊嚴<br>六、生的尊嚴<br>",
+        "en": "1.Why do you have ethics?<br>2.Basic ethical principles<br>3.The issue of death - the meaning of death and criteria<br>4.The issue of induced abortion<br>5. Dignity of death<br>6. Dignity of life<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解倫理學及倫理原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能對新醫療技術的發展與問題的倫理抉擇與兩難具判斷思考能力，並應用於生活中",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能提高理性思辨各種倫理抉擇與難題，具思維及批判的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解生命的意義與重要性並於生活中實踐",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

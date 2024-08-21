@@ -1,0 +1,128 @@
+{
+    "code": "20M11C01",
+    "name": {
+        "zh": "類神經網路與深度學習",
+        "en": "Neural Networks and Deep Learning"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研電機一甲",
+        "碩研電機一甲"
+    ],
+    "instructors": [
+        "洪千焙"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "B504"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "B504"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "B504"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將介紹近幾年最熱門的人工智慧、深度學習的核心架構基礎-類神經網路。類神經網路可以在複雜的輸入資料中學習出智慧的決策，因此本課程將培養學生具備運用深度學習技術來進行識別圖片、文字、聲音和其他複雜的資料型態，並可應用在日常生活的應用和產業智慧製造等相關領域。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.類神經網路概論<br>2.類神經網路與深度學習基礎與架構<br>3.深度學習之Python環境安裝與設定<br>4.深度學習演算法、框架、模型開發實作<br>5.深度模型訓練與超參數優化<br>6.深度學習在影像分類應用實作<br>7.深度學習在自然語言處理應用實作<br>8.深度學習專案導向實作<br>",
+        "en": "1.Introduction of Neural Networks<br>2.The Fundamentals and Structures of Neural Networks and Deep Learning<br>3.Setup a Python Environment for Deep Learning<br>4.Development of Deep Learning Algorithms, Frameworks, and Models<br>5.Hyperparameter Tuning for Deep Learning Models<br>6.Practice of Deep Learning on Image Classification Applications<br>7.Practice of Deep Learning on Natural Language Processing Applications<br>8.Project-based Deep Learning Application<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識類神經網路與深度學習的基本知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用類神經網路與深度學習技術的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "開發類神經網路與深度學習程式的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建構類神經網路與深度學習模型的實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養問題解決、團隊合作、溝通領導能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,117 @@
+{
+    "code": "L0D0BM03",
+    "name": {
+        "zh": "真空技術實務",
+        "en": "Practice of vacuum Technology"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技半導體三乙"
+    ],
+    "instructors": [
+        "許進明"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "R503"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "R503"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "R503"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在建立學生對於真空技術的基礎認知與應用，內容包括真空定義與氣體特性之介紹，以及真空幫浦、真空計、真空零組件、真空系統等硬體裝置之工作原理與實務操作等。維護等等的介紹，除了基礎原理之外，本課程亦針對真空技術在半導體設備的應用，提供產業資訊與技術的概況。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.真空定義與應用<br>2.氣體動力論與電漿概念<br>3.氣流與真空度分類<br>4.平均自由路徑與實務應用<br>5.真空幫浦實務<br>6.真空壓力量測實務<br>7.真空系統、零組件與操作實務<br>8.漏氣與測漏實務<br>9.真空於半導體設備之應用<br>",
+        "en": "1.Definition of vacuum and its applications<br>2.The gas kinetic theory<br>3.Gas flow and degree of vacuum <br>4.Mean free path and its practical applications<br>5.Vacuum pump and practice<br>6.Vacuum gauge and practice<br>7.Vacuum system, components and operation<br>8.Leakage and leakage detection practice<br>9.Application of vacuum for semiconductor equipment<br>"
+    },
+    "weeklySchedule": "WK1-3    Introduction to Vacuum<br>WK4-5    Vacuum Systems/Short Report<br>WK6-8    Vacuum Compnents<br>Wk 9     Midterm Report <br>WK10-14  Process Systems Based on Vacuum Technology/Short Report<br>WK15-17  Practices of Vacuum Systems<br>Wk 18    Final Report",
+    "exams": {
+        "midterm": "期中作業",
+        "final": "期末報告",
+        "other": "平時作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "知道什麼是真空及其應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "了解氣流與真空度之分類、平均自由路徑之概念，以及其對於真空系統的影響",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解真空幫浦、真空計及真空組件的工作原理與能力，並能具有真空系統的設計能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解電漿原理及其在半導體設備的應用",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

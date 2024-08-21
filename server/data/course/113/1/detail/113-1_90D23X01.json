@@ -1,0 +1,99 @@
+{
+    "code": "90D23X01",
+    "name": {
+        "zh": "資訊管理專題(二)",
+        "en": "Information Management Project (II)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技資管四甲"
+    ],
+    "instructors": [
+        "吳昭儀"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "為培養學生具備團隊合作的精神與完成專案的能力，本系學生於畢業前必須完成專題製作並通過評審及口試。期望每一個學生團隊都能在指導教師的協助下，完成包括蒐集資料、分析資料、訂定主題、規劃系統、設計系統、測試系統及撰寫報告的訓練流程。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、專題製作整年度流程說明<br>二、專題製作計劃書撰<br>三、分組專題實作<br>四、分組專題製作<br>五、分組專題製作成果報告<br>六、分組專題製作成果評分",
+        "en": "1. project processes<br>2. project proposal<br>3. project implementation"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "應用與規畫軟體開發的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建構與設計系統的實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用與操作現有套裝軟體設計系統能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能依使用者需求建構與設計資訊系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "08D01U01",
+    "name": {
+        "zh": "初級法語(一)",
+        "en": "Basic French (I)"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "劉恬伶"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "N504"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "N504"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程授課對象是從未學過法語同學，授課內容從基礎的字母及發音規則開始，再加入重音、語調、連音介紹。課程也針對日常生活情境提供基礎的語法、句型及對話範例讓學生們可以易於利用簡易的法語做溝通及對話。為了使學生能欣賞法國文化及提升語言學習興趣，本課程也對針對法國文化如歷史、風俗民情、飲食、節慶、旅遊及文化活動等方面做重點介紹。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、字母教學<br>二、發音練習：<br>(1)字母發音與發音規則<br>(2)重音規則與語調<br>(3)連音<br>三、基礎文法規則：陰陽性、單複數，疑問詞、代名詞、形容詞、祈使句、現在式動詞變化等。<br>四、簡易會話練習：打招呼、自我介紹、喜好表達、數字表達、問路等。<br>五、文化介紹：歷史、風俗民情、節慶、藝術、飲食及旅遊等主題。<br>",
+        "en": "1.Alphabet teaching<br>2.Pronunciation practice:(1) rules of pronunciation, (2) stress and intonation, (3) liaison.<br>3.Grammatical rules: gender of nouns, singular/plural nouns, uses of interrogatives, usage of pronouns and demonstratives, adjectives, imperative mood, conjugation of verbs, etc.<br>4.Oral practice: topic related to greeting, self-introduction, preference, numbers, asking time and direction, etc.<br>5.Cultural aspects: topics related to history, customs, festivals, arts, diet, tourist attraction, etc.<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使同學能熟悉法語的36個音素，並掌握發音規則。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使同學可以用簡單的法語做日常生活的溝通及對話。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "介紹法國文化以提高同學的學習興趣。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉簡單文法規則。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

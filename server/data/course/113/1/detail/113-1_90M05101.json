@@ -1,0 +1,139 @@
+{
+    "code": "90M05101",
+    "name": {
+        "zh": "無線網路與行動計算",
+        "en": "Wireless Network and Mobile Computing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研資管一甲"
+    ],
+    "instructors": [
+        "陳偉業"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "T0713"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "T0713"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "T0713"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程涵蓋無線與行動通訊網路的基本概論，特別是蜂巢式網路與無線區域網路。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 無線網路與行動計算簡介<br>2. 蜂巢式網路概念<br>3. 無線多重存取<br>4. 多重分工技術<br>5. 行動通訊系統<br>6. 無線區域網路<br>7. 隨意網路與感測網路",
+        "en": "1. Introduction to Mobile Computing and Wireless Networking <br>2. Cellular Concept <br>3. Multiple Radio Access <br>4. Multiple Division Techniques<br>  (FDMA, TDMA, CDMA)<br>5. Mobile Communication Systems<br>6. Wireless Local Area Networks<br>7. Ad Hoc and Sensor Networks"
+    },
+    "weeklySchedule": "1. 無線網路與行動計算簡介  6hr<br>2. 蜂巢式網路概念  9hr<br>3. 無線多重存取  6hr<br>4. 多重分工技術  6hr<br>5. 行動通訊系統  12hr <br>6. 無線區域網路  12hr<br>7. 隨意網路與感測網路  3hr",
+    "exams": {
+        "midterm": "筆試",
+        "final": "口頭報告",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解無線網路的基礎概念與理論",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能統合資管之專業知識與實務能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能利用所學知識以解決問題",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能設計無線網路協定與研究創新之能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能正確解讀英文專有名詞",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析及呈現資料分析結果",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1. D. P. Agrawal and Q. A. Zeng, Introduction to Wireless and Mobile System, 2010 (東華代理) <br>2. W. Stallings, Wireless Communication and Networks, Prentice Hall, 2004 (滄海代理) <br>3. Material from the Internet",
+    "teachingSoftware": "",
+    "rules": ""
+}

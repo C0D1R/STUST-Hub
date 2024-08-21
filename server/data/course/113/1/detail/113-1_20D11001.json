@@ -1,0 +1,115 @@
+{
+    "code": "20D11001",
+    "name": {
+        "zh": "控制系統",
+        "en": "Automatic Control Systems"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技控晶三甲"
+    ],
+    "instructors": [
+        "邱俊賢"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "K510"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "K510"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "K510"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生熟悉控制系統之數學模式(轉移函數、方塊圖及訊號流程圖)，並學習古典控制系統之基本理論，以助於控制系統的分析與設計。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.導論<br>2.數學基礎<br>3.方塊圖及訊號流程圖<br>4.控制系統之模型化<br>5.線性控制系統的穩定性<br>6.控制系統的時域分析<br>7.根軌跡技術",
+        "en": "1.Introduction<br>2.Mathematical Foundation<br>3.block Diagrams and Signal-Flow Graphs<br>4.Mathematical Modeling of Physical Systems<br>5.Stability of Linear Control Systems<br>6.Time-Domain Analysis of Control Systems<br>7.Root-Locus Technique"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解控制系統的種類或相關應用嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解方塊圖、訊號流程圖的表示法、或轉移函數的意義嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解時域響應的特性及參數規格嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解根軌跡的意義嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

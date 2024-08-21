@@ -1,0 +1,133 @@
+{
+    "code": "G0D00103",
+    "name": {
+        "zh": "微積分(一)",
+        "en": "Calculus (I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資工一丙"
+    ],
+    "instructors": [
+        "鄧瑞哲"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "D205"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "D205"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "D205"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹基本函數與單變數函數的極限,連續,微分與積分,及其相關技巧的應用.  <br>  <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.預備工作<br>2.極限與連續<br>3.導數<br>4.導數的應用<br>5.定積分<br>6.積分技巧  <br>",
+        "en": "1.Prerequisites for Calculus<br>2.Limits and Continuity<br>3.Derivatives<br>4.Applications of Derivatives<br>5.The Definite Integral<br>6.Techniques of Integration"
+    },
+    "weeklySchedule": "第一週 預備知識: 函數定義及其圖形、基本函數<br>第二週 反函數、指數函數與對數函數<br>第三週 三角函數及反三角函數<br>第四週 極限定義、極限的基本性質<br>第五週 無窮極限及在無窮遠處的極限、連續函數<br>第六週 導數的定義、基本的微分運算<br>第七週 連鎖律、反函數與隱函數的導函數<br>第八週 指數與對數函數的導函數<br>第九週 期中考<br>第十週 三角、反三角的導函數<br>第十一週 高階導函數、函數的極值與均值定理<br>第十二週 函數的遞增遞減與一階導數檢定法<br>第十三週 函數的凹性與二階導數檢定法、圖形的描繪<br>第十四週 導數在物理上的應用、極值的應用問題<br>第十五週 微分與微分近似值、羅必達法則<br>第十六週 定積分、微積分基本定理<br>第十七週 不定積分、函數曲線所圍的面積<br>第十八週 期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "FlipClass 線上測驗"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解微積分基本觀念與演算的能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能應用微積分的技巧到專業領域。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能具備思考、分析及處理工程問題之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能設計程式語言處理微積分問題。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉及描述微積分的專業語言。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "微積分(上)",
+        "author": "張勝麟等",
+        "publisher": "復文書局",
+        "year": "2020",
+        "ISBN": "978-986-5928-91-9",
+        "edition": "2"
+    },
+    "referenceBooks": "1. Larson / 張海潮. 微積分(第11版)(Metric), 歐亞, 2018.<br><br>2. 顏國勇@ncku. <br> <br>https://library.math.ncku.edu.tw/documents/3/Calculus2015B.pdf<br> 《微積分學》<br> <br>https://library.math.ncku.edu.tw/documents/2/NewCalEx2.pdf<br>《新微積分演習 》<br>",
+    "teachingSoftware": "PowerPoint, SciPy, Microsoft Mathematics, Matlab / Octave, Python, R",
+    "rules": "1. 請準時上課，必修課一律點名。<br>2. 課堂上須帶教科書，禁止使用「影印版」教科書。<br>3. 課堂及課後要多練習，不會要發問。<br>4. 平時成績評分之重要依據：到課率、上課秩序、作業完成度、平時考、程式。<br>5. 任何考試切勿作弊，違者以不及格計。作業雷同者，抄襲者和被抄襲者該次為零分。<br>6. 遵守上課秩序，請不要：任意進出教室、在教室睡覺、聊天、玩遊戲、看影片、看社群軟體。 <br>7. 自行登錄學校flipclass查閱相關資訊。"
+}

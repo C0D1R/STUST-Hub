@@ -1,0 +1,115 @@
+{
+    "code": "90D11601",
+    "name": {
+        "zh": "程式設計(一)",
+        "en": "Programming(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資管一甲"
+    ],
+    "instructors": [
+        "王派洲"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第1節",
+            "location": "E0401"
+        },
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "E0401"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "E0401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "C語言嬌小、勻稱，用途廣、效率高且融合了電腦語言裡流程控制的特色，使得程式設計師可以很容易的設計出具有結構化及模組化的程式如此，廣受程式設計師及資訊界人士的喜愛。<br>在此課程中，將教導C所提供的功能，並實際應用來開發出一些應用軟體。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第1章 認識C語言<br>第2章 C語言基本概述<br>第3章 基本資料型態<br>第4章 格式化的輸出與輸入<br>第5章 運算子、運算式與敘述<br>第6章 選擇性敘述<br>第7章 迴圈<br>第8章 函數<br>第9章 陣列與字串<br>第10章 指標<br>第11章 結構與其它資料型態<br>第12章 檔案處理<br>",
+        "en": "1. Introduction<br>2. Basic Statements<br>3. Basic Data Types<br>4. Formatted Input and Output<br>5. Operator, Expression and Statement<br>6. Selection Statement<br>7. Loop<br>8. Function<br>9. Array and String<br>10. Pointer<br>11. Struct and other Data Types<br>12. File<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能進行思考及分析問題.。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解程式語言與設計電腦程式.。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用程式語言開發應用程式.。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備規劃及創新開發新的應用程式.。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

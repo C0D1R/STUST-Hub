@@ -1,0 +1,167 @@
+{
+    "code": "G0D16Z01",
+    "name": {
+        "zh": "網頁設計檢定",
+        "en": "Web Design Certification"
+    },
+    "credit": "2",
+    "type": "系定選修",
+    "classes": [
+        "五專資工二甲"
+    ],
+    "instructors": [
+        "林子嵐"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "C306"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "C306"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "學習製作網頁的基本能力，從網站的版面設計、圖片音樂、CSS樣式、表格框架、跑馬燈、超連結、動態效果、Canvas及SVG，學會網頁前台介面設計。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 建立網站 2. 版面設計 3.CSS樣式 4. 各題組CSS應用範例 5.對齊方式 6. 表單、訊息方塊",
+        "en": "1. Create a website 2. Layout design 3. CSS style 4. CSS application examples for each question group 5. Alignment 6. Forms, message boxes"
+    },
+    "weeklySchedule": "week1-3    chapter1 校園社團介紹網<br>week4-6    chapter2 運動廣場連結網<br>week7 8 10 chapter3 國家公園介紹網<br>week11-13  chapter4 網路行銷購物網<br>week14-17  chapter5 書曼的旅遊相簿<br>week 18 期末考",
+    "exams": {
+        "midterm": "上機考 30%",
+        "final": "上機考 40%",
+        "other": "平時表現 30%"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習基本HTML語法",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "建立網站結構",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "所有網頁之間連結關係",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "CSS樣式設定",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "設計符合使用者需求",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "網頁設計丙級檢定術科解題教本 Dreamweaver+PhotoshopCC",
+        "author": "林文恭 葉冠君",
+        "publisher": "碁峰",
+        "year": "",
+        "ISBN": "978-986-502-613-4",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "dreamweaver cc\nphotoshop   cc",
+    "rules": ""
+}

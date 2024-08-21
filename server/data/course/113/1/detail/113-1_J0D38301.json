@@ -1,0 +1,140 @@
+{
+    "code": "J0D38301",
+    "name": {
+        "zh": "文化商品設計實務",
+        "en": "Culture Product Design Project"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "二技創設三甲",
+        "四技創設三甲"
+    ],
+    "instructors": [
+        "林佳駿"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "W0607"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "W0607"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "W0607"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過對於文化的理解及商品設計製作及商業模式的認識，學習文化商品的設計知識與實務。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Ⅰ.文化的理解與解析<br>Ⅱ.文化的轉換與應用<br>Ⅲ.文化產品設計介紹<br>Ⅳ.文化產品設計實例<br>Ⅴ.文化產品設計實際操作<br>Ⅵ.展示與發表<br>",
+        "en": "1.Understanding and analysing culture<br>2.Cultural transformation and application<br>3.Introducing cultural product design <br>4.Cultural product design case study<br>5.Cultural Product Design Project<br>6.Presentation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解文化產品設計之專業知識 利用多媒體進行簡報力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "手繪設計概念能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "利用3D軟體進行設計能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "規劃文化產品銷售行銷能力 進行產品創意發想能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用美學於產品設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分組進行分析與設計溝通之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

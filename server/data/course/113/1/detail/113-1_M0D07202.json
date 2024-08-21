@@ -1,0 +1,163 @@
+{
+    "code": "M0D07202",
+    "name": {
+        "zh": "食物學與製備實習",
+        "en": "Principles Of Food Preparation And Laboratory"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技餐旅一乙"
+    ],
+    "instructors": [
+        "胡永輝"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "T0303"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "T0303"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "T0303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程為進入中餐、西餐、烘焙、飲調等食物製備之基礎課程，課程內容涵蓋各類烹調設備認識、正確使用方法、各類食物的認識、選購、製備及烹調方法。上課方式採理論與實習並重。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.食物製備方法與器具設備使用。<br>2.六大類食物介紹<br>3.六大類食物原理與試驗<br>4.食材的選購及儲存與食品衛生安全。<br>",
+        "en": "1.The introduction of Food Preparations and the use of equipment <br>2.Six broad heading food introduction<br>3.Six broad heading food principle and experiment<br>4.The choosing , storage and safe of food<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能辨識食材之差異與特性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解食物與營養之相關知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識食品衛生與安全之相關知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能正確並安全的使用餐飲機具設備",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備食物製備基本知識與技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識基本烹調法與基本刀工",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "協助組員共同完成製備實習課程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "食材應用與創新菜色之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

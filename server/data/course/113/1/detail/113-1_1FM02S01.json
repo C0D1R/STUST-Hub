@@ -1,0 +1,127 @@
+{
+    "code": "1FM02S01",
+    "name": {
+        "zh": "質性研究理論與實務",
+        "en": "Qualitative Research: Theory and Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研教經二甲"
+    ],
+    "instructors": [
+        "鄭育萍"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "N102"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "N102"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "N102"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "質性研究是一門蒐集與分析觀察、訪談與文本資料的研究方法論課程。然而，在重視利益相關人觀點、對話、溝通、透明度的當代，質性研究思維與方法愈趨重要。本課程旨在透過閱讀與實地操作過程，協助學生瞭解質性研究方法之長處及限制，同時介紹質化研究方法的觀點與研究過程、質化研究特質、典範觀點、研究倫理、寫作方式等。課程內容大致可分為三部分： 第一部分為質性研究的知識論、方法論與本體論的理論基礎與基本前提。 第二部分為較為常用的質性研究方法。第三部分為質性研究方法與策略的演練，修課的學生將依據其研究興趣與研究關懷，演練完整的研究過程，從探究研究主題、選擇研究方法、構思設計研究、研究提問、計畫書撰寫、APA格式等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程將包含以下主題：<br>課程導論<br>研究題目與研究設計<br>質化研究的典範及觀點<br>質化研究方法論一（民俗誌、現象學）<br>質化研究方法論二（詮釋學、敘事分析）<br>質化研究方法論三（紮根理論）<br>質化研究方法論四（批判理論、建構理論）<br>研究倫理<br>質性訪談研究<br>焦點團體研究<br>參與觀察質性研究：品質評估—信度、效度與推論<br>",
+        "en": "Course Schedule<br>Introduction: The nature of qualitative research<br>Research designs and traditions of qualitative inquiry<br>Crafting a research question<br>Approaches to qualitative inquiry (Ethnography and Phenomenology)<br>Approaches to qualitative inquiry (Interpretive and narrative)<br>Approaches to qualitative inquiry (Grounded theory)<br>Approaches to qualitative inquiry (Critical theory and Constructivism)<br>Ethical issues in social science research<br>The art of interviewing<br>Focus group research interview<br>Participatory observation<br>Issues of rigor, validity, reliability, and trustworthiness of qualitative data<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識質性研究的知識論、方法論與本體論的理論基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用不同質性研究方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "涵養質性研究思維與敏感度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "討論教育研究歷程中涉及的倫理議題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立研究知能與素養",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

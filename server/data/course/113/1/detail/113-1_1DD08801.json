@@ -1,0 +1,128 @@
+{
+    "code": "1DD08801",
+    "name": {
+        "zh": "舞台基礎訓練(一)",
+        "en": "Stagecraft Foundation I"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技流音一甲"
+    ],
+    "instructors": [
+        "王江舜"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "W1001"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "W1001"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W1001"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.台語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹舞台的起源與類型，由近代表演藝術，至現今流行展演的創意舞台美術設計發展，研析前人舞台表演空間應用方法，探討今人的創意發想，啟發學生思考表演空間改造，激發想像無限的創意設計概念。<br>課程同時介紹舞台美術的軟硬體相關設備，瞭解表演空間的相關結構設施，學習工作團隊的分配與協調，讓學生於演出時不管是幕前或幕後都能更安全執行，更能讓表演藝術呈現更臻理想。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.舞台起源瞭解<br>2.舞台種類瞭解<br>3.搖滾練團教室分析<br>4.舞台軟硬體設備分析<br>5.創意舞台設計概念<br>6.業界演唱會趨勢探討<br>7.未來演唱會規劃",
+        "en": "1.Understanding the origin of the stage<br>2.Understanding the type of stage<br>3.Analysis of the rock training group classroom<br>4.Stage hardware and software equipment analysis<br>5.Creative stage design concept<br>6.Industry concert trend discussion<br>7.Future concert planning"
+    },
+    "weeklySchedule": "第一週 課程簡介與學期計畫<br>第二週 舞台起源概述I<br>第三週 舞台起源概述II<br>第四週 舞台類型應用介紹Ｉ<br>第五週 舞台類型應用介紹II<br>第六週 舞台硬體設備解析I<br>第七週 舞台硬體設備解析II<br>第八週 舞台硬體設備解析III(課程作業+實務操作考試+期中筆試)<br>第九週 期中考試(課程作業+上台簡報)<br>********************************************<br>第十週   場地空間勘查實務分析Ｉ<br>第十一週 場地空間勘查實務分析II<br>第十二週 演唱會舞台分析II<br>第十三週 演唱會舞台分析II<br>第十四週 幕後硬體基礎系統I<br>第十五週 幕後硬體基礎系統II<br>第十六週 未來演唱會基礎規劃I<br>第十七週 未來演唱會基礎規劃II(課程作業+實務操作考試+期末筆試)<br>第十八週 期末考試(課程作業+上台簡報+學習筆記+學期成績試算)<br>********************************************",
+    "exams": {
+        "midterm": "課程作業+實務操作考試+期中筆試",
+        "final": "課程作業+實務操作考試+期末筆試",
+        "other": "上台簡報+學習筆記"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解舞台美術設計發展研究及探討。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解舞台技術執行軟硬體設備分工方式。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備展演空間及軟硬體設備操作之安全。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "啟發創意應用各類型活動之表演舞台。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "具備個人和分組簡報以及分工組織能力。",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "參考書籍：<br>劇場技術手冊<br>=&gt;作者：保羅卡特；策畫出版：台灣技術劇場協會；出版日期：1995年10月20日。<br>台灣劇場資訊與工作方法(系列叢書全套)=&gt;發行人：林澄枝；出版者：<br>行政院文化建設委員會；出版日期：1998年6月。<br>搖滾樂的藝術<br>=&gt;作者：查理.布朗；出版發行：萬象圖書股份有限公司；出版日期：1993年11月。<br>搖滾樂社會學<br>=&gt;作者：賽門.佛瑞茲；出版發行：萬象圖書股份有限公司；出版日期：1994年12月。<br>搖滾黨紀<br>=&gt;作者：方無行；出版發行：萬象圖書股份有限公司；出版日期：1996年11月。<br>搖滾樂的再思考<br>=&gt;作者：彼得.維克；出版發行：揚智文化事業股份有限公司；出版日期：2000年03月。",
+    "teachingSoftware": "課堂講解：簡報方式+實務操作。\n課堂演練：分組練習+課堂呈現。",
+    "rules": "學期總評分標準：100%<br>課程通過學分門檻標準60%以上：(A~D項:其中各項不可為0%)、加權成績10%(C項:加後總分+95分為上限)<br>A：課程出勤率48%：16週*3節課=48堂【共+48% 】每節課點名(第9週期中考週、第18週期末考週)<br>B：Ⅰ個人期中作業成績10%：期中作業+10%，第09週期中考試成績15%：上台報告、實務操作。【期中共25%】<br>   Ⅱ個人期末作業成績10%：期末作業+10% ，第18週期末考試成績15%：上台報告、實務操作。【期末共25%】<br>C：學期課堂加減分成績總分10%，加減分選項：課堂個人學習筆記、教學助理或計畫執行【+-10%】"
+}

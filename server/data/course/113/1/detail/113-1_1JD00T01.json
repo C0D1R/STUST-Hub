@@ -1,0 +1,110 @@
+{
+    "code": "1JD00T01",
+    "name": {
+        "zh": "感染管制概論",
+        "en": "Introduction to Infection Control"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技高福四甲"
+    ],
+    "instructors": [
+        "陳美珠"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "O101"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "O101"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "臺灣將邁入超高齡社會，社會各層面如經濟、政治、醫藥、福利等發展皆息息相關，尤以醫藥，故本課程即對未來學生將進入職場可能遇到之醫藥環境中的感染控制來做詳解，提供感染預防與控制措施的基本知識及實用技巧訓練。本課程目的最終希望透過知識及技巧傳遞，使學生進入工作場域後能清楚明瞭感染控制的基本概念及防護措施。<br>課程內容將會強調所提倡的感染預防及控制措施背後的基本原則，以多種教學形式包括講課丶示範丶舉例等，務求增強學生對感染預防與控制的理解及應用。課程間亦會討論及交流國內現今照中心及安養院內常見的各種感染預防及控制的問題。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程簡介、分組<br>2.傳染病簡介<br>3.傳染病防治原理<br>4.長期照顧與感染防治<br>5.影片欣賞與討論-危機總動員<br>6.群聚感染之偵測與處理<br>7.環境中微生物的培養<br>8.環境中常見感染微生物的簡介<br>9.手部衛生及隔離措施<br>10.機構品質六大監測指標<br>11.環境監測之消毒滅菌與環境清潔<br>12.機構常見傳染病認識與防護<br>13.居家常見傳染病認識與防護<br>14.長照/居家環境實務檢測<br>15.長照/居家環境檢測實務討論暨報告製作<br>16.感染管制小組報告<br>",
+        "en": "1. Introduction of couse<br>2. Introduction to infection control<br>3. Principles of infectious disease prevention and treatment<br>4. Long-term care and infection control <br>5. Video appreciation<br>6. Detection and treatment of cluster infection<br>7. Cultivation of microorganisms in the environment<br>8. Introduction to common infectious microorganisms in the environment<br>9. Hand hygiene and isolation measures<br>10. Introduction to the six monitoring indicators of institutional quality<br>11. Disinfection and sterilization of environmental monitoring and environmental cleaning<br>12. Knowledge and protection of common infectious diseases in institutions<br>13. Knowledge and protection of common infectious diseases at home care<br>14.Practice of environmental Microbial Culture<br>15.The discussion of environmental Microbial Culture<br>16. Group report<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識機構安全與感染控制",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "傳染病介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "感染防護用具介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "長照感染的預防措施與機構品質六大監測指標介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

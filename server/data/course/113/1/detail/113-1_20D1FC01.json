@@ -1,0 +1,127 @@
+{
+    "code": "20D1FC01",
+    "name": {
+        "zh": "微處理機概論與實習(一)",
+        "en": "Introduction to Microprocessors and Practice (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專電機二甲"
+    ],
+    "instructors": [
+        "洪千焙"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "B502"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "B502"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "B502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著半導體技術的快速發展，使得電子元件更加微小及節能，伴隨著科技相關產品的應用更深入你我的生活，在我們的週遭隨手可見眾多的應用範例，如在智慧型個人平台、可攜式的醫學產品、汽用電子、民生居家用品等等領域，然而這些產品中的智慧核心大多由一顆或數顆的微處理機晶片來完成。本課程將使用Microchip公司所生產的PIC16系列的晶片為學習的物件，使學生從做中學以培養其邏輯程序、抽象思考及解決問題等能力，進而內化成自己的基本知能，以厚植學生在將來創新應用上之有用工具。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 簡介微處理機發展及應用範疇<br>2. 微處理機架構、內部功能、工作原理及週邊相關裝置<br>3. 操作MPLAB發展軟體及語法撰寫<br>4. 微處理機的記憶體架構<br>5. 微處理機的指令集<br>6. LED輸出介面<br>7. 按鍵及陣列鍵盤輸入介面<br>8. LCD文字顯示介面<br>9. 中斷介面<br>10.類比數位轉換器<br>11.整合應用實驗<br>",
+        "en": "1. Introduction to the development and application of microprocessors<br>2. Microprocessor architecture, functions, principles and peripheral applications<br>3. MPLAB development software and grammar writing<br>4. Memory architecture of microprocessor<br>5. Instruction set of microprocessor<br>6. LED output interface<br>7. Key and array keyboard input interface<br>8. LCD text display interface<br>9. Interrupt interface<br>10.Analog to digital converter<br>11.Integrated application experiment<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解微處理機種類、功能與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解PIC微處理機的架構與指令",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會PIC微處理機的特殊功能應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會PIC微處理機的周邊裝置應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會操作MPLAB發展環境",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

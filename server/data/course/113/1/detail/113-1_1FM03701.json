@@ -1,0 +1,119 @@
+{
+    "code": "1FM03701",
+    "name": {
+        "zh": "資料視覺化分析實務與應用",
+        "en": "The Practice and Application of Data Visualization Analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研教經一甲"
+    ],
+    "instructors": [
+        "李金泉"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "N305"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "N305"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "N305"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著教育資料的數量不斷增加，資料視覺化的技術已日益重要。在大數據的年代中，如何從巨量的資料中，找出清楚且有效的資訊，轉化成視覺化圖像是當前職場的一大必備技能。資料視覺化就是用直覺、簡單、清楚、明瞭的圖表，來使閱讀者一目瞭然。成功的視覺化圖像，有助於說好一個故事，使想要闡述的內容更加動人。相對的也能使閱讀者，輕鬆的消化並分析出精彩的結論或洞察。透過資料視覺化的技術，可讓學校決策人員更容易理解、記憶，並在複雜的資訊中，做出正確的決策。透過資料視覺化的技術，也有助於評鑑人員的溝通，以正確傳遞資料訊息與評鑑結果。這門課會探討各類視覺化的技術以及背後的圖形設計、視覺藝術、視覺心理以及認知心理的課題。本課程著重實作，學生必須在課堂上積極參與討論，並必須完成數項作業以及針對學期實作專案。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、探索商業智慧以數字講故事<br>二、資料視覺化的價值與重要性<br>三、教育機構中之資料視覺化<br>四、資料視覺化以提升資料分析<br>五、資料視覺化以改善互動溝通<br>六、實現資料視覺化的流程<br>七、結合運用政府的各式開放資料<br>八、資料視覺化與評鑑<br>九、評鑑中之資料視覺化的設計原則<br>十、量化資料展示之發展及其對評鑑的啟示<br>",
+        "en": "1. Exploration for business intelligence in storytelling with numbers<br>2. The value and importance of data visualization<br>3. Data Visualization in Education Organizations<br>4. Data visualization to improve data analysis<br>5. Data visualization to improve interaction and communication<br>6. Implementing the Data Visualization Process<br>7. The combination use of different government open data set<br>8. Data Visualization and Evaluation<br>9. Design Principles for Data Visualization in Evaluation<br>10. Developments in Quantitative Data Display and Their Implications for Evaluation<br>"
+    },
+    "weeklySchedule": "第 1 週\t課程緒論+ BI 基本簡介<br>第 2 週\tPower BI Desktop 新手入門(I)<br>第 3 週\tPower BI Desktop 新手入門(II)<br>第 4 週\tPower BI Desktop 設計查詢以萃取和轉換資料(I)<br>第 5 週\tPower BI Desktop 設計查詢以萃取和轉換資料(II)<br>第 6 週\t學習風格分析實作(I)<br>第 7 週\t學習風格分析實作(II)<br>第 8 週\t學習風格分析實作(III)<br>第 9 週\t期中報告<br>第 10 週 Power BI Desktop 設計資料模型(I)<br>第 11 週 Power BI Desktop 設計資料模型(II)<br>第 12 週 Power BI Desktop 作品規劃與設計(I)<br>第 13 週 Power BI Desktop 作品規劃與設計(II)<br>第 14 週 職場壓力及過勞分析實作(I)<br>第 15 週 職場壓力及過勞分析實作(II)<br>第 16 週 職場壓力及過勞分析實作(III)<br>第 17 週 國際大規模評量簡介及綜述<br>第 18 週 期末報告<br>",
+    "exams": {
+        "midterm": "期中書面報告",
+        "final": "期末書面報告",
+        "other": "平時作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解最新的視覺化技術及相關應用。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能運用多種資料視覺化的工具。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－自我練習"
+                },
+                {
+                    "method": "平時",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能學習評鑑資料之視覺化分析的實務。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉問題訂定、分析、實作、驗證及結果呈現。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1. Critical Path Training. (2017). PBI365: Power BI Bootcamp. Access from: http://www.CriticalPathTraining.com<br>2. Clarke, M., &amp; Luna-Bazaldua, D. (2021). Primer on Large-Scale Assessments of Educational Achievement. World Bank Publications.<br>3. Knight, D. (2022). Microsoft Power BI Quick Start Guide (3rd ed.): The Ultimate Beginner's Guide to Data Modeling, Visualization, Digital Storytelling, and More. Packt Publishing Limited.<br>",
+    "teachingSoftware": "Microsoft Power BI",
+    "rules": "無"
+}

@@ -1,0 +1,135 @@
+{
+    "code": "1ND02P01",
+    "name": {
+        "zh": "健康產業與樂活產業",
+        "en": "Health industry and Lohas industry"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "自然科學領域"
+    ],
+    "instructors": [
+        "李國陽"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "M202"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "M202"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "M202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將介紹21世紀引導全球經濟發展的兩大產業，一為健康產業涵蓋醫療衛生、營養保健、健身休閑等健康服務功能的健康產業。二為人類消費新思維「樂活產業」，在美國就達到有2,289億美金。樂活族的特色是他們關心的環保議題，除了消費對健康有益、保護環境的商品，也鼓勵大家改變消費態度。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "介紹21世紀二大新興產業，一為健康產業，其可分為：醫療性和非醫療性兩大類，即：以醫療服務機構為主體的“醫療產業”“醫葯產業”；以保健食品、健康產品產銷為主體的“傳統保健品產業”“健康管理服務產業”。二為樂活產業，因應地球環境與人類永續發展目的，發展形成的綠色、友善、無毒、有機產業。",
+        "en": "This course is introducing the two emerging industries in the 21st century, one is the health industry, which can be divided into two categories: medical and non-medical, the medical industry with medical service institutions as the main body; and the non-medical industry with traditional health food of  the production and sales of the health products，and health management service industry. The second is the Lohas industry, which develops a green, friendly, non-toxic and organic industry in response to the global environment and the sustainable development of mankind."
+    },
+    "weeklySchedule": "第一週\t課程介紹\t了解21世紀新產業，健康產業與樂活產業<br>第二週\t認識自己，了解身體運作，討論如何走入健康人生\t介紹生命密碼，認識自己<br>第三週\t新生活：運動、心靈、飲食、養生、知識\t介紹人的控制系統、食物與身體運作關係<br>第四週\t新知識：生物科技(生、老、病、死的認知)\t介紹生物的生長過程和使命<br>第五週\t健康產業來臨\t了解健康產業的各種行業與公司型態<br>第六週\t“醫療產業”與“醫葯產業”介紹\t認識醫院系統和藥店系統<br>第七週\t“保健品產業”與“健康管理服務產業”介紹\t認識營養、運動與心靈保健<br>第八週\t如何進入健康產業領域\t整合學習健康產業<br>第九週\t期中考(企劃報告建立)\t<br>第十週\t21世紀環境的變化\t了解地球氣候環境<br>第十一週\t人類的新思維（樂活）\t樂活產業的形成<br>第十二週\t綠色有機產業的興起\t案例分析(青農創業基地)<br>第十三週\t友善大地、無毒農業、有機產業、生物資材\t生物科技、新農業技術、微生物技術應用等<br>第十四週\t國際樂活產業概況\t資料收集分折能力<br>第十五週\t實務學習一\t自我學習一<br>第十六週\t實務學習二\t自我學習二<br>第十七週\t自我學習能力建立\t迎接未來新希望與挑戰<br>第十八週\t期末商品展(期末報告)\t<br>",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "八、十七分組企劃討論成果"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "健康產業認識",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "“醫療產業”“醫葯產業”“保健品產業”“健康管理服務產業” 介紹",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "樂活產業認識",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "綠色、友善、無毒、有機產業思維推動",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "網路資料收集",
+    "teachingSoftware": "南臺科大FlipClass，Google Meet",
+    "rules": "上課主要用學校FlipClass ，數位學習https://flipclass.stust.edu.tw/，有問題可在留言區留言，或0918640547聯繫<br><br>"
+}

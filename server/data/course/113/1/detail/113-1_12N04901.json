@@ -1,0 +1,139 @@
+{
+    "code": "12N04901",
+    "name": {
+        "zh": "逆向工程技術",
+        "en": "Technology In Reverse Engineering"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四機械雙軌四"
+    ],
+    "instructors": [
+        "許絜翔"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "E0202"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "E0202"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "E0202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著科技的進步，工業產品的設計時時受到消費者喜好的考驗，不僅是更流線外型，連產品推新的速度亦受到各方的關注，為了迎合需求與增加公司的競爭力，逆向工程的技術亦逐漸的被廣泛的應用於3C與相關工業設計產品上。",
+    "prerequisites": "非傳統加工、電腦輔助繪圖、精密量測",
+    "syllabus": {
+        "zh": "一、逆向工程概論<br>二、掃描量測原理與設備簡介<br>三、點資料編輯與後處理<br>四、成形曲面分析<br>五、快速成型加工<br>六、快速模具設計與製作",
+        "en": "1.Introduction to reverse engineering<br>2.Introduction to Scanning measurement principle and equipment<br>3.Cloud Point editing and post processing<br>4. Formed surface analysis<br>5.Rapid prototyping application<br>6.Rapid tool mold design and production"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解逆向工程的方法與基本學理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對設計問題有效運用適當的編輯方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用編輯方法的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用geomagic 軟體分析資料並編輯元件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備設計與分析能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解逆向工程專用之英文術語",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

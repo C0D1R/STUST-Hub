@@ -1,0 +1,143 @@
+{
+    "code": "J0D38D01",
+    "name": {
+        "zh": "原創角色設計",
+        "en": "Original character design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技動畫二甲"
+    ],
+    "instructors": [
+        "吳智賢"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "W0607"
+        },
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "W0607"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "W0607"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "角色設計是以課堂上練習人物臉型、骨架、姿勢與服裝造型為練習基礎，輔以動漫畫產品觀察與解析，配合環境與設定描述，讓學生學習人物設計之技能與知識。<br><br>Role design is to use the classroom to practice face-shaped and structure and posture and Costume styling as a basis for practice, Supplemented by animation and comics observation and analysis, Match the environment and configuration description, Enable students to learn the skills and knowledge of character design.<br>",
+    "prerequisites": "需先修習並通過「素描類」或「繪畫類」或「表現技法類」之手繪基礎課程",
+    "syllabus": {
+        "zh": "1.角色背景設計<br>2.人體結構與比例<br>3.臉型與個性<br>4.服裝風格設計<br>5.文化與個性配件<br>6.姿勢與構圖<br>",
+        "en": "1. Background Design<br>2. Golden Ratio<br>3. Face /Age/Sex<br>4. Style<br>5. Culture<br>6. Pose<br>"
+    },
+    "weeklySchedule": "第01週：認識角色設計概念呈現方式，工具使用介紹<br>第02週：角色個性與五官表情設計<br>第03週：角色骨架比例設計概念實作(一)<br>第04週：角色骨架比例設計概念實作(二)<br>第05週：姿態與個性觀察設計描繪(一)<br>第06週：姿態與個性觀察設計描繪(二)<br>第07週：動態動作設計<br>第08週：角色造型設計<br>第09週：期中考週<br>第10週：名家作品觀摩<br>第11週：服裝與配件設計<br>第12週：角色文化背景與服裝配件(一)<br>第13週：角色文化背景與服裝配件(二)<br>第14週：服裝、裝備與姿態之物理變化<br>第15週：混合媒材創作<br>第16週：數位工具運用<br>第17週：角色綜合技法設計實作<br>第18週：綜合創作",
+    "exams": {
+        "midterm": "作業",
+        "final": "作業",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "骨架比例與造型建立",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "五官與表情塑造",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "髮型、服裝與配件設計",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "姿態與個性演出",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "整體配色概念建立",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "書名:從零創造 角色設計與表現方法の訣竅<br>作者:紅木春Akagi Shun<br>出版社:北星出版社<br>出版日期：2023/03/25",
+    "teachingSoftware": "Sketchbook\nprocreate",
+    "rules": "上課不可以空手到~<br>課程初期將較著重在手繪技法基礎，期中之後再進入電繪教學<br>要攜帶畫圖用的筆、A4速寫本，平時的草稿計畫與塗鴉列入平時成績加分依據<br>一起用心學習吧~"
+}

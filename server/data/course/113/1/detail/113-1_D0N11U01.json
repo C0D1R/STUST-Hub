@@ -1,0 +1,115 @@
+{
+    "code": "D0N11U01",
+    "name": {
+        "zh": "網路行銷",
+        "en": "Internet Marketing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技行流三甲"
+    ],
+    "instructors": [
+        "黃銘杰"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0204"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0204"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以網路行銷書籍進行深入的探討，並以實際網路行銷個案來進行報告和討論。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "ㄧ. 網路行銷的理論與發展<br>二. 網路行銷金、物流<br>三. 網路行銷之資訊流<br>四.網路行銷社群<br>五. 網路行銷品牌建立",
+        "en": "1. The concept and development of Internet Marketing<br>2. The payment and delivery flow of Internet Marketing<br>3. The information flow of Internet Marketing<br>4. The group of Internet Marketing <br>5. The brand of Internet Marketing"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "综合基本之行銷事業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備創業管理能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "可獲取證照",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用科技在管理的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

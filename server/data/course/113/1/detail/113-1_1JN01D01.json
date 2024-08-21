@@ -1,0 +1,122 @@
+{
+    "code": "1JN01D01",
+    "name": {
+        "zh": "失智症照護",
+        "en": "Dementia Care"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜二技高福四甲"
+    ],
+    "instructors": [
+        "黃春宜"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "O403"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "O403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "根據衛福部調查，2017年七月人口統計資料估算，台灣六十五歲以上老人每十三名就有一名失智，而八十歲以上的老人每五名就有一名失智，失智症人口超過二十六萬人，研究顯示，高齡者每增加五歲，失智症盛行率會越來越高，例如六十五歲到六十九歲約3.4％，八十五歲到八十九歲高達21.92％；未來四十五年中，台灣失智人口數以平均每天增加36人速度成長。失智症患者的健康與發展已非是個人議題，而是與社會各層面如經濟、政治、醫藥、福利、教育、文化等發展皆息息相關，如何提升學生對失智者需求的覺察與瞭解，為居家患者與家屬首當其衝的重要議題，本課程透過增加學生對失智症照顧者專業知識與技巧，並透過話劇或繪本提升學生對失智症長輩與家屬的全方面生活品質策略，以落實學用合一之課程目標。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.緒論<br>2.認識失智症<br>3.失智症合併精神行為症狀<br>4.失智症的早期篩檢與評估<br>5.失智症的飲食與營養照護<br>6.失智症照護的溝通技巧<br>7.失智症照護-經驗分享-家屬/機構負責人<br>8.失智症患者照顧者壓力與調適<br>9.繪本製作<br>10.繪本報告<br>11.失智症治療性環境<br>12.機構實地參訪<br>13.失智症防治-拒絕與失智共舞<br>14.失智症照護-經驗分享-護理師/社工師<br>15.失智症照護的社會資源運用<br>16.失智症患者家屬訪談報告",
+        "en": "1.Introduction of dementia care<br>2.Understanding dementia<br>3.Dementia with mental behavior symptoms<br>4.Early screening and evaluation of dementia<br>5.Dementia diet and nutritional care<br>6.Communication skills for dementia care<br>7.Dementia Care of experience sharing for family/institutional leader<br>8.Dementia Care of experience sharing for caregivers/care waiters<br>9.Pressure and adjustment of caregivers of dementia patients<br>10.Picture book production<br>11.Presentation of picture book for dementia<br>12.Therapeutic environment for dementia<br>13.Visiting of institution for dementia care<br>14.Prevention of dementia<br>15.Social resources for dementia care<br>16.Interview report of family members of dementia patients"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "掌握全球失智症之現象及相關影響",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解失智症生理衰退的正確知識及因應方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解失智症病患與家屬心理轉換的歷程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解失智症病患與家屬社會角色的變遷",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "促進自我未來及協助他人提升失智症照護技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

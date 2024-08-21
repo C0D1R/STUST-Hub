@@ -1,0 +1,116 @@
+{
+    "code": "C0N2AE01",
+    "name": {
+        "zh": "語言與文化",
+        "en": "language and culture"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜二技應英四甲",
+        "夜四技應英四甲"
+    ],
+    "instructors": [
+        "陳桂容"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "N204"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "N204"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "N204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "文化是一個複合體，包括知識、信仰。藝術、道德、法律、風俗以及人類在社會裡獲得的一切能力與習慣。本課程是要從人類文化中研究語言。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.了解何謂語言<br>2.了解何謂文化<br>3.探討語言與文化的關係<br>4.從語詞的語源和變遷看過去文化的遺跡<br>5.從造詞心理看民族的文化程度<br>6.從借字看文化的接觸<br>7.從英語和美語之間的差異分析英美的文化習慣<br>",
+        "en": "1.Understand what a language is <br>2.Understand what a culture is <br>3.Discuss the relationship between languages and cultures <br>4.Viewing the relics of past cultures from the etymology and changes of words  <br>5.Viewing the  National Culture Level from the Psychology of Word Creation <br>6.Analysis of British and American Cultural Habits from the Differences Between English and American <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "使學生具有其他文化的認知度及包容度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "期望本課程能為語言歷史與文化歷史搭起一座橋樑",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生了解語言與文化的關聯性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "帶領學生從語言的認知來了解文化的層次",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

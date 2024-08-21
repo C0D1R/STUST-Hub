@@ -1,0 +1,164 @@
+{
+    "code": "10M02701",
+    "name": {
+        "zh": "精密機械振動學",
+        "en": "Vibration Analysis of Precision Machinery"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博研機電一甲",
+        "碩研機械一甲",
+        "碩機械產業一甲",
+        "碩研機電一甲"
+    ],
+    "instructors": [
+        "王永鵬"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "K214"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "K214"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "K214"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "1.無",
+        "2.無"
+    ],
+    "description": "This course covers theoretical part and experimental part of the modal analysis. Several lab works and a final project will be assigned in this course for practice. In this course, students will obtain the techniques of vibration measurement and analysis.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 模態理論：單自由度振動系統<br>2. 模態理論：多自由度振動系統<br>3. 振動量測技術<br>4. 頻率響應函數量測技術<br>5. 模態參數擷取方法<br>6. 模態修正技巧",
+        "en": "1. Modal Theory - Single Degree of Freedom System<br>2. Modal Theory - Multiple Degree of Freedom System <br>3. Vibration Measurement Techniques<br>4. Response Function Measurement Techniques<br>5. Modal Parameter Extraction Methods<br>6. Modal Modifications"
+    },
+    "weeklySchedule": "Week 1: Introduction<br>Week 2-3: Modal Theory of Single Degree of Freedom System<br>Week 4: Modal Theory of Multiple Degree of Freedom System<br>Week 5: Holiday<br>Week 6: Frequence Response Function Development<br>Week 7: General Damped Systems<br>Week 8: Frequence Response Synthesis and Modal Scaling<br>Week 9: Midterm Exam<br>Week 10-11: Vibration Measurement<br>Week 12: Basics of Modal Testing<br>Week 13-14: Modal Testing<br>Week 15-16: Modal Analysis<br>Week 17: Modal Modifications<br>Week 18: Final Project <br>",
+    "exams": {
+        "midterm": "Written Exam",
+        "final": "Final Project Report",
+        "other": "None"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備結構模態分析之基本觀念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "具備振動量測技術",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備結構模態測試之能力",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "具備振動診斷與控制之能力",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "強化專業英語能力",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Lecture Notes",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1. Fertis, D. G., 1995, \"Mechanical and Structural Vibrations,\" John Wiley &amp; Sons, Inc.<br>2. McConnell, K. G., 1995, \"Vibration Testing: Theory and Practice,\" John Wiley &amp; Sons, Inc.<br>3. Ewins, D. J., 2000, \"Modal Testing: Theory, Practice and Application,\" 2nd Edition, Research Studies Press LTD.",
+    "teachingSoftware": "1. ME'Scope\n2. Pulse",
+    "rules": "None"
+}

@@ -1,0 +1,116 @@
+{
+    "code": "E0N0AR01",
+    "name": {
+        "zh": "商用日文書信寫作(一)",
+        "en": "Writing of Japanese Business Correspondence Ⅰ"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技應日四甲"
+    ],
+    "instructors": [
+        "桑澤悟史"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0113"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0113"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0113"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.日語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程針對日語中上級程度，學習商務電<br>子郵件及商務信件的各類知識。",
+    "prerequisites": "日本語能力試験Ｎ3～2",
+    "syllabus": {
+        "zh": "一、商業電子郵件的練習<br>二、在商務場合或對上司時使用的正式的<br>電子郵件基本結構或基本單字．句型<br>三、應對特定用途（例：請託、提問、聯<br>絡、道謝、道歉、回應等）之類正式電子<br>郵件的練習<br>四、敬語、及針對對象與場合的文章表現<br>（敬語體、丁寧語體、非正式語體）等的<br>使用與區分<br>五、與電腦的日文輸入法相關之基本知識<br>以及打字練習",
+        "en": "一、ビジネスEメールのトレーニング<br>二、ビジネス場面や目上の人相手に使用される、正<br>式なEメールの基本構成や基本単語・文型<br>三、特定の用途（例：お願い・質問・連絡・お礼・お詫<br>び・返事、等）に対応した正式なEメールの練習<br>四、敬語、及び、相手や場面に応じた文章表現のモ<br>ード（敬語モード、丁寧語モード、インフォーマルなモ<br>ード）の使い分け<br>五、パソコンでの日本語入力に関する基本的知識と<br>入力の実践"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "ビジネス場面で用いられるような正式なＥメール・手紙の基本構成、並びにビジネスＥメール・手紙特有の文型・単語を習得し、具体的な用途（例：「お願い」「質問」「連絡」「お礼」「お詫び」「返事」など）に応じたＥメール・手紙が書けるようになる。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "ビジネス関係の基本用語を習得し、中国語の基本的なビジネス用語を適切に日本語に翻訳出来るようになる",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "ビジネス場面で用いられるような正式なＥメール・手紙の基本構成、並びにビジネスＥメール・手紙特有の文型・単語を習得し、伝えるべき内容を、正確に、かつ、相手や使用場面にあわせた表現のモード（敬語モード、丁寧語モード、インフォーマルなモード）を適切に選択しつつ、相手に伝えられるようになる。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "日本のビジネス習慣・マナーの基本を習得する。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

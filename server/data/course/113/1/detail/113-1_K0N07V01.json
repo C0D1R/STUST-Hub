@@ -1,0 +1,139 @@
+{
+    "code": "K0N07V01",
+    "name": {
+        "zh": "遊戲設計學",
+        "en": "Introduction of Game Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技多樂一甲"
+    ],
+    "instructors": [
+        "徐芳真"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "W0703"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "W0703"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "W0703"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "網際網路同時也擴大並延伸到人們息息相關的娛樂。舉凡網路遊戲、手機、網路電視等，其中網路遊戲的興起成為一種趨勢。至今網路遊戲已經與人密不可分，因此，本課程將讓學生深入地熟悉與體驗目前熱門的網路遊戲，並將其內容進一步地探討與分析現今網路遊戲的發展性與設計。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 玩家與動機：介紹初始遊戲提案及簡易企劃<br>2. 遊戲規則與挑戰：遊戲機制說明及勝負條件判斷設計<br>3. 遊戲世界的構成：遊戲各次系統構成世界觀的層次介紹<br>4. 遊戲平衡：各次系統數值交互影響案例說明<br>5. 進程與關卡設計：關卡設計原則介紹<br>6. 獎勵與成就機制：瞭解獎勵方法與各種成就設計方式<br>",
+        "en": "1. Players and Motivation: Introducing the initial game proposal and simple planning<br>2. Game rules and challenges: game mechanism description and winning condition judgment design<br>3. The composition of the game world: the level of the world view of the game system<br>4. Game balance: each system numerical interaction impact case description<br>5. Process and Level Design: Introduction to Level Design Principles<br>6. Reward and achievement mechanisms: understanding reward methods and various ways of designing achievements<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "介紹初始遊戲提案及簡易企劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "遊戲機制說明及勝負條件判斷設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "遊戲各次系統構成世界觀的層次介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "各次系統數值交互影響案例說明",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "關卡設計原則介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解獎勵方法與各種成就設計方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

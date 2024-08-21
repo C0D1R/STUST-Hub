@@ -1,0 +1,182 @@
+{
+    "code": "M0D16501",
+    "name": {
+        "zh": "創意思考",
+        "en": "Creative thinking"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技餐旅二甲"
+    ],
+    "instructors": [
+        "毛佩娟"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "T0310"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "T0310"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "思考是可以學習的，也需要練習和維護。創意思考又是甚麼呢?創意思考就是思考，代表產出創意的起點和過程。就是學習思考方法並且鍛鍊思考的活力，讓思考具備多元觀點和爆發能力。課程的目的是以活動或是練習的方式，讓創意與生活運用結合，主要包含各種思考遊戲、練習和主題任務。另外，利用個別企業的實務運用，來解釋創意的市場目的及價值。主要介紹創意發想的過程以及市場應用的結果，課程偏重於問題解決的能力並將創意概念開發成適合引導的實作練習。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "探討創意思考的方法<br>探討自己的思考風格及傾向<br>練習思考的修練範圍<br>探討從創意到市場實現的歷程<br>探討創意的動力<br>",
+        "en": "Discuss the methods of creative thinking<br>Discuss your own thinking style and orientation<br>Practice thinking scope<br>Discuss the process from creative ideas to commercialization<br>Discuss the motivations of creation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解創意思考的方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解創意思考的方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解創意思考的方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解及練習互動式的創意思考",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解及練習互動式的創意思考",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創意思考與市場趨勢的整合練習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創意思考與市場趨勢的整合練習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創意思考與市場趨勢的整合練習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解及練習互動式的創意思考",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創意思考與市場趨勢的整合練習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

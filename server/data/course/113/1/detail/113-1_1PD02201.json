@@ -1,0 +1,127 @@
+{
+    "code": "1PD02201",
+    "name": {
+        "zh": "3D建模與實務",
+        "en": "3D model construction and fast prototype realization"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "綜合實踐領域"
+    ],
+    "instructors": [
+        "李博明"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "P503"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "P503"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "P503"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程教導學生如何繪製 2D 工程圖，再以 blender/freecad 3D 繪圖軟體來建立模型，並使用 3D 印表機或是 CNC 將所繪製之模型列印/雕刻出來。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 2D 與 3D 繪圖軟體說明<br>2. 3D 建模介紹<br>3. 3D 印表機操作說明<br>4. 3D 模型轉檔說明<br>5. 學生專題實作<br>",
+        "en": "1.Introduction to 2D and 3D graphics software.<br>2.Introduction to 3D modeling.<br>3.Introduction to 3D printer operation.<br>4.3D model file convertsion.<br>5.Student project.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識3D建模的工具",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能自行建立 3D 模型",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備 3D 列印機的操作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養 3D 列印實作專題的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使用3D 列印產出實體模型",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "X0M0BZ01",
+    "name": {
+        "zh": "勞動法令專題研討",
+        "en": "Seminar on Labor Law"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "碩研財法一甲"
+    ],
+    "instructors": [
+        "郭俊麟"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "S411B"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "S411B"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "依據憲法第153條規定，「國家為改良勞工及農民之生活，增進其生產技能，應制定保護勞工及農民之法律，實施保護勞工及農民之政策。」《勞動基準法》主要規定勞動條件之最低標準，保障勞工權益，加強勞雇關係，促進社會與經濟發展。舉凡勞動基準法等相關勞動法令，係人民在工作職場與雇主運用管理的遵循依據，實值得學習與探討。本課程讓學生對勞動法體系能有一定程度的瞭解與認識，透過文獻、法院判決或裁決命令，對勞動法特定課題，例如契約、解僱、調動、工資、工作時間、工作規則、競業禁止、爭議行為等做深入之探討，將勞動法之理論與實務相結合，培養勞動事件問題之研究能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "壹、總則<br>貳、勞動契約<br>參、工資<br>肆、工作時間、休息、休假<br>伍、童工、女工<br>陸、退休<br>柒、職業災害補償<br>捌、技術生<br>玖、工作規則<br>拾、監督與檢查<br>拾壹、罰則<br>",
+        "en": "Ⅰ General Provisions<br>Ⅱ Labor Contract<br>Ⅲ Wages<br>Ⅳ Working Hours, Recess and Holidays<br>Ⅴ Child Workers and Female Workers<br>Ⅵ Retirement<br>Ⅶ Compensation for Occupational Accidents<br>Ⅷ Apprentices<br>Ⅸ Work Rules<br>Ⅹ Supervision and Inspection<br>XI Penal Provisions <br>"
+    },
+    "weeklySchedule": "第一單元 勞動人權與勞動基準法<br>第二單元 勞動契約<br>第三單元 工資<br>第四單元 工作時間、休息、休假<br>第五單元 童工、女工<br>第六單元 退休<br>第七單元 職業災害補償<br>第八單元 技術生<br>第九單元 工作規則<br>第十單元 監督與檢查<br>第十一單元 性別平等工作法<br>第十二單元 就業服務法<br>第十三單元 職業安全衛生法<br>第十四單元 工會法<br>第十五單元 團體協約法<br>第十六單元 勞資爭議處理法",
+    "exams": {
+        "midterm": "專題報告",
+        "final": "學期自我評量",
+        "other": "學習單"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解勞動法體系與相關勞動法令內容",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "運用勞動法令規範檢視實際案例事件",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "分析勞資爭議問題與相關理論及見解",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "解析勞動法令於實際之勞資爭議處理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "職場與法律",
+        "author": "鄭津津",
+        "publisher": "元照",
+        "year": "2022",
+        "ISBN": "9786260104993",
+        "edition": "2022"
+    },
+    "referenceBooks": "張清滄，例解勞動基準法，五南，2024。<br>林豐賓、劉邦棟，勞動基準法論，三民書局，2021。",
+    "teachingSoftware": "自行製作簡報教材、補充資料與講義。",
+    "rules": "歡迎同學課堂發言與討論。"
+}

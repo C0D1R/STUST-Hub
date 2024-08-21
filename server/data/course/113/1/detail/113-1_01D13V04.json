@@ -1,0 +1,105 @@
+{
+    "code": "01D13V04",
+    "name": {
+        "zh": "全民國防教育(一)",
+        "en": "National Defense Education"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "五專資工一甲"
+    ],
+    "instructors": [
+        "劉嘉郎"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第5節",
+            "location": "D105"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "「全民國防」在政府多年來一直大力提倡，尤其在民國85年台海危機之後，更受各界重視，並認為「全民國防」是以軍民一體、文武合一的形式，不分前後方、平時戰時，將有形武力、民間可用資源與精神意志合而為一的總體國防力量。推動全民國防教育的意義在於「納動員於施政、寓戰備於經建、藏熟練於演訓」，使全國民眾建立「責任一體、安危一體、禍福一體」的共識，達到全民關注、全民支持、全民參與、全民國防的最高理想。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "國際情勢<br>第一章　瞭望國際舞臺──國際情勢分析(4節)<br>國防政策<br>第一章　覆巢之下無完卵──國家安全概念 (2節)<br>第二章　國防政策面面觀──我國國防政策(2節)<br>全民國防<br>第一章　精神戰力不可少──全民國防導論（2節）<br>防衛動員<br>第一章　全員召集令──全民防衛動員概論（2節）<br>第二章　防災求生守則──災害防制與應變（2節）<br>第三章　強身衛家國──基本防衛技能（4節）<br>期末總復習（1節）<br>",
+        "en": "The International Situation<br>Chapter One<br>Analysis of the International Situation (4 lessons)<br>The Military Policy of National Defense<br>Chapter One<br>The Concept of National Security (2 lessons)<br>Chapter Two<br>National Defense Policy of the Republic of China (R.O.C.) (2 lessons)<br>All-out Defense<br>Chapter One<br>Introduction of All-out Defense  (2 lessons)<br>Defense Mobilization<br>Chapter One<br>Outline of Defense Mobilization  (2 lessons)<br>Chapter Two<br>Disaster Prevention and Response  (2 lessons)<br>Chapter Three<br>Basic Defensive Skills (4 lessons)<br>Final Review (1 lesson)<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培育宏觀國際視野，增進國防科技知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "深化全民國防共識，確保國家整體安全。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "凝聚國人憂患意識，淬煉愛國愛鄉情操。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養優秀國防科技人才，奠定國防意識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

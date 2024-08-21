@@ -1,0 +1,123 @@
+{
+    "code": "D0N15H01",
+    "name": {
+        "zh": "服務業行銷與管理",
+        "en": "Service Industry Marketing and Management"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜行流產攜四甲"
+    ],
+    "instructors": [
+        "洪志滄"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹服務業行銷相關理論與概念，分別從產業背景面、企業面與顧客面加以探討說明，讓學生能運用基本概念與能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、概論(服務業特性與分類)<br>二、服務策略與競爭優勢<br>三、顧客管理<br>四、服務流程與實體環境<br>五、服務行銷<br>六、服務創新與模式<br>",
+        "en": "1. Introduction(The importance and characteristics of services)<br>2. Service strategies and competitive advantage<br>3. Customer relationship management<br>4. Service flow and environment<br>5. Service marketing<br>6. Service innovation and model <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解服務業的重要與發展",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解服務業消費者行為",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解服務業行銷核心",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "服務行銷策略規劃與運用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解服務組織發展與管理重心",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "如何規劃服務策略與計畫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

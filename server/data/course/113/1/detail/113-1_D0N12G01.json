@@ -1,0 +1,115 @@
+{
+    "code": "D0N12G01",
+    "name": {
+        "zh": "企業倫理",
+        "en": "Business Ethics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技行流四甲"
+    ],
+    "instructors": [
+        "洪志滄"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "T0209"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "T0209"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "T0209"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "述說倫理的概論與意義，重要性，以及企業倫理的基本概念與在組織中的實用性；並嵌入行銷實務中輔以個案討論印證之",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 緒論<br>2. 概念篇<br>3. 應用篇<br>4. 個案討論<br>5. 結論",
+        "en": "1. Introduction<br>2. Concept of Ethics<br>3. Application of Business Ethics<br>4. Case study<br>5. Conclusion"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "運用行銷之專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉評估企劃流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立良好的夥伴關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "善盡企業社會責任",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

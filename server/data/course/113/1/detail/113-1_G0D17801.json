@@ -1,0 +1,115 @@
+{
+    "code": "G0D17801",
+    "name": {
+        "zh": "基本電學實習(一)",
+        "en": "Basic Electricity Practice(I)"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "五專資工二甲"
+    ],
+    "instructors": [
+        "張鴻德"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "J201"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "J201"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "J201"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程培養學生具有基本電學之概念、熟悉電學相關實驗之設計及應用電學之相關技能，其主要目標為教導學生熟悉基本電路實驗及相關實驗器材使用的知識。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、基本工具介紹<br>二、焊接技術訓練<br>三、基本電路實習<br>四、電子元件簡介<br>五、印刷電路板簡介<br>六、量測儀器使用",
+        "en": "1. Basic Tool Introduction<br>2. Soldering Skill Training<br>3. Fundamental Circuit Practice<br>4. Component Introduction<br>5. PCB Introduction<br>6. Meter Introduction"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "電學元件的辨識與基礎認識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能學習量測儀器的使用以及焊接技術",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能與組員合作共同討論設計電路能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以文字及圖表撰寫實驗報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

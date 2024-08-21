@@ -1,0 +1,115 @@
+{
+    "code": "B0N15Z01",
+    "name": {
+        "zh": "城市行銷",
+        "en": "City Marketing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技休閒四甲"
+    ],
+    "instructors": [
+        "施鴻瑜"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0510"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0510"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0510"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "自古以來，城市（或都市）就伴隨著人類歷史不斷的發展，可以說城市就是人類文明的象徵，工業革命以後，大量人口往都市集中，因而也產生許多都市環境與社會問題。二十世紀後期的全球化都會時代，城市更有如蛙躍般，以數倍成長擴張與演變，至今全球絕大部分的人口，均居住在都市化地區。因此，以都市化地區為目的地和產品的觀光活動，就成為城市競爭和觀光旅遊發展重要的議題。<br>都市觀光行銷是指在經濟發達的大城市中進行的，以商務會議、探親訪友、文化修習、觀光購物、以及遊樂休閒為目的的旅遊活動，故瞭解城市觀光的內涵、發展要素是本課程的基本重點。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1 課程簡介與概要 本學期課程綱要及內容介紹、修課注意事項 <br>2 A.城市的身世 城市的分類、型態與定義，城市的發展與變遷<br>1.歷史上的東西方城市（歐洲之威尼斯、羅馬、佛羅倫斯、巴黎、等，中國長安城、日本的京都 VCD《城市的起源》<br>3 A.城市的身世 2.工業城市（英國倫敦、花園城市等）<br>3.現代都會城市 （美國紐約、日本東京、） <br>4 A.城市的身世 4.台灣的城市發展<br>5.中國的城市發展 VCD《上海或大陸城市案例》<br>VCD《高雄城市案例》<br>5 B.城市觀光的特性 城市旅遊的定義、城市觀光的要素 DVD《國家的遠見》—畢爾包及庫里其巴城市案例<br>6 B.城市觀光的特性 城市意象的組成與塑造<br>VCD《城市的遠見》古川町案例<br>7 校外參觀 府城行春---城市觀光重要景觀及案例參訪(另排時間參訪)<br>參觀後期末請寫交心得報告<br>8 B.城市觀光的特性 觀光發展的主客體<br>VCD《城市的遠見》京都城市案例<br>9 期中考週 <br>10 C.城市行銷 城市觀光與文化產業 Discovery VCD《台灣文化采風—人文篇》<br>11 C.城市行銷 城市觀光與飲食產業 Discovery VCD《台灣文化采風—美食篇》<br>12 C.城市行銷 城市觀光與藝文產業 VCD《巴塞隆納》城市案例<br>13 C.城市行銷 城市行銷與企畫、城市觀光策略與分析<br><br>14 期末分組報告1 以台灣城市第一、二、三級城市為範圍，選取一個城市作為分組討論目標（一級城市如台北、高雄，二級城市如：基隆、新竹、台中、嘉義、台南，三級城市有：桃園、彰化、屏東、宜蘭、羅東等）★請依據上課所討論的城市觀光的要素、資源調查與分析要項，檢討城市觀光的優勢和劣勢，機會與威脅，並提出城市觀光發展的策略與建議★ <br>15 期末分組報告2 <br>16 期末分組報告3 <br>17 期末分組報告4 <br>18 期末考週 <br>",
+        "en": "1 Course Introduction and Abstract<br>2 Urban development and changes<br>3 industrial cities (London, Garden City, etc.)<br>3 Modern metropolis<br>4 Taiwan's urban development<br>5 China's urban development<br>6 Characteristics of urban tourism Composition and shaping of urban imagery<br>7 Off-campus visits Fucheng Xingchun---After the end of the visit, please write a report<br>8 subject and object of tourism development<br>9 midterm week<br>10 City Marketing City Sightseeing and Cultural Industry<br>11 City Marketing City Sightseeing and Catering Industry<br>12 City Marketing City Sightseeing and Art Industry<br>13 Urban Marketing Urban Marketing and Planning, Urban Tourism Strategies and Analysis<br>14 final report<br>15 final report 2<br>16 Final Reporting 3<br>17 final report 4<br>18 final exam week"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "探討城市的發展與變遷、城市觀光的內涵與特性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以及城市觀光行銷的策略和手法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "並希望透過課程講授、實地參訪、多媒體影片教材欣賞與分組主題研討報告",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使同學瞭解城市觀光行銷的基本條件、組成要素，以及如何為台灣的城市觀光找尋新的出路。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

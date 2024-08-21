@@ -1,0 +1,119 @@
+{
+    "code": "C0D5FB01",
+    "name": {
+        "zh": "創新與創業管理結合創業核心能力指標國際認證",
+        "en": "Innovation and Entrepreneurship Management Integrated Entrepreneurship Core Competency Indicators (ESB) International Certification"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技應英四甲"
+    ],
+    "instructors": [
+        "楊晴絨"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "N202"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "N202"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "N310"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "ESB認證旨在測試和驗證有關創新事業和小型企業管理之基礎層級概念和知識，這些核心概念包含創業精神、辨識和評估機會，以及規劃、展開和經營企業、行銷和銷售與財務管理。ESB考試將針對每個核心概念就數個特定主題證明受試者的知識和技術。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "創業機會識別、開辦企業、企業經營、行銷與銷售、財務管理、ESB國際認證考試。",
+        "en": "Business Opportunity Identification, Business Establishment, Running a Business, Marketing and Sales, Financial Management, ESB International Certification Exam."
+    },
+    "weeklySchedule": "商業模式設計、<br>產品開發、<br>市場開發、<br>財務管理、<br>領導與團隊管理",
+    "exams": {
+        "midterm": "reflection journal",
+        "final": "online test",
+        "other": "N/A"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "總結檢視學員於學程前三項專精課程之所學.",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉開辦企業與企業經營之流程.",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "幫助完成正規教育後想要額外接受職業訓練，或是畢業後想要立即投入小型企業領域的學員做好準備.",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "輔導學員通過ESB國際認證考試.",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "其他",
+                    "type": "－線上認證"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "N/A",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

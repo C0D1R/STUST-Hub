@@ -1,0 +1,145 @@
+{
+    "code": "90N09301",
+    "name": {
+        "zh": "物件導向系統分析與設計",
+        "en": "Object-Oriented System Analysis and Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技資管三甲"
+    ],
+    "instructors": [
+        "陳俊吉"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第12節",
+            "location": "T0708"
+        },
+        {
+            "day": "週四",
+            "period": "第13節",
+            "location": "T0708"
+        },
+        {
+            "day": "週四",
+            "period": "第14節",
+            "location": "T0708"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.介紹資訊系統開發的理論與技術。<br>2.介紹物件導向系統分析與設計(OOSA&amp;D)的原理。<br>3.介紹統一塑模語言(UML)的表示法。<br>4.介紹使用UML於系統開發的案例。",
+    "prerequisites": "程式設計",
+    "syllabus": {
+        "zh": "1.資訊系統開發概論<br>2.資訊系統開發模式<br>3.物件導向技術<br>4.需求分析<br>5.需求塑模案例<br>6.物件互動行為塑模<br>8.使用者介面塑模<br>9.物件資料結構塑模<br>10.模式驅動結構<br>10.MDA轉換案例<br>11.系統元件與結構塑模<br>12.結論與展望<br>",
+        "en": "1.Introduction to Information systems Development<br>2.Models of Information systems Development<br>3.Object-Oriented Techniques<br>4.Requirement Analysis<br>5.Case Study: Requirements Analysis<br>6.Modeling Object Interaction Behavior<br>7.Modeling User Interface<br>8.Modeling Object Data Structure<br>9.Model Driven Architecture<br>10.Case Study: Model Driven Architecture<br>11.System Component and Architecture<br>12.Conclusions and Future Prospects"
+    },
+    "weeklySchedule": "1. 資訊系統開發概論<br>2. 資訊系統開發模式<br>3. 物件導向技術<br>4. 需求分析<br>5. 需求塑模案例<br>6. 物件互動行為塑模<br>7. 物件互動行為塑模應用<br>8. 使用者介面塑模—結構與狀態<br>9. 物件結構塑模<br>10. 類別正規化<br>11. 物件限制語言<br>12. 模式驅動結構<br>13. MDA轉換案例<br>14. 系統元件與結構塑模<br>15. 系統分析師角色及展望",
+    "exams": {
+        "midterm": "期中系統分析專題報告",
+        "final": "期末系統分析專題報告",
+        "other": "實例個例練習"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解商業系統開發管理的基本學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用物件導向系統分析工具來分析開發軟體系統",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能以團隊合作以及創新方式分析來開發軟體",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "設計製作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能將企業問題轉換成資訊系統",
+            "teachingMethods": [
+                "個案研究(PBL)",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用開發系統有效解析與呈現系統問題結果，並以書面報告方式呈現讓系統使用者可以理解",
+            "teachingMethods": [
+                "分組討論",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "UML物件導向系統分析與設計",
+        "author": "遊峰碩",
+        "publisher": "博碩文化",
+        "year": "2019",
+        "ISBN": "978-986-434-448-2",
+        "edition": "第四版"
+    },
+    "referenceBooks": "系統分析與設計-使用UML，Alan Dennis 等，王裕華等譯，全華書局，2010<br>UML 基礎、案例、與應用，Joseph Schmuller著，李虎、趙龍剛譯，人民郵電出版社，2004<br>UML極其建模工具的使用，殷兆麟主編，清華大學出版社，2004<br>物件導向系統分析與設計 吳仁和 智勝 2010",
+    "teachingSoftware": "UML Case Tool",
+    "rules": "須有程式設計概念，準備小組合作製作專案系統分析。"
+}

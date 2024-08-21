@@ -1,0 +1,127 @@
+{
+    "code": "G0D10402",
+    "name": {
+        "zh": "動態程式語言",
+        "en": "Dynamic Programming Language"
+    },
+    "credit": "3",
+    "type": "系定選修",
+    "classes": [
+        "五專資工三甲"
+    ],
+    "instructors": [
+        "劉毓芬"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "E0205"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "E0205"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "E0205"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "動態語言就是一種在運行時可以改變其結構的語言：例如新的函數可以被引進，已有的函數可以被刪除等在結構上的變化。眾所周知的ECMAScript(JavaScript)便是一個動態語言，除此之外如Ruby、Python等也都屬於動態語言，而C、C++等語言則不屬於動態語言。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Understand Action script syntax and how it works<br>Use event handlers to create a variety of activities<br>Use a built-in classes, properties, and methods<br>Use functions<br>Create custom classes<br>Use conditional logic<br>Use loops<br>Use components<br>Understand object-oriented techniques<br>Use Bitmap Data class<br>Use XML with flash<br>Use your application to communicate with a third-party web service<br>Use the ExternalInterface class to communicate with JavaScript<br>Create an application that uses a third-party tool to enhance its functionality beyond flash's built in capabilities",
+        "en": "Understand Action script syntax and how it works<br>Use event handlers to create a variety of activities<br>Use a built-in classes, properties, and methods<br>Use functions<br>Create custom classes<br>Use conditional logic<br>Use loops<br>Use components<br>Understand object-oriented techniques<br>Use Bitmap Data class<br>Use XML with flash<br>Use your application to communicate with a third-party web service<br>Use the ExternalInterface class to communicate with JavaScript<br>Create an application that uses a third-party tool to enhance its functionality beyond flash's built in capabilities"
+    },
+    "weeklySchedule": "一. Python簡介安裝與使用操作<br>變數、運算與敘述句<br>二. 輸入與輸出<br>流程控制 - 判斷式與迴圈<br>三. 字串函數與方法<br>四. 容器操作函數與方法<br>五. 內建函式與自訂函式<br>六. 程式模組<br>標準函數庫<br>七. 程式模組<br>第三方函數庫<br>八. 檔案處理應用練習<br>錯誤與例外處理<br>九. 物件與類別<br>十. 期末成果展示 ex:網路爬蟲、python遊戲...等",
+    "exams": {
+        "midterm": "線上測驗",
+        "final": "期末電腦測驗",
+        "other": "課堂作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解動態程式語言設計的方法與原理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能利用動態程式語言設計執行及解決軟體應用問題。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "針對動態程式語言問題，有效辨識適當的解決方法",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "擁有程式設計專業責任與工程倫理的觀念。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "可使用英文解讀國外技術文件",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

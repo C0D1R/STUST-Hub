@@ -1,0 +1,127 @@
+{
+    "code": "10M09001",
+    "name": {
+        "zh": "奈米定位與量測技術",
+        "en": "Nano Positioning and Measurement Techniques"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研機械一甲"
+    ],
+    "instructors": [
+        "朱志良"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "K214"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "K214"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "K214"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹各種奈米定位與量測技術，應用於機械、電子、材料、生物、醫學...等平台定位與量測方法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、致動元件：線性馬達、音圈馬達、積層式壓電致動器…<br>二、奈米定位平台之設計與分析：彈性變形)式<br>三、長行程奈米定位平台之設計與分析：滯滑摩擦式、<br>尺蠖蟲式、衝擊式、壓電陶瓷線性馬達…<br>四、量測技術簡介<br>1.量測學簡介、量測的相關準則、量測數據處理方法<br>2.基礎聲、光、電、磁原理與聲、光、電、磁元件特性<br>3.微奈米量測技術簡介<br>五、光學顯微術原理與應用<br>1.共焦顯微鏡<br>2.自動聚焦顯微鏡<br>3.立體顯微術Stereo Microscopy)…等<br>六、干涉儀原理與應用<br>1.干涉學<br>2.雷射干涉儀<br>3.輪廓干涉儀<br>七、掃描探針顯微鏡原理與應用<br>1.原子力顯微儀（AFM）<br>2.掃瞄式穿隧電流顯微儀（STM）<br>3.近場光學顯微鏡…等<br>八、電子顯微鏡原理與應用<br>1.掃描電子顯微鏡(SEM)<br>2.穿透式電子顯微鏡(TEM)<br>九、微奈米量測設備的研製方法<br>1.奈米三次元量測儀<br>2.奈米量測探頭...等<br>十、微奈米材料檢測技術<br>1.微奈米材料之機械性質檢測<br>2.微奈米材料之磁性、光、電性檢測<br>3.微奈米材料檢測所需試片之加工技術",
+        "en": "1. Actuator: VCM, Voice Coil Motor, PZT…etc.<br>2. Piezodriven Nanopositioning Stage: Elastic deformation<br>3. Long-Travel Piezoelectric-Driven Nanopositioning Stage: Stick-slip friction, Clamp-release Inchworm, Impact-drive, Piezoelectric ceramic linear motor<br>4. Introduction of measurement techniques<br>Introduction of metrology、Measurement criterions、Data analysis and measurement procedures、Characteristic of acoustic, optics, electric and magnetism components、Design principle of the measurement instruments、Sensor and transducers、Introduction of micro / nano measurement techniques<br>5. Optical microscope principle and application<br>Confocal microscopy、Auto-focus microscope、Stereo Microscopy…etc.<br>6. Interferometer principle and application<br>Laser principle、Interference principle、Laser interferometer、profile Interferometer…etc.<br>7. Scanning Probe Microscope <br>Atomic Force Microscope (AFM)、Scanning Tunneling Microscope (STM)、Scanning Near-Field Optical Microscope (SNOM)…etc.<br>8. Electron Microscope<br>Scanning electron microscope (SEM)、Transmission Electron Microscopy (TEM)…etc.<br>9. Development techniques for Electro-Optical measurement Equipments<br>Nano optical scale、Nano optical measurement probe、nano coordinate measuring machine (CMM) ...etc.<br>10. Characterization measurement techniques for micro / nano materials<br>Measurement of mechanical properties for micro / nano materials、Measurement of magnetism, light、and electric properties for micro / nano materials…etc.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能熟悉各種奈米致動元件的原理與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備設計奈米定位平台的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用有限元素軟體設計與分析奈米定位平台",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解各種奈米量測儀器的原理與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備撰寫奈米定位與量測技術報告的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

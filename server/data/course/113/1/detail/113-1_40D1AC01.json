@@ -1,0 +1,148 @@
+{
+    "code": "40D1AC01",
+    "name": {
+        "zh": "分析實驗與數位作圖",
+        "en": "Analytical Expereiments and digitalized plotting"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技車輛二甲",
+        "四技化材二甲"
+    ],
+    "instructors": [
+        "毛慶豐"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "I0601"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "I0601"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "I0601"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "瞭解分析實驗之及應用, 實作練習在化學上的分析方法、實驗技術以及數據處理與解析。<br>學習數位化的作圖方法以及數據整理分析技巧。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.分析實驗介紹與實驗安全<br>2.分析實驗基本操作技巧與數位化作圖<br>3.酸鹼標準溶液配製與標定及試樣滴定分析<br>4.雙重指示劑滴定法測定碳酸鈉及碳酸氫鈉含量分析<br>5.過錳酸鉀滴定法測定碳酸鈣試樣中氧化鈣含量分析<br>6.鈣含量分析<br>7.過錳酸鉀測定褐鐵礦中鐵含量分析<br>8. EDTA錯合滴定法測定硬水中鈣及鎂含量分析<br>9. 鐵比色分析<br>10. 六價鉻含量分析<br>11. 數位化滴定分析實驗<br>12. Excel數據處理與作圖繪製, 分析軟體應用<br>",
+        "en": "1. Analysis experiment introduction and experiment safety<br>2. Analyze the basic operation skills of the experiment and digital mapping<br>3. Preparation and calibration of acid-base standard solution and sample titration analysis<br>4. Double indicator titration method for determination of sodium carbonate and sodium bicarbonate content analysis<br>5. Analysis of calcium oxide content in calcium carbonate sample determined by potassium permanganate titration method<br>6. Calcium content analysis<br>7. Determination of iron content in limonite by potassium permanganate<br>8. EDTA complex titration method to determine the content of calcium and magnesium in hard water<br>9. Iron colorimetric analysis<br>10. Analysis of hexavalent chromium content<br>11. Digital titration analysis experiment<br>12. Excel data processing and drawing, analysis software application<br>"
+    },
+    "weeklySchedule": "第一週\t\t課程介紹- 分組,環安衛/環境設置,IoT,AI<br>第二週\t\t分析實驗介紹(一及二),酸鹼平衡, 計算<br>第三週\t\t基礎實作, 環安,天平,吸球,量瓶<br>第四週\t\t實驗一:醋酸濃度測定(酸鹼滴定)[丙]<br>第五週\t\t實驗二: 酸鹼滴定溶液之配製、標定與試樣之  pH  滴定曲線[乙]<br>第六週\t\t實驗三-1: Arduino數位化課程(1)<br>第七週\t\t實驗三-1: Arduino數位化課程教學-2(與實驗二進行比較)<br>第八週\t\t實驗三-2: Arduino(組報告)<br>第十週\t\tUV-VIS光譜,excel作圖, Python介紹<br>第十一週\t\t實驗四:試樣中鐵(III)之比色定量[乙]<br>第十二週\t\tPython(含作圖)<br>第十三週\t\tAI簡介(特徵工程、機器學習、深度學習)<br>第十四週\t\tAI和IoT業師<br>第十五週\t\tIR光譜分析簡介、NIST Chemistry WebBook資料庫簡介(AI在IR光譜分析的應用)<br>第十六週\t\t建模參數優化及實驗參數優化_貝氏優化法<br>第十七週\t\t期末考實作<br>第十八週\t\t期末考實作<br>",
+    "exams": {
+        "midterm": "無",
+        "final": "實作",
+        "other": "實驗報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能利用分析實驗基本知識及運算原理，完成實驗及結果報告",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能分析實驗數據並解釋實驗結果",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能有系統的說明實驗流程與實驗結果",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用電腦軟體處理實驗數據，並上網收集相關資料",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能融入團隊並能完成自己所分擔的實驗工作。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "無",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "Python (Colab)\nArduino (Arduino IDE)",
+    "rules": "每一組自備筆電"
+}

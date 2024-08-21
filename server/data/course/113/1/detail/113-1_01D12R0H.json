@@ -1,0 +1,122 @@
+{
+    "code": "01D12R0H",
+    "name": {
+        "zh": "中文閱讀與表達(一)",
+        "en": "Chinese Reading and Expression(I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技自控一甲"
+    ],
+    "instructors": [
+        "楊雅琪"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "E0502"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "E0502"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程選文涵蓋文言與白話，文類多元，從古典至現代，包括散文、詩歌、小說及應用文。提升學生學習興趣、閱讀表達能力，增進應用文知能及文學欣賞層次。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.導論<br>2.閱讀的功能與樂趣<br>3.書寫與表達基本原理<br>4.中文各項文類評析<br>5.文學作品中各項人生議題之探討<br>6.實用文書基本能力<br>7.聽說讀寫綜合表達訓練<br>",
+        "en": "1.\tIntroduction<br>2.\tThe function and pleasure of reading<br>3.\tThe basic principle in writing and expression <br>4.\tEvaluates all kind of Chinese literature type <br>5.\tThe discussion of life issues in literary work<br>6.\tPractical word processing ability<br>7.\tThe expression training: Hearing、speaking、reading and writing <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "描述文章表達的意義並撰寫作文",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "統整所學的基本能力以作為國家考試與求職之基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "接納人與人之間所傳達的訊息並給予正面的回應",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "秉持良好的學習態度以交付完成各項任務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "探討文學作品的各項人生議題，並於生活中展現批判能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

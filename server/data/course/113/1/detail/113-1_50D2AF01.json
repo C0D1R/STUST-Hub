@@ -1,0 +1,125 @@
+{
+    "code": "50D2AF01",
+    "name": {
+        "zh": "網路行銷",
+        "en": "Web Marketing"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電商三甲"
+    ],
+    "instructors": [
+        "林培煌"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "T0807"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "T0807"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "T0807"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹經由網路的行銷企畫、策略管理、行銷手法、客戶關係管理與經營實務的運作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.網路行銷導論<br>2.網路行銷企畫<br>3.網路行銷策略<br>4.網路行銷管理<br>5.顧客關係管理<br>6.網路商店架設(例: osCommerce)",
+        "en": "1.Introduction of E-Marketing <br>2.E-Marketing plan<br>3.The strategy of E-Marketing<br>4.Sales and Marketing management<br>5.Customer relationship management<br>6.Building online store<br>"
+    },
+    "weeklySchedule": "周周次\t日期(一)\t網路行銷<br>第01周\t9/9\t現代的網路行銷與人工智慧應用<br>第02周\t9/16\t網路行銷研究<br>第03周\t9/23\t網路消費者行為<br>第04周\t9/30\t網路行銷的競爭策略<br>第05周\t10/7\t網路提供的服務(報告說明:網路服務仲介平台價值分析)<br>第06周\t10/14\t產品與品牌策略<br>第07周\t10/21\t產品與品牌策略_平時考(上機)<br>第08周\t10/28\t網路訂價策略<br>第09周\t11/4\t期中考 (報告:網路服務仲介平台價值分析)<br>第10周\t11/11\t網路配銷 (電腦技能基金會,CSF,網路行銷證照檢定宣傳,配合企管系, 14-17周間)<br>第11周\t11/18\t網路行銷傳播<br>第12周\t11/25\t部落格行銷<br>第13周\t12/2\t社群媒體行銷_平時考(上機)<br>第14周\t12/9\t&nbsp;數據行銷<br>第15周\t12/16\t數位多媒體廣告<br>第16周\t12/23\t顧客關係管理<br>第17周\t12/30\t期末上機考<br>第18周\t1/6\t跨境電商<br><br><br>",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "上機考",
+        "other": "第7 周平時考, 第13 周平時考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "介紹網路行銷的特性、行銷4P、網路商店經營管理知識與客戶關係管理",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "撰寫網路商店營運企劃書、網路商店架設、了解商店經營實務",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學生需了解網路商店是實體店面的延伸",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "加強與客戶的關係",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "數位行銷",
+        "author": "曹修源等",
+        "publisher": "高立圖書",
+        "year": "2024",
+        "ISBN": "9789579548861",
+        "edition": "6"
+    },
+    "referenceBooks": "網路行銷的12堂必修課：SEO‧社群‧廣告‧直播‧Big Data‧Google Analytics, 2017, 吳燦明, 博碩",
+    "teachingSoftware": "",
+    "rules": ""
+}

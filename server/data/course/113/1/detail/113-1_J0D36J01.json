@@ -1,0 +1,110 @@
+{
+    "code": "J0D36J01",
+    "name": {
+        "zh": "攝影與構圖",
+        "en": "Photography and composition"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技動畫一甲"
+    ],
+    "instructors": [
+        "劉千凡"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0702"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "W0702"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為攝影之基礎概念與介紹，透過理論的介紹與實際的操作，暸解攝影的原理與技巧，增加影像構成能力與攝影實務運用之能力。；另外，數位影像部分，將介紹數位相機原理及數位影像處理。",
+    "prerequisites": "需先修習並通過「素描類」或「繪畫類」或「表現技法類」之手繪基礎課程",
+    "syllabus": {
+        "zh": "○認識你的數位相機<br>○數位相機原理，數位單眼相機(DSLR)介紹<br>○攝影基本概念<br>○構圖與取景<br>○視覺心理學<br>○數位攝影技巧<br>○主題攝影<br>○數位影像處理<br>",
+        "en": "This course is the basic concept and introduction of photography. Through the introduction of theory and practical operation, to understand the principles and techniques of photography. And, increase the ability of image composition and photography practice. In addition, the digital image section,we will introduce the principle of digital camera and digital image processing.<br>1.Know your digital camera<br>2.Digital camera principle, introduction of digital single-lens camera (DSLR) <br>3.Basic concept of photography<br>4.Composition and framing<br>5.Visual Psychology<br>6.Digital photography skills<br>7.Thematic photography<br>8.Digital image processing<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "美學構圖",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "數位設備操作技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "數位媒體整合",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "創意思考發想",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

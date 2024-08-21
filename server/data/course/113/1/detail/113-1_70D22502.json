@@ -1,0 +1,115 @@
+{
+    "code": "70D22502",
+    "name": {
+        "zh": "經濟學(一)",
+        "en": "Economics(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技企管一乙"
+    ],
+    "instructors": [
+        "許淑鈴"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "S314"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S314"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "S314"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在討論市場交易的原理，特別是完全競爭市場。若市場有其他條件改變時，消費者與生產者之間的交易行為，將如何受到影響。此外，本課程也將介紹政府的價格措施干預市場，對消費者福利(消費者剩餘)與生產者福利(生產者剩餘)的影響。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 交易利得。<br>2. 需求與供給。<br>3. 市場變動分析。<br>4. 彈性分析。<br>5. 政府政策的干預。<br>6. 市場福利分析。<br>7. 生產理論。<br>8. 成本理論。<br>9. 完全競爭市場。<br>",
+        "en": "1. Gains from Trade.<br>2. Demand and Supply.<br>3. Change Analysis of Market.<br>4. Elasticity Analysis.<br>5. Government Policies Intervening in Markets.<br>6. Analysis of Market welfare.<br>7. Production Theory.<br>8. Cost Theory.<br>9. Perfect Competitive Market."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解市場交易的基本理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解廠商的成本理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "對市場變動的影響，能利用經濟學知識提出決策",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "對市場變動的影響，能利用經濟學知識進行分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

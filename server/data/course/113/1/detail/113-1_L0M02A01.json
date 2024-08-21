@@ -1,0 +1,119 @@
+{
+    "code": "L0M02A01",
+    "name": {
+        "zh": "半導體元件物理與應用",
+        "en": "Semiconductor Device Physics and Applications"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研半導體一甲"
+    ],
+    "instructors": [
+        "鄒文正"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "Q403"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "Q403"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "Q403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程內容主要講授半導體的基本特性和載子的傳導過程，接著介紹PN接面與元件的相關知識，進而介紹雙載子與場效電晶體元件特性與應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 簡介<br>2. 晶體結構<br>3. 能帶的形成<br>4. 平衡半導體<br>5. 載子傳輸現象<br>6. P-N 接面與元件特性與應用<br>7. 雙極性電晶體元件特性與應用<br>8. 金屬-半導體接面與元件特性與應用<br>9. 金屬-氧化物-半導體場效電晶體元件特性與應用<br>",
+        "en": "1. Introduction<br>2. The Crystal Structure of Solids<br>3. Formation of Energy Bands<br>4. The Semiconductor in Equilibrium<br>5. Carrier Transport Phenomena<br>6. The characteristics and applications of P-N Junction and devices <br>7. The characteristics and applications of Bipolar Junction Transistors<br>8. The characteristics and applications of Metal-Semiconductor Contacts and devices <br>9. The characteristics and applications of MOSFET<br>"
+    },
+    "weeklySchedule": "Week 1. 簡介<br>Week 2. 晶體結構<br>Week 3. 能帶的形成<br>Week 4. 平衡半導體<br>Week 5-6. 載子傳輸現象<br>Week 7-8,10. P-N 接面與元件特性與應用<br>Week 11-13. 雙極性電晶體元件特性與應用<br>Week 14-15. 金屬-半導體接面與元件特性與應用<br>Week 15-17. 金屬-氧化物-半導體場效電晶體元件特性與應用<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "期末口頭報告",
+        "other": "隨堂測驗、口頭報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能詮釋半導體之專有名詞與認得英文名稱。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能了解各種半導體元件之基本原理與相關計算。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能了解各種半導體元件之動作原理。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能了解各種半導體元件之應用與發展。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1、Semiconductor Devices Physics and Technology (third Edition)，作者：S. M. Sze &amp; M.K. Lee，(WILEY, 歐亞書局代理) 2、Fundamentals of semiconductor physics and devices (fourth edition) ，作者：Donald A. Neamen，滄海書局 3、半導體元件，吳孟奇 等譯，東華書局 4、Physics of Semiconductor Devices 第三版（Wiley）。作者：S. M. Sze、Kwok K.Ng 。5、半導體元件物理與製程(理論與實務)，作者：劉傳璽、陳進來 ，五南圖書公司。",
+    "teachingSoftware": "",
+    "rules": ""
+}

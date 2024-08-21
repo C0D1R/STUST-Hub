@@ -1,0 +1,139 @@
+{
+    "code": "1ND02Z01",
+    "name": {
+        "zh": "疾病與醫療",
+        "en": "Disease and Medical Care"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "自然科學領域"
+    ],
+    "instructors": [
+        "王麟玉"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "W0504"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "W0504"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "W0504"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "生物醫學科技乃當今世界公認之 二十一紀最具潛力的一,尤其在 基因重組技術發明後,其發展更加突飛猛進。本課程 其發展更加突飛猛進。本課程 藉由正確的醫學觀念,進一步探討在倫理層面的關係 及醫療照顧議題 。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "各單元主題如下：<br>1.課程介紹、人體奧秘<br>2.認識細菌、抗生素<br>3.糖尿病<br>4.人工生殖技術<br>5.臨床試驗<br>6.組織工程<br>7.認識疼痛<br>8.肝炎<br>9.憂鬱症<br>10.影像醫學<br>11.認識癌症<br>12.手術新知<br>13.整形革命<br>14.基因治療<br>同學分組上臺簡報 ，老師指導與說明。學生演講內容PO上「Flip數位學習」，班上師生彼此觀摩學習」，班上師生彼此觀摩。<br>",
+        "en": "1. Course introduction, human mystery <br>2. Recognize bacteria and antibiotics <br>3. Diabetes <br>4. Artificial Reproductive Technology <br>5. Clinical trials <br>6. Tissue Engineering <br>7. Know the pain<br>8. Hepatitis Course Outline <br>9. Depression <br>10. Imaging Medicine <br>11. Recognize cancer <br>12. New surgical knowledge <br>13. Plastic Revolution <br>14. Gene therapy <br>Feedback and instruction of topic issue by teacher after each student group presentation. The content file of student group presentation. The content file of student group presentation will be shared each other at Flip learning network.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "協助學生具備疾病與照護的專業知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓學生養成因應新事務與習知識的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "協助學生了解個體可能發的健康問題及其預防與照護。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "協助學生具備正確用藥常識並靈活運用其中的藥物知識於日常生活。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "協助學生能用心精讀，深究內容並完整表達。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使學生從認知家庭常見疾病培養關懷與同理心。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,128 @@
+{
+    "code": "65D00G01",
+    "name": {
+        "zh": "生產與作業管理",
+        "en": "Production and Operations Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國商三甲"
+    ],
+    "instructors": [
+        "朱大中"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "T0103"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0103"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0103"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The objective of this course is to introduce students the principles and concepts of operations management. Questions and discussions are welcome in the class.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Topics for this course include, but not limited to:<br>1. Introduction <br>a. Operations management<br>b. Competitiveness, strategy, and productivity<br>2. Forecasting<br>3. System design<br>a. Product &amp; service design<br>b. Capacity planning<br>c. Facilities planning<br>d. Work measurement<br>e. Location selection<br>4. Quality<br>a. Quality management<br>b. Quality control<br>5. Inventory management &amp; Scheduling<br>a. Inventory management<br>b. MRP and ERP<br>c. JIT and Lean production<br>d. Scheduling<br>6. Supply chain management<br>7. Project management<br>8. Waiting lines<br>",
+        "en": "Topics for this course include, but not limited to:<br>1. Introduction <br>a. Operations management<br>b. Competitiveness, strategy, and productivity<br>2. Forecasting<br>3. System design<br>a. Product &amp; service design<br>b. Capacity planning<br>c. Facilities planning<br>d. Work measurement<br>e. Location selection<br>4. Quality<br>a. Quality management<br>b. Quality control<br>5. Inventory management &amp; Scheduling<br>a. Inventory management<br>b. MRP and ERP<br>c. JIT and Lean production<br>d. Scheduling<br>6. Supply chain management<br>7. Project management<br>8. Waiting lines<br>"
+    },
+    "weeklySchedule": "Week 1:Introduction<br>Week 2:Strategy &amp; Productivity<br>Week 3-4:Forecasting<br>Week 5-6:Capacity Planning <br>Week 6-7:Facility Layout<br>Week 8:Location Planning<br>Week 9:Midterm Exam<br>week 10:Quality Management<br>Week 11-12:Quality Control<br>week 13:Inventory management<br>Week 14-15:Inventory Control<br>Week 16:Aggregate Planning &amp; MRP<br>Week 17:Scheduling <br>Week 18:Final Exam<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "電腦應用技能",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "資料分析能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "整合協調溝通",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "邏輯思考能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "主動負責學習",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "Operations Management",
+        "author": "William J. Stevenson",
+        "publisher": "McGraw-Hill",
+        "year": "2014",
+        "ISBN": "9789863411482",
+        "edition": "12"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "Course schedule, teaching materials and evaluation etc. may be adjusted upon students' learning performance."
+}

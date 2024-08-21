@@ -1,0 +1,112 @@
+{
+    "code": "30M20D01",
+    "name": {
+        "zh": "科技英文",
+        "en": "English for Science and Engineering"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "博研電子一甲",
+        "碩研電子一甲",
+        "碩電子產業一甲"
+    ],
+    "instructors": [
+        "賴培淋"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "S607"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S607"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "科技大學的學生因在高職階段較一般高中學生缺少英文訓練，導致求學就業的困難。以現今科技產業的發展，員工的英文能力，關係自己吸收外來資訊與技術的能力，更影響公司面對外國競爭的能力。本課程以訓練提升研究生的英文能力，可達高階工程師的程度",
+    "prerequisites": "大一英文",
+    "syllabus": {
+        "zh": "1. 英語文結構解析<br>2. 科技類文體解析<br>3. 英文技術手冊<br>4. 口述/書面英語文溝通技能<br>5. 自我介紹<br>6. 自傳/履歷表撰寫<br>7. 簡報技能",
+        "en": "1. Structure of English<br>2. Scientific and Technical Articles<br>3. English Technical Mannual<br>4. Effective Oral/written Communication<br>5. Self Introduction<br>6. Biography/Resume Writing<br>7. Presentation Skills"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過閱讀科技英文論文、使用手冊學習電子工程專業知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過閱讀科技英文論文、使用手冊可使學生有終身學習的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由撰寫筆記以及期末考，訓練學生撰寫筆記能力及與同學們的溝通能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備科技英文表達能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

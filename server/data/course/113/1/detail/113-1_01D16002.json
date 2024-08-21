@@ -1,0 +1,111 @@
+{
+    "code": "01D16002",
+    "name": {
+        "zh": "專一英文(一)",
+        "en": "Fundamental English (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專電子一甲"
+    ],
+    "instructors": [
+        "莊慈玟"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "I0207"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "I0207"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.GEPT",
+        "2.TOEIC"
+    ],
+    "description": "This course is designed to help students develop their listening and speaking skills in English, with a focus on basic daily conversation topics, including introducing people, talking about your daily life, ordering food in a restaurant, asking for travel information, and more. They will learn to identify and understand common vocabulary and expressions used in daily conversations, and gain familiarity with basic grammar structures and word pronunciation. Throughout the course, students will practice their listening skills by engaging with short dialogues on everyday topics. Additionally, students will practice their speaking skills by reading articles and expressing themselves in simple sentences.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "學生將在課程中強化基礎的英文聽講技巧，並學習如何:<br>1.\t詢問並給予個人資訊<br>2.\t開始一段對話<br>3.\t講述自己的日常行程<br>4.\t展現對某個領域的興趣<br>5.\t了解建議<br>6.\t了解旅遊資訊<br>7.\t講述自己的喜好與厭惡<br>8.\t描述並比較假期<br><br>學生也將在課程中學習以下的基礎文法知識:<br>1.\t現在簡單式<br>2.\t時間相關的介系詞<br>3.\t頻率副詞<br>4.\t所有格形容詞與所有格代名詞<br>5.\t祈使句<br>6.\t可數與不可數名詞<br>7.\t現在進行式<br>8.\t過去簡單式<br>",
+        "en": "By the end of the course, students will have a solid foundation in English listening and speaking skills, and be able to:<br>1.\task for and give personal information<br>2.\tstart a conversation<br>3.\ttalk about daily schedule<br>4.\tshow interest<br>5.\tunderstand advice<br>6.\tunderstand travel information<br>7.\ttalk about likes and dislikes<br>8.\tdescribe and compare vacations<br><br>Students will showcase their command of the English language by mastering the following grammar concepts:<br>1.\tSimple present<br>2.\tPrepositions of Time<br>3.\tAdverbs of Frequency<br>4.\tPossessive Adjectives and Pronouns<br>5.\tImperatives<br>6.\tCount and Non-count Nouns<br>7.\tPresent Continuous<br>8.\tSimple Past<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "Discussion / learning topics from different disciplines, and moral themes related to modern society.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Students will communicate orally with one another in a relaxed environment.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Students will learn to communicate orally in English and to convey messages to both their teacher and their classmates.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "Students will learn how to integrate with others via oral communication.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

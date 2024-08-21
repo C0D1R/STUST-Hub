@@ -1,0 +1,116 @@
+{
+    "code": "L0D05501",
+    "name": {
+        "zh": "電磁波",
+        "en": "Electromagnetic waves"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技半導體三甲",
+        "四技半導體三乙"
+    ],
+    "instructors": [
+        "葉義生"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "R502"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "R502"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "R502"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "由基礎依序推導理論，並多引用例題說明理論的應用。首先闡述Maxwell方程式、平面波、電波極化等重要電磁理論，隨之探討波導及共振腔的技術為微波元件設計的磐石，天線與天線陣列其應用有詳盡的解說。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.簡介<br>(1)行進波<br>(2)相量<br>2.傳輸線<br>(1)傳輸線方程式<br>(2)傳輸線波特性<br>(3)Smith chart<br>3.時變場與馬克斯威爾方程式<br>(1)馬克斯威爾方程式 <br>(2)波動方程式及其解<br>(3)時諧場<br>4.平面波之傳播<br>(1)平面波於無損耗介質之傳播<br>(2) 平面波於有損耗介質之傳播<br>(3) 電磁波之極化<br>(4) 電磁波之能量與波印亭向量<br>5.波於平面介面之反射與透射<br>(1)垂直入射時波之反射與透射<br>(2)傾斜入射時波之反射與透射<br>(3)反射率與透射率<br>6.波導及共振腔<br>(1)矩形波導<br>(2)共振腔<br>7.天線與天線陣列<br>(1)偶極天線<br>(2)線性天線<br>(3)天線陣列<br>",
+        "en": "1.Introduction<br>(1)Traveling waves<br>(2)Phasors<br>2.Transimission Lines<br>(1)Transimission-line equatione<br>(2)Wave characterics on an infinite transimission line<br>(3)The Smith chart<br>3.Time-varying fields &amp; Maxwells equations<br>(1)Maxwell’s equations <br>(2)Wave equations and their solutions<br>(3)Time-harmonic fields <br>4.Plane wave propagation<br>(1)Plane waves propagation in lossless media<br>(2)Plane waves propagation in lossy media <br>(3)Polarization of electromagnetic waves<br>(4)Electromagnetic energy flow and the Poynting vector<br>5.Wave reflection and transmission at planar interfaces<br>(1)Wave reflection and transmission at normal incidence<br>(2)Wave reflection and transmission at oblique incidence <br>(3)Reflectivity and transmissivity<br>6.Waveguides and Cavity Resonators<br>(1)Rectangular waveguide<br>(2)Cavity resonators<br>7.Antennas and Antenna Arrays<br>(1)The elemental electric diople<br>(2)Thin linear antenna<br>(3)Antenna Arrays<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解高頻電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解阻抗匹配並會設計阻抗匹配電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解各型式天線並會設計天線",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解各型式濾波器並會設計濾波器",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

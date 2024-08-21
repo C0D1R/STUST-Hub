@@ -1,0 +1,119 @@
+{
+    "code": "C0D5BG01",
+    "name": {
+        "zh": "資料分析與應用",
+        "en": "Data Analysis and Application"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應英一甲"
+    ],
+    "instructors": [
+        "潘慧純"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "N309"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "N309"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "隨著大數據普遍運用，各行各業越來越重視人員在資料分析與應用的技能，如何運用資料分析手法，讓人一目了然立即掌握分析結果與重點，展現資料分析的價值，更具挑戰性。本課程著重於使用實際的案例資料，說明資料分析的流程，首先是讓學生瞭解資料的概念與定義，並學會資料的蒐集與處理、分析與彙整，進而能有效的進行資料的呈現與應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、資料分析的基礎概念<br>二、資料分析的基本工具<br>三、大數據之開放資料的介紹<br>四、問卷調查之規劃與設計<br>五、線上問卷的表單實作<br>六、資料的描敘性統計分析<br>七、資料的推論性統計分析<br>八、簡易繪圖與報表之製作<br>九、進階樞紐分析表之應用<br>十、統計圖表與資料視覺化<br>",
+        "en": "1. Basic concepts of data analysis<br>2. The basic tools of data analysis<br>3. Introduction of open data in a big data world<br>4. Planning and design of the questionnaire survey<br>5. Create forms of online questionnaire<br>6. Descriptive statistical analysis of data<br>7. Inferential statistical analysis of data<br>8. Make simple drawings and reports of data<br>9. The application of advanced pivot table<br>10. Charts and tables for data visualization<br>"
+    },
+    "weeklySchedule": "Week 1: 課程介紹、商業軟體應用趨勢與發展: Office 365/Google workspace<br>Week 2: Word文字編輯與版面風格設定技巧<br>Week 3: Word表格應用、合併列印與標籤套印<br>Week 4: Word長文件製作 (樣式的套用與修改、目錄的建置與編輯、計劃書編修練習)<br>Week 5: Excel基本操作、資料建立<br>Week 6: Excel函數應用<br>Week 7: Excel樞紐分析<br>Week 8: Excel圖表格式設定與分析<br>Week 9: 期中考<br>Week 10: Power BI視覺化報表應用I<br>Week 11: Power BI視覺化報表應用II<br>Week 12: Power BI視覺化報表應用III<br>Week 13: PPT視覺設計與多媒體動畫之商業應用<br>Week 14: PowerPoint 放映技巧與列印<br>Week 15: Canve素材庫與基本操作<br>Week 16: Canve視覺設計與多媒體動畫之商業應用<br>Week 17: 商業服務應用專案實作報告<br>Week 18: 商業服務應用專案實作報告",
+    "exams": {
+        "midterm": "筆試",
+        "final": "報告",
+        "other": "平時出席表現/課堂作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解資料分析與應用的基本程序與方法。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能運用資料分析之相關套裝軟體的功能。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備解讀資料分析產出的圖表及報告的能力。",
+            "teachingMethods": [
+                "實作演練",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能活用資料分析方法於實務問題的個案。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "商務軟體應用能力Microsoft Office 2016實力養成暨評量",
+        "author": "財團法人中華民國電腦技能基金會",
+        "publisher": "全華書局",
+        "year": "2020",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1. 必選！EXCEL 2016即學即會一本通：商務應用篇(第二版)。郭欣怡編著，全華研究室，2018，978-986-463-988-5，第二版。<br><br>2. 翻倍效率工作術 - 不會就太可惜的Excel+Power BI大數據視覺圖表設計與分析(第二版)，鄧文淵 總監製/文淵閣工作室 編著，書號： ICI033300，出版日：2020。",
+    "teachingSoftware": "",
+    "rules": ""
+}

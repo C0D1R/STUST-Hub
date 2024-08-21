@@ -1,0 +1,148 @@
+{
+    "code": "E0D39901",
+    "name": {
+        "zh": "專題研究(二)",
+        "en": "Graduation Project II"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "四技應日四甲",
+        "四技應日四乙"
+    ],
+    "instructors": [
+        "陳連浚"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程由數位教師負責指導。學生以3～6位組成一組，以兩學期(三下、四上)時間完成作品或小論文。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程由數位教師負責指導。學生以3～6位組成一組，以兩學期(三下、四上)時間完成作品或小論文。",
+        "en": "本課程は複数の教員が担当する。学生は3～6名で一つのチームを組み、一人の教員が指導し、二学期かけて（三年生の二学期と四年生の一学期）、作品や卒業レポートを完成させる。"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過大量閱讀參考文獻及撰寫專題，可以 培養日語閱讀及書寫能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由編排專題內容及設計專題頁面，可以訓練軟體運用能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用專題製作過程，達到訓練書面及口頭報告的溝通能力與技巧。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由專題製作，與同儕之間腦力激盪地討論，可以培養辨識及構思能力，並能具有解決問題與協調的機制。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過專題製作訓練及解析相關資訊，可以培養具有策劃及分析個案的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由大量搜尋各種媒體資料，可以了解台 灣及日本在整個世界及該社會的脈動及 影響力，以調整適應社會及職場能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由大量搜尋各種媒體資料，可以了解台 灣及日本在整個世界及該社會的脈動及 影響力，以調整適應社會及職場能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過閱讀文獻提升文章賞析及創作之能力及素養。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

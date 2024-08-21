@@ -1,0 +1,118 @@
+{
+    "code": "M0D14S01",
+    "name": {
+        "zh": "進階餐旅日文",
+        "en": "Advanced Hospitality Japanese"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技餐旅二甲",
+        "四技餐旅二乙"
+    ],
+    "instructors": [
+        "鄭淑勻"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0310"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "T0310"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.日語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程可以使學生了解日語在餐飲方面使用的場合，並增進餐飲日語的知識與應用能力，有助因應未來職場需要的競爭力。",
+    "prerequisites": "基礎日文、餐旅日文 (I) (II)",
+    "syllabus": {
+        "zh": "1.緒論(了解學習目標與課程大綱)。<br>2.用日語座席訂位與確認。<br>3.日語帶位引領/訂房確認。<br>4.日語點餐服務/客房服務。<br>5.日語建議或抱怨處理。<br>6.日語送客接待/介紹觀光景點。<br>",
+        "en": "1.Introduction<br>2.Reservation/Confirmation<br>3.Room Service/Order Meal at the restaurant<br>4.Complaint<br>5.Tourist Destination Introduction<br>"
+    },
+    "weeklySchedule": "1.緒論(了解學習目標與課程大綱)。<br>2.複習及敬語解說(1)。<br>3.敬語解說(2))。<br>4.用日語座席訂位與確認。<br>5.日語帶位引領/訂房確認。<br>6.日語點餐服務/客房服務。<br>7.日語建議或抱怨處理。<br>8.日語送客接待。<br>9.日語結帳)。<br>10.入住時解說日語。<br>11. 電話訂房日語。<br>",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末考",
+        "other": "小考"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "透過文法的學習，提升日語正確的分析能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "透過實際口語練習，培養同學擁有口說、表達溝通的能力",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "實際應用所學日語至餐旅職場上",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "體認日本文化之重要性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "簡單學會 餐旅日語",
+        "author": "江育真、水野聖紹",
+        "publisher": "華格納",
+        "year": "2023",
+        "ISBN": "978-986-362-934-4",
+        "edition": "1"
+    },
+    "referenceBooks": "請洽任課老師",
+    "teachingSoftware": "",
+    "rules": "註1：平時將有小考, 若需缺考請先請假，若是事假則於一星期前請假，若是病假則於事後補醫生證明，可免除計算ㄧ次小考。一學期請假以二次為限，若超過三次，以公平為原則，當次小考則以零分計算。所有假別包含在內(事假、公假、病假等)，若系上有任何活動必須請公假超過十人，請班代事先以EMAIL告知任課老師，若班代未告知老師導致缺課人數過多，為避免影響學生權益及學習成效，全班將擇期補課替代之<br>註2：背課文時間或會話練習以鄭老師之Office hour內為限，每課以教完後三週內為限，超過期限則以零分記；若有特殊情況時間不能配合office hour的同學，請私下EMAIL老師商討其他時間替代之。"
+}

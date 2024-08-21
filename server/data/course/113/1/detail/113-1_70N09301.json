@@ -1,0 +1,139 @@
+{
+    "code": "70N09301",
+    "name": {
+        "zh": "商用微積分",
+        "en": "Caculus for Business"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技企管一甲"
+    ],
+    "instructors": [
+        "林義旭"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "S313"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "S313"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "S313"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "微積分是科學的基礎，經由本課程的學習，不僅可訓練邏輯思考，還可將其活用在經濟、商學等社會科學領域。內容為介紹基本函數、極限、連續、微分、定積分、不定積分、定積分、積分法則、積分應用、偏導數及重積分等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 函數與圖形<br>2. 極限與連續<br>3. 導數<br>4. 導數的應用<br>5. 定積分<br>6. 不定積分<br>7. 積分的應用<br>8. 積分法則<br>9. 偏導數<br>10. 重積分<br>",
+        "en": "1. Functions and Graphs<br>2. Limits and Continuity<br>3. Derivative<br>4. Applications of Derivative<br>5. Definite Integral<br>6. The Indefinite Integral.  <br>7. Applications of Integration (Area Between Curves, Business and Economics, Continuous Random Variables, Expected Value, Normal and Poisson Probability Distributions)<br>8. Techniques of Integration ( Integration by Parts, Numerical Integration)<br>9. Partial Derivatives (Optimizing Functions of Two Variables, Least-Squares, Lagrange Multipliers)<br>10. Multiple Integrals<br>"
+    },
+    "weeklySchedule": "第一週～第二週：微積分簡介、集合、函數<br>第二週～第五週：微分定義、運算規則<br>第五週～第八週：微分的應用<br>第九週：期中考<br>第十週～第十二週：定積分與不定積分定義、運算規則<br>第十二週～第十四週：積分法則<br>第十四週～第十五週：定積分的應用<br>第十五週～第十六週：偏導數<br>第十七週～第十七週：重積分<br>第十八週：期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能熟悉微積分的基本原理並具備計算的能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "針對管理問題能有效應用適當的微積分技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能樂觀面對微積分問題，並以正向思考來解決問題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能體認正確嚴謹應用微積分的重要性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "商用微積分",
+        "author": "林義旭、張勝麟、傅俊結",
+        "publisher": "復文書局",
+        "year": "2009",
+        "ISBN": "ISBN 978-986-6368-10-3",
+        "edition": "再版"
+    },
+    "referenceBooks": "莊紹容.楊精松, \"商管微積分\", 東華書局, 2001<br>Calculus, E. H. Johnston and J. C. Mathews, 東華書局<br>Applied Calculus for the managerial, life, and social sciences(6/e),S.T.TAN,東華書局<br>",
+    "teachingSoftware": "geogebra",
+    "rules": "先修科目<br>最好預備有函數微分的能力<br>教學資源<br>請由學校 flipclass 中查詢<br>注意事項<br>1. 最好預備有函數微分的能力<br>2. 學期中會有共十次隨堂小考(3-7週以及12-16週共十週)，作為平時成績之實際計算。另有課堂討論、出席率、學習態度之考量。養成課前預習，課後複習。<br>"
+}

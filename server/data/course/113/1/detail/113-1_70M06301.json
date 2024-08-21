@@ -1,0 +1,135 @@
+{
+    "code": "70M06301",
+    "name": {
+        "zh": "管理經濟",
+        "en": "Managerial Economics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩研企管一甲"
+    ],
+    "instructors": [
+        "李東杰"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "S209A"
+        },
+        {
+            "day": "週三",
+            "period": "第7節",
+            "location": "S209A"
+        },
+        {
+            "day": "週三",
+            "period": "第8節",
+            "location": "S209A"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "管理經濟學是應用經濟理論與方法，來進行管理問題決策的一門課程。本課程主要是應用長、短期生產理論在績效的評估上，該方法被稱為資料包絡分析法(DEA)。評估的結果可作為經營者在調整投入與產出的參考，以提升或改善管理績效。<br>Managerial Economics course is the application of economic theory and methodology to make the decision of managerial problem. The emphasis of this course uses the theory of short-run and long-run productions to evaluate performance. The approach of performance evaluation is called Data Envelopment Analysis (DEA). The results of evaluation will be referred to the supervisors in adjusting between inputs and outputs.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.複習生產理論。<br>2.在財報中選擇投入、產出變數。<br>3.操作台灣經濟新報資料庫。<br>4.DEA方法之介紹-CCR模式與BCC模式。<br>5.麥氏生產力變動指數之介紹。<br>6.操作Deap 2.1版軟體。<br><br>",
+        "en": "1.Review the production theory.<br>2.To select appropriate input variables and output variables in the financial reporting.<br>3.To operate the Taiwan Economic Journal Database.<br>4.Introduction of the DEA Approach-CCR Model and BCC Model.<br>5.Introducing the Malmquist Productivity Change Index.<br>6.To operate the software Deap version 2.1 .<br>"
+    },
+    "weeklySchedule": "第 1週、課程簡介：(1)課程架構說明。(2)成績計算說明。(3)上課方式說明。(4)學習方法說明：本課程未使用課本，只有ppt講義(但圖書館有本課程的相關參考書籍)，要勤做電腦軟體練習、上課勤於發問。<br>第 2週、單元一 績效管理概述。<br>第 3週、單元二 生產理論(一)。<br>第 4週、單元二 生產理論(二)。<br>第 5週、單元三 投入產出在財報的選取。<br>第 6週、單元四 台灣經濟新報資料庫(TEJ)操作說明。<br>第 7週、單元五 短期績效評估CCR模式之簡介(一)。<br>第 8週、單元五 短期績效評估CCR模式之簡介(二)。<br>第 9週、單元六 短期績效(DEA)之電腦操作練習---CCR模式(一)。<br>第10週、單元六 短期績效(DEA)之電腦操作練習---CCR模式(二)。<br>第11週、電腦上機考試。<br>第12週、單元七 學校圖書館電子資料庫(文獻)之操作說明與\"上台報告\"的格式要求。<br>第13週、單元八 短期績效評估BCC模式之簡介(一)。<br>第14週、單元八 短期績效評估BCC模式之簡介(二)。<br>第15週、單元九 短期績效(DEA)之電腦操作練習---BCC模式(一)。<br>第16週、單元九 短期績效(DEA)之電腦操作練習---BCC模式(二)。<br>第17週、單元九 短期績效(DEA)之電腦操作練習---BCC模式(三)。<br>第18週、繳交產業分析的書面報告, 並且上台做產業分析報告的心得發表。",
+    "exams": {
+        "midterm": "上機小考與筆試",
+        "final": "上台報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解管理效率的衡量是應用生產理論",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解與判斷適當的投入項與產出項",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能操作效率評估的軟體",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能應用效率評估方法至任何有關的研究課題",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自行設計講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.管理績效評估---資料包絡分析法(高強,黃旭男,Sueyoshi著，華泰文化公司)。 <br><br>2.組織效率與生產力評估---資料包絡分析法(吳濟華,何柏正著，前程文化公司)。<br><br><br>",
+    "teachingSoftware": "Deap 2.1版軟體(資料包絡分析法)",
+    "rules": ""
+}

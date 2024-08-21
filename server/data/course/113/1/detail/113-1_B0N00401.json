@@ -1,0 +1,152 @@
+{
+    "code": "B0N00401",
+    "name": {
+        "zh": "會計學",
+        "en": "Accounting Principle"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技休閒二甲"
+    ],
+    "instructors": [
+        "何威德"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0312"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0312"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0312"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.專門人員職業人員--記帳士",
+        "2.國內證照-技能檢定"
+    ],
+    "description": "本課程是會計學之入門, 主要在介紹會計學之基本概念及技術, 使同<br>學不僅能瞭解會計資料如何產生, 更能知道如何加以應用, 且作為未<br>來繼續研讀中級會計學及財務管理之基礎. <br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.會計基本概念、會計科目與借貸法則.  2.平時簿計程序.  3.期末簿計程序—調整.<br>4.期末簿計程序--結帳及迴轉、財務報表.<br>5.存貨意義與存貨錯誤之影響、存貨盤存、存貨流程與評價、期末存貨評價基礎、<br>存貨:估計法 <br>6.財務會計的理論基礎  7.零用金制度、銀行存款及調節表.  8.應收款項、應收票據貼現.<br>",
+        "en": "1. Accounting in Action   2. The Recording  Process.    3. Adjusting the Accounts <br>4. Completion of the Accounting Cycle        5. Accounting for Merchandising Operations/Inventorie<br>6. Accounting Information System.  7. Internal Control and Cash    8. Accounting for Receivables<br>"
+    },
+    "weeklySchedule": "Weeks\tContents<br>1\t會計基本概念<br>2\t會計循環及會計帳簿<br>3\t會計基本法則-基本假設、交易、會計項目<br>4\t會計基本法則-會計恆等式、借貸法則<br>5\t分錄與日記簿-複式簿記、常見分錄演練<br>6\t分錄與日記簿-格式與記錄方法、傳票<br>7\t過帳與分類帳<br>8\t過帳與分類帳<br>9\t期中考<br>10\t試算與試算表<br>11\t試算與試算表<br>12\t調整<br>13\t調整<br>14\t結帳<br>15\t結帳<br>16\t財務報表分析<br>17\t財務報表分析<br>18\t期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "平時考或作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解會計基本知識與學理",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能了解企業商業活動所需會計知識",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能了解會計不同報表之功用",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "整合會計系統之設計能力",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "會計概論",
+        "author": "黃麗華",
+        "publisher": "全華圖書",
+        "year": "2021",
+        "ISBN": "9789865038694",
+        "edition": "第六版"
+    },
+    "referenceBooks": "會計學概要 (第六版) (2022) 吳嘉勳 華泰書局",
+    "teachingSoftware": "無",
+    "rules": ""
+}

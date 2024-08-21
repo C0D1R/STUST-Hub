@@ -1,0 +1,116 @@
+{
+    "code": "65D00O01",
+    "name": {
+        "zh": "民法概論",
+        "en": "Introduction of Civil Law"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技國商二甲"
+    ],
+    "instructors": [
+        "曾雅真"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "S510"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "S510"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "S510"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The common law and civil law systems are the products of two fundamentally different approaches to the legal process. In civil law, the main principles and rules are contained in codes and statutes. In the common law system, on the other hand, the law has been dominantly created by judicial decisions. This course will mainly focus on the introduction and comparison between Civil Law and Common Law, specifically Taiwanese and American legal system. <br>This course is designed to give students an overview of these two distinct legal systems. Students will learn most fundamental principles, procedures, cases and current disputes in civil/common law including contracts and corporations. Class participation is required. Students will be expected to read assigned material prior to class and be able to respond to questions in class.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章 民法之意義、法源、與憲法以及商事法規之關係<br>第二章 民法之權利義務、法例<br>第三章 權利主體(人)、人格權保護之實例(第一八四條第一項、第十八條、第一九五條等之競合關係) <br>第四章 法人、權利能力與行為能力<br>第五章 小考、權利客體 <br>第六章 法律行為之意義、種類、當事人 <br>第七章 法律行為之意示表示、標的<br>第八章 期間與期日、消滅時效<br>第九章 權利行使、實例 <br>第十章 債之發生(無因管理、不當得利、侵權行為)<br>第十一章 債之標的、效力<br>第十二章 債之消滅、移轉<br>第十三章 小考、各種之債(買賣、贈與、租賃等)<br>第十四章 各種之債(旅遊、承攬、保證)<br>第十五章 物權之通則、所有權<br>第十六章 擔保物權<br>第十七章 親屬(親等、結婚、夫妻財產制)<br>第十八章 繼承<br>",
+        "en": "The course will cover the following important topics:<br>1. introduction to Civil Law and Common Law<br>2. formation of a contract: offer, acceptance and contractual negotiation<br>3. contract terms and performance<br>4. breach of contract<br>5. remedies for breach of contract<br>6. case summary and analysis<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備工作場域所需的法律基本能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提高參與商事各項議題討論、認知與反思能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養商學院學生運用法律知識解決商事問題的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養商學院學生與法律人的溝通能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

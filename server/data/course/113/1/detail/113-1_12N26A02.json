@@ -1,0 +1,127 @@
+{
+    "code": "12N26A02",
+    "name": {
+        "zh": "工程數學",
+        "en": "Engineering Mathematics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技車輛二甲"
+    ],
+    "instructors": [
+        "張竣凱"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "R302"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "R302"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "R302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "講授一階與二階常微分方程式、拉氏轉換、線性微分方程式級數解之原理、解法與應用，使學生能應用數學原理於相關工程問題上。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.一階常微分方程式<br>2.二階線性微分方程式<br>3.拉普拉斯轉換<br>4.級數解<br>",
+        "en": "1. Understand and solve the First order differential and its applications.<br>2. Second order differential equations: <br>3. Laplace transform and its application in solving ODEs.<br>4. Series solutions of linear differential equations<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "理解矩陣與行列式原理及熟悉解題技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解向量分析原理及熟悉解題技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "理解傅立葉級數與轉換原理及熟悉解題技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓同學可應用數學原理與理論至工程問題上",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "養成準時上課與專注的習慣",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

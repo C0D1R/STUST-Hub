@@ -1,0 +1,167 @@
+{
+    "code": "12N26C01",
+    "name": {
+        "zh": "模具加工技術",
+        "en": "Mold Manufacturing Technology"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技自控三甲"
+    ],
+    "instructors": [
+        "曾信智"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "K403"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "K403"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "K403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹各種模具加工加工技術以及相關基本原理、實際製程、機具、方法等，涵蓋了模具加工加工概論、冶金與力學，並闡述各種模具加工的基本概念及加工技術的特殊方法，並就常見的模具加工案例及應用進行討論",
+    "prerequisites": "N/A",
+    "syllabus": {
+        "zh": "1.模具加工的原理與概念\t<br>2.瞭解鍛造、冲壓、輥軋、抽製、擠製等模具加工方法之原理、圖表與意義，並探討其最佳化<br>3.特種金屬的模具加工<br>4.瞭解非鐵材料的模具加之原理、圖表與意義，並探討其最佳化<br>\t<br><br>\t<br>\t<br>\t<br>\t<br>\t<br>\t<br>\t<br>\t<br>\t<br>\t<br>",
+        "en": "1. Mold processing principle and concepts；<br>2. Learn about the principle and table meaning of mold processingmethods, including forging, stamping, rolling, pumping, and extrusion. Then, discuss the optimization of the processing parameters；<br>3. Mold processing for special metals；<br>4.Learn about the principle and table meaning of mold processing for non-ferrous materials. Then, discuss the optimization of the processing parameters.<br>"
+    },
+    "weeklySchedule": "第1週：課程介紹、模具智能化生產概論與產業發展應用；<br>第2～3週：模具分類及加工概論、習作測驗；<br>第4～5週：模具材料選用及熱處理與習作測驗；<br>第6～7週：高分子塑膠材料概論、成型方法與習作測驗；<br>第8～9週：射出模具設計及CAE模流分析、習作測驗與期中考試；<br>第10～11週：射出成形原理及射出機介紹、習作測驗；<br>第12～13週：金屬射出原理、射出模具加工技術及設備、習作測驗；<br>第14～15週：射出模具製造、合模組裝與試模、習作測驗；<br>第16～17週：射出製程品質與不良品防範、分組報告與習作測驗。<br>第18週：實務案例分析及應用、課程總結與期末考試。<br>",
+    "exams": {
+        "midterm": "30%，筆試",
+        "final": "30%，筆試",
+        "other": "40%，課堂習作筆記、心得與分組報告、平時測驗與學習態度精神"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉模具加工的原理與概念，並以數學為基礎探討其最佳化",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能明瞭模具加工的圖表與意義",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能規劃與設計模具加工的流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能規劃與設計模具加工的流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能規劃與設計模具加工的流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能規劃與設計模具加工的流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能規劃與設計模具加工的流程",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀模具加工的專業英文資料",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材及其相關參考資料。",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "(1)模具概論，王肇祥著，全威圖書公司，97/2/29/ISBN978-957-8955-75-2。<br>(2)塑膠模具設計學-理論、實務、製圖、設計，張永彥編著，全華圖書公司，2011，ISBN978-957-21-6933-9，第四版。<br>(3)蘇品書譯著，特殊加工-復漢出版設，1989。<br>(4)張浮明等編譯，非傳統加工-高立科技圖書公司，2008。<br>(5)王先逵編譯，精密機械加工原理-高立圖書公司，2007。<br>(6)材料與熱處理實務應用，ISBN 978-957-21-9647-2；塑膠射出原理與實務應用，ISBN 978-957-21-9203-0與複合螺旋研拋技術與原理，ISBN 978-957-21-9204-7自編教材及其相關參考資料。<br>",
+    "teachingSoftware": "教學影片。",
+    "rules": "1.請自備筆記；<br>2.請同學尊重智慧財產權，使用正版教科書，不得非法影印，以免觸犯智慧財產權相關法令。<br>"
+}

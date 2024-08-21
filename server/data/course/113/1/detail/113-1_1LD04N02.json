@@ -1,0 +1,127 @@
+{
+    "code": "1LD04N02",
+    "name": {
+        "zh": "藝術賞析(B)",
+        "en": "Art Literacy"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "劉處英"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "T0104"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "T0104"
+        },
+        {
+            "day": "週五",
+            "period": "第9節",
+            "location": "T0104"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過對藝術作品以及藝術思潮的討論，理解藝術與社會文化的關係，期使學生能具有賞析藝術的能力，並得以在生活中感受美，發現美，進而運用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.觀看的方式<br>2.探討藝術作品的故事與社會文化的意義<br>3.美的涵義<br>4.藝術的多元面向<br>5.美的運用<br>",
+        "en": "1. Ways of seeing<br>2. Art story and social culture<br>3. Aesthetics<br>4. Art diversity<br>5. Use of beauty<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能賞析藝術作品，培養藝術眼光與美感。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "對不同時空文化的藝術家作品有評鑑能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "形塑民主素養，尊重不同族群、接納多元文化，包容不同意識型態。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有條不紊的說明對藝術作品的看法與見解。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能透過小組討論方式，以創新思維解決問題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

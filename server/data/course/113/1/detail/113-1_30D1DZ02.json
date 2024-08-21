@@ -1,0 +1,115 @@
+{
+    "code": "30D1DZ02",
+    "name": {
+        "zh": "電子學實習(一)",
+        "en": "Electronics Engineering Practices (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技電子二乙"
+    ],
+    "instructors": [
+        "謝文哲"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "J201"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "J201"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "J201"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "了解電阻、電容、電晶體之特性和其各種應用線路之應用。",
+    "prerequisites": "具有電源供給器、訊號產生器、示波器、三用表之使用能力",
+    "syllabus": {
+        "zh": "1、電子儀表介紹2、被動元件之特性曲線測試3、二極體之特性曲線測試4、整流、濾波電路及穩壓電路5、截波電路與箝位電路6、雙極接面電晶體(BJT)特性曲線之測試7、雙極接面電晶體(BJT)放大器偏壓電路之測試8、雙極接面電晶體(BJT)之共射極、共集極及共基極放大器電路9、串級放大器電路",
+        "en": "1. An introduction to the electronical instrument2. The characteristic test of the passive components3. The characteristic test of the LED4. The characteristic test of the filter, regulator, and the rectifer5. The characteristic test of the clipper and clamper6. The characteristic test of the BJT7. The characteristic test of the BJT biasing circuit8. The characteristic test of the BJT with common base, common emitter and common collector configurations9. The characteristic test of the serial amplifer"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識電子元件的特性及電子電路之應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能挑選及採購適當的元件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能上網學習電子元件的使用及開發新的應用電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "必須撰寫實驗報告。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

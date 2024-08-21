@@ -1,0 +1,131 @@
+{
+    "code": "11N16B01",
+    "name": {
+        "zh": "車體板金技術",
+        "en": "Sheet Metal Technology of Automobile"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技車輛三甲"
+    ],
+    "instructors": [
+        "郭聰源"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "R401"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "R401"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "R401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程著重實務性的知識與技術，參考車廠資料與現在汽車發展趨勢，從汽車的發展歷史介紹起，再進入現代汽車之車體發展與設計。建立基礎概念後，再依車體板金之機械性質特性，分析受到撞擊時可能產生之變形與破壞。在板金維修的部分，先進行板金整修設備與工具之介紹，並搭配實作教學影片講解，讓學生在無法真正現場實作下，使學生了解車身結構的設計概念以及板金件的特性與作用，藉此引導同學了解車身受損之各項機制，認識如何使車身板金修護技 術達到事半功倍之效。本課程之訓練目標時在建立汽車工程師或管理階程人員之專業知識，而非技術人員之訓練，以符合科技大學之教育目標。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.車身結構<br>2.車身結構材料<br>3.撞擊效應<br>4.鋼板維修方法<br>5.銲接作業方法<br>6.銲接與鋼板更換<br>7.車身校正<br>",
+        "en": "1. Auto body construction<br>2. Auto body construction material<br>3. Impact effect<br>4. Repair methods of sheet-metal panels<br>5. Methods of welding<br>6. Welding and sheet-metal panel replacement<br>7. Repairing collision damage<br>"
+    },
+    "weeklySchedule": "本課程參考車廠資料與現在汽車發展趨勢，從汽車的發展歷史介紹起，再進入現代汽車之車體發展與設計。建立基礎概念後，再依汽車板金之機械性質特性，分析受到撞擊時可能產生之變形與破壞。在板金維修的部分，先進行板金整修設備與工具之介紹，並搭配實作教學影片講解，讓學生在無法真正現場實作下能有所體認板金實務工作。本課程之訓練目標時在建立汽車工程師或管理階程人員之專業知識，而非技術人員之訓練，以符合科技大學之教育目標。<br><br>1.車身構造<br>2.汽車碰撞之衝擊力<br>3.汽車板金材料<br>4.車身板金手工具<br>5.小損傷車的修理<br>6.大損傷車之修理<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解車體分類與基本結構",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解車體常用之材料與使用位置",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解車體板金受損之分類與所搭配之整修技巧",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "認識車體常用之銲接技術與使用時機",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自編教材",
+    "teachingSoftware": "",
+    "rules": ""
+}

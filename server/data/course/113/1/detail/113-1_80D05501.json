@@ -1,0 +1,157 @@
+{
+    "code": "80D05501",
+    "name": {
+        "zh": "企業概論",
+        "en": "Business Administration"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技財金一甲",
+        "四技財金一乙",
+        "四技財金一丙"
+    ],
+    "instructors": [
+        "陳可杰"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "S403"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "S403"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "S403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以教師講授為主，課堂討論為輔。在教科書內容以外，佐以目前企業經營之相關議題，提供同學了解企業經營相關課題的途徑。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "第一章 企業是什麼<br>第二章 全球經營環境<br>第三章 企業倫理與社會責任<br>第四章 企業與政府<br>第五章 管理與管理者<br>第六章 台灣經濟與中小企業<br>第七章 集團企業與公營事業<br>第八章 行銷管理<br>第九章 生產與作業管理<br>第十章 人力資源管理<br>第十一章 財務管理<br>第十二章 金融市場概論<br>第十三章 體驗化企業─行銷的新挑戰<br>第十四章 新零售通路與企業─新業態的發展<br>第十五章 資訊科技與企業<br>第十六章 創新與創業精神<br>",
+        "en": "Chapter1 What is business<br>Chapter2 Business and Environment<br>Chapter3 Ethic and Corporate responsibility<br>Chapter4 Business and Government<br>Chapter5 Manager and Management<br>Chapter6 Small-Medium Enterprise and the economic development in Taiwan<br>Chapter7 Business Groups and State-Owned enterprises<br>Chapter8 Marketing management<br>Chapter9 Operation and Production Management<br>Chapter10 Human Resource Management<br>Chapter11 Finance Management<br>Chapter12 Introduction to Financial Market<br>Chapter13 Introduction to Experiential Marketing<br>Chapter14 Business and New marketing channels<br>Chapter15 Business and Information Technology<br>Chapter16 Innovation and Entrepreneurship<br>"
+    },
+    "weeklySchedule": "第一週\t課程介紹/主題1<br>第二週\t主題2<br>第三週\t主題3<br>第四週\t主題3<br>第五週\t主題4<br>第六週\t主題5<br>第七週\t主題6<br>第八週\t綜合討論<br>第九週\t期中考<br>第十週\t主題6<br>第十一週\t主題7<br>第十二週\t主題8<br>第十三週\t主題9<br>第十四週\t主題10<br>第十五週\t主題11<br>第十六週\t主題12<br>第十七週\t國定假日<br>第十八週\t期末考<br><br><br>主題1 企業的內涵與本質<br>主題2 企業環境與全球化<br>主題3 企業道德與社會責任<br>主題4 企業所有權與公司治理<br>主題5 管理的內涵<br>主題6 企業家精神<br>主題7 生產與作業管理<br>主題8 行銷管理<br>主題9 行銷組合<br>主題10 人力資源管理<br>主題11 財務管理<br>主題12 資訊科技與網路<br><br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解企業組織運作的理論及實踐狀況",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能分析企業間的變動及整合性的相關問題",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能有效表達關於企業運作的看法",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能與學習夥伴團隊合作，完成目標",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能辨明職業場域之相關專業責任與職業倫理之觀念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能夠瞭解企業在全球性與社會脈絡之定位，以提昇自我適應社會環境變遷之能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能運用電腦以增強報告或展示能力。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "課堂補充資料",
+    "teachingSoftware": "",
+    "rules": "請遵守課堂秩序，共同營造適合學習的空間。"
+}

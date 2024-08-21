@@ -1,0 +1,122 @@
+{
+    "code": "01D12R1G",
+    "name": {
+        "zh": "中文閱讀與表達(一)",
+        "en": "Chinese Reading and Expression(I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技資工一乙"
+    ],
+    "instructors": [
+        "林麗美"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "T0113"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "T0113"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程選文涵蓋文言與白話，文類多元，從古典至現代，包括散文、詩歌、小說及應用文。提升學生學習興趣、閱讀表達能力，增進應用文知能及文學欣賞層次。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.導論<br>2.閱讀的功能與樂趣<br>3.書寫與表達基本原理<br>4.中文各項文類評析<br>5.文學作品中各項人生議題之探討<br>6.實用文書基本能力<br>7.聽說讀寫綜合表達訓練<br>",
+        "en": "1.\tIntroduction<br>2.\tThe function and pleasure of reading<br>3.\tThe basic principle in writing and expression <br>4.\tEvaluates all kind of Chinese literature type <br>5.\tThe discussion of life issues in literary work<br>6.\tPractical word processing ability<br>7.\tThe expression training: Hearing、speaking、reading and writing <br>"
+    },
+    "weeklySchedule": "第一週 課程說明<br>一、表達溝通 <br>第二週【俚語現象】沈宗霖〈髒話練習曲〉：散文<br>第三週【真情實意】清･倉央嘉措〈倉央嘉措詩選〉：現代詩(概說、文本分析）<br>第四週【真情實意】清･倉央嘉措〈倉央嘉措詩選〉：現代詩(議題討論、素養培育)<br>二、人文與倫理素養<br>第五週 【宿命論】唐･李復言〈定婚店〉：傳奇小說 (概說、文本分析）<br>第六週【宿命論】唐･李復言〈定婚店〉：傳奇小說(議題討論、素養培育)<br>第七週【婚姻情緣】三毛〈求婚〉：散文 (概說、文本分析）  <br>第八週【婚姻情緣】三毛〈求婚〉：散文 (議題討論、素養培育)<br>第九週期中考<br> <br>第十週<br>第十一週【馴服關係】〔法國〕聖修伯里《小王子》文選：兒童文學 (概說、文本分析）  <br>第十二週【馴服關係】〔法國〕聖修伯里《小王子》文選：兒童文學 (議題討論、素養培育)  <br>三、本土與國際意識<br>第十三週【在地關懷】劉克襄〈荖濃溪畔的六龜〉：自然寫作 (概說、文本分析）    <br>第十四週 【在地關懷】劉克襄〈荖濃溪畔的六龜〉：自然寫作  (議題討論、素養培育)      <br>第十五週【浪漫花都】鍾文音〈巴黎──百遊不厭的藝術首都〉：旅行文學(概說、文本分析）<br>第十六週【浪漫花都】鍾文音〈巴黎──百遊不厭的藝術首都〉：旅行文學(議題討論、素養培育)<br>第十七週綜合討論<br>第十八週期末考<br><br><br>附註：依實際上課情形而調整",
+    "exams": {
+        "midterm": "口頭報告或筆試",
+        "final": "口頭報告或筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "描述文章表達的意義並撰寫作文",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "統整所學的基本能力以作為國家考試與求職之基礎",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "接納人與人之間所傳達的訊息並給予正面的回應",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "秉持良好的學習態度以交付完成各項任務",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "探討文學作品的各項人生議題，並於生活中展現批判能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "中文閱讀與表達──多元文化的交響",
+        "author": "王淳美主編",
+        "publisher": "五南出版社",
+        "year": "2024",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "參考書目 創造性的場域寫作教學 林璧玉 秀威資訊 就是愛寫作 朱天衣等著 時報出版 金字塔原理Ⅱ：培養思考、 寫作能力之自主訓練寶典 芭芭拉．明托 經濟新潮社 文學盛筵：談閱讀，教寫作 廖玉蕙 天下雜誌 文字編織： 讓寫作變容易的六章策略 廖玉蕙 三民 心靈小札：致有志寫作者 王壽來/譯 遠流 心靈寫作： 創造你的異想世界 娜妲莉．高柏 心靈工坊 狂野寫作 娜妲莉．高柏 心靈工坊 寫出精彩的人生： 生命傳記與心靈書寫 王偉勇/主編、林美琴/撰寫 里仁書局 創作，是心靈療癒的旅程 茱莉亞．卡麥隆 橡樹林 我是一枝愛寫作的鉛筆 山姆．史沃普 商周出版 在那湧動的潮音中─ 教習劇場TIE 蔡奇璋、許瑞芳 揚智文化 感官的獨奏與越界─ 打造創意的版圖 陳嘉英 萬卷樓圖書",
+    "teachingSoftware": "PPT及Flipclass數位學習網",
+    "rules": "依實際上課情況調整"
+}

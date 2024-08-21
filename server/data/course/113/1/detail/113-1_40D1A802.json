@@ -1,0 +1,139 @@
+{
+    "code": "40D1A802",
+    "name": {
+        "zh": "材料技術實習(B)",
+        "en": "Materials Technology Laboratory"
+    },
+    "credit": "2",
+    "type": "管制必修",
+    "classes": [
+        "四技化材二甲"
+    ],
+    "instructors": [
+        "關旭強"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "I0605"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "I0605"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "I0605"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "讓學生從實務中瞭解材料之結構、性質與加工三者之關係。本課程培養學生對於材料實驗之基本操作技術，並啟發學生對於材料之結構、光譜量測、粒徑與界面電位之分析等理論與相關技術。進而促進學生研究思考與探索科學之精神，將理論與實際互相驗證，以其對材料科學知識獲得更深刻與具體之理解。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "A1. 碳鋼熱處理及光學顯微鏡實習<br>A1.1碳鋼熱處理及金相試片製備<br>A1.2金相顯微鏡觀察<br><br>A2. 鋁合金陽極氧化表面處理及電化學分析實習<br>A2.1鋁合金陽極氧化鍍層試片製備<br>A2.2鋁合金陽極氧化鍍層腐蝕電化學分析<br><br>A3. 硬度測試與滑動磨耗試驗及掃描式電子顯微鏡實習<br>A3.1 洛氏及維克氏硬度試驗、Ball on disk滑動磨耗試驗<br>A3.2 磨耗及破斷面形貌之掃描式電子顯微鏡觀察及能量散佈光譜儀分析<br><br>B1. 奈米級二氧化鈦光催化與太陽能電池製作<br>B1.1 奈米級二氧化鈦的合成與光催化<br>B1.2 染敏二氧化鈦太陽能電池製作<br><br>B2. 粒徑分析與界面電位量測實習<br>B2.1雷射散射粒徑分析實驗<br>B2.2界面電位量測實驗<br><br>B3. 紫外光-可見光光譜儀與螢光光譜儀實習<br>B3.1紫外光-可見光光譜量測及其定量分析<br>B3.2螢光光譜量測及其定量分析<br>",
+        "en": "A1. Heat Treatment of Carbon Steel and Optical Microscope Laboratory<br>1.1 Heat Treatment of Carbon Steel and Metallographic Specimen Preparation<br>1.2 Optical Microscopy Observation<br>A2. Anodizing of Aluminum Alloy and Electrochemical Analysis Laboratory<br>2.1 Anodized Aluminum Coatings Specimen Preparation<br>2.2 Electrochemical Analysis of Anodized Aluminum Coatings Corrosion<br>A3. Hardness Test, Sliding Wear Teat and Scanning Electron Microscopy Laboratory<br>3.1 Rockwell and Vickers Hardness Test, Ball on Disk Sliding Wear Test<br>3.2 Wear Feature and Fracture Morphology of Scanning Electron Microscopy Observation and Energy Dispersive Spectrometer Analysis<br><br>B1. Nano-scale TiO2 photocatalysis and solar cell production<br>B1.1 Synthesis and photocatalysis of nano-sized TiO2<br>B1.2 Production of dye-sensitive TiO2 solar cells<br><br>B2. Practice of particle size analysis and zeta-potential measurement<br>B2.1 particle size analysis by laser scattering experiment<br>B2.2 zeta-potential measurement<br><br>B3. Practice on UV-Visible Spectrometer and Fluorescence Spectrometer<br>B3.1 Ultraviolet-visible light spectrum measurement and quantitative analysis<br>B3.2 Fluorescence spectrum measurement and quantitative analysis<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解實驗所使用到的化學與材料工程相關專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能執行實驗並分析及解釋實驗數據",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能妥善地使用工具與貴重儀器",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能融入團隊並能完成自己所分擔的實驗工作並能清楚說出自己的實驗結果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能發掘問題並解決問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能利用電腦軟體處理實驗數據，並上網收集相關資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

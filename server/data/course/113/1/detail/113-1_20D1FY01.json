@@ -1,0 +1,127 @@
+{
+    "code": "20D1FY01",
+    "name": {
+        "zh": "太陽能光電配置技術實務",
+        "en": "Assembling and testing of PV inverter"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "五專電機五甲"
+    ],
+    "instructors": [
+        "易駿龍"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "K303"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "K303"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "K303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本計畫將培養學生具備再生能源轉換器設計製作的技術能力，成為企業所需之設計、製造、設置、監控及系統整合的專業人才",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 轉換器硬體架構介紹<br>2. 轉換器控制電路測試實習<br>3. 光電能轉換器組裝<br>4. 光電能轉換器功能測試<br>5. 光電能轉換器燒機測試<br>6. 光電能轉換器安規測試<br>",
+        "en": "1. Introduction of PV inverter topology<br>2. Testing of control circuit in PV inverter<br>3. Assembling PV inverter<br>4. Function test<br>5. Burn-In test<br>6. Safety test<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "太陽能光電配置技術實際應用相關知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "太陽能光電設備應用知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "太陽光電能轉換器及其轉換技術的介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "儲能元件介紹",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "再生能源與環境的相關性知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

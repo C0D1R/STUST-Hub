@@ -1,0 +1,110 @@
+{
+    "code": "05D01B02",
+    "name": {
+        "zh": "全民國防教育-國際情勢",
+        "en": "All-out Defense Education Military Training-International Situations"
+    },
+    "credit": "1",
+    "type": "選修",
+    "classes": [
+        "軍訓選修"
+    ],
+    "instructors": [
+        "陳朝政"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "D105"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "D105"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "（一）使學生了解國際情勢與區域安全情勢的現況與轉變。<br>（二）使學生體認制定武裝衝突法的必要性，以及各國應遵守的權利與義務。<br>（三）使學生認識當前國際重要安全議題，如地緣政治、新戰爭型態、大規模毀滅性武器、恐怖主義、糧食安全、跨國人口流動、能源安全、氣候變遷、文化與資訊安全等；並了解這些議題與我國息息相關。<br>（四）使學生認識當前國家處境與思索長治久安之道，進而體認國家政策的重要性，落實全民國防理念。",
+    "prerequisites": "#選課重要須知：軍訓課程名稱更改為「全民國防教育」\n全民國防教育軍事訓練課程折減常備兵役現役役期或軍事訓練期間之上限，依兵役法第十六條第四項規定辦理。本校男學生因應折抵役期選課之學生，請詳閱本校開課規則，每門課均開課2小時1學分！折減現役役期者82年次前(含)，每門課得折減4.5日。折減軍事訓練者83年次以後(含)，每門課最多得折減2日。在此告知，請同學選課自行考量。\n(一)82年前出生，折減現役役期：\n依每門課程總時數36小時(堂)計算，修習成績合格者，依每8堂課折算1日，得折減4.5日；5門課共180小時(堂)，不足1日不列入計算，至多得折減現役役期22日。\n(二)83年後出生，折減軍事訓練期間：\n依每8堂課折算1日，每門課最多得折減2日；5門課至多得折減軍事訓練期間10日。(不得比照折減現役役期之課程規定)\n#選修全民國防軍訓訓練課程之男學生，需配合本校青年服勤動員編組，得以運用課程實施訓練。",
+    "syllabus": {
+        "zh": "第一部分課程，依教官專長領域設計<br>第二部分課程，大綱如下：<br>第一章　區域安全 　　<br>第二章　武裝衝突法 　　<br>第三章　國際重要安全議題　 　　<br>第四章 武裝衝突法及日內瓦公約 　　<br>第五章　敵情教育及兩岸情勢　　　　　　<br>第六章　保防教育　　　　　　　　　　　<br>第七章　機艦與人員辨識　　　　　　　　<br>第八章　愛國教育（莒光教學專題研討）",
+        "en": "The first part of the course, designed according to the field of instructor expertise<br>The second part of the course, the outline is as follows:<br>Chapter 1 Regional Security<br>Chapter II Law of Armed Conflict<br>Chapter III International important security issues<br>Chapter IV Law of Armed Conflict and the Geneva Conventions<br>Chapter V: Enemy Education and Cross-Strait Situation<br>Chapter VI Protection Education<br>Chapter VII Engine and Personnel Identification<br>Chapter VIII Patriotic Education (Study on Shuguang Teaching)"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培育宏觀國際視野，增進國防安全知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "凝聚國人憂患意識，淬煉愛國愛鄉情操。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "深化全民國防共識，確保國家整體安全。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提升防衛動員知能，實踐全民國防目標。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

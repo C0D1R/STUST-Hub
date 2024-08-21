@@ -1,0 +1,117 @@
+{
+    "code": "G0D15101",
+    "name": {
+        "zh": "大數據分析",
+        "en": "Big Data Analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資工四甲",
+        "四技資工四乙",
+        "四技資工四丙"
+    ],
+    "instructors": [
+        "鄭錦楸"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "E0203"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "E0203"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "E0203"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "認識大數據分析的原理，並習得利用Python建立各項分析模型之能力。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.數據挖掘基礎<br>2.Python數據分析基礎<br>3.數據探索<br>4.數據預處理<br>5.挖掘建模<br>6.數據分析案例<br>",
+        "en": "1.Data Mining Basic<br>2.Python Data Analysis<br>3. Data Exploration<br>4.Data Pre-processing<br>5.Model for Data Mining<br>6.Project of Data Analysis<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解大數據分析的基本原理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "習得基本Python 語法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "習得數據分析各種模型",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "完成一項大數據分析專案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

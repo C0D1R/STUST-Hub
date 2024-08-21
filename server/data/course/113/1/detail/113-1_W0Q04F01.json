@@ -1,0 +1,111 @@
+{
+    "code": "W0Q04F01",
+    "name": {
+        "zh": "數位行銷實務",
+        "en": "Practice of Digital Marketing"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "高企碩士班二甲"
+    ],
+    "instructors": [
+        "洪崇文",
+        "洪敏莉"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "E0603"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "E0603"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.採用課程講授及小組實作方式，建立學生實際操作能力 Both course lecture and marketing practices are taken to build students’ digital marketing ability<br>2.確實產出數位媒體內容 Actual implementation of digital marketing tactics<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t課程介紹、規定　<br>2.\t何謂數位行銷？　　<br>3.\t粉絲專頁經營實務<br>4.\tＩＧ實務<br>5.\t短影音製作實務<br>6.\tPodcast製作實務<br>7.\t期末成果展 <br>",
+        "en": "1.Courses Introduction<br>2.Digital Marketing – theory and practice<br>3.Introduction of FB development、Practice of FB planning and practice<br>4. Introduction of IG development 、 Practice of IG planning and practice<br>5.Introduction of video clip development 、 Practice of video clip planning and practice<br>6. Introduction of podcast development 、 Practice of podcast planning and practice<br>7.Presentation<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習數位行銷理論與發展趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生數位行銷方案製作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "協助學生發展數位行銷計畫與管理能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立學生創意與團隊合作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

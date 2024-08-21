@@ -1,0 +1,115 @@
+{
+    "code": "2IN00D01",
+    "name": {
+        "zh": "半導體元件物理",
+        "en": "Semiconductor Physics and Devices"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜電機產攜二甲"
+    ],
+    "instructors": [
+        "張勝雄"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "I0310"
+        },
+        {
+            "day": "週一",
+            "period": "第13節",
+            "location": "I0310"
+        },
+        {
+            "day": "週一",
+            "period": "第14節",
+            "location": "I0310"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程內容主要講授半導體的基本特性和它的傳導過程，接著介紹P-N接面的相關知識與元件。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 簡介<br>2. 晶體結構<br>3. 能帶的形成<br>4. 平衡半導體<br>5. 載子傳輸現象<br>6. P-N 接面與元件<br>7. 發光二極體",
+        "en": "1. Introduction<br>2. The Crystal Structure of Solids<br>3. Formation of Energy Bands<br>4. The Semiconductor in Equilibrium<br>5. Carrier Transport Phenomena<br>6. P-N Junction and devices<br>7. Light Emitting diode (LED)"
+    },
+    "weeklySchedule": "第1~2週 半導體物理基礎 <br>第3~4週 發光二極體原理<br>第5~6週 發光二極體應用<br>第7~8週 雷射二極體原理與應用<br><br>第9週期中考 <br><br>第10~11週 檢測器原理與應用<br>第12~13週 太陽能電池原理<br>第14~15週 太陽能電池應用<br>第16~17週 電產業與元件製造<br><br>第18週期末考 <br><br><br><br>",
+    "exams": {
+        "midterm": "期中考筆試",
+        "final": "期末考",
+        "other": "隨堂測驗"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能詮釋半導體之專有名詞與基本知識。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解半導體之基本原理與相關計算。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能分析pn二極體與發光二極體之元件特性。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解半導體的演進與產業發展。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1、Optoelectronics and Photonics, Principles and Practices ，作者：S. O. Kasap，開發圖書 <br>2、光電半導體導論，劉博文 編著，全威圖書",
+    "teachingSoftware": "",
+    "rules": ""
+}

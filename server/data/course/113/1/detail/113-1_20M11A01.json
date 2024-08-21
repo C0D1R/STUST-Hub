@@ -1,0 +1,119 @@
+{
+    "code": "20M11A01",
+    "name": {
+        "zh": "人工智慧與應用",
+        "en": "Artificial Intelligence and Applications"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "博電機國際一甲",
+        "碩電機國際一甲",
+        "碩電子國際一甲",
+        "碩資工國際一甲"
+    ],
+    "instructors": [
+        "李宗儒"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "D301"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "D301"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "D301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹人工智慧的發展與應用，教導學生認識人工智慧的技術與瞭解人工智慧開發的方法。本課程是以設計思考與問題導向的人工智慧技術應用之課程，學生將學習從生活周遭發覺有價值之應用題目，並透過課堂討論與分享期末專案。<br>This course introduces the development and application of artificial intelligence, helps students to understand the technology of artificial intelligence and the development methods. This course is a design thinking and problem-oriented application of artificial intelligence technology. Students will discover valuable application topics in daily life and share their final projects through classroom discussions.",
+    "prerequisites": "具備程式撰寫能力為佳(Ability to program)",
+    "syllabus": {
+        "zh": "1. 人工智慧簡介<br>2. 資料探勘<br>3. 機器學習<br>4. 深度學習<br>5. 研究案例<br>6. 期末專案<br>",
+        "en": "1. Introduction<br>2. Data Mining<br>3. Machine Learning <br>4. Deep Learning <br>5. Case Study<br>6. Final Project <br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備人工智慧的基本知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識人工智慧的相關軟體工具",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能進行人工智慧專題的簡報",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解人工智慧的發展趨勢",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

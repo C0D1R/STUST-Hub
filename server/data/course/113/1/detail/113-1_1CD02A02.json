@@ -1,0 +1,127 @@
+{
+    "code": "1CD02A02",
+    "name": {
+        "zh": "基本設計與色彩應用(A)",
+        "en": "Foundational Design and Color Theory"
+    },
+    "credit": "3",
+    "type": "管制必修",
+    "classes": [
+        "四技產設一乙"
+    ],
+    "instructors": [
+        "陳亞麟"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "X302"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "X302"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "X302"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過單元講授與實作，培養學生豐富的視覺感受力，透過材料的多樣體驗，加強思考力的靈活度養成，進而累積平面造形構成與設計基本能力的經驗，搭配設彩學理論與色彩美感的訓練與調配原則，作為未來產品設計之應用基礎。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.具有設計的基本概念與原理認識。<br>2.視覺原理應用與視覺構成的實驗與設計。<br>3.點的構成<br>4.線的構成<br>5.面的構成<br>6.基本色彩學理論<br>7.生活中的色彩<br>8.文化的色彩<br>9.基本練習<br>10.綜合構成－專題設計創作<br>",
+        "en": "1.Introduction<br>2.Geometry - Research<br>3.Geometry - Practice<br>4.Geometry - Practice - color<br>5.Pattern I - Design research<br>6.Pattern II - Design Practice<br>7.Personal Creation - T-shirt<br>8.Element research and application<br>9.Group creation"
+    },
+    "weeklySchedule": "Milestone A<br><br>型態與設計方法練習  - 基本型態認知<br><br>型態與設計方法練習  - 複雜型態認知與分析<br><br>型態與設計方法練習  - 情感詞彙與元素視覺化之轉化<br><br> 型態與設計方法練習  - 綜合應用<br><br>Milestone B<br><br>色彩原理與應用 - 基本色彩要素<br><br>色彩原理與應用 - 色彩系統認知<br><br>色彩原理與應用 - 綜合應用<br><br>Milestone C - Group creation",
+    "exams": {
+        "midterm": "報告",
+        "final": "報告",
+        "other": "隋堂發表"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解基本設計基礎學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能體認並養成正確嚴謹製圖技能的重要性",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能創作獨特的個人風格",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能培養有效分析並講解個人創作理念知能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能養成對於『美』的基礎鑑賞能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "授課與出席規則<br><br>因故請假，提前告知老師、助教或班代並提出相關資訊。<br>上課遲到10分鐘後，記一次遲到，學期總平均扣2分。<br>三次遲到計為一個曠課，三次曠課，本學期出席成績為0。<br>請假、曠課等未出席次數總計達六次者，本學期不給予學期成績。<br>缺課請自行向同學或班代詢問上課與作業細節。<br>手機或者是不相關的電子設備必須在上課時開啟靜音模式或關閉。<br>所有作業提交必須「準時」、「格式正確」、「數量無誤」，違者該作業不予與計分。<br><br>學期評估（學生從以下授課基礎上進行評估）<br><br>出席規則如上<br>課堂參與討論／授課溝通與回饋 - 30％<br>授課作業／專案品質／改進後效果 - 70％"
+}

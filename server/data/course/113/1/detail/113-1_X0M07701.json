@@ -1,0 +1,110 @@
+{
+    "code": "X0M07701",
+    "name": {
+        "zh": "憲法",
+        "en": "Constitution"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "碩研財法一甲"
+    ],
+    "instructors": [
+        "郭俊麟"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "S411B"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S411B"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "憲法乃國家之根本大法，也是法治國家具體的表現，國民對憲法的認識與瞭解，是國家法治觀念的重要指標。憲法的意義與價值在於其實際運作—憲法原理融入國家與社會制度當中，憲法精神烙印在每位國民的心裡，不必行諸條文就能運作不息。民主憲政國家除需要一部符合現代立憲主義原理的憲法外，更重要是形成一股堅定的憲法精神，落實在憲法實施與運作，讓憲法不斷精進與發展。",
+    "prerequisites": "歡迎同學修習本課程",
+    "syllabus": {
+        "zh": "第一單元、課程導論<br>第二單元、憲法概念、作用與目的<br>第三單元、憲法特性、結構與解釋<br>第四單元、各國憲法釋義（I）<br>第五單元、各國憲法釋義（II）<br>第六單元、立憲主義原則<br>第七單元、權力分立原則<br>第八單元、基本人權總論<br>第九單元、自由基本權（I）<br>第十單元、自由基本權（II）<br>第十一單元、社會基本權（I）<br>第十二單元、社會基本權（II）<br>第十三單元、憲法保障制度<br>第十四單元、國體與政體<br>第十五單元、中央與地方政府<br>第十六單元、民主與憲政<br>",
+        "en": "A.\tIntroduction<br>B.\tThe Basic Concept of Constitution<br>C.\tThe Explanation of Constitution<br>D.\tThe Constitution of R.O.C.<br>E.\tThe Constitution of U.S.A<br>F.\tConstitutionalism<br>G.\tThe Separation of Powers<br>H.\tHuman Rights<br>I.\tDemocratic Rights and Freedoms<br>J.\tSocial Rights<br>K.\tThe Principles of Constitutional Design<br>L.\tThe Polity and the Form of Government<br>M.\tThe Central Government and the Local Government<br>N.\tDemocracy<br>"
+    },
+    "weeklySchedule": "第一單元、憲法導論<br>第二單元、憲法的基本原則<br>第三單元、基本權<br>第四單元、平等權與自由權<br>第五單元、社會的基本權<br>第六單元、政治參與權<br>第七單元、程序的基本權<br>第八單元、其他自由、權利與義務<br>第九元、權力分立原則與中央政府體制<br>第十單元、總統<br>第十一單元、行政<br>第十二單元、立法<br>第十三單元、司法<br>第十四單元、考試與監察<br>第十五單元、中央與地方均權與地方自治<br>第十六單元、司法違憲審查",
+    "exams": {
+        "midterm": "專題報告",
+        "final": "學期自我評量",
+        "other": "學習單"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解憲法的意義與立憲主義",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "說明憲法的性質與發展",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "分析重要大法官會議解釋",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "闡述國家憲政政策",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "憲法理論與政府體制",
+        "author": "吳庚、陳淳文",
+        "publisher": "三民書局",
+        "year": "2023",
+        "ISBN": "9789571476698",
+        "edition": "八版一刷"
+    },
+    "referenceBooks": "陳新民，憲法學釋論，三民書局，2022年。<br>陳志華，中華民國憲法，三民書局，2023年。<br>許育典，人權、民主與法治：當人民遇到憲法，元照，2022年。",
+    "teachingSoftware": "自製投影片教材、補充教材與資料。",
+    "rules": "歡迎同學課堂發言與討論。"
+}

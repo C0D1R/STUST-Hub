@@ -1,0 +1,110 @@
+{
+    "code": "L0D0BD02",
+    "name": {
+        "zh": "環境永續與安全衛生概論",
+        "en": "Introduction to environmental sustainable and safety hygiene"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技半導體三乙"
+    ],
+    "instructors": [
+        "陳瑞堂"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "R503"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "R503"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "對於工業安全與衛生的觀念作系統化的介紹, 使學生了解各種工業危害及預防的方法，並介紹環境永續發展之重要性。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.安全衛生法規簡介\u000b<br>2. 實驗室安全衛生概論<br>\u000b3. 危害通識\u000b<br>4. 輻射安全\u000b<br>5. 事故的預防<br>\u000b6. 墜落災害預防\u000b<br>7. 電氣安全\u000b<br>8. 工作安全分析與安全作業標準<br>\u000b9. 個人防護具<br>\u000b10.地球的資源與能源<br>11.環境汙染<br>12.生態保育<br>13.永續發展與環境倫理",
+        "en": "1.Introduction to regulations of safety and health<br>\u000b2. Introduction to laboratory safety and health<br>\u000b3. General knowledge of hazards<br>\u000b4. Radiology and safety<br>\u000b5. Prevention of incidents\u000b<br>6. Process hazard analysis\u000b<br>7. Falling protection\u000b<br>8. Electricity safety<br>\u000b9. Personal protection equipments\u000b<br>10. Energy and resources in the Earth <br>11. Environmental pollution <br>12. Ecological conservation <br>13. Sustainable development and environmental ethics<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解工業事故的重要性、了解安全衛生計畫、了解游離輻射危害、了解各部保護裝備",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備事故預防的觀念、了解如何進行工作安全分析 、了解如何避免感電意外、了解如何避墬落意外",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解安全衛生檢查技術及程序",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解生態環境與永續發展之重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

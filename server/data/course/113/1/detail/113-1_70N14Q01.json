@@ -1,0 +1,116 @@
+{
+    "code": "70N14Q01",
+    "name": {
+        "zh": "企業倫理",
+        "en": "Business Ethics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "夜企管產攜一甲",
+        "夜行流產攜四甲"
+    ],
+    "instructors": [
+        "方妙玲"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "S207"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "S207"
+        },
+        {
+            "day": "週三",
+            "period": "第7節",
+            "location": "S207"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.介紹企業倫理的立論基礎，主要內容為倫理學的基本概念。<br>2.探討企業倫理的主要議題，包含企業與各利益關係人的對應關係及權利義務。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "PART ONE 企業倫理的理論基礎<br>1.價值觀與規範倫理學的基本概念<br>2.道德認知發展模式<br>3.道德的相對論和客觀主義<br>PART TWO 企業倫理議題<br>1.利益關係人模式<br>2.企業與員工<br>3.企業與消費者<br>4.企業的社會責任<br>5.企業與政府<br>6.企業與環境—綠色企業<br>7.性別平等議題<br>",
+        "en": "Part 1<br>Topic 1 Values and Normative Ethics<br>Topic 2 Moral Relativism and Moral Objectivism<br>Topic 3 Cognitive Moral Development Model<br>Part 2<br>Topic 1 The Stakeholder Approach to Business, Society, and Ethics<br>Topic 2 Employee Stakeholders<br>Topic 3 Consumer Stakeholders<br>Topic 4 Corporate Citizenship<br>Topic 5 Business, Government, and Regulation<br>Topic 6 The Natural Environment as Stakeholder<br>Topic 7 Gender Equity<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解企業倫理的立論基礎，包含倫理、道德及價值的概念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "討論企業經營的倫理議題，引導學生認識企業倫理的本質及意義，以及具體的實踐方法，進而建立正向的企業經營價值觀。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "提供系統性分析架構，並透過個案討論引導學生有組織、有條理的表達與溝通。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過個案討論，引導學生培養正確適宜的行事準則，並能建立職業道德的觀念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

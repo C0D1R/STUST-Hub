@@ -1,0 +1,134 @@
+{
+    "code": "C0D5CR01",
+    "name": {
+        "zh": "時事英文",
+        "en": "English News Review"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技應英二甲"
+    ],
+    "instructors": [
+        "石耀西"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "N202"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "N202"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This one-semester course aims to expose students to news in English.  It focuses on media on video clips and the internet, and in newspapers and magazines.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本學期課「時事英文」提供學生學習時事英文平台。學生學習閱讀英語新聞與雜誌、觀看與聆聽新聞節目、討論議題與發表意見並學習分析與評論時事。本課程藉由時事英文，增進英語系學生英語聽、說、讀、寫能力。",
+        "en": "Students will read, watch, and listen to journalistic English, while they will also discuss news issues, and write critically on news locally and globally.  Through the instructor’s orientations, and students’ active participation and development of their four language skills, students will become familiar with news genres and improve their English proficiency."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "增進英文口說與寫作核心的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進英文聽力與閱讀核心能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進英語文專業知識與溝通表達之技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進就業職場之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "多媒體學習與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能謙虛並主動學習新的事物",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

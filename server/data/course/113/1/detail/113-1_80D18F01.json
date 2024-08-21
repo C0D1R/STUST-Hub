@@ -1,0 +1,116 @@
+{
+    "code": "80D18F01",
+    "name": {
+        "zh": "財務報表分析",
+        "en": "Financial Statement Analysis"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技財金三甲",
+        "四技財金三乙"
+    ],
+    "instructors": [
+        "蘇志泰"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "S414"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "S414"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "S414"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程著重財務報表分析基本觀念之教授，內容涵蓋財務報表分析各個重要子題的介紹及探討。首先會介紹會計的基本環境及認識財務報表，其次，介紹各種分析方法（尤其是比率分析的各個分類公式），最終再介紹一些跟財務報表分析有關的特定議題（例如，產業分析、公司介紹、特定產業財務分析等）。",
+    "prerequisites": "修過初級會計課程者為佳。",
+    "syllabus": {
+        "zh": "1.概論<br>2.會計基本架構 <br>3.認識主要財務報表 <br>4.基本分析方法 <br>5.獲利能力分析 <br>6.投資報酬率分析 <br>7.短期償債能力分析 <br>8.流動性分析 <br>9.財務結構分析 <br>10.長期償債能力分析 <br>11.經營能力分析 <br>12.投資分析 <br>13.現金流量分析 <br>14.資產負債分析 <br>15.成長性分析 <br>16.風險分析與財務危機預測 <br>17.財務彈性分析 <br>18.證券的評價與風險 <br>19.企業評價 <br>20.策略介紹 <br>21.產業分析 <br>22.公司分析 <br>23.五力分析 <br>24.毛利分析與兩平分析",
+        "en": "The mail topics includes 1.Introduction, 2.The Basic Situation of Accounting, 3.The Main Financial Statement, 4.The Basic Analysis Method, 5.Ratio Analysis, 6.Financial Crisis Model, 7.Valuation of Enterprise and Stock, 8.Analyses of Industry and Company, 9.Some Specific Analyses."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解財務報表分析面對的環境及運用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "財務報表分析各個重要子題的介紹及探討",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備財務報表實際分析的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解財務報表分析人員需具備的專業倫理",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

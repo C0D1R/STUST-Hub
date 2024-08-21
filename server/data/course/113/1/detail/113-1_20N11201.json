@@ -1,0 +1,147 @@
+{
+    "code": "20N11201",
+    "name": {
+        "zh": "配線設計",
+        "en": "Wiring Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技電機二甲"
+    ],
+    "instructors": [
+        "陳彥銘"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第11節",
+            "location": "I0307"
+        },
+        {
+            "day": "週一",
+            "period": "第12節",
+            "location": "I0307"
+        },
+        {
+            "day": "週二",
+            "period": "第11節",
+            "location": "I0307"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "單向三線式110/220V之屋內線路裝置介紹及實作，各種工業動力配線介紹及實作，各種高壓配線介紹及實作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.故障電流計算 2.系統保護及保護協調 3.電壓降計算 4.功率因數改善 5.接地工程 6.電燈配線設計 7.電動機配線設計 8.電熱器與電焊機配線設計 9.緊急供電系統 10.火警警報及消防設施",
+        "en": "1.Distribution system design<br>2.Short-circuit current calculation<br>3.Protection coordination<br>4.Calculation of voltage drop<br>5.Improvement factor of success rate<br>6.Grounding system"
+    },
+    "weeklySchedule": "1~2週 一.單向三線式110/220V之屋內線路裝置<br>3~4週 二.電動機正反轉兼Y-△啟動控制電路<br>5~6週 三.電動機正反轉兼Y-△附瞬間停電保護控制電路<br>7~8週 四.兩台抽幫浦手動、自動交替控制電路<br>9 週 期中考<br>10~11週 五.污排水幫浦手動、自動交替兼 異常水位並列運轉控制電路<br>12~13週 六.系統電壓三相三線11.4KV，以兩具11.4KV/110-220V(雙套管)<br>變壓器做V-V接線，二次電壓三相三線220V(低壓側V之角點接地)。<br>14~15週 七.系統電壓三相三線11.4KV，以兩具11.4KV/110-220V(雙套管)<br>變壓器做V-V接線，二次電壓三相四線220V(低壓側V之角點接地)。<br>16~17週 八.系統電壓三相三線11.4KV，以三具11.4KV/110-220V(雙套管)<br>變壓器做△-△接線，二次電壓三相三線220V(低壓側△之M角點接地)。<br>18 週 期末考",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末作業",
+        "other": "日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學會單相三線式110/220V之屋內線路裝置之施工",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學會電動機正反轉兼Y-△啟動控制電路之施工",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學會兩台抽幫浦手動、自動交替控制電路之施工",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學會污排水幫浦手動、自動交替兼異常水位並列運轉控制電路之施工",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學會系統電壓三相三線，以兩具11.4KV/110-220V(雙套管) 變壓器做V-V接線，二次電壓三相三線220V(低壓側V之角點接地)之設計及配線施工",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學會系統電壓三相三線KV，以三具11.4KV/110-220V(雙套管) 變壓器做△-△接線，二次電壓三相三線220V(低壓側△之角點接地)之設計及配線施工",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "配電工程",
+        "author": "曾國雄",
+        "publisher": "高",
+        "year": "105",
+        "ISBN": "978-986-378-083-0",
+        "edition": "二版"
+    },
+    "referenceBooks": "書名: 配電工程<br>書局: 曾國雄",
+    "teachingSoftware": "Microsoft PowerPoint",
+    "rules": "具備基本電學之基礎。"
+}

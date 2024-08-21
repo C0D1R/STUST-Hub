@@ -1,0 +1,128 @@
+{
+    "code": "1LD06502",
+    "name": {
+        "zh": "臺灣流行音樂概論(B)",
+        "en": "Taiwanese Popular Music Introduction"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "邱亭雅"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "T0206"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "T0206"
+        },
+        {
+            "day": "週五",
+            "period": "第9節",
+            "location": "T0206"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以臺灣流行音樂為內容，介紹臺灣流行音樂的歷史、各時期的音樂特色與經典作品、以及流行音樂文化，以提升學生的人文素養。經由瞭解代表性音樂人物的生命故事，來增長學生的生命智慧。課程實務部分，提供學生歌唱才藝展演與欣賞的機會，以增進演唱技能與鑑賞能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、流行歌曲的相關理論<br>二、各時期的音樂特色、經典作品、代表性人物<br>1. 日據時期<br>2. 1945-1980年<br>3. 校園民歌時期<br>4. 1980年代<br>5. 1990年代<br>6. 2000年以後<br>三、流行歌曲文化現象<br>1. 現場演唱會時代<br>2. 傳播媒體與娛樂場所<br>3. 歌唱選秀節目<br>",
+        "en": "Unit 1 Theories of popular music<br>Unit 2 Brief history of Taiwanese popular music<br>\t1932-1945<br>\t1945-1980<br>\t1980s<br>\t1990s<br>\tAfter 2000<br>Unit 3 Culture phenomenon<br>\tLive concert era<br>\tCommunication media and entertainment venues<br>\tSinging talent shows<br>"
+    },
+    "weeklySchedule": "第一週：簡介概論-- 國語流行音樂發展概論<br>第二週：上海時期背景研討--歷史發展與背景沿革簡介<br>第三週：上海時期創作風格--美國爵士曲風、戲曲元素<br>第四週：香港時期背景研討--歷史發展與背景沿革簡介<br>第五週：香港時期創作風格--舞蹈與情感元素運用、男女對唱風格<br>第六週：群星會時期背景研討--歷史發展與背景沿革介紹<br>第七週：群星會時期創作風格--五聲音階、復古風格<br>第八週：國語流行音樂伴奏樂團配器編制研討：國樂團、管弦樂團<br>第九週：期中考<br>第十週：校園民歌時期背景研討--歷史發展與背景沿革簡介<br>第十一週：校園民歌時期創作風格--傳唱性、歌手明星、吉他伴奏<br>第十二週：融合時期背景研討--歷史發展與背景沿革簡介<br>第十三週：融合時期創作風格--台語混合搖滾曲風<br>第十四週：多元時期背景研討--歷史發展與背景沿革簡介<br>第十五週：多元時期創作風格--台語嘻哈風、新布袋戲歌曲<br>第十六週：台灣流行音樂背景研討--歷史發展與背景沿革簡介<br>第十七週：台灣流行音樂創作風格--同音重複、循環和弦、間奏演變<br>第十八週：期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "課堂學習單"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解臺灣流行音樂的歷史與文化現象",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "欣賞臺灣各時期流行音樂的風格與經典作品",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "省思代表性音樂人物的生命故事",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "提升歌曲演唱與鑑賞技巧",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備表達個人意見以及與他人溝通的能力",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "樂光流影：台灣流行音樂思路",
+        "author": "翁嘉銘",
+        "publisher": "典藏文創",
+        "year": "2010",
+        "ISBN": "9789868670501",
+        "edition": "初版"
+    },
+    "referenceBooks": "1. Pejrolo, Andrea, and Richard Derosa. Acoustic and MIDI Orchestration for the Contemporary Composer. Boston: Focal, 2007. <br>2. 郭信名。30 年來台灣唱片在做什麼？台北市: 博客思出版社， 民100年。<br>",
+    "teachingSoftware": "powerpoint、數位音樂軟體",
+    "rules": "1. 準時出席<br>2. 參與課堂討論"
+}

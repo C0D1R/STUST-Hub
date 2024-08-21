@@ -1,0 +1,162 @@
+{
+    "code": "01N06U01",
+    "name": {
+        "zh": "台灣遺產",
+        "en": "Taiwan Heritage"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "夜企管產攜一甲"
+    ],
+    "instructors": [
+        "蔡漢生"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程係以聯合國教科文組織將世界遺產的三項分類、再佐以該組織另外分類，將台灣珍貴且特有的自然和文化景觀區分為自然遺產、文化遺產、複合遺產與非物質文化遺產等四項；進而解析台灣遺產成因和發展，並探索其自然科學和人類開發意義，進而評賞台灣遺產的科學性、藝術性和生活性；最後重構人地之間的倫理關係，並呼籲國內外人士共同重視、珍惜、保護和拯救台灣土地上的獨特遺產，以做為一種榮譽或是旅遊金字招牌。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.\t遺產的定義和分類<br>2.\t台灣自然遺產的定義與內容<br>3.\t台灣文化遺產的定義與內容<br>4.\t台灣複合遺產的定義與內容<br>5.\t台灣非物質文化遺產的定義與內容<br>6.\t台灣遺產的價值與保護<br>",
+        "en": "1. Definition and classification of heritage<br>2. Definition and content of Taiwan's natural heritage<br>3. Definition and content of Taiwan's cultural heritage<br>4. Definition and content of Taiwan's mixed cultural and natural heritage composite heritage<br>5. Definition and content of Taiwan's intangible cultural heritage<br>6. The value and protection of Taiwan heritage<br>"
+    },
+    "weeklySchedule": "第一週\t課程介紹與世界遺產的定義、分類和目的\t<br>(1)世界遺產的定義和分類<br>(2)台灣為何沒有世界遺產 <br>本專題符合SDGs目標15 陸域生態：保育及永續利用陸域生態系，確保生物多樣性並防止土地劣化(第15.9項：在西元2020年以前，將生態系統與生物多樣性價值納入國家與地方規劃、發展流程與脫貧策略中。)<br><br>第二週\t世界著名遺產之介紹與台灣遺產之概念的引用與作用\t<br>(1)為何台灣沒有世界遺產？<br>(2)台灣遺產之概念的引用與作用<br><br>第三週\t台灣特殊價值的自然面貌\t<br>(1)特殊的地質與地形結構群<br>(2)特殊的生物結構群<br><br>第四週\t台灣稀有的天然名勝與保護區\t<br>(1)絕妙的天然名勝<br>(2)瀕危的動植物物種生態區<br>※本專題符合SDGs目標15 陸域生態：保育及永續利用陸域生態系，確保生物多樣性並防止土地劣化<br><br>第五週\t台灣特殊價值的文物與建築群 <br>(1)特殊意義與價值的文物與建築群<br>(2)獨特歷史意義的建築群<br><br>第六週\t台灣獨特歷史價值的遺址\t<br>(1)特殊價值的人造工程傑作<br>(2)獨特歷史價值的考古遺址區<br>本專題符合SDGs目標11 永續城鄉：建構具包容、安全、韌性及永續特質的城市與鄉村(第11.4項：在全球的文化與自然遺產的保護上，進一步努力。)<br>第七週\t期中考<br>\t<br>第八週\t 台灣先民人定勝天或天人合一的文化景觀\t<br>(1)先民適應與開發環境的角色 <br>(2)知識與技術演進的文化景觀變遷<br><br>第九週\t非物質文化遺產與文化遺產的關係\t<br>(1)非物質文化遺產和文化遺產的差異<br>(2)非物質文化遺產在時代發展的意義<br><br>第十週\t台灣非物質文化遺產的內容\t<br>(1)非物質文化遺產的範圍<br>(2)特殊意義與價值的非物質文化遺產<br><br>第十一週 台灣遺產的保護與永續發展的關係\t<br>(1)遺產保護的重要性<br>(2)遺產在經濟社會發展的重要性<br>※本專題符合SDGs目標8 就業與經濟成長：促進包容且永續的經濟成長，讓每個人都有一份好工作（第8.9項：在西元2030年以前，制定及實施政策，以促進永續發展的觀光業，創造就業，促進地方文化與產品。)<br><br>第十二週\t期末考\t<br>",
+    "exams": {
+        "midterm": "教室內線上考試",
+        "final": "教室內線上考試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "提高具備自然科學、社會科學及人文藝術的基本知能，並提高科學素養。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "強化對本土環境的認知、以及對環保議題之國際趨勢的理解。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能有組織、有系統且有條不紊地表逹對台灣遺產的觀察結果和論述保護與永續發展的關聯性。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "理解先人創造台灣遺產的歷史經驗，以認知刻苦耐勞、終身學習與工作態度的重要性",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能理解台灣遺產中之自然、文化與歷史的意義，以提高對生活週遭事物意義的領受力。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "解析人類與環境互動的倫理關係，以提高理性思辨各種倫理的建構與抉擇，強化反省、理性思維及批判的能力。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "探究對周遭自然環境之關懷與保護的重要性，促進台灣的永續發展。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.世界遺產全書。朱月華主編。墨刻出版社。2018/10/20。ISBN：9789862894262<br>2.世遺18: 臺灣世界遺產潛力點向前行。文化部文化資產局。文化部文化資產局。2012年。ISBN：978-986-03-2005-3。<br>3.台灣歷史與文化。劉燕儷主編。新文京出版社。2019/08/30。ISBN：9789864305247。第四版。<br>4.台灣的國家公園。魏宏晉著、金炫辰繪。遠足文化出版社。2010/05/10。ISBN：9789866731556。<br>5.台灣的原住民。陳雨嵐著。遠足文化出版社。2004/10/01。ISBN：9867630491。",
+    "teachingSoftware": "powerpoint",
+    "rules": "1.本課程以課堂講授為主，討論為輔，本教學大綱得視教學需要調整之。<br>2.上課勤惰情況（缺曠或遲到）會列為平時成績之考核。<br>3.上課時會採隨機抽問或分組討論的方式來進行問題導向學習。<br>4.請同學尊重智慧財產權，不得非法影印，以免觸犯智慧財產權相關法令。"
+}

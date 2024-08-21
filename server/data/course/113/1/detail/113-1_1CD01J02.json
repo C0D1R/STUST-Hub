@@ -1,0 +1,139 @@
+{
+    "code": "1CD01J02",
+    "name": {
+        "zh": "電腦輔助設計",
+        "en": "Computer Aided Product Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技產設二乙"
+    ],
+    "instructors": [
+        "蔡振良"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "P403"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "P403"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "P403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為3D電腦繪圖的進階課程。內容為更進階更具造型能力的軟體與指令方法的學習。在產品的設計的領域中，以設計與生產作緊密結合的solidworks作為設計的工具，培養同學兼具創新與實務的產品設計能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、solidworks基礎操作與介面 --- 介面與工具列設定<br>2、草繪圖形繪製--- 基本2D繪製<br>3、草繪拘束條件應用 --- 草繪幾何條件<br>4、要草繪尺寸標註 --- 強尺寸與弱尺寸設定<br>5、伸長、旋轉特徵指令應用 --- 基本3D成型<br>6、掃描、層疊拉伸特徵指令應用 --- 進階3D成型<br><br>",
+        "en": "1, Introduce the foundational knowledge and common interfaces.<br>2, 2D Drawings<br>3, Geometry shapes<br>4, Dimensioning<br>5, Basic 3D molding<br>6, Advanced 3D molding<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解電腦輔助設計的基礎操作方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效率執行電腦輔助設計的基礎方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能運用電腦輔助設計實踐基礎設計創作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效達到詮釋設計創作的基礎能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效的協助創意設計的提案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能檢視設計創作的基礎合理性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

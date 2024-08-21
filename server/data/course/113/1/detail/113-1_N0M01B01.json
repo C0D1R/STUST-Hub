@@ -1,0 +1,100 @@
+{
+    "code": "N0M01B01",
+    "name": {
+        "zh": "企業實習",
+        "en": "Business Internship"
+    },
+    "credit": "2",
+    "type": "管制選修",
+    "classes": [
+        "碩全球經管二甲"
+    ],
+    "instructors": [
+        "柯伶玫"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This internship experience provides hands-on learning in managerial fields. Students will be required to integrate knowledge from the courses into the job experience and at the end of the internship students should have a clearer idea as to which career path interests to themselves",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "There are five requirements to complete an internship. These are: the final report, a daily log, an analysis of the company or organization you worked for, a skill-based resume, and a performance evaluation from course supervisor. All internships need prior approval from the Director and engaged in any semester of your studying years before or at the semester of internship course registration. Students must register the course and finish an internship in order to get the credit.",
+        "en": "There are five requirements to complete an internship. These are: the final report, a daily log, an analysis of the company or organization you worked for, a skill-based resume, and a performance evaluation from course supervisor. All internships need prior approval from the Director and engaged in any semester of your studying years before or at the semester of internship course registration. Students must register the course and finish an internship in order to get the credit."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "To develop a job experience",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To understand and appreciate in working in a business.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To analyze and comment of the company or organization.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "To enhance the communication capability in paper or orally.",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,121 @@
+{
+    "code": "C0N2BC01",
+    "name": {
+        "zh": "英文文法與習作",
+        "en": "English Grammar and Practice"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜二技應英三甲",
+        "夜四技應英一甲"
+    ],
+    "instructors": [
+        "黃大夫"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "N310"
+        },
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "N310"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "N310"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "藉由本課程之學習，學生能將所學之文法概念應用於英文文章之閱讀及寫作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.冠詞的使用<br>2.認識詞類<br>3.形容詞子句<br>4.名詞子句<br>5.副詞子句<br>6.附加問句",
+        "en": "1: articles<br>2: parts of speech<br>3: adjective clauses<br>4: noun clauses<br>5: adverb clauses<br>6: tag questions"
+    },
+    "weeklySchedule": "WK1-2: Intro; Understand essential issues of English grammar<br>WK3-4: Understand relevant theories of grammatical knowledge and structure <br>WK5-6: Types of sentences in English<br>WK7-8: Types of clausese in English<br>WK9: Midterm<br>WK10-13: English Verbal strucure  <br>WK12-14: Confusible word pairs in English<br>WK15-17: Academic Collocation List (ACL) &amp; Academic Idioms List (AIL)<br>WK18: Final<br>",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "書面報告",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "Acquire a good understanding of English grammar by reading.",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "Develop the ability to use English grammar accurately",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "Use on-line resources to improve English grammar",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "Knowing how to compose correct English sentences for workplace uses",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

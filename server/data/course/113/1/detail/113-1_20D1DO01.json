@@ -1,0 +1,127 @@
+{
+    "code": "20D1DO01",
+    "name": {
+        "zh": "計算機程式及實習",
+        "en": "Computer Programming and Practice"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技控晶二甲"
+    ],
+    "instructors": [
+        "陳有圳"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "B503"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "B503"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "B503"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以介紹程式語言為主，內容包括：程式語言之基本架構、資料型態與算術運算、輸入與輸出、流程控制、陣列、函式、指標及檔案等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一.程式入門<br>二.資料型態與運算式<br>三.基本輸入與輸出<br>四.流程控制<br>五.陣列與字串<br>六.函式與巨集<br>七.指標<br>八.變數等級",
+        "en": "1.Introduction to Programming<br>2.Data Types and Expressions<br>3.Basic Input and Output<br>4.Flow Control<br>5.Arrays and String<br>6.Functions and Macro<br>7.Pointers<br>8.Variable Classe"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "熟悉計算機程式語言的基本工作原理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習程式語言的基本架構(含資料型態宣告、算術運算、輸入與輸出基本等指令)",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立撰寫程式設計的基礎能力(含程式設計流程、編輯、偵錯與執行等)。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備發展程式解決問題之能力(透過範例程式學習程式設計技巧，利用反覆及迴圈等指令解決之數學或工程實務上問題)。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能閱讀電腦程式專業用之英文資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

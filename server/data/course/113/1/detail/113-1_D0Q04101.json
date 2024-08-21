@@ -1,0 +1,115 @@
+{
+    "code": "D0Q04101",
+    "name": {
+        "zh": "智慧物流專題",
+        "en": "Intelligent Logistics"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專行流二甲"
+    ],
+    "instructors": [
+        "鍾明志"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第5節",
+            "location": "T0213"
+        },
+        {
+            "day": "週六",
+            "period": "第6節",
+            "location": "T0213"
+        },
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "T0213"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "智慧物流主要是利用智慧化技術，使物流系統能夠有類似人的智慧一般，具有思維、感知、學習、推理判斷和自行解決物流問題的能力，從而實現物流資源化排程和有效配置，並且提升物流系統效率的新管理模式。因此，本課程會帶領學生認識(1)智慧物流的基本概念；(2)智慧物流所包含的技術；(3)智慧物流可能的作法與模式；(4)智慧物流的案例。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "智慧物流的概念<br>智慧物流的成功因素<br>智慧物流的技術面(物聯網、大數據、雲端運算)<br>智慧物流的作業面(可能的模式與現階段作法)<br>智慧物流的環境面<br>智慧物流的管理面<br>智慧物流的案例",
+        "en": "1. Concept of Intelligent Logistics<br>2. Success factors of Intelligent Logistics<br>3. Technologies of Intelligent Logistics<br>4. Operation of Intelligent Logistics<br>5. Environment of Intelligent Logistics<br>6. Management of Intelligent Logistics<br>7. Case Studies of Intelligent Logistics"
+    },
+    "weeklySchedule": "syllabus description, overview   (all students involved)<br>introduction to IoT 1                                                 <br>introduction to IoT 2                      <br>logistics and transportation automation 1   <br>logistics and transportation automation 2                         <br>logistics and transportation automation 3<br>commerce innovation 1       <br>commerce innovation 2          <br> Midterm exam                                   (all involved)<br>commerce innovation 3<br>commerce innovation 4<br>commerce innovation 5<br>commerce innovation 6<br>cases of big data application 1                      <br>cases of big data application 2      <br>cases of big data application 3  <br>cloud application and services      <br> Term paper presentation    (all involved)",
+    "exams": {
+        "midterm": "書面報告",
+        "final": "書面報告",
+        "other": "(暫定第五週)作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識智慧物流的基本觀念",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "認識智慧物流的技術面、作業面、環境面與管理面",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "認識智慧物流推動的策略、規劃與方法",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "探討智慧物流推動的案例與成功因素",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "物聯網",
+        "author": "林文恭",
+        "publisher": "碁峰資訊",
+        "year": "2020",
+        "ISBN": "978-986-5026301",
+        "edition": "1"
+    },
+    "referenceBooks": "Su, S.-I. I. (2021), Logistics Management, Taipei City: Hwa Tai Co., 978-986-9941730, 5th ed. <br>Su, S.-I. I. trans. (2007), The Management of Business Logistics, Taipei City: Hwa Tai Co.<br><br>Journal: Transportation Research Part E",
+    "teachingSoftware": "none",
+    "rules": "1.Counseling: Students can contact me using the following ways if you have questions:<br>(1) Email me at any time at z0y@stust.edu.tw after class<br>(2) Meet me by making an appointment (without Mondays) <br>2.The reviewal of lessons is a must. <br>3.The syllabus is tentative and may be changed according to the interest of the class. <br>4.Please respect the intellectual property of others. Materials available may be protected by copyright and the intellectual property laws of Taiwan."
+}

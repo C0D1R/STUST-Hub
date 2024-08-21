@@ -1,0 +1,116 @@
+{
+    "code": "65D00W01",
+    "name": {
+        "zh": "計算機與程式設計概論",
+        "en": "Computers and Programming"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國商一甲"
+    ],
+    "instructors": [
+        "黃惠苓"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "S402"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "S402"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "S402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.英語",
+        "◎全程外語教學"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Being the most-up-to-date technology in an ever-changing discipline, this course emphasizes an in-depth understanding of why computers are essential in business and society. Students will have a solid understanding of computers and how to use computers. Specifically, students will be taught to understand the fundamentals of and terms associated with computers and mobile devices, the Internet, and digital security.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 數位素養<br>2. 網際網路<br>3. 電腦與行動裝置<br>4. 電腦與行動應用程式<br>5. 數位資安<br>6. 電腦與行動裝置內部",
+        "en": "1. Digital Literacy<br>2. The Internet<br>3. Computers and Mobile Devices<br>4. Programs and Apps<br>5. Digital Safety and Security<br>6. Inside computers and Mobile Devices<br>"
+    },
+    "weeklySchedule": "Week 1-2  Getting Started with Microsoft Word<br>Week 3-4  Creating and Editing a Document<br>Week 5-6  Navigating and Formatting a Document<br>Week 7-8  Creating Tables and a Multipage Report<br>Week 9    Midterm Exam<br>Week 10-11 Enhancing Page Layout and Design<br>Week 12-13 Creating a Presentation<br>Week 14-15 Formatting PowerPoint Presentations<br>Week 16-17 Enhancing a Presentation with Animation and Video<br>Week 18 Final Exam<br>",
+    "exams": {
+        "midterm": "Practice Exercise",
+        "final": "Practice Exercise",
+        "other": "Practice Exercise"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解電腦系統、網路的基本學理",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用國際商務軟體處理實務資料",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能製作簡報資料並呈現",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能具備實務操作之能力，並擁有國際商務證照之考照能力。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

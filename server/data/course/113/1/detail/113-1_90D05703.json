@@ -1,0 +1,128 @@
+{
+    "code": "90D05703",
+    "name": {
+        "zh": "網頁程式設計",
+        "en": "Web Page Programming"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資管三丙"
+    ],
+    "instructors": [
+        "王派洲"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "E0401"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "E0401"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "E0401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.TQC ASP.net 認證",
+        ""
+    ],
+    "description": "從基礎的網頁基本概念與HTML網頁設計基礎的介紹，進而到Web伺服器控制項與進階Web伺服器控制項的應用，以及ASP.NET資料庫處理和資料連結Web伺服器的使用，使學生能靈活的來設計出實用的網站。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 網頁基本概念與HTML網頁設計基礎<br>2. Web伺服器控制項<br>3. 進階Web伺服器控制項<br>4. ASP.NET資料庫處理<br>5. 資料連結Web伺服器<br>6. 其他的Web控制項",
+        "en": "1. Basic concepts of webpage design <br>2. Basic WebControls of ASP.NET<br>3. Advanced WebControls of ASP.NET<br>4. Database processing of ASP.NET<br>5. Database WebControls of ASP.NET<br>6. Other WebControls of ASP.NET<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解網頁程式語言與設計。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能建立應用軟體開發的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能熟練地將資管專業知識的理論基礎與網頁程式設計實務相互結合。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解職場業務所需的網頁程式軟體。。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能嘗試獨立思考及提出問題解決方案。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

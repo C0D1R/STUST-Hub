@@ -1,0 +1,116 @@
+{
+    "code": "G0M04O01",
+    "name": {
+        "zh": "機器學習",
+        "en": "Machine Learning"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研資工一甲",
+        "碩資工產業一甲"
+    ],
+    "instructors": [
+        "鄭淑真"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "C202"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "C202"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "C202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為主要是介紹有關的資料分析與機器學原理，主要內容包括分類、支援向量機（Support Vector Machine）、深度學習…等，並透過Python、Pandas、SciKit-Learn、Keras及TensorFlow等實作機器學習應用，協助學生瞭解機器學習。",
+    "prerequisites": "程式語言、基礎計算機數學",
+    "syllabus": {
+        "zh": "1.機器學習簡介<br>2.機器學習流程<br>3.分類<br>4.模型訓練<br>5.支援向量機<br>6. Keras簡介與應用<br>7. TensorFlow簡介與應用<br>",
+        "en": "1. Introduction of machine learning<br>2. Machine learning process<br>3. Clustering<br>4. Model training<br>5. Support vector machine<br>6. Introduction and application of Keras<br>7. Introduction and application of TensorFlow<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立開發機器學習系統之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建構機器學習基礎資訊與應用能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練資料處理與資料加值能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養機器學習應用規劃能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

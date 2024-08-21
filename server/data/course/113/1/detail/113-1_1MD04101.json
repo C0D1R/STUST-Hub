@@ -1,0 +1,115 @@
+{
+    "code": "1MD04101",
+    "name": {
+        "zh": "城市博物館的探索(A)",
+        "en": "The Exploration of City Heritage"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "社會科學領域"
+    ],
+    "instructors": [
+        "連子儀"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0311"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "T0311"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "T0311"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "台南做為台灣的文化古都，有著豐富的人文、歷史遺產，整個城市彷彿是座生活博物館。無論是城市中的博物館、古蹟、歷史建築，或精采的飲食文化、民俗慶典與百年老店，在地有形、無形的文化遺產，皆與文化觀光的發展密切相連，亦是城市文化魅力所在。<br>本課程擬帶領同學，透過對記憶的機構，以及有形、無形的文化遺產在定義、類型和理論層面上有初步的理解，再透過實際的資料蒐集與踏查，探索府城的文化魅力，並進一步的認識台南地區豐富的人文資產。同時，亦反思當前文化保存對負面遺產的關懷，以及民主化下，常民與多元文化保存的挑戰，還有文化觀光於當前發展下的隱憂。<br>期待透過理論實務兼具的課程設計，帶領學子能夠以更廣，更深刻、省思的眼光看待文化觀光與城市的發展，從而埋下遺產保存永續發展的種子，讓府城美好的文化，能夠代代延續，而不被淺薄與消費式的觀光發展消耗殆盡。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 文化觀光的簡介、定義。<br>2. 記憶的機構：博物館的起源、類型與歷史。<br>3. 有形與無形文化遺產的簡介、定義。<br>4. 文化與社會：如何促進社區與民眾近用文化遺產。<br>5. 文化與科技：如何應用科技與網際網路與觀眾互動。<br>6. 文化與產業：文化產業化下，記憶與文化遺產的保存。<br>7. 時代變遷下，文化遺產保存與當代博物館面臨的挑戰、調整與回應。<br>",
+        "en": "1. The Introduction and Definition of Cultural Tourism<br>2. Memory Institutions: The Origin, Type, and History of Museums<br>3. The Introduction and Definition of Tangible and Intangible Cultural Heritage.<br>4. Culture and Society: How to Promote Communities and Citizens to Approach Cultural Heritages  <br>5. Culture and Technology: How to Integrate Emerging Technologies and the Internet to Interact with the Audience<br>6. Culture and Industry: To Preserve Memory and Cultural Heritage with Cultural Industries<br>7. The Challenge, Adjustment, and Response of Cultural Heritage Preservation and Contemporary Museums with the times<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立人文藝術的基本知能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使用其學習或研究，提出創新思維。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用自己對本土及國際文化的理解。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "組織合宜語文來表達。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

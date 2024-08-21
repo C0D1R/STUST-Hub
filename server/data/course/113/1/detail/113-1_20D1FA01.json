@@ -1,0 +1,127 @@
+{
+    "code": "20D1FA01",
+    "name": {
+        "zh": "基礎電子學實習(一)",
+        "en": "Basic Electronics Laboratory (I)"
+    },
+    "credit": "1",
+    "type": "必修",
+    "classes": [
+        "五專電機二甲"
+    ],
+    "instructors": [
+        "吳坤憲"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "B002"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "B002"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "B002"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "熟悉二極體、雙極接面電晶體等半導體元件之電路工作特性，並經由實際的操作與量測以驗證各元件的特性。同時也會操作幾種基本的應用電路，如二極體整流電路、雙極電晶體、共射極放大器、共集極放大器、共基極放大器等等。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、電子儀表介紹<br>2、被動元件之特性曲線測試<br>3、二極體之特性曲線測試<br>4、整流、濾波電路及穩壓電路<br>5、截波電路與箝位電路<br>6、雙極接面電晶體(BJT)特性曲線之測試<br>7、雙極接面電晶體(BJT)放大器偏壓電路之測試<br>8、雙極接面電晶體(BJT)之共射極、共集極及共基極放大器電路<br>9、串級放大器電路",
+        "en": "1.Introduction of Electronic Instruments<br>2.Testing of Passive Component Charateristics<br>3.Testing of Diode Charateristics<br>4. Rectifier, Filter and Regulator Circuits<br>5. Clipper and Clamper Circuits<br>6. Testing of Bipolar Junction Transistor(BJT) Ic-Vbe Charateristics<br>7. Testing of BJT Amplifier Bias Circuit<br>8. Common-Emitter, Common-Collector and Common-Base Amplifier of BJT<br>9. Multistage Transistor Amplifier"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學會操作電源供應器、訊號產生器及示波器等三種儀器的基本功能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會量測二極體的I-V特性曲線",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解整流與濾波電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "會量測電晶體(BJT)的I-V特性曲線",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解電晶體(BJT)的偏壓及放大電路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

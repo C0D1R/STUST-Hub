@@ -1,0 +1,115 @@
+{
+    "code": "M0N00501",
+    "name": {
+        "zh": "旅館管理",
+        "en": "Hotel Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技餐旅二甲"
+    ],
+    "instructors": [
+        "余梅香"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "T0307"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "T0307"
+        },
+        {
+            "day": "週一",
+            "period": "第11節",
+            "location": "T0307"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "旅館經營是一專業性極高、亦是極為重要的觀光產業。本課程以管理者的角度，提供學生旅館經營管理的專業知識，從硬體設備的管理到軟體的服務提供，使學生熟悉旅館業運作管理技巧與團隊合作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "(1) Hotel Development<br>(2) Hotel Management<br>(3) Hotel Operations -- Front Office operations<br>(4) Hotel Operations -- Managing Housekeeping Operations<br>(5) Hotel Accounting and Controls<br>(6) The Future of the Industry<br>",
+        "en": "(1) Hotel Development<br>(2) Hotel Management<br>(3) Hotel Operations -- Front Office operations<br>(4) Hotel Operations -- Managing Housekeeping Operations<br>(5) Hotel Accounting and Controls<br>(6) The Future of the Industry<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備旅館經營管理的專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習旅館硬體設備的管理與軟體的服務提供技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養團隊合作的精神",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "協調旅館組織內不同部門之分工",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

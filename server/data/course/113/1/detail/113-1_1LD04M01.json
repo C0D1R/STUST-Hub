@@ -1,0 +1,163 @@
+{
+    "code": "1LD04M01",
+    "name": {
+        "zh": "視覺藝術",
+        "en": "Visual Art"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "鍾淑惠"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "N203"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "N203"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "N203"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "大多數的人透過觀看接收訊息；同時，藝術不是孤立存在，而是對觀眾的一種反應，因此本課程擬從視覺藝術著手，範圍涵括視覺藝術下的各類別，內容則包括各類藝術的說明，並擴及藝術與社會的關係。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.觀看之道<br>2.繪畫：真實與虛構<br>3.雕塑：具象與抽象<br>4.跳脫傳統的觀念藝術：複合、多媒材的觀念傳達<br>5.靈光乍現的攝影藝術：紀實攝影、攝影與城市閱讀、攝影中的文化展現<br>6.如真似幻的電影藝術：電影的基本語言、電影的觀看與討論<br>",
+        "en": "1. Ways of seeing<br>2. Painting: real and fiction<br>3. Sculpture: figurative and abstract<br>4. Conceptual Art: complex and multiple media<br>5. Photography: photo documentary, photo and city reading, the culture expression<br>6. Movie: cinematography, see and discuss<br><br>"
+    },
+    "weeklySchedule": "一 導論 <br>二 走向現代的印象派<br>三 走向現代的印象派<br>四 東西交會-印象派與浮世繪<br>五 雕塑的古典與現代I<br>六 雕塑的古典與現代II<br>七 複合多元的觀念藝術<br>八 紀實攝影<br>九 期中評量<br>十 電影的基本語言<br>十一 報告<br>十二 報告<br>十三 電影：經典的欣賞與討論<br>十四 電影：經典的欣賞與討論<br>十五 電影：現代作品的欣賞與討論<br>十六 電影：現代作品的欣賞與討論<br>十七 1/1 放假<br>十八 期末評量<br>本教學大綱得視教學需要調整之<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能賞析藝術作品，培養藝術眼光與美感。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "對不同時空文化的藝術家作品有評鑑能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "形塑民主素養，尊重不同族群、接納多元文化，包容不同意識型態。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有條不紊的說明對藝術作品的看法與見解。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能透過小組討論方式，以創新思維解決問題。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.大衛‧鮑伊爾著，蘇琦譯，《印象派藝術》(香港：三聯，2002)。<br>2.姚瑞中著，《台灣裝置藝術》(台北：木馬文化，2004)。<br>3.陳炎鋒著，《日本浮世繪簡史》(台北：藝術家，2010)。<br>4.鄭治桂著，《慕夏大展─新藝術‧烏托邦》(台北：雙瑩文創，2011)。<br>5.Battcock, Gregory編，連德誠譯，《觀念藝術》(台北：遠流，1992)。<br>6.Berger, John著，戴行鉞譯，《藝術觀賞之道》(台北：台灣商務，1993)。<br>7.Gombrich, E. H.著，雨芸譯，《藝術的故事》(台北：聯經，1991)。<br>8.Hauffe, Thomas著，陳品秀譯，《設計小史》(台北：臉譜，2010)。<br>9.Rothstein, Arthur著，李文吉譯，《紀實攝影》(台北：遠流，2004)。<br>10.Vineyard, Jeremy 著，張銘、馬森、孫傳林譯，《電影鏡頭入門》(北京：世界圖書，2011)。<br>11.Bade, Patrick,”Mucha 1860-1939”,Ingram Pub Services, 2011<br>",
+    "teachingSoftware": "",
+    "rules": "1.學期成績：<br>期中評量、期末評量、平時成績包括期中報告、課堂討論、課堂參與、出席狀況及作業<br>2.個人期中報告：請就繪畫、雕塑、電影、攝影等領域，選擇一個藝術家創作的藝術作品，說明作品及選擇的原因。<br>1)第7週上傳創作者與作品名稱；第9週上傳作品圖檔<br>2)第11、12週上台口頭報告，約5分鐘<br>3)書面報告：第13週繳交，一頁A4紙，（千字左右）直拿橫寫，圖置上、文置下，逾時不收<br><br>注意事項<br>1.本教學大綱得視教學需要調整之。<br>2.課堂學習行為的規範。<br>1)採固定座位，請依座位表入座<br>2)請勿使用手機<br>3)請準時上課<br>4)請參與討論<br>5)教室內請勿飲食<br>6)但凡課堂繳交，一律逾時不收"
+}

@@ -1,0 +1,115 @@
+{
+    "code": "J0D34S01",
+    "name": {
+        "zh": "劇本與影像敘事發想",
+        "en": "script and narrative introduction"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技動畫二甲"
+    ],
+    "instructors": [
+        "劉千凡"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "W0602"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "W0602"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "W0602"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在培養同學構思故事、說故事的能力，透過方法來進行。<br><br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "劇本的認識<br>劇本的形式<br>劇本的結構<br>劇本的發想<br>劇本的構思方式<br>",
+        "en": "Script recognition <br>Form of the script <br>Structure of the script <br>Script's thoughts <br>The way the script is conceived<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "劇本的認識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "劇本的結構",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "劇本的發想",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "劇本的構思方式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

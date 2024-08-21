@@ -1,0 +1,115 @@
+{
+    "code": "C0D5ED01",
+    "name": {
+        "zh": "創新與產品企劃管理",
+        "en": "Innovation and Product Planning Management"
+    },
+    "credit": "3",
+    "type": "管制選修",
+    "classes": [
+        "四技應英四甲"
+    ],
+    "instructors": [
+        "楊晴絨"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "N202"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "N202"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "N202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程提供學員習得產品企劃的策略思考、內容創新、文案寫作技巧等知能，藉由國際文教產業分析、國際文教(經營)實務研討，培育學員理論與實務兼用的能力，並透過講師經驗分享，如境外生招募、長短期華語研修課程設計、國外學生寄宿家庭體驗安排、問題導向式學習活動策畫、SDGs相關課程設計等，跳脫理論以達到百分百的實務與活用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "商品企劃與提案、產品創新與行銷、產品文案之撰寫技巧、破壞式創新、國際教育之創新與推廣、國際教育產品規劃與實例、設計思考與創意",
+        "en": "Product Planning and Proposals, Product Innovation and Marketing, Product Copywriting Skills, Disruptive Innovation, International Education Innovation and Promotion, International education product planning and examples, Design thinking and creativity"
+    },
+    "weeklySchedule": "第一週\t課程介紹、創新與產品企劃管理概述<br>第二週\t創新與產品企劃管理流程<br>第三週\t創新工具與方法論<br>第四週\t創新策略與規劃<br>第五週\t消費者洞察與需求分析<br>第六週\t產品定位與價值主張<br>第七週\t產品設計與開發<br>第八週\t產品測試與驗證<br>第九週\t產品上市與推廣<br>第十週\t產品經營與成長策略<br>第十一週\t產品創新與競爭策略<br>第十二週\t產品企劃書撰寫技巧<br>第十三週\t產品企劃書範例解析<br>第十四週\t產品企劃書實作<br>第十五週\t產品企劃書實作<br>第十六週\t產品企劃書評估與修改<br>第十七週\t產品企劃書演示<br>第十八週\t課程總結與回顧",
+    "exams": {
+        "midterm": "reflection journal",
+        "final": "reflection journals",
+        "other": "N/A"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養學員系統化商品的企劃能力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "結合原先具備的國際文教知識，提升跨文化交流能力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備產品企劃的策略思考、內容創新、文案寫作技巧等知能",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培育學員理論與實務兼用的能力",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "N/A",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,132 @@
+{
+    "code": "J0D31N01",
+    "name": {
+        "zh": "概念傳達設計",
+        "en": "Conceptual Communication Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技商設二甲"
+    ],
+    "instructors": [
+        "黃綝怡"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "W0509"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "W0509"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "W0509"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "培養設計實作的能力，理解並培養美感，透過各種不同的創意方法、技巧訓練及媒材表現，設計、製作出具有傳達概念與意含之視覺媒體作品。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "以概念引導與設計思考為教學目標，期望提升學生概念發想的可能。<br>1、課程簡介、設計運用領域與美感鑑賞<br>2、桌遊設計<br>3、聽覺─音樂海報<br>4、味覺─食品包裝<br>5、觸覺─產品DM<br>6、作品集整理<br>",
+        "en": "Taking concept guidance and design thinking as the teaching goals. Hope to improve the students concept thinking.<br>1. Course introduction, design application field and aesthetic appreciation<br>2. Board game design<br>3. Sense of hearing - music poster<br>4. Sense of taste - food packaging<br>5. Sense of touch - product DM<br>6, Portfolio of works<br>"
+    },
+    "weeklySchedule": "1.學期課程說明、從遊戲中萃取意涵(本周需選出小老師)<br>2.遊戲概念討論、遊戲的元件(本周需繳交分組名單及遊戲概念「主題」)<br>3.遊戲設計概念企劃書編撰(本周須完成目標市場定位)<br>4.發展遊戲說明手冊(本周須完成遊戲規則)<br>5.遊戲主商品製作與設計(本周須完成遊戲主商品之設計圖)<br>6.遊戲周邊產品設計(本周須完成遊戲周邊產品之設計圖)<br>7.遊戲宣傳文宣設計(本周須完成遊戲文宣之設計圖)<br>8.作品發表(本周須完成設計概念企劃書、ppt)<br>9.期中考周<br>10.作品發表(本周須完成設計概念企劃書、ppt)<br>11.共感覺的應用─2.音樂海報設計(一)<br>12.共感覺的應用─音樂海報設計(二) (本周須完成海報設計)<br>13.共感覺的應用─3.味覺包裝設計(一)<br>14.共感覺的應用─味覺包裝設計(二) (本周須完成包裝設計)<br>15.共感覺的應用─4.觸覺DM設計(一)<br>16.共感覺的應用─觸覺DM設計(二) (本周須完成DM設計)<br>17.遊戲設計展演評分(本周須完成遊戲團體作業之所有成品，並展演評分)<br>18.(本周需繳交本學期之簡要作品集─focus on photos)<br>",
+    "exams": {
+        "midterm": "期中提報",
+        "final": "期末展演、作品集",
+        "other": "課堂出席、互動回饋"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解設計概念的重要性。",
+            "teachingMethods": [
+                "課堂講授",
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能運用適當的設計符碼來傳達設計概念。",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能做有效的設計概念發想。",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能感受出好的設計作品所要傳達的概念。",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能學會如何參與設計概念溝通活動。",
+            "teachingMethods": [
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自編教材",
+    "teachingSoftware": "無",
+    "rules": "1.請準時到課，不遲到、不早退，有良好的學習態度，必能有好的學習成效。<br>2.不可以遲交作業！！！除非有特別的原因！~~(請記得設計是有時效性的產業)"
+}

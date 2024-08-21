@@ -1,0 +1,147 @@
+{
+    "code": "23N01101",
+    "name": {
+        "zh": "數位邏輯設計",
+        "en": "Digital Logic Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜四技電機四甲"
+    ],
+    "instructors": [
+        "劉銘唐"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "I0309"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "I0309"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "I0309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "1.導論2.數字系統3.邏輯闸與布林代數4.組合邏輯5.正反器6.計數器與暫存器7.序向邏輯8.應用實務",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、導論<br>二、數字系統<br>三、邏輯闸與布林代數<br>四、組合邏輯。<br>五、正反器<br>六、計數器與暫存器<br>七、序向邏輯<br>八、應用實務",
+        "en": "1.\tIntroduction to digital system<br>2.\tNumber systems and codes<br>3.\tBoolean algebra and logic gates<br>4.\tGate level minimization <br>5.\tCombinational logic circuits<br>6.\tRegisters and counter<br>7.\tSynchronous sequential logic<br>8.\tApplications"
+    },
+    "weeklySchedule": "1.數字系統(第1週)<br>2.基本邏輯閘與布林代數(第2~4週)<br>3.邏輯電路的化簡技術(第5~6週)<br>4.組合邏輯應用電路(第7~8週)<br>5.期中考(第9週)<br>6.組合邏輯功能(第10~11週)<br>7.循序邏輯設計(第12~14週)<br>8.同步非同步計數器電路設計(第15~17週)<br>9.期末考(第18週)",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "1.了解並學會數字系統各進制的轉換。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "2.了解邏輯閘與布林函數的特性。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "3.學會應用化簡技術設計組合邏輯電路。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "4.學會組合邏輯相關的應用邏輯電設",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "5.了解正反器的特性。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "6.使用正反器設計循序計數器電路",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

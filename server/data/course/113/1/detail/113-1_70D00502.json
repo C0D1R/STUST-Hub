@@ -1,0 +1,127 @@
+{
+    "code": "70D00502",
+    "name": {
+        "zh": "生產與作業管理",
+        "en": "Production and Operations Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技企管三乙"
+    ],
+    "instructors": [
+        "丁志宏"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "S510"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "S510"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "S510"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "生管與作業管理的意義在有效運用管理功能及有限資源，處理一切與生產過程有關的決策，以期在最短時間內以最低成本提供適時、適量、適質的產品或服務，來滿足顧客的需求。本課程主要介紹上述生管意義中之基本觀念、面臨的問題及解決方法，以期學生能整合其他企業功能。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 作業管理簡介<br>2. 作業策略<br>3. 產品與服務設計<br>4. 品質管理<br>5. 動作研究<br>6. 總合規劃與主生產排程<br>7. 存貨管理<br>8. MRP<br>9. 精實生產",
+        "en": "1. Introduction to operations management.<br>2. Operations strategy.<br>3. Product and service design.<br>4. Management of quality.<br>5. Motion study.<br>6. Aggregate planning and master scheduling.<br>7. Inventory management.<br>8. Material requirements Planning.<br>9. Lean production."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解企業經營基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習作業管理專業知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養團隊合作能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養如何應用理論於實務上之能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養解決問題能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,105 @@
+{
+    "code": "G0D16F01",
+    "name": {
+        "zh": "基礎數學演練(一)",
+        "en": "Fundamental mathematics practice (I)"
+    },
+    "credit": "1",
+    "type": "系定選修",
+    "classes": [
+        "五專資工一甲"
+    ],
+    "instructors": [
+        "李育強"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "D201"
+        }
+    ],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將著重在實際演練數的基本知識、坐標平面與方程式的圖形、直線、函數。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.數的基本知識<br>2.坐標平面與方程式的圖形<br>3.直線<br>4.函數<br>",
+        "en": "1.Fundamental knowledge of numbers <br>2.Coordinate plane and graph of equation<br>3.Line in the plane<br>4.Function<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "讓學生能實際觀察課程的基本觀念。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓學生練習相關的運算及過程解題並運用資訊科技來輔助計算。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "讓學生能實際應用到專業領域，使學生具備分析及處理實際問題之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過同儕學習演練、作業觀摩及相互評量，提升表達科學報告能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,111 @@
+{
+    "code": "08D03X01",
+    "name": {
+        "zh": "CSEPT測驗準備",
+        "en": "CSEPT preparation"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "外國語文"
+    ],
+    "instructors": [
+        "蔡逸佛"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "I0209"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "I0209"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.CSEPT大學校院英語能力測驗",
+        ""
+    ],
+    "description": "藉由準備考試，學習英語詞彙、句法和連貫性等文法慨念，以及利用上下文線索推測英語字義或句意的能力。讓學生練習理解日常生活常見英文資訊（如圖表、廣告、告示和短文等）之主旨和細節，並整合應用相關訊息作推論和解讀的能力。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "幫助學生理解日常生活及校園情境常見之英語對話及言談之主旨和細節，並根據語境特徵進行推論以及解讀說話者言外之意的能力。測驗考生理解英文短文、書信、告示或廣告之主旨和細節，以及整合應用文章資訊作推論和解讀作者立場的能力。",
+        "en": "1.Students will be able to comprehend English conversations on day-to-day topics.<br>2.Students will have the ability to use simple English sentences to describe common objects and events, converse with others, and engage in group discussions.<br>3.Students will demonstrate competence in reading short English essays, personal letters, advertisements, and the like.<br>4.Students will acquire skills to write short English essays and personal letters.<br>5.Students will develop critical thinking skills in order to prepare for and deliver professional oral presentations in English by summarizing key information in list format.<br>"
+    },
+    "weeklySchedule": "本測驗旨在評量考生於一般日常生活及校園情境中使用英語聽讀能力。<br>測驗依難易程度分為兩級：<br>第一級適合具基礎至中等英語程度的考生；<br>第二級適合中等至進階英語程度的考生。<br>1課程介紹  csept 測驗<br>2第一回聽力測驗 解說 <br>3第一回閱讀 綜合測驗 測驗 解說<br>4第二回聽力解說 <br>5第二回閱讀綜合測驗 測驗 解說 <br>6 聽力+閱讀測驗  課外補充 <br>7 第三回 聽力測驗 解說<br>8第三回 閱讀 綜合測驗 測驗 解說<br>9 期中考試<br>10 考試題目解說<br>11第四回聽力 測驗 解說<br>12 第四回閱讀 綜合測驗 解說<br>13 第五回 聽力 測驗 解說<br>14 第五回 閱讀 綜合測驗  解說<br>15 課外補充閱讀  單字<br>16 level 2 第一回聽力<br>17 level 2 第一回閱讀 <br>18 期末考試",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "平時成績+課堂作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備工作場域所需的中文、人文藝術、社會科學及自然科學等基本能力，能將上述能力與實務結合、應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備中文、人文藝術、社會科學及自然科學的基本知能，並強化科學素養",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用多元外語於各科學習，展現自己對國際、文化的理解，並能適切因應地球村及國際化趨勢。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "有組織、有條理的表達與溝通，能表現出應對進退的適當禮節，專注聆聽交談對象的說話內容，並給予積極回應之能力。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "CSEPT 全真模考應是錦囊 2",
+        "author": "Crane Publishing",
+        "publisher": "Crane Publsihing",
+        "year": "",
+        "ISBN": "9789861475974",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "ONLINE test",
+    "rules": ""
+}

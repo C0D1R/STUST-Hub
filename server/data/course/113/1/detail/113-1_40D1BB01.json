@@ -1,0 +1,113 @@
+{
+    "code": "40D1BB01",
+    "name": {
+        "zh": "自主學習(二)",
+        "en": "Independent Study II"
+    },
+    "credit": "1",
+    "type": "管制選修",
+    "classes": [
+        "四技化材一甲",
+        "四技化材一乙",
+        "四化材國專一甲"
+    ],
+    "instructors": [
+        "賴孝武"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "1",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "這門課程是以單學分作為其基本架構，主要目的是激勵學生發揮他們的自學能力，並進一步鞏固他們在學習過程中的主導地位。在每個學期的開始，學生將有機會自訂他們的學習內容，並與授課老師進行深入的對話，共同確定最終的學習目標和評核標準。<br>這種方式允許學生根據自身的需求和興趣來規劃他們的學習路徑，並讓老師有機會指導他們如何設定合理且實現的學習目標。在學期進行中，如果學生覺得需要更改或調整他們的學習計畫，他們可以與授課老師進行討論，共同找到最適合的解決方案。這種方式不僅強化了學生的主導地位，也鼓勵他們學習主動解決問題的能力。<br>到了學期末，即便是在這樣的自主學習環境中，教師仍然擁有評定學生成績的權利。他們會根據學生在學期中的學習成果，包括他們是否成功達到了自訂的學習目標，以及他們在學習過程中的參與度和努力程度，來給予最後的評定。在這種模式下，學生不僅能提升自我學習的能力，也能學習到如何主動管理和掌控自己的學習進程。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "一、\t學生將清晰地列出他們的學習目標。<br>二、\t學生將詳細解釋他們選擇特定學習目標的原因。<br>三、\t教師與學生將合力進行學習計畫的討論，以確保計畫的可行性並符合學生的需求。<br>四、\t學生將根據訂定的計畫進行自主學習，以達成他們的學習目標。<br>五、\t學期末，教師與學生將再次坐下來共同討論和評估學生的學習成果，這將幫助學生了解他們的進步情況以及可能需要改進的地方。<br>六、\t教師最終將根據學生的學習表現和達成的學習目標來完成學生成績的評定。<br>",
+        "en": "1.\tStudents will clearly list their learning objectives.<br>2.\tStudents will elaborate on the reasons for choosing specific learning targets.<br>3.\tThe teacher and the students will collaboratively discuss the learning plan, ensuring its feasibility and alignment with the students' needs.<br>4.\tStudents will then proceed with self-directed learning in accordance with the set plan to achieve their learning goals.<br>5.\tAt the end of the semester, the teacher and students will sit down together again to discuss and evaluate the students' learning outcomes. This will help students understand their progress and areas that may need improvement.<br>6.\tThe teacher will finally determine the students' grades based on their learning performance and the achievement of learning objectives.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "訓練選擇合適之方式解決問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練論文搜尋、研讀與分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練問題發掘與分類規劃",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練選取並進行學習標的",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練如何製作研究成果簡報",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

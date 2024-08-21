@@ -1,0 +1,123 @@
+{
+    "code": "03D00501",
+    "name": {
+        "zh": "教育概論",
+        "en": "Introduction of education"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "教育學程－中",
+        "教育學程－小"
+    ],
+    "instructors": [
+        "王揚智"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "N204"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "N204"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本科目為所有教育學分中最基本課程,介紹教育領域中的各個主題, 以期學生能對教育學程中各科知識及其關係有最基本的認識。<br><br>【專業素養指標】<br>1 了解教育發展的理念與實務<br>■1-1 了解有關教育目的和價值的主要理論或思想，以建構自身的教育理念與信念。<br>■1-2 敏銳覺察社會環境對學生學習影響，以利教育機會均等。<br>■1-3 了解我國教育政策、法規及學校實務，以作為教育實踐基礎。<br>2 了解並尊重學習者的發展與學習需求<br>■2-2 了解並運用學習原理，以符合學生個別學習需求與發展。<br>3 規劃適切的課程、教學及多元評量<br>■3-4 掌握社會變遷趨勢與議題，以融入課程與教學。<br>4 建立正向學習環境並適性輔導<br>■4-2 應用輔導原理與技巧進行學生輔導，以促進適性發展。<br>5 認同並實踐教師專業倫理<br>■5-1 思辨與認同教師專業倫理，以維護學生福祉。<br><br>【課程核心內容】<br>1了解教育發展的理念與實務<br>■(1)教育本質、教育目的與內容<br>■(2)主要教育理論與思想<br>■(5)學校與教育行政制度的理念、實務與改革<br>■(6)我國主要教育政策、法規及實務<br>3規劃適切的課程、教學及多元評量<br>■(2)重要議題融入課程、教學與評量<br>■(3)我國課程、教學與評量的重要政策<br>5認同並實踐教師專業倫理<br>■(2)教師專業角色及其權利與義務<br>■(5)教師自我反思、溝通互動與解決問題<br><br>【融入議題】<br>■性別平等教育*<br>■環境教育*<br>■法治教育<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.教育的基本理念<br>2.教育的歷史發展<br>3.教育的理論基礎<br>4.教育的對象--學生<br>5.教育的施教者--教師<br>6.教育的實施場所--學校<br>7.教育的內容--課程<br>8.教育的方法--教學與評量<br>9.教育的方法--訓育與輔導<br>10.教育的行政組織<br>11.學校教育的制度<br>12.教育資源的運用<br>13.教育的研究方法<br>14.教育的未來發展<br>",
+        "en": "1. The basic philosophy of education<br>2. The historical development of education<br>3. Theoretical foundations of education<br>4. The object of education - the student<br>5. The educator of education - the teacher<br>6. The place where education is carried out - the school<br>7. The content of the education – the curriculum<br>8. Methods of Education - Teaching and Assessment<br>9. Methods of education - discipline and counseling<br>10. Administrative organization of education<br>11. The system of school education<br>12. Use of educational resources<br>13. Research Methods in Education<br>14. The future development of education<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解教育的基本理念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能了解教育理論的基礎",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能評析教育制度與行政",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備有關學生、教師、學校及課程的相關知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能建立正確的教育觀念及態度",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

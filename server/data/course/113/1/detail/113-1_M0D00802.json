@@ -1,0 +1,110 @@
+{
+    "code": "M0D00802",
+    "name": {
+        "zh": "餐旅衛生與安全管理",
+        "en": "Sanitation and safety in hospitality industry"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技餐旅一乙"
+    ],
+    "instructors": [
+        "蘇家愷"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "T0309"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "T0309"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "食品衛生與安全在餐飲業中扮演重要的角色，消費者希望有安全又美味的食物。本課程建立五個基本知能：(1)食因性疾病的類型;(2)時間/溫度與食因性疾病的關係;(3) 從業人員個人衛生與食品安全的關係;(4) 預防食品污染的方法;(5) 正確清洗與消毒設備的流程.",
+    "prerequisites": "基本餐飲能力與食品知能",
+    "syllabus": {
+        "zh": "1.食品安全與衛生管理<br>2.食品安全危害<br>3.造成食品中毒之因素<br>4.食品流程<br>5.危害分析重要管制點系統：確保食品安全的作業程序<br>6.設施、設備與器具<br>7.清潔與消毒作業<br>8.環境衛生與維護<br>9.意外防範與危機處理<br>10.食品安全法規",
+        "en": "1.Food safety and sanitation management<br>2.Hazards to food safety<br>3.Factors that affect foodborne illness<br>4.Following the food product flow<br>5.The Hazard Analysis Critical Control Point(HACCP) System<br>6.Facilities, Equipment, and Utensils<br>7.Cleaning and sanitizing operations<br>8.Environmental sanitation and maintenance<br>9.Accident prevention and crisis management<br>10.Food safety regulations<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能瞭解預防食品中毒的食品衛生與安全操作流程",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分辨食品危害的主要類型",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用HACCP系統並預防食品危害發生",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解相關法律",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

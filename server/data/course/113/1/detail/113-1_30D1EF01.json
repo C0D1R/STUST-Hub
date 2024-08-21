@@ -1,0 +1,116 @@
+{
+    "code": "30D1EF01",
+    "name": {
+        "zh": "數位訊號處理實務",
+        "en": "Digital signal processing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子三甲",
+        "四技電子三乙"
+    ],
+    "instructors": [
+        "薛雲太"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "J401"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "J401"
+        },
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "J401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹離散時間信號與系統、離時傅利葉分析、z 轉換、離散傅利葉轉換、數位濾波器結構以及數位濾波器設計。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1 前言：簡述信號處理範疇並討論DSP如何優於類比信號處理。<br>2 離時信號與系統：簡單複習時域之離時信號與系統。<br>3 離時傅利葉分析：討論離時信號與系統在頻域上之表示與分析。<br>4 z 轉換：說明如何在複數頻域表示和分析信號與系統。<br>5 離散傅利葉轉換：以離散傅利葉級數來導引離散傅利葉轉換，並利用MATLAB說明其一些特性。<br>6 數位濾波器結構：討論一些數位濾波器的結構。<br>7 FIR濾波器設計。",
+        "en": "1.Introduction: Review the signal processing issues and discuss the advantage of digital signal processing.<br>2.Discrete time signal and system: Review the concepts of discrete time signal and system.<br>3.Discrete time Fourier analysis: Discuss the discrete time signal and system in frequency domain.<br>4.z transform: Discuss the discrete time signal and system in z domain.<br>5.Discrete Fourier Transform: Derive the Discrete Fourier Transform by using discrete Fourier series. And using Matlab to carry out examples for illustration.<br>6.Digital filter structure: present the digital filter structures.<br>7.FIR filter designs."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立數位訊號處理的基本知識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能比較與選擇有效率解決問題的方法，並學習如何從演算法對應到硬體架構設計。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "用Matlab軟體學習程式撰寫與概念上模擬。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "採用英文教科書，訓練學生專業英文研讀能力。同時培養理論基礎及解決問題方法，以建立後續專業技能的學習。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

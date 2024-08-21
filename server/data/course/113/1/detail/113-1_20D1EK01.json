@@ -1,0 +1,115 @@
+{
+    "code": "20D1EK01",
+    "name": {
+        "zh": "工業配電設計",
+        "en": "Industrial Distribution Design"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電資三甲"
+    ],
+    "instructors": [
+        "許振廷"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "K508"
+        },
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "K508"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "K508"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹一般用戶及工廠之合理、安全配電概念。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Chapter 1 配電系統設計<br>Chapter 2 基本觀念<br>Chapter 3 電壓與電流計算<br>Chapter 4 短路電流計算<br>Chapter 5 過電流保護協調<br>Chapter 6 過電流保護與系統接地<br>Chapter 7 功因之改善",
+        "en": "Chapter 1 Distribution System Design<br>Chapter 2 Basic Concepts<br>Chapter 3 Voltage and Current Calculation<br>Chapter 4 Short Circuit Current Calculation<br>Chapter 5 Overcurrent Protection and Coordination<br>Chapter 6 System Grounding<br>Chapter 7 Power Factor Improvement"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解配電系統設計與基本觀念嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解電壓與電流計算、短路電流計算嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解過電流保護協調與系統接地嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解功因之改善嗎？",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

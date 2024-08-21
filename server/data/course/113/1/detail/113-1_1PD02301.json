@@ -1,0 +1,115 @@
+{
+    "code": "1PD02301",
+    "name": {
+        "zh": "台語生活會話與應用",
+        "en": "Conversation and applications in Taiwanese"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "綜合實踐領域"
+    ],
+    "instructors": [
+        "劉明宜"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "O101"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "O101"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "O101"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程透過對台灣閩南語結構的分析，讓學生掌握臺灣閩南語的基本音韻系統，包括聲母、韻母、聲調與連讀音變，並介紹台灣閩南語的文字。透過會話練習及寫信講故事等活動，提升學生臺灣閩南語「聽、說、讀、寫」的能力",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.培養學生具有台灣閩南語聽說讀寫之基本能力。<br>2.學習台灣閩南語溝通之會話詞彙。<br>3.能與台灣閩南語系銀髮長者進行會話交流。<br>",
+        "en": "1. Cultivate students with the basic skills of listening, speaking, reading and writing in Taiwanese.<br>2.Learn the conversational vocabulary of Taiwanese communication.<br>3. Able to have conversations with senior citizens of Taiwanese language.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解臺灣閩南語的語音及音韻系統，包括聲母、韻母、聲調與部分連讀音變。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使用台羅音標符號來閱讀、學習臺灣閩南語，以提升「聽、說、讀、寫」各方面的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以台語文書寫簡易的書信及會話",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以臺灣閩南語進行日常對話，並用演短劇、說故事綜合呈現閩南語的聽說讀寫的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

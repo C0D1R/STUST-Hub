@@ -1,0 +1,139 @@
+{
+    "code": "F0D39D01",
+    "name": {
+        "zh": "文化創意與產業應用",
+        "en": "Cultural & Creative Industry Application"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技資傳三甲"
+    ],
+    "instructors": [
+        "鄭靜怡"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "W0508"
+        },
+        {
+            "day": "週四",
+            "period": "第5節",
+            "location": "W0508"
+        },
+        {
+            "day": "週四",
+            "period": "第6節",
+            "location": "W0508"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "文化與創意產業之發展為近年來政府發展之重點，因此，對該產業之認識已成為重要之知識。本課程主要之內容包含文化與創意的介紹、文化創意產業與相關政府政策的介紹、文創產業對台灣未來發展的重要性、各國文創產業發展概況以及文創產業分析與應用。<br>The development of culture and creative industries has been the focus of government development in recent years. The main contents of this course include the introduction of culture and creativity, the introduction of cultural and creative industries and related government policies, how to influence the future development of Taiwan, the introduction of development profiles of various countries, and the cultural and creative industries Analysis and application.<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 導論<br>2. 文化與創意<br>3. 文化創意產業的定義與價值<br>4. 政府相關政策-官辦城市文創園區分析<br>5. 文化創意產業競爭策略-台灣地方特色文創產業分析<br>6. 文創產業分析-故事行銷與體驗行銷策略<br>7. 文創產業應用-文化產業與當代傳播<br>",
+        "en": "1. Introduction<br>2. Culture and creativity<br>3. Definition and value of Cultural Creative Industry<br>4. Government policy-Analysis on the current situation of <br>management and marketing of official urban literary and <br>Creative Park<br>5. Competitive strategy of cultural and creative Industry-<br>Analysis on the present situation of Taiwan's local <br>characteristic literary creation industry<br>6. Analysis of cultural and creative industry- The story <br>marketing and experience marketing strategy of Cultural <br>Creative Industry<br>7. Application of Cultural Creative Industry- Cultural <br>Creativity and Contemporary Communication Industries<br>"
+    },
+    "weeklySchedule": "1. 導論<br>2. 文化與創意、生活中的文化<br>3. 文化創意產業的定義與價值<br>4. 文創行銷與文化消費<br>5. 文化創意產業競爭策略-台灣地方特色文創產業分析<br>6. 文創產業分析-故事行銷與體驗行銷策略<br>7. 文創產業應用-文化產業與當代傳播<br><br>",
+    "exams": {
+        "midterm": "企畫報告",
+        "final": "作品展示",
+        "other": "作業及報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "文化創意產業分析",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "文化創意產業相關文獻蒐集與整理",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "合作完成課堂作業與報告",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "藝術、文化及影視等文創產業之探討",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "文創產業行銷與推廣",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "文化創意產業於自媒體之體現與應用",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "文化創意產業理論與實務，周德禎主編，五南出版社。<br>文創產業企劃實務，施百俊著，五南出版社。<br>文化與文創，漢寶德著，聯經出版社。<br>2022台灣文化創意產業發展年報，文化部。<br>文創搞什麼，好歪，國立臺灣師範大學。<br>",
+    "teachingSoftware": "",
+    "rules": "每回作業請在指定時間內完成，不接受補交。<br>課堂期間請將手機關靜音。 <br>請勿任意在課堂上交談聊天滑手機，也嚴禁睡覺。<br>出席率很重要，請盡可能到課"
+}

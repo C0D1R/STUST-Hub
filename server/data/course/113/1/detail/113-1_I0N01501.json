@@ -1,0 +1,122 @@
+{
+    "code": "I0N01501",
+    "name": {
+        "zh": "行為改變技術",
+        "en": "Behavior Modification Technique"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "夜二技教保四甲"
+    ],
+    "instructors": [
+        "楊淑娥"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第13節",
+            "location": "H206"
+        },
+        {
+            "day": "週五",
+            "period": "第14節",
+            "location": "H206"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程旨在使學生對行為改變技術具備基本認知與了解(This course equips students with fundamental knowledge and understanding of behavior modificatuon)。<br>。(本課程將以實例提供富化人生方向為導向)<br><br>",
+    "prerequisites": "無(None)",
+    "syllabus": {
+        "zh": "單元一：行為理論(behaviorism) <br>1-1行為原理(Behavior principles)<br>1-2快樂論與環境決定論(Hedonism &amp; Environmentalism)<br>1-3感應的制約(Respondent conditioning)<br>1-4操作的制約(Operant conditioning)<br>1-5行為報應關係(contingencies of reinforcement)<br>單元二：行為之實驗分析(Experimental analysis of behavior)<br>2-1目標行為(Target behavior)<br>2-2還原--複製設計(Reversal- replication design)<br>期中考<br>單元三：控制行為的方法（Method of controlling behavior）<br>3-1加強行為的過程(Procedures to increase behavior)<br>3-2減弱行為的過程(Procedures to decrease behavior)<br>3-3認知行為改變技術(Cognitive behavior modification)<br>單元四：管教兒童的方法(Child management techniques)<br>4-1塑造合作的行為（Shaping toward cooperative interaction）<br>4-2處理傷害性的行為(Management of destructive and assaultive behavior)<br>4-3同享生活的情趣(Enjoying the process of living)<br>期末考<br>",
+        "en": "A.Behaviorism.<br>B.Experimental analysis of behavior.<br>C.Method of controlling behavior.<br>D.Child management techniques.<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能認識行為改變技術的理論基礎及策略",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能適時運用行為改變技術的方法於教保實務。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能秉持行為改變技術應用的倫理規範",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以接納尊重的原則進行方案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能主動參與行為改變技術方案",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

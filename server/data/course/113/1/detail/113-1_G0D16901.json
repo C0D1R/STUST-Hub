@@ -1,0 +1,132 @@
+{
+    "code": "G0D16901",
+    "name": {
+        "zh": "視窗程式設計實習",
+        "en": "Windows Programming Practice"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專資工三甲"
+    ],
+    "instructors": [
+        "陳定宏"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "C301"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "C301"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "C301"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "C301"
+        }
+    ],
+    "hours": {
+        "course": "4",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程使用最新的C#程式語言，設計桌面視窗程式。除了基本的console介面的程式語法，並使用軟體框架設計，運用各類視窗元件來設計易用的視窗介面程式。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.C#簡介<br>2.建立C#應用程式<br>3.變數資料型態與運算子<br>4.視窗應用程式的基本輸出入<br>5.選擇控制與條件敘述<br>6.迴圈結構<br>7.C#函數<br>8.字串與陣列<br>9.視窗應用程式的事件處理<br>10.視窗應用程式的工具列與功能表<br>11.繪圖與多媒體<br>12.建立多表單與多文件介面的應用程式<br>13.檔案與資料夾處理<br>14.物件導向程式設計<br>",
+        "en": "1.Introduction:C#<br>2.C# applications<br>3.Variables, data types and operators<br>4.Basic I/O of Windows applications<br>5.Contol flow and conditional statements<br>6.Loop structure<br>7.C# functions<br>8.Strings and arrays<br>9.Even handle<br>10.Tool and menu components<br>11.Drawing geometric graphs and multimedia<br>12.Forms and Documents<br>13.Files and Directories<br>14.Object-oriented programming<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解物件導向程式設計觀念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會設計視窗程式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學會使用整合式程式開發環境",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用不同程式技巧整合設計視窗程式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "綜合運用視窗程式開發之各類框架函式以解決現有的軟體問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

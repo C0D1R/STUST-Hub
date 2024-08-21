@@ -1,0 +1,99 @@
+{
+    "code": "B0Q03401",
+    "name": {
+        "zh": "專題討論(一)",
+        "en": "Seminar (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "碩專休閒二甲"
+    ],
+    "instructors": [
+        "林舜涓"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "指導學生進行文獻蒐集與研讀,並訓練學生研擬,構思,與撰寫論文計畫書",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "學術研究之重要性<br>如何蒐集學術文獻<br>研讀學術文獻之重要性與方法<br>介紹論文計畫書之重要性,結構與寫作方式<br>文獻研讀與報告<br>綜合討論",
+        "en": "To introduce the improtant of academic research<br>To introduce how to search and collect research papers<br>To introduce the importance and process of paper reading<br>The process of writing a proposition<br>Presentations<br>Discussions and comments"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備創意思考、發現問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能綜合所學，具備計畫、組織、執行與評估管控之能力並完成休閒事業管理相關專案計畫或研究。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能展現良好敬業合群態度與團隊溝通協調能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "解決休閒事業管理相關問題之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

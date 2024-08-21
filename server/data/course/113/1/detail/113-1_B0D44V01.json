@@ -1,0 +1,117 @@
+{
+    "code": "B0D44V01",
+    "name": {
+        "zh": "團隊帶領",
+        "en": "Team Leading and Building"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技休閒一甲",
+        "四技休閒一乙"
+    ],
+    "instructors": [
+        "王嘉淳"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "T0608"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "T0608"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "T0608"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程透過戶外活動的體驗，建立學生團隊之間的默契與溝通模式。另外藉由休閒體驗教育的引導理論與實務操作，讓學生學習帶領團隊的方式，進而探索自我的職能方向。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "戶外團隊活動體驗<br>團隊溝通<br>團隊建立<br>引導理論<br>活動帶領原則<br>實務技能探索",
+        "en": "Field Practice for Outdoor Activities<br>Team Communication<br>Team Building<br>Theory of Guiding<br>Principles of Leading<br>Investigation of practical skills"
+    },
+    "weeklySchedule": "第一周 9/13 課程介紹<br>第二周 9/20 分組與介紹USR<br>第三周 9/27 破冰遊戲<br>第四周 10/4 團隊建立遊戲<br>第五周 10/11 回饋與建議***<br>第六周 10/18 認識攀樹<br>第七周 10/25 植樹教育<br>第八周 11/1 校外教學(攀樹體驗)<br>第九周 11/8 回饋與建議***<br>第十周 11/15 USR成果活動規劃<br>第十一周 11/22 活動場域場勘<br>第十二周 11/29 活動流程預演<br>第十三周 12/6 活動修正與改善<br>第十四周 12/13 ***活動成果發表***<br>第十五周 12/20 檢討與紀錄<br>第十六周 12/27 成果報告準備***<br>第十七周 1/3 成果報告準備***<br>第十八周 1/10 期末成果分享與報告<br>",
+    "exams": {
+        "midterm": "實作",
+        "final": "期末報告",
+        "other": "課堂作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "建立學生團隊之間的默契與溝通模式。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "另外藉由休閒體驗教育的引導理論與實務操作",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "讓學生學習帶領團隊的方式",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "進而探索自我的職能方向",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "本課程結合戶外體驗，將會使用到周末時段，學生須配合活動參與。"
+}

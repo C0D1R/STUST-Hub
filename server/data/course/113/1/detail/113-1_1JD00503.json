@@ -1,0 +1,116 @@
+{
+    "code": "1JD00503",
+    "name": {
+        "zh": "社會工作概論",
+        "en": "Social Work"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技高福一甲",
+        "四高福國專一甲"
+    ],
+    "instructors": [
+        "陳珮沄"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "O403"
+        },
+        {
+            "day": "週一",
+            "period": "第8節",
+            "location": "O403"
+        },
+        {
+            "day": "週一",
+            "period": "第9節",
+            "location": "O403"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "課程概述 (Introduction)\t社會工作的範圍非常廣泛，包括：個案、團體、社區、行政與研究為核心。本課程希望從兒童及婦女議題進行社會工作內涵的探討，首先透過相關理論與實務的討論引導學生認識兒童及婦女社會工作的內涵，透過業界教師的實務經驗分享與說明，學會運用跨專業資源的整合為兒童及婦女…等對象進行社會工作服務。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.社會工作內涵與本質<br>2.社會工作相關議題及社會福利<br>3.社會工作實施技巧<br>4.社區總體營造及發展<br>5.服務學習<br>6.志願服務內涵及法規<br>7.期中報告<br>8.社工實務分享<br>9.志願服務倫理及發展趨勢<br>10.志願服務經驗分享<br>11.社會工作發展趨勢<br>12.期末報告<br>",
+        "en": "1.Introduction to social work<br>2.Introduction to social welfare,<br>3.Social issues<br>4.Profession of Social work<br>5.Social work process<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解社會工作本質、內涵及相關議題。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解社會工作服務的實施方式。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "擴大學生對於兒童及婦女福利服務議題的瞭解及視野。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "增進學生對於運用社會資源進行社會工作服務的認識。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

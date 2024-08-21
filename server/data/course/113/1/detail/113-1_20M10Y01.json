@@ -1,0 +1,122 @@
+{
+    "code": "20M10Y01",
+    "name": {
+        "zh": "研究方法與論文寫作暨學術倫理",
+        "en": "Research methodology, academic writing and ethics"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "碩研電機一甲"
+    ],
+    "instructors": [
+        "黃基哲"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第5節",
+            "location": "B504"
+        },
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "B504"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程針對新進研究生參與研究必備的各項工具、知識、能力與素養，以必修課的方式，作一個全面性的介紹與養成。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.學術論文的分類<br>2.校內資料檢索資源<br>3.研讀學術論文的要領<br>4.學術論文的重要性指標<br>5.學術論文撰寫的一些基本注意事項<br>6.研究倫理的定義與內涵、專業規範與個人責任<br>7.不當的資料處理：捏造與篡改資料<br>8.以7週習作循序漸進學習以英文撰寫學術論文摘要<br>9.學術研究的寫作技巧：引述、改寫與摘寫<br>10.學術論文作者定義與掛名原則<br>11.英文履歷的撰寫<br>",
+        "en": "1.Classification of research articles<br>2.Oresources in STUST<br>3.Tips to read a research article<br>4.The impact factor of research articles<br>5.Tips to write a research article<br>6.Research ethics: definitions, contents, norms and personal responsibility<br>7.Improper research material handling: fabricated and faked data<br>8.A 7-week session on how to write an English research article abstract<br>9.Quotations, paraphrases and summaries in academic writing<br>10.The definition and ordering principle for authors in research articles<br>11.English resumes<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解校內外有那些資料檢索資源，並有能力使用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道在現代的科技論文中，摘要、簡介、結論(或討論)各扮演何角色",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能分辨學術寫作中引述、改寫、摘寫、編造與剽竊之不同",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "知道世界大學排名的機制及對你專業生涯的影響",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "有能力以英文撰寫技術報告的摘要",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

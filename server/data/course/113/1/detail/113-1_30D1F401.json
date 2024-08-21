@@ -1,0 +1,115 @@
+{
+    "code": "30D1F401",
+    "name": {
+        "zh": "FPGA設計實務",
+        "en": "FPGA Design Practice"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電子三甲"
+    ],
+    "instructors": [
+        "林瑞源"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第1節",
+            "location": "J401"
+        },
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "J401"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "J401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "3"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "FPGA設計實務是一門專注於現場可編程門陣列（FPGA）設計的實務課程，旨在讓學生熟悉FPGA的基本概念、設計流程、開發工具及實際應用。課程將涵蓋硬體描述語言（如VHDL或Verilog）的使用，設計及驗證FPGA模組，並介紹各種設計技巧及最佳實踐。本課程適合具有基礎數位邏輯設計知識的學生。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.FPGA簡介與應用<br>FPGA的基本概念<br>FPGA在不同領域的應用<br>FPGA與其他硬體平台的比較<br>硬體描述語言 (HDL)<br><br>2.VHDL與Verilog的基礎語法<br>HDL的設計風格與編程實踐<br>HDL模組設計實例<br>FPGA設計流程<br><br>3.設計規劃與需求分析<br>編譯、綜合與映射<br>配置與測試<br>開發工具<br><br>4.FPGA開發環境介紹<br>常用的FPGA開發工具及其功能<br>使用開發工具進行設計與模擬<br>模組設計與驗證<br><br>5.基本數位模組設計<br>模組驗證技術<br>測試平台的搭建<br>時序分析與優化<br><br>6.時序分析的基本概念<br>設計中時序問題的分析與解決<br>時序優化技巧<br>先進設計技術<br><br>7.低功耗設計技術<br>高性能設計技巧<br>FPGA中的DSP模組應用<br>實際應用與項目實踐<br><br>8.FPGA在通信、圖像處理等領域的實際應用案例<br>綜合性項目實踐<br>項目報告與展示",
+        "en": "1.Introduction to FPGA and Applications<br>Basic concepts of FPGA<br>Applications of FPGA in various fields<br>Comparison of FPGA with other hardware platforms<br>Hardware Description Language (HDL)<br><br>2.Basics of VHDL and Verilog syntax<br>Design styles and programming practices in HDL<br>Examples of HDL module design<br>FPGA Design Flow<br><br>3.Design planning and requirements analysis<br>Compilation, synthesis, and mapping<br>Configuration and testing<br>Development Tools<br><br>4.Introduction to FPGA development environments<br>Commonly used FPGA development tools and their functionalities<br>Design and simulation using development tools<br>Module Design and Verification<br><br>5.Basic digital module design<br>Module verification techniques<br>Building test platforms<br>Timing Analysis and Optimization<br><br>6.Basics of timing analysis<br>Analyzing and resolving timing issues in designs<br>Timing optimization techniques<br>Advanced Design Techniques<br><br>7.Low-power design techniques<br>High-performance design strategies<br>Application of DSP modules in FPGA<br>Practical Applications and Project Practice<br><br>8.Case studies of FPGA applications in communication, image processing, etc.<br>Comprehensive project practice<br>Project reports and presentations"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "掌握FPGA的基本概念與架構。\n熟悉硬體描述語言（VHDL或Verilog）的語法及使用方法。\n能夠使用FPGA開發工具進行設計、模擬及驗證。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備FPGA設計的實務操作能力。\n能夠進行FPGA模組的設計與驗證，解決實際工程問題。\n理解並應用FPGA設計中的時序分析與優化技術。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠將FPGA技術應用於不同領域，發展創新解決方案。\n學習並應用先進的FPGA設計技術，如低功耗設計與高性能設計。\n培養設計與開發創新FPGA應用的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能夠進行FPGA系統的集成與測試，理解系統整合的基本原理。\n掌握FPGA在嵌入式系統中的應用，進行軟硬體協同設計。\n具備設計與實現綜合性FPGA項目的能力，完成從需求到實現的整個設計流程。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,123 @@
+{
+    "code": "M0N00401",
+    "name": {
+        "zh": "餐飲管理",
+        "en": "Food and Beverage Management"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技餐旅二甲"
+    ],
+    "instructors": [
+        "鄭淑勻"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "T0307"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "T0307"
+        },
+        {
+            "day": "週二",
+            "period": "第11節",
+            "location": "T0307"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This curriculum is to identify the crucial elements involved in the successful operation of a restaurant and show their interrelationships. The operator's task is to manage all elements to produce satisfied customers.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.餐飲的發展與特性。 <br><br>2.餐飲管理的意義與種類。 <br><br>3.餐飲業的組織。 <br><br>4.餐飲業經理的職責。 <br><br>5.餐飲業銷售管理與成本控制。 <br><br>6.餐飲服務管理。 <br><br>7.餐飲的衛生與安全。 <br><br>8.餐飲管理未來的趨勢與經營策略。 <br><br>9.餐飲業的行銷與推廣。<br><br>10.餐飲服務<br>",
+        "en": "1. Identify the skills necessary to manage a restaurant.<br>2. Identify the various procedural and convivial dimensions of service.<br>3. Development procedures for the effective purchasing, receiving, storing, and issuing of items used in the operation.<br>4. Develop procedures for preventing foodborne diseases.<br>5. Identify the four types of financial ratios used by management.<br>6. Identify major ongoing trends in customer behavior that will affect the restaurant <br>"
+    },
+    "weeklySchedule": "一 課程簡介<br><br>二 餐飲管理導論 &amp; 餐飲管理起源與發展．Ch1 <br>三 餐飲管理導論：組織系統與執掌 <br>四 Ch2餐飲市場/行銷：消費者與市場行銷．餐飲市場/行銷：行銷技巧與促銷活動．Ch3 <br>五 Ch2餐飲市場/行銷：消費者與市場行銷．餐飲市場/行銷：行銷技巧與促銷活動．Ch3<br>六 餐飲市場/行銷：菜單/飲料單的設計．Ch4 <br>七 餐飲市場/行銷：空間設計與擺設規劃．Ch5 <br>八 餐飲後場/設備：廚房的規劃管理．Ch6 (陳堯帝) <br>九 期中考週 1-6 chapter<br>十 餐飲後場/設備：採購、驗收、儲存、發放<br>．Ch6、Ch7(陳堯帝) <br><br>十一 餐飲後場/設備：餐飲製備．Ch7 <br>十二 餐飲後場/設備：餐飲衛生安全．Ch8 <br>十三 餐飲服務/心理：餐飲服務．Ch9 餐廳餐飲服務與整體之評估 <br>十四 餐飲的控制．Ch 10 <br>十五 Review<br>十六 期末報告 (一) 抽籤決定報告組別－3~4組<br>十七 期末報告 (二) 抽籤決定報告組別－3~4組<br>十八 期末報告 (三) 抽籤決定報告組別－3~4組<br>",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末報告",
+        "other": "小考筆記"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能描述餐廳的類型與其特性",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能分析市場並能安排行銷計畫",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                },
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能發展內場管理的流程",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能瞭解服務型態與流程並能執行",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "期末"
+                },
+                {
+                    "method": "課堂展演",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "餐飲管理—創新之路",
+        "author": "高秋英.林玥秀",
+        "publisher": "華立出版社",
+        "year": "2017",
+        "ISBN": "978-957-784-745-4",
+        "edition": "3"
+    },
+    "referenceBooks": "1. 陳堯帝 (2001). 餐飲管理. (第三版)。台北：揚智出版社。<br>2. 鄭世陽 (1999). 觀光餐飲經典。台北：華泰出版社。<br>3. Introduction to Professional Foodservice  Wallace L.Rande<br>4. Restaurant Management: Customers Operations and Employees <br>Robert Christie Mill<br>5. 經濟部商業司編印 (2000). 餐飲業經營管理實務<br>6. 李始恩、陳郁昕 (2015). 走進北歐咖啡館: 從咖啡館到餐廳、旅店，見識新世代的空間新設計 &amp; 開店綠思維，原點出版。<br>7. 巫文嘉(2015). 美味店家連菜單都很好吃: 衝出千萬年收的秘訣大公開，日經餐廳。<br>8. 宇井義行、呂志宏(2010). 經營餐飲店一定賺錢的秘笈，中國生產力中心<br>9. 蘇西．維莎克2016/6/3現在就當美食創客！75位食品達人教你從無到有的實戰創業密技著 寶鼎 出版<br>10. 林嘉翔2013/10/21行家這樣開餐廳：懂得眉角，經營就上手！ 時報文化  出版<br><br>",
+    "teachingSoftware": "PPT",
+    "rules": "1.平時成績包括不定期小考、課堂參與討論、及上課態度 (包括使用手機相關、上課睡覺及講話等影響上課秩序行為)。<br>2. 期末報告以最多4人一組為限，最少3個人一組，最遲請於第七週期中考前以EMAIL繳交分組名單(包括組長、組員及聯絡方式)。<br>3. 上課前請先做好預習之工作，上課中間將會有問題提問與討論，若表現不佳將會影響成績。<br>4.請準時上課，遲到超過20分鐘以上者視同曠課一次，並請勿進教室影響同學上課情緒。學生的確有受教權，但若不想學習也請勿影響其他人，因故必須缺席者請當日上課前或上課後24小時之內以Email、電話、LINE或簡訊其中一種方式親自告知老師。一學期內若非特殊原因，任何原因的請假全部以三次為上限，無故曠課三次以上(包含請假及公假則有六次)平時成績一律以零分計算，點名很浪費時間，但若有太多人嚴重遲到、不到或是上課不參與(睡覺或說話)將會影響上課效率及影響老師上課進度或情緒，尚請大家多多配合。<br>"
+}

@@ -1,0 +1,115 @@
+{
+    "code": "60D27401",
+    "name": {
+        "zh": "財務管理",
+        "en": "Financial Managent"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國企二甲"
+    ],
+    "instructors": [
+        "林靖中"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第6節",
+            "location": "S513"
+        },
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "S513"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "S513"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程介紹財務管理所涵蓋的領域、財務管理所涉及的各項活動與決策、及財務決策的目標與基本原則。具體而言，就是介紹公司如何籌措其資金，資金的運用，以及日常性財務活動，如收款與支付等事項的處理。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 財務管理概論<br>2. 財務報表與現金流量<br>3. 營運資金管理<br>4. 財務報表分析<br>5. 籌資管道與融資實務<br>6. 租稅實務與報稅技巧",
+        "en": "1. Introduction to Financial Management<br>2. Financial Statements and Cash Flow<br>3. Working Capital Management<br>4. Analysis of Financial Statements <br>5. Sources of Financing<br>6. Tax<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解公司理財基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "使用財務報表計算財務比率",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "運用網路資源取得公司財務狀況",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "分析公司理財之各項活動",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,122 @@
+{
+    "code": "J0D31S01",
+    "name": {
+        "zh": "作品集設計",
+        "en": "Portfolio Design"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技商設四甲"
+    ],
+    "instructors": [
+        "胡庭耀"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "W0509"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "W0509"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在畢業前能夠了解自己將來是要繼續升學或是就業以及現今的設計產業趨勢，撰寫並設計履歷表及自傳，彙集統整過去作業或創作作品，設計製作符合需求之作品集，讓自己能夠達到有利於自己的就業或升學方向。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.課程介紹<br>2.視覺傳達設計工作職場<br>3.視覺傳達設計升學現況/相關科系碩士班介紹<br>4.作品集賞析/培養鑑賞能力<br>5.蒐集與分類個人作品與經歷<br>6.作品集企畫/能撰寫自傳與履歷<br>7.作品集編輯設計製作<br>",
+        "en": "1.Course introduction<br>2.Visual communication design work workplace<br>3.Visual communication design progression<br>4.Appreciation of the portfolio<br>5.Collect and classify individual works and experiences<br>6.Portfolio planning<br>7.Portfolio editing design<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "培養學生熟悉故事敘述之設計思考",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "對設計的理論與實務應用的了解，讓學生了解包含設計理念和原理、設計史和設計的實踐的運用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過個案的設計流程和創新價值分析，學生將學習以新的設計思維，讓設計價值多元化",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "進而整合設計美學，提昇設計的創意加值。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "累積其實務操作經驗，藉由個案案例專題之演練，提昇學生具備製作設計整合規劃與策略的敏銳度和成熟度。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

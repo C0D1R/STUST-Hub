@@ -1,0 +1,291 @@
+{
+    "code": "1MD03H01",
+    "name": {
+        "zh": "東亞與國際關係",
+        "en": "East Asian andInternational Relations"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "社會科學領域"
+    ],
+    "instructors": [
+        "楊子震"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第1節",
+            "location": "W0401"
+        },
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "W0401"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "W0401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要在引導學生深入瞭解東南亞各國與國際關係之關聯性，講授重點在政府計畫新南向政策之國家。國際關係具有豐富的內涵，它包括政治、經濟與文化各個層面。體認國際關係的細微之處，不僅需要細膩的分析力，同時，必須具備再接再厲的精神；其議題幾乎可以與人類歷史畫上等號，包括戰爭與和平、勝利喜悅與失敗悲劇，以及國際衝突和共同體系的建立，另外，國際關係理論係對人類日常生活的影響程度越來越大，超過歷史上任何時刻。期盼在校學生從生活中學習國際事務，不但可培育寬廣的國際視野，進而養成國際主體意識並兼具世界觀的公民。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "各單元主題如下：<br>1.導論：國際關係理論介紹<br>2.全球化之概念與區域組織<br>3.東南亞與地緣戰略<br>4.就現實主義觀點論菲律賓之政經發展<br>5.從東南亞視角解讀越南之地緣戰略<br>6.探究千島之國「印尼」之經濟發展<br>7.依新自由主義研討馬來西亞之政經走向<br>8.從泰國觀點分析中南半島之未來發展<br>9.東協﹝ASEAN﹞與新功能主義<br>10.台灣經貿交流與未來發展趨勢<br>11.台灣與新南向政策<br>",
+        "en": "The theme of each unit is as follows:<br>1. Introduction: Introduction to the Theory of International Relations<br>2. The concept of globalization and regional organizations<br>3. Southeast Asia and geostrategy <br>4. The political and economic development of the Philippines on the basis of a realistic point of view <br>5. Interpreting Vietnam's Geostrategy from the Perspective of Southeast Asia 6. Exploring the economic development of the country of Indonesia, that widely is called as a country of ten-thousand islands<br>7. Discussing the political and economic trends of Malaysia in accordance with neoliberalism <br>8. Analysis of the future development of the Indo-China Peninsula from the perspective of Thailand <br>9. ASEAN and New Functionalism <br>10. Taiwan's economic and trade exchanges and future development trends <br>11. Taiwan and New Southbound Policy <br>"
+    },
+    "weeklySchedule": "本課程預定以「政治」「經濟」為主軸，討論東亞諸國間的相互關係。<br><br>一、邁向和解與合作的未來？──一九九〇年以後迄今<br>二、經濟發展與民主革命──一九七五年～一九九〇年<br>三、越戰的時代──一九六〇年～一九七五年<br>四、亞洲諸戰爭的時代──一九四五年～一九六〇年<br>五、亞洲太平洋戰爭與「大東亞共榮圈」──一九三五年～一九四五年<br>六、新秩序的摸索──一九三〇世紀<br>七、社會主義與民族主義──一九二〇年代<br>八、世界戰爭與改造──一九一〇年代<br>九、日俄戰爭與日韓合併──十九世紀末<br>十、東亞的近代──十九世紀<br>",
+    "exams": {
+        "midterm": "出席缺曠",
+        "final": "紙筆測驗",
+        "other": "日常表現"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "深入認識國際關係理論，有效地明瞭政治、經濟與外交各項問題",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考",
+                "專題演講",
+                "參觀實習",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉國際戰略安全思維，解析亞洲地緣關係。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考",
+                "專題演講",
+                "參觀實習",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "統合國際關係理論於生活或學習中，拓展全球化與區域主義視野，適切因應地球村及國際化趨勢。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考",
+                "專題演講",
+                "參觀實習",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "亞洲大約40億人口，為全球最大的洲際，近年來，不論政治、經濟與軍事，均展現優勢作為，認識亞洲之政經實力，藉以培育具世界觀及人文涵養之公民。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考",
+                "專題演講",
+                "參觀實習",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "中國與日本對東協各國，除對外交經營外，更將經貿合作列為重要國策項目，可以思辨國際談判及國際合作的重要。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考",
+                "專題演講",
+                "參觀實習",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "東協各國除地緣政治展現特殊地位外、更是原物料主要出口國，國際間紛紛與其建立友好外交關係。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考",
+                "專題演講",
+                "參觀實習",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "東南亞地區與台灣之關係，除具有歷史文化、風俗共同點之外，維護台灣與東南亞地區的利益共存，彰顯雙方是生命的共同體。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考",
+                "專題演講",
+                "參觀實習",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "東南亞地區與台灣之關係，除具有歷史文化、風俗共同點之外，維護台灣與東南亞地區的利益共存，彰顯雙方是生命的共同體。",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考",
+                "專題演講",
+                "參觀實習",
+                "成果驗收"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "其他",
+                    "type": "－出席缺曠"
+                },
+                {
+                    "method": "期中",
+                    "type": "筆試"
+                },
+                {
+                    "method": "期末",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "東亞近現代通史：從19世紀至今的地域史（上、下）",
+        "author": "和田春樹、後藤乾一、木畑洋一、山室信一、趙景達、中野聰、川島真",
+        "publisher": "聯經",
+        "year": "2024",
+        "ISBN": "9789570872989",
+        "edition": "初版"
+    },
+    "referenceBooks": "1. 艾瑞克．霍布斯邦（鄭明萱譯），《極端的年代1914-1991》上‧下（臺北：麥田，1996年）<br><br>2. 艾瑞克．霍布斯邦（賈士蘅譯），《帝國的年代》（臺北：麥田，1997年）<br><br>3. 東亞三國的近代史共同編寫委員會，《東亞三國的近現代史》（香港：三聯，2005年）<br><br>4. 安德魯．戈登著（李朝津譯），《二十世紀日本:從德川時代到現代》（香港：香港中文大學，2007年）<br><br>5．李德哈特（鈕先鍾譯），《第二次世界大戰戰史》上‧中‧下（臺北：麥田，2008年）<br><br>6. 蔣竹山、陳俊強、李君山、楊維真，《巨龍的蛻變：中國1840至2008─》（臺北：五南，2009年） <br><br>7．中日韓三國共同歷史編籑委員會，《超越國境的東亞近現代史》上‧下（香港：三聯，2013年）<br><br>8．李德哈特（林光餘譯），《第一次世界大戰戰史》上‧下（臺北：麥田，2014年）<br><br>9．保羅．甘迺迪（張春柏、陸乃聖譯），《霸權興衰史：1500至2000年的經濟變遷與軍事衝突》（臺北：五南，2014年，第三版）<br><br>10・周婉窈，《少年臺灣史：寫給島嶼的新世代和永懷少年心的國人》（臺北：玉山社，2014年）<br><br>11．約翰.托蘭（吳潤璿譯），《帝國落日：大日本帝國的衰亡 1936-1945》（新北：八旗文化，2015年）<br><br>12．周婉窈，《臺灣歷史圖說（第三版）》（臺北：聯經，2016年）<br><br>13．加藤陽子（黃美蓉譯），《日本人為何選擇了戰爭》（臺北：廣場，2016年）<br><br>14．北岡伸一（周俊宇、張智程、陳柏傑譯）《日本政治史》（臺北：麥田，2018年）<br><br>15. 張國城《國家的決斷：給台灣人看的二戰後國際關係史》（臺北：八旗文化，2019年）<br>",
+    "teachingSoftware": "",
+    "rules": "1．準時到課或全程出席有困難者，選課前建議請再三思。<br><br>2．課程進度得視實際需要調整。<br><br>3．詳細課程規範、評量方式等將於期初上課進行說明，請務必出席。<br><br>4．上課中嚴禁使用任何3C產品。<br><br>5．指定用書為課前預習、課堂討論所必需，請務必自行購入或確保長期借閱。<br>"
+}

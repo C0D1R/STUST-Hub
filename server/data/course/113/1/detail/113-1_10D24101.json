@@ -1,0 +1,153 @@
+{
+    "code": "10D24101",
+    "name": {
+        "zh": "精密機械振動測試與分析",
+        "en": "Vibration Testing and Analysis for Precision Machinery"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技自控三甲",
+        "四技自控三乙"
+    ],
+    "instructors": [
+        "王永鵬"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第7節",
+            "location": "K402"
+        },
+        {
+            "day": "週四",
+            "period": "第8節",
+            "location": "K402"
+        },
+        {
+            "day": "週四",
+            "period": "第9節",
+            "location": "K402"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "授課內容涵蓋振動量測技術、振動訊號分析與診斷、動平衡校正技術與模態測試技術，使修課同學獲得精密機械振動分析與控制之相關實務技術。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 振動基本原理：單自由度振動系統簡介。<br>2. 振動量測：換能器、訊號調節器與動態頻譜分析儀介紹。<br>3. 頻率分析：動態頻譜分析儀之操作與設定。<br>4. 動平衡：動平衡規範與標準、動平衡機介紹、動平衡校正方法。<br>5. 振動控制技術：吸振器與隔振器設計介紹。<br>6. 模態測試簡介。<br>7. 應用實例 。",
+        "en": "1. Basic Theory of Vibration: Single-Degree-of-Freedom System.<br>2. Vibration Measurement: Transducers, Signal Conditioner and Dynamic Frequency Analyzer.<br>3. Frequency Analysis: Operations of Dynamic Frequency Analyzer.<br>4. Dynamic Balancing: Dynamic Balancing Standards, Equipment of Dynamic Balancing, Dynamic Balancing methods.<br>5. Vibration Control Techniques: Absorber and Isolator.<br>6. Introduction to Modal Testing.<br>7. Applications."
+    },
+    "weeklySchedule": "第1周(9/12)：課程介紹<br>第2-3週(9/19, 9/26)：振動原理-單自由度振動系統<br>第4週(10/3)：振動基本原理與量測介紹(振動的定義、振動量測參數、振動原理、振動訊號型式、振動參數之關係、訊號量測鏈)<br>第5週(10/10)：假日(國慶日)<br>第6週(10/17)：振動基本原理與量測介紹(振動量測探頭、振動分析方法、振動顯示方式)、頻率分析(振動訊號之時間與頻率關係、常見訊號類型之時-頻關係)<br>第7週(10/23)：頻率分析(濾波器類型及濾波器特徵、對數/線性頻率軸、振幅之尺度、數位訊號分析)<br>第8週(10/30)：振動量測示範<br>第9週(11/7)：期中考<br>第10週(11/14)：振動量測示範<br>第11週(11/21)：振動量測實作<br>第12週(11/28)：振動量測實作<br>第13-14週(12/5, 12/12)：動平衡(平衡定義、不平衡原因、平衡規範與標準、動平衡機介紹、平衡校正方法)<br>第15-16週(12/19, 12/26)：振動控制技術-隔振器設計<br>第17週(1/2)：振動控制技術-吸振器設計<br>第18週(1/9)：結構模態測試示範",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試(小組繳交)",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備振動量測技術",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備振動訊號分析與診斷之能力",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備動平衡校正技術",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "具備結構模態測試之能力",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "具備振動控制之相關知識",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1. Broch, Jens Trampe, “Mechanical Vibration and Shock Measurements,” Brüel &amp; Kjær, 1984, 必凱公司。<br>2. Harris, Cyril M., “Shock and Vibration Handbook,” 4th edition, McGraw Hill, 1996. <br>3. McConnell, Kenneth G., “Vibration Testing – Theory and Practice,” Wiley, 1995.",
+    "teachingSoftware": "ME'Scope\nPulse",
+    "rules": "None"
+}

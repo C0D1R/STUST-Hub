@@ -1,0 +1,110 @@
+{
+    "code": "1JD02G01",
+    "name": {
+        "zh": "高齡產業行銷與管理",
+        "en": "Marketing and Management for Elderly Industry"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技高福四甲"
+    ],
+    "instructors": [
+        "張修維"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "O101"
+        },
+        {
+            "day": "週五",
+            "period": "第8節",
+            "location": "O101"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在對於銀髮產業行銷與管理的認識，設定行銷目標，擬定STP（區隔、目標市場、定位）設計4P，執行：組織行銷人才，實際推動計畫；控制：驗收成果，評估績效。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.鳥瞰銀髮商品行銷<br>2.銀髮商品行銷創新思考模式<br>3.銀髮商品行銷策略規劃<br>4.銀髮商品行銷市場調查<br>5.銀髮商品行銷之商業模式探討<br>6.行銷企畫書之架構與提案技巧<br>",
+        "en": "1. Overview Seniors commodity marketing<br>2. Innovative thinking model of elderly product marketing<br>3. Marketing strategy planning of elderly product products<br>4. Research on the Marketing of elderly product Products<br>5. Research on the business model of elderly product product marketing<br>6. Structure and proposal skills of marketing plan<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識高齡產業行銷與部管理理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉高齡產業管理案例",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習套用管理理論到管理案例",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習套用行銷理論到高齡產業案例",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

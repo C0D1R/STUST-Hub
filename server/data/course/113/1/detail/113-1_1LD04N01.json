@@ -1,0 +1,159 @@
+{
+    "code": "1LD04N01",
+    "name": {
+        "zh": "藝術賞析(A)",
+        "en": "Art Literacy"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "鍾淑惠"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "N203"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "N203"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "N203"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "透過對藝術作品以及藝術思潮的討論，理解藝術與社會文化的關係，期使學生能具有賞析藝術的能力，並得以在生活中感受美，發現美，進而運用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.觀看的方式<br>2.探討藝術作品的故事與社會文化的意義<br>3.美的涵義<br>4.藝術的多元面向<br>5.美的運用<br>",
+        "en": "1. Ways of seeing<br>2. Art story and social culture<br>3. Aesthetics<br>4. Art diversity<br>5. Use of beauty<br><br>"
+    },
+    "weeklySchedule": "第一週 \t導論<br>第二週 \t高度和諧的文藝復興<br>第三週 \t靈動璀璨的巴洛克<br>第四週 \t輕快奔放的洛可可<br>第五週 \t奇美博物館校外教學<br>第六週 \t理性秩序的新古典<br>第七週 \t走向現代的印象派<br>第八週 \t奇美博物館校外教學<br>第九週 \t期中評量<br>第十週 \t雕塑：從古典到現代<br>第十一週 雕塑：抽象與象徵性<br>第十二週 奇美博物館校外教學<br>第十三週 期中報告<br>第十四週 期中報告<br>第十五週 表現主義與抽象<br>第十六週 抽象與極簡<br>第十七週 觀念藝術<br>第十八週 期末評量<br>本教學大綱得視教學需要調整之<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能賞析藝術作品，培養藝術眼光與美感。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "對不同時空文化的藝術家作品有評鑑能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "形塑民主素養，尊重不同族群、接納多元文化，包容不同意識型態。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能有條不紊的說明對藝術作品的看法與見解。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能透過小組討論方式，以創新思維解決問題。",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.Battcock, Gregory編，連德誠譯，《觀念藝術》(台北：遠流，1992)。9573215292 <br>2.Berger, John著，戴行鉞譯，《藝術觀賞之道》(台北：台灣商務，1993)。9570506695 <br>3.Gombrich, E. H.著，雨芸譯，《藝術的故事》(台北：聯經，1991)。9570805633 <br>4.Gompertz, Will著，陳怡錚譯，《現代藝術的故事》（台北：大是文化，2016）。9789865612399 <br>5.Hauffe, Thomas著，陳品秀譯，《設計小史》(台北：臉譜，2010)。9789862351147 <br>6.Lynton, Norbert著，楊松鋒譯，《現代藝術的故事》（台北：聯經，2003）。9570826193<br>",
+    "teachingSoftware": "",
+    "rules": "注意事項<br>1.學期成績：期中評量、期末評量、平時成績包括期中報告、課堂討論、課堂參與、出席狀況及作業、校外教學及校外教學學習單。<br>2.個人期中報告：請選擇一件藝術家創作的藝術作品(繪畫或雕塑)，說明作品及選擇的原因。<br>口頭報告：每人5分鐘<br>書面報告<br><br>校外教學：奇美博物館<br>1.需填寫校外教學相關申請資料。（第一週說明）<br>2.本課程安排奇美博物館校外教學，共三次（10/11;11/01;11/29）。<br>（1）繳交3次保險費（35*3）共100元。（第二週繳交）<br>（2）請自行前往，約中午才能回到學校。（本校可從大橋站搭火車至保安站，然後可步行或搭公車前往）<br>3.第四節有課者，第四節可請公假。<br><br>上課注意事項：<br>1.本教學大綱得視教學需要調整之<br>2.但凡上傳、繳交等，均逾時不收<br>3.課堂學習行為的規範<br>1)採固定座位，請依座位表入座<br>2)請勿使用手機<br>3)請準時上課<br>4)請參與討論<br>5)教室內請勿飲食<br>6)但凡課堂繳交，一律逾時不收<br>"
+}

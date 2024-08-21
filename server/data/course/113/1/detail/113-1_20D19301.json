@@ -1,0 +1,129 @@
+{
+    "code": "20D19301",
+    "name": {
+        "zh": "數位訊號處理學",
+        "en": "Digital Signal Processing"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技控晶四甲",
+        "四技控晶四乙"
+    ],
+    "instructors": [
+        "趙春棠"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "K411"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "K411"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "K411"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "2"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.高普考",
+        ""
+    ],
+    "description": "本課程係對訊號與系統之觀念進行總覽及解說。廣泛涵蓋許多重要主題，包括無限脈衝響應濾波器 (IIR)、有限脈衝響應濾波器 (FIR)、數位濾波器之有限字元長度效應，以及多重頻率數位訊號處理。同時複習基本數學觀念，如傅立葉分析、拉普拉斯轉換，以及 Z 轉換。並闡述相關應用。",
+    "prerequisites": "最好修過訊號與系統及Matlab",
+    "syllabus": {
+        "zh": "1. 訊號與系統的分類<br>2. 週期性和非週期性連續時間訊號及系統之傅立葉分析<br>3. 拉普拉斯 (Laplace) 轉換於系統分析之應用<br>4. 迴旋積分<br>5. Z-轉換<br>6. 線性非時變系統<br>7. 離散與快速傅立葉轉換<br>8. 有限脈衝響應 (FIR) 濾波器<br>9. 無限脈衝響應 (IIR) 濾波器<br>10. 數位線性系統之實現<br>11. 語音訊號處理簡介<br>12. 影像訊號處理簡介<br>",
+        "en": "1. Classification of Signals and Systems<br><br>2. Fourier Analysis<br><br>3. Laplace Transform<br><br>4. Convolution<br><br>5. Z Transform<br><br>6. Linear Time Invariant System<br><br>7. Discrete and Fast Fourier Transform<br><br>8. Finite Impulse Response Filters<br><br>9. Infinite Impulse Response Filters<br><br>10. Implementation of Linear Digital Systems<br><br>11. Introduction to Audio Signal Processing<br><br>12. Introduction to Image Processing"
+    },
+    "weeklySchedule": "周1 緒論<br><br>周2~3. 弦波<br><br>周4~5. 頻譜表示法<br><br>周6~7. 取樣與混疊<br><br>周8. 有限脈衝響應 (FIR) 濾波器<br><br>周9  期中考<br><br>周10~11. FIR 濾波器的頻率響應<br><br>周12~13. 離散時間傅立葉轉換<br><br>周14~15. 離散傅立葉轉換<br><br>周16. Z 轉換<br><br>周17. 無限脈衝響應 (IIR) 濾波器<br><br>周18 Final test",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "加強學生對數位訊號處理觀念的了解",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "使學生熟習數位訊號處理相關應用技術",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "訓練學生 MATLAB 及其他相關軟體設計及應用之能力",
+            "teachingMethods": [
+                "課堂講授",
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "整合相關技術產生創意思維",
+            "teachingMethods": [
+                "啟發思考",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "數位訊號處理",
+        "author": "余兆棠等",
+        "publisher": "滄海圖書",
+        "year": "2017",
+        "ISBN": "978-986-6507-91-5",
+        "edition": "1"
+    },
+    "referenceBooks": "Discrete-Time Signal Processing (3rd Edition) (Prentice Hall Signal Processing) Alan V. Oppenheim and Ronald W. Schafer",
+    "teachingSoftware": "Matlab",
+    "rules": "DSP   http://faculty.stut.edu.tw/~tang/dsp  <br>"
+}

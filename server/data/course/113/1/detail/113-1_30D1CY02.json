@@ -1,0 +1,127 @@
+{
+    "code": "30D1CY02",
+    "name": {
+        "zh": "無線感測網路協定與應用",
+        "en": "Protocols and Architectures for Wireless Sensor Networks"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技電子三丙"
+    ],
+    "instructors": [
+        "鄭琮生"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "J301"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "J301"
+        },
+        {
+            "day": "週五",
+            "period": "第7節",
+            "location": "J301"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程的主要目標，在於讓學生了解無線感測網路相關通訊協定、軟體開發技術以及硬體介面之基本知識與觀念，並輔以一系列實驗課程，讓學生透過自己所撰寫的程式，控制無線感測器之硬體元件，以達到理論與實務兼備的教學目的。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. Introduction Applications of WSNs<br>2. Single-node architecture Hardware components<br>3. Fundamentals of wireless protocols <br>4. Routing protocols<br>5. Topology control<br>6. Time synchronization<br>7. Localization and positioning<br>8. Coverage<br>9. 物聯網簡介<br>10. Special Topics Report 專題報告",
+        "en": "1. Introduction Applications of WSNs<br>2. Single-node architecture Hardware components<br>3. Fundamentals of wireless protocols <br>4. Routing protocols<br>5. Topology control<br>6. Time synchronization<br>7. Localization and positioning<br>8. Coverage<br>9. Introduction to Internet of Things<br>10. Special Topics Report"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解無線感測網路",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "撰寫程式，控制無線感測器之硬體元件",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "軟體及硬體介面的設計",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過專題報告訓練學生團隊合作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解無線感測網路未來的發展方向與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

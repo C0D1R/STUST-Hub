@@ -1,0 +1,110 @@
+{
+    "code": "20D18702",
+    "name": {
+        "zh": "工程‧倫理與社會",
+        "en": "Engineering, Ethics and Society"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技控晶三乙"
+    ],
+    "instructors": [
+        "侯春茹"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "K412"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "K412"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程主要分為兩部分：<br>一、STS概論：介紹STS，及引導同學熟悉關於STS的重要議題及案例 (如 環境、生技、IT產業)。<br>二、專題：以電機工程問題為起點，如太陽能、核能發電等之科技發展過程與社會發展的相互關係。並以STS所涉及之問題的探究或問題的解決，讓學員了解工程師與倫裡及社會的互動及關係，進一步培養現代公民核心能力。<br><br><br>",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "一、課程簡介：工程設計需要STS嗎？<br>二、STS概論：什麼是STS？STS的核心議題<br>三、倫理素養建立：對工程倫理議題具備基本認識、能對倫理議題理性判斷。<br>四、民主素養建立：參與民主審議之知能與美德。<br>五、科學素養建立：瞭解科學產生之效果及其相應限制，進而願意參與科學相關公共議題之討論、反思及抉擇。<br>六、媒體素養建立：對媒體訊息保有開放、批判及省思之能力。<br>七、美學素養建立：對藝文，亦針對生活世界之種種事物，泛指對於事物（非道德性）統整性價值之體會。",
+        "en": "1.Introduction<br>2.What is STS?<br>3.Ethics Literacy<br>4.Democracy Literacy<br>5.Science Literacy<br>6.Media Literacy<br>7.Aesthetic Literacy<br>"
+    },
+    "weeklySchedule": "第1週 導論<br>第2週 問題就在我們的身邊<br>第3週 我們需要專業倫理教育<br>第4週 工程師倫理<br>第5週 專業倫理的重要與定義<br>第6週 工程倫學<br>第7週 案例討論<br>第8週 案例討論<br>第9週 期中考  <br>第10週 專業的期許與規範<br>第11週 專業倫理施行法則<br>第12週 案例討論工程師的專業職責<br>第13週 以個案詮釋規範<br>第14週 預防倫理<br>第15週 問題處理<br>第16週 舉發<br>第17週 放假<br>第18週 期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "近年來,一些重大的工業災變與工程弊端的發生,引起煤體與社會大眾的高度觀切,因此開始探討自基礎培養工程倫理的思想與態度及分析複雜倫理問題的能力,",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解可能於職場上遭遇到的倫理議題與困境,以尋求正確的解決辦法.",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "介紹課程環境保護、工業安全、工業衛生與工程倫理等四大主題，與解決方法及方向。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "介紹工程師應具有的基本倫觀念、責任、統禦能力與對公司忠誠，及尊專重雇主職權的觀念。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "工程倫理學四版",
+        "author": "周卓煇",
+        "publisher": "高立",
+        "year": "",
+        "ISBN": "9789863782742",
+        "edition": "4"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,110 @@
+{
+    "code": "W0Q04M01",
+    "name": {
+        "zh": "策略性行銷管理",
+        "en": "Strategic Marketing"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "高企碩士班二甲"
+    ],
+    "instructors": [
+        "洪敏莉"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第11節",
+            "location": "E0603"
+        },
+        {
+            "day": "週五",
+            "period": "第12節",
+            "location": "E0603"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "Marketing knowledge is the driver of marketing performance improvement. The format of class sessions includes lecture material supplemented by cases and assignments for illustrating certain topics.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1 Defining Marketing for the 21st Century Creating Customer Value, Satisfaction, and Loyalty (A1,A5)<br>2 Developing Marketing Strategies and Plans (A2)<br>3 Gathering Information and Scanning the Environment (A3)<br>4 Conducting Marketing Research and Forecasting Demand (A4)<br>5 Analyzing Consumer and Business Markets (A6, A7) Cruise Ships – Not Just for Grandma and Grandpa Anymore<br>6 Identifying Market Segments and Targets (A8) Fast Food Turns Healthy<br>7 Crafting the Brand Positioning (A10) Acer<br>8 Setting Product Strategy (A12) Procter &amp; Gamble in Europe A roll-out launch<br>9 Designing and Managing Services (A13) Ryanair ： Low Prices, High Profits- But Increasing Competition<br>10 Developing Pricing Strategies and Programs (A14) Krispy Kreme Doughnuts Going Global ？<br>11 Designing and Managing Value Networks and Channels (A15) Wal-Mart：The World’s Largest Company vs. Whole Food Market<br>12 Managing Retailing, Wholesaling, and Logistics (A16) Nestle：The Infant Formula Controversy<br>13 Designing and Managing Integrated Marketing Communications (A17) National Office Machines — Motivating Japanese Salespeople: Straight Salary or Commission？<br>14 Managing Mass Communications： Advertising, Sales Promotions, Events, and Public Relations (A18) Integrated Marketing Communication Takes on Some New Twists<br>15 Managing Personal Communications： Direct Marketing and Personal Selling (A19) Starbucks-Going Global Fast<br>16 Tapping into Global Markets (A21) AIDS, Condoms, and Carnival<br>17 Managing a Holistic Marketing Organization (A22)<br>18 Final Exam<br>",
+        "en": "1 Defining Marketing for the 21st Century<br>Creating Customer Value, Satisfaction, and Loyalty (A1,A5)<br>2 Developing Marketing Strategies and Plans (A2)<br>3 Gathering Information and Scanning the Environment (A3)<br>4 Conducting Marketing Research and Forecasting Demand (A4)<br>5 Analyzing Consumer and Business Markets (A6, A7)Cruise Ships – Not Just for Grandma and Grandpa Anymore<br>6 Identifying Market Segments and Targets (A8)Fast Food Turns Healthy<br>7 Crafting the Brand Positioning (A10)Acer<br>8 Setting Product Strategy (A12)Procter &amp; Gamble in Europe A roll-out launch<br>9 Designing and Managing Services (A13)Ryanair ： Low Prices, High Profits- But Increasing Competition<br>10 Developing Pricing Strategies and Programs (A14)Krispy Kreme Doughnuts Going Global ？<br>11 Designing and Managing Value Networks and Channels (A15)Wal-Mart ： The World’s Largest Company vs. Whole Food Market<br>12 Managing Retailing, Wholesaling, and Logistics (A16)Nestle：The Infant Formula Controversy<br>13 Designing and Managing Integrated Marketing Communications (A17)<br>National Office Machines — Motivating Japanese Salespeople：Straight Salary or Commission？<br>14 Managing Mass Communications：Advertising, Sales Promotions, Events, and Public Relations (A18)Integrated Marketing Communication Takes on Some New Twists<br>\t<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "瞭解市場導向，顧客滿意與利潤之關係",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "瞭解如何進行行銷分析",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習如何進行策略市場規畫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習如何進行行銷戰術規畫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,111 @@
+{
+    "code": "30D1E101",
+    "name": {
+        "zh": "實務專題(一)",
+        "en": "Project (I)"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技電子四丙"
+    ],
+    "instructors": [
+        "王立洋"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "指導學生進行研究專題，以培育其實務的能力，學生必須選定一實務專題，由本系教師指導，在畢業前完成成品製作，且須有書面報告。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 成品設計與製作<br>2. 成品測試<br>3. 期中報告<br>4. 成品除錯<br>5. 成品驗收<br>6. 期末報告",
+        "en": "1. Product design &amp; fabrication<br>2. Product testing<br>3. Midterm report<br>4. Product debug<br>5. Product finished<br>6. Final report"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能清楚且完整說明專題的研究動機、問題定義、文獻回顧與探討、研究方法及步驟等。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能善用電腦與資訊工具撰寫排版美觀的研究規劃書及繪製專業的圖表。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能於規劃書中提出創新的設計，並能說明理由及適當地引用參考文獻。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "規劃書內容涵蓋多個工程領域，且作適當之整合。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "規劃書之經費規劃、工作分配及進度規劃完善。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

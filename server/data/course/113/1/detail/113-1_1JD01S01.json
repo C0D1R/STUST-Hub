@@ -1,0 +1,110 @@
+{
+    "code": "1JD01S01",
+    "name": {
+        "zh": "青銀軟實力",
+        "en": "Soft Power of Qingyin"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技高福三甲"
+    ],
+    "instructors": [
+        "劉明宜"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第1節",
+            "location": "O101"
+        },
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "O101"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程旨在指導學生了解高齡者因退化、吞嚥困難，僅能吃攪打後乳糜狀的食物，缺乏色、香、味，而讓食慾減低，造成營養不良。期訓練學生在營養的角度下如何調理餐食，強調食材易食性與色香味俱全，協助高齡者能安全的進食，並透過年青人與高齡者的創意，促使長者吃得美味與健康。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.認識吞嚥障礙與照護飲食<br>2.老人營養不良、肌少症認識<br>3.吞嚥困難飲食質地描述與分類<br>4.營養問題之處理、補充或調整<br>5.如何幫助吞嚥障礙者安全進食<br>6.膳食設計，準備篇：工具、食材與基本烹調法介紹<br>7.膳食設計，食譜篇：各類菜單、素食、點心、飲料製作。",
+        "en": "1. Recognize dysphagia and nursing food<br>2. Recognition of malnutrition and sarcopenia in the elderly<br>3. Description and classification of the soft diets with difficulty swallowing<br>4. Treatment, supplement or adjustment of nutrition problems<br>5. How to help people with dysphagia eat safely<br>6. Meal design, preparation: introduction to tools, ingredients and basic cooking methods<br>7. Meal design, recipe: menus, vegetarian food, snacks, beverage production."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識吞嚥照護飲食",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "營養問題之處理、補充或調整",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "幫助吞嚥障礙者安全進食",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "吞嚥照護飲食實際製備能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

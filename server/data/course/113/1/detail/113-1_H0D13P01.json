@@ -1,0 +1,151 @@
+{
+    "code": "H0D13P01",
+    "name": {
+        "zh": "食品分析",
+        "en": "Food Analysis"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技食品三甲"
+    ],
+    "instructors": [
+        "賴嘉萍"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "I0303"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "I0303"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "I0303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語",
+        "2.英語"
+    ],
+    "certificationsSupport": [
+        "1.食品檢驗與分析丙, 乙級",
+        "2.高考食品技師"
+    ],
+    "description": "本課程教授食品組成分析的理論與方法，內容包括：分析樣品的前處理與製備、實驗數據的分析，一般成分及特定成分之分析方法及相關儀器之使用及原理。",
+    "prerequisites": "食品化學、食品微生物",
+    "syllabus": {
+        "zh": "1.食品樣品之採樣、製備及結果資料分析<br>2.食品分析儀器原理、方法及應用（光譜、層析、物性及色差分析等）<br>3.食品中一般成分分析（醣類、蛋白質、油脂、水分、灰分等）<br>4.食品特定成分分析（維生素、礦物質及膳食纖維、常見重金屬、微生物毒素、毒物、食品添加物等）<br>",
+        "en": "1. Food sampling, preparing samples, separation, detection, and data analysis<br>2. Principles, methods and applications of instrumental analysis in food<br>3. Analysis of general composition of foods<br>4. Analysis of specific composition of foods<br>"
+    },
+    "weeklySchedule": "週次\t教學進度<br>1\t課程介紹<br>2\t緒論<br>3\t食品分析實驗安全守則<br>4\t試驗溶液配製<br>5\t食品樣品之採樣、製備及結果資料分析<br>6\t食品分析儀器介紹<br>7\t食品中一般成分分析-水分<br>8\t食品中一般成分分析-脂質<br>9\t期中考<br>10\t食品中一般成分分析-蛋白質檢測<br>11\t食品中一般成分分析-蛋白質檢測<br>12\t食品中一般成分分析-醣類檢測<br>13\t食品中一般成分分析-維生素檢測<br>14\t食品中一般成分分析-礦物質檢測<br>15\t食品衛生安全影響因子-油脂品質分析<br>16\t食品衛生安全影響因子-食品新鮮度檢測<br>17\t食品添加物檢測<br>18\t期末考<br><br>",
+    "exams": {
+        "midterm": "期中筆試",
+        "final": "期末筆試",
+        "other": "隨堂口試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "獲得食品分析專業知識 (專業術語、分類、方法及趨勢)",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解食品中各項成分之分離和定量分析方法與步驟",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "了解食品分析如何應用於食品工業",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "實驗室品質保證之建立及管控",
+            "teachingMethods": [
+                "課堂講授",
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口試",
+                    "type": "平時"
+                },
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義 (賴嘉萍)",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "1.楊登傑、李煜玲、藍群傑、謝秋蘭、江淑華、陳炳輝、林錫斌、朱正明、林鵬翔、傅偉光、蔡佳芬、陳石松、蕭泉源、蔡政融、高彩華，＜新編食品分析與檢驗＞，台中，華格那出版社，2015年9月。ISBN：9789863621935<br>2.王美苓、周政輝、晏文潔，＜食品分析實驗＞，台中，華格那出版社，2017年。ISBN：9789863623588<br>3.張瓈文、鍾玉明、王美苓、晏文潔、李家璞、周政輝&lt;乙級食品檢驗分析技術士增能實務必勝手冊&gt;，台中，華格那出版社，2017。ISBN：978-986-362-411-0<br>4. 食品技師歷屆試題",
+    "teachingSoftware": "PowerPoint",
+    "rules": "建議修課同學報考食品技師, 勞動部丙乙級食品檢驗分析技術士"
+}

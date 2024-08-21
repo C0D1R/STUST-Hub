@@ -1,0 +1,127 @@
+{
+    "code": "50D22701",
+    "name": {
+        "zh": "網頁設計",
+        "en": "Website Design"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電商二甲"
+    ],
+    "instructors": [
+        "丁介人"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第2節",
+            "location": "T0807"
+        },
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "T0807"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "T0807"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "使學生了解網站規劃之原理與原則、培養學生具有網頁製作的能力。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 網頁製作軟體操作、設定<br>2. 編輯文字、文件。加入圖片與動畫<br>3. 超連結及網頁背景<br>4. 表格版面配置與圖層<br>5. 框架、共用邊框<br>6. 佈景主題、網頁元件<br>7. 網頁特效、HTML、CSS<br>8. 學期專題成果呈現<br><br>",
+        "en": "1. Introduction<br>2. Edit and graph<br>3. Hyperlink and background<br>4. Table and graph level<br>5. Frame<br>6. Web Components<br>7. DynamicHTML、HTML、CSS<br>8. Final report<br><br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解網站規劃之原理與原則",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生具有網頁製作的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉網站設計建置的各項功能技巧與應用",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "以範例導向，Step by step方式，引導學習",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "配合實作題練習，完成一個完整的網站製作",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

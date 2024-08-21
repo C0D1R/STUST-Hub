@@ -1,0 +1,115 @@
+{
+    "code": "1LD07L01",
+    "name": {
+        "zh": "綠色療癒與心生活",
+        "en": "Green Healing and Heart Life"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "李國陽"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "M202"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "M202"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "M202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程將介紹綠色療癒的生活應用，內容介紹植物世界中香草植物認識、生活蔬菜種植、果樹認識與種植、景觀作物學習等增加學生對大自然的認識，學習大自然生命力的運作，課程中將以DIY模式從實踐校園香草菜園、生活身心療癒目的，如：香草蔬果園實作學習、飲品泡茶純露心靈舒壓，進行跨領域分組學習，作為21 世紀身心靈體驗之旅。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "課程介紹綠色療癒原理、植物世界認識，農作種植基本認識、植物生長要素、香草蔬果園實作學習、了解香草蔬果的功能性應用。課程中分析21世紀人們生活上身心靈療癒的需求，進行規畫校園青年學子香草蔬果園，進行身心療癒實踐學習。進行學生團隊組合，進行團隊式學習，學習提出身心療癒規劃方案。",
+        "en": "The course introduces the principles of green healing, the understanding of the plant world, the basic understanding of farming and planting, the elements of plant growth, the practical study of herb and vegetable orchards, and the functional application of herbs and vegetables. The course analyzes the needs of people's upper body and spiritual healing in the 21st century, plans the herbal vegetable orchard for young students on campus, and conducts physical and mental healing practice learning. Carry out team composition of students, conduct team-based learning, and learn to propose physical and mental healing plans."
+    },
+    "weeklySchedule": "第一週\t課程介紹\t21世紀心靈生活需求<br>第二週\t綠色療癒原理介紹與應用\t綠色療癒介紹<br>第三週\t認識植物世界、植物基本認識\t植物類別與特性<br>第四週\t農作種植基本認識    \t認識農作種植<br>第五週\t植物生長要素基本知識\t植物生長知識<br>第六週\t香草蔬果園香草種植實踐學習一\t香草植物種植<br>第七週\t香草蔬果園蔬果種植實踐學習二\t蔬菜植物種植<br>第八週\t香草蔬果園果樹種植實踐學習三\t果樹植物種植<br>第九週\t期中報告\t<br>第十週\t無毒農業學習，認識SDGs、ESG社會活動\t了解地球氣候、土地環境需求<br>第十一週\t青年學子校園香草蔬果療癒園建置\t校園香草蔬果療癒園建置<br>第十二週\t植物身心療癒與樂活教育推廣\t植物身心療癒教育推廣<br>第十三週\t種植植物之加工方法學習\t植物之加工學習<br>第十四週\t種植植物產品生活舒壓應用\t植物與舒壓商品<br>第十五週\t自我學習，建構綠色療癒實踐方案\t建立自我學習方法<br>第十六週\t團隊組成與學習討論(綠色身心療癒企劃)\t資料收集與規畫構想建構<br>第十七週\t分組討論學習 (心靈陽光與希望交流推廣)\t團隊成果展示<br>第十八週\t期末報告\t<br>",
+    "exams": {
+        "midterm": "期中報告",
+        "final": "期末報告",
+        "other": "八、十七分組企劃討論成果"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "香草蔬果植物認識與應用",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "香草蔬果植物種植、萃取、加工",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "規劃青年學子校園香草蔬果園",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "設計製作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "植物世界身心療癒企劃推廣",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "網路資訊",
+    "teachingSoftware": "flip class",
+    "rules": "按時上課，校園花圃實作"
+}

@@ -1,0 +1,115 @@
+{
+    "code": "70Q0AE01",
+    "name": {
+        "zh": "不動產估價理論",
+        "en": "Real estate appraisal"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專企管一乙"
+    ],
+    "instructors": [
+        "余建明"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第8節",
+            "location": "S301B"
+        },
+        {
+            "day": "週六",
+            "period": "第9節",
+            "location": "S301B"
+        },
+        {
+            "day": "週六",
+            "period": "第10節",
+            "location": "S301B"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "在資產多元化的年代，不動產可做為自用，也可做為投資，也可做為資產配置與運用之操作，因此如何利用不動產的增值進行不動產之投資，估計不動產的價值與價格變化，已經成為同學應該學習的課題。學習本課程最主要目的在於了解與熟悉不動產在估價實務上運作，並可透過估價實務上之練習，熟悉各種估價的方法。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、不動產估價實務流程<br>2、不動產估價技術規則解析 <br>3、比較法案例與實務操作 <br>4、成本法案例與實務操作 <br>5、土地開發分析與案例與實務操作 <br>6、收益法案例與實務操作 <br>7、都市更新權利變換估價<br>",
+        "en": "1. The Real Estate Appraisal practice processes <br>2. Analysis of Real Estate Appraisers rules. <br>3. The cases of Comparison Approach and practical operation. <br>4. The cases of Cost Approach and and practical operation. <br>5. The cases of Land development analysis Approach and practical operation. <br>6. The cases of Income Approach and practical operation. <br>7. For the valuation of rights exchange in an urban renewal scheme (Including Bulletin).<br>"
+    },
+    "weeklySchedule": "第 1週　緒論<br>第 2週　估價師職業道德規範<br>第 3週　價值與價格<br>第 4週　不動產估價原則<br>第 5週　不動產估價原則<br>第 6週　影響價格因素分析<br>第 7週　影響價格因素分析　<br>第 8週　估價作業程序<br>第 9週  期中考　<br>第10週　比較法<br>第11週　比較法<br>第12週　收益法<br>第13週　收益法<br>第14週　成本法<br>第15週　成本法<br>第16週　土地開發分析<br>第17週　不動產總值中分離土地與建築物價格之合理性分析<br>第18週  期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備不動產估價技術規則知識與考取經紀人證照的基本知識與能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉不動產的價值與價格變化，深入瞭解不動產在估價實務上運作誠信等企業倫理觀念在不動產估價經營的重要性。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "培養估價業務的團隊運作觀念與合作關係。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "同儕互評",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "熟悉估價業務與估價報告流程。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "不動產估價",
+        "author": "卓輝華",
+        "publisher": "五南",
+        "year": "2019",
+        "ISBN": "9789577633125",
+        "edition": "4版"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": "「請同學尊重智慧財產權，使用正版教科書，不得非法影印，以免觸犯智慧財產權相關法令」。"
+}

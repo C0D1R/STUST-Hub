@@ -1,0 +1,116 @@
+{
+    "code": "G0M03401",
+    "name": {
+        "zh": "資料探勘理論與應用",
+        "en": "Data Mining Theories And Applications"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研資工一甲",
+        "碩資工產業一甲"
+    ],
+    "instructors": [
+        "李宗儒"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "C202"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "C202"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "C202"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "介紹如何利用資料探勘的技術協助分析與發掘隱含於大量資料中的有用資訊，進而產生有用的知識或加值資訊。增加資訊的可利用性，進而提昇資訊的服務品質，並應用於解決可能的科學與工程問題。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.簡介2.資料預先處理3.資料倉儲4.資料方體5. 探勘頻繁樣式6.分類7.分群8.串流探勘9.圖形探勘",
+        "en": "1.Introduction2.Data Preprocessing3.Data warehouse4.Data cube5.Mining frequent patterns6.Classification7.Cluster8.Mining stream9.Graph Mining"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "應用資料探勘軟體的分析能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建構資料探勘的實務技能",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "應用與操作資料探勘系統四能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能依使用者需求利用資料探勘技術解決問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

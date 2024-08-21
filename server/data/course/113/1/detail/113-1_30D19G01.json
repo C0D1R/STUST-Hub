@@ -1,0 +1,146 @@
+{
+    "code": "30D19G01",
+    "name": {
+        "zh": "計算機程式及實習",
+        "en": "Introduction to Programming Language"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技電子一甲",
+        "四電子國專一甲"
+    ],
+    "instructors": [
+        "楊榮林"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第1節",
+            "location": "J401"
+        },
+        {
+            "day": "週四",
+            "period": "第2節",
+            "location": "J401"
+        },
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "J401"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "The course covers such topics as programming language characteristics, integrated development environments, flowcharts, algorithms and pseudo codes, variables, operators, conditional statements, looping statements, procedures, error-handling and debugging, procedure-oriented programming techniques, and software modeling.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一.程式入門<br>二.資料型態與運算式<br>三.基本輸入與輸出<br>四.流程控制<br>五.陣列與字串<br>六.函式與巨集<br>七.指標<br>八.變數等級<br>九.C語言進階",
+        "en": "1.Introduction to Programming<br>2.Data Types and Expressions<br>3.Basic Input and Output<br>4.Flow Control  <br>5.Arrays and String<br>6.Functions and Macro<br>7.Pointers<br>8.Variable Classe<br>9.Advanced Topics in C"
+    },
+    "weeklySchedule": "第一週：課程介紹<br>第二週：玩程式設計 - PAIA <br>第三週：程式開發環境、C 語言簡介<br>第四週：資料與運算 (Data and Arithmetic)<br>第五週：流程控制(Flow Control)<br>第六週：迴圈(Loop)<br>第七週：函數(Function)<br>第八週：陣列(Array)<br>第九週：期中上機考試<br>第十週：「我們的福爾摩沙」SDGs 團體桌遊<br>第十一週：陣列(Array)<br>第十二週：字串(String)<br>第十三週：結構(Structure)<br>第十四週：指標(Pointer)<br>第十五週：動態記憶體(Dynamic Memory)<br>第十六、十七週：期末微型專題討論與實作<br>第十八週：微型專題展示、期末上機考試",
+    "exams": {
+        "midterm": "上機實作考試",
+        "final": "「微型專題展示」或「上機實作考試」",
+        "other": "每個課程單元會有對應的「形成性評量」；自動批閱選擇題"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "知道如何在撰寫程式之前進行設計程式與規劃",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能撰寫c語言程式解決工程問題。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "培養(建立) c語言程式專業知識與技能。",
+            "teachingMethods": [
+                "實作演練",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "學生能夠知道如何透過改變資料結構、演算法及程式的語法或指令，改善程式的執行速度或需要的記憶體。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "建立c語言程式設計基本知識，具備終身學習之科技基礎。",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                },
+                {
+                    "method": "實作",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編教材：數位線上教材",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "自編教材：數位線上教材",
+    "teachingSoftware": "Windows Subsystem for Linux (WSL)\nVisual Studio Code\nC/C++ Compiler\nDocker Desktop",
+    "rules": ""
+}

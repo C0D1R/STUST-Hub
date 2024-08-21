@@ -1,0 +1,121 @@
+{
+    "code": "01D15U02",
+    "name": {
+        "zh": "基礎微積分",
+        "en": "Elementary Calculus"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "五專化材三甲",
+        "五專資工三甲"
+    ],
+    "instructors": [
+        "郭俊麟"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第1節",
+            "location": "D203"
+        },
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "D203"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "D203"
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": "D203"
+        }
+    ],
+    "hours": {
+        "course": "4",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "微積分是工程科學裡最重要的基礎課程之一。它在電子、電機、機械、生物等領域中已有非常廣泛的應用，亦是專業科目(如工程數學)的先修課程。本課程內容為基本函數介紹及單變數函數的極限、連續、微分、積分、積分技巧與應用。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 預備知識<br>2. 極限與連續<br>3. 導數<br>4. 導數的應用<br>5. 定積分<br>6. 積分技巧<br>7. 定積分的應用",
+        "en": "1. Prerequisites for Calculus<br>2. Limits and Continuity.<br>3. Derivatives.<br>4. Applications of Derivatives.<br>5. The Definite Integral.<br>6. Techniques of Integration<br>7. Applications of the Definite Integral."
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解微積分基本概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能熟悉微積分計算技巧",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能理解微積分應用方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能應用微積分解決生活及職場的問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

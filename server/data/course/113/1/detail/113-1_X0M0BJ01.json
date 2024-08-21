@@ -1,0 +1,131 @@
+{
+    "code": "X0M0BJ01",
+    "name": {
+        "zh": "刑法",
+        "en": "Criminal Law"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "碩研財法一甲"
+    ],
+    "instructors": [
+        "李莉娟"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第6節",
+            "location": "S411B"
+        },
+        {
+            "day": "週一",
+            "period": "第7節",
+            "location": "S411B"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "講解刑法法條、實務法院見解、學說學者見解。 <br>知悉刑法法條的能力─犯罪標準何在?<br>解釋刑法法條的能力─其立法目的何在?<br>適用刑法條法條的能力─畢業後用以解決紛爭。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1、如何學習刑法?<br>2、介紹刑法法條編排?<br>3、介紹何謂犯罪?何謂犯罪理論?<br>4、介紹構成要件該當性?<br>5、介紹違法性?<br>6、介紹有責性?",
+        "en": "How to study criminal law<br>Arrangement of Articles in criminal law<br>What is crime? Criminology<br>culpability<br>Illegality<br>blameworthiness"
+    },
+    "weeklySchedule": "第一週\t課程介紹、刑法架構介紹（總則犯罪論及刑罰論、分則）<br>第二週\t行為理論與構成要件<br>第三週\t違法性(1)<br>第四週\t違法性(2)<br>第五週\t罪責<br>第六週\t不作為犯<br>第七週\t過失犯<br>第八週\t未遂犯(1)<br>第九週\t期中考<br>第十週\t未遂犯(2)<br>第十一週\t參與理論<br>第十二週\t錯誤理論<br>第十三週\t競合論<br>第十四週\t個人法益：生命、身體及自由（含性自主權）<br>第十五週\t個人法益：財產<br>第十六週\t個人法益：人格與隱私<br>第十七週\t國家及社會法益<br>第十八週\t期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "課程參與"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解刑法分則各罪名",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "日常表現",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "分析各罪名的構成要件",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "分析實務見解與學說理論",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "解析重要判決",
+            "teachingMethods": [
+                "課堂講授",
+                "個案研究(PBL)"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "刑法概要─刑法總則（盧映潔 、李鳳翔，五南文化，2024）<br>刑法概要─刑法分則（盧映潔 、李鳳翔，五南文化，2024）<br>",
+    "teachingSoftware": "",
+    "rules": ""
+}

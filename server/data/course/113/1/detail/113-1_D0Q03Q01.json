@@ -1,0 +1,116 @@
+{
+    "code": "D0Q03Q01",
+    "name": {
+        "zh": "組織與領導",
+        "en": "organization and leadership"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "碩專行流一甲"
+    ],
+    "instructors": [
+        "梁玲瑜",
+        "黃靖媛"
+    ],
+    "schedule": [
+        {
+            "day": "週六",
+            "period": "第5節",
+            "location": "T0212"
+        },
+        {
+            "day": "週六",
+            "period": "第6節",
+            "location": "T0212"
+        },
+        {
+            "day": "週六",
+            "period": "第7節",
+            "location": "T0212"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "管理的四大職能是：計劃、組織、領導和控制。其中，領導作為一種管理活動，在此指管理者通過指導、激勵、帶領等方式對下屬的思想、行為施加影響，從而去努力達成組織目標的過程，是有效管理工作必不可少的一個環節。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "了解組織與領導理論是研究領導者如何在組織有效帶領部屬的理論，是管理學理論研究的熱點之一。影響領導有效性的因素以及如何提高領導的有效性是領導理論研究的核心。<br>　　探討領導理論其大致有四種理論學派：早期的特質理論和行為理論、近期的權變理論以及當前的領導風格理論。按照時間的順序，在20世紀40年代末，也就是領導理論出現的初期，研究者主要從事的是領導的特製理論的研究，其核心觀點是：領導能力是天生的；從40年代末至60 末，主要進行的是領導行為理論的研究，其核心觀點是：領導效能與領導行為、領導風格有關；從60年代末至80年代初，出現領導權變理論，其核心觀點是：有效的領導受不同情景的影響；從80年代初至今，大量的出現了領導風格理論的研究，其主要觀點是：有效的領導需要提供願景、鼓舞和注重行動。<br>",
+        "en": "1.trait theory<br>2.behavioral theory<br>3.contingency theory<br>4.leadership style theory<br>5.leader-member exchange theory<br>6.strategic leadership<br>7.group leadership"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解人與工作、組織和環境的相關問題",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解激勵在組織管理中重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解溝通在組織領導的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解領導在組織管理的重要性",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,127 @@
+{
+    "code": "1ND02O02",
+    "name": {
+        "zh": "星空的科學",
+        "en": "Science of the Universe"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "自然科學領域"
+    ],
+    "instructors": [
+        "戴守煌"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "I0208"
+        },
+        {
+            "day": "週五",
+            "period": "第5節",
+            "location": "I0208"
+        },
+        {
+            "day": "週五",
+            "period": "第6節",
+            "location": "I0208"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程授課內容為天文學導論。天文學是一門古老的科學，也是21世紀最熱門的研究科目之一。我們日常使用的曆法便是源自於天文觀測。本課程旨在協助同學們從日常生活以及現代科學的角度認識宇宙，並學習天文基本知識。課程內容由日常經歷的日月星辰現象出發，一直涵蓋到宇宙的歷史與未來。<br>本課程為行動導向走讀課程，課程中將參觀南瀛天文館；也是小組討論式教學課程。<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.古代天文成就<br>2.恆星與行星的視運動<br>3.天文觀測與計時<br>4.太陽系模型：地心說vs.日心說<br>5.探索太陽系<br>6.恆星與星系<br>7.宇宙的過去、現在與未來<br>",
+        "en": "This course is an introduction to elementary astronomy. It aims to help the students understand the universe from the point of view of modern science. The course contents start from the observable daily-life astronomical phenomena, and extends to the solar system and to the evolution of the universe. This is also an action-oriented learning and small group teach course.<br><br>This course contains the following topics:<br>1. Our achievement in astronomy in the ancient era.<br>2. The apparent motion of the stars and the planets<br>3. Astronomical observation and the measurement of time<br>4. The models of the solar system: geocentric vs heliocentric<br>5. Exploring the solar system<br>6. Stars and the galaxy<br>7. The evolution of the universe<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "學習基本天文知識",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "了解全世界天文研究及太空任務的最新成果",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過問題探討，培養批判性思考的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過小組討論，增進口語表達、聆聽與回應他人、小組合作、簡報製作、以及口頭報告的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "透過小組口頭報告，增進資料搜尋、資訊整合的能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

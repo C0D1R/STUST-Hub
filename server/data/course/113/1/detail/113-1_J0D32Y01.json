@@ -1,0 +1,122 @@
+{
+    "code": "J0D32Y01",
+    "name": {
+        "zh": "設計繪畫",
+        "en": "Design Painter"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技動畫二甲"
+    ],
+    "instructors": [
+        "李婉貞"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "W0602"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "W0602"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為延續大一課程之進階課程，藉由不同主題與媒材的練習，各種創意啟發與討論，創作屬於自己的設計繪畫。This course is an advance course from the freshman year course. By exploring different topic and medium, discussion on issues in different fields, the students can develop their own design drawing.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.繪畫風格與媒材介紹 1.\tIntroducing different painting style and medium<br>2.繪畫媒材體驗－平面 2.\tExploring painting medium – 2D<br>3.繪畫媒材體驗－半立體 3.\tExploring painting medium – relief form<br>4.繪畫媒材體驗－立體4.\tExploring painting medium – 3D <br>5.綜合繪畫媒材運用 5.\tMixing different painting medium.<br>6.個人設計繪畫風格創作6.\tCreative personal painting style.<br>",
+        "en": "Week 1: Introduction of the course<br>Week 2: Setting Theme – dividing students in to groups and discussing proposal in groups.<br>Week 3: Discussing proposal in groups and making sketch.<br>Week 4: Keep working on sketch in groups.<br>Week 5: Finish first proposal and making it into digital form. Discussion in class. <br>Week 6: Hand-drawn animation sketch (1)<br>Week 7: Hand-drawn animation sketch (2)<br>Week 8: Hand-drawn animation sketch (3)<br>Week 9: Mid-tern exam<br>Week 10: Finishing hand-drawn animation. Students discuss and present one minute animation work.<br>Week 11: Painting technique – Perspective 1<br>Week 12: Painting technique – Perspective 2<br>Week 13: Painting technique – Perspective 3<br>Week 14: Finish assignment – Students presentation<br>Week 15: Personal style painting<br>Week 16: Personal style painting<br>Week 17: Personal style painting<br>Week 18: Final exam<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "從使用鉛筆的方法開始，實物結構的理解，明暗、實感的表現方法等基礎寫實之呈現",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "描繪出物體在空間中的位置，藉此掌握物體形象、明暗的基本訓練",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練學生能應用在造形掌握的能力及描繪速度的養成",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "培養學生能分析人體的結構和場景構圖的描繪能力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "藉由不同主題與媒材的練習，各種創意啟發與討論，創作屬於自己的設計繪畫",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

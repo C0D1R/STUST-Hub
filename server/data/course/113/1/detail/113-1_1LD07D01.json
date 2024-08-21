@@ -1,0 +1,115 @@
+{
+    "code": "1LD07D01",
+    "name": {
+        "zh": "電影與情意敘事",
+        "en": "Film and emotional narration"
+    },
+    "credit": "3",
+    "type": "自選必修",
+    "classes": [
+        "人文藝術領域"
+    ],
+    "instructors": [
+        "彭易璟"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "E0507"
+        },
+        {
+            "day": "週三",
+            "period": "第5節",
+            "location": "E0507"
+        },
+        {
+            "day": "週三",
+            "period": "第6節",
+            "location": "E0507"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "一、「對話」聚焦敘事<br>1.反應系統與情緒真實；2.名家理論與相應的影音情意敘事<br>二、復原力形塑親密關係<br>1. 溝通型態與內在資源；2.情境故事法與人在家庭雕塑<br>三、多元共構，優質教育<br>1.設計思考的文學跨域；2.創思設計與人我關係價值共感<br>",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、敘事與表情達意<br>透過敘事修辭手法與場域中的親身感受，整理生活現實與流行用語，沉澱課堂上肌理鮮明的引導，觀察繁花似錦的情意敘事素材，隨著閱讀的情緒復原歷程，衍化別出心裁的敘事活力與多姿多彩的心衛養份，重組新的人際模式。<br>二、分組討論翻轉的名家經典<br>「世界咖啡屋」討論活動，連結同儕的觀影心得與現場對話，<br>「溝通型態三人組」和「家庭雕塑」模擬與分組展示，則系統性地描繪同學們的情緒與感性體驗，進而能夠利用「情境故事法」更深刻地傳達抽象的理念和具體的設計，來反映情意敘事的形態及溝通模式的真實體現。<br>三、自主學習模式，深刻地概括人類特性<br>情緒繫連表達需求，真實而切合實際的敘事，可調適通識課程情意教育的步調，深化情緒復原力的學習效益。以電影劇情貼近學生情緒節奏，引導學生體會身體就是個實驗的平臺，心煩意躁容易忽略，靜下心來即可顯露眼前美景。在校園環境中援入說理達情的敘事領域，讓情意教育變化身體感知的真實向度，促進「和諧共榮」的人際關係。<br>四、具象化的E化多媒體敘事<br>具象化的E化多媒體以及相關影音資料引導不善言辭的學生，通過視聽具象創意表達，成功的透過熱門影音、經典人物、動漫、3D等與時俱進的多元敘事資料，展示虛實交錯的視覺效果，新潮而美不勝收的奇幻紋路，挑戰著學生們「情意教育」的敘事味蕾，務實地重製活潑的復原力，飽含直指生活底層的會心共鳴，深入「自我—描述」的情境。",
+        "en": "I. Narration and expression<br>By observing the colorful emotional narrative materials, in the life reality and popular language, the unique narrative vitality and colorful mind health nutrition are derived, which can pragmatically activate the emotional resilience.<br><br>II. Group discussion on the classics of the flipped<br> Through the simulation and group display of \"communication type trio\" and \"family sculpture \", the emotional experience is systematically described, and the communication mode is truly embodied by the situational story method.<br><br>III. the model of autonomous learning, a profound summary of human characteristics<br>The film plot is close to the students' emotional rhythm, and the narrative field of reasoning and reasoning is added to deepen the learning benefit of emotional resilience.cThis can promote \"harmonious and prosperous\" relationships.<br><br>Ⅳ. concretized E-multimedia narrative<br>Multiple narrative materials, such as popular videos, classic characters, animation and 3D, which keep pace with the times, are utilized. It challenges the narrative taste buds of \"affective education\" and deepens the situation of \"self-description\".<br>"
+    },
+    "weeklySchedule": "一、1-2週敘事與表情達意<br>第1週情緒啟動生理系統： 一、我與我的新好情緒 二、敘事與療癒<br><br>第2-3週情緒的樣子： 一、ABC理論 二、原級情緒V.S.次級情緒<br><br>第4-5週人際過敏 ： 一、習得次級情緒 二、圓桌討論：家庭劇與 10項議題<br><br>第6-7週壓力事件簿 ： 一、好壓力與壞壓力 二、解壓線上互動<br><br>第8-9週溝通解碼： 一、訊號辨識與解讀 二、業師演講<br><br>第10週溝通型態： 一、四種求生存的姿態 二、人際過敏有妙招<br><br>11-12週人在家庭： 一、和誰同盟：和父母的三角關係 二、親職小孩：不同視角的家庭系統<br><br>13-14溝通之舞家庭劇： 一、熟悉的角色 二、無意中介入的遊戲<br><br>15-16溝通的現場雕塑： 一、角色的力量 二、3人一組的遊戲價值<br><br>17有效的家庭動力系統： 一、雕塑家庭故事 二有效的情緒敘事復原力<br><br>第18週學習地圖總整理： 小組彙編和諧的人際關係",
+    "exams": {
+        "midterm": "筆試，小組作業與線上互動題",
+        "final": "無筆試，小組作業與分組報告",
+        "other": "小組討論"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "多元敘事與情意表達",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "分組討論與翻轉名家經典",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "自主學習概括人性",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "自我評量",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具象化的多媒體敘事",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期中"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "「情意敘事：啟動情緒復原力」",
+        "author": "彭易璟",
+        "publisher": "麗文出版文出版",
+        "year": "2022",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "陳茂雄《薩提爾的自我覺察練習》天下雜誌出版 ，2022",
+    "teachingSoftware": "自製ppt",
+    "rules": "歡迎各位修習此門課程,第二週之後加選的同學請與老師討論後再加入,注意事項如下:<br>1.本課程引領情緒故事、整理內在力量,啟動有效療癒.是重視「課堂分享與表達」的生命營養課程.<br>2.以PBL方式上課的課程，計有3次上網經驗分享,2次情緒故事書寫,1次業師演講活動.重要課堂活動務必到堂。<br>3.避免課堂中吃東西、聊天、睡覺，不帶上課教材.<br>4.課堂中滑手機屢勸不聽者,手機交由老師及全班同學保管.<br>5.出席佔20%，上課未到者以曠課登記,遲到者請當堂到老師處註銷.3次未到堂,考慮給予不及格分數."
+}

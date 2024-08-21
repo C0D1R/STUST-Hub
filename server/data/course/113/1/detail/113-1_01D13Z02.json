@@ -1,0 +1,158 @@
+{
+    "code": "01D13Z02",
+    "name": {
+        "zh": "基礎化學",
+        "en": "Chemistry"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "五專電子一甲"
+    ],
+    "instructors": [
+        "鄭建民"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "I0207"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "I0207"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程以介紹化學與量測、原子、分子及離子，原子的電子結構及週期表，氣體及溶液的性質，物質與能量、酸鹼與平衡。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "著重在基礎的化學原理及應用，認識並瞭解物質的組成、結構、性質及其中的能量變化，加強科學基本素養，培養化學興趣，認識科學方法。",
+        "en": "Focus on the principles and application of basic chemical, recognize and understand the composition, structure, properties and energy changes of the material. Increase basic scientific literacy, cultivate interest in chemistry, and recognize scientific methods.<br><br>"
+    },
+    "weeklySchedule": "第1~2週:CH.1<br>第3~5週:CH.2、平時考-1<br>第6~8週:CH.3<br>第9週:期中考<br>第10~12週:CH.4<br>第13~15週:CH.5、平時考-2<br>第16~17週:CH.6<br>第18週:期末考",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "平時考2次、每週有作業"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "了解化學量測與計量",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習物質的組成",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "了解酸鹼反應與溶液性質",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習週期表與元素",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "作業",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "化學B",
+        "author": "徐慧萍、邱上峰、蕭志堅",
+        "publisher": "高立書局",
+        "year": "2022",
+        "ISBN": "978-986-217-961-1",
+        "edition": "2"
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

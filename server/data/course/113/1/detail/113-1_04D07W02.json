@@ -1,0 +1,159 @@
+{
+    "code": "04D07W02",
+    "name": {
+        "zh": "體育(七)：瑜珈(C)",
+        "en": "Physical Education(Ⅶ)：Aerobic Yoga"
+    },
+    "credit": "2",
+    "type": "自選必修",
+    "classes": [
+        "高年級體育選修",
+        "五專資工四甲"
+    ],
+    "instructors": [
+        "徐翠敏"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": ""
+        },
+        {
+            "day": "週二",
+            "period": "第4節",
+            "location": ""
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以教授哈達瑜珈(Hatha Yoga)為主，包括身體的姿勢、呼吸與放鬆技巧。再加上彼拉提斯(Pilates)所包含的肌力、柔軟度、平衡感與協調性等身體訓練。<br>",
+    "prerequisites": "注意事項：請穿著有彈性的運動服裝",
+    "syllabus": {
+        "zh": "頭到腳的暖身操<br>站姿的組合動作<br>坐姿的組合動作<br>跪姿的組合動作<br>臥姿的組合動作<br>放鬆與休息",
+        "en": "Warm-up from head to toe<br>Combination movements of Standing position<br>Combination movements of sitting position<br>Combination movements of kneeling position<br>Combination movements of prone position<br>Relaxation and resting<br>"
+    },
+    "weeklySchedule": "以敎授哈達瑜珈(Hatha Yoga)為主，包括身體的姿勢、呼吸與放鬆技巧。再加上<br>彼拉提斯(Pilates)所包含的肌力、柔軟度、平衡感與協調性等身體訓練。<br><br>1.紓解壓力、雕塑身材、促進全身循環代謝。<br>2.身心協調與穩定。<br>3.提高全身肌肉關節的彈性。<br>4.滿足個人健身並提升身體內外覺察與專注力。<br><br>瑜珈課程內容大綱：<br>1、何謂瑜珈？<br>2、何謂皮（Pilates）拉提斯？<br>3、呼吸法：腹式呼吸<br>4、體位法（Asans）：哈達瑜珈（Hatha Yoga）<br>   頭到腳的暖身操<br>   站姿的動作：如山式、英雄式<br>   坐姿的動作：如頭碰膝式<br>   跪姿的動作；如駱駝式<br>   臥姿的動作：如半橋式<br>   俯臥的動作：如弓式<br>   倒立的動作：如肩倒立<br>   平衡的動作：如樹式<br>不同方向的體位法<br>\t中立\t前彎\t後仰\t側彎\t扭轉\t倒立\t平衡<br>站姿\t\t\t\t\t\t\t<br>坐姿\t\t\t\t\t\t\t<br>跪姿\t\t\t\t\t\t\t<br>仰臥\t\t\t\t\t\t\t<br>俯臥\t\t\t\t\t\t\t<br><br>5、核心肌群的訓練<br>6、放鬆與休息<br><br>週 次 日期 主要課程進度 備 註<br>第 一 週 課程介紹：暖身運動、呼吸與放鬆 <br>第 二 週 暖身運動、拜日式、站姿組合動作、腹直肌訓練 <br>第 三 週 暖身運動、拜日式、後屈、前屈、腹直肌與背肌訓練 <br>第 四 週 暖身運動、拜日式、後屈、前屈、腹直肌與背肌訓練 <br>第 五 週 暖身運動、拜日式、扭轉動作、腹斜肌訓練 <br>第 六 週 暖身運動、拜日式、扭轉動作、腹斜肌訓練 <br>第 七 週 總複習、討論與分享 <br>第 八 週 期中測驗 <br>第 九 週 停課 期中考週<br>第 十 週 暖身運動、拜日式變化、站立體位法組合、下肢肌力 <br>第十一週 暖身運動、拜日式變化、站立體位法組合、下肢肌力 <br>第十二週 暖身運動、拜日式變化、地板體位法、上肢肌力 <br>第十三週 暖身運動、拜日式變化、地板體位法、上肢肌力 <br>第十四週 暖身運動、拜日式變化、平衡、整合訓練 <br>第十五週 暖身運動、拜日式變化、平衡、整合訓練 <br>第十六週 總複習、討論與分享 <br>第十七週 期末測驗 <br>",
+    "exams": {
+        "midterm": "分組實作",
+        "final": "分組實作",
+        "other": "平時練習與筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "開拓身心紓解之道",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "增進身體內外在的能力",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "遇見身體緩慢的美",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "自我覺察與成長",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "實作",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "尊重自我與他人的身體",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "學習正確的運動方式",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "學習專注動作與呼吸穩定身心",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "協助同學玩誠正確安全的動作",
+            "teachingMethods": [
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "療癒瑜珈解剖書<br>Judy<br>天下雜誌出版社<br>2012<br>978-986-241-484-2<br>內觀瑜珈（結合禪修與中醫的療癒之道）<br>莎拉‧鮑爾斯(Sarah Powers)<br>謝瑤玲 譯<br>橡樹林   978-986-120-648-6<br><br>陰瑜珈<br>Paul Grilley保羅‧葛利<br>商周出版<br>",
+    "teachingSoftware": "",
+    "rules": "注意事項：<br>1、盡量勿遲到，因為暖身很重要。<br>2、記得先上廁所再上課。<br>3、運動前不宜過量進食。<br>4、上課練習中不宜說話看手機。<br>5、注意呼吸順暢。<br>6、有特殊疾病者需先詢問醫生是否能上瑜珈課。<br>7、要穿著有彈性舒服（吸汗、透氣舒適與合身）的運動服裝。<br>8、練習完喝溫水。<br>9、生理期視個人狀況，不一定暫停練習。<br>10、有高血壓、癲癇、心臟病者，請務必告知，不宜有頭倒立或大幅度後彎的動作。<br>11、耳朵與眼睛不舒服要注意有不舒服應告知老師，馬上休息，順其自然，不可勉強，身體<br>    有不適者，直接請假在家休息‧<br>12、不應穿著任何鞋襪。<br>13、自備瑜珈墊、毛巾<br>"
+}

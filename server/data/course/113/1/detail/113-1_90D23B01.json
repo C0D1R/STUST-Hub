@@ -1,0 +1,141 @@
+{
+    "code": "90D23B01",
+    "name": {
+        "zh": "物聯網APP實務開發",
+        "en": "Internet of Things Mobile Applications Development and Practice"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "四技資管三甲",
+        "四技資管三乙",
+        "四技資管三丙"
+    ],
+    "instructors": [
+        "鄭鈺霖"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第7節",
+            "location": "E0303"
+        },
+        {
+            "day": "週二",
+            "period": "第8節",
+            "location": "E0303"
+        },
+        {
+            "day": "週二",
+            "period": "第9節",
+            "location": "E0303"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程預計帶領學生了解物聯網領域，並透過實際業界案例的分享，了解物聯網的發展與趨勢，接著藉由實際開發手機APP的訓練，讓學生體驗物聯網APP應用程式開發，並透過與物聯網感測器的互動，讓學生發揮創意，進而開發出各種不同且有趣的APP應用程式。",
+    "prerequisites": "Java程式設計",
+    "syllabus": {
+        "zh": "(1) 物聯網簡介與應用<br>(2) 網際網路與物聯網<br>(3) 物件感知技術與Android APP開發技術<br>(4) 物聯網設計平台介紹<br>(5) 物聯網應用設計與實作-以TI SensorTag為例<br>(6) 物聯網之系統平台建構與整合技術<br>(7) 物聯網規劃、設計與未來發展趨勢",
+        "en": "(1) Internet of Things Introduction and Application<br>(2) Internet vs. Internet of Things<br>(3) Sensor Technology and Android APP Development<br>(4) Internet of Things Platform Introduction<br>(5) Internet of Things Application and Implementation<br>(6) Internet of Things System and Skills<br>(7) Internet of Things Deployment and Design"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能應用Android 手機程式設計來開發物聯網應用程式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能以團隊合作以及創新方式開發物聯網應用程式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有系統有組織的整理將開發系統的管理資料並將問題轉換成應用系統",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "學習業界較新技術並能應用於課程所要求的應用程式開發",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能具備組織力量設計一物聯網系統的能力，及整合物聯網系統的能力，以提高行動作業力",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效解析與呈現系統問題結果，以開發系統及書面報告方式呈現物聯網應用的特色",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

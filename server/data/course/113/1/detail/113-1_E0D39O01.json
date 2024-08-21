@@ -1,0 +1,111 @@
+{
+    "code": "E0D39O01",
+    "name": {
+        "zh": "日文文書處理",
+        "en": "Japanese Word Processor"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "四技應日四甲",
+        "四技應日四乙"
+    ],
+    "instructors": [
+        "陳亭希"
+    ],
+    "schedule": [
+        {
+            "day": "週二",
+            "period": "第2節",
+            "location": "N305"
+        },
+        {
+            "day": "週二",
+            "period": "第3節",
+            "location": "N305"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程在於訓練學生日文文書處理的基本能力，首先讓同學明瞭日文文書處理的整體的概念，利用電腦熟練地編輯各類日文或中日文之文件資料，培養學生之電腦文書編輯之應用能力。期許學生在這電腦資訊化的時代中，能將日文文書處理應用於職場之相關實務工作領域或個人研究之學術領域。",
+    "prerequisites": "日本語能力検定N３",
+    "syllabus": {
+        "zh": "課程內容為培養學生熟悉日文輸入系統,從基礎日文輸入法的轉換到單字，單文節變換、多文節的變換等，以提升日文輸入實力，此外也訓練實際的日文書信之輸入，讓學生能夠運用日文書信之輸入及熟悉其格式，也配合其他如商用日文相關課程之進度，使學生實際演練日文書信之電子郵件格式。",
+        "en": "授業内容は日本語のインプット方法といった基本問題から、日本語による手紙、ビジネス文書の書き方を中心として行われる予定である。まず、インプットの正確さと速度を上げるために、タッチタイピングをマスターする必要がある。また、ビジネス文書の書式について紹介し、正確な文章が書けるように練習させる。ビジネスメールや文書の作成能力を習得させる目標である。"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "日文文書資料之概念",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "利用電腦熟練地編輯各類日文或中日文之文件資料",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "訓練日文書信之輸入",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "演練日文書信之電子郵件格式",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

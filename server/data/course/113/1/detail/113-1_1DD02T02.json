@@ -1,0 +1,110 @@
+{
+    "code": "1DD02T02",
+    "name": {
+        "zh": "專業英文",
+        "en": "English For Music Profession"
+    },
+    "credit": "2",
+    "type": "必修",
+    "classes": [
+        "四技流音三乙"
+    ],
+    "instructors": [
+        "林佩儒"
+    ],
+    "schedule": [
+        {
+            "day": "週四",
+            "period": "第3節",
+            "location": "W0904"
+        },
+        {
+            "day": "週四",
+            "period": "第4節",
+            "location": "W0904"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "以本系四大方向:創作表演、演藝經紀、錄音工程、舞台燈光音響，學習專業英文術語，並能以聽說讀寫方式應用於專業職場的溝通、團隊合作與管理工作。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.創作表演專業英文<br>2.演藝經紀專業英文<br>3.錄音工程專業英文<br>4.舞台燈光音響專業英文<br>5.應用英文於聽說讀寫學習方式<br>6.主題式英文情境教學<br>",
+        "en": "1. Music performance and composition professional English<br>2. Performing Arts Brokerage English<br>3. Recording Engineering English<br>4. Lighting stage production professional English<br>5. Apply English to listening, speaking, reading and writing<br>6. Thematic English Situational Teaching<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解及翻譯流行音樂產業的英文對話知識及運用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對流行音樂產業上的專業知識以適當英文加以應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能解析流行音樂產業幕前與幕後專業英文術語，將其有效地做口語表達。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "可利用文書軟體處理專業英文簡報、報告。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

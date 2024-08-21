@@ -1,0 +1,140 @@
+{
+    "code": "N0M00D01",
+    "name": {
+        "zh": "人力資源管理",
+        "en": "Human Resource Management"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩研應日二甲",
+        "碩全球經管一乙"
+    ],
+    "instructors": [
+        "黃經智"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "S307"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "S307"
+        },
+        {
+            "day": "週五",
+            "period": "第4節",
+            "location": "S307"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This unit examines the management of people as key organisational assets in achieving high performance organisations and competitive advantage?Managing people from a strategic operational and project perspective.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "Week<br>1. Introduction to the course &amp; group member development<br>2. Managing Human Resources &amp; Understanding the External and Organizational Environments <br>3. HR Planning for Alignment and Change &amp; Ensuring Fair Treatment and Legal Compliance <br>4. Using Job Analysis and Competency Modeling &amp;<br>5. Recruiting and Retaining Qualified Employees <br>6. Selecting Employees to Fit the Job and the Organization <br>7. Training and Developing a Competitive Workforce<br>8. Group Presentation for Mid-term<br>9. Group Presentation for Mid-term <br>10.Conducting Performance Management<br>11.Developing an Approach to Total Compensation<br>12.Using Performance-Based Pay to Achieve Strategic Objectives<br>13.Integrative Case <br>14.Providing Benefits and Services<br>15.Promoting Workplace Safety and Health <br>16.Understanding Unionization and Collective Bargaining <br>17.Revision for the Course and Final Exam<br>18.Final Exam<br>",
+        "en": "Week<br>1. Introduction to the course &amp; group member development<br>2. Managing Human Resources &amp; Understanding the External and Organizational Environments <br>3. HR Planning for Alignment and Change &amp; Ensuring Fair Treatment and Legal Compliance <br>4. Using Job Analysis and Competency Modeling &amp;<br>5. Recruiting and Retaining Qualified Employees <br>6. Selecting Employees to Fit the Job and the Organization <br>7. Training and Developing a Competitive Workforce<br>8. Group Presentation for Mid-term<br>9. Group Presentation for Mid-term <br>10.Conducting Performance Management<br>11.Developing an Approach to Total Compensation<br>12.Using Performance-Based Pay to Achieve Strategic Objectives<br>13.Integrative Case <br>14.Providing Benefits and Services<br>15.Promoting Workplace Safety and Health <br>16.Understanding Unionization and Collective Bargaining <br>17.Revision for the Course and Final Exam<br>18.Final Exam<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能了解基本人力資源知識及學理。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能針對人力資源上的問題有效的檢視其管理學理及應用。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能有效的應用MS office 軟體進而呈現專業性的報告及簡報。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能解析國際性的人力資源個案，將其有效的撰寫成專業的商業英文報告及簡報。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能檢視現代企業人力資源管理的運用並有效的建立及應用人力資源管理的各項步驟。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能依照各產業的需求，規劃出可進行的人力訓練計畫。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

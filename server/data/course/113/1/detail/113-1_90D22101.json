@@ -1,0 +1,125 @@
+{
+    "code": "90D22101",
+    "name": {
+        "zh": "資管專業實習(一)",
+        "en": "Information Management Professional Practice (Ⅰ)"
+    },
+    "credit": "9",
+    "type": "管制選修",
+    "classes": [
+        "四技資管四甲",
+        "四技資管四乙",
+        "四技資管四丙"
+    ],
+    "instructors": [
+        "陳炳文"
+    ],
+    "schedule": [],
+    "hours": {
+        "course": "0",
+        "practice": "720"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程為資管專業校外實習為全學期課程，內容與要求依資管系校外實習辦法辦理。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1. 職場環境介紹與安全教育。<br>2. 教導職場組織層級與部門政策。<br>3. 職場工作職前教育訓練。<br>4. 職場工作內容知識傳授。<br>5. 職場管理實務。<br>6. 職場工作角色釐清。<br>7. 成果評估依資管系校外實習施行細則。<br>",
+        "en": "1. Introduction of workplace and education of safety<br>2. Introduction of organization structure and policy<br>3. Orientation training<br>4. Knowledge transfer of job content<br>5. Introduction of workplace management practice<br>6. Clarification of workplace roles and responsibilities<br>7. Performance evaluation (by enforcement rules of MIS department for student internship)<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "資管專業知識的理論基礎與實務相互結合，能熟練應用於職場。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備使用職場所需軟體工具的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能主動指出問題、提出解決方案並執行之。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "能認清與感受目前的職場困境，並能調整自我調適，以最有效率之方式學習，快速進入狀況之能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "具備組織與整合能力，完成各項書面文件及口頭簡報。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "建立積極正向的工作態度與責任感，養成能夠承受各種壓力的能力，塑造與團隊合作的精神，達成工作目標。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

@@ -1,0 +1,120 @@
+{
+    "code": "50Q05F01",
+    "name": {
+        "zh": "高等服務品質管理",
+        "en": "Advanced Management of Service quality"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "碩專工管一甲",
+        "碩專工管二甲"
+    ],
+    "instructors": [
+        "廖顯宗"
+    ],
+    "schedule": [
+        {
+            "day": "週日",
+            "period": "第7節",
+            "location": "T0803"
+        },
+        {
+            "day": "週日",
+            "period": "第8節",
+            "location": "T0803"
+        },
+        {
+            "day": "週日",
+            "period": "第9節",
+            "location": "T0803"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course emphasizes the philosophy, strategy and style of management that service organizations can use to gain competitive advantage. The focus is on service management, customer satisfaction and developing service/quality solutions for service-providers.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "1.服務的重要性與特性<br>2.服務的特性與類型<br>3.服務管理與服務品質管理<br>4.服務品質的度量方法、模式與量表<br>5.服務人員的角色與重要性 <br>6.服務流程與供需管理<br>7.服務補救<br>8.顧客知覺價值、服務品質、顧客滿意度<br>",
+        "en": "1.Importance and Environmental Factors of Services<br>2.Characteristics and Classification of Services<br>3.Service management and Service Quality Management<br>4. Tools of Service Improvement<br>5.Importance of Service Personnel<br>6.Service Process and Supply-Demand Management<br>7.Service Recovery<br>8.Customer Perceived Value, Service Quality, and Customer Satisfaction<br>"
+    },
+    "weeklySchedule": "1.服務品質管理課程大綱簡介<br>2.服務經濟(服務管理Ch1)<br>3.服務策略(服務管理Ch2)<br>4.開發新服務(服務管理Ch3)<br>5.服務接觸(服務管理Ch4)<br>6.支援設施與服務流程 (服務管理Ch5)<br>7.管理產能與需求(服務管理Ch10)<br>8.管理等候線(服務管理Ch11)<br>9.期中考試<br>10.決定服務品質的屬性(服務品質Ch3)<br>11.服務品質的衡量(服務品質Ch4)<br>12.顧客滿意模式與調查(服務品質Ch5, 6)<br>13.I-S 模式與品質改善(服務品質Ch7)<br>14.二維品質模式及應用(服務品質Ch8)<br>15.全面品質服務(服務品質Ch9)<br>16.個案報告<br>17.期末報告(一)<br>18.期末報告(二)",
+    "exams": {
+        "midterm": "期中考試",
+        "final": "期末報告",
+        "other": "無"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備服務品質管理的相關理論與知識。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "瞭解服務品質管理在各產業的重要性。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能有效表達服務品質管理相關主題",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能針對管理問題辨識適當的方法，並用以建立管理決策",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "書面報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "書面報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "服務管理",
+        "author": "周瑛琪譯",
+        "publisher": "華泰",
+        "year": "2019",
+        "ISBN": "9789863414100",
+        "edition": "9"
+    },
+    "referenceBooks": "1.服務品質-從學理到應用，楊錦洲，2009年，華泰。<br>2.服務品質管理，陳思倫，2008年，前程。<br>3.服務業的TQM，狩野紀昭，二版，2003，先鋒企管。",
+    "teachingSoftware": "MS Power Point 2016",
+    "rules": "1.請遵守上課秩序，上課中請勿任意進出教室或交談。<br>2.指定的報告請準時繳交。"
+}

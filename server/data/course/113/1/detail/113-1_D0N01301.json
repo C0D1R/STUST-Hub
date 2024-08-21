@@ -1,0 +1,115 @@
+{
+    "code": "D0N01301",
+    "name": {
+        "zh": "消費者行為",
+        "en": "Consumer Behavior"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "夜四技行流二甲"
+    ],
+    "instructors": [
+        "黃識銘"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "T0207"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "T0207"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "T0207"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程針對消費者行為基礎、消費者的資訊處理與決策、消費者行為的微觀面與消費者行為的宏觀面四大部份講授，並針對中文個案做分析報告與討論。",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "一、消費者行為基礎<br>二、消費者的資訊處理與決策<br>三、消費者行為的微觀面<br>四、消費者行為的宏觀面 <br>",
+        "en": "1.Introduction and Overview<br>2.Consumer Decision Process<br>3.Micro Perspective of Consumer Behavior<br>4.Macro Perspective of Consumer Behavior"
+    },
+    "weeklySchedule": "1. 課程概述<br>2. 中秋<br>3. Ch1<br>4. ch2<br>5. Ch3<br>6. Ch4<br>7. Ch5  <br>8. Ch6<br>9. 期中考<br>10. CH7<br>11. Ch8<br>12. Ch9<br>13. ch10 <br>14. ch11<br>15. Ch12 <br>16. ch13<br>17. ch14<br>18. 期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "書面報告",
+        "other": "心得報告"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識消費者行為基礎",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "理解認識消費者的資訊處理與決策",
+            "teachingMethods": [
+                "分組討論"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "課堂展演",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "認識消費者行為的微觀面",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "認識消費者行為的宏觀面",
+            "teachingMethods": [
+                "啟發思考"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "消費者行為",
+        "author": "schiffman and Wisenblit，顧萱萱郭建志譯",
+        "publisher": "學富文化",
+        "year": "2017",
+        "ISBN": "9789862803752",
+        "edition": "3"
+    },
+    "referenceBooks": "自編講義",
+    "teachingSoftware": "無",
+    "rules": "無"
+}

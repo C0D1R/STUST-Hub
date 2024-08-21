@@ -1,0 +1,145 @@
+{
+    "code": "50D19303",
+    "name": {
+        "zh": "經濟學",
+        "en": "Economics"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技電商一甲"
+    ],
+    "instructors": [
+        "顏榮祥"
+    ],
+    "schedule": [
+        {
+            "day": "週五",
+            "period": "第1節",
+            "location": "T0309"
+        },
+        {
+            "day": "週五",
+            "period": "第2節",
+            "location": "T0309"
+        },
+        {
+            "day": "週五",
+            "period": "第3節",
+            "location": "T0309"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "1.高考",
+        "2.普考"
+    ],
+    "description": "經濟學(Economics)係研究如何提高人類生活水準的學科，其探討範圍包含日常生活上各層面的問題，其理論可以用來分析各種人類的決策行為，如消費的選擇、廠商產品種類及產量的決定、生產要素報酬的高低等等。由於其理論基礎完整，已成為各領域不可或缺的學科。",
+    "prerequisites": "無",
+    "syllabus": {
+        "zh": "1.供給與需求<br>2.市場均衡分析<br>3.價格彈性與其應用<br>4.效用與消費者選擇行為<br>5.生產理論與成本分析<br>6.不同市場結構下的廠商決策<br>7.生產要素市場<br>",
+        "en": "1.Supply and Demand<br>2.Market Equilibrium Analysis<br>3.Price Elasticity with Applications<br>4.Utility and the Consumer Choice Theory<br>5.Production Theory and Cost Analysis<br>6.The Firm’s Decision-Making under Different Market Structures<br>7.The Factor Markets<br>"
+    },
+    "weeklySchedule": "第1-2週:經濟學導論<br>第3-4週:供需分析與市場均衡<br>第5-6週:供需彈性之測定及其應用<br>第7-8週:消費者選擇行為：計數效用分析模式、序列效用分析模式<br>第9週:期中考<br>第10-11週:消生產理論與成本分析<br>第12-15週市場理論：完全競爭市場、獨占市場、寡占市場與壟斷性競爭市場<br>第16週:生產要素與所得分配<br>第17週:一般均衡、效率與公共財<br>第18週: 期末考<br>",
+    "exams": {
+        "midterm": "筆試",
+        "final": "筆試",
+        "other": "第3，6，12，15周平時考，筆試"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "能清楚描述經濟學的基本原理。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能了解市場的運作過程。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                }
+            ]
+        },
+        {
+            "objective": "能了解全球經濟發展的趨勢。",
+            "teachingMethods": [
+                "課堂講授",
+                "實作演練"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能應用經濟學原理作管理領域的決策。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能熟練分析並預測外來事件對市場的影響。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "能整合基本原理判斷各種經濟政策的成效。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "自編講義",
+        "author": "顏榮祥",
+        "publisher": "無",
+        "year": "2024",
+        "ISBN": "無",
+        "edition": "無"
+    },
+    "referenceBooks": "沈中華 黃台心  經濟學原理  新陸書局\t二版  2012  ISBN 978-986-6333-60-6",
+    "teachingSoftware": "無",
+    "rules": "5不:上課不遲到、不玩手機、不睡覺、不吃東西、不講話(請確實遵守)<br>1沒有:沒熱情(不要修)"
+}

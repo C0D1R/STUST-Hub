@@ -1,0 +1,110 @@
+{
+    "code": "03D13K03",
+    "name": {
+        "zh": "班級經營(中等學校)",
+        "en": "Classroom Management"
+    },
+    "credit": "2",
+    "type": "選修",
+    "classes": [
+        "教育學程－中"
+    ],
+    "instructors": [
+        "王志蓮"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第3節",
+            "location": "N403"
+        },
+        {
+            "day": "週三",
+            "period": "第4節",
+            "location": "N403"
+        }
+    ],
+    "hours": {
+        "course": "2",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "本課程在使學生瞭解班級經營的意義及內涵，探討班級經營的理論與實務，以培養學生之班級經營能力，並建立自我之班級經營計畫與觀點，學習如何成為一位稱職的教師。<br><br>【專業素養指標】<br>1 了解教育發展的理念與實務<br>■1-1 了解有關教育目的和價值的主要理論或思想，以建構自身的教育理念與信念。<br>2 了解並尊重學習者的發展與學習需求<br>▓2-1 了解並尊重學生身心發展、社經及文化背景的差異，以作為教學與輔導的依據。<br>4 建立正向學習環境並適性輔導<br>■4-1 應用正向支持原理，共創安全、友善及對話的班級與學習環境，以養成學生良好品格及有效學習。<br><br><br>【課程核心內容】<br>1了解教育發展的理念與實務<br>▓(2)主要教育理論與思想<br>2了解並尊重學習者的發展與學習需求<br>▓(6)學生特質與需求的辨識<br>4建立正向學習環境並適性輔導<br>■(5)班級經營的意義、目的、內容與方法<br>▓(6)學生自律與自治<br>■(7)親師生關係<br><br>【融入議題】<br>▓性別平等教育*<br>■品德教育<br>▓法治教育<br><br>",
+    "prerequisites": "修畢中等教育基礎課程至少一門。",
+    "syllabus": {
+        "zh": "1.班級經營的意義與目的<br>2.建立班規與建立關係<br>3.教室環境營造與布置<br>4.班級經營的困境與因應策略<br>5.不當行為的類型與原因<br>6.常規管理理論-低教學控制<br>7.常規管理理論-中教學控制<br>8.常規管理理論-高教學控制<br>9.親師合作的理論與策略原則<br>10.教師的自我經營與計畫<br>",
+        "en": "1. The meaning and purpose of class management<br>2. Establish class rules and build relationships<br>3. Classroom environment creation and layout<br>4. Dilemmas of class management and coping strategies<br>5. Types and causes of misconduct<br>6. Conventional Management Theory-Low Teaching Control<br>7. Conventional management theory - middle school teaching control<br>8. Conventional management theory-high teaching control<br>9. Theoretical and strategic principles of parent-teacher cooperation<br>10. Teachers’ self-management and planning<br>"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "認識班級經營理論",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "認識班級經營之實務",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉班級經營方法",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉班級經營策略",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}

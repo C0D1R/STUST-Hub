@@ -1,0 +1,140 @@
+{
+    "code": "60D15402",
+    "name": {
+        "zh": "經濟學(一)",
+        "en": "Economics(I)"
+    },
+    "credit": "3",
+    "type": "必修",
+    "classes": [
+        "四技國企一乙"
+    ],
+    "instructors": [
+        "朱美琴"
+    ],
+    "schedule": [
+        {
+            "day": "週一",
+            "period": "第2節",
+            "location": "S511"
+        },
+        {
+            "day": "週一",
+            "period": "第3節",
+            "location": "S511"
+        },
+        {
+            "day": "週一",
+            "period": "第4節",
+            "location": "S511"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "經濟學旨在研究人們在資源有限的情況下如何做最佳的決策，又可分總體與個體二大領域。本學期將介紹個體經濟學的基本概念及分析方法，使學生能夠了解經濟學之相關議題和其在日常生活中的應用。",
+    "prerequisites": "NO",
+    "syllabus": {
+        "zh": "(一) 經濟學基本概念<br>1.1 經濟學的十大原理<br>1.2 經濟部門與機會成本<br>1.3 交易原則:比較利益<br>(二) 供給與需求：市場如何運作<br>2.1 供給與需求的市場力量<br>2.2 彈性及其應用<br>2.3 供給,需求與政府政策<br>(三) 生產者行為與產業組織<br>3.1 生產成本<br>3.2 完全競爭市場<br>3.3 獨占<br>3.4 寡占<br>3.5 獨占性競爭<br>(四) 市場與福利<br>4.1 消費者剩餘,生產者剩餘和市場福利<br>4.2 課稅的成本<br>4.3 國際貿易<br>",
+        "en": "一、Introduction of Economics<br>二、Demand, Supply and Market Equilibrium<br>三、Price Elasticity<br>四、Consumer Choice<br>五、Cost and Production Decision<br>六、Competitive Market<br>七、Imperfect Competitive Market<br>八、Market and Government Interventio"
+    },
+    "weeklySchedule": "week 1-3 (一) 經濟學基本概念<br>1.1 經濟學的十大原理<br>1.2 經濟部門與機會成本<br>1.3 交易原則:比較利益<br>week 4-6(二) 供給與需求：市場如何運作<br>2.1 供給與需求的市場力量<br>2.2 彈性及其應用<br>2.3 供給,需求與政府政策<br>week 7-10 (三) 市場與福利<br>4.1 消費者剩餘,生產者剩餘和市場福利<br>4.2 課稅的成本<br>4.3 國際貿易<br>week11-17 (四) 生產者行為與產業組織<br>3.1 生產成本<br>3.2 完全競爭市場<br>3.3 獨占<br>3.4 寡占<br>3.5 獨占性競爭<br>",
+    "exams": {
+        "midterm": "期中考",
+        "final": "期末考",
+        "other": "小考、分組討論"
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "具備基礎的經濟知識，了解經濟概念及分析方式。",
+            "teachingMethods": [
+                "分組討論",
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "能利用統計方法分析國際商務相關資料。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                }
+            ]
+        },
+        {
+            "objective": "具備清晰邏輯思考及推理能力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "筆試",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        },
+        {
+            "objective": "對經濟知識有主動學習的意願與動力。",
+            "teachingMethods": [
+                "課堂講授"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "口頭報告",
+                    "type": "平時"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期中"
+                },
+                {
+                    "method": "筆試",
+                    "type": "期末"
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "經濟學原理",
+        "author": "王銘正著",
+        "publisher": "高立",
+        "year": "2024",
+        "ISBN": "isbn 978-986-5840-48-8",
+        "edition": "1"
+    },
+    "referenceBooks": "國內外各大報財經新聞、商業雜誌<br>張清溪等人，經濟學",
+    "teachingSoftware": "無",
+    "rules": "上課不可遲到、喧嘩<br>作業不可遲交<br>每周準備國內外財經新聞"
+}

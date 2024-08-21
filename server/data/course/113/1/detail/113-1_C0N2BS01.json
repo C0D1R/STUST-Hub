@@ -1,0 +1,116 @@
+{
+    "code": "C0N2BS01",
+    "name": {
+        "zh": "英文商用書信",
+        "en": "English Business Letters"
+    },
+    "credit": "3",
+    "type": "選修",
+    "classes": [
+        "夜二技應英四甲",
+        "夜四技應英四甲"
+    ],
+    "instructors": [
+        "安迪"
+    ],
+    "schedule": [
+        {
+            "day": "週三",
+            "period": "第12節",
+            "location": "N204"
+        },
+        {
+            "day": "週三",
+            "period": "第13節",
+            "location": "N204"
+        },
+        {
+            "day": "週三",
+            "period": "第14節",
+            "location": "N204"
+        }
+    ],
+    "hours": {
+        "course": "3",
+        "practice": "0"
+    },
+    "languages": [
+        "1.華語"
+    ],
+    "certificationsSupport": [
+        "無"
+    ],
+    "description": "This course will introduce some basic international trade processes and business communication concepts. Besides lectures, group discussions and presentations, students will also need to write different forms of business correspondence.",
+    "prerequisites": "",
+    "syllabus": {
+        "zh": "本課程包括<br>1. 應徵函<br>2. 公司簡介<br>3. 產品簡介<br>4. 會議通知與紀錄<br>5. 國貿實務與條規<br>6. 詢價",
+        "en": "The course will cover the following topics:<br>1. Cover letter<br>2. Company profile<br>3. Product introduction<br>4. Meeting notice &amp; minutes<br>5. Incoterms and trade processes<br>6. Inquiry"
+    },
+    "weeklySchedule": "",
+    "exams": {
+        "midterm": "",
+        "final": "",
+        "other": ""
+    },
+    "teachingAndAssessment": [
+        {
+            "objective": "訓練商業英文寫作核心的能力。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "熟悉商業英語文件閱讀。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "加強商務英語文專業知識與溝通表達之技能。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "objective": "發揮英語寫作之核心及商業貿易專業知識，運用在就業職場。",
+            "teachingMethods": [
+                "--"
+            ],
+            "assessmentMethods": [
+                {
+                    "method": "--",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "textbook": {
+        "title": "",
+        "author": "",
+        "publisher": "",
+        "year": "",
+        "ISBN": "",
+        "edition": ""
+    },
+    "referenceBooks": "",
+    "teachingSoftware": "",
+    "rules": ""
+}
