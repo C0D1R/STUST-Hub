@@ -6,7 +6,9 @@
             courseField.key === 'textbook' ? 'sm:col-auto' : '',
         ]"
     >
-        <h2 class="text-lg font-bold">{{ courseField.caption }}</h2>
+        <h2 class="text-lg font-bold">
+            {{ courseField.caption }}
+        </h2>
 
         <template v-if="courseField.key === 'certificationsSupport'">
             <ol>
@@ -21,24 +23,32 @@
         </template>
 
         <template v-else-if="courseField.key === 'teachingAndAssessment'">
-            <div class="grid grid-cols-1 gap-y-2">
+            <div
+                class="grid grid-cols-1 gap-y-2 text-center sm:gap-y-0 sm:border sm:border-gray-100/15 sm:rounded-md"
+            >
                 <div
                     v-for="teachingAndAssessment in course.teachingAndAssessment"
-                    class="px-2 border border-gray-100/15 rounded-md"
+                    :class="[
+                        'border border-gray-100/15 rounded-md',
+                        'sm:grid sm:grid-cols-2 sm:border-t-0 sm:border-x-0 sm:last-of-type:border-b-0 sm:rounded-none',
+                    ]"
                 >
-                    <p class="border-b py-1 border-gray-100/15">
+                    <p
+                        class="grid items-center border-b p-2 border-gray-100/15 sm:border-b-0 sm:text-left"
+                    >
                         {{ teachingAndAssessment.objective }}
                     </p>
-                    <div class="grid grid-cols-3 gap-x-4 py-1 items-center">
+                    <div class="grid grid-cols-3">
                         <p
                             v-for="method in teachingAndAssessment.teachingMethods"
+                            class="grid items-center p-2 border-r border-gray-100/15 sm:border-r-0"
                         >
                             {{ method }}
                         </p>
                         <div class="col-span-2">
                             <div
                                 v-for="item in teachingAndAssessment.assessmentMethods"
-                                class="grid grid-cols-2 py-1 border-b border-gray-100/15 first-of-type:pt-0 last-of-type:pb-0 last-of-type:border-none"
+                                class="grid grid-cols-2 p-2 gap-x-2 border-b border-gray-100/15 last-of-type:border-b-0 sm:border-b-0"
                             >
                                 <p>{{ item.method }}</p>
                                 <p>{{ item.type }}</p>
@@ -59,7 +69,7 @@
             <div class="grid grid-rows-3">
                 <section
                     v-for="exams in courseField.sub"
-                    class="grid grid-cols-4 py-1 border-b border-gray-100/15 last-of-type:border-b-0"
+                    class="grid grid-cols-4 py-2 border-b border-gray-100/15 last-of-type:border-b-0"
                 >
                     <h3>{{ exams.caption }}</h3>
                     <p class="col-span-3">
@@ -73,7 +83,7 @@
             <div class="">
                 <section
                     v-for="exams in courseField.sub"
-                    class="grid grid-cols-4 py-1 border-b border-gray-100/15 last-of-type:border-b-0"
+                    class="grid grid-cols-4 py-2 border-b border-gray-100/15 last-of-type:border-b-0"
                 >
                     <h3>{{ exams.caption }}</h3>
                     <p class="col-span-3">

@@ -1,5 +1,5 @@
 <template>
-    <div v-if="course">
+    <div v-if="course" class="max-w-screen-lg mx-auto">
         <article>
             <h1 class="grid px-3 py-5">
                 <span class="text-2xl font-bold">{{ course.name.zh }}</span>
