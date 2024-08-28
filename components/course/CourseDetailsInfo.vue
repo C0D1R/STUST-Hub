@@ -55,7 +55,7 @@
                         :class="[
                             'bg-gray-700 py-2 px-2',
                             'rounded-tl-md border-r border-gray-100/15',
-                            'sm:rounded-l-md sm:px-4',
+                            'sm:rounded-l-md sm:border-r-0 sm:px-4',
                         ]"
                     >
                         {{ schedule.day }}

@@ -10,7 +10,7 @@ export default defineEventHandler(async (event) => {
     const [ year, sem, courseCode ] = event.context.params._.split('/')
     const semester = `${year}-${sem}`
 
-    const dataDir = path.join(process.cwd(), 'server', 'data', 'course')
+    const dataDir = path.join('server', 'data', 'course')
     const filePath = courseCode ?
         path.join(dataDir, year, sem, 'detail', `${semester}_${courseCode}.json`) :
         path.join(dataDir, year, sem, `${semester}_courses.json`)
