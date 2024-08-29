@@ -1,5 +1,9 @@
 import { promises as fs } from 'fs'
-import path from 'path'
+import { fileURLToPath } from 'url'
+import { dirname, join } from 'path'
+
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = dirname(__filename)
 
 export default defineEventHandler(async (event) => {
     // const query = getQuery(event)
@@ -10,10 +14,10 @@ export default defineEventHandler(async (event) => {
     const [ year, sem, courseCode ] = event.context.params._.split('/')
     const semester = `${year}-${sem}`
 
-    const dataDir = path.join('server', 'data', 'course')
+    const dataDir = join(__dirname, '..', '..', 'public', 'data', 'course')
     const filePath = courseCode ?
-        path.join(dataDir, year, sem, 'detail', `${semester}_${courseCode}.json`) :
-        path.join(dataDir, year, sem, `${semester}_courses.json`)
+        join(dataDir, year, sem, 'detail', `${semester}_${courseCode}.json`) :
+        join(dataDir, year, sem, `${semester}_courses.json`)
 
     try {
         const courseData = await fs.readFile(filePath)
