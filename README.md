@@ -73,6 +73,7 @@ yarn preview
 bun run preview
 ```
 
+<<<<<<< HEAD
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 ```
 STUST-HUB
@@ -167,3 +168,6 @@ STUST-HUB
 └─ tsconfig.json
 
 ```
+=======
+Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+>>>>>>> db7d5ba (Refactor course API and update public assets)
