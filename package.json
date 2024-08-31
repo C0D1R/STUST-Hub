@@ -13,6 +13,8 @@
     "@pinia/nuxt": "^0.5.3",
     "comlink": "^4.4.1",
     "dompurify": "^3.1.6",
+    "localforage": "^1.10.0",
+    "mongoose": "^8.6.0",
     "nuxt": "^3.12.4",
     "pinia": "^2.2.1",
     "vue": "latest"
