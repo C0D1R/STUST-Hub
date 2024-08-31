@@ -17,5 +17,13 @@ export default defineNuxtConfig({
     preference: 'system', // default value of $colorMode.preference
     fallback: 'light', // fallback value if not system preference found
     classSuffix: ''
+  },
+  runtimeConfig: {
+    mongoDBUri: process.env.MONGODB_COURSE_URI
+  },
+  nitro: {
+    plugins: [
+      'plugins/mongoose.js'
+    ]
   }
 })
