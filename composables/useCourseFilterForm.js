@@ -271,12 +271,12 @@ export const useCourseFilterForm = () => {
                     "context": "選修",
                     "checked": false
                 },
-                {
-                    "id": "general",
-                    "value": "general",
-                    "context": "通識",
-                    "checked": false
-                }
+                // {
+                //     "id": "general",
+                //     "value": "general",
+                //     "context": "通識",
+                //     "checked": false
+                // }
             ]
         },
         {
