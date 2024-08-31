@@ -44,7 +44,7 @@ defineProps({
 
 const styles = computed(() => ({
     container: [
-        "m-2 block min-w-[4.875rem] rounded-lg border border-blue-500 px-3.5 py-1.5 text-center text-blue-500",
+        "m-2 block min-w-[4.875rem] rounded-lg border border-blue-500 px-3.5 py-1.5 text-center text-blue-500 whitespace-nowrap",
         "hover:cursor-pointer",
         "has-[:checked]:bg-blue-500 has-[:checked]:text-white",
         "max-lg:!row-start-auto",
