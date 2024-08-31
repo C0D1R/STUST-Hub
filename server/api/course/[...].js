@@ -1,42 +1,39 @@
-import { promises as fs } from 'fs'
-import { fileURLToPath } from 'url'
-import { dirname, join } from 'path'
-
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = dirname(__filename)
+import { getCourseListModel, getCourseDetailModel } from '@/server/models/Course'
 
 export default defineEventHandler(async (event) => {
-    // const query = getQuery(event)
-    // const year = query.year
-    // const sem = query.sem
-    // const semester = query.semester
-
     const [ year, sem, courseCode ] = event.context.params._.split('/')
     const semester = `${year}-${sem}`
 
-    const dataDir = join(__dirname, '..', '..', 'public', 'data', 'course')
-    const filePath = courseCode ?
-        join(dataDir, year, sem, 'detail', `${semester}_${courseCode}.json`) :
-        join(dataDir, year, sem, `${semester}_courses.json`)
-
     try {
-        const courseData = await fs.readFile(filePath)
         if (courseCode) {
-            return JSON.parse(courseData)
+            const CourseDetail = getCourseDetailModel(semester)
+            const course = await CourseDetail.findOne({ code: courseCode }, { _id: 0 })
+
+            if (!course) {
+                throw createError({
+                    statusCode: 404,
+                    statusMessage: `Course details for ${courseCode} not found in semester ${semester}`
+                })
+            }
+            return course
         }
-        return JSON.parse(courseData).slice(0, 100)
+
+        const CourseList = getCourseListModel(semester)
+        const courses = await CourseList.find({}, { _id: 0 })
+
+        if (courses.length === 0) {
+            throw createError({
+                statusCode: 404,
+                statusMessage: `No courses found in semester ${semester}`
+            })
+        }
+        return courses
+
     } catch (err) {
-        console.error(
-            courseCode ?
-            `Error reading course details: ${err}` :
-            `Error reading course data: ${err}`
-        )
+        console.error(`Error fetching course data: ${err}`)
         throw createError({
-            statusCode: 404,
-            statusMessage:
-                courseCode ?
-                `Course details for ${courseCode} not found` :
-                `Course data for semester ${semester} not found`
+            statusCode: 500,
+            statusMessage: 'Internal server error'
         })
     }
 })
