@@ -65,6 +65,7 @@ const fetchCourses = async () => {
             (c) => c !== null
         );
         if (cachedCourse) {
+            console.log("courses from cache");
             return cachedCourse;
         }
     } catch (err) {
@@ -86,6 +87,7 @@ const fetchCourses = async () => {
             console.error(`Error setting item to cache: ${err}`);
         }
 
+        console.log("courses from api");
         return (await getItem(targetCourseKey)).filter((c) => c !== null);
     } catch (err) {
         console.error(`Error fetching courses: ${err}`);
