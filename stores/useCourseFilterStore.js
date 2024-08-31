@@ -26,7 +26,7 @@ export const useCourseFilterStore = defineStore("courseFilter", () => {
                 courseFilterParams.value[name].push(value);
             } else {
                 courseFilterParams.value[name] = courseFilterParams.value[name].filter(
-                    (value) => value !== value
+                    (val) => val !== value
                 );
             }
         }
