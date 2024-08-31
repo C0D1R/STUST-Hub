@@ -136,7 +136,8 @@ const filterCourses = (courses) => {
     };
 
     courseFilterParams.value.time.forEach((time) => {
-        const [day, period] = time.split("");
+        const splitRegex = new RegExp(/(?<=[A-Za-z])(?=\d+)/);
+        const [day, period] = time.split(splitRegex);
 
         if (!times[day]) {
             times[day] = [];
