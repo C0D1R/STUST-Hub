@@ -1,5 +1,5 @@
 <template>
-    <div v-if="courses">
+    <div v-if="courses && courses.length">
         <CourseListViewSwitcher />
 
         <div @change="toggleFavorite" :class="styles.getCourseContainer()">
@@ -42,6 +42,8 @@
 </template>
 
 <script setup>
+const courses = ref(null);
+
 const { routes } = useCourseRoutes();
 
 const courseListViewModeStore = useCourseListViewModeStore();
@@ -53,11 +55,154 @@ const { courseFilterParams } = storeToRefs(courseFilterStore);
 const courseSemesterStore = useCourseSemesterStore();
 const { year, sem, semester } = storeToRefs(courseSemesterStore);
 
-// const { data: courses } = useFetch("/api/courses", {
-//     query: { year: year.value, sem: sem.value, semester: semester.value },
-// });
+const { setItem, getItem } = useLocalforage();
 
-const { data: courses } = useFetch(`/api/course/${year.value}/${sem.value}`);
+const fetchCourses = async () => {
+    const targetCourseKey = `${semester.value}_${courseFilterParams.value.department}`;
+
+    try {
+        const cachedCourse = (await getItem(targetCourseKey)).filter(
+            (c) => c !== null
+        );
+        if (cachedCourse) {
+            return cachedCourse;
+        }
+    } catch (err) {
+        console.error(`Error reading from cache: ${err}`);
+    }
+
+    try {
+        const courseData = await $fetch(
+            `/api/course/${year.value}/${sem.value}`
+        );
+
+        try {
+            if (courseData) {
+                for (const dept of courseData) {
+                    await setItem(dept.id, dept.courses);
+                }
+            }
+        } catch (err) {
+            console.error(`Error setting item to cache: ${err}`);
+        }
+
+        return (await getItem(targetCourseKey)).filter((c) => c !== null);
+    } catch (err) {
+        console.error(`Error fetching courses: ${err}`);
+        throw err;
+    }
+};
+
+const filterCourses = (courses) => {
+    if (!courses) return [];
+
+    const typeMap = {
+        compulsory: "必修",
+        elective: "選修",
+        general: "通識",
+    };
+
+    const typePattern = courseFilterParams.value.courseType
+        .map((type) => typeMap[type])
+        .join("|");
+
+    const typeFilterRegex = new RegExp(`(${typePattern})`);
+
+    const gradeMap = {
+        first: "一",
+        second: "二",
+        third: "三",
+        fourth: "四",
+        fifth: "五",
+    };
+
+    const gradePattern = courseFilterParams.value.grade
+        .map((grade) => gradeMap[grade])
+        .join("|");
+
+    const gradeFilterRegex = new RegExp(`(?<!^)(${gradePattern})`);
+
+    const times = {};
+    const dayMap = {
+        M: "一",
+        T: "二",
+        W: "三",
+        R: "四",
+        F: "五",
+        S: "六",
+        U: "日",
+    };
+
+    courseFilterParams.value.time.forEach((time) => {
+        const [day, period] = time.split("");
+
+        if (!times[day]) {
+            times[day] = [];
+        }
+        times[day].push(period);
+    });
+
+    const timePattern = Object.entries(times)
+        .map(([day, periods]) => {
+            const mappedDay = dayMap[day];
+            const joinedPeriods = periods.join("|");
+            const dayPattern = `(?<=${mappedDay})[\\s\\d]+\\b(${joinedPeriods})\\b`;
+
+            return dayPattern;
+        })
+        .join("|");
+
+    const timeFilterRegex = new RegExp(timePattern);
+
+    return courses
+        .filter((course) => {
+            return typeFilterRegex.test(course.type);
+        })
+        .filter((course) => {
+            // Regex: (?<!^)(一|二|三|四|五)
+
+            const isGradeMatch = course.classes.some((classItem) =>
+                gradeFilterRegex.test(classItem)
+            );
+
+            return isGradeMatch;
+        })
+        .filter((course) => {
+            // Regex: (?<=一)[\s\d]+\b(1|2|3|4|5|6|7|8|9|10|11|12|13|14)\b
+            // Regex: (?<=二)[\s\d]+\b(1|2|3|4|5|6|7|8|9|10|11|12|13|14)\b
+            // Regex: (?<=三)[\s\d]+\b(1|2|3|4|5|6|7|8|9|10|11|12|13|14)\b
+            // Regex: (?<=四)[\s\d]+\b(1|2|3|4|5|6|7|8|9|10|11|12|13|14)\b
+            // Regex: (?<=五)[\s\d]+\b(1|2|3|4|5|6|7|8|9|10|11|12|13|14)\b
+            // courseFilterParams.value.time;
+
+            return timeFilterRegex.test(course.schedule);
+        })
+        .filter((course) => {
+            // courseFilterParams.value.schoolSystem;
+
+            return true;
+        })
+        .map((course) => {
+            course.classes =
+                course.classes.length > 1
+                    ? `${course.classes[0].trim()}等合開`
+                    : course.classes[0];
+            return course;
+        });
+};
+
+watch(
+    [semester, courseFilterParams],
+    async () => {
+        const courseData = await fetchCourses();
+        const courseDataFiltered = filterCourses(courseData);
+        courses.value = courseDataFiltered;
+    },
+    {
+        immediate: true,
+        deep: true,
+    }
+);
 
 const displayItems = [
     { caption: "學分", captionStyle: "before:content-['學分']", key: "credit" },
@@ -110,7 +255,7 @@ const styles = computed(() => ({
             "md:grid-cols-[1.5fr,1fr,1fr]",
         ];
         const tableStyle = [
-            "min-w-[75rem] grid-cols-[auto,5rem] border-t",
+            "min-w-[75rem] grid-cols-[auto,5rem] border-times",
             "last:rounded-b-2xl even:bg-opacity-50",
             "lg:min-w-0",
         ];
