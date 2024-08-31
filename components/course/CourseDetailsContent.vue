@@ -45,7 +45,7 @@
                         >
                             {{ method }}
                         </p>
-                        <div class="col-span-2">
+                        <div class="col-span-2 grid grid-cols-1 items-center">
                             <div
                                 v-for="item in teachingAndAssessment.assessmentMethods"
                                 class="grid grid-cols-2 p-2 gap-x-2 border-b border-gray-100/15 last-of-type:border-b-0 sm:border-b-0"
