@@ -25,17 +25,17 @@
                         {{ course[item.key] }}
                     </p>
                 </NuxtLink>
-                <div :class="styles.getFavoriteContainer()">
+                <!-- <div :class="styles.getFavoriteContainer()">
                     <label :class="styles.getFavoriteLabel()">
                         <input
                             type="checkbox"
                             name="course"
                             class="sr-only"
                             :value="course.code"
+                            :checked="isFavorite(course.code)"
                         />
-                        <!-- :checked="isFavorite(course.code)" -->
                     </label>
-                </div>
+                </div> -->
             </article>
         </div>
     </div>
