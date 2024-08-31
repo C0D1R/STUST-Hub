@@ -50,26 +50,26 @@ export const useCourseFilterForm = () => {
         //         }
         //     ]
         // },
-        {
-            "id": "schoolSystem",
-            "name": "schoolSystem",
-            "type": "checkbox",
-            "caption": "學制",
-            "options": [
-                {
-                    "id": "daySchool",
-                    "value": "daySchool",
-                    "context": "日間部",
-                    "checked": true
-                },
-                {
-                    "id": "nightSchool",
-                    "value": "nightSchool",
-                    "context": "夜間部",
-                    "checked": false
-                }
-            ]
-        },
+        // {
+        //     "id": "schoolSystem",
+        //     "name": "schoolSystem",
+        //     "type": "checkbox",
+        //     "caption": "學制",
+        //     "options": [
+        //         {
+        //             "id": "daySchool",
+        //             "value": "daySchool",
+        //             "context": "日間部",
+        //             "checked": true
+        //         },
+        //         {
+        //             "id": "nightSchool",
+        //             "value": "nightSchool",
+        //             "context": "夜間部",
+        //             "checked": false
+        //         }
+        //     ]
+        // },
         {
             "id": "department",
             "name": "department",
