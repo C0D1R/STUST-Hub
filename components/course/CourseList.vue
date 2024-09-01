@@ -58,15 +58,19 @@ const { year, sem, semester } = storeToRefs(courseSemesterStore);
 const { setItem, getItem } = useLocalforage();
 
 const fetchCourses = async () => {
-    const targetCourseKey = `${semester.value}_${courseFilterParams.value.department}`;
+    const targetDepartmentKey = `${semester.value}_${courseFilterParams.value.department}`;
+    const targetGeneralKey = `${semester.value}_general`;
 
     try {
-        const cachedCourse = (await getItem(targetCourseKey)).filter(
+        const cachedCourse = (await getItem(targetDepartmentKey)).filter(
             (c) => c !== null
         );
-        if (cachedCourse) {
+        const cachedGeneralCourse = (await getItem(targetGeneralKey)).filter(
+            (c) => c !== null
+        );
+        if (cachedCourse && cachedGeneralCourse) {
             console.log("courses from cache");
-            return cachedCourse;
+            return [cachedCourse, cachedGeneralCourse];
         }
     } catch (err) {
         console.error(`Error reading from cache: ${err}`);
@@ -88,15 +92,63 @@ const fetchCourses = async () => {
         }
 
         console.log("courses from api");
-        return (await getItem(targetCourseKey)).filter((c) => c !== null);
+        const departmentCourses = (await getItem(targetDepartmentKey)).filter(
+            (c) => c !== null
+        );
+        const generalCourses = (await getItem(targetGeneralKey)).filter(
+            (c) => c !== null
+        );
+        return [departmentCourses, generalCourses];
     } catch (err) {
         console.error(`Error fetching courses: ${err}`);
         throw err;
     }
 };
 
-const filterCourses = (courses) => {
-    if (!courses) return [];
+const getGeneralField = (dept) => {
+    const scienceDepts = [
+        "ee",
+        "mech",
+        "eecs",
+        "oe",
+        "csie",
+        "chem",
+        "bio",
+        "ic",
+        "vc",
+        "mes",
+        "cpd",
+        "pmi",
+    ];
+    const humanitiesDepts = [
+        "imi",
+        "ib",
+        "fin",
+        "ba",
+        "mis",
+        "accinfo",
+        "leisure",
+        "mim",
+        "hm",
+        "english",
+        "japan",
+        "childcare",
+        "ss",
+    ];
+    const type = {
+        science: ["人文藝術領域", "社會科學領域", "綜合實踐領域"],
+        humanities: ["人文藝術領域", "自然科學領域", "綜合實踐領域"],
+        all: ["人文藝術領域", "社會科學領域", "自然科學領域", "綜合實踐領域"],
+    };
+    return scienceDepts.includes(dept)
+        ? type.science
+        : humanitiesDepts.includes(dept)
+        ? type.humanities
+        : type.all;
+};
+
+const filterCourses = ([deptCourses, genCourses]) => {
+    if (!deptCourses) return [];
 
     const typeMap = {
         compulsory: "必修",
@@ -157,11 +209,13 @@ const filterCourses = (courses) => {
 
     const timeFilterRegex = new RegExp(timePattern);
 
-    return courses
+    const coursesFiltered = deptCourses
         .filter((course) => {
+            // Filter by course type
             return typeFilterRegex.test(course.type);
         })
         .filter((course) => {
+            // Filter by grade
             // Regex: (?<!^)(一|二|三|四|五)
 
             const isGradeMatch = course.classes.some((classItem) =>
@@ -171,6 +225,7 @@ const filterCourses = (courses) => {
             return isGradeMatch;
         })
         .filter((course) => {
+            // Filter by time
             // Regex: (?<=一)[\s\d]+\b(1|2|3|4|5|6|7|8|9|10|11|12|13|14)\b
             // Regex: (?<=二)[\s\d]+\b(1|2|3|4|5|6|7|8|9|10|11|12|13|14)\b
             // Regex: (?<=三)[\s\d]+\b(1|2|3|4|5|6|7|8|9|10|11|12|13|14)\b
@@ -181,25 +236,52 @@ const filterCourses = (courses) => {
             return timeFilterRegex.test(course.schedule);
         })
         .filter((course) => {
+            // Filter by school system
             // courseFilterParams.value.schoolSystem;
 
             return true;
         })
         .map((course) => {
+            // Filter by class
             course.classes =
                 course.classes.length > 1
                     ? `${course.classes[0].trim()}等合開`
                     : course.classes[0];
             return course;
         });
+
+    const isGeneral = courseFilterParams.value.courseType.some(
+        (type) => type === "general"
+    );
+    const fieldTypePattern = getGeneralField(
+        courseFilterParams.value.department
+    ).join("|");
+    const fieldTypeRegex = new RegExp(`${fieldTypePattern}`);
+
+    const generalCoursesFiltered = isGeneral
+        ? genCourses
+              .filter((course) =>
+                  course.classes.some((field) => fieldTypeRegex.test(field))
+              )
+              .filter((course) => timeFilterRegex.test(course.schedule))
+              .map((course) => {
+                  course.classes = course.classes.toString();
+                  return course;
+              })
+        : [];
+
+    return [coursesFiltered, generalCoursesFiltered];
 };
 
 watch(
     [semester, courseFilterParams],
     async () => {
-        const courseData = await fetchCourses();
-        const courseDataFiltered = filterCourses(courseData);
-        courses.value = courseDataFiltered;
+        const [departmentCourses, generalCourses] = await fetchCourses();
+        const [deptCoursesFiltered, genCoursesFiltered] = filterCourses([
+            departmentCourses,
+            generalCourses,
+        ]);
+        courses.value = [...deptCoursesFiltered, ...genCoursesFiltered];
     },
     {
         immediate: true,
