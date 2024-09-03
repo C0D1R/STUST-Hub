@@ -11,7 +11,8 @@ export default defineNuxtConfig({
   },
   modules: [
     '@nuxtjs/color-mode',
-    '@pinia/nuxt'
+    '@pinia/nuxt',
+    'nuxt-gtag'
   ],
   colorMode: {
     preference: 'system', // default value of $colorMode.preference
@@ -25,5 +26,8 @@ export default defineNuxtConfig({
     plugins: [
       'plugins/mongoose.js'
     ]
-  }
+  },
+  gtag: {
+    id: process.env.NUXT_PUBLIC_GTAG_ID
+  },
 })
