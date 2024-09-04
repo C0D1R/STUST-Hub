@@ -22,7 +22,8 @@
 </template>
 
 <script setup>
-import { CountTo } from "vue3-count-to";
+import CountToPackage from "vue3-count-to";
+const { CountTo } = CountToPackage;
 
 const stats = {
     department: {
