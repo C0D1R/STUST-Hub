@@ -43,6 +43,14 @@ const courseCode = route.params.courseCode;
 
 const { data: course } = useFetch(`/api/course/${year}/${sem}/${courseCode}`);
 
+watchEffect(() => {
+    useHead({
+        title: course.value
+            ? `${course.value.name.zh} | STUST HUB`
+            : "課程詳情 | STUST HUB",
+    });
+});
+
 const styles = {
     courseNameContainer: [],
     courseNameZh: [],
