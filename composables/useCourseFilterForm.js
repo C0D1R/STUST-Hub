@@ -269,13 +269,13 @@ export const useCourseFilterForm = () => {
                     "id": "elective",
                     "value": "elective",
                     "context": "選修",
-                    "checked": false
+                    "checked": true
                 },
                 {
                     "id": "general",
                     "value": "general",
                     "context": "通識",
-                    "checked": false
+                    "checked": true
                 }
             ]
         },
@@ -289,7 +289,7 @@ export const useCourseFilterForm = () => {
                     "id": "first",
                     "value": "first",
                     "context": "一年級",
-                    "checked": true
+                    "checked": false
                 },
                 {
                     "id": "second",
