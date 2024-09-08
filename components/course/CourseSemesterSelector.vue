@@ -9,13 +9,13 @@
         <div
             v-show="isMenuOpen"
             @click="closeMenu"
-            class="fixed inset-0 bg-black/50"
+            class="z-10 fixed inset-0 bg-black/50"
         />
         <section
             v-show="isMenuOpen"
             @click="handleOptionClick"
             :class="[
-                'max-w-screen-md fixed inset-x-0 mx-3 bg-gray-800 border dark:border-gray-100/15 rounded-lg grid grid-cols-1 px-4 pt-2 pb-4 gap-y-2',
+                'z-10 max-w-screen-md fixed inset-x-0 mx-3 bg-gray-800 border dark:border-gray-100/15 rounded-lg grid grid-cols-1 px-4 pt-2 pb-4 gap-y-2',
                 'sm:grid-cols-3 sm:gap-x-2 sm:mx-5',
                 'md:mx-auto',
             ]"
