@@ -25,14 +25,14 @@
                             stroke-linejoin="round"
                             stroke-width="2"
                             d="M4 6h16M4 12h16M4 18h16"
-                        ></path>
+                        />
                     </svg>
                 </button>
             </div>
 
             <nav
                 v-show="isMenuOpen"
-                class="z-20 fixed inset-0 bg-gray-800 px-2 lg:static lg:!block"
+                class="z-10 fixed inset-0 bg-gray-800 px-2 lg:static lg:!block"
             >
                 <div
                     class="flex flex-row-reverse gap-x-2 py-2 justify-end lg:hidden"
@@ -93,6 +93,7 @@ const { year, sem } = storeToRefs(courseSemesterStore);
 const baseCourseUrl = computed(() => `/course/${year.value}/${sem.value}`);
 const links = computed(() => {
     return [
+        { text: "選課資訊", to: `${baseCourseUrl.value}/selection-info` },
         { text: "搜尋課程", to: `${baseCourseUrl.value}/search` },
         { text: "班級探索", to: `${baseCourseUrl.value}/class` },
         { text: "教師探索", to: `${baseCourseUrl.value}/instructor` },
