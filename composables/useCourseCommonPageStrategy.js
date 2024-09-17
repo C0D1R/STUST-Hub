@@ -8,11 +8,19 @@ export const useCourseCommonPageStrategy = () => {
 
     const fetchCourses = async () => {
         const coursesKey = semester.value;
+        const cacheExpirationKey = `${semester.value}_expiration`;
 
         try {
             const cachedCourses = await getItem(coursesKey);
+            
+            const cachedExpirationTime = await getItem(cacheExpirationKey);
+            const currentTime = new Date().getTime();
 
-            if (cachedCourses) {
+            if (
+                cachedCourses &&
+                cachedExpirationTime &&
+                currentTime < cachedExpirationTime
+            ) {
                 console.log("courses from cache");
                 return cachedCourses;
             }
@@ -28,6 +36,10 @@ export const useCourseCommonPageStrategy = () => {
     
             try {
                 if (courseData) {
+                    const oneDay = 1000 * 60 * 60 * 24;
+                    const expirationTime = new Date().getTime() + oneDay;
+                    await setItem(cacheExpirationKey, expirationTime);
+
                     for (const dept of courseData) {
                         await setItem(
                             dept.id,

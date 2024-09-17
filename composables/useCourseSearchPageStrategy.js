@@ -52,12 +52,21 @@ export const useCourseSearchPageStrategy = () => {
     const fetchCourses = async () => {
         const targetDepartmentKey = `${semester.value}_${courseFilterParams.value.department}`;
         const targetGeneralKey = `${semester.value}_general`;
+        const cacheExpirationKey = `${semester.value}_expiration`;
     
         try {
             const cachedCourse = await getItem(targetDepartmentKey);
             const cachedGeneralCourse = await getItem(targetGeneralKey);
+            
+            const cachedExpirationTime = await getItem(cacheExpirationKey);
+            const currentTime = new Date().getTime();
 
-            if (cachedCourse && cachedGeneralCourse) {
+            if (
+                cachedCourse &&
+                cachedGeneralCourse &&
+                cachedExpirationTime &&
+                currentTime < cachedExpirationTime
+            ) {
                 console.log("department courses from cache");
                 return [cachedCourse, cachedGeneralCourse];
             }
@@ -71,6 +80,10 @@ export const useCourseSearchPageStrategy = () => {
     
             try {
                 if (courseData) {
+                    const oneDay = 1000 * 60 * 60 * 24;
+                    const expirationTime = new Date().getTime() + oneDay;
+                    await setItem(cacheExpirationKey, expirationTime);
+
                     for (const dept of courseData) {
                         await setItem(
                             dept.id,
