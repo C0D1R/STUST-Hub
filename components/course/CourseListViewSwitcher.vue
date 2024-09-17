@@ -36,7 +36,7 @@ const viewModes = {
 
 const styles = computed(() => ({
     UIModeContainer: [
-        "mb-4 grid grid-cols-2 overflow-hidden rounded-lg border border-blue-500 bg-white text-center text-blue-500",
+        "grid grid-cols-2 overflow-hidden rounded-lg border border-blue-500 bg-white text-center text-blue-500",
     ],
     UIModeLabel: [
         "py-1.5",
