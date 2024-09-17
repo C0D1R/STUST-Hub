@@ -24,3 +24,18 @@
         <CourseStatsSummary />
     </div>
 </template>
+
+<script setup>
+useHead({
+    // title: "STUST HUB",
+});
+
+useSeoMeta({
+    title: "STUST HUB",
+    ogTitle: "STUST HUB",
+    description:
+        "STUST HUB 是由南台科大學生建立的資訊平台，提供南台科技大學裡各科系的最新課程資料與選課資訊。",
+    ogDescription:
+        "STUST HUB 是由南台科大學生建立的資訊平台，提供南台科技大學裡各科系的最新課程資料與選課資訊。",
+});
+</script>
