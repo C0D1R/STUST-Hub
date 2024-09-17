@@ -44,16 +44,20 @@ const courseCode = route.params.courseCode;
 const { data: course } = useFetch(`/api/course/${year}/${sem}/${courseCode}`);
 
 watchEffect(() => {
+    const courseTitle = course.value
+        ? `${course.value.name.zh} | STUST HUB`
+        : "課程詳情 | STUST HUB";
+    const courseDescription = course.value ? course.value.description : "";
+
     useHead({
-        title: course.value
-            ? `${course.value.name.zh} | STUST HUB`
-            : "課程詳情 | STUST HUB",
+        // title: courseTitle,
+    });
+
+    useSeoMeta({
+        title: courseTitle,
+        ogTitle: courseTitle,
+        description: courseDescription,
+        ogDescription: courseDescription,
     });
 });
-
-const styles = {
-    courseNameContainer: [],
-    courseNameZh: [],
-    courseNameEn: [],
-};
 </script>
