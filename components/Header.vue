@@ -97,7 +97,7 @@ const links = computed(() => {
         { text: "搜尋課程", to: `${baseCourseUrl.value}/search` },
         { text: "班級探索", to: `${baseCourseUrl.value}/class` },
         { text: "教師探索", to: `${baseCourseUrl.value}/instructor` },
-        { text: "課程探索", to: `${baseCourseUrl.value}/language` },
+        { text: "語言探索", to: `${baseCourseUrl.value}/language` },
         { text: "地點探索", to: `${baseCourseUrl.value}/location` },
         { text: "時間探索", to: `${baseCourseUrl.value}/schedule` },
 
