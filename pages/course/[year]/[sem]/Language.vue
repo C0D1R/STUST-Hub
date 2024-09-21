@@ -15,6 +15,8 @@
 </template>
 
 <script setup>
+const route = useRoute();
+
 useSeoMeta({
     title: `語言探索 | STUST HUB`,
     ogTitle: `語言探索 | STUST HUB`,
@@ -32,8 +34,6 @@ const languages = ref([
     "西班牙語",
 ]);
 
-const route = useRoute();
-console.log(route);
 const links = computed(() =>
     languages.value.map((language) => ({
         text: language,
