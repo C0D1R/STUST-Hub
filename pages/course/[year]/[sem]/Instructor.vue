@@ -15,6 +15,8 @@
 </template>
 
 <script setup>
+const route = useRoute();
+
 useSeoMeta({
     title: `教師探索 | STUST HUB`,
     ogTitle: `教師探索 | STUST HUB`,
@@ -790,7 +792,6 @@ const instructors = ref([
     "張序槐",
 ]);
 
-const route = useRoute();
 const links = computed(() =>
     instructors.value.map((instructor) => ({
         text: instructor,

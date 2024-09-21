@@ -15,6 +15,8 @@
 </template>
 
 <script setup>
+const route = useRoute();
+
 useSeoMeta({
     title: `班級探索 | STUST HUB`,
     ogTitle: `班級探索 | STUST HUB`,
@@ -458,7 +460,6 @@ const classes = ref([
     "夜二技高福三甲",
 ]);
 
-const route = useRoute();
 const links = computed(() =>
     classes.value.map((classItem) => ({
         text: classItem,
