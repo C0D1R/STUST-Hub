@@ -87,7 +87,7 @@ export const useCourseSearchPageStrategy = () => {
                     for (const dept of courseData) {
                         await setItem(
                             dept.id,
-                            dept.courses.filter((c) => c !== null)
+                            dept.courses
                         );
                     }
     
@@ -97,7 +97,6 @@ export const useCourseSearchPageStrategy = () => {
                             new Map(
                                 courseData
                                     .flatMap((dept) => dept.courses)
-                                    .filter((c) => c !== null)
                                     .map((course) => [course.code, course])
                             ).values()
                         )
