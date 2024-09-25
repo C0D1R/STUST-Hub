@@ -30,6 +30,6 @@ const stats = {
 };
 
 const statsText = computed(() => {
-    return `你可以在這裡找到南臺科技大學各科系的最新課程資訊，這些課程資訊包括南臺科技大學每一個科系的課程內容與詳細資料，涵蓋了大學裡所開設的 ${stats.department.count} 個科系、並且包含該學期校園裡的 ${stats.courseCount.count} 門課程。`;
+    return `你可以在這裡找到南台科技大學各科系的最新課程內容與選課資訊，這些課程內容與選課資訊涵蓋了南台科技大學裡所開設的 ${stats.department.count} 個科系、並且包含該學期校園裡的 ${stats.courseCount.count} 門課程。`;
 });
 </script>
