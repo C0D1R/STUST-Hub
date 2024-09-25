@@ -12,7 +12,7 @@ export const useCourseCommonPageStrategy = () => {
 
         try {
             const cachedCourses = await getItem(coursesKey);
-            
+
             const cachedExpirationTime = await getItem(cacheExpirationKey);
             const currentTime = new Date().getTime();
 
@@ -24,8 +24,6 @@ export const useCourseCommonPageStrategy = () => {
                 console.log("courses from cache");
                 return cachedCourses;
             }
-
-            
         } catch (_) {}
     
         try {
@@ -43,7 +41,7 @@ export const useCourseCommonPageStrategy = () => {
                     for (const dept of courseData) {
                         await setItem(
                             dept.id,
-                            dept.courses.filter((c) => c !== null)
+                            dept.courses
                         );
                     }
     
@@ -53,7 +51,6 @@ export const useCourseCommonPageStrategy = () => {
                             new Map(
                                 courseData
                                     .flatMap((dept) => dept.courses)
-                                    .filter((c) => c !== null)
                                     .map((course) => [course.code, course])
                             ).values()
                         )
