@@ -25,7 +25,11 @@ export default defineNuxtConfig({
   nitro: {
     plugins: [
       'plugins/mongoose.js'
-    ]
+    ],
+    prerender: {
+      crawlLinks: true,
+      routes: ['/']
+    }
   },
   gtag: {
     id: process.env.NUXT_PUBLIC_GTAG_ID
